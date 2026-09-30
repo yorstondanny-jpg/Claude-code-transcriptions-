@@ -23,6 +23,7 @@ import subprocess
 import sys
 import time
 import urllib.request
+from urllib.parse import urljoin
 from pathlib import Path
 
 import numpy as np
@@ -55,25 +56,36 @@ def fetch(url, dest=None):
 
 # --------------------------------------------------------------------------- sources
 
+def transcript_link(html, case):
+    """First link to this case's argument transcript PDF, e.g. 14-275_2b8e.pdf or 11-626.pdf."""
+    pat = r"""['"]([^'"]*argument_transcripts/[^'"]*/%s(?:_[^'"/]*)?\.pdf)['"]""" % re.escape(case)
+    m = re.search(pat, html)
+    return m.group(1) if m else None
+
+
 def find_sources(case, year, pdf_url=None, mp3_url=None):
+    """The MP3 comes from the case's audio page. The transcript PDF comes from the same page,
+    or failing that from the term's transcript listing, where the PDF name can carry a suffix
+    that can't be guessed (14-275_2b8e.pdf)."""
     page_url = f"{SCOTUS}/oral_arguments/audio/{year}/{case}"
+    list_url = f"{SCOTUS}/oral_arguments/argument_transcript/{year}"
     if not (pdf_url and mp3_url):
         html = fetch(page_url).decode("utf-8", "replace")
         if not mp3_url:
             m = re.search(r"""['"]([^'"]*/mp3files/[^'"]*\.mp3)['"]""", html)
             if not m:
                 sys.exit(f"No MP3 link on {page_url}; pass --mp3-url (oyez.org has copies)")
-            mp3_url = m.group(1)
+            mp3_url = urljoin(page_url, m.group(1))
         if not pdf_url:
-            m = re.search(r"""['"]([^'"]*argument_transcripts/[^'"]*\.pdf)['"]""", html)
-            if not m:
-                sys.exit(f"No transcript link on {page_url}; pass --pdf-url")
-            pdf_url = m.group(1)
-    if mp3_url.startswith("/"):
-        mp3_url = SCOTUS + mp3_url
-    if pdf_url.startswith("/"):
-        pdf_url = SCOTUS + pdf_url
-    return page_url, mp3_url, pdf_url
+            link = transcript_link(html, case)
+            base = page_url
+            if not link:
+                log(f"No transcript link on {page_url}, trying {list_url}")
+                link, base = transcript_link(fetch(list_url).decode("utf-8", "replace"), case), list_url
+            if not link:
+                sys.exit(f"No transcript link for {case} on {page_url} or {list_url}; pass --pdf-url")
+            pdf_url = urljoin(base, link)
+    return page_url, urljoin(SCOTUS + "/", mp3_url), urljoin(SCOTUS + "/", pdf_url)
 
 
 def prepare_audio(src, dest):
@@ -143,10 +155,15 @@ def parse_transcript(pdf):
     start = next(i for i, l in enumerate(lines) if l.startswith("P R O C E E D I N G S"))
     end = next(i for i, l in enumerate(lines) if l.startswith("(Whereupon"))
     turns = []
+    in_heading = False  # headings can run over several all-caps lines ("FOR UNITED STATES, AS ...")
     for line in lines[start + 1:end]:
         if SECTION_RE.match(line) or TIME_RE.match(line):
+            in_heading = True
             continue
         m = SPEAKER_RE.match(line)
+        if in_heading and not m and line == line.upper():
+            continue
+        in_heading = False
         if m:
             turns.append({"speaker": m.group(1).upper(), "text": m.group(2)})
         elif turns:
