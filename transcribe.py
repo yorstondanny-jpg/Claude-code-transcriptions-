@@ -133,13 +133,25 @@ def run_asr(audio, model_name, cache):
 
 # --------------------------------------------------------------------------- official transcript
 
+BOILERPLATE_RE = re.compile(r"^(Official( - Subject to Final Review)?|.* Reporting (Company|Corporation)"
+                            r"|.*www\.\S+\.com.*)$", re.I)
+
+
 def clean_pdf_lines(text):
-    """pdftotext -layout output -> list of body text lines, boilerplate removed."""
-    text = text.replace("­", "-")  # the PDFs use soft hyphens for every hyphen/dash
+    """pdftotext -layout output -> list of body text lines, boilerplate removed. Page headers and
+    footers are caught by pattern and, for reporters not seen before, by repetition: a line that
+    appears on at least half the pages is page furniture, not speech."""
+    text = text.replace("\u00ad", "-")  # the PDFs use soft hyphens for every hyphen/dash
+    pages = max(1, text.count("\f"))
+    raw_lines = [r.replace("\f", "").strip() for r in text.splitlines()]
+    counts = {}
+    for r in raw_lines:
+        if r and not r.isdigit():
+            counts[r] = counts.get(r, 0) + 1
+    repeated = {r for r, c in counts.items() if c >= max(5, pages // 2)}
     out = []
-    for raw in text.splitlines():
-        line = raw.replace("\f", "").strip()
-        if not line or line in ("Official", "Alderson Reporting Company"):
+    for line in raw_lines:
+        if not line or line in repeated or BOILERPLATE_RE.match(line):
             continue
         line = re.sub(r"^\d{1,2}(\s+|$)", "", line)  # transcript line number / page number
         line = re.sub(r"\s+", " ", line).strip()
@@ -299,7 +311,29 @@ def loudness(audio):
     db = 20 * np.log10(np.sqrt((x[: nf * h].reshape(nf, h) ** 2).mean(axis=1) + 1e-12))
     floor = float(np.percentile(db, 20))
     silence = float(np.percentile(db, 5))
-    return db, floor, db > floor + 12, db > silence + 12
+    return db, floor, db > floor + 12, db > silence + 12, silence
+
+
+def rank_pauses(official, db, silence, min_gap=0.4, edge=0.1, hop=HOP):
+    """Every gap of min_gap s or more between consecutive official words, with the room's
+    loudness inside it (energy mean and peak, edge s trimmed off each side against word bleed)
+    in dB over the silence level. Loudest first."""
+    spoken = [o for o in official if o["w"] != LAUGH]
+    pauses = []
+    for k in range(1, len(spoken)):
+        g0, g1 = spoken[k - 1]["e"], spoken[k]["s"]
+        if g1 - g0 < min_gap:
+            continue
+        i0, i1 = int(np.ceil((g0 + edge) / hop)), min(int((g1 - edge) / hop), len(db))
+        if i1 <= i0:
+            continue
+        seg = db[i0:i1]
+        mean = 10 * np.log10(np.mean(10 ** (seg / 10)))
+        pauses.append({"s": g0, "e": g1, "k": k, "over": round(float(mean - silence), 1),
+                       "peak_over": round(float(seg.max() - silence), 1),
+                       "loud_s": round(float((seg > silence + 12).sum() * hop), 2)})
+    pauses.sort(key=lambda p: p["over"], reverse=True)
+    return pauses, [o["w"] for o in spoken]
 
 
 def voiced_runs(voiced, s, e, bridge=0.25):
@@ -443,7 +477,7 @@ def main():
 
     turns = parse_transcript(pdf)
     log(f"Official transcript: {len(turns)} speaker turns")
-    db, floor, loud, voiced = loudness(mp3)
+    db, floor, loud, voiced, silence = loudness(mp3)
     official, matched, n_spoken, shared, clamped, trimmed = build_words(turns, asr_words, duration, voiced)
     match_rate = 100.0 * matched / n_spoken
     log(f"Matched {matched}/{n_spoken} official words ({match_rate:.2f}%)")
@@ -470,6 +504,8 @@ def main():
     md = [f"# Laughter: {args.case}", "",
           "## (Laughter.) in the official transcript", "",
           "Time is the end of the word before the marker. The 25 official words before it follow.", ""]
+    if not laugh_times:
+        md += ["None: this transcript has no (Laughter.) markers.", ""]
     for i, o in enumerate(official):
         if o["w"] != LAUGH:
             continue
@@ -497,6 +533,23 @@ def main():
         for b in sorted(long_bursts, key=lambda b: b["s"]):
             md.append(f"| {fmt_ts(b['s'])} | {fmt_ts(b['e'])} | {b['s']:.3f} | {b['e']:.3f} | "
                       f"{b['dur']:.2f} | {b['mean_db']} | {near(b)} | {overlap(b)} |")
+    pauses, spoken_words = rank_pauses(official, db, silence)
+    md += ["", "## Every pause of 0.4 s or more, loudest room first", "",
+           f"Gaps of 0.4 s or more between consecutive official words, ranked by how loud the room "
+           f"is inside the gap: energy mean (and peak) of 50 ms frames, 0.1 s trimmed off each side, "
+           f"in dB over the silence level ({silence:.1f} dBFS, the quietest 5% of the recording). "
+           "A laugh shows up as a loud pause; a quiet one is a real silence. \"Loud s\" is how many "
+           "seconds of the pause are 12 dB or more over the floor: a short loud pause is often "
+           "cross-talk the ASR missed, a long loud one is more likely laughter. Laughs that overlap "
+           "speech leave no pause and can't appear here. \"Marker\" shows a transcript (Laughter.) "
+           "inside the pause. The words are the 20 official words before the pause.", "",
+           "| rank | start | end | start (s) | end (s) | length (s) | dB over floor | peak over floor | loud s | marker | 20 words before |",
+           "|---|---|---|---|---|---|---|---|---|---|---|"]
+    for r, pz in enumerate(pauses, 1):
+        before = " ".join(spoken_words[max(0, pz["k"] - 20):pz["k"]]).replace("|", "\\|")
+        marker = "(Laughter.)" if any(pz["s"] - 0.01 <= t <= pz["e"] for t in laugh_times) else ""
+        md.append(f"| {r} | {fmt_ts(pz['s'])} | {fmt_ts(pz['e'])} | {pz['s']:.3f} | {pz['e']:.3f} | "
+                  f"{pz['e'] - pz['s']:.2f} | {pz['over']} | {pz['peak_over']} | {pz['loud_s']:.2f} | {marker} | {before} |")
     (root / "laughs.md").write_text("\n".join(md) + "\n")
 
     checks = sanity_checks(words_out, match_rate)
@@ -510,7 +563,7 @@ def main():
         "asr_elapsed_s": asr.get("elapsed_s"), "asr_words": len(asr_words),
         "official_words": n_spoken, "matched": matched, "shared": shared, "clamped": clamped, "trimmed": trimmed, "match_rate": match_rate,
         "turns": len(lines), "laugh_markers": sum(o["w"] == LAUGH for o in official),
-        "mp3_bytes": mp3.stat().st_size, "checks": checks,
+        "mp3_bytes": mp3.stat().st_size, "pauses": len(pauses), "checks": checks,
         "generated": datetime.date.today().isoformat(),
     }
     (work / "stats.json").write_text(json.dumps(stats, indent=1) + "\n")
@@ -571,8 +624,9 @@ small gap between the ASR words either side. Their order is right; their exact t
   `(Laughter.)` markers are included as entries of their own, running from the end of the word
   before to the start of the word after.
 - `lines.json`: one entry per speaker turn, `{{"speaker", "s", "e", "text"}}`.
-- `laughs.md`: each `(Laughter.)` with its time and the 25 words before it, then the 10 loudest
-  sub-2-second bursts outside speech.
+- `laughs.md`: each `(Laughter.)` with its time and the 25 words before it, the 10 loudest
+  sub-2-second bursts outside speech, and every pause of 0.4 s or more ranked by how loud the
+  room is, with the 20 words before it.
 - `work/`: the raw ASR output (`asr_*.json`), the transcript PDF and run stats, kept so the
   alignment can be re-run without re-transcribing.
 

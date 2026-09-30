@@ -37,8 +37,9 @@ small gap between the ASR words either side. Their order is right; their exact t
   `(Laughter.)` markers are included as entries of their own, running from the end of the word
   before to the start of the word after.
 - `lines.json`: one entry per speaker turn, `{"speaker", "s", "e", "text"}`.
-- `laughs.md`: each `(Laughter.)` with its time and the 25 words before it, then the 10 loudest
-  sub-2-second bursts outside speech.
+- `laughs.md`: each `(Laughter.)` with its time and the 25 words before it, the 10 loudest
+  sub-2-second bursts outside speech, and every pause of 0.4 s or more ranked by how loud the
+  room is, with the 20 words before it.
 - `work/`: the raw ASR output (`asr_*.json`), the transcript PDF and run stats, kept so the
   alignment can be re-run without re-transcribing.
 

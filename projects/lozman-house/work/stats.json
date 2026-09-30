@@ -17,6 +17,7 @@
  "turns": 227,
  "laugh_markers": 2,
  "mp3_bytes": 28503397,
+ "pauses": 308,
  "checks": {
   "time_order": {
    "ok": true,
