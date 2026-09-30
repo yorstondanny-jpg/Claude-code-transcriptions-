@@ -24,6 +24,5 @@ spring 2015 is term 2014. The script finds the MP3 and transcript PDF on that pa
 `--mp3-url` or `--pdf-url` to override either (for example with an oyez.org MP3), and
 `--model small.en` if medium.en is too slow. It exits non-zero if a sanity check fails.
 
-medium.en on a 4-core CPU runs at about 1.3x realtime, so an hour of argument takes about
-45 minutes. The raw ASR is cached in `projects/<name>/work/`, so re-running only redoes the
+medium.en on a 4-core CPU runs at about realtime: the 61-minute Horne argument took 59 minutes. The raw ASR is cached in `projects/<name>/work/`, so re-running only redoes the
 alignment.

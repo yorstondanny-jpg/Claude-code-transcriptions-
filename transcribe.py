@@ -181,13 +181,20 @@ def norm(w):
 
 # --------------------------------------------------------------------------- alignment
 
+STRETCH_S = 1.5  # an ASR word this long next to squeezed missed words has swallowed their audio
+MIN_ROOM_S = 0.06  # per missed word; less than this counts as squeezed
+
+
 def align(official, asr, duration):
     """official: list of dicts with "w"; asr: list of dicts with w/s/e.
-    Returns per-official-word (s, e) and the number of official words matched to ASR words."""
+    Returns per-official-word (s, e), the number of official words matched to ASR words,
+    and the number of matched words whose span was shared with squeezed missed words."""
     a = [norm(w["w"]) for w in official]
     b = [norm(w["w"]) for w in asr]
     sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
     times = [None] * len(a)
+    is_match = [False] * len(a)
+    missed_runs = []
     matched = 0
 
     def spread(i1, i2, s, e):
@@ -200,6 +207,7 @@ def align(official, asr, duration):
         if op == "equal":
             for k in range(i2 - i1):
                 times[i1 + k] = (asr[j1 + k]["s"], asr[j1 + k]["e"])
+                is_match[i1 + k] = True
             matched += i2 - i1
         elif op == "replace":
             spread(i1, i2, asr[j1]["s"], asr[j2 - 1]["e"])
@@ -210,7 +218,23 @@ def align(official, asr, duration):
             s = asr[j1 - 1]["e"] if j1 > 0 else 0.0
             e = asr[j1]["s"] if j1 < len(asr) else duration
             spread(i1, i2, s, e)
-    return times, matched
+            missed_runs.append((i1, i2))
+
+    # Whisper sometimes drops a stretch of speech and stretches the neighbouring word over it.
+    # When missed words have no room and a neighbour is stretched, they share its span.
+    shared = 0
+    for i1, i2 in missed_runs:
+        s, e = times[i1][0], times[i2 - 1][1]
+        if e - s >= MIN_ROOM_S * (i2 - i1):
+            continue
+        nxt, prv = i2, i1 - 1
+        if nxt < len(a) and is_match[nxt] and times[nxt][1] - times[nxt][0] > STRETCH_S:
+            spread(i1, nxt + 1, s, times[nxt][1])
+            shared += 1
+        elif prv >= 0 and is_match[prv] and times[prv][1] - times[prv][0] > STRETCH_S:
+            spread(prv, i2, times[prv][0], e)
+            shared += 1
+    return times, matched, shared
 
 
 def build_words(turns, asr_words, duration):
@@ -219,12 +243,13 @@ def build_words(turns, asr_words, duration):
         for tok in tokenize_turn(t["text"]):
             official.append({"w": tok, "speaker": t["speaker"], "turn": ti})
     spoken = [o for o in official if o["w"] != LAUGH]
-    times, matched = align(spoken, asr_words, duration)
+    times, matched, shared = align(spoken, asr_words, duration)
     for o, (s, e) in zip(spoken, times):
         o["s"], o["e"] = round(s, 3), round(e, 3)
     # enforce monotonic order (spread words can only touch the matched words around them)
-    last = 0.0
+    last, clamped = 0.0, 0
     for o in spoken:
+        clamped += o["s"] < last
         o["s"] = max(o["s"], last)
         o["e"] = max(o["e"], o["s"])
         last = o["s"]
@@ -235,44 +260,48 @@ def build_words(turns, asr_words, duration):
             nxt = next((official[k] for k in range(i + 1, len(official)) if official[k]["w"] != LAUGH), None)
             o["s"] = prev["e"] if prev else 0.0
             o["e"] = max(nxt["s"], o["s"]) if nxt else round(duration, 3)
-    return official, matched, len(spoken)
+    return official, matched, len(spoken), shared, clamped
 
 
 # --------------------------------------------------------------------------- laughs
 
 def loud_bursts(audio, asr_words, n=10, max_len=2.0, hop=0.05):
-    """Loudest short (<2 s) energy bursts that fall outside every ASR word interval."""
+    """Loud stretches inside real pauses between ASR words (gaps of 0.4 s or more, with 0.1 s
+    trimmed off each edge so word onsets and tails don't count). Returns the n loudest that
+    last 0.3 s to max_len, the ones that run max_len or longer, and the room floor in dBFS."""
     sr = 16000
     pcm = subprocess.run(["ffmpeg", "-v", "error", "-i", str(audio), "-ac", "1", "-ar", str(sr),
                           "-f", "s16le", "-"], capture_output=True, check=True).stdout
     x = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
     h = int(sr * hop)
     nf = len(x) // h
-    rms = np.sqrt((x[: nf * h].reshape(nf, h) ** 2).mean(axis=1) + 1e-12)
-    db = 20 * np.log10(rms)
-    speech = np.zeros(nf, dtype=bool)
-    for w in asr_words:
-        speech[int(w["s"] / hop): int(np.ceil(w["e"] / hop)) + 1] = True
-    floor = np.percentile(db, 20)
-    thresh = floor + 12  # 12 dB above the room's quiet level
-    loud = (db > thresh) & ~speech
-    bursts, i = [], 0
-    while i < nf:
-        if loud[i]:
+    db = 20 * np.log10(np.sqrt((x[: nf * h].reshape(nf, h) ** 2).mean(axis=1) + 1e-12))
+    floor = float(np.percentile(db, 20))
+    loud = db > floor + 12  # 12 dB above the room's quiet level
+    edges = [0.0] + [t for w in asr_words for t in (w["s"], w["e"])] + [nf * hop]
+    short, long_ = [], []
+    for g0, g1 in zip(edges[0::2], edges[1::2]):
+        if g1 - g0 < 0.4:
+            continue
+        i, end = int(np.ceil((g0 + 0.1) / hop)), int((g1 - 0.1) / hop)
+        while i < end:
+            if not loud[i]:
+                i += 1
+                continue
             j = i
-            while j < nf and loud[j]:
+            while j < end and loud[j]:
                 j += 1
             dur = (j - i) * hop
-            # must be bounded by non-speech on both sides, i.e. not a clipped word edge
-            if 0.15 <= dur < max_len:
-                bursts.append({"s": round(i * hop, 3), "e": round(j * hop, 3), "dur": round(dur, 2),
-                               "peak_db": round(float(db[i:j].max()), 1),
-                               "mean_db": round(float(db[i:j].mean()), 1)})
+            burst = {"s": round(i * hop, 3), "e": round(j * hop, 3), "dur": round(dur, 2),
+                     "peak_db": round(float(db[i:j].max()), 1),
+                     "mean_db": round(float(db[i:j].mean()), 1)}
+            if dur >= max_len:
+                long_.append(burst)
+            elif dur >= 0.3:
+                short.append(burst)
             i = j
-        else:
-            i += 1
-    bursts.sort(key=lambda b: b["mean_db"], reverse=True)
-    return bursts[:n], round(float(floor), 1)
+    short.sort(key=lambda b: b["mean_db"], reverse=True)
+    return short[:n], long_, round(floor, 1)
 
 
 def fmt_ts(t):
@@ -286,20 +315,24 @@ def fmt_ts(t):
 def sanity_checks(words, match_rate):
     order_bad = [i for i in range(1, len(words)) if words[i]["s"] < words[i - 1]["s"]]
     inverted = [i for i, w in enumerate(words) if w["e"] < w["s"]]
-    long_bad = []
+    long_bad, long_numbers = [], []
     for i, w in enumerate(words):
         if w["w"] == LAUGH:
             continue
         before_laugh = i + 1 < len(words) and words[i + 1]["w"] == LAUGH
         if w["e"] - w["s"] > 3.0 and not before_laugh:
-            long_bad.append(i)
+            # a citation like "989.166(c)" is one official word but takes seconds to say
+            (long_numbers if len(re.findall(r"\d", w["w"])) >= 3 else long_bad).append(i)
+    short = sum(1 for w in words if w["w"] != LAUGH and w["e"] - w["s"] < 0.02)
     return {
         "time_order": {"ok": not order_bad and not inverted,
                        "detail": f"{len(order_bad)} words start before the previous word; "
                                  f"{len(inverted)} words end before they start"},
         "max_duration": {"ok": not long_bad,
                          "detail": f"{len(long_bad)} words longer than 3 s outside laugh positions",
-                         "examples": [(words[i]["w"], words[i]["s"], words[i]["e"]) for i in long_bad[:10]]},
+                         "examples": [(words[i]["w"], words[i]["s"], words[i]["e"]) for i in long_bad[:10]],
+                         "numbers": [(words[i]["w"], words[i]["s"], words[i]["e"]) for i in long_numbers]},
+        "short_words": short,
         "match_rate": {"ok": match_rate > 85.0, "detail": f"{match_rate:.2f}% (threshold 85%)"},
     }
 
@@ -343,7 +376,7 @@ def main():
 
     turns = parse_transcript(pdf)
     log(f"Official transcript: {len(turns)} speaker turns")
-    official, matched, n_spoken = build_words(turns, asr_words, duration)
+    official, matched, n_spoken, shared, clamped = build_words(turns, asr_words, duration)
     match_rate = 100.0 * matched / n_spoken
     log(f"Matched {matched}/{n_spoken} official words ({match_rate:.2f}%)")
 
@@ -361,7 +394,10 @@ def main():
     (root / "lines.json").write_text(json.dumps(lines, indent=1, ensure_ascii=False) + "\n")
 
     # laughs.md
-    bursts, floor = loud_bursts(mp3, asr_words)
+    bursts, long_bursts, floor = loud_bursts(mp3, asr_words)
+    laugh_times = [o["s"] for o in official if o["w"] == LAUGH]
+    near = lambda b: "yes" if any(t - 1 <= b["s"] <= t + 5 for t in laugh_times) else ""
+    overlap = lambda b: sum(1 for o in official if o["w"] != LAUGH and o["s"] < b["e"] and o["e"] > b["s"])
     md = [f"# Laughter: {args.case}", "",
           "## (Laughter.) in the official transcript", "",
           "Time is the end of the word before the marker. The 25 official words before it follow.", ""]
@@ -372,23 +408,38 @@ def main():
         md += [f"### {fmt_ts(o['s'])} ({o['s']:.3f} s), during {o['speaker']}'s turn", "",
                "> " + " ".join(p["w"] for p in before) + " **(Laughter.)**", ""]
     md += ["## Loudest short bursts outside speech (likely laughs)", "",
-           f"Frames of 50 ms at least 12 dB above the room floor ({floor} dBFS), outside every ASR "
-           "word interval, lasting 0.15 to 2 s, ranked by mean loudness.", "",
-           "| # | start | end | start (s) | end (s) | length (s) | mean dBFS | peak dBFS |",
-           "|---|---|---|---|---|---|---|---|"]
+           f"Runs of 50 ms frames at least 12 dB above the room floor ({floor} dBFS), inside pauses "
+           "of 0.4 s or more between ASR words (0.1 s trimmed off each side), lasting 0.3 to 2 s, "
+           "ranked by mean loudness. \"Near marker\" means it starts between 1 s before and 5 s "
+           "after a (Laughter.) time above. \"Official words\" counts official words whose aligned "
+           "time overlaps the burst: these are words the ASR missed, so a burst with a count is more "
+           "likely cross-talk than a laugh. Laughs in court often overlap speech, which the ASR "
+           "then stretches its words over, so this list misses those.", "",
+           "| # | start | end | start (s) | end (s) | length (s) | mean dBFS | peak dBFS | near marker | official words |",
+           "|---|---|---|---|---|---|---|---|---|---|"]
     for k, b in enumerate(bursts, 1):
         md.append(f"| {k} | {fmt_ts(b['s'])} | {fmt_ts(b['e'])} | {b['s']:.3f} | {b['e']:.3f} | "
-                  f"{b['dur']:.2f} | {b['mean_db']} | {b['peak_db']} |")
+                  f"{b['dur']:.2f} | {b['mean_db']} | {b['peak_db']} | {near(b)} | {overlap(b)} |")
+    if long_bursts:
+        md += ["", "## Loud stretches of 2 s or more outside speech", "",
+               "Same test, but too long for the list above. Listed because a long laugh falls here.", "",
+               "| start | end | start (s) | end (s) | length (s) | mean dBFS | near marker | official words |",
+               "|---|---|---|---|---|---|---|---|"]
+        for b in sorted(long_bursts, key=lambda b: b["s"]):
+            md.append(f"| {fmt_ts(b['s'])} | {fmt_ts(b['e'])} | {b['s']:.3f} | {b['e']:.3f} | "
+                      f"{b['dur']:.2f} | {b['mean_db']} | {near(b)} | {overlap(b)} |")
     (root / "laughs.md").write_text("\n".join(md) + "\n")
 
     checks = sanity_checks(words_out, match_rate)
     for k, v in checks.items():
+        if not isinstance(v, dict):
+            continue
         log(f"check {k}: {'PASS' if v['ok'] else 'FAIL'} {v['detail']}")
     stats = {
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
         "pdf_url": pdf_url, "model": args.model, "duration": duration,
         "asr_elapsed_s": asr.get("elapsed_s"), "asr_words": len(asr_words),
-        "official_words": n_spoken, "matched": matched, "match_rate": match_rate,
+        "official_words": n_spoken, "matched": matched, "shared": shared, "clamped": clamped, "match_rate": match_rate,
         "turns": len(lines), "laugh_markers": sum(o["w"] == LAUGH for o in official),
         "mp3_bytes": mp3.stat().st_size, "checks": checks,
         "generated": datetime.date.today().isoformat(),
@@ -396,7 +447,7 @@ def main():
     (work / "stats.json").write_text(json.dumps(stats, indent=1) + "\n")
     write_readme(root, stats)
     log(f"Wrote {root}")
-    if not all(v["ok"] for v in checks.values()):
+    if not all(v["ok"] for v in checks.values() if isinstance(v, dict)):
         sys.exit("Sanity checks failed, see README.md")
 
 
@@ -407,6 +458,11 @@ def write_readme(root, st):
     long_note = ""
     if ex:
         long_note = "\n  Offending words: " + ", ".join(f"\"{w}\" {s:.3f}-{e:.3f}" for w, s, e in ex)
+    nums = c["max_duration"]["numbers"]
+    if nums:
+        long_note += ("\n  Not counted: " + ", ".join(f"`{w}` {s:.3f}-{e:.3f} ({e - s:.2f} s)" for w, s, e in nums)
+                      + ". A citation is one official word but is spoken as several; its time is the real "
+                      "time taken to say it.")
     text = f"""# {root.name}: Supreme Court No. {st['case']}
 
 Word-timed transcript of the oral argument, for video editing. Wording is the official
@@ -421,6 +477,7 @@ transcript's, verbatim; times come from ASR.
 ## Numbers
 
 - ASR model: faster-whisper `{st['model']}`, CPU, int8, `word_timestamps=True`, `vad_filter=False`, beam size 5
+- ASR run time: {st['asr_elapsed_s'] / 60:.0f} min on 4 CPU cores
 - Audio length: {fmt_ts(st['duration'])} ({st['duration']:.3f} s)
 - `audio/argument.mp3`: mono, 64 kbps, {st['mp3_bytes']/1e6:.1f} MB
 - Official words: {st['official_words']} (plus {st['laugh_markers']} `(Laughter.)` markers), in {st['turns']} speaker turns
@@ -430,8 +487,13 @@ transcript's, verbatim; times come from ASR.
 ## Sanity checks
 
 - {mark(c['time_order']['ok'])}: words in time order. {c['time_order']['detail']}.
+  ({st['clamped']} spread words had to be nudged forward to keep order before this check ran.)
 - {mark(c['max_duration']['ok'])}: no word longer than 3 s except before a laugh. {c['max_duration']['detail']}.{long_note}
 - {mark(c['match_rate']['ok'])}: match rate over 85%. {c['match_rate']['detail']}.
+
+{c['short_words']} words are shorter than 20 ms. These are official words the ASR didn't produce,
+mostly repeats, false starts and cross-talk ("the -- the --", "I -- I think"), squeezed into the
+small gap between the ASR words either side. Their order is right; their exact times are not.
 
 ## Files
 
@@ -451,7 +513,10 @@ Official and ASR words are lowercased, stripped of punctuation and aligned with
 `difflib.SequenceMatcher` (autojunk off). Matched words keep their ASR start and end.
 Where the official transcript has different words from the ASR, the official words are spread
 evenly across the time of the ASR words they replace; official words the ASR missed entirely are
-spread across the gap between the neighbouring ASR words. ASR words with no official counterpart
+spread across the gap between the neighbouring ASR words. If that gap is too small (under 60 ms
+a word) and the neighbouring ASR word is stretched past 1.5 s, the ASR has dropped speech and
+spread the neighbour over it, so the missed words share that neighbour's span instead. This
+happened {st['shared']} times; it is the only case where a matched word's ASR time changes. ASR words with no official counterpart
 are dropped. Punctuation-only tokens such as `--` are attached to the neighbouring word.
 
 Regenerate with:

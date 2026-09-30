@@ -1,0 +1,43 @@
+{
+ "case": "14-275",
+ "year": "2014",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2014/14-275",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/14-275.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2014/14-275_2b8e.pdf",
+ "model": "medium.en",
+ "duration": 3672.372245,
+ "asr_elapsed_s": 3568.0,
+ "asr_words": 9826,
+ "official_words": 10555,
+ "matched": 9554,
+ "shared": 9,
+ "clamped": 0,
+ "match_rate": 90.51634296541923,
+ "turns": 341,
+ "laugh_markers": 7,
+ "mp3_bytes": 29379230,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": [
+    [
+     "989.166(c),",
+     3524.6,
+     3529.1
+    ]
+   ]
+  },
+  "short_words": 568,
+  "match_rate": {
+   "ok": true,
+   "detail": "90.52% (threshold 85%)"
+  }
+ },
+ "generated": "2026-09-30"
+}
