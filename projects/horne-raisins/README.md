@@ -61,8 +61,17 @@ than 1.5 s is checked against the audio: voiced stretches (12 dB over the silenc
 quietest 5% of the recording) inside
 its span are found, blips within 0.3 s of either end are treated as bleed from the neighbouring
 words, and the word is trimmed to what remains. If nothing remains it is left alone, as are
-citations such as `989.166(c)`. This trimmed 13 words. These two rules are the only
-places a matched word's ASR time changes.
+citations such as `989.166(c)`. When the voiced audio falls in clusters split by a second or
+more of silence, the word keeps the first cluster if it starts within 0.3 s of the word's start
+(Whisper's starts are reliable; it stretches words into the pause after them), else the last
+cluster if it ends at the word's end, and is left alone otherwise. This trimmed 13 words.
+
+Any word still longer than 3 s gets the audio 3 s either side of it re-transcribed on its own
+and that stretch of official words re-aligned to the fresh ASR. Without an hour of context,
+Whisper often hears the cross-talk it skipped the first time. The new times are kept only if they
+fit between the untouched neighbours and bring the word under 3 s. This fixed 0
+words; the window ASR is cached in `work/asr_windows_*.json`. These rules are the only places a
+matched word's ASR time changes.
 
 Regenerate with:
 

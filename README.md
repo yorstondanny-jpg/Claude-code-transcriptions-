@@ -4,7 +4,8 @@ Word-timed transcripts of Supreme Court oral arguments, for video editing. The a
 transcripts are US government works in the public domain.
 
 Each project in `projects/` holds the argument audio, every official word with start and end
-times (`audio/words.json`), speaker turns (`lines.json`) and laugh positions (`laughs.md`).
+times (`audio/words.json`), speaker turns (`lines.json`) and laugh positions (`laughs.md`,
+including every pause ranked by room loudness, since transcripts under-mark laughter).
 The wording is always the official transcript's; the times come from faster-whisper, aligned
 word by word to the official text.
 
@@ -12,6 +13,7 @@ word by word to the official text.
 |---|---|---|
 | [horne-raisins](projects/horne-raisins/) | Horne v. Department of Agriculture, No. 14-275 | 22 April 2015 |
 | [lozman-house](projects/lozman-house/) | Lozman v. City of Riviera Beach, Florida, No. 11-626 | 1 October 2012 |
+| [star-athletica-uniform](projects/star-athletica-uniform/) | Star Athletica, L.L.C. v. Varsity Brands, Inc., No. 15-866 | 31 October 2016 |
 
 ## Running a new case
 
@@ -27,5 +29,6 @@ that, on the term's transcript listing (`/oral_arguments/argument_transcript/<ye
 `--model small.en` if medium.en is too slow. It exits non-zero if a sanity check fails.
 
 medium.en on a 4-core CPU runs at or a little faster than realtime: the 61-minute Horne
-argument took 59 minutes and the 59-minute Lozman argument took 40. The raw ASR is cached in `projects/<name>/work/`, so re-running only redoes the
+argument took 59 minutes, the 59-minute Lozman argument 40 and the 62-minute Star Athletica
+argument 49. The raw ASR is cached in `projects/<name>/work/`, so re-running only redoes the
 alignment.

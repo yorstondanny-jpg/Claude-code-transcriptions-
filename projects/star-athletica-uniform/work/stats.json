@@ -1,0 +1,40 @@
+{
+ "case": "15-866",
+ "year": "2016",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2016/15-866",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/15-866.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2016/15-866_j426.pdf",
+ "model": "medium.en",
+ "duration": 3698.088,
+ "asr_elapsed_s": 2910.7,
+ "asr_words": 10687,
+ "official_words": 10850,
+ "matched": 10119,
+ "shared": 4,
+ "clamped": 0,
+ "trimmed": 13,
+ "rewindowed": 1,
+ "match_rate": 93.26267281105991,
+ "turns": 276,
+ "laugh_markers": 0,
+ "mp3_bytes": 29584941,
+ "pauses": 284,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 350,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.26% (threshold 85%)"
+  }
+ },
+ "generated": "2026-09-30"
+}

@@ -266,7 +266,7 @@ def align(official, asr, duration):
     return times, matched, shared
 
 
-def build_words(turns, asr_words, duration, voiced):
+def build_words(turns, asr_words, duration, voiced, audio, model_name, window_cache):
     official = []  # every token incl. laugh markers, with turn index
     for ti, t in enumerate(turns):
         for tok in tokenize_turn(t["text"]):
@@ -276,6 +276,7 @@ def build_words(turns, asr_words, duration, voiced):
     for o, (s, e) in zip(spoken, times):
         o["s"], o["e"] = round(float(s), 3), round(float(e), 3)
     trimmed = trim_stretched(spoken, voiced)
+    rewindowed = rewindow_long_words(spoken, audio, model_name, voiced, window_cache)
     # enforce monotonic order (spread words can only touch the matched words around them)
     last, clamped = 0.0, 0
     for o in spoken:
@@ -290,7 +291,7 @@ def build_words(turns, asr_words, duration, voiced):
             nxt = next((official[k] for k in range(i + 1, len(official)) if official[k]["w"] != LAUGH), None)
             o["s"] = prev["e"] if prev else 0.0
             o["e"] = max(nxt["s"], o["s"]) if nxt else round(duration, 3)
-    return official, matched, len(spoken), shared, clamped, trimmed
+    return official, matched, len(spoken), shared, clamped, trimmed, rewindowed
 
 
 # --------------------------------------------------------------------------- laughs
@@ -359,12 +360,28 @@ def trim_stretched(spoken, voiced, max_len=STRETCH_S, edge=0.3):
     trimmed = 0
     for o in spoken:
         s, e = o["s"], o["e"]
-        if e - s <= max_len or len(re.findall(r"\d", o["w"])) >= 3:
+        if e - s <= max_len or is_citation(o["w"]):
             continue
         runs = [r for r in voiced_runs(voiced, s, e)
                 if not (r[1] <= s + edge or r[0] >= e - edge)]
         if not runs:
             continue
+        # voiced audio split by a second or more of silence: Whisper's word starts are the reliable
+        # edge (it stretches words into the pause after them), so keep the first cluster if it
+        # starts near the word's start, else the last if it ends near the word's end
+        clusters = [[runs[0]]]
+        for r in runs[1:]:
+            if r[0] - clusters[-1][-1][1] >= 1.0:
+                clusters.append([r])
+            else:
+                clusters[-1].append(r)
+        if len(clusters) > 1:
+            if abs(clusters[0][0][0] - s) <= edge:
+                runs = clusters[0]
+            elif abs(clusters[-1][-1][1] - e) <= 0.15:
+                runs = clusters[-1]
+            else:
+                continue
         # move an edge only by a clear margin, not by frame rounding
         ns = runs[0][0] if runs[0][0] - s >= 0.1 else s
         ne = runs[-1][1] if e - runs[-1][1] >= 0.1 else e
@@ -372,6 +389,61 @@ def trim_stretched(spoken, voiced, max_len=STRETCH_S, edge=0.3):
             o["s"], o["e"] = round(ns, 3), round(ne, 3)
             trimmed += 1
     return trimmed
+
+
+def is_citation(w):
+    return len(re.findall(r"\d", w)) >= 3
+
+
+def rewindow_long_words(spoken, audio, model_name, voiced, cache, limit=3.0, pad=3.0):
+    """For words still longer than `limit` s, re-transcribe the audio around them (pad s either
+    side) and re-align that stretch of official words to the fresh ASR. Heard without an hour of
+    context, Whisper often picks up the cross-talk it skipped the first time. New times are kept
+    only if they fit between the unchanged neighbours and bring the word under the limit.
+    Window ASR is cached in `cache`. Returns the number of long words fixed."""
+    long_idx = [i for i, o in enumerate(spoken) if o["e"] - o["s"] > limit and not is_citation(o["w"])]
+    if not long_idx:
+        return 0
+    store = json.loads(cache.read_text()) if cache.exists() else {}
+    model, fixed = None, 0
+    for i in long_idx:
+        o = spoken[i]
+        if o["e"] - o["s"] <= limit:  # fixed by an earlier window
+            continue
+        ws, we = max(0.0, o["s"] - pad), o["e"] + pad
+        key = f"{model_name}:{ws:.3f}-{we:.3f}"
+        if key not in store:
+            if model is None:
+                from faster_whisper import WhisperModel
+                log(f"Re-transcribing windows around long words with {model_name}")
+                model = WhisperModel(model_name, device="cpu", compute_type="int8")
+            pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{ws:.3f}", "-t", f"{we - ws:.3f}",
+                                  "-i", str(audio), "-ac", "1", "-ar", "16000", "-f", "s16le", "-"],
+                                 capture_output=True, check=True).stdout
+            x = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
+            segs, _ = model.transcribe(x, language="en", word_timestamps=True, vad_filter=False, beam_size=5)
+            store[key] = [{"w": w.word.strip(), "s": round(ws + float(w.start), 3), "e": round(ws + float(w.end), 3)}
+                          for seg in segs for w in seg.words]
+            cache.write_text(json.dumps(store))
+        win = store[key]
+        # official words wholly inside the window, bounded by untouched neighbours
+        k0 = next(k for k in range(i, -1, -1) if k == 0 or spoken[k - 1]["s"] < ws)
+        k1 = next(k for k in range(i, len(spoken)) if k == len(spoken) - 1 or spoken[k + 1]["e"] > we)
+        lo = spoken[k0 - 1]["e"] if k0 > 0 else 0.0
+        hi = spoken[k1 + 1]["s"] if k1 + 1 < len(spoken) else we
+        win = [w for w in win if w["s"] >= lo - 0.05 and w["e"] <= hi + 0.05]
+        if not win:
+            continue
+        times, _, _ = align(spoken[k0:k1 + 1], win, hi)
+        new = [(min(max(a, lo), hi), min(max(b, lo), hi)) for a, b in times]
+        ok = all(new[k][0] >= new[k - 1][0] for k in range(1, len(new)))
+        ni = i - k0
+        if ok and new[ni][1] - new[ni][0] <= limit:
+            for k, (a, b) in enumerate(new):
+                spoken[k0 + k]["s"], spoken[k0 + k]["e"] = round(float(a), 3), round(float(b), 3)
+            fixed += 1
+    trim_stretched(spoken, voiced)
+    return fixed
 
 
 def loud_bursts(asr_words, db, floor, loud, n=10, max_len=2.0, hop=HOP):
@@ -423,7 +495,7 @@ def sanity_checks(words, match_rate):
         before_laugh = i + 1 < len(words) and words[i + 1]["w"] == LAUGH
         if w["e"] - w["s"] > 3.0 and not before_laugh:
             # a citation like "989.166(c)" is one official word but takes seconds to say
-            (long_numbers if len(re.findall(r"\d", w["w"])) >= 3 else long_bad).append(i)
+            (long_numbers if is_citation(w["w"]) else long_bad).append(i)
     short = sum(1 for w in words if w["w"] != LAUGH and w["e"] - w["s"] < 0.02)
     return {
         "time_order": {"ok": not order_bad and not inverted,
@@ -478,7 +550,8 @@ def main():
     turns = parse_transcript(pdf)
     log(f"Official transcript: {len(turns)} speaker turns")
     db, floor, loud, voiced, silence = loudness(mp3)
-    official, matched, n_spoken, shared, clamped, trimmed = build_words(turns, asr_words, duration, voiced)
+    official, matched, n_spoken, shared, clamped, trimmed, rewindowed = build_words(
+        turns, asr_words, duration, voiced, mp3, args.model, work / f"asr_windows_{args.model}.json")
     match_rate = 100.0 * matched / n_spoken
     log(f"Matched {matched}/{n_spoken} official words ({match_rate:.2f}%)")
 
@@ -561,7 +634,7 @@ def main():
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
         "pdf_url": pdf_url, "model": args.model, "duration": duration,
         "asr_elapsed_s": asr.get("elapsed_s"), "asr_words": len(asr_words),
-        "official_words": n_spoken, "matched": matched, "shared": shared, "clamped": clamped, "trimmed": trimmed, "match_rate": match_rate,
+        "official_words": n_spoken, "matched": matched, "shared": shared, "clamped": clamped, "trimmed": trimmed, "rewindowed": rewindowed, "match_rate": match_rate,
         "turns": len(lines), "laugh_markers": sum(o["w"] == LAUGH for o in official),
         "mp3_bytes": mp3.stat().st_size, "pauses": len(pauses), "checks": checks,
         "generated": datetime.date.today().isoformat(),
@@ -647,8 +720,17 @@ than 1.5 s is checked against the audio: voiced stretches (12 dB over the silenc
 quietest 5% of the recording) inside
 its span are found, blips within 0.3 s of either end are treated as bleed from the neighbouring
 words, and the word is trimmed to what remains. If nothing remains it is left alone, as are
-citations such as `989.166(c)`. This trimmed {st['trimmed']} words. These two rules are the only
-places a matched word's ASR time changes.
+citations such as `989.166(c)`. When the voiced audio falls in clusters split by a second or
+more of silence, the word keeps the first cluster if it starts within 0.3 s of the word's start
+(Whisper's starts are reliable; it stretches words into the pause after them), else the last
+cluster if it ends at the word's end, and is left alone otherwise. This trimmed {st['trimmed']} words.
+
+Any word still longer than 3 s gets the audio 3 s either side of it re-transcribed on its own
+and that stretch of official words re-aligned to the fresh ASR. Without an hour of context,
+Whisper often hears the cross-talk it skipped the first time. The new times are kept only if they
+fit between the untouched neighbours and bring the word under 3 s. This fixed {st['rewindowed']}
+words; the window ASR is cached in `work/asr_windows_*.json`. These rules are the only places a
+matched word's ASR time changes.
 
 Regenerate with:
 

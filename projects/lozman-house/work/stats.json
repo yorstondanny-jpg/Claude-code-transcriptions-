@@ -13,11 +13,12 @@
  "shared": 6,
  "clamped": 0,
  "trimmed": 16,
+ "rewindowed": 0,
  "match_rate": 95.26168224299066,
  "turns": 227,
  "laugh_markers": 2,
  "mp3_bytes": 28503397,
- "pauses": 308,
+ "pauses": 309,
  "checks": {
   "time_order": {
    "ok": true,
