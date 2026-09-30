@@ -1,0 +1,38 @@
+{
+ "case": "11-626",
+ "year": "2012",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2012/11-626",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/11-626.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2012/11-626.pdf",
+ "model": "medium.en",
+ "duration": 3562.893061,
+ "asr_elapsed_s": 2394.4,
+ "asr_words": 10531,
+ "official_words": 10700,
+ "matched": 10193,
+ "shared": 6,
+ "clamped": 0,
+ "trimmed": 16,
+ "match_rate": 95.26168224299066,
+ "turns": 227,
+ "laugh_markers": 2,
+ "mp3_bytes": 28503397,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 321,
+  "match_rate": {
+   "ok": true,
+   "detail": "95.26% (threshold 85%)"
+  }
+ },
+ "generated": "2026-09-30"
+}

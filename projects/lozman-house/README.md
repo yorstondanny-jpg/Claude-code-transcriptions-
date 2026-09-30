@@ -1,33 +1,32 @@
-# horne-raisins: Supreme Court No. 14-275
+# lozman-house: Supreme Court No. 11-626
 
 Word-timed transcript of the oral argument, for video editing. Wording is the official
 transcript's, verbatim; times come from ASR.
 
 ## Sources
 
-- Argument page: https://www.supremecourt.gov/oral_arguments/audio/2014/14-275
-- Audio: https://www.supremecourt.gov/media/audio/mp3files/14-275.mp3
-- Official transcript: https://www.supremecourt.gov/oral_arguments/argument_transcripts/2014/14-275_2b8e.pdf
+- Argument page: https://www.supremecourt.gov/oral_arguments/audio/2012/11-626
+- Audio: https://www.supremecourt.gov/media/audio/mp3files/11-626.mp3
+- Official transcript: https://www.supremecourt.gov/oral_arguments/argument_transcripts/2012/11-626.pdf
 
 ## Numbers
 
 - ASR model: faster-whisper `medium.en`, CPU, int8, `word_timestamps=True`, `vad_filter=False`, beam size 5
-- ASR run time: 59 min on 4 CPU cores
-- Audio length: 1:01:12.372 (3672.372 s)
-- `audio/argument.mp3`: mono, 64 kbps, 29.4 MB
-- Official words: 10555 (plus 7 `(Laughter.)` markers), in 341 speaker turns
-- ASR words: 9826
-- Official words matched to an ASR word: 9554 of 10555 (**90.52%**)
+- ASR run time: 40 min on 4 CPU cores
+- Audio length: 0:59:22.893 (3562.893 s)
+- `audio/argument.mp3`: mono, 64 kbps, 28.5 MB
+- Official words: 10700 (plus 2 `(Laughter.)` markers), in 227 speaker turns
+- ASR words: 10531
+- Official words matched to an ASR word: 10193 of 10700 (**95.26%**)
 
 ## Sanity checks
 
 - PASS: words in time order. 0 words start before the previous word; 0 words end before they start.
   (0 spread words had to be nudged forward to keep order before this check ran.)
 - PASS: no word longer than 3 s except before a laugh. 0 words longer than 3 s outside laugh positions.
-  Not counted: `989.166(c),` 3524.600-3529.100 (4.50 s). A citation is one official word but is spoken as several; its time is the real time taken to say it.
-- PASS: match rate over 85%. 90.52% (threshold 85%).
+- PASS: match rate over 85%. 95.26% (threshold 85%).
 
-568 words are shorter than 20 ms. These are official words the ASR didn't produce,
+321 words are shorter than 20 ms. These are official words the ASR didn't produce,
 mostly repeats, false starts and cross-talk ("the -- the --", "I -- I think"), squeezed into the
 small gap between the ASR words either side. Their order is right; their exact times are not.
 
@@ -52,7 +51,7 @@ evenly across the time of the ASR words they replace; official words the ASR mis
 spread across the gap between the neighbouring ASR words. If that gap is too small (under 60 ms
 a word) and the neighbouring ASR word is stretched past 1.5 s, the ASR has dropped speech and
 spread the neighbour over it, so the missed words share that neighbour's span instead. This
-happened 9 times. ASR words with no official counterpart
+happened 6 times. ASR words with no official counterpart
 are dropped. Punctuation-only tokens such as `--` are attached to the neighbouring word.
 
 Whisper also stretches single words over the pause after or before them. Any word still longer
@@ -60,9 +59,9 @@ than 1.5 s is checked against the audio: voiced stretches (12 dB over the silenc
 quietest 5% of the recording) inside
 its span are found, blips within 0.3 s of either end are treated as bleed from the neighbouring
 words, and the word is trimmed to what remains. If nothing remains it is left alone, as are
-citations such as `989.166(c)`. This trimmed 13 words. These two rules are the only
+citations such as `989.166(c)`. This trimmed 16 words. These two rules are the only
 places a matched word's ASR time changes.
 
 Regenerate with:
 
-    python3 transcribe.py 14-275 2014 horne-raisins --model medium.en
+    python3 transcribe.py 11-626 2012 lozman-house --model medium.en

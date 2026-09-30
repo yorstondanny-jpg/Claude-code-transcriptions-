@@ -254,7 +254,7 @@ def align(official, asr, duration):
     return times, matched, shared
 
 
-def build_words(turns, asr_words, duration):
+def build_words(turns, asr_words, duration, voiced):
     official = []  # every token incl. laugh markers, with turn index
     for ti, t in enumerate(turns):
         for tok in tokenize_turn(t["text"]):
@@ -262,11 +262,12 @@ def build_words(turns, asr_words, duration):
     spoken = [o for o in official if o["w"] != LAUGH]
     times, matched, shared = align(spoken, asr_words, duration)
     for o, (s, e) in zip(spoken, times):
-        o["s"], o["e"] = round(s, 3), round(e, 3)
+        o["s"], o["e"] = round(float(s), 3), round(float(e), 3)
+    trimmed = trim_stretched(spoken, voiced)
     # enforce monotonic order (spread words can only touch the matched words around them)
     last, clamped = 0.0, 0
     for o in spoken:
-        clamped += o["s"] < last
+        clamped += int(o["s"] < last)
         o["s"] = max(o["s"], last)
         o["e"] = max(o["e"], o["s"])
         last = o["s"]
@@ -277,24 +278,73 @@ def build_words(turns, asr_words, duration):
             nxt = next((official[k] for k in range(i + 1, len(official)) if official[k]["w"] != LAUGH), None)
             o["s"] = prev["e"] if prev else 0.0
             o["e"] = max(nxt["s"], o["s"]) if nxt else round(duration, 3)
-    return official, matched, len(spoken), shared, clamped
+    return official, matched, len(spoken), shared, clamped, trimmed
 
 
 # --------------------------------------------------------------------------- laughs
 
-def loud_bursts(audio, asr_words, n=10, max_len=2.0, hop=0.05):
-    """Loud stretches inside real pauses between ASR words (gaps of 0.4 s or more, with 0.1 s
-    trimmed off each edge so word onsets and tails don't count). Returns the n loudest that
-    last 0.3 s to max_len, the ones that run max_len or longer, and the room floor in dBFS."""
+HOP = 0.05  # seconds per loudness frame
+
+
+def loudness(audio):
+    """Per-frame loudness in dBFS, the room floor (20th percentile), a loud mask (12 dB above
+    that floor, for laugh bursts) and a voiced mask (12 dB above the silence level, the 5th
+    percentile, for trimming words; quiet speakers fall under the loud mask)."""
     sr = 16000
     pcm = subprocess.run(["ffmpeg", "-v", "error", "-i", str(audio), "-ac", "1", "-ar", str(sr),
                           "-f", "s16le", "-"], capture_output=True, check=True).stdout
     x = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
-    h = int(sr * hop)
+    h = int(sr * HOP)
     nf = len(x) // h
     db = 20 * np.log10(np.sqrt((x[: nf * h].reshape(nf, h) ** 2).mean(axis=1) + 1e-12))
     floor = float(np.percentile(db, 20))
-    loud = db > floor + 12  # 12 dB above the room's quiet level
+    silence = float(np.percentile(db, 5))
+    return db, floor, db > floor + 12, db > silence + 12
+
+
+def voiced_runs(voiced, s, e, bridge=0.25):
+    """(start, end) of voiced stretches between s and e, merging gaps shorter than bridge."""
+    i0, i1 = int(np.ceil(s / HOP)), min(int(e / HOP), len(voiced))
+    runs = []
+    for i in range(i0, i1):
+        if not voiced[i]:
+            continue
+        t0, t1 = i * HOP, (i + 1) * HOP
+        if runs and t0 - runs[-1][1] < bridge:
+            runs[-1][1] = t1
+        else:
+            runs.append([t0, t1])
+    return runs
+
+
+def trim_stretched(spoken, voiced, max_len=STRETCH_S, edge=0.3):
+    """Whisper sometimes stretches a word over the pause after (or before) it. For a word longer
+    than max_len, drop voiced blips lying wholly within `edge` s of either end (bleed from the
+    neighbouring words); if what's left sits inside the span, trim the word to it. Citations
+    ("989.166(c)") are left alone: they really do take seconds to say. Returns the count trimmed."""
+    trimmed = 0
+    for o in spoken:
+        s, e = o["s"], o["e"]
+        if e - s <= max_len or len(re.findall(r"\d", o["w"])) >= 3:
+            continue
+        runs = [r for r in voiced_runs(voiced, s, e)
+                if not (r[1] <= s + edge or r[0] >= e - edge)]
+        if not runs:
+            continue
+        # move an edge only by a clear margin, not by frame rounding
+        ns = runs[0][0] if runs[0][0] - s >= 0.1 else s
+        ne = runs[-1][1] if e - runs[-1][1] >= 0.1 else e
+        if ne - ns >= 0.1 and (ns > s or ne < e):
+            o["s"], o["e"] = round(ns, 3), round(ne, 3)
+            trimmed += 1
+    return trimmed
+
+
+def loud_bursts(asr_words, db, floor, loud, n=10, max_len=2.0, hop=HOP):
+    """Loud stretches inside real pauses between ASR words (gaps of 0.4 s or more, with 0.1 s
+    trimmed off each edge so word onsets and tails don't count). Returns the n loudest that
+    last 0.3 s to max_len and the ones that run max_len or longer."""
+    nf = len(db)
     edges = [0.0] + [t for w in asr_words for t in (w["s"], w["e"])] + [nf * hop]
     short, long_ = [], []
     for g0, g1 in zip(edges[0::2], edges[1::2]):
@@ -318,7 +368,7 @@ def loud_bursts(audio, asr_words, n=10, max_len=2.0, hop=0.05):
                 short.append(burst)
             i = j
     short.sort(key=lambda b: b["mean_db"], reverse=True)
-    return short[:n], long_, round(floor, 1)
+    return short[:n], long_
 
 
 def fmt_ts(t):
@@ -393,7 +443,8 @@ def main():
 
     turns = parse_transcript(pdf)
     log(f"Official transcript: {len(turns)} speaker turns")
-    official, matched, n_spoken, shared, clamped = build_words(turns, asr_words, duration)
+    db, floor, loud, voiced = loudness(mp3)
+    official, matched, n_spoken, shared, clamped, trimmed = build_words(turns, asr_words, duration, voiced)
     match_rate = 100.0 * matched / n_spoken
     log(f"Matched {matched}/{n_spoken} official words ({match_rate:.2f}%)")
 
@@ -411,7 +462,8 @@ def main():
     (root / "lines.json").write_text(json.dumps(lines, indent=1, ensure_ascii=False) + "\n")
 
     # laughs.md
-    bursts, long_bursts, floor = loud_bursts(mp3, asr_words)
+    bursts, long_bursts = loud_bursts(asr_words, db, floor, loud)
+    floor = round(floor, 1)
     laugh_times = [o["s"] for o in official if o["w"] == LAUGH]
     near = lambda b: "yes" if any(t - 1 <= b["s"] <= t + 5 for t in laugh_times) else ""
     overlap = lambda b: sum(1 for o in official if o["w"] != LAUGH and o["s"] < b["e"] and o["e"] > b["s"])
@@ -456,7 +508,7 @@ def main():
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
         "pdf_url": pdf_url, "model": args.model, "duration": duration,
         "asr_elapsed_s": asr.get("elapsed_s"), "asr_words": len(asr_words),
-        "official_words": n_spoken, "matched": matched, "shared": shared, "clamped": clamped, "match_rate": match_rate,
+        "official_words": n_spoken, "matched": matched, "shared": shared, "clamped": clamped, "trimmed": trimmed, "match_rate": match_rate,
         "turns": len(lines), "laugh_markers": sum(o["w"] == LAUGH for o in official),
         "mp3_bytes": mp3.stat().st_size, "checks": checks,
         "generated": datetime.date.today().isoformat(),
@@ -533,8 +585,16 @@ evenly across the time of the ASR words they replace; official words the ASR mis
 spread across the gap between the neighbouring ASR words. If that gap is too small (under 60 ms
 a word) and the neighbouring ASR word is stretched past 1.5 s, the ASR has dropped speech and
 spread the neighbour over it, so the missed words share that neighbour's span instead. This
-happened {st['shared']} times; it is the only case where a matched word's ASR time changes. ASR words with no official counterpart
+happened {st['shared']} times. ASR words with no official counterpart
 are dropped. Punctuation-only tokens such as `--` are attached to the neighbouring word.
+
+Whisper also stretches single words over the pause after or before them. Any word still longer
+than 1.5 s is checked against the audio: voiced stretches (12 dB over the silence level, the
+quietest 5% of the recording) inside
+its span are found, blips within 0.3 s of either end are treated as bleed from the neighbouring
+words, and the word is trimmed to what remains. If nothing remains it is left alone, as are
+citations such as `989.166(c)`. This trimmed {st['trimmed']} words. These two rules are the only
+places a matched word's ASR time changes.
 
 Regenerate with:
 
