@@ -1,0 +1,4616 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 0.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Ginsburg",
+  "s": 0.8,
+  "e": 1.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.42,
+  "e": 1.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "our",
+  "s": 1.64,
+  "e": 1.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.82,
+  "e": 2.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 2.1,
+  "e": 2.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning",
+  "s": 2.34,
+  "e": 2.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 2.64,
+  "e": 2.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Case",
+  "s": 2.9,
+  "e": 3.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "13",
+  "s": 3.06,
+  "e": 3.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "-7451,",
+  "s": 3.72,
+  "e": 5.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Yates",
+  "s": 5.76,
+  "e": 5.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "v.",
+  "s": 5.94,
+  "e": 6.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "United",
+  "s": 6.48,
+  "e": 6.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "States.",
+  "s": 6.7,
+  "e": 7.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 7.98,
+  "e": 8.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 8.78,
+  "e": 9.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "summer",
+  "s": 9.02,
+  "e": 9.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 9.34,
+  "e": 9.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "2007,",
+  "s": 9.66,
+  "e": 10.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 11.16,
+  "e": 11.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Federal",
+  "s": 11.3,
+  "e": 11.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "agent",
+  "s": 11.72,
+  "e": 12.16,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "on",
+  "s": 12.16,
+  "e": 12.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "patrol",
+  "s": 12.78,
+  "e": 13.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 13.18,
+  "e": 13.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 13.6,
+  "e": 13.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Gulf",
+  "s": 13.8,
+  "e": 13.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 13.96,
+  "e": 14.16,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Mexico",
+  "s": 14.16,
+  "e": 14.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "boarded",
+  "s": 14.86,
+  "e": 15.27,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 15.88,
+  "e": 16.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Miss",
+  "s": 16.3,
+  "e": 16.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Katie,",
+  "s": 16.52,
+  "e": 16.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 17.66,
+  "e": 17.88,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "commercial",
+  "s": 17.88,
+  "e": 18.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fishing",
+  "s": 18.38,
+  "e": 18.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "boat,",
+  "s": 18.78,
+  "e": 19.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 19.54,
+  "e": 19.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "check",
+  "s": 19.94,
+  "e": 20.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "on",
+  "s": 20.22,
+  "e": 20.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 20.52,
+  "e": 20.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "vessel's",
+  "s": 20.7,
+  "e": 21.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "compliance",
+  "s": 21.2,
+  "e": 21.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "with",
+  "s": 21.76,
+  "e": 22.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fishing",
+  "s": 22.26,
+  "e": 22.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "rules.",
+  "s": 22.6,
+  "e": 23.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "At",
+  "s": 24.02,
+  "e": 24.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 24.28,
+  "e": 24.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "time,",
+  "s": 24.46,
+  "e": 24.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Federal",
+  "s": 25.6,
+  "e": 25.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "conservation",
+  "s": 25.72,
+  "e": 26.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "regulations",
+  "s": 26.52,
+  "e": 27.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prohibited",
+  "s": 27.5,
+  "e": 28.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "catching",
+  "s": 28.64,
+  "e": 29.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Red",
+  "s": 29.34,
+  "e": 30.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Grouper",
+  "s": 30.0,
+  "e": 30.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "less",
+  "s": 30.42,
+  "e": 31.16,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "than",
+  "s": 31.16,
+  "e": 31.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "20",
+  "s": 31.5,
+  "e": 31.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "inches",
+  "s": 31.82,
+  "e": 32.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "long.",
+  "s": 32.26,
+  "e": 32.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "A",
+  "s": 33.62,
+  "e": 34.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "violation",
+  "s": 34.28,
+  "e": 34.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 34.86,
+  "e": 35.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "those",
+  "s": 35.24,
+  "e": 35.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "regulations",
+  "s": 35.5,
+  "e": 35.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 36.22,
+  "e": 36.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 36.64,
+  "e": 36.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "civil",
+  "s": 36.9,
+  "e": 37.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "offense,",
+  "s": 37.18,
+  "e": 37.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "not",
+  "s": 38.32,
+  "e": 38.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 38.58,
+  "e": 38.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "criminal",
+  "s": 38.78,
+  "e": 39.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "infraction,",
+  "s": 39.06,
+  "e": 39.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "punishable",
+  "s": 40.66,
+  "e": 41.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "only",
+  "s": 41.04,
+  "e": 41.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "by",
+  "s": 41.62,
+  "e": 41.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fine",
+  "s": 41.98,
+  "e": 42.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 42.36,
+  "e": 43.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fishing",
+  "s": 43.04,
+  "e": 43.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "license",
+  "s": 43.42,
+  "e": 43.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "suspension.",
+  "s": 43.86,
+  "e": 44.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "The",
+  "s": 45.66,
+  "e": 45.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "inspecting",
+  "s": 45.9,
+  "e": 46.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "officer",
+  "s": 46.46,
+  "e": 47.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "counted",
+  "s": 47.06,
+  "e": 47.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "72",
+  "s": 47.62,
+  "e": 48.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "undersized",
+  "s": 48.64,
+  "e": 49.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Red",
+  "s": 49.76,
+  "e": 50.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Grouper",
+  "s": 50.2,
+  "e": 50.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "on",
+  "s": 50.84,
+  "e": 51.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "board",
+  "s": 51.42,
+  "e": 51.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 51.76,
+  "e": 52.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Miss",
+  "s": 52.02,
+  "e": 52.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Katie.",
+  "s": 52.22,
+  "e": 52.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "He",
+  "s": 53.66,
+  "e": 53.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "placed",
+  "s": 53.94,
+  "e": 54.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "those",
+  "s": 54.26,
+  "e": 54.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 54.56,
+  "e": 54.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 54.9,
+  "e": 55.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "crates",
+  "s": 55.26,
+  "e": 55.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 55.62,
+  "e": 56.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "separate",
+  "s": 56.02,
+  "e": 56.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "them",
+  "s": 56.5,
+  "e": 56.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "from",
+  "s": 56.78,
+  "e": 57.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 57.06,
+  "e": 57.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "rest",
+  "s": 57.24,
+  "e": 57.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 57.42,
+  "e": 57.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 57.58,
+  "e": 57.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "ship's",
+  "s": 57.76,
+  "e": 58.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "catch",
+  "s": 58.32,
+  "e": 58.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 58.62,
+  "e": 59.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "told",
+  "s": 59.48,
+  "e": 59.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Petitioner",
+  "s": 59.86,
+  "e": 60.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates,",
+  "s": 60.64,
+  "e": 60.88,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 60.96,
+  "e": 61.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "ship's",
+  "s": 61.2,
+  "e": 61.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "captain,",
+  "s": 61.66,
+  "e": 62.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 62.7,
+  "e": 62.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "leave",
+  "s": 62.96,
+  "e": 63.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 63.24,
+  "e": 63.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 63.5,
+  "e": 63.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 63.7,
+  "e": 64.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 64.04,
+  "e": 64.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "crates",
+  "s": 64.24,
+  "e": 64.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "until",
+  "s": 64.48,
+  "e": 65.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 65.1,
+  "e": 65.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "vessel",
+  "s": 65.32,
+  "e": 65.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "returned",
+  "s": 65.56,
+  "e": 66.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 66.12,
+  "e": 66.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "port.",
+  "s": 66.74,
+  "e": 66.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "At",
+  "s": 67.7,
+  "e": 68.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "port,",
+  "s": 68.28,
+  "e": 68.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 68.94,
+  "e": 69.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "officer",
+  "s": 69.14,
+  "e": 69.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "reexamined",
+  "s": 69.64,
+  "e": 70.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 70.82,
+  "e": 71.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 71.08,
+  "e": 71.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 71.24,
+  "e": 71.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 71.48,
+  "e": 71.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "crates.",
+  "s": 71.68,
+  "e": 72.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "This",
+  "s": 72.4,
+  "e": 73.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "time,",
+  "s": 73.04,
+  "e": 73.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 73.6,
+  "e": 73.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 73.66,
+  "e": 73.88,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "measured",
+  "s": 73.88,
+  "e": 74.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "slightly",
+  "s": 74.5,
+  "e": 75.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "lower",
+  "s": 75.5,
+  "e": 76.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "than",
+  "s": 76.2,
+  "e": 76.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "they",
+  "s": 76.6,
+  "e": 76.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "had",
+  "s": 76.8,
+  "e": 77.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "at",
+  "s": 77.04,
+  "e": 77.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sea.",
+  "s": 77.34,
+  "e": 77.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "A",
+  "s": 78.66,
+  "e": 79.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "crew",
+  "s": 79.0,
+  "e": 79.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "member,",
+  "s": 79.24,
+  "e": 79.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "questioned",
+  "s": 79.96,
+  "e": 80.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "by",
+  "s": 80.36,
+  "e": 80.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 80.72,
+  "e": 80.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "suspicious",
+  "s": 80.96,
+  "e": 81.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "officer,",
+  "s": 81.58,
+  "e": 82.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "admitted",
+  "s": 82.98,
+  "e": 83.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that",
+  "s": 83.6,
+  "e": 84.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "at",
+  "s": 84.12,
+  "e": 84.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates'",
+  "s": 84.36,
+  "e": 84.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "direction",
+  "s": 84.8,
+  "e": 85.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "he",
+  "s": 85.24,
+  "e": 85.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "had",
+  "s": 85.58,
+  "e": 85.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "thrown",
+  "s": 85.86,
+  "e": 86.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 86.18,
+  "e": 86.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 86.38,
+  "e": 86.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 86.74,
+  "e": 87.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 87.32,
+  "e": 87.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "crates",
+  "s": 87.54,
+  "e": 87.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "overboard",
+  "s": 87.94,
+  "e": 89.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 89.32,
+  "e": 89.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "replaced",
+  "s": 89.84,
+  "e": 90.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "them",
+  "s": 90.26,
+  "e": 90.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "with",
+  "s": 90.6,
+  "e": 90.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "other",
+  "s": 90.98,
+  "e": 91.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 91.42,
+  "e": 91.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "from",
+  "s": 91.74,
+  "e": 92.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 92.3,
+  "e": 92.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "catch.",
+  "s": 92.56,
+  "e": 92.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "For",
+  "s": 93.86,
+  "e": 94.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "these",
+  "s": 94.6,
+  "e": 94.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "actions,",
+  "s": 94.86,
+  "e": 95.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates",
+  "s": 95.7,
+  "e": 95.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "was",
+  "s": 95.86,
+  "e": 96.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "charged",
+  "s": 96.18,
+  "e": 96.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "with",
+  "s": 96.54,
+  "e": 96.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "violating",
+  "s": 96.84,
+  "e": 97.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "18",
+  "s": 97.5,
+  "e": 98.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "U",
+  "s": 98.12,
+  "e": 98.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": ".S",
+  "s": 98.4,
+  "e": 98.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": ".C.",
+  "s": 98.58,
+  "e": 98.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Section",
+  "s": 99.22,
+  "e": 99.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519,",
+  "s": 99.32,
+  "e": 100.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 101.7,
+  "e": 101.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "felony",
+  "s": 101.84,
+  "e": 102.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "punishable",
+  "s": 102.36,
+  "e": 103.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "by",
+  "s": 103.2,
+  "e": 103.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "up",
+  "s": 103.68,
+  "e": 103.88,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 103.88,
+  "e": 104.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "20",
+  "s": 104.26,
+  "e": 105.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "years",
+  "s": 105.0,
+  "e": 105.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 105.26,
+  "e": 105.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prison.",
+  "s": 105.54,
+  "e": 105.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Did",
+  "s": 107.32,
+  "e": 107.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 107.54,
+  "e": 108.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "concern",
+  "s": 108.64,
+  "e": 110.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 110.24,
+  "e": 110.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 110.52,
+  "e": 110.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "disposal",
+  "s": 110.72,
+  "e": 111.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 111.42,
+  "e": 111.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "which",
+  "s": 111.78,
+  "e": 112.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates",
+  "s": 112.08,
+  "e": 112.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "engaged?",
+  "s": 112.5,
+  "e": 113.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "One",
+  "s": 114.4,
+  "e": 114.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "clue",
+  "s": 114.72,
+  "e": 115.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 115.04,
+  "e": 115.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 115.28,
+  "e": 115.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "answer,",
+  "s": 115.5,
+  "e": 115.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Congress",
+  "s": 117.0,
+  "e": 117.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "passed",
+  "s": 117.54,
+  "e": 118.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 118.64,
+  "e": 120.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 120.48,
+  "e": 121.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "2002",
+  "s": 121.32,
+  "e": 122.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "as",
+  "s": 122.32,
+  "e": 123.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "part",
+  "s": 123.52,
+  "e": 123.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 123.86,
+  "e": 124.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 124.08,
+  "e": 124.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Sawbains",
+  "s": 124.28,
+  "e": 124.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "-Oxley",
+  "s": 124.96,
+  "e": 125.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Act.",
+  "s": 125.62,
+  "e": 126.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "That",
+  "s": 127.28,
+  "e": 128.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Act",
+  "s": 128.02,
+  "e": 128.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "was",
+  "s": 128.34,
+  "e": 128.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sparked",
+  "s": 128.72,
+  "e": 129.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "by",
+  "s": 129.18,
+  "e": 130.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 130.48,
+  "e": 130.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Enron",
+  "s": 130.98,
+  "e": 131.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Corporation",
+  "s": 131.3,
+  "e": 132.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fiasco,",
+  "s": 132.1,
+  "e": 132.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 133.64,
+  "e": 133.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fraud",
+  "s": 133.8,
+  "e": 134.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "involving",
+  "s": 134.08,
+  "e": 134.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "massive",
+  "s": 134.68,
+  "e": 135.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "shredding",
+  "s": 135.24,
+  "e": 135.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 135.86,
+  "e": 136.16,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "incriminating",
+  "s": 136.16,
+  "e": 136.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "documents.",
+  "s": 136.84,
+  "e": 137.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Section",
+  "s": 138.7,
+  "e": 139.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 139.02,
+  "e": 139.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prohibits",
+  "s": 139.94,
+  "e": 140.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "altering",
+  "s": 140.56,
+  "e": 141.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "destroying,",
+  "s": 141.22,
+  "e": 141.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "mutilating,",
+  "s": 142.0,
+  "e": 142.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "concealing,",
+  "s": 142.74,
+  "e": 143.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "covering",
+  "s": 143.52,
+  "e": 143.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "up,",
+  "s": 143.84,
+  "e": 144.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "falsifying,",
+  "s": 144.52,
+  "e": 145.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 145.34,
+  "e": 145.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "making",
+  "s": 145.44,
+  "e": 145.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 145.7,
+  "e": 145.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "false",
+  "s": 145.92,
+  "e": 146.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "entry",
+  "s": 146.22,
+  "e": 146.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 146.62,
+  "e": 147.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 147.14,
+  "e": 147.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "record,",
+  "s": 147.48,
+  "e": 147.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "document,",
+  "s": 147.96,
+  "e": 148.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 148.9,
+  "e": 149.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 149.2,
+  "e": 150.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 150.0,
+  "e": 150.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "with",
+  "s": 150.7,
+  "e": 151.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "intent",
+  "s": 151.52,
+  "e": 151.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 151.92,
+  "e": 152.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "obstruct",
+  "s": 152.46,
+  "e": 153.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 153.58,
+  "e": 154.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "investigation",
+  "s": 154.2,
+  "e": 155.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 155.04,
+  "e": 155.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "proper",
+  "s": 155.34,
+  "e": 155.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "administration",
+  "s": 155.8,
+  "e": 156.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 156.64,
+  "e": 157.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 157.42,
+  "e": 157.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "matter",
+  "s": 157.76,
+  "e": 158.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "within",
+  "s": 158.2,
+  "e": 158.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 158.68,
+  "e": 158.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "jurisdiction",
+  "s": 158.98,
+  "e": 159.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 159.6,
+  "e": 160.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 160.44,
+  "e": 160.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Federal",
+  "s": 160.8,
+  "e": 161.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "department",
+  "s": 161.2,
+  "e": 161.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 161.74,
+  "e": 162.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "agency.",
+  "s": 162.04,
+  "e": 162.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates",
+  "s": 163.68,
+  "e": 164.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "had",
+  "s": 164.2,
+  "e": 164.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "violated",
+  "s": 164.48,
+  "e": 165.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "this",
+  "s": 165.06,
+  "e": 165.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "provision",
+  "s": 165.38,
+  "e": 165.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 165.86,
+  "e": 166.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "government",
+  "s": 166.12,
+  "e": 166.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "charged",
+  "s": 166.46,
+  "e": 166.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "by",
+  "s": 166.92,
+  "e": 167.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "destroying",
+  "s": 167.38,
+  "e": 168.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 168.12,
+  "e": 168.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "concealing",
+  "s": 168.52,
+  "e": 169.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 169.28,
+  "e": 170.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "objects,",
+  "s": 170.3,
+  "e": 171.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "namely",
+  "s": 171.08,
+  "e": 171.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "72",
+  "s": 171.7,
+  "e": 172.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "small",
+  "s": 172.9,
+  "e": 173.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 173.42,
+  "e": 173.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "thrown",
+  "s": 173.78,
+  "e": 174.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "overboard",
+  "s": 174.66,
+  "e": 175.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "at",
+  "s": 175.26,
+  "e": 175.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates'",
+  "s": 175.92,
+  "e": 175.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "command.",
+  "s": 176.16,
+  "e": 176.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "At",
+  "s": 177.26,
+  "e": 177.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "trial,",
+  "s": 177.9,
+  "e": 178.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates",
+  "s": 178.86,
+  "e": 179.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "moved",
+  "s": 179.06,
+  "e": 179.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "for",
+  "s": 179.46,
+  "e": 179.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 179.82,
+  "e": 180.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "judgment",
+  "s": 180.12,
+  "e": 180.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 180.44,
+  "e": 180.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "acquittal",
+  "s": 180.74,
+  "e": 181.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "on",
+  "s": 181.22,
+  "e": 182.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 182.0,
+  "e": 182.16,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 182.16,
+  "e": 182.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "charge.",
+  "s": 182.96,
+  "e": 183.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Emphasizing",
+  "s": 184.6,
+  "e": 185.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519's",
+  "s": 185.36,
+  "e": 186.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "origin",
+  "s": 186.64,
+  "e": 187.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 187.12,
+  "e": 187.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 187.52,
+  "e": 187.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Sawbains",
+  "s": 187.7,
+  "e": 188.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "-Oxley",
+  "s": 188.18,
+  "e": 188.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Act,",
+  "s": 188.76,
+  "e": 189.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates",
+  "s": 189.68,
+  "e": 189.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "argued",
+  "s": 189.98,
+  "e": 190.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that",
+  "s": 190.42,
+  "e": 190.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 190.7,
+  "e": 190.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "provision",
+  "s": 190.84,
+  "e": 191.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "applied",
+  "s": 191.26,
+  "e": 191.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "only",
+  "s": 191.7,
+  "e": 192.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 192.12,
+  "e": 192.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 192.44,
+  "e": 193.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "objects",
+  "s": 193.32,
+  "e": 194.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "commonly",
+  "s": 194.1,
+  "e": 194.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "used",
+  "s": 194.66,
+  "e": 195.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 195.24,
+  "e": 195.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "record",
+  "s": 195.64,
+  "e": 196.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 196.1,
+  "e": 196.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "store",
+  "s": 196.38,
+  "e": 196.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "information,",
+  "s": 196.74,
+  "e": 197.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "for",
+  "s": 197.96,
+  "e": 198.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "example,",
+  "s": 198.2,
+  "e": 198.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "logbooks",
+  "s": 198.84,
+  "e": 199.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 199.66,
+  "e": 200.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "hard",
+  "s": 200.02,
+  "e": 200.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "drives.",
+  "s": 200.32,
+  "e": 200.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "The",
+  "s": 201.82,
+  "e": 202.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "district",
+  "s": 202.02,
+  "e": 202.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "court",
+  "s": 202.3,
+  "e": 202.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "denied",
+  "s": 202.6,
+  "e": 203.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates'",
+  "s": 203.14,
+  "e": 203.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "motion.",
+  "s": 203.9,
+  "e": 204.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "He",
+  "s": 204.96,
+  "e": 205.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "was",
+  "s": 205.76,
+  "e": 205.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "convicted",
+  "s": 205.94,
+  "e": 206.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 206.4,
+  "e": 206.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "violating",
+  "s": 206.64,
+  "e": 207.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 207.12,
+  "e": 207.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 207.98,
+  "e": 208.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sentenced",
+  "s": 208.34,
+  "e": 208.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 208.66,
+  "e": 209.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "30",
+  "s": 209.06,
+  "e": 209.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "days",
+  "s": 209.28,
+  "e": 209.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 209.58,
+  "e": 209.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prison",
+  "s": 209.82,
+  "e": 210.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "plus",
+  "s": 210.06,
+  "e": 210.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "3",
+  "s": 210.38,
+  "e": 210.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "years",
+  "s": 210.7,
+  "e": 210.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "supervised",
+  "s": 210.96,
+  "e": 211.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "release.",
+  "s": 211.64,
+  "e": 212.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "The",
+  "s": 213.26,
+  "e": 213.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Eleventh",
+  "s": 213.7,
+  "e": 214.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Circuit",
+  "s": 214.04,
+  "e": 214.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "affirmed",
+  "s": 214.44,
+  "e": 215.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates'",
+  "s": 215.22,
+  "e": 215.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "felony",
+  "s": 216.32,
+  "e": 216.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "conviction.",
+  "s": 216.74,
+  "e": 217.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Section",
+  "s": 217.5,
+  "e": 218.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519's",
+  "s": 218.78,
+  "e": 220.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "reference",
+  "s": 220.02,
+  "e": 220.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 220.3,
+  "e": 220.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 220.74,
+  "e": 221.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "objects",
+  "s": 221.38,
+  "e": 222.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "plainly",
+  "s": 222.18,
+  "e": 223.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "encompasses",
+  "s": 223.66,
+  "e": 224.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 224.42,
+  "e": 224.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish,",
+  "s": 224.84,
+  "e": 225.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 225.34,
+  "e": 225.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "court",
+  "s": 225.54,
+  "e": 225.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 225.62,
+  "e": 225.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "appeals",
+  "s": 225.82,
+  "e": 226.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "ruled,",
+  "s": 226.14,
+  "e": 226.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "for",
+  "s": 227.14,
+  "e": 227.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 227.36,
+  "e": 227.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "dictionary",
+  "s": 227.56,
+  "e": 228.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "definition",
+  "s": 228.02,
+  "e": 228.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 228.62,
+  "e": 228.88,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 228.88,
+  "e": 229.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 229.06,
+  "e": 229.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 229.5,
+  "e": 230.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 230.06,
+  "e": 230.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "an",
+  "s": 230.56,
+  "e": 230.78,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 230.78,
+  "e": 231.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "possessing",
+  "s": 231.24,
+  "e": 232.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "physical",
+  "s": 232.26,
+  "e": 232.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "form.",
+  "s": 232.82,
+  "e": 233.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "We",
+  "s": 235.06,
+  "e": 235.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "reverse",
+  "s": 235.34,
+  "e": 235.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 235.86,
+  "e": 236.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Eleventh",
+  "s": 236.14,
+  "e": 236.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Circuit's",
+  "s": 236.42,
+  "e": 237.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "judgment.",
+  "s": 237.0,
+  "e": 237.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "A",
+  "s": 237.96,
+  "e": 238.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fish",
+  "s": 238.14,
+  "e": 238.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "no",
+  "s": 238.34,
+  "e": 238.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "doubt",
+  "s": 238.64,
+  "e": 238.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "falls",
+  "s": 238.92,
+  "e": 239.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "within",
+  "s": 239.28,
+  "e": 239.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 239.64,
+  "e": 239.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "dictionary",
+  "s": 239.84,
+  "e": 240.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "definition",
+  "s": 240.34,
+  "e": 240.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 240.96,
+  "e": 241.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 241.28,
+  "e": 241.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object.",
+  "s": 241.7,
+  "e": 242.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "It",
+  "s": 242.4,
+  "e": 242.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "can",
+  "s": 242.92,
+  "e": 243.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "be",
+  "s": 243.12,
+  "e": 243.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "seen,",
+  "s": 243.3,
+  "e": 243.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "caught,",
+  "s": 244.1,
+  "e": 244.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 244.48,
+  "e": 244.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "handled.",
+  "s": 244.62,
+  "e": 245.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "In",
+  "s": 246.04,
+  "e": 246.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "law",
+  "s": 246.96,
+  "e": 247.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "as",
+  "s": 247.28,
+  "e": 247.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 247.64,
+  "e": 247.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "life,",
+  "s": 247.84,
+  "e": 248.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "however,",
+  "s": 248.18,
+  "e": 248.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 248.82,
+  "e": 249.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "same",
+  "s": 249.0,
+  "e": 249.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "words",
+  "s": 249.3,
+  "e": 249.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sometimes",
+  "s": 249.66,
+  "e": 250.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "mean",
+  "s": 250.26,
+  "e": 250.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "different",
+  "s": 250.66,
+  "e": 251.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "things",
+  "s": 251.02,
+  "e": 251.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 251.38,
+  "e": 251.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "different",
+  "s": 251.62,
+  "e": 251.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "contexts.",
+  "s": 251.9,
+  "e": 252.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Mindful",
+  "s": 253.18,
+  "e": 253.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that",
+  "s": 253.7,
+  "e": 254.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 254.48,
+  "e": 254.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Sawbains",
+  "s": 254.86,
+  "e": 255.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "-Oxley",
+  "s": 255.3,
+  "e": 255.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Congress",
+  "s": 255.86,
+  "e": 256.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "trained",
+  "s": 256.4,
+  "e": 256.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "its",
+  "s": 256.98,
+  "e": 257.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "attention",
+  "s": 257.18,
+  "e": 257.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "on",
+  "s": 257.8,
+  "e": 258.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "deception",
+  "s": 258.58,
+  "e": 259.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 259.1,
+  "e": 259.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "financial",
+  "s": 259.62,
+  "e": 260.16,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "recordkeeping,",
+  "s": 260.16,
+  "e": 261.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "we",
+  "s": 261.64,
+  "e": 262.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "conclude",
+  "s": 262.02,
+  "e": 262.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that",
+  "s": 262.5,
+  "e": 262.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 262.8,
+  "e": 263.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 263.06,
+  "e": 263.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 263.52,
+  "e": 264.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "caught",
+  "s": 264.2,
+  "e": 265.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "by",
+  "s": 265.0,
+  "e": 265.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519's",
+  "s": 265.42,
+  "e": 266.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "net",
+  "s": 266.82,
+  "e": 267.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 267.02,
+  "e": 267.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "one",
+  "s": 267.76,
+  "e": 268.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "used",
+  "s": 268.04,
+  "e": 268.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 268.5,
+  "e": 268.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "record",
+  "s": 268.94,
+  "e": 269.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 269.42,
+  "e": 269.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "preserve",
+  "s": 269.74,
+  "e": 270.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "information",
+  "s": 270.32,
+  "e": 271.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 271.42,
+  "e": 272.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "does",
+  "s": 272.42,
+  "e": 272.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "not",
+  "s": 272.7,
+  "e": 273.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "include",
+  "s": 273.04,
+  "e": 273.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 273.64,
+  "e": 274.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 274.34,
+  "e": 275.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "every",
+  "s": 275.58,
+  "e": 275.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 275.98,
+  "e": 276.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "found",
+  "s": 276.54,
+  "e": 277.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "on",
+  "s": 277.1,
+  "e": 277.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "land",
+  "s": 277.48,
+  "e": 277.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 277.86,
+  "e": 278.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 278.4,
+  "e": 278.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 278.62,
+  "e": 278.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sea.",
+  "s": 278.82,
+  "e": 279.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Familiar",
+  "s": 280.32,
+  "e": 280.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "interpretive",
+  "s": 280.76,
+  "e": 281.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "guides",
+  "s": 281.56,
+  "e": 282.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "support",
+  "s": 282.02,
+  "e": 282.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "our",
+  "s": 282.9,
+  "e": 283.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "reading.",
+  "s": 283.2,
+  "e": 283.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Section",
+  "s": 284.36,
+  "e": 284.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519's",
+  "s": 284.64,
+  "e": 285.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "title,",
+  "s": 285.9,
+  "e": 286.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "which",
+  "s": 286.74,
+  "e": 287.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "refers",
+  "s": 287.22,
+  "e": 287.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "only",
+  "s": 287.52,
+  "e": 287.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 287.92,
+  "e": 288.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "records,",
+  "s": 288.14,
+  "e": 288.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "gives",
+  "s": 289.18,
+  "e": 289.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "no",
+  "s": 289.38,
+  "e": 289.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "hint",
+  "s": 289.72,
+  "e": 290.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that",
+  "s": 290.12,
+  "e": 290.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 290.76,
+  "e": 290.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "section",
+  "s": 290.94,
+  "e": 291.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "was",
+  "s": 291.26,
+  "e": 291.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "intended",
+  "s": 291.54,
+  "e": 291.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 291.94,
+  "e": 292.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prohibit",
+  "s": 292.24,
+  "e": 292.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 292.58,
+  "e": 292.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "destruction",
+  "s": 292.9,
+  "e": 293.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 293.44,
+  "e": 294.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "all",
+  "s": 294.12,
+  "e": 294.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "manner",
+  "s": 294.42,
+  "e": 294.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 294.76,
+  "e": 295.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "physical",
+  "s": 295.3,
+  "e": 295.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "evidence.",
+  "s": 295.76,
+  "e": 296.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Furthermore,",
+  "s": 296.96,
+  "e": 297.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Congress",
+  "s": 298.2,
+  "e": 298.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "inserted",
+  "s": 298.5,
+  "e": 299.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 299.12,
+  "e": 299.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "new",
+  "s": 299.4,
+  "e": 299.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "events",
+  "s": 299.58,
+  "e": 299.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "described",
+  "s": 299.98,
+  "e": 300.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 300.5,
+  "e": 300.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 300.8,
+  "e": 301.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "into",
+  "s": 301.6,
+  "e": 302.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 302.42,
+  "e": 302.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Criminal",
+  "s": 302.7,
+  "e": 303.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Code",
+  "s": 303.02,
+  "e": 303.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "next",
+  "s": 303.62,
+  "e": 304.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 304.3,
+  "e": 304.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "specialized",
+  "s": 304.58,
+  "e": 305.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sections",
+  "s": 305.12,
+  "e": 305.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "aimed",
+  "s": 305.82,
+  "e": 306.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "at",
+  "s": 306.3,
+  "e": 306.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "corporate",
+  "s": 306.6,
+  "e": 306.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fraud",
+  "s": 306.9,
+  "e": 307.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 307.4,
+  "e": 307.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "financial",
+  "s": 307.68,
+  "e": 308.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "audits.",
+  "s": 308.24,
+  "e": 308.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "As",
+  "s": 309.78,
+  "e": 310.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "part",
+  "s": 310.46,
+  "e": 310.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 310.84,
+  "e": 311.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Sawbains",
+  "s": 311.68,
+  "e": 312.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "-Oxley,",
+  "s": 312.14,
+  "e": 312.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Congress",
+  "s": 312.88,
+  "e": 313.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "also",
+  "s": 313.2,
+  "e": 313.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "enacted",
+  "s": 313.86,
+  "e": 314.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Section",
+  "s": 314.56,
+  "e": 315.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1512c1,",
+  "s": 315.52,
+  "e": 317.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "another",
+  "s": 317.92,
+  "e": 318.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "new",
+  "s": 318.48,
+  "e": 319.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "obstruction",
+  "s": 319.02,
+  "e": 319.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 319.74,
+  "e": 320.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "justice",
+  "s": 320.02,
+  "e": 320.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "offense.",
+  "s": 320.42,
+  "e": 320.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Section",
+  "s": 321.58,
+  "e": 321.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1512c1",
+  "s": 321.98,
+  "e": 323.46,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "was",
+  "s": 323.46,
+  "e": 323.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "drafted",
+  "s": 323.7,
+  "e": 324.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 324.24,
+  "e": 324.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "proposed",
+  "s": 324.98,
+  "e": 325.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "after",
+  "s": 325.7,
+  "e": 327.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Congress",
+  "s": 327.02,
+  "e": 327.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "framed",
+  "s": 327.64,
+  "e": 328.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519.",
+  "s": 328.3,
+  "e": 329.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Section",
+  "s": 329.4,
+  "e": 330.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1512c1",
+  "s": 330.4,
+  "e": 332.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prohibits",
+  "s": 332.4,
+  "e": 333.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 333.2,
+  "e": 333.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "destruction",
+  "s": 333.56,
+  "e": 334.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 334.08,
+  "e": 334.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "concealment",
+  "s": 334.42,
+  "e": 335.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 335.2,
+  "e": 335.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 335.64,
+  "e": 335.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "record,",
+  "s": 335.94,
+  "e": 336.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "document,",
+  "s": 336.24,
+  "e": 336.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 336.88,
+  "e": 337.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "other",
+  "s": 337.18,
+  "e": 337.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 337.5,
+  "e": 338.16,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "with",
+  "s": 338.16,
+  "e": 338.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "intent",
+  "s": 338.76,
+  "e": 339.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 339.1,
+  "e": 339.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "obstruct",
+  "s": 339.42,
+  "e": 339.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "an",
+  "s": 339.98,
+  "e": 340.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "official",
+  "s": 340.56,
+  "e": 340.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "proceeding.",
+  "s": 340.96,
+  "e": 341.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Other",
+  "s": 342.5,
+  "e": 342.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 342.72,
+  "e": 343.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 343.38,
+  "e": 343.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1512c1's",
+  "s": 343.92,
+  "e": 346.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "context,",
+  "s": 346.62,
+  "e": 347.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "it",
+  "s": 347.64,
+  "e": 347.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 347.64,
+  "e": 347.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "undisputed,",
+  "s": 347.92,
+  "e": 348.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "does",
+  "s": 350.1,
+  "e": 350.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "refer",
+  "s": 350.34,
+  "e": 350.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 350.68,
+  "e": 351.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 351.04,
+  "e": 351.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "physical",
+  "s": 351.42,
+  "e": 351.88,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object.",
+  "s": 351.88,
+  "e": 352.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "But",
+  "s": 352.48,
+  "e": 353.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "if",
+  "s": 353.62,
+  "e": 354.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 354.0,
+  "e": 354.48,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 354.48,
+  "e": 355.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 355.08,
+  "e": 355.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 355.38,
+  "e": 356.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "already",
+  "s": 356.32,
+  "e": 357.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "covered",
+  "s": 357.04,
+  "e": 357.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 357.56,
+  "e": 357.9,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "waterfront",
+  "s": 357.9,
+  "e": 358.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "without",
+  "s": 360.35,
+  "e": 360.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "reaching",
+  "s": 360.76,
+  "e": 361.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 361.32,
+  "e": 362.38,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "physical",
+  "s": 362.38,
+  "e": 362.84,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 362.84,
+  "e": 363.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "under",
+  "s": 363.3,
+  "e": 363.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 363.7,
+  "e": 363.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sun,",
+  "s": 363.96,
+  "e": 364.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "reaching",
+  "s": 364.96,
+  "e": 365.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 365.24,
+  "e": 365.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "physical",
+  "s": 365.82,
+  "e": 366.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object",
+  "s": 366.26,
+  "e": 366.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "under",
+  "s": 366.66,
+  "e": 367.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 367.02,
+  "e": 367.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sun,",
+  "s": 367.26,
+  "e": 367.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "then",
+  "s": 367.82,
+  "e": 368.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "why",
+  "s": 368.34,
+  "e": 368.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "would",
+  "s": 368.68,
+  "e": 368.94,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Congress",
+  "s": 368.94,
+  "e": 369.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "later",
+  "s": 369.34,
+  "e": 369.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "enact",
+  "s": 369.96,
+  "e": 370.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1512c1",
+  "s": 370.4,
+  "e": 372.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 372.04,
+  "e": 372.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "do",
+  "s": 372.92,
+  "e": 373.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 373.18,
+  "e": 373.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "very",
+  "s": 373.42,
+  "e": 373.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "same",
+  "s": 373.68,
+  "e": 374.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "thing?",
+  "s": 374.02,
+  "e": 374.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Particular",
+  "s": 375.28,
+  "e": 375.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "words",
+  "s": 375.8,
+  "e": 376.16,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "employed",
+  "s": 376.16,
+  "e": 376.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 376.62,
+  "e": 376.88,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 376.88,
+  "e": 377.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "also",
+  "s": 377.68,
+  "e": 378.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "support",
+  "s": 378.22,
+  "e": 378.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "our",
+  "s": 378.76,
+  "e": 379.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "reading.",
+  "s": 379.0,
+  "e": 379.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Section",
+  "s": 379.9,
+  "e": 380.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 380.14,
+  "e": 381.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "expressly",
+  "s": 381.02,
+  "e": 381.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prohibits",
+  "s": 381.66,
+  "e": 382.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "falsifying",
+  "s": 382.26,
+  "e": 383.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 383.14,
+  "e": 383.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "making",
+  "s": 383.74,
+  "e": 384.1,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 384.1,
+  "e": 384.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "false",
+  "s": 384.36,
+  "e": 384.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "entry",
+  "s": 384.64,
+  "e": 385.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 385.04,
+  "e": 385.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "any",
+  "s": 385.8,
+  "e": 386.12,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "record,",
+  "s": 386.12,
+  "e": 386.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "document,",
+  "s": 386.88,
+  "e": 387.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 387.4,
+  "e": 387.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tangible",
+  "s": 387.68,
+  "e": 388.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "object.",
+  "s": 388.08,
+  "e": 388.66,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Falsifying",
+  "s": 389.54,
+  "e": 389.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 389.86,
+  "e": 390.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "record",
+  "s": 390.18,
+  "e": 390.5,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 390.5,
+  "e": 390.88,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "document",
+  "s": 390.88,
+  "e": 391.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 391.4,
+  "e": 391.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "readily",
+  "s": 391.74,
+  "e": 392.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "comprehended.",
+  "s": 392.18,
+  "e": 393.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Fish,",
+  "s": 393.86,
+  "e": 394.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "one",
+  "s": 394.46,
+  "e": 394.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "may",
+  "s": 394.58,
+  "e": 394.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "fry,",
+  "s": 394.8,
+  "e": 395.2,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "but",
+  "s": 395.88,
+  "e": 396.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "may",
+  "s": 396.28,
+  "e": 396.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "one",
+  "s": 396.96,
+  "e": 397.34,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "falsify",
+  "s": 397.34,
+  "e": 398.22,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "or",
+  "s": 398.22,
+  "e": 398.56,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "make",
+  "s": 398.56,
+  "e": 398.8,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 398.8,
+  "e": 399.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "false",
+  "s": 399.0,
+  "e": 399.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "entry",
+  "s": 399.3,
+  "e": 399.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 399.7,
+  "e": 400.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 400.52,
+  "e": 400.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "seed",
+  "s": 400.68,
+  "e": 400.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "-dwelling",
+  "s": 400.96,
+  "e": 401.44,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "creatures.",
+  "s": 401.44,
+  "e": 401.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "For",
+  "s": 403.3,
+  "e": 403.58,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "these",
+  "s": 403.58,
+  "e": 403.86,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 403.86,
+  "e": 404.02,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "other",
+  "s": 404.02,
+  "e": 404.24,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "reasons",
+  "s": 404.24,
+  "e": 404.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "developed",
+  "s": 404.7,
+  "e": 405.64,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 405.64,
+  "e": 406.0,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "separate",
+  "s": 406.0,
+  "e": 406.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "opinions",
+  "s": 406.3,
+  "e": 406.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Justice",
+  "s": 406.82,
+  "e": 407.3,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Alito",
+  "s": 407.3,
+  "e": 407.74,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 407.74,
+  "e": 408.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "I",
+  "s": 408.08,
+  "e": 408.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "have",
+  "s": 408.28,
+  "e": 408.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "filed,",
+  "s": 408.6,
+  "e": 408.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 409.48,
+  "e": 409.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Court",
+  "s": 409.7,
+  "e": 409.96,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "concludes",
+  "s": 409.96,
+  "e": 410.54,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that",
+  "s": 410.54,
+  "e": 410.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Captain",
+  "s": 410.98,
+  "e": 411.4,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Yates",
+  "s": 411.4,
+  "e": 411.76,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "did",
+  "s": 411.76,
+  "e": 412.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "not",
+  "s": 412.08,
+  "e": 412.36,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "violate",
+  "s": 412.36,
+  "e": 412.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "1519",
+  "s": 412.98,
+  "e": 414.92,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "by",
+  "s": 414.92,
+  "e": 415.28,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "dumping",
+  "s": 415.28,
+  "e": 415.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "six",
+  "s": 415.82,
+  "e": 416.42,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "dozen",
+  "s": 416.42,
+  "e": 416.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "small",
+  "s": 416.82,
+  "e": 417.26,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "-sized",
+  "s": 417.26,
+  "e": 417.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "grouper",
+  "s": 417.62,
+  "e": 418.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "back",
+  "s": 418.08,
+  "e": 418.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "into",
+  "s": 418.68,
+  "e": 419.06,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 419.06,
+  "e": 419.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "sea.",
+  "s": 419.32,
+  "e": 419.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Justice",
+  "s": 420.38,
+  "e": 420.68,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Kagan",
+  "s": 420.68,
+  "e": 421.04,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "has",
+  "s": 421.04,
+  "e": 421.32,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "filed",
+  "s": 421.32,
+  "e": 421.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 421.6,
+  "e": 421.82,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "dissenting",
+  "s": 421.82,
+  "e": 422.18,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "opinion",
+  "s": 422.18,
+  "e": 422.72,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "in",
+  "s": 422.72,
+  "e": 423.62,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "which",
+  "s": 423.62,
+  "e": 424.14,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Justices",
+  "s": 424.14,
+  "e": 425.08,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Scalia,",
+  "s": 425.08,
+  "e": 425.6,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Kennedy,",
+  "s": 426.42,
+  "e": 426.7,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 427.42,
+  "e": 427.52,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Thomas",
+  "s": 427.52,
+  "e": 427.98,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "join.",
+  "s": 427.98,
+  "e": 428.4,
+  "speaker": "JUSTICE GINSBURG"
+ }
+]

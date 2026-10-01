@@ -167,17 +167,23 @@ def parse_transcript(pdf):
     start = next(i for i, l in enumerate(lines) if l.startswith("P R O C E E D I N G S"))
     end = next(i for i, l in enumerate(lines) if l.startswith("(Whereupon"))
     turns = []
+    section = ""  # current argument heading, e.g. "ORAL ARGUMENT OF ... ON BEHALF OF THE PETITIONER"
     in_heading = False  # headings can run over several all-caps lines ("FOR UNITED STATES, AS ...")
     for line in lines[start + 1:end]:
         if SECTION_RE.match(line) or TIME_RE.match(line):
+            if re.match(r"^(ORAL|REBUTTAL) ARGUMENT OF", line):
+                section = line
+            elif SECTION_RE.match(line) and not line.startswith("P R O"):
+                section += " " + line
             in_heading = True
             continue
         m = SPEAKER_RE.match(line)
         if in_heading and not m and line == line.upper():
+            section += " " + line
             continue
         in_heading = False
         if m:
-            turns.append({"speaker": m.group(1).upper(), "text": m.group(2)})
+            turns.append({"speaker": m.group(1).upper(), "text": m.group(2), "section": section})
         elif turns:
             turns[-1]["text"] += " " + line
     for t in turns:
@@ -188,7 +194,7 @@ def parse_transcript(pdf):
 def tokenize_turn(text):
     """Split turn text into official words. Punctuation-only tokens ("--") are glued to a
     neighbouring word; "(Laughter.)" is kept as one marker token."""
-    text = text.replace(LAUGH, f" {LAUGH} ")
+    text = re.sub(r"\(\s*Laughter\s*\.?\s*\)\.?", f" {LAUGH} ", text)  # "(Laughter.)", "(Laughter)."
     toks = []
     pending_prefix = ""
     for tok in text.split():
@@ -386,13 +392,41 @@ def trim_stretched(spoken, voiced, max_len=STRETCH_S, edge=0.3):
         ns = runs[0][0] if runs[0][0] - s >= 0.1 else s
         ne = runs[-1][1] if e - runs[-1][1] >= 0.1 else e
         if ne - ns >= 0.1 and (ns > s or ne < e):
-            o["s"], o["e"] = round(ns, 3), round(ne, 3)
+            o["s"], o["e"] = round(float(ns), 3), round(float(ne), 3)
             trimmed += 1
     return trimmed
 
 
 def is_citation(w):
     return len(re.findall(r"\d", w)) >= 3
+
+
+class WindowASR:
+    """Whisper on a short stretch of the recording, heard without the rest of it. Results are
+    cached by window in a JSON file so re-runs don't re-transcribe."""
+
+    def __init__(self, audio, model_name, cache):
+        self.audio, self.model_name, self.cache = audio, model_name, cache
+        self.store = json.loads(cache.read_text()) if cache.exists() else {}
+        self.model = None
+
+    def get(self, ws, we):
+        key = f"{self.model_name}:{ws:.3f}-{we:.3f}"
+        if key not in self.store:
+            if self.model is None:
+                from faster_whisper import WhisperModel
+                log(f"Re-transcribing short windows with {self.model_name}")
+                self.model = WhisperModel(self.model_name, device="cpu", compute_type="int8")
+            pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{ws:.3f}", "-t", f"{we - ws:.3f}",
+                                  "-i", str(self.audio), "-ac", "1", "-ar", "16000", "-f", "s16le", "-"],
+                                 capture_output=True, check=True).stdout
+            x = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
+            segs, _ = self.model.transcribe(x, language="en", word_timestamps=True, vad_filter=False,
+                                            beam_size=5)
+            self.store[key] = [{"w": w.word.strip(), "s": round(ws + float(w.start), 3),
+                                "e": round(ws + float(w.end), 3)} for seg in segs for w in seg.words]
+            self.cache.write_text(json.dumps(self.store))
+        return self.store[key]
 
 
 def rewindow_long_words(spoken, audio, model_name, voiced, cache, limit=3.0, pad=3.0):
@@ -404,28 +438,13 @@ def rewindow_long_words(spoken, audio, model_name, voiced, cache, limit=3.0, pad
     long_idx = [i for i, o in enumerate(spoken) if o["e"] - o["s"] > limit and not is_citation(o["w"])]
     if not long_idx:
         return 0
-    store = json.loads(cache.read_text()) if cache.exists() else {}
-    model, fixed = None, 0
+    wasr, fixed = WindowASR(audio, model_name, cache), 0
     for i in long_idx:
         o = spoken[i]
         if o["e"] - o["s"] <= limit:  # fixed by an earlier window
             continue
         ws, we = max(0.0, o["s"] - pad), o["e"] + pad
-        key = f"{model_name}:{ws:.3f}-{we:.3f}"
-        if key not in store:
-            if model is None:
-                from faster_whisper import WhisperModel
-                log(f"Re-transcribing windows around long words with {model_name}")
-                model = WhisperModel(model_name, device="cpu", compute_type="int8")
-            pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{ws:.3f}", "-t", f"{we - ws:.3f}",
-                                  "-i", str(audio), "-ac", "1", "-ar", "16000", "-f", "s16le", "-"],
-                                 capture_output=True, check=True).stdout
-            x = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
-            segs, _ = model.transcribe(x, language="en", word_timestamps=True, vad_filter=False, beam_size=5)
-            store[key] = [{"w": w.word.strip(), "s": round(ws + float(w.start), 3), "e": round(ws + float(w.end), 3)}
-                          for seg in segs for w in seg.words]
-            cache.write_text(json.dumps(store))
-        win = store[key]
+        win = wasr.get(ws, we)
         # official words wholly inside the window, bounded by untouched neighbours
         k0 = next(k for k in range(i, -1, -1) if k == 0 or spoken[k - 1]["s"] < ws)
         k1 = next(k for k in range(i, len(spoken)) if k == len(spoken) - 1 or spoken[k + 1]["e"] > we)
@@ -520,6 +539,8 @@ def main():
     ap.add_argument("--model", default="medium.en", help="faster-whisper model (default medium.en)")
     ap.add_argument("--pdf-url", help="override the transcript PDF URL")
     ap.add_argument("--mp3-url", help="override the audio URL (e.g. an oyez.org MP3)")
+    ap.add_argument("--opinion", action="store_true",
+                    help="also fetch and transcribe the opinion announcement from oyez.org (Whisper only)")
     args = ap.parse_args()
 
     root = Path(__file__).resolve().parent / "projects" / args.project
@@ -630,7 +651,14 @@ def main():
         if not isinstance(v, dict):
             continue
         log(f"check {k}: {'PASS' if v['ok'] else 'FAIL'} {v['detail']}")
+    opening_start, opening = petitioner_opening(official, turns)
+    opinion = process_opinion(args.case, args.year, root, work, args.model) if args.opinion else None
+    if opinion and opinion.get("found"):
+        log(f"Opinion announcement: {opinion['words']} words, {fmt_ts(opinion['duration'])}")
+    elif opinion:
+        log(f"No opinion announcement on {opinion['page_url']} {opinion.get('error', '')}")
     stats = {
+        "opening_start": opening_start, "opening": opening, "opinion": opinion,
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
         "pdf_url": pdf_url, "model": args.model, "duration": duration,
         "asr_elapsed_s": asr.get("elapsed_s"), "asr_words": len(asr_words),
@@ -644,6 +672,180 @@ def main():
     log(f"Wrote {root}")
     if not all(v["ok"] for v in checks.values() if isinstance(v, dict)):
         sys.exit("Sanity checks failed, see README.md")
+
+
+OYEZ_API = "https://api.oyez.org"
+
+
+def oyez_speaker(name):
+    """Oyez speaker name -> transcript style label ("JUSTICE GINSBURG", "CHIEF JUSTICE ROBERTS")."""
+    if not name:
+        return "UNKNOWN"
+    last = re.sub(r",? (Jr|Sr|II|III)\.?$", "", name).split()[-1].upper()
+    return f"CHIEF JUSTICE {last}" if last in ("ROBERTS", "REHNQUIST", "BURGER", "WARREN") else f"JUSTICE {last}"
+
+
+def process_opinion(case, year, root, work, model_name):
+    """Opinion announcement from Oyez: audio/opinion.mp3, opinion_words.json, opinion_lines.json.
+    Wording and times are Whisper's alone (there is no official transcript); speaker names come
+    from the turn boundaries in Oyez's own transcript. Returns facts for the README."""
+    case_url = f"{OYEZ_API}/cases/{year}/{case}"
+    info = {"case_url": case_url, "page_url": f"https://www.oyez.org/cases/{year}/{case}", "found": False}
+    try:
+        cdata = json.loads(fetch(case_url))
+    except Exception as exc:  # network or API change: report rather than fail the whole run
+        info["error"] = str(exc)
+        return info
+    ann = cdata.get("opinion_announcement") or []
+    info["count"] = len(ann)
+    if not ann:
+        return info
+    media = json.loads(fetch(ann[0]["href"]))
+    mp3_url = next((m["href"] for m in media.get("media_file") or [] if m.get("mime") == "audio/mpeg"), None)
+    if not mp3_url:
+        info["error"] = "announcement listed but no MP3 file"
+        return info
+    info.update(found=True, title=ann[0].get("title"), media_url=ann[0]["href"], mp3_url=mp3_url)
+    mp3 = root / "audio" / "opinion.mp3"
+    if not mp3.exists():
+        log(f"Downloading opinion announcement {mp3_url}")
+        fetch(mp3_url, mp3)  # kept as published: re-encoding a 32 kbps file gains nothing
+    info["duration"] = audio_duration(mp3)
+    info["mp3_bytes"] = mp3.stat().st_size
+
+    asr = run_asr(mp3, model_name, work / f"asr_opinion_{model_name}.json")
+    info["asr_elapsed_s"] = asr.get("elapsed_s")
+    words = [{"w": w["w"], "s": w["s"], "e": w["e"]} for w in asr["words"]]
+    _, _, _, voiced, _ = loudness(mp3)
+    info["trimmed"] = trim_stretched(words, voiced)
+    info["rewindowed"] = rewindow_long_words(words, mp3, model_name, voiced,
+                                             work / f"asr_windows_opinion_{model_name}.json")
+
+    turns, oyez_words = [], []
+    for sec in (media.get("transcript") or {}).get("sections") or []:
+        for t in sec.get("turns") or []:
+            turns.append({"speaker": oyez_speaker((t.get("speaker") or {}).get("name")),
+                          "s": float(t["start"]), "e": float(t["stop"])})
+            oyez_words += " ".join(b["text"] for b in t.get("text_blocks") or []).split()
+    info["speaker_turns"] = len(turns)
+
+    # Whisper can invent or mangle text. A run of 3+ words where Whisper and Oyez's transcript
+    # disagree is re-transcribed on its own (6 s either side). If Whisper added words Oyez lacks
+    # and the re-run doesn't hear them, they weren't said: drop them. If the words differ and the
+    # re-run agrees with Oyez, use the re-run's words and times for that stretch.
+    wasr = WindowASR(mp3, model_name, work / f"asr_windows_opinion_{model_name}.json")
+    dropped, redone = [], []
+    if oyez_words:
+        a, b = [norm(w["w"]) for w in words], [norm(w) for w in oyez_words]
+        drop, subs = set(), {}
+
+        def contains(needle, hay):
+            needle = [x for x in needle if x]
+            if not needle:
+                return True
+            m = difflib.SequenceMatcher(None, needle, hay, autojunk=False).find_longest_match(
+                0, len(needle), 0, len(hay))
+            return m.size >= 0.6 * len(needle), m
+
+        for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
+            if op not in ("delete", "replace") or i2 - i1 < 3:
+                continue
+            raw = wasr.get(max(0.0, words[i1]["s"] - 6), words[i2 - 1]["e"] + 6)
+            win = [norm(w["w"]) for w in raw]
+            if contains(a[i1:i2], win)[0]:
+                continue  # the re-run hears Whisper's words too: keep them
+            text = " ".join(w["w"] for w in words[i1:i2])
+            oy = [x for x in b[j1:j2] if x]
+            if op == "delete" or not oy:
+                drop.update(range(i1, i2))
+                dropped.append((words[i1]["s"], words[i2 - 1]["e"], text))
+                continue
+            ok, m = contains(oy, win)
+            if ok and m.size == len(oy):
+                lo = words[i1 - 1]["e"] if i1 > 0 else 0.0
+                hi = words[i2]["s"] if i2 < len(words) else words[i2 - 1]["e"]
+                new = [dict(w) for w in raw[m.b:m.b + m.size]]
+                if not all(lo - 0.05 <= w["s"] <= w["e"] <= hi + 0.05 for w in new):
+                    step = (words[i2 - 1]["e"] - words[i1]["s"]) / len(new)
+                    for k, w in enumerate(new):
+                        w["s"] = round(words[i1]["s"] + k * step, 3)
+                        w["e"] = round(words[i1]["s"] + (k + 1) * step, 3)
+                subs[i1] = (i2, new)
+                redone.append((words[i1]["s"], text, " ".join(w["w"] for w in new)))
+        out, k = [], 0
+        while k < len(words):
+            if k in subs:
+                out += subs[k][1]
+                k = subs[k][0]
+                continue
+            if k not in drop:
+                w = words[k]
+                # invented words sat on top of real speech: a squeezed word right after them
+                # gets their time back
+                if k > 0 and k - 1 in drop and w["e"] - w["s"] < 0.05:
+                    w["s"] = max(next(words[j]["s"] for j in range(k - 1, -1, -1)
+                                      if j - 1 < 0 or j - 1 not in drop), out[-1]["e"] if out else 0.0)
+                out.append(w)
+            k += 1
+        words = out
+        a = [norm(w["w"]) for w in words]
+        sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
+        agree = sum(bl.size for bl in sm.get_matching_blocks())
+        info["oyez_agree"] = (agree, len(a), len(b))
+        info["diffs"] = [(words[i1]["s"] if i1 < len(words) else words[-1]["e"],
+                          " ".join(w["w"] for w in words[i1:i2]), " ".join(oyez_words[j1:j2]))
+                         for op, i1, i2, j1, j2 in sm.get_opcodes() if op != "equal"]
+    info["dropped"], info["redone"] = dropped, redone
+
+    # Speakers: each Oyez turn boundary is snapped to the longest pause between words within
+    # 1.5 s of it, then every word takes the speaker of the turn it falls in.
+    cuts = []
+    for t in turns[1:]:
+        gaps = [(words[k]["s"] - words[k - 1]["e"], k) for k in range(1, len(words))
+                if abs((words[k - 1]["e"] + words[k]["s"]) / 2 - t["s"]) <= 1.5]
+        cuts.append(max(gaps)[1] if gaps else
+                    next((k for k, w in enumerate(words) if w["s"] >= t["s"]), len(words)))
+    for k, w in enumerate(words):
+        w["speaker"] = turns[sum(1 for c in cuts if k >= c)]["speaker"] if turns else "UNKNOWN"
+    (root / "opinion_words.json").write_text(json.dumps(words, indent=1, ensure_ascii=False) + "\n")
+
+    lines = []
+    for w in words:
+        if lines and lines[-1]["speaker"] == w["speaker"]:
+            lines[-1]["e"] = w["e"]
+            # Whisper splits "13-7451" into "13" "-7451": rejoin in the text, keep both timed words
+            lines[-1]["text"] += ("" if w["w"].startswith("-") else " ") + w["w"]
+        else:
+            lines.append({"speaker": w["speaker"], "s": w["s"], "e": w["e"], "text": w["w"]})
+    (root / "opinion_lines.json").write_text(json.dumps(lines, indent=1, ensure_ascii=False) + "\n")
+
+    info["words"] = len(words)
+    info["lines"] = [(l["speaker"], l["s"], l["e"], len(l["text"].split())) for l in lines]
+    order_bad = sum(1 for i in range(1, len(words)) if words[i]["s"] < words[i - 1]["s"])
+    long_bad = [(w["w"], w["s"], w["e"]) for w in words if w["e"] - w["s"] > 3.0 and not is_citation(w["w"])]
+    info["checks"] = {"order_bad": order_bad, "long_bad": long_bad}
+    return info
+
+
+def petitioner_opening(official, turns, seconds=180.0):
+    """Everything said in the first `seconds` of the petitioner's opening argument, as
+    (start time, speaker, text) per turn. Interruptions from the bench are included."""
+    first = next((i for i, t in enumerate(turns)
+                  if re.search(r"ON BEHALF OF (THE )?PETITIONERS?\b", t.get("section", ""))
+                  and t["section"].startswith("ORAL ARGUMENT")), None)
+    if first is None:
+        return None, []
+    words = [o for o in official if o["turn"] >= first]
+    start = next(o["s"] for o in words if o["w"] != LAUGH)
+    out = []
+    for o in words:
+        if o["s"] >= start + seconds:
+            break
+        if out and out[-1][1] == o["speaker"] and out[-1][3] == o["turn"]:
+            out[-1][2].append(o["w"])
+        else:
+            out.append([o["s"], o["speaker"], [o["w"]], o["turn"]])
+    return start, [(s0, spk, " ".join(ws)) for s0, spk, ws, _ in out]
 
 
 def write_readme(root, st):
@@ -734,9 +936,75 @@ matched word's ASR time changes.
 
 Regenerate with:
 
-    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}
+    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{' --opinion' if st.get('opinion') else ''}
 """
+    text += readme_extras(st)
     (root / "README.md").write_text(text)
+
+
+def readme_extras(st):
+    out = ""
+    if st.get("opening"):
+        out += ("\n## Petitioner's opening, first 3 minutes\n\n"
+                f"Everything said from {fmt_ts(st['opening_start'])} to "
+                f"{fmt_ts(st['opening_start'] + 180)}, official wording, with each turn's start time. "
+                "Interruptions from the bench are included.\n\n")
+        out += "\n\n".join(f"[{fmt_ts(s0)}] {spk}: {txt}" for s0, spk, txt in st["opening"]) + "\n"
+    op = st.get("opinion")
+    if op is None:
+        return out
+    out += "\n## Opinion announcement\n\n"
+    if not op.get("found"):
+        why = f" ({op['error']})" if op.get("error") else ""
+        return out + (f"No opinion announcement recording found on {op['page_url']}{why}. "
+                      "Nothing was transcribed.\n")
+    ck = op["checks"]
+    ag = op.get("oyez_agree")
+    agree_txt = (f"{ag[0]} of Whisper's {ag[1]} words ({100 * ag[0] / ag[1]:.1f}%; Oyez has {ag[2]})"
+                 if ag else "nothing (Oyez has no transcript for this recording)")
+    long_txt = (", ".join(f"\"{w}\" {a:.3f}-{b:.3f}" for w, a, b in ck["long_bad"])
+                if ck["long_bad"] else "none")
+    out += f"""The justice reading the decision from the bench, {op['title']}.
+
+- Oyez page: {op['page_url']}
+- Audio: {op['mp3_url']} (saved unchanged as `audio/opinion.mp3`: {op['mp3_bytes']/1e6:.1f} MB)
+- Length: {fmt_ts(op['duration'])} ({op['duration']:.3f} s)
+- Words: {op['words']}, transcribed by faster-whisper `{st['model']}` with the same settings as the
+  argument. **There is no official transcript, so the wording is Whisper's and has not been
+  checked against anything.** Expect the odd misheard word, especially names and citations.
+- Speakers: taken from the turn boundaries in Oyez's own transcript ({op['speaker_turns']} turns);
+  each word goes to the turn its midpoint falls in. Oyez's wording is not used.
+- Word times: Whisper's, with the same stretched-word trimming as the argument ({op['trimmed']}
+  trimmed, {op['rewindowed']} re-transcribed).
+- Checks: {ck['order_bad']} words out of time order; words longer than 3 s: {long_txt}.
+- Cross-check: Oyez's unofficial transcript agrees with {agree_txt}.
+
+Files: `opinion_words.json` (`{{"w", "s", "e", "speaker"}}`) and `opinion_lines.json`
+(`{{"speaker", "s", "e", "text"}}`, one entry per speaker turn).
+
+| speaker | start | end | words |
+|---|---|---|---|
+""" + "\n".join(f"| {spk} | {fmt_ts(a)} | {fmt_ts(b)} | {n} |" for spk, a, b, n in op["lines"]) + "\n"
+    out += "\n### Words Whisper invented\n\n"
+    if op.get("dropped"):
+        out += ("Runs of 3 or more words where Whisper and Oyez's transcript disagree were "
+                "re-transcribed on their own, with 6 s either side. These Whisper words aren't in "
+                "Oyez and weren't heard again, so they were dropped from the files:\n\n")
+        out += "\n".join(f"- {fmt_ts(a)}-{fmt_ts(b)}: \"{txt}\"" for a, b, txt in op["dropped"]) + "\n"
+    else:
+        out += "None found.\n"
+    if op.get("redone"):
+        out += ("\nWhere Whisper's words differed from Oyez's and the re-run agreed with Oyez, the "
+                "re-run's words and times replace the first pass:\n\n")
+        out += "\n".join(f"- {fmt_ts(a)}: \"{old}\" became \"{new}\"" for a, old, new in op["redone"]) + "\n"
+    if op.get("diffs"):
+        out += ("\n### Where Whisper and Oyez disagree\n\n"
+                "Whisper's wording is what's in the files. Check these by ear; Oyez is not "
+                "always right either (\"--\" there often marks a repeat Oyez left out).\n\n"
+                "| time | Whisper | Oyez |\n|---|---|---|\n")
+        out += "\n".join(f"| {fmt_ts(t0)} | {wt.replace('|', '/') or '(nothing)'} | {ot.replace('|', '/') or '(nothing)'} |"
+                          for t0, wt, ot in op["diffs"]) + "\n"
+    return out
 
 
 if __name__ == "__main__":
