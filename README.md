@@ -15,6 +15,7 @@ word by word to the official text.
 | [lozman-house](projects/lozman-house/) | Lozman v. City of Riviera Beach, Florida, No. 11-626 | 1 October 2012 |
 | [star-athletica-uniform](projects/star-athletica-uniform/) | Star Athletica, L.L.C. v. Varsity Brands, Inc., No. 15-866 | 31 October 2016 |
 | [yates-fish](projects/yates-fish/) | Yates v. United States, No. 13-7451 (plus the opinion announcement) | 5 November 2014 |
+| [bowman-soybean](projects/bowman-soybean/) | Bowman v. Monsanto Co., No. 11-796 (plus the opinion announcement) | 19 February 2013 |
 | [jardines-dog](projects/jardines-dog/) | Florida v. Jardines, No. 11-564 (plus the opinion announcement) | 31 October 2012 |
 | [brown-ema-videogames](projects/brown-ema-videogames/) | Brown v. Entertainment Merchants Association, No. 08-1448 (argued as Schwarzenegger v. EMA; plus the opinion announcement) | 2 November 2010 |
 
@@ -33,8 +34,8 @@ that, on the term's transcript listing (`/oral_arguments/argument_transcript/<ye
 
 medium.en on a 4-core CPU runs at or a little faster than realtime: the 61-minute Horne
 argument took 59 minutes, the 59-minute Lozman argument 40, the 62-minute Star Athletica
-argument 49, the 59-minute Yates argument 44, the 61-minute Brown argument 45 and the 62-minute Jardines
-argument 45.
+argument 49, the 59-minute Yates argument 44, the 61-minute Brown argument 45, the 62-minute Jardines
+argument 45 and the 70-minute Bowman argument 48.
 
 Add `--opinion` to also fetch the opinion announcement (the justice reading the decision from
 the bench) from oyez.org and transcribe it. There's no official transcript for those, so the

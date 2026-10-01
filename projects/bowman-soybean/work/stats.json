@@ -1,0 +1,2980 @@
+{
+ "terms": [
+  "soybean(s)",
+  "seed(s)",
+  "generation(s)",
+  "children",
+  "edamame",
+  "science project",
+  "grain elevator",
+  "Roundup",
+  "farmer",
+  "Bowman",
+  "eBay",
+  "bank",
+  "vaccine"
+ ],
+ "mentions": [
+  [
+   5.84,
+   "CHIEF JUSTICE ROBERTS",
+   "Bowman",
+   "We will hear argument next this morning in case 11-796, Bowman v. Monsanto Company.",
+   1
+  ],
+  [
+   31.02,
+   "MR. WALTERS",
+   "seed(s)",
+   "The invention is a bit of DNA that, when inserted into a soy bean seed, makes that seed and all the plants that grow from that seed resistant to the active ingredient in Roundup.",
+   3
+  ],
+  [
+   37.8,
+   "MR. WALTERS",
+   "Roundup",
+   "The invention is a bit of DNA that, when inserted into a soy bean seed, makes that seed and all the plants that grow from that seed resistant to the active ingredient in Roundup.",
+   1
+  ],
+  [
+   43.38,
+   "MR. WALTERS",
+   "seed(s)",
+   "Now, the only way to practice that invention is to plant the seed and to grow more seeds.",
+   2
+  ],
+  [
+   50.6,
+   "CHIEF JUSTICE ROBERTS",
+   "seed(s)",
+   "Why in the world would anybody spend any money to try to improve the seed if as soon as they sold the first one anybody could grow more and have as many of those seeds as they want?",
+   2
+  ],
+  [
+   101.56,
+   "MR. WALTERS",
+   "farmer",
+   "Under Respondent's theory, any farmer who grows a soy bean seed is infringing the patent, but for the grace of Monsanto.",
+   1
+  ],
+  [
+   103.14,
+   "MR. WALTERS",
+   "seed(s)",
+   "Under Respondent's theory, any farmer who grows a soy bean seed is infringing the patent, but for the grace of Monsanto.",
+   1
+  ],
+  [
+   108.26,
+   "MR. WALTERS",
+   "farmer",
+   "And that's -- a lot of farmers in this country, when we have over 90 percent of the acreage that is Roundup Ready.",
+   1
+  ],
+  [
+   111.94,
+   "MR. WALTERS",
+   "Roundup",
+   "And that's -- a lot of farmers in this country, when we have over 90 percent of the acreage that is Roundup Ready.",
+   1
+  ],
+  [
+   119.72,
+   "JUSTICE SCALIA",
+   "farmer",
+   "Any farmer who plants and grows soybeans is violating the patent?",
+   1
+  ],
+  [
+   122.92,
+   "JUSTICE SCALIA",
+   "soybean(s)",
+   "Any farmer who plants and grows soybeans is violating the patent?",
+   1
+  ],
+  [
+   137.74,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "I thought that their claim is that he only violates the patent if he tries to grow additional seeds from his first crop.",
+   1
+  ],
+  [
+   145.54,
+   "MR. WALTERS",
+   "seed(s)",
+   "The reach of Monsanto's theory is that once that seed is sold, even though title has passed to the farmer, and the farmer assumes all risks associated with farming, that they can still control the ownership of that seed, control how that seed is used.",
+   3
+  ],
+  [
+   148.5,
+   "MR. WALTERS",
+   "farmer",
+   "The reach of Monsanto's theory is that once that seed is sold, even though title has passed to the farmer, and the farmer assumes all risks associated with farming, that they can still control the ownership of that seed, control how that seed is used.",
+   2
+  ],
+  [
+   159.44,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "No, not that seed.",
+   1
+  ],
+  [
+   160.94,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "It's different seed.",
+   1
+  ],
+  [
+   162.24,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "That seed is done.",
+   1
+  ],
+  [
+   165.92,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "It's been planted in the ground and has grown other seed.",
+   1
+  ],
+  [
+   167.6,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "It's the other seed we are talking about.",
+   1
+  ],
+  [
+   170.3,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "It's not the very seed that was sold.",
+   1
+  ],
+  [
+   180.24,
+   "MR. WALTERS",
+   "seed(s)",
+   "That's correct, Your Honor, but if we don't apply -- if exhaustion is eliminated, rather, for the progeny seed, then you are taking away the ability of people to exchange these goods freely in commerce.",
+   1
+  ],
+  [
+   190.78,
+   "MR. WALTERS",
+   "grain elevator",
+   "You have essentially a servitude on these things that are exchanged, and every grain elevator who makes a sale is infringing.",
+   1
+  ],
+  [
+   214.62,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "But Monsanto can still prevail if you say that there's a patent infringement, if he plants it for seed and uses the seed to replant.",
+   2
+  ],
+  [
+   233.6,
+   "MR. WALTERS",
+   "seed(s)",
+   "If you assume that there is exhaustion in the seeds that are sold to the farmer -- let's take our particular case here.",
+   1
+  ],
+  [
+   235.28,
+   "MR. WALTERS",
+   "farmer",
+   "If you assume that there is exhaustion in the seeds that are sold to the farmer -- let's take our particular case here.",
+   1
+  ],
+  [
+   238.28,
+   "MR. WALTERS",
+   "Bowman",
+   "Mr. Bowman went to a grain elevator and he bought from the grain elevator without restriction seeds to \u2013 and it was his purpose to plant them.",
+   1
+  ],
+  [
+   239.16,
+   "MR. WALTERS",
+   "grain elevator",
+   "Mr. Bowman went to a grain elevator and he bought from the grain elevator without restriction seeds to \u2013 and it was his purpose to plant them.",
+   2
+  ],
+  [
+   243.22,
+   "MR. WALTERS",
+   "seed(s)",
+   "Mr. Bowman went to a grain elevator and he bought from the grain elevator without restriction seeds to \u2013 and it was his purpose to plant them.",
+   1
+  ],
+  [
+   251.42,
+   "MR. WALTERS",
+   "seed(s)",
+   "Now, the only way that he can make use \u2013- if you assume in the first instance that there is exhaustion to the seeds that Mr. Bowman purchased from the grain elevator, you are taking away any ability for him to use that seed or use the invention.",
+   2
+  ],
+  [
+   252.2,
+   "MR. WALTERS",
+   "Bowman",
+   "Now, the only way that he can make use \u2013- if you assume in the first instance that there is exhaustion to the seeds that Mr. Bowman purchased from the grain elevator, you are taking away any ability for him to use that seed or use the invention.",
+   1
+  ],
+  [
+   253.12,
+   "MR. WALTERS",
+   "grain elevator",
+   "Now, the only way that he can make use \u2013- if you assume in the first instance that there is exhaustion to the seeds that Mr. Bowman purchased from the grain elevator, you are taking away any ability for him to use that seed or use the invention.",
+   1
+  ],
+  [
+   270.94,
+   "MR. WALTERS",
+   "seed(s)",
+   "It has two elements; the first element is planting the crop seed and it's a particular crop seed with all the particular genetics that encode for resistance to Roundup, and then the next step is to apply to the crop and weeds in the field a sufficient amount of glyphosate herbicide.",
+   2
+  ],
+  [
+   277.54,
+   "MR. WALTERS",
+   "Roundup",
+   "It has two elements; the first element is planting the crop seed and it's a particular crop seed with all the particular genetics that encode for resistance to Roundup, and then the next step is to apply to the crop and weeds in the field a sufficient amount of glyphosate herbicide.",
+   1
+  ],
+  [
+   289.26,
+   "MR. WALTERS",
+   "seed(s)",
+   "Now, if you say that there is exhaustion in the seeds that Mr. Bowman purchased from the grain elevator, but you say it doesn't apply to the progeny, you are not allowing him to actually practice the invention to grow more seeds.",
+   2
+  ],
+  [
+   290.14,
+   "MR. WALTERS",
+   "Bowman",
+   "Now, if you say that there is exhaustion in the seeds that Mr. Bowman purchased from the grain elevator, but you say it doesn't apply to the progeny, you are not allowing him to actually practice the invention to grow more seeds.",
+   1
+  ],
+  [
+   291.06,
+   "MR. WALTERS",
+   "grain elevator",
+   "Now, if you say that there is exhaustion in the seeds that Mr. Bowman purchased from the grain elevator, but you say it doesn't apply to the progeny, you are not allowing him to actually practice the invention to grow more seeds.",
+   1
+  ],
+  [
+   300.26,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "No, but you are allowing him to use those seeds for anything else he wants to do.",
+   1
+  ],
+  [
+   304.66,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "It has nothing to do with those seeds.",
+   1
+  ],
+  [
+   305.82,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "There are three generations of seeds.",
+   1
+  ],
+  [
+   306.72,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "There are three generations of seeds.",
+   1
+  ],
+  [
+   308.22,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "Maybe three generations of seeds is enough.",
+   1
+  ],
+  [
+   309.12,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "Maybe three generations of seeds is enough.",
+   1
+  ],
+  [
+   316.04,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "First of you have the Monsanto, the first generation they sold.",
+   1
+  ],
+  [
+   318.9,
+   "JUSTICE BREYER",
+   "children",
+   "They have children, which is the second generation.",
+   1
+  ],
+  [
+   320.44,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "They have children, which is the second generation.",
+   1
+  ],
+  [
+   322.02,
+   "JUSTICE BREYER",
+   "children",
+   "And those children have children, which is the third generation, okay?",
+   2
+  ],
+  [
+   323.66,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "And those children have children, which is the third generation, okay?",
+   1
+  ],
+  [
+   333.72,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "So we are talking here -- he can do what he wants with the first generation.",
+   1
+  ],
+  [
+   340.96,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "And moreover, when he buys them from Monsanto, he can make new seeds.",
+   1
+  ],
+  [
+   342.06,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "He can make generation 2 because they've licensed him to do it.",
+   1
+  ],
+  [
+   346.5,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "Here, he buys generation 2.",
+   1
+  ],
+  [
+   351.04,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "Now, he can do what he wants with those seeds.",
+   1
+  ],
+  [
+   358.66,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "But I'll tell you, there is a problem because the coming about of the third generation is itself the infringement.",
+   1
+  ],
+  [
+   363.1,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "So the second generation seeds have nothing to do with it.",
+   1
+  ],
+  [
+   363.6,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "So the second generation seeds have nothing to do with it.",
+   1
+  ],
+  [
+   377.4,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "If he went into a room and had a box that he bought from a lab and he put rocks in it and he said, hocus-pocus and lo and behold out came the third generation of seeds, he would have infringed Monsanto's patent with that third generation, would he not?",
+   2
+  ],
+  [
+   378.32,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "If he went into a room and had a box that he bought from a lab and he put rocks in it and he said, hocus-pocus and lo and behold out came the third generation of seeds, he would have infringed Monsanto's patent with that third generation, would he not?",
+   1
+  ],
+  [
+   392.24,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "You mean if he goes and finds a new way of making these seeds, which happens to do with you pick some grass and you intertwine it and various things like that, and lo and behold you have a perfect copy of Monsanto's patented seed, he hasn't made it, he hasn't infringed?",
+   2
+  ],
+  [
+   428.42,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "I am saying the problem for you here, I think, is that, infringement lies in the fact that he made generation three.",
+   1
+  ],
+  [
+   432.28,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "It has nothing to do with generation 2.",
+   1
+  ],
+  [
+   439.0,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "But that is, in fact, the way he made these seeds.",
+   1
+  ],
+  [
+   441.56,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "But he can sell, resell generation 2, he can do whatever he wants with it.",
+   1
+  ],
+  [
+   452.32,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "The only thing he cannot do is he cannot create generation 3, just as he couldn't use generation 2 seeds to rob a bank.",
+   2
+  ],
+  [
+   455.74,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "The only thing he cannot do is he cannot create generation 3, just as he couldn't use generation 2 seeds to rob a bank.",
+   1
+  ],
+  [
+   456.8,
+   "JUSTICE BREYER",
+   "bank",
+   "The only thing he cannot do is he cannot create generation 3, just as he couldn't use generation 2 seeds to rob a bank.",
+   1
+  ],
+  [
+   470.26,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "So it's generation 3 that concerns us.",
+   1
+  ],
+  [
+   489.28,
+   "MR. WALTERS",
+   "seed(s)",
+   "Justice Breyer, my response is, if you applied the law that way to side making over use, you are eliminating the Exhaustion Doctrine in the context of -- of patented seeds.",
+   1
+  ],
+  [
+   502.68,
+   "JUSTICE GINSBURG",
+   "seed(s)",
+   "You can use the seed to make new seeds.",
+   2
+  ],
+  [
+   530.06,
+   "MR. WALTERS",
+   "seed(s)",
+   "If you look at claim 130 again, for example, you are saying he can't practice claim 130, which is certainly embodied in the seeds he purchased from the grain elevator.",
+   1
+  ],
+  [
+   531.2,
+   "MR. WALTERS",
+   "grain elevator",
+   "If you look at claim 130 again, for example, you are saying he can't practice claim 130, which is certainly embodied in the seeds he purchased from the grain elevator.",
+   1
+  ],
+  [
+   536.62,
+   "JUSTICE GINSBURG",
+   "seed(s)",
+   "Well, suppose he -- he had never bought any Monsanto seeds.",
+   1
+  ],
+  [
+   539.38,
+   "JUSTICE GINSBURG",
+   "grain elevator",
+   "He just goes to the grain elevator and 90-odd percent of those seeds have the genetic composition.",
+   1
+  ],
+  [
+   543.74,
+   "JUSTICE GINSBURG",
+   "seed(s)",
+   "He just goes to the grain elevator and 90-odd percent of those seeds have the genetic composition.",
+   1
+  ],
+  [
+   560.06,
+   "JUSTICE GINSBURG",
+   "seed(s)",
+   "So he never has to buy any seed, at all, from Monsanto.",
+   1
+  ],
+  [
+   566.02,
+   "MR. WALTERS",
+   "seed(s)",
+   "Well, in practical matters it doesn't work that way because the seed that's available at a grain elevator is not a very good source of seed and farmers are not going to be able to eliminate the need to go to Monsanto or the other seed companies every year by going to the grain elevator.",
+   3
+  ],
+  [
+   567.44,
+   "MR. WALTERS",
+   "grain elevator",
+   "Well, in practical matters it doesn't work that way because the seed that's available at a grain elevator is not a very good source of seed and farmers are not going to be able to eliminate the need to go to Monsanto or the other seed companies every year by going to the grain elevator.",
+   2
+  ],
+  [
+   570.9,
+   "MR. WALTERS",
+   "farmer",
+   "Well, in practical matters it doesn't work that way because the seed that's available at a grain elevator is not a very good source of seed and farmers are not going to be able to eliminate the need to go to Monsanto or the other seed companies every year by going to the grain elevator.",
+   1
+  ],
+  [
+   585.5,
+   "MR. WALTERS",
+   "grain elevator",
+   "Great evidence of that is the fact that my client, every year that he planted a second crop using the grain elevator seed, he bought high quality seed from Pioneer.",
+   1
+  ],
+  [
+   585.98,
+   "MR. WALTERS",
+   "seed(s)",
+   "Great evidence of that is the fact that my client, every year that he planted a second crop using the grain elevator seed, he bought high quality seed from Pioneer.",
+   2
+  ],
+  [
+   589.24,
+   "MR. WALTERS",
+   "grain elevator",
+   "Now, if this grain elevator -- grain elevator seed was so good, why didn't he use it for his first crop?",
+   2
+  ],
+  [
+   589.72,
+   "MR. WALTERS",
+   "seed(s)",
+   "Now, if this grain elevator -- grain elevator seed was so good, why didn't he use it for his first crop?",
+   1
+  ],
+  [
+   600.08,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "Now, when you buy generation 2, well, there are a lot of things you can do with it.",
+   1
+  ],
+  [
+   621.6,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "One, you can't pick up those seeds that you've just bought and throw them in a child's face.",
+   1
+  ],
+  [
+   646.2,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "And that law you have violated when you use it to make generation 3, just as you have violated the law against assault were you to use it to commit an assault.",
+   1
+  ],
+  [
+   718.16,
+   "JUSTICE SOTOMAYOR",
+   "seed(s)",
+   "So that's what I think Justice Breyer is saying, which is you can use the seed, you can plant it, but what you can't do is use its progeny unless you are licensed to because its progeny is a new item.",
+   1
+  ],
+  [
+   807.88,
+   "JUSTICE GINSBURG",
+   "seed(s)",
+   "We've been dealing with an item with the Exhaustion Doctrine and now we have hundreds of items, thousands of items, all growing from that original seed.",
+   1
+  ],
+  [
+   878.52,
+   "MR. WALTERS",
+   "farmer",
+   "And farmers, when they plant seeds, they don't exercise any control or dominion over -- over their crop.",
+   1
+  ],
+  [
+   879.7,
+   "MR. WALTERS",
+   "seed(s)",
+   "And farmers, when they plant seeds, they don't exercise any control or dominion over -- over their crop.",
+   1
+  ],
+  [
+   899.7,
+   "JUSTICE SOTOMAYOR",
+   "seed(s)",
+   "-- in growing the seed?",
+   1
+  ],
+  [
+   917.16,
+   "MR. WALTERS",
+   "farmer",
+   "You ask any farmer who's lived through a drought or through a terrible flood and they will say they're not the ones who are making these --",
+   1
+  ],
+  [
+   925.84,
+   "CHIEF JUSTICE ROBERTS",
+   "seed(s)",
+   "Well, you only need one -- I mean, you throw the seeds on the ground, one or two of them are going to grow and you still have the same case, right?",
+   1
+  ],
+  [
+   935.98,
+   "MR. WALTERS",
+   "seed(s)",
+   "It doesn't matter how you come into possession with these seeds.",
+   1
+  ],
+  [
+   950.66,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "I thought you were going to respond to me that my question then makes it infringement when your client buys generation 1 from Monsanto because they buy generation 1 from Monsanto, they plant it in the ground and lo and behold up comes generation 2.",
+   3
+  ],
+  [
+   962.18,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "And generation 2, on the basis of what I was asking you, is just as much a violation.",
+   1
+  ],
+  [
+   987.64,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "When you create a new generation, you have made a patented item, which you cannot do without the approval of the patent owner.",
+   1
+  ],
+  [
+   999.26,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "Therefore, Monsanto gives that approval when you buy generation 1.",
+   1
+  ],
+  [
+   1014.14,
+   "MR. WALTERS",
+   "farmer",
+   "What Monsanto wants to do in your scenario is they want the farmer to assume all the risks of farming.",
+   1
+  ],
+  [
+   1024.84,
+   "MR. WALTERS",
+   "farmer",
+   "They want -- but they still want to control and act as owners of the property that is owned, no doubt, by that farmer.",
+   1
+  ],
+  [
+   1025.8,
+   "MR. WALTERS",
+   "farmer",
+   "When that farmer grows the progeny seed, that they insure the risk that they're not going to have a crop in the first place.",
+   1
+  ],
+  [
+   1026.96,
+   "MR. WALTERS",
+   "seed(s)",
+   "When that farmer grows the progeny seed, that they insure the risk that they're not going to have a crop in the first place.",
+   1
+  ],
+  [
+   1040.56,
+   "MR. WALTERS",
+   "farmer",
+   "If they drive to the grain dealer to sell their harvest -- they get one paycheck a year, by the way -- they, if they get into a wreck, that's not Monsanto's problem; that's the farmer's problem.",
+   1
+  ],
+  [
+   1044.72,
+   "MR. WALTERS",
+   "farmer",
+   "So what they're essentially asking for is for the farmers to bear all the risks of farming, yet they can sit back and control how that property is used.",
+   1
+  ],
+  [
+   1060.96,
+   "MR. WALTERS",
+   "farmer",
+   "The thing that's very important is this is not a license, this is an outright sale to the farmers of the first generation.",
+   1
+  ],
+  [
+   1061.82,
+   "MR. WALTERS",
+   "generation(s)",
+   "The thing that's very important is this is not a license, this is an outright sale to the farmers of the first generation.",
+   1
+  ],
+  [
+   1065.98,
+   "MR. WALTERS",
+   "seed(s)",
+   "And then they are -- they plant those seeds because they have, under the Exhaustion Doctrine, a right to use the invention, and then those progeny seeds are owned outright by every farmer, and they assume all risk of loss.",
+   2
+  ],
+  [
+   1073.36,
+   "MR. WALTERS",
+   "farmer",
+   "And then they are -- they plant those seeds because they have, under the Exhaustion Doctrine, a right to use the invention, and then those progeny seeds are owned outright by every farmer, and they assume all risk of loss.",
+   1
+  ],
+  [
+   1084.52,
+   "JUSTICE GINSBURG",
+   "seed(s)",
+   "They may -- the seeds are owned by the farmer.",
+   1
+  ],
+  [
+   1087.1,
+   "JUSTICE GINSBURG",
+   "farmer",
+   "They may -- the seeds are owned by the farmer.",
+   1
+  ],
+  [
+   1091.12,
+   "JUSTICE GINSBURG",
+   "seed(s)",
+   "But when he uses them to grow more seeds, he's infringing on that patent.",
+   1
+  ],
+  [
+   1100.82,
+   "MR. WALTERS",
+   "grain elevator",
+   "And those things get sold to the grain elevators, and now every time the grain elevator makes a sale, it's technically infringing.",
+   2
+  ],
+  [
+   1114.48,
+   "MR. WALTERS",
+   "farmer",
+   "And one of the main problems is that you have farmers, their main livelihood here is to sell the seeds that they grow.",
+   1
+  ],
+  [
+   1117.06,
+   "MR. WALTERS",
+   "seed(s)",
+   "And one of the main problems is that you have farmers, their main livelihood here is to sell the seeds that they grow.",
+   1
+  ],
+  [
+   1134.22,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "With some crops if you are going to make seeds, you leave the crop in longer.",
+   1
+  ],
+  [
+   1139.64,
+   "JUSTICE KENNEDY",
+   "soybean(s)",
+   "In -- what about soybeans?",
+   1
+  ],
+  [
+   1140.6,
+   "JUSTICE KENNEDY",
+   "farmer",
+   "If the farmer has the north 40 and the south 40, the north 40, he's going to plants soybeans to be used for flour, human consumption, and south 40, he wants seeds.",
+   1
+  ],
+  [
+   1144.34,
+   "JUSTICE KENNEDY",
+   "soybean(s)",
+   "If the farmer has the north 40 and the south 40, the north 40, he's going to plants soybeans to be used for flour, human consumption, and south 40, he wants seeds.",
+   1
+  ],
+  [
+   1148.6,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "If the farmer has the north 40 and the south 40, the north 40, he's going to plants soybeans to be used for flour, human consumption, and south 40, he wants seeds.",
+   1
+  ],
+  [
+   1152.78,
+   "MR. WALTERS",
+   "farmer",
+   "You know, most farmers are not growing soybeans for -- for seed.",
+   1
+  ],
+  [
+   1154.42,
+   "MR. WALTERS",
+   "soybean(s)",
+   "You know, most farmers are not growing soybeans for -- for seed.",
+   1
+  ],
+  [
+   1157.0,
+   "MR. WALTERS",
+   "seed(s)",
+   "You know, most farmers are not growing soybeans for -- for seed.",
+   1
+  ],
+  [
+   1161.505,
+   "MR. WALTERS",
+   "farmer",
+   "-- various types of farmers who are -- who are growing foundation seed, for example, that is very close to the -- to the first generation seed that's engineered.",
+   1
+  ],
+  [
+   1164.74,
+   "MR. WALTERS",
+   "seed(s)",
+   "-- various types of farmers who are -- who are growing foundation seed, for example, that is very close to the -- to the first generation seed that's engineered.",
+   2
+  ],
+  [
+   1167.84,
+   "MR. WALTERS",
+   "generation(s)",
+   "-- various types of farmers who are -- who are growing foundation seed, for example, that is very close to the -- to the first generation seed that's engineered.",
+   1
+  ],
+  [
+   1171.42,
+   "JUSTICE SCALIA",
+   "soybean(s)",
+   "I thought soybeans are seeds.",
+   1
+  ],
+  [
+   1172.24,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "I thought soybeans are seeds.",
+   1
+  ],
+  [
+   1175.72,
+   "JUSTICE KENNEDY",
+   "soybean(s)",
+   "But that's -- if you're going to use the soybeans for seeds as opposed to flour, do you leave them in the ground any longer?",
+   1
+  ],
+  [
+   1176.52,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "But that's -- if you're going to use the soybeans for seeds as opposed to flour, do you leave them in the ground any longer?",
+   1
+  ],
+  [
+   1208.34,
+   "JUSTICE KAGAN",
+   "seed(s)",
+   "Actually, it seems to me that that answer is peculiarly insufficient in this kind of a case because all that has to happen is that one seed escapes the web of these contracts, and that seed because it can self-replicate in the way that it can, essentially makes all the contracts worthless.",
+   2
+  ],
+  [
+   1231.54,
+   "MR. WALTERS",
+   "seed(s)",
+   "Taking our example here where -- where Petitioner bought commodity seeds, it's an undifferentiated mixture, it can't be overemphasized how different every single seed is, you don't know a Monsanto from a Pioneer from an Asgrow.",
+   2
+  ],
+  [
+   1243.54,
+   "MR. WALTERS",
+   "farmer",
+   "If I am a farmer, I need a particular maturity bean for my field because I don't want it to mature before it gets high enough for the combine to come around and cut it.",
+   1
+  ],
+  [
+   1259.28,
+   "MR. WALTERS",
+   "grain elevator",
+   "So if you go to the grain elevator and you don't know what exactly it is that you want and you just get a mixture, that's not going to be real -- competitive at all to Monsanto's first generation seed.",
+   1
+  ],
+  [
+   1267.76,
+   "MR. WALTERS",
+   "generation(s)",
+   "So if you go to the grain elevator and you don't know what exactly it is that you want and you just get a mixture, that's not going to be real -- competitive at all to Monsanto's first generation seed.",
+   1
+  ],
+  [
+   1268.18,
+   "MR. WALTERS",
+   "seed(s)",
+   "So if you go to the grain elevator and you don't know what exactly it is that you want and you just get a mixture, that's not going to be real -- competitive at all to Monsanto's first generation seed.",
+   1
+  ],
+  [
+   1277.68,
+   "MR. WALTERS",
+   "seed(s)",
+   "Now, the possibility of somebody selecting one and saying, ah, that's the exact one that I need for my field, I'm going to cultivate that and let it grow into enough seeds so I can plant my first crop, that would take a number of years to grow a 1,000-acre farm, and it's not -- and by that time, farmers -- the nature would have changed and evolved where you would want the latest in disease resistance by that point.",
+   1
+  ],
+  [
+   1287.62,
+   "MR. WALTERS",
+   "farmer",
+   "Now, the possibility of somebody selecting one and saying, ah, that's the exact one that I need for my field, I'm going to cultivate that and let it grow into enough seeds so I can plant my first crop, that would take a number of years to grow a 1,000-acre farm, and it's not -- and by that time, farmers -- the nature would have changed and evolved where you would want the latest in disease resistance by that point.",
+   1
+  ],
+  [
+   1297.98,
+   "JUSTICE KENNEDY",
+   "Bowman",
+   "I thought that's exactly what Bowman did here.",
+   1
+  ],
+  [
+   1300.78,
+   "JUSTICE KENNEDY",
+   "grain elevator",
+   "He went to a grain elevator and he -- he used the seeds, and -- and he didn't know exactly the percentage mix, but he used them.",
+   1
+  ],
+  [
+   1303.08,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "He went to a grain elevator and he -- he used the seeds, and -- and he didn't know exactly the percentage mix, but he used them.",
+   1
+  ],
+  [
+   1320.94,
+   "MR. WALTERS",
+   "Roundup",
+   "He selected for the particular trait, Roundup Ready, but there are probably more than a dozen different ways in which the seed can vary -- disease resistance, maturity rates.",
+   1
+  ],
+  [
+   1325.62,
+   "MR. WALTERS",
+   "seed(s)",
+   "He selected for the particular trait, Roundup Ready, but there are probably more than a dozen different ways in which the seed can vary -- disease resistance, maturity rates.",
+   1
+  ],
+  [
+   1336.2,
+   "CHIEF JUSTICE ROBERTS",
+   "seed(s)",
+   "I thought what he did was plant all the commodity seeds, and then applied the Roundup, so that all that was left was the Roundup resistance seeds, and then he used those.",
+   2
+  ],
+  [
+   1338.5,
+   "CHIEF JUSTICE ROBERTS",
+   "Roundup",
+   "I thought what he did was plant all the commodity seeds, and then applied the Roundup, so that all that was left was the Roundup resistance seeds, and then he used those.",
+   2
+  ],
+  [
+   1346.52,
+   "MR. WALTERS",
+   "grain elevator",
+   "But if you look at a field that you plant with grain elevator seed, it's going to be all different color because they're going to be all different variety, they're all going to mature at a different rate.",
+   1
+  ],
+  [
+   1347.08,
+   "MR. WALTERS",
+   "seed(s)",
+   "But if you look at a field that you plant with grain elevator seed, it's going to be all different color because they're going to be all different variety, they're all going to mature at a different rate.",
+   1
+  ],
+  [
+   1361.06,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "Including the Monsanto seeds?",
+   1
+  ],
+  [
+   1362.5,
+   "MR. WALTERS",
+   "seed(s)",
+   "Including the Monsanto seeds.",
+   1
+  ],
+  [
+   1371.2,
+   "MR. WALTERS",
+   "seed(s)",
+   "This is a very poor choice -- choice of seed, but it only makes sense to plant in a risky situation, like when a farmer has been washed out from a flood, for example, and it's late in the --",
+   1
+  ],
+  [
+   1376.2,
+   "MR. WALTERS",
+   "farmer",
+   "This is a very poor choice -- choice of seed, but it only makes sense to plant in a risky situation, like when a farmer has been washed out from a flood, for example, and it's late in the --",
+   1
+  ],
+  [
+   1382.88,
+   "CHIEF JUSTICE ROBERTS",
+   "Roundup",
+   "No, no. I mean the very first time, you get nothing but Monsanto Ready -- Roundup Ready seeds and you plant those.",
+   1
+  ],
+  [
+   1383.58,
+   "CHIEF JUSTICE ROBERTS",
+   "seed(s)",
+   "No, no. I mean the very first time, you get nothing but Monsanto Ready -- Roundup Ready seeds and you plant those.",
+   1
+  ],
+  [
+   1392.24,
+   "CHIEF JUSTICE ROBERTS",
+   "seed(s)",
+   "So that doesn't make the commodity seeds any different?",
+   1
+  ],
+  [
+   1396.08,
+   "MR. WALTERS",
+   "seed(s)",
+   "The commodity seeds, with -- the Roundup Ready commodity seeds will all grow at different rates and have different disease resistance, different maturity rates.",
+   2
+  ],
+  [
+   1397.62,
+   "MR. WALTERS",
+   "Roundup",
+   "The commodity seeds, with -- the Roundup Ready commodity seeds will all grow at different rates and have different disease resistance, different maturity rates.",
+   1
+  ],
+  [
+   1421.92,
+   "MR. WALTERS",
+   "farmer",
+   "They are exactly what a farmer needs for their --",
+   1
+  ],
+  [
+   1423.82,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "So all the Monsanto seeds are not -- are not fungible.",
+   1
+  ],
+  [
+   1434.0,
+   "MR. WALTERS",
+   "seed(s)",
+   "I mean, they allow these seeds to be dumped into the common grain elevator.",
+   1
+  ],
+  [
+   1436.9,
+   "MR. WALTERS",
+   "grain elevator",
+   "I mean, they allow these seeds to be dumped into the common grain elevator.",
+   1
+  ],
+  [
+   1445.02,
+   "MR. WALTERS",
+   "grain elevator",
+   "There were no restrictions on my client when he purchased them from the grain elevator.",
+   1
+  ],
+  [
+   1450.84,
+   "MR. WALTERS",
+   "grain elevator",
+   "So it's less of a problem for Monsanto for people going to the grain elevator to plant.",
+   1
+  ],
+  [
+   1458.82,
+   "MR. WALTERS",
+   "farmer",
+   "Nevertheless, it's -- it's an outright sale, an exhaustion applies to that particular sale, and permits that farmer to use it.",
+   1
+  ],
+  [
+   1464.72,
+   "MR. WALTERS",
+   "grain elevator",
+   "It's never going to be a threat to Monsanto's business -- people planting grain elevator seed.",
+   1
+  ],
+  [
+   1465.34,
+   "MR. WALTERS",
+   "seed(s)",
+   "It's never going to be a threat to Monsanto's business -- people planting grain elevator seed.",
+   1
+  ],
+  [
+   1491.52,
+   "MR. WALTERS",
+   "farmer",
+   "And then that's only fair because there, the agent growers are assuming -- well, Monsanto was assuming the risk that the farmers are.",
+   1
+  ],
+  [
+   1498.38,
+   "MR. WALTERS",
+   "farmer",
+   "And there is some equitability there with the -- the risk sharing between the farmers and Monsanto.",
+   1
+  ],
+  [
+   1500.52,
+   "MR. WALTERS",
+   "farmer",
+   "Now they want the farmers to take all the risks associated with farming, yet they want to control how they use those seeds all the way down the distribution chain.",
+   1
+  ],
+  [
+   1505.26,
+   "MR. WALTERS",
+   "seed(s)",
+   "Now they want the farmers to take all the risks associated with farming, yet they want to control how they use those seeds all the way down the distribution chain.",
+   1
+  ],
+  [
+   1580.22,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "And it said, most notably, there is no seed saving exemption in the Patent Act, there is no research exemption in the Patent Act.",
+   1
+  ],
+  [
+   1589.88,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "The consequence of Petitioner's argument would be that this Court would not only be reading a seed-saving exemption into the Patent Act, and a research exemption, it would be doing much, much, much more under the guise of patent exhaustion.",
+   1
+  ],
+  [
+   1639.22,
+   "CHIEF JUSTICE ROBERTS",
+   "seed(s)",
+   "We have never applied the Reinvention Doctrine to articles that reinvent themselves like plant seed.",
+   1
+  ],
+  [
+   1671.14,
+   "MS. ARBUS SHERRY",
+   "generation(s)",
+   "It's not even limited -- when you talk -- Justice Breyer, you mentioned the three different generations of seeds.",
+   1
+  ],
+  [
+   1671.84,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "It's not even limited -- when you talk -- Justice Breyer, you mentioned the three different generations of seeds.",
+   1
+  ],
+  [
+   1673.46,
+   "MS. ARBUS SHERRY",
+   "generation(s)",
+   "There is actually quite a few more generations than those three.",
+   1
+  ],
+  [
+   1681.8,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "If the concept is the sale of a parent plant exhausts the patentholder's rights, not only with respect to that seed, but with respect to all the progeny seed, we would have to go all the way back to the very first Roundup Ready plant that was created as part of the transformation event.",
+   2
+  ],
+  [
+   1687.52,
+   "MS. ARBUS SHERRY",
+   "Roundup",
+   "If the concept is the sale of a parent plant exhausts the patentholder's rights, not only with respect to that seed, but with respect to all the progeny seed, we would have to go all the way back to the very first Roundup Ready plant that was created as part of the transformation event.",
+   1
+  ],
+  [
+   1692.26,
+   "MS. ARBUS SHERRY",
+   "Roundup",
+   "Every single Roundup Ready seed in existence today is the progeny of that one parent plant and, as Your Honor pointed out, that would eviscerate patent protections.",
+   1
+  ],
+  [
+   1692.84,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "Every single Roundup Ready seed in existence today is the progeny of that one parent plant and, as Your Honor pointed out, that would eviscerate patent protections.",
+   1
+  ],
+  [
+   1704.08,
+   "MS. ARBUS SHERRY",
+   "Roundup",
+   "There would be no incentive to invest, not just in Roundup Ready soybeans or not even agricultural technology, but it's quite a bit broader than that.",
+   1
+  ],
+  [
+   1704.58,
+   "MS. ARBUS SHERRY",
+   "soybean(s)",
+   "There would be no incentive to invest, not just in Roundup Ready soybeans or not even agricultural technology, but it's quite a bit broader than that.",
+   1
+  ],
+  [
+   1741.26,
+   "JUSTICE SCALIA",
+   "farmer",
+   "That's a pretty horrible result, but let me give you another horrible result, and that is if -- if we agree with you, farmers will not be able to do a second planting by simply getting the undifferentiated seeds from -- from a grain elevator because at least a few of those seeds will always be patented seeds, and no farmer could ever plant anything from a grain elevator, which means -- I gather they use it for second plantings where the risks are so high that it doesn't pay to buy expensive seed.",
+   2
+  ],
+  [
+   1749.4,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "That's a pretty horrible result, but let me give you another horrible result, and that is if -- if we agree with you, farmers will not be able to do a second planting by simply getting the undifferentiated seeds from -- from a grain elevator because at least a few of those seeds will always be patented seeds, and no farmer could ever plant anything from a grain elevator, which means -- I gather they use it for second plantings where the risks are so high that it doesn't pay to buy expensive seed.",
+   4
+  ],
+  [
+   1751.9,
+   "JUSTICE SCALIA",
+   "grain elevator",
+   "That's a pretty horrible result, but let me give you another horrible result, and that is if -- if we agree with you, farmers will not be able to do a second planting by simply getting the undifferentiated seeds from -- from a grain elevator because at least a few of those seeds will always be patented seeds, and no farmer could ever plant anything from a grain elevator, which means -- I gather they use it for second plantings where the risks are so high that it doesn't pay to buy expensive seed.",
+   2
+  ],
+  [
+   1776.88,
+   "JUSTICE SCALIA",
+   "grain elevator",
+   "Now they can't do that anymore because there's practically no grain elevator that doesn't have at least one patented seed in it.",
+   1
+  ],
+  [
+   1780.0,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "Now they can't do that anymore because there's practically no grain elevator that doesn't have at least one patented seed in it.",
+   1
+  ],
+  [
+   1786.94,
+   "MS. ARBUS SHERRY",
+   "farmer",
+   "Despite what Petitioner says, farmers do not generally go to grain elevators, buy commingled grain, plant it in the ground as seed.",
+   1
+  ],
+  [
+   1788.56,
+   "MS. ARBUS SHERRY",
+   "grain elevator",
+   "Despite what Petitioner says, farmers do not generally go to grain elevators, buy commingled grain, plant it in the ground as seed.",
+   1
+  ],
+  [
+   1793.04,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "Despite what Petitioner says, farmers do not generally go to grain elevators, buy commingled grain, plant it in the ground as seed.",
+   1
+  ],
+  [
+   1794.3,
+   "MS. ARBUS SHERRY",
+   "soybean(s)",
+   "If you look at the American Soybean Association brief submitted on behalf of soybean farmers, it says as much.",
+   2
+  ],
+  [
+   1797.14,
+   "MS. ARBUS SHERRY",
+   "farmer",
+   "If you look at the American Soybean Association brief submitted on behalf of soybean farmers, it says as much.",
+   1
+  ],
+  [
+   1802.22,
+   "MS. ARBUS SHERRY",
+   "grain elevator",
+   "If you look at the CHS brief, which is submitted on behalf of grain elevators, it also explains that.",
+   1
+  ],
+  [
+   1813.28,
+   "MS. ARBUS SHERRY",
+   "grain elevator",
+   "The business of grain elevators is not to sell commingled grain as seed.",
+   1
+  ],
+  [
+   1817.08,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "The business of grain elevators is not to sell commingled grain as seed.",
+   1
+  ],
+  [
+   1820.0,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "If that was their business they would have to comply with seed labeling laws.",
+   1
+  ],
+  [
+   1825.224,
+   "JUSTICE SCALIA",
+   "farmer",
+   "And that's why farmers --",
+   1
+  ],
+  [
+   1826.04,
+   "JUSTICE SCALIA",
+   "farmer",
+   "-- and that's why farmers want to use it, for a cheap planting.",
+   1
+  ],
+  [
+   1830.66,
+   "MS. ARBUS SHERRY",
+   "farmer",
+   "But farmers wouldn't be able to use it for another reason as well.",
+   1
+  ],
+  [
+   1840.98,
+   "JUSTICE KENNEDY",
+   "Bowman",
+   "But correct me -- correct me if I am wrong; I thought that is what Bowman did.",
+   1
+  ],
+  [
+   1842.68,
+   "MS. ARBUS SHERRY",
+   "Bowman",
+   "Bowman did, absolutely did it in this circumstance.",
+   1
+  ],
+  [
+   1845.74,
+   "MS. ARBUS SHERRY",
+   "Bowman",
+   "But Bowman also said that he is not aware of other farmers who are engaging in this practice.",
+   1
+  ],
+  [
+   1848.0,
+   "MS. ARBUS SHERRY",
+   "farmer",
+   "But Bowman also said that he is not aware of other farmers who are engaging in this practice.",
+   1
+  ],
+  [
+   1875.76,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "So even putting patent law to the side, this is not an economically viable source of seed for farmers, regardless.",
+   1
+  ],
+  [
+   1876.2,
+   "MS. ARBUS SHERRY",
+   "farmer",
+   "So even putting patent law to the side, this is not an economically viable source of seed for farmers, regardless.",
+   1
+  ],
+  [
+   1880.86,
+   "MS. ARBUS SHERRY",
+   "grain elevator",
+   "And Petitioner's argument again isn't limited to the grain elevators.",
+   1
+  ],
+  [
+   1883.26,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "It would apply to saving your own seed and planting it generation after generation.",
+   1
+  ],
+  [
+   1884.24,
+   "MS. ARBUS SHERRY",
+   "generation(s)",
+   "It would apply to saving your own seed and planting it generation after generation.",
+   2
+  ],
+  [
+   1887.1,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "It would apply to selling seeds to your neighboring farmer, and it would allow seed companies to essentially compete with Monsanto upon the first sale.",
+   2
+  ],
+  [
+   1888.54,
+   "MS. ARBUS SHERRY",
+   "farmer",
+   "It would apply to selling seeds to your neighboring farmer, and it would allow seed companies to essentially compete with Monsanto upon the first sale.",
+   1
+  ],
+  [
+   1900.78,
+   "CHIEF JUSTICE ROBERTS",
+   "seed(s)",
+   "So when -- when are the patent rights exhausted in the seed?",
+   1
+  ],
+  [
+   1903.92,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "The patent rights are exhausted in the seed at the same time they are exhausted with respect to any other product, upon an authorized sale.",
+   1
+  ],
+  [
+   1918.42,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "In our view, once there is an authorized sale, you can do what you want with respect to the seed that you've actually purchased.",
+   1
+  ],
+  [
+   1925.84,
+   "MS. ARBUS SHERRY",
+   "generation(s)",
+   "But you do need permission from the patentholder in order to make a new generation of seed.",
+   1
+  ],
+  [
+   1926.64,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "But you do need permission from the patentholder in order to make a new generation of seed.",
+   1
+  ],
+  [
+   1940.78,
+   "JUSTICE SOTOMAYOR",
+   "seed(s)",
+   "Just so I can follow your -- just so I can follow your answer, Monsanto sells the seed to the farmer.",
+   1
+  ],
+  [
+   1942.02,
+   "JUSTICE SOTOMAYOR",
+   "farmer",
+   "Just so I can follow your -- just so I can follow your answer, Monsanto sells the seed to the farmer.",
+   1
+  ],
+  [
+   1943.26,
+   "JUSTICE SOTOMAYOR",
+   "farmer",
+   "And you are saying if the farmer grows the seed, he can sell it to anybody he wants, right?",
+   1
+  ],
+  [
+   1943.98,
+   "JUSTICE SOTOMAYOR",
+   "seed(s)",
+   "And you are saying if the farmer grows the seed, he can sell it to anybody he wants, right?",
+   1
+  ],
+  [
+   1959.24,
+   "MS. ARBUS SHERRY",
+   "generation(s)",
+   "So if Monsanto authorized that first sale and authorized the planting, they would also have to authorize the sale of the second generation seed because it's a new article.",
+   1
+  ],
+  [
+   1959.68,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "So if Monsanto authorized that first sale and authorized the planting, they would also have to authorize the sale of the second generation seed because it's a new article.",
+   1
+  ],
+  [
+   1972.6,
+   "MS. ARBUS SHERRY",
+   "Roundup",
+   "If you look at the technology agreement -- and it's not just because it's a contract because I think it's significant to the analysis -- Monsanto, upon the first sale of the bag of Roundup Ready seed, authorizes the planting for one commercial crop and it authorizes the farmer to sell that as a commercial crop or to use it for any purpose other than replanting.",
+   1
+  ],
+  [
+   1973.12,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "If you look at the technology agreement -- and it's not just because it's a contract because I think it's significant to the analysis -- Monsanto, upon the first sale of the bag of Roundup Ready seed, authorizes the planting for one commercial crop and it authorizes the farmer to sell that as a commercial crop or to use it for any purpose other than replanting.",
+   1
+  ],
+  [
+   1978.58,
+   "MS. ARBUS SHERRY",
+   "farmer",
+   "If you look at the technology agreement -- and it's not just because it's a contract because I think it's significant to the analysis -- Monsanto, upon the first sale of the bag of Roundup Ready seed, authorizes the planting for one commercial crop and it authorizes the farmer to sell that as a commercial crop or to use it for any purpose other than replanting.",
+   1
+  ],
+  [
+   1986.34,
+   "MS. ARBUS SHERRY",
+   "generation(s)",
+   "So if you take that second generation seed -- \"second generation\" is a bit of a misnomer, but if you take that seed and you follow it through, all of the patent rights with respect to that particular seed have been exhausted.",
+   2
+  ],
+  [
+   1986.86,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "So if you take that second generation seed -- \"second generation\" is a bit of a misnomer, but if you take that seed and you follow it through, all of the patent rights with respect to that particular seed have been exhausted.",
+   3
+  ],
+  [
+   1998.54,
+   "MS. ARBUS SHERRY",
+   "seed(s)",
+   "But you cannot take that seed without separate authorization, plant it in the ground, and come up with the next generation of seed.",
+   2
+  ],
+  [
+   2003.04,
+   "MS. ARBUS SHERRY",
+   "generation(s)",
+   "But you cannot take that seed without separate authorization, plant it in the ground, and come up with the next generation of seed.",
+   1
+  ],
+  [
+   2048.34,
+   "MS. ARBUS SHERRY",
+   "eBay",
+   "I can purchase software; one reasonable use would be to make a dozen other copies to give to my friends or sell on eBay.",
+   1
+  ],
+  [
+   2177.86,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "First of all, Justice Kennedy, soybeans are soybeans.",
+   2
+  ],
+  [
+   2190.42,
+   "MR. WAXMAN",
+   "seed(s)",
+   "It is not a plant like a flower, geranium for example, which has to be left to go to seed, or alfalfa.",
+   1
+  ],
+  [
+   2192.96,
+   "MR. WAXMAN",
+   "seed(s)",
+   "The bean is the seed.",
+   1
+  ],
+  [
+   2193.76,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "All soybeans have to be processed to be used in any way.",
+   1
+  ],
+  [
+   2217.84,
+   "MR. WAXMAN",
+   "farmer",
+   "Justice Scalia, your question about well, farmers now just can't do second plantings because soybeans are put in huge grain elevators and different varieties are mingled, that is true in the sense that if one or more of those soybeans were protected by a patent, the actual growing of the use of those patented inventions without a license would be infringement, although, of course, if no glyphosate were put on top of it, neither the farmer nor Monsanto would ever know that there was an act of infringement.",
+   2
+  ],
+  [
+   2220.56,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Justice Scalia, your question about well, farmers now just can't do second plantings because soybeans are put in huge grain elevators and different varieties are mingled, that is true in the sense that if one or more of those soybeans were protected by a patent, the actual growing of the use of those patented inventions without a license would be infringement, although, of course, if no glyphosate were put on top of it, neither the farmer nor Monsanto would ever know that there was an act of infringement.",
+   2
+  ],
+  [
+   2222.64,
+   "MR. WAXMAN",
+   "grain elevator",
+   "Justice Scalia, your question about well, farmers now just can't do second plantings because soybeans are put in huge grain elevators and different varieties are mingled, that is true in the sense that if one or more of those soybeans were protected by a patent, the actual growing of the use of those patented inventions without a license would be infringement, although, of course, if no glyphosate were put on top of it, neither the farmer nor Monsanto would ever know that there was an act of infringement.",
+   1
+  ],
+  [
+   2253.14,
+   "MR. WAXMAN",
+   "farmer",
+   "But more to the point, farmers -- I mean, the planting of second crops, that is crop rotation of interspersing soybeans and winter wheat, is very, very common.",
+   1
+  ],
+  [
+   2258.14,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "But more to the point, farmers -- I mean, the planting of second crops, that is crop rotation of interspersing soybeans and winter wheat, is very, very common.",
+   1
+  ],
+  [
+   2263.58,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "There are hundreds of thousands of soybean farmers who do this every year.",
+   1
+  ],
+  [
+   2264.02,
+   "MR. WAXMAN",
+   "farmer",
+   "There are hundreds of thousands of soybean farmers who do this every year.",
+   1
+  ],
+  [
+   2266.94,
+   "MR. WAXMAN",
+   "Bowman",
+   "Mr. Bowman has acknowledged that so far as he knows, he's the only one who's doing it this way.",
+   1
+  ],
+  [
+   2281.96,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "But there are plenty of other ways in which he could obtain a much less expensive crop of -- you know, a particular variety of soybean, so one that will all grow to the same height and germinate at the same time.",
+   1
+  ],
+  [
+   2299.48,
+   "MR. WAXMAN",
+   "seed(s)",
+   "He said defendant wanted a cheap source of seed for his second crop beans because of the normal risks in growing \"wheat beans;\" that is, the second crop that follows the harvesting of winter wheat.",
+   1
+  ],
+  [
+   2313.5,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Quote, \"defendant simply wasn't going to plant the high priced soybean seed after his wheat crop.\"",
+   1
+  ],
+  [
+   2314.16,
+   "MR. WAXMAN",
+   "seed(s)",
+   "Quote, \"defendant simply wasn't going to plant the high priced soybean seed after his wheat crop.\"",
+   1
+  ],
+  [
+   2319.96,
+   "MR. WAXMAN",
+   "seed(s)",
+   "\"Defendant could have purchased conventional seed, that is, non-patented seed, and then saved its offspring for wheat beans.\"",
+   2
+  ],
+  [
+   2331.34,
+   "MR. WAXMAN",
+   "seed(s)",
+   "In other words, he could have gone and bought a non-patented -- a bag of non-patented seed for much less money, and used it as his second crop, or harvested a portion of it -- and soybeans replicate at a rate between 20 and 80 times in each generation -- and have a perpetual source for his second crop thereafter.",
+   1
+  ],
+  [
+   2338.94,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "In other words, he could have gone and bought a non-patented -- a bag of non-patented seed for much less money, and used it as his second crop, or harvested a portion of it -- and soybeans replicate at a rate between 20 and 80 times in each generation -- and have a perpetual source for his second crop thereafter.",
+   1
+  ],
+  [
+   2343.56,
+   "MR. WAXMAN",
+   "generation(s)",
+   "In other words, he could have gone and bought a non-patented -- a bag of non-patented seed for much less money, and used it as his second crop, or harvested a portion of it -- and soybeans replicate at a rate between 20 and 80 times in each generation -- and have a perpetual source for his second crop thereafter.",
+   1
+  ],
+  [
+   2354.7,
+   "JUSTICE GINSBURG",
+   "seed(s)",
+   "But he couldn't put the herbicide on -- he couldn't -- if he went and bought conventional seeds, not the genetically improved seeds --",
+   2
+  ],
+  [
+   2392.54,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "He would have to -- if he wanted to buy plain old, you know, conventional soybeans, he has to control for weeds in the conventional way.",
+   1
+  ],
+  [
+   2402.22,
+   "MR. WAXMAN",
+   "seed(s)",
+   "\"Defendant\" -- that is, instead of purchasing conventional seeds and saving them, he says \"Defendant decided to purchase a grain dealer's commodity grain because he felt there was a good chance he would obtain mostly grain that would be resistant to glyphosate,\" and therefore, he could use Monsanto's technology without having to pay for it.",
+   1
+  ],
+  [
+   2438.0,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "I think the answer is that without the ability -- let's talk about soybeans and then broaden it to other kinds of readily replicable technologies -- without the ability to limit reproduction of soybeans containing this patented trait, Monsanto could not have commercialized its invention, and never would have produced what is, by now, the most popular agricultural technology in America because, as Ms. Sherry was pointing out, the sale of the very first Roundup Ready soybean seed, from which all the trillions of Roundup Ready soybean seeds in existence now derive, would have, under Mr. Bowman's theory, fully exhausted not only Monsanto's rights in that seed that was sold, but in all progeny unto the -- however many generations Justice Breyer thinks is \"not too many.\"",
+   4
+  ],
+  [
+   2466.94,
+   "MR. WAXMAN",
+   "Roundup",
+   "I think the answer is that without the ability -- let's talk about soybeans and then broaden it to other kinds of readily replicable technologies -- without the ability to limit reproduction of soybeans containing this patented trait, Monsanto could not have commercialized its invention, and never would have produced what is, by now, the most popular agricultural technology in America because, as Ms. Sherry was pointing out, the sale of the very first Roundup Ready soybean seed, from which all the trillions of Roundup Ready soybean seeds in existence now derive, would have, under Mr. Bowman's theory, fully exhausted not only Monsanto's rights in that seed that was sold, but in all progeny unto the -- however many generations Justice Breyer thinks is \"not too many.\"",
+   2
+  ],
+  [
+   2469.44,
+   "MR. WAXMAN",
+   "seed(s)",
+   "I think the answer is that without the ability -- let's talk about soybeans and then broaden it to other kinds of readily replicable technologies -- without the ability to limit reproduction of soybeans containing this patented trait, Monsanto could not have commercialized its invention, and never would have produced what is, by now, the most popular agricultural technology in America because, as Ms. Sherry was pointing out, the sale of the very first Roundup Ready soybean seed, from which all the trillions of Roundup Ready soybean seeds in existence now derive, would have, under Mr. Bowman's theory, fully exhausted not only Monsanto's rights in that seed that was sold, but in all progeny unto the -- however many generations Justice Breyer thinks is \"not too many.\"",
+   3
+  ],
+  [
+   2479.2,
+   "MR. WAXMAN",
+   "Bowman",
+   "I think the answer is that without the ability -- let's talk about soybeans and then broaden it to other kinds of readily replicable technologies -- without the ability to limit reproduction of soybeans containing this patented trait, Monsanto could not have commercialized its invention, and never would have produced what is, by now, the most popular agricultural technology in America because, as Ms. Sherry was pointing out, the sale of the very first Roundup Ready soybean seed, from which all the trillions of Roundup Ready soybean seeds in existence now derive, would have, under Mr. Bowman's theory, fully exhausted not only Monsanto's rights in that seed that was sold, but in all progeny unto the -- however many generations Justice Breyer thinks is \"not too many.\"",
+   1
+  ],
+  [
+   2488.72,
+   "MR. WAXMAN",
+   "generation(s)",
+   "I think the answer is that without the ability -- let's talk about soybeans and then broaden it to other kinds of readily replicable technologies -- without the ability to limit reproduction of soybeans containing this patented trait, Monsanto could not have commercialized its invention, and never would have produced what is, by now, the most popular agricultural technology in America because, as Ms. Sherry was pointing out, the sale of the very first Roundup Ready soybean seed, from which all the trillions of Roundup Ready soybean seeds in existence now derive, would have, under Mr. Bowman's theory, fully exhausted not only Monsanto's rights in that seed that was sold, but in all progeny unto the -- however many generations Justice Breyer thinks is \"not too many.\"",
+   1
+  ],
+  [
+   2510.34,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "The Department of Agriculture licensed Monsanto to engage in a transformation event; that is, to introduce its recombinant gene into soybean germ plasm.",
+   1
+  ],
+  [
+   2563.24,
+   "JUSTICE SCALIA",
+   "bank",
+   "You can't rob a bank with it, though, right?",
+   1
+  ],
+  [
+   2573.28,
+   "MR. WAXMAN",
+   "bank",
+   "And I don't know -- I don't know if you could use it to rob a bank.",
+   1
+  ],
+  [
+   2579.76,
+   "MR. WAXMAN",
+   "Roundup",
+   "But the point is -- and the -- the Federal Register site for the transformation event with respect to Roundup Ready is -- is provided in a footnote in our brief.",
+   1
+  ],
+  [
+   2590.8,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "What happens then is that Monsanto uses those transformed cells to grow a soybean plant.",
+   1
+  ],
+  [
+   2592.16,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "And that soybean plant produces genetic -- produces seeds or soybeans that have the recombinant Roundup Ready technology in it.",
+   2
+  ],
+  [
+   2596.3,
+   "MR. WAXMAN",
+   "seed(s)",
+   "And that soybean plant produces genetic -- produces seeds or soybeans that have the recombinant Roundup Ready technology in it.",
+   1
+  ],
+  [
+   2599.52,
+   "MR. WAXMAN",
+   "Roundup",
+   "And that soybean plant produces genetic -- produces seeds or soybeans that have the recombinant Roundup Ready technology in it.",
+   1
+  ],
+  [
+   2611.46,
+   "MR. WAXMAN",
+   "seed(s)",
+   "Monsanto then provides -- in almost all of the cases, Monsanto engages in licensed sales of those transformed seeds to hundreds of different seed companies that produce different varieties, and they make both conventional seed with a particular varietal makeup and a Roundup Ready version of that variety.",
+   3
+  ],
+  [
+   2622.48,
+   "MR. WAXMAN",
+   "Roundup",
+   "Monsanto then provides -- in almost all of the cases, Monsanto engages in licensed sales of those transformed seeds to hundreds of different seed companies that produce different varieties, and they make both conventional seed with a particular varietal makeup and a Roundup Ready version of that variety.",
+   1
+  ],
+  [
+   2627.42,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Monsanto provides the soybeans that it has transformed to the seed companies, to the hundreds of seed companies for consideration.",
+   1
+  ],
+  [
+   2631.08,
+   "MR. WAXMAN",
+   "seed(s)",
+   "Monsanto provides the soybeans that it has transformed to the seed companies, to the hundreds of seed companies for consideration.",
+   2
+  ],
+  [
+   2636.28,
+   "MR. WAXMAN",
+   "Bowman",
+   "Under Mr. Bowman's theory, that was it for all of Monsanto's rights with respect to this technology.",
+   1
+  ],
+  [
+   2645.8,
+   "MR. WAXMAN",
+   "seed(s)",
+   "The very first time it took an original transformed seed and sold it to a seed company so that it could bulk up and cross-breed and produce different varieties, Monsanto had lost all of its patent rights.",
+   2
+  ],
+  [
+   2696.3,
+   "JUSTICE KAGAN",
+   "seed(s)",
+   "So that -- you know, seeds can be blown onto a farmer's farm by wind, and all of a sudden you have Roundup seeds there and the person -- farmer is infringing, or there's a 10-year-old who wants to do a science project of creating a soybean plant, and he goes to the supermarket and gets some edamame, and it turns out that it's Roundup seeds.",
+   3
+  ],
+  [
+   2697.9,
+   "JUSTICE KAGAN",
+   "farmer",
+   "So that -- you know, seeds can be blown onto a farmer's farm by wind, and all of a sudden you have Roundup seeds there and the person -- farmer is infringing, or there's a 10-year-old who wants to do a science project of creating a soybean plant, and he goes to the supermarket and gets some edamame, and it turns out that it's Roundup seeds.",
+   2
+  ],
+  [
+   2702.14,
+   "JUSTICE KAGAN",
+   "Roundup",
+   "So that -- you know, seeds can be blown onto a farmer's farm by wind, and all of a sudden you have Roundup seeds there and the person -- farmer is infringing, or there's a 10-year-old who wants to do a science project of creating a soybean plant, and he goes to the supermarket and gets some edamame, and it turns out that it's Roundup seeds.",
+   2
+  ],
+  [
+   2708.66,
+   "JUSTICE KAGAN",
+   "science project",
+   "So that -- you know, seeds can be blown onto a farmer's farm by wind, and all of a sudden you have Roundup seeds there and the person -- farmer is infringing, or there's a 10-year-old who wants to do a science project of creating a soybean plant, and he goes to the supermarket and gets some edamame, and it turns out that it's Roundup seeds.",
+   1
+  ],
+  [
+   2710.52,
+   "JUSTICE KAGAN",
+   "soybean(s)",
+   "So that -- you know, seeds can be blown onto a farmer's farm by wind, and all of a sudden you have Roundup seeds there and the person -- farmer is infringing, or there's a 10-year-old who wants to do a science project of creating a soybean plant, and he goes to the supermarket and gets some edamame, and it turns out that it's Roundup seeds.",
+   1
+  ],
+  [
+   2713.36,
+   "JUSTICE KAGAN",
+   "edamame",
+   "So that -- you know, seeds can be blown onto a farmer's farm by wind, and all of a sudden you have Roundup seeds there and the person -- farmer is infringing, or there's a 10-year-old who wants to do a science project of creating a soybean plant, and he goes to the supermarket and gets some edamame, and it turns out that it's Roundup seeds.",
+   1
+  ],
+  [
+   2717.76,
+   "JUSTICE KAGAN",
+   "Roundup",
+   "And, you know, these Roundup seeds are everywhere, it seems to me.",
+   1
+  ],
+  [
+   2718.14,
+   "JUSTICE KAGAN",
+   "seed(s)",
+   "And, you know, these Roundup seeds are everywhere, it seems to me.",
+   1
+  ],
+  [
+   2722.88,
+   "JUSTICE KAGAN",
+   "seed(s)",
+   "There's, what, 90 percent of all the seeds that are around?",
+   1
+  ],
+  [
+   2734.5,
+   "MR. WAXMAN",
+   "edamame",
+   "Let me make -- let me make three points, starting with the edamame and moving up to inadvertent infringers.",
+   1
+  ],
+  [
+   2738.22,
+   "MR. WAXMAN",
+   "edamame",
+   "Edamame is an immature form of the soybean seed.",
+   1
+  ],
+  [
+   2741.32,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Edamame is an immature form of the soybean seed.",
+   1
+  ],
+  [
+   2741.82,
+   "MR. WAXMAN",
+   "seed(s)",
+   "Edamame is an immature form of the soybean seed.",
+   1
+  ],
+  [
+   2743.3,
+   "MR. WAXMAN",
+   "edamame",
+   "You can plant edamame --",
+   1
+  ],
+  [
+   2762.94,
+   "MR. WAXMAN",
+   "edamame",
+   "Well, it also reminds me that my original answer to Justice Kennedy is wrong, which is that edamame is taken from the pods before the -- the thing becomes actually a seed that can be processed in any other way.",
+   1
+  ],
+  [
+   2771.44,
+   "MR. WAXMAN",
+   "seed(s)",
+   "Well, it also reminds me that my original answer to Justice Kennedy is wrong, which is that edamame is taken from the pods before the -- the thing becomes actually a seed that can be processed in any other way.",
+   1
+  ],
+  [
+   2779.06,
+   "MR. WAXMAN",
+   "Roundup",
+   "Your point about the ubiquity of Roundup Ready -- Roundup Ready's use is a fair one.",
+   2
+  ],
+  [
+   2789.94,
+   "MR. WAXMAN",
+   "Roundup",
+   "The very first Roundup Ready soybean seed was only made in 1996.",
+   1
+  ],
+  [
+   2791.76,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "The very first Roundup Ready soybean seed was only made in 1996.",
+   1
+  ],
+  [
+   2792.52,
+   "MR. WAXMAN",
+   "seed(s)",
+   "The very first Roundup Ready soybean seed was only made in 1996.",
+   1
+  ],
+  [
+   2800.94,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "And it now is grown by more than 90 percent of the 275,000 soybean farms in the United States.",
+   1
+  ],
+  [
+   2813.9,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "You may very -- with soybeans, the problem of blowing seed is not an issue for soybeans.",
+   2
+  ],
+  [
+   2815.5,
+   "MR. WAXMAN",
+   "seed(s)",
+   "You may very -- with soybeans, the problem of blowing seed is not an issue for soybeans.",
+   1
+  ],
+  [
+   2817.78,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Soybeans don't -- I mean, it would take Hurricane Sandy to blow a soybean into some other farmer's field.",
+   2
+  ],
+  [
+   2824.82,
+   "MR. WAXMAN",
+   "farmer",
+   "Soybeans don't -- I mean, it would take Hurricane Sandy to blow a soybean into some other farmer's field.",
+   1
+  ],
+  [
+   2826.3,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "And soybeans, in any event, are -- you know, have perfect flowers; that is, they contain both the pollen and the stamen, so that they -- which is the reason that they breed -- breed true, unlike, for example, corn.",
+   1
+  ],
+  [
+   2840.76,
+   "MR. WAXMAN",
+   "farmer",
+   "The point that there may be many farmers with respect to other crops, like alfalfa, that may have some inadvertent Roundup Ready alfalfa in their fields may be true, although it's -- it is not well documented.",
+   1
+  ],
+  [
+   2848.48,
+   "MR. WAXMAN",
+   "Roundup",
+   "The point that there may be many farmers with respect to other crops, like alfalfa, that may have some inadvertent Roundup Ready alfalfa in their fields may be true, although it's -- it is not well documented.",
+   1
+  ],
+  [
+   2859.72,
+   "MR. WAXMAN",
+   "farmer",
+   "There would be inadvertent infringement if the farmer was cultivating a patented crop, but there would be no enforcement of that.",
+   1
+  ],
+  [
+   2867.74,
+   "MR. WAXMAN",
+   "farmer",
+   "The farmer wouldn't know, Monsanto wouldn't know, and in any event, the damages would be zero because you would ask what the reasonable royalty would be, and if the farmer doesn't want Roundup Ready technology and isn't using Roundup Ready technology to save costs and increase productivity, the -- the royalty value would be zero.",
+   2
+  ],
+  [
+   2878.06,
+   "MR. WAXMAN",
+   "Roundup",
+   "The farmer wouldn't know, Monsanto wouldn't know, and in any event, the damages would be zero because you would ask what the reasonable royalty would be, and if the farmer doesn't want Roundup Ready technology and isn't using Roundup Ready technology to save costs and increase productivity, the -- the royalty value would be zero.",
+   2
+  ],
+  [
+   3052.54,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "So I think you have decided in the context of software, which of course replicates even more readily than soybeans do or vaccines or cell lines or plasmids, that the copies that are actually made when a -- a software is written onto the hard drive of a computer is a different thing than the disk that was sent and is infringing, if it occurs within the United States.",
+   1
+  ],
+  [
+   3053.88,
+   "MR. WAXMAN",
+   "vaccine",
+   "So I think you have decided in the context of software, which of course replicates even more readily than soybeans do or vaccines or cell lines or plasmids, that the copies that are actually made when a -- a software is written onto the hard drive of a computer is a different thing than the disk that was sent and is infringing, if it occurs within the United States.",
+   1
+  ],
+  [
+   3090.94,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "I mean, I would have thought it doesn't concern Monsanto's license of generation 1 because, insofar as it's relevant, here generation 1 carries the license that is just permissive.",
+   2
+  ],
+  [
+   3098.58,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "It is to create generation 2.",
+   1
+  ],
+  [
+   3111.24,
+   "JUSTICE BREYER",
+   "generation(s)",
+   "But -- but they also said something in the circuit about a license -- about a restriction, implied perhaps, on -- on the use of generation 2 by the grain elevator for creating generation 3, namely you can't do that.",
+   2
+  ],
+  [
+   3112.56,
+   "JUSTICE BREYER",
+   "grain elevator",
+   "But -- but they also said something in the circuit about a license -- about a restriction, implied perhaps, on -- on the use of generation 2 by the grain elevator for creating generation 3, namely you can't do that.",
+   1
+  ],
+  [
+   3177.86,
+   "MR. WAXMAN",
+   "seed(s)",
+   "\"Even if Monsanto's patent rights in the commodity seeds are exhausted, such a conclusion would be of no consequence because once a grower like Bowman plants the commodity seeds containing Monsanto's Roundup Ready technology and the next generation of seed develops, the grower has created a newly infringing article.\"",
+   3
+  ],
+  [
+   3185.02,
+   "MR. WAXMAN",
+   "Bowman",
+   "\"Even if Monsanto's patent rights in the commodity seeds are exhausted, such a conclusion would be of no consequence because once a grower like Bowman plants the commodity seeds containing Monsanto's Roundup Ready technology and the next generation of seed develops, the grower has created a newly infringing article.\"",
+   1
+  ],
+  [
+   3189.22,
+   "MR. WAXMAN",
+   "Roundup",
+   "\"Even if Monsanto's patent rights in the commodity seeds are exhausted, such a conclusion would be of no consequence because once a grower like Bowman plants the commodity seeds containing Monsanto's Roundup Ready technology and the next generation of seed develops, the grower has created a newly infringing article.\"",
+   1
+  ],
+  [
+   3192.24,
+   "MR. WAXMAN",
+   "generation(s)",
+   "\"Even if Monsanto's patent rights in the commodity seeds are exhausted, such a conclusion would be of no consequence because once a grower like Bowman plants the commodity seeds containing Monsanto's Roundup Ready technology and the next generation of seed develops, the grower has created a newly infringing article.\"",
+   1
+  ],
+  [
+   3208.56,
+   "MR. WAXMAN",
+   "generation(s)",
+   "In other words, what the Federal Circuit decided, and it is entirely correct and it should be affirmed on that basis, is what you're calling, I think generation 3, let's say that for simplicity's sake, since generation 1 is the original soybean sold by Monsanto to seed companies, let's just say that the bags of soybean seeds that farmers go to purchase from seed dealers is called generation N and they are licensed to produce generation N plus 1.",
+   4
+  ],
+  [
+   3214.52,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "In other words, what the Federal Circuit decided, and it is entirely correct and it should be affirmed on that basis, is what you're calling, I think generation 3, let's say that for simplicity's sake, since generation 1 is the original soybean sold by Monsanto to seed companies, let's just say that the bags of soybean seeds that farmers go to purchase from seed dealers is called generation N and they are licensed to produce generation N plus 1.",
+   2
+  ],
+  [
+   3216.78,
+   "MR. WAXMAN",
+   "seed(s)",
+   "In other words, what the Federal Circuit decided, and it is entirely correct and it should be affirmed on that basis, is what you're calling, I think generation 3, let's say that for simplicity's sake, since generation 1 is the original soybean sold by Monsanto to seed companies, let's just say that the bags of soybean seeds that farmers go to purchase from seed dealers is called generation N and they are licensed to produce generation N plus 1.",
+   3
+  ],
+  [
+   3222.22,
+   "MR. WAXMAN",
+   "farmer",
+   "In other words, what the Federal Circuit decided, and it is entirely correct and it should be affirmed on that basis, is what you're calling, I think generation 3, let's say that for simplicity's sake, since generation 1 is the original soybean sold by Monsanto to seed companies, let's just say that the bags of soybean seeds that farmers go to purchase from seed dealers is called generation N and they are licensed to produce generation N plus 1.",
+   1
+  ],
+  [
+   3281.82,
+   "MR. WAXMAN",
+   "generation(s)",
+   "If you're referring to generation N plus 2, the answer is yes, because those are newly infringing products with no exhaustion of Monsanto's rights, and as a consequence farmers have no authority to use, make, sell, or offer to sell without Monsanto's authorization.",
+   1
+  ],
+  [
+   3293.82,
+   "MR. WAXMAN",
+   "farmer",
+   "If you're referring to generation N plus 2, the answer is yes, because those are newly infringing products with no exhaustion of Monsanto's rights, and as a consequence farmers have no authority to use, make, sell, or offer to sell without Monsanto's authorization.",
+   1
+  ],
+  [
+   3399.06,
+   "MR. WAXMAN",
+   "Bowman",
+   "Mr. Bowman acknowledges that.",
+   1
+  ],
+  [
+   3464.38,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Yes, and I think the reason, if we take it out of the soybean area, let's look at vaccines.",
+   1
+  ],
+  [
+   3466.94,
+   "MR. WAXMAN",
+   "vaccine",
+   "Yes, and I think the reason, if we take it out of the soybean area, let's look at vaccines.",
+   1
+  ],
+  [
+   3468.86,
+   "MR. WAXMAN",
+   "Roundup",
+   "Because the Roundup Ready gene essentially immunizes soybean plants from the herbicide in the same way that a life-saving vaccine will immunize individuals that receive it from some external -- it wouldn't be a herbicide -- a life threat.",
+   1
+  ],
+  [
+   3471.44,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Because the Roundup Ready gene essentially immunizes soybean plants from the herbicide in the same way that a life-saving vaccine will immunize individuals that receive it from some external -- it wouldn't be a herbicide -- a life threat.",
+   1
+  ],
+  [
+   3476.3,
+   "MR. WAXMAN",
+   "vaccine",
+   "Because the Roundup Ready gene essentially immunizes soybean plants from the herbicide in the same way that a life-saving vaccine will immunize individuals that receive it from some external -- it wouldn't be a herbicide -- a life threat.",
+   1
+  ],
+  [
+   3487.12,
+   "MR. WAXMAN",
+   "vaccine",
+   "Vaccines are live.",
+   1
+  ],
+  [
+   3494.7,
+   "MR. WAXMAN",
+   "vaccine",
+   "If a company develops the vaccine for, you know, H1 -- I shouldn't be using -- an important life-saving vaccine --",
+   2
+  ],
+  [
+   3511.08,
+   "MR. WAXMAN",
+   "vaccine",
+   "-- it's unsupportable to say that you cannot sell a quantity of that vaccine without exhausting all of your rights in it.",
+   1
+  ],
+  [
+   3522.36,
+   "MR. WAXMAN",
+   "vaccine",
+   "I mean, when -- when Schering-Plough or Bristol-Myers develops a vaccine and sells some of it to CVS so I can go in and get injected, they haven't lost all of their patent rights in that vaccine.",
+   2
+  ],
+  [
+   3537.14,
+   "JUSTICE SOTOMAYOR",
+   "vaccine",
+   "Simplifying this case, you can't take the person who's been given the vaccine and take vials of their blood and keep selling it?",
+   1
+  ],
+  [
+   3557.2,
+   "CHIEF JUSTICE ROBERTS",
+   "vaccine",
+   "I mean, your example, it seems to me, is not quite on point because it's not a situation where the intended use of the vaccine necessarily results in regeneration of it.",
+   1
+  ],
+  [
+   3610.9,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Bacteria replicate themselves, unlike soybeans which require human intervention.",
+   1
+  ],
+  [
+   3663.9,
+   "MR. WAXMAN",
+   "seed(s)",
+   "And so, like Monsanto with its seeds, I sign -- I provide a copy of the machine to MIT, with a research-only license; that is, you can use this machine to figure out how it works and develop new applications and all that sort of stuff.",
+   1
+  ],
+  [
+   3701.86,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Yes, but you can't lease articles like software and, you know, soybeans that consume themselves in any use, other than an art experiment.",
+   1
+  ],
+  [
+   3718.46,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "What about the commodity bin that has 2 percent of the patented seeds in them?",
+   1
+  ],
+  [
+   3723.0,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "Now, you get away from the article by saying, oh, well, almost all seeds are Roundup these days.",
+   1
+  ],
+  [
+   3723.46,
+   "JUSTICE KENNEDY",
+   "Roundup",
+   "Now, you get away from the article by saying, oh, well, almost all seeds are Roundup these days.",
+   1
+  ],
+  [
+   3732.82,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "But let's have some different commodity where there are three or four different patented items, but 1 percent, 2 percent of the seeds are in the bin.",
+   1
+  ],
+  [
+   3747.88,
+   "JUSTICE KENNEDY",
+   "seed(s)",
+   "You can't sell them if they know they are going to be used for seeds, and you can't use them for seeds even though there is only 1 percent of the seeds?",
+   3
+  ],
+  [
+   3757.38,
+   "MR. WAXMAN",
+   "grain elevator",
+   "First of all, because grain elevators are prohibited by State and Federal law from selling seed, period.",
+   1
+  ],
+  [
+   3762.3,
+   "MR. WAXMAN",
+   "seed(s)",
+   "First of all, because grain elevators are prohibited by State and Federal law from selling seed, period.",
+   1
+  ],
+  [
+   3767.88,
+   "MR. WAXMAN",
+   "seed(s)",
+   "They can't sell seed.",
+   1
+  ],
+  [
+   3773.3,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "Number 2, almost all varieties of soybeans or other crop plants are currently protected by the -- under the patent -- the Plant Variety Protection Act.",
+   1
+  ],
+  [
+   3817.4,
+   "MR. WAXMAN",
+   "soybean(s)",
+   "So irrespective of all of this, whatever happens, even if there is only 1 percent of patented soybeans in a grain elevator, the grain elevator can't sell it as seed both under the Federal and State seed laws and under the Patent Variety Protection Act.",
+   1
+  ],
+  [
+   3818.8,
+   "MR. WAXMAN",
+   "grain elevator",
+   "So irrespective of all of this, whatever happens, even if there is only 1 percent of patented soybeans in a grain elevator, the grain elevator can't sell it as seed both under the Federal and State seed laws and under the Patent Variety Protection Act.",
+   2
+  ],
+  [
+   3822.92,
+   "MR. WAXMAN",
+   "seed(s)",
+   "So irrespective of all of this, whatever happens, even if there is only 1 percent of patented soybeans in a grain elevator, the grain elevator can't sell it as seed both under the Federal and State seed laws and under the Patent Variety Protection Act.",
+   2
+  ],
+  [
+   3830.96,
+   "MR. WAXMAN",
+   "farmer",
+   "That's why the solution for farmers like Monsanto -- like Mr. Bowman, is to simply buy conventional seed, multiply it, you know, 20, 30, 40, 50, 80 times in a single generation and save 1/80th of it to replant in his second crop, if he doesn't want to buy Roundup Ready technology for his second crop and use the glyphosate aerially.",
+   1
+  ],
+  [
+   3833.44,
+   "MR. WAXMAN",
+   "Bowman",
+   "That's why the solution for farmers like Monsanto -- like Mr. Bowman, is to simply buy conventional seed, multiply it, you know, 20, 30, 40, 50, 80 times in a single generation and save 1/80th of it to replant in his second crop, if he doesn't want to buy Roundup Ready technology for his second crop and use the glyphosate aerially.",
+   1
+  ],
+  [
+   3836.76,
+   "MR. WAXMAN",
+   "seed(s)",
+   "That's why the solution for farmers like Monsanto -- like Mr. Bowman, is to simply buy conventional seed, multiply it, you know, 20, 30, 40, 50, 80 times in a single generation and save 1/80th of it to replant in his second crop, if he doesn't want to buy Roundup Ready technology for his second crop and use the glyphosate aerially.",
+   1
+  ],
+  [
+   3842.74,
+   "MR. WAXMAN",
+   "generation(s)",
+   "That's why the solution for farmers like Monsanto -- like Mr. Bowman, is to simply buy conventional seed, multiply it, you know, 20, 30, 40, 50, 80 times in a single generation and save 1/80th of it to replant in his second crop, if he doesn't want to buy Roundup Ready technology for his second crop and use the glyphosate aerially.",
+   1
+  ],
+  [
+   3849.74,
+   "MR. WAXMAN",
+   "Roundup",
+   "That's why the solution for farmers like Monsanto -- like Mr. Bowman, is to simply buy conventional seed, multiply it, you know, 20, 30, 40, 50, 80 times in a single generation and save 1/80th of it to replant in his second crop, if he doesn't want to buy Roundup Ready technology for his second crop and use the glyphosate aerially.",
+   1
+  ],
+  [
+   3876.26,
+   "MR. WALTERS",
+   "farmer",
+   "It may be occasional, when a farmer is in a real desperate situation, or it may apply to Mr. Bowman's situation, where he wanted a very cheap source of seed for his second crop.",
+   1
+  ],
+  [
+   3879.52,
+   "MR. WALTERS",
+   "Bowman",
+   "It may be occasional, when a farmer is in a real desperate situation, or it may apply to Mr. Bowman's situation, where he wanted a very cheap source of seed for his second crop.",
+   1
+  ],
+  [
+   3882.64,
+   "MR. WALTERS",
+   "seed(s)",
+   "It may be occasional, when a farmer is in a real desperate situation, or it may apply to Mr. Bowman's situation, where he wanted a very cheap source of seed for his second crop.",
+   1
+  ],
+  [
+   3889.82,
+   "MR. WALTERS",
+   "grain elevator",
+   "But in the record at 153a, among other places, he discusses how he's gone to the grain elevator over the years a number of times, and how other farmers have gone to the grain elevator for generations.",
+   2
+  ],
+  [
+   3892.96,
+   "MR. WALTERS",
+   "farmer",
+   "But in the record at 153a, among other places, he discusses how he's gone to the grain elevator over the years a number of times, and how other farmers have gone to the grain elevator for generations.",
+   1
+  ],
+  [
+   3895.72,
+   "MR. WALTERS",
+   "generation(s)",
+   "But in the record at 153a, among other places, he discusses how he's gone to the grain elevator over the years a number of times, and how other farmers have gone to the grain elevator for generations.",
+   1
+  ],
+  [
+   3900.26,
+   "MR. WALTERS",
+   "seed(s)",
+   "So a ruling in favor of Monsanto here would effectively eliminate that seed --",
+   1
+  ],
+  [
+   3902.18,
+   "JUSTICE SCALIA",
+   "grain elevator",
+   "Do you agree that it's unlawful for grain elevators to sell it for replanting?",
+   1
+  ],
+  [
+   3910.96,
+   "MR. WALTERS",
+   "grain elevator",
+   "And what he is referring to is State labeling laws that prevent grain elevators from actually scooping up grain, packaging it up and saying this is seed, because they all look alike to -- to the eye.",
+   1
+  ],
+  [
+   3915.42,
+   "MR. WALTERS",
+   "seed(s)",
+   "And what he is referring to is State labeling laws that prevent grain elevators from actually scooping up grain, packaging it up and saying this is seed, because they all look alike to -- to the eye.",
+   1
+  ],
+  [
+   3919.46,
+   "MR. WALTERS",
+   "grain elevator",
+   "And so grain elevators are certainly not allowed to dupe seed purchasers, but those laws are there to protect the seed purchasers.",
+   1
+  ],
+  [
+   3922.02,
+   "MR. WALTERS",
+   "seed(s)",
+   "And so grain elevators are certainly not allowed to dupe seed purchasers, but those laws are there to protect the seed purchasers.",
+   2
+  ],
+  [
+   3926.76,
+   "MR. WALTERS",
+   "Bowman",
+   "Mr. Bowman bought grain without any restrictions on how he could use it.",
+   1
+  ],
+  [
+   3943.34,
+   "MR. WALTERS",
+   "Bowman",
+   "Did not assert them in this case and could not assert them in this case because there's no single variety that Mr. Bowman planted.",
+   1
+  ],
+  [
+   3971.7,
+   "MR. WALTERS",
+   "seed(s)",
+   "This is an invention that the only way to use the invention -- now, repeat, the only way to use the invention -- is to plant it and to grow more seeds.",
+   1
+  ],
+  [
+   3994.3,
+   "JUSTICE BREYER",
+   "grain elevator",
+   "You can go buy them in the grain elevator and sell them for other things.",
+   1
+  ],
+  [
+   4009.4,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "The invented aspect of the seed is it has a gene in it that repels some other insecticide or something that they have.",
+   1
+  ],
+  [
+   4051.4,
+   "JUSTICE BREYER",
+   "grain elevator",
+   "The people buying from grain elevators are mostly people who take these chips -- whatever they are, the seeds -- and they sell them for making tofu, they sell them to eat, or this -- there are loads of uses, aren't there?",
+   1
+  ],
+  [
+   4056.54,
+   "JUSTICE BREYER",
+   "seed(s)",
+   "The people buying from grain elevators are mostly people who take these chips -- whatever they are, the seeds -- and they sell them for making tofu, they sell them to eat, or this -- there are loads of uses, aren't there?",
+   1
+  ],
+  [
+   4067.94,
+   "MR. WALTERS",
+   "Bowman",
+   "But the only use of the invention is to plant it, and that's the use that Mr. Bowman makes.",
+   1
+  ],
+  [
+   4078.18,
+   "JUSTICE SCALIA",
+   "generation(s)",
+   "What he is prevented from doing is using the -- the consequences of that planting, the second generation seeds, for another planting.",
+   1
+  ],
+  [
+   4078.76,
+   "JUSTICE SCALIA",
+   "seed(s)",
+   "What he is prevented from doing is using the -- the consequences of that planting, the second generation seeds, for another planting.",
+   1
+  ],
+  [
+   4100.14,
+   "MR. WALTERS",
+   "generation(s)",
+   "So -- the judgment in this case was based on acres planted, and so I'm not sure how many -- we talked a bit about the N plus 2 generation, and we don't know in the record what the N plus 2 generation was, in terms of his sales or his yields.",
+   2
+  ],
+  [
+   4168.14,
+   "MR. WALTERS",
+   "seed(s)",
+   "But you're saying that there's no exhaustion in the progeny where he owns that seed outright.",
+   1
+  ]
+ ],
+ "laugh_rows": [
+  {
+   "t": 309.92,
+   "next": 310.92,
+   "speaker": "JUSTICE BREYER",
+   "before": "those seeds for anything else he wants to do. It has nothing to do with those seeds. There are three generations of seeds. Maybe three generations of seeds is enough.",
+   "pause": 1.0,
+   "loud_s": 0.05,
+   "mean_over": 7.3,
+   "peak_over": 18.6,
+   "size": "small"
+  },
+  {
+   "t": 327.02,
+   "next": 327.84,
+   "speaker": "JUSTICE BREYER",
+   "before": "have the Monsanto, the first generation they sold. They have children, which is the second generation. And those children have children, which is the third generation, okay? So bad joke.",
+   "pause": 0.82,
+   "loud_s": 0.25,
+   "mean_over": 25.7,
+   "peak_over": 35.9,
+   "size": "small"
+  },
+  {
+   "t": 1825.352,
+   "next": 1825.352,
+   "speaker": "JUSTICE SCALIA",
+   "before": "business they would have to comply with seed labeling laws. They do not do so because it's not their business model. That's why it's so cheap. And that's why farmers --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2052.06,
+   "next": 2054.8,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "make a dozen other copies to give to my friends or sell on eBay. It's a reasonable use, but it's an infringing one. Well, we haven't had that case either.",
+   "pause": 2.74,
+   "loud_s": 2.1,
+   "mean_over": 23.9,
+   "peak_over": 35.2,
+   "size": "big"
+  },
+  {
+   "t": 2562.06,
+   "next": 2562.06,
+   "speaker": "MR. WAXMAN",
+   "before": "a gun. I think you may be able to shoot several -- I don't know whether you can shoot a whole round or whatever. But in any event, it's one event.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2564.26,
+   "next": 2565.28,
+   "speaker": "JUSTICE SCALIA",
+   "before": "shoot several -- I don't know whether you can shoot a whole round or whatever. But in any event, it's one event. You can't rob a bank with it, though, right?",
+   "pause": 1.02,
+   "loud_s": 0.4,
+   "mean_over": 12.5,
+   "peak_over": 15.9,
+   "size": "medium"
+  },
+  {
+   "t": 2716.4,
+   "next": 2716.94,
+   "speaker": "JUSTICE KAGAN",
+   "before": "who wants to do a science project of creating a soybean plant, and he goes to the supermarket and gets some edamame, and it turns out that it's Roundup seeds.",
+   "pause": 0.54,
+   "loud_s": 0.25,
+   "mean_over": 15.4,
+   "peak_over": 19.8,
+   "size": "small"
+  },
+  {
+   "t": 2744.92,
+   "next": 2745.1,
+   "speaker": "JUSTICE KAGAN",
+   "before": "three points, starting with the edamame and moving up to inadvertent infringers. Edamame is an immature form of the soybean seed. You can plant edamame -- Okay. I'll change the hypothetical.",
+   "pause": 0.18,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2758.02,
+   "next": 2758.02,
+   "speaker": "JUSTICE KAGAN",
+   "before": "my Girl Scout troop and have them do a science experiment, it will rot, but it will not generate. And that -- And I thought I was being so clever, too.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3502.1,
+   "next": 3502.26,
+   "speaker": "MR. WAXMAN",
+   "before": "Okay. Vaccines are live. They have live cultures; they can regenerate themselves. If a company develops the vaccine for, you know, H1 -- I shouldn't be using -- an important life-saving vaccine --",
+   "pause": 0.16,
+   "loud_s": 0.05,
+   "mean_over": 20.1,
+   "peak_over": 20.1,
+   "size": "under speech"
+  },
+  {
+   "t": 3547.94,
+   "next": 3549.08,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "take vials of their blood and keep selling it? Is that your -- Yes, and keep -- well, keep replicating it in competition. Take another example -- Well, is that how it works?",
+   "pause": 1.14,
+   "loud_s": 0.35,
+   "mean_over": 13.8,
+   "peak_over": 23.7,
+   "size": "small"
+  }
+ ],
+ "silence_db": -45.8,
+ "opening_start": 9.3,
+ "opening": [
+  [
+   9.3,
+   "MR. WALTERS",
+   "Mr. Chief Justice and may it please the Court: Patent exhaustion provides that once a patented article is sold, it passes outside the protection of the Patent Act, and it is available to be used by the purchaser to practice the invention. Now, what's the invention here? The invention is a bit of DNA that, when inserted into a soy bean seed, makes that seed and all the plants that grow from that seed resistant to the active ingredient in Roundup. Now, the only way to practice that invention is to plant the seed and to grow more seeds."
+  ],
+  [
+   45.44,
+   "CHIEF JUSTICE ROBERTS",
+   "Why in the world would anybody spend any money to try to improve the seed if as soon as they sold the first one anybody could grow more and have as many of those seeds as they want?"
+  ],
+  [
+   59.4,
+   "MR. WALTERS",
+   "I agree no one would do that, and I don't think that is the situation here. I think we have, and we have explained how Respondents here can protect their invention through contracts. They don't have to sell it outright. They can sell it through an agency model, but the more I think important --"
+  ],
+  [
+   76.06,
+   "CHIEF JUSTICE ROBERTS",
+   "That's true, that's true in the case of any patented article, right?"
+  ],
+  [
+   79.88,
+   "MR. WALTERS",
+   "Correct."
+  ],
+  [
+   80.22,
+   "CHIEF JUSTICE ROBERTS",
+   "So the patent system is based, I think, on a recognition that contractual protection is inadequate to encourage invention."
+  ],
+  [
+   90.3,
+   "MR. WALTERS",
+   "Well, part of the patent policy, as well, is to protect the purchaser, and that's been part of this Court's law for more than 150 years. Under Respondent's theory, any farmer who grows a soy bean seed is infringing the patent, but for the grace of Monsanto. And that's -- a lot of farmers in this country, when we have over 90 percent of the acreage that is Roundup Ready. So under Monsanto's theory, there is really no limit by the Exhaustion Doctrine?"
+  ],
+  [
+   117.72,
+   "JUSTICE SCALIA",
+   "I didn't understand that last sentence. Any farmer who plants and grows soybeans is violating the patent?"
+  ],
+  [
+   125.3,
+   "MR. WALTERS",
+   "Is infringing under license by Monsanto. Let's take the first --"
+  ],
+  [
+   129.7,
+   "JUSTICE SCALIA",
+   "I thought that their claim is that he only violates the patent if he tries to grow additional seeds from his first crop. Right? Isn't that the only claim here?"
+  ],
+  [
+   142.74,
+   "MR. WALTERS",
+   "The reach of Monsanto's theory is that once that seed is sold, even though title has passed to the farmer, and the farmer assumes all risks associated with farming, that they can still control the ownership of that seed, control how that seed is used."
+  ],
+  [
+   158.48,
+   "JUSTICE SCALIA",
+   "No, not that seed. It's different seed. That seed is done. It's been planted in the ground and has grown other seed. It's the other seed we are talking about. It's not the very seed that was sold. Right?"
+  ],
+  [
+   173.18,
+   "MR. WALTERS",
+   "That's correct, Your Honor, but if we don't apply -- if exhaustion is eliminated, rather, for the progeny seed, then you are taking away the ability of people to exchange these goods freely in commerce. You have essentially a servitude on these things"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2012/11-796",
+  "page_url": "https://www.oyez.org/cases/2012/11-796",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 13, 2013",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/22086",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2012/11-796/20130513o_11-796.delivery.mp3",
+  "duration": 271.072756,
+  "mp3_bytes": 1190787,
+  "asr_elapsed_s": 153.8,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "speaker_turns": 2,
+  "oyez_agree": [
+   600,
+   638,
+   627
+  ],
+  "diffs": [
+   [
+    33.5,
+    "one",
+    ""
+   ],
+   [
+    42.9,
+    "What",
+    "But"
+   ],
+   [
+    46.16,
+    "save",
+    "saved"
+   ],
+   [
+    46.88,
+    "replant",
+    "replants"
+   ],
+   [
+    72.68,
+    "reap",
+    "rip"
+   ],
+   [
+    81.08,
+    "in",
+    "and"
+   ],
+   [
+    97.08,
+    "use round -up",
+    "used Roundup"
+   ],
+   [
+    114.18,
+    "soybean",
+    "soybeans"
+   ],
+   [
+    126.58,
+    "8",
+    "eight"
+   ],
+   [
+    129.52,
+    "8",
+    "eight"
+   ],
+   [
+    130.48,
+    "of round -up",
+    "a Roundup"
+   ],
+   [
+    144.94,
+    "Monsanto's",
+    "Monsanto"
+   ],
+   [
+    166.6,
+    "that patent",
+    "a patented"
+   ],
+   [
+    197.24,
+    "But",
+    "The"
+   ],
+   [
+    203.74,
+    "entitle",
+    "entitled"
+   ],
+   [
+    248.5,
+    "the",
+    "that"
+   ]
+  ],
+  "dropped": [
+   [
+    7.02,
+    7.4,
+    "Kagan."
+   ]
+  ],
+  "redone": [],
+  "words": 638,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kagan has our opinion this morning in Case 11-796, Bowman v. Monsanto Company."
+   ],
+   [
+    7.02,
+    "JUSTICE KAGAN",
+    "Monsanto invented and then patented a genetic modification that enables soybean plants to survive exposure to glyphosate, the active ingredient in many herbicides. Monsanto calls seeds carrying this trait round-up-ready seeds. Monsanto will only sell round-up-ready seed to farmers who sign a licensing agreement. That agreement allows farmers to plant one and only one crop of soybeans from the round-up-ready seed they purchase. The farmer can then consume the harvested beans or sell them as a commodity. What the farmer cannot do, according to the agreement, is save and replant the soybeans he harvests. The Petitioner in this case, Vernon Bowman, is a farmer who likes round-up-ready technology. For his first soybean crop each year, Bowman purchased round-up-ready seed from a Monsanto affiliate and complied with the terms of the agreement I just described. But for his riskier second soybean crop of each season, Bowman wanted a way to reap the benefits of Monsanto's technology without paying its premium prices. The answer, Bowman decided, lay in buying seeds from the local grain elevator. Soybeans from a grain elevator are meant for consumption, but because soybeans are themselves seeds, nothing prevented Bowman from planting them. And because most Indiana farmers use round-up-ready seed, Bowman suspected that most of the grain elevator soybeans he purchased would carry the round-up-ready trait. He was right. When Bowman planted the grain elevator soybeans and applied glyphosate to his fields, most of the soybean plants survived. Bowman then saved seed from that crop of round-up-ready beans for his second planting the next year. And Bowman repeated that process year after year for 8 years. So he was able to produce 8 crops of round-up-ready soybeans all without buying any seed from Monsanto. When Monsanto discovered this practice, it sued Bowman for patent infringement. The question here is whether Bowman can defend against Monsanto's suit based on what's called the doctrine of patent exhaustion. Under that doctrine, the authorized sale of a patented article gives the purchaser or any subsequent owner like Bowman the right to use or resell that article without the patent holder's permission. The district court held that patent exhaustion did not protect Bowman's conduct and ordered him to pay damages to Monsanto, the Federal Circuit affirmed. We also agree. We hold that patent exhaustion does not"
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    5.92,
+    14
+   ],
+   [
+    "JUSTICE KAGAN",
+    7.02,
+    270.26,
+    604
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  }
+ },
+ "case": "11-796",
+ "year": "2012",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2012/11-796",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/11-796.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2012/11-796-1j43.pdf",
+ "model": "medium.en",
+ "duration": 4174.942041,
+ "asr_elapsed_s": 2797.0,
+ "asr_words": 11122,
+ "official_words": 11278,
+ "matched": 10723,
+ "shared": 4,
+ "clamped": 0,
+ "trimmed": 21,
+ "rewindowed": 1,
+ "match_rate": 95.07891470118815,
+ "turns": 222,
+ "laugh_markers": 11,
+ "mp3_bytes": 33399789,
+ "pauses": 411,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 217,
+  "match_rate": {
+   "ok": true,
+   "detail": "95.08% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-01"
+}
