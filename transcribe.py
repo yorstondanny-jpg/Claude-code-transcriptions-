@@ -820,6 +820,18 @@ def process_opinion(case, year, root, work, model_name):
     (root / "opinion_lines.json").write_text(json.dumps(lines, indent=1, ensure_ascii=False) + "\n")
 
     info["words"] = len(words)
+    # first 3 minutes as plain text, one paragraph per speaker turn
+    opening = []
+    if words:
+        t0 = words[0]["s"]
+        for w in words:
+            if w["s"] >= t0 + 180:
+                break
+            if opening and opening[-1][1] == w["speaker"]:
+                opening[-1][2] += ("" if w["w"].startswith("-") else " ") + w["w"]
+            else:
+                opening.append([w["s"], w["speaker"], w["w"]])
+    info["opening"] = opening
     info["lines"] = [(l["speaker"], l["s"], l["e"], len(l["text"].split())) for l in lines]
     order_bad = sum(1 for i in range(1, len(words)) if words[i]["s"] < words[i - 1]["s"])
     long_bad = [(w["w"], w["s"], w["e"]) for w in words if w["e"] - w["s"] > 3.0 and not is_citation(w["w"])]
@@ -991,6 +1003,11 @@ Files: `opinion_words.json` (`{{"w", "s", "e", "speaker"}}`) and `opinion_lines.
 | speaker | start | end | words |
 |---|---|---|---|
 """ + "\n".join(f"| {spk} | {fmt_ts(a)} | {fmt_ts(b)} | {n} |" for spk, a, b, n in op["lines"]) + "\n"
+    if op.get("opening"):
+        t0 = op["opening"][0][0]
+        out += (f"\n### First 3 minutes, as plain text\n\nWhisper's wording, {fmt_ts(t0)} to "
+                f"{fmt_ts(t0 + 180)}, with each speaker's start time.\n\n")
+        out += "\n\n".join(f"[{fmt_ts(a)}] {spk}: {txt}" for a, spk, txt in op["opening"]) + "\n"
     out += "\n### Words Whisper invented\n\n"
     if op.get("dropped"):
         out += ("Runs of 3 or more words where Whisper and Oyez's transcript disagree were "
