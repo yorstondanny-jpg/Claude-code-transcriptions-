@@ -34,7 +34,7 @@ MAX_MP3_BYTES = 90 * 1024 * 1024
 LAUGH = "(Laughter.)"
 
 SPEAKER_RE = re.compile(
-    r"^((?:CHIEF )?JUSTICE [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+|GENERAL [A-Za-z'\-]+|"
+    r"^((?:CHIEF )?JUSTICE [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+(?: [A-Z'\-]{2,})?|GENERAL [A-Za-z'\-]+|"
     r"THE CLERK|THE MARSHAL|QUESTION)\s*:\s*(.*)$"
 )
 SECTION_RE = re.compile(r"^(ORAL ARGUMENT OF|REBUTTAL ARGUMENT OF|ON BEHALF OF|P R O C E E D I N G S)")
@@ -57,9 +57,14 @@ def fetch(url, dest=None):
 # --------------------------------------------------------------------------- sources
 
 def transcript_link(html, case):
-    """First link to this case's argument transcript PDF, e.g. 14-275_2b8e.pdf or 11-626.pdf."""
-    pat = r"""['"]([^'"]*argument_transcripts/[^'"]*/%s(?:_[^'"/]*)?\.pdf)['"]""" % re.escape(case)
+    """First link to this case's argument transcript PDF: 14-275_2b8e.pdf, 11-626.pdf,
+    11-796-1j43.pdf, or an older /pdfs/transcripts/ path; failing that, a PDF link whose text
+    is the docket number."""
+    pat = r"""['"]([^'"]*(?:argument_transcripts|pdfs/transcripts)/[^'"]*/%s(?:[_-][^'"/]*)?\.pdf)['"]""" % re.escape(case)
     m = re.search(pat, html)
+    if m:
+        return m.group(1)
+    m = re.search(r"""<a\s+href=['"]([^'"]+\.pdf)['"][^>]*>\s*%s\b""" % re.escape(case), html, re.I)
     return m.group(1) if m else None
 
 
@@ -319,6 +324,41 @@ def loudness(audio):
     floor = float(np.percentile(db, 20))
     silence = float(np.percentile(db, 5))
     return db, floor, db > floor + 12, db > silence + 12, silence
+
+
+def measure_laughs(official, db, silence, hop=HOP, edge=0.05, words_before=30):
+    """Each official (Laughter.) marker in the audio: its time (end of the word before), the
+    words before it, and the room inside the pause that follows, up to the next transcribed
+    word: how long, how many seconds are 12 dB or more over the silence floor, and the mean
+    (energy) and peak loudness in dB over that floor."""
+    rows = []
+    for i, o in enumerate(official):
+        if o["w"] != LAUGH:
+            continue
+        before = [p["w"] for p in official[:i] if p["w"] != LAUGH][-words_before:]
+        nxt = next((p for p in official[i + 1:] if p["w"] != LAUGH), None)
+        t0, t1 = o["s"], (nxt["s"] if nxt else o["e"])
+        i0, i1 = int(np.ceil((t0 + edge) / hop)), min(int((t1 - edge) / hop), len(db))
+        seg = db[i0:i1] if i1 > i0 else db[0:0]
+        if len(seg):
+            mean = round(float(10 * np.log10(np.mean(10 ** (seg / 10))) - silence), 1)
+            peak = round(float(seg.max() - silence), 1)
+            loud = round(float((seg > silence + 12).sum() * hop), 2)
+        else:
+            mean = peak = None
+            loud = 0.0
+        pause = round(t1 - t0, 2)
+        if pause < 0.3:
+            size = "under speech"  # the next word starts at once; any laugh is under the voice
+        elif loud >= 1.0 and (mean or 0) >= 20:
+            size = "big"
+        elif loud >= 0.4:
+            size = "medium"
+        else:
+            size = "small"
+        rows.append({"t": t0, "next": t1, "speaker": o["speaker"], "before": " ".join(before),
+                     "pause": pause, "loud_s": loud, "mean_over": mean, "peak_over": peak, "size": size})
+    return rows
 
 
 def rank_pauses(official, db, silence, min_gap=0.4, edge=0.1, hop=HOP):
@@ -630,6 +670,7 @@ def main():
             md.append(f"| {fmt_ts(b['s'])} | {fmt_ts(b['e'])} | {b['s']:.3f} | {b['e']:.3f} | "
                       f"{b['dur']:.2f} | {b['mean_db']} | {near(b)} | {overlap(b)} |")
     pauses, spoken_words = rank_pauses(official, db, silence)
+    laugh_rows = measure_laughs(official, db, silence)
     md += ["", "## Every pause of 0.4 s or more, loudest room first", "",
            f"Gaps of 0.4 s or more between consecutive official words, ranked by how loud the room "
            f"is inside the gap: energy mean (and peak) of 50 ms frames, 0.1 s trimmed off each side, "
@@ -662,7 +703,7 @@ def main():
     terms = [t.strip() for t in args.mentions.split(",") if t.strip()] if args.mentions else []
     mentions = key_mentions(official, terms) if terms else None
     stats = {
-        "terms": terms, "mentions": mentions,
+        "terms": terms, "mentions": mentions, "laugh_rows": laugh_rows, "silence_db": round(silence, 1),
         "opening_start": opening_start, "opening": opening, "opinion": opinion,
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
         "pdf_url": pdf_url, "model": args.model, "duration": duration,
@@ -1034,6 +1075,23 @@ Regenerate with:
 
 def readme_extras(st):
     out = ""
+    if st.get("laugh_rows"):
+        rows = st["laugh_rows"]
+        out += (f"\n## The official laughs, measured in the audio\n\nEach `(Laughter.)` in the transcript, "
+                "at the end of the word before it, with the 30 words before. The room is measured in the "
+                "pause that follows, up to the next transcribed word: its length, how many seconds are "
+                f"12 dB or more over the silence floor ({st['silence_db']} dBFS, the quietest 5% of the "
+                "recording), and the mean and peak loudness over that floor. \"Big\" is at least 1 s "
+                "loud at a mean of 20 dB or more; \"medium\" at least 0.4 s loud. \"Under speech\" "
+                "means the next word starts within 0.3 s, so any laughter is under someone's voice and "
+                "can't be measured this way: listen to those.\n\n"
+                "| # | time | time (s) | size | pause (s) | loud (s) | mean dB over floor | peak dB over floor | 30 words before |\n"
+                "|---|---|---|---|---|---|---|---|---|\n")
+        out += "\n".join(
+            f"| {k} | {fmt_ts(r['t'])} | {r['t']:.3f} | {r['size']} | {r['pause']:.2f} | {r['loud_s']:.2f} | "
+            f"{r['mean_over'] if r['mean_over'] is not None else '-'} | "
+            f"{r['peak_over'] if r['peak_over'] is not None else '-'} | {r['before'].replace('|', '/')} |"
+            for k, r in enumerate(rows, 1)) + "\n"
     if st.get("terms"):
         rows = st["mentions"] or []
         out += ("\n## Key mentions\n\nEvery sentence in the argument that mentions one of these terms, "

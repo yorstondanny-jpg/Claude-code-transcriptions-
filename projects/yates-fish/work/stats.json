@@ -1,6 +1,174 @@
 {
  "terms": [],
  "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 436.6,
+   "next": 438.08,
+   "speaker": "JUSTICE KAGAN",
+   "before": "and other object. And to me, it seems like other object is, if anything, a more classic case of that canon that I can't pronounce the name of, ejusdem whatever.",
+   "pause": 1.48,
+   "loud_s": 0.25,
+   "mean_over": 9.8,
+   "peak_over": 13.5,
+   "size": "small"
+  },
+  {
+   "t": 444.1,
+   "next": 446.12,
+   "speaker": "JUSTICE KAGAN",
+   "before": "object is, if anything, a more classic case of that canon that I can't pronounce the name of, ejusdem whatever. Generis. Good. That's what I count on my colleague for.",
+   "pause": 2.02,
+   "loud_s": 1.4,
+   "mean_over": 24.0,
+   "peak_over": 31.3,
+   "size": "big"
+  },
+  {
+   "t": 819.45,
+   "next": 819.45,
+   "speaker": "MR. BADALAMENTI",
+   "before": "mischarge here? Could they have charged your client with violating 1512(c)? It's possible the government could have charged that particular thing, but -- I love those words, \"possible.\" It is possible.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 866.29,
+   "next": 868.91,
+   "speaker": "MR. BADALAMENTI",
+   "before": "purposefully in that particular information because it is, perhaps, a broader class, and it is -- Destroying and substituting fish is not a corrupt act. It would have been my defense.",
+   "pause": 2.62,
+   "loud_s": 2.15,
+   "mean_over": 26.1,
+   "peak_over": 33.0,
+   "size": "big"
+  },
+  {
+   "t": 1106.01,
+   "next": 1106.37,
+   "speaker": "JUSTICE BREYER",
+   "before": "it, to impede, obstruct or influence the investigation or proper administration. What's vague about it? The answer to that, if you want to pose it as a question to me --",
+   "pause": 0.36,
+   "loud_s": 0.15,
+   "mean_over": 20.5,
+   "peak_over": 25.2,
+   "size": "small"
+  },
+  {
+   "t": 1896.43,
+   "next": 1896.43,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "executing that scheme and in lying to the law enforcement officers about it. And then -- You make him sound like a mob boss or something. I mean, he was caught --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1902.95,
+   "next": 1903.51,
+   "speaker": "MR. MARTINEZ",
+   "before": "boss or something. I mean, he was caught -- The fish were -- how many inches short of permitted were the fish? The fish were -- it varied fish by fish, Your Honor.",
+   "pause": 0.56,
+   "loud_s": 0.15,
+   "mean_over": 21.9,
+   "peak_over": 29.3,
+   "size": "small"
+  },
+  {
+   "t": 2178.93,
+   "next": 2179.63,
+   "speaker": "JUSTICE BREYER",
+   "before": "destroy something in relation to any such matter or case. What matter? In relation to any matter within the jurisdiction of any department or agency within the United States. What?",
+   "pause": 0.7,
+   "loud_s": 0.0,
+   "mean_over": 1.6,
+   "peak_over": 4.4,
+   "size": "small"
+  },
+  {
+   "t": 2199.67,
+   "next": 2199.67,
+   "speaker": "JUSTICE BREYER",
+   "before": "postal -- it's a postman. He says, please send this back. It's our proper duty to deliver the mail. I say, I hate postmen and I rip it up. 20 years.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2200.91,
+   "next": 2201.49,
+   "speaker": "MR. MARTINEZ",
+   "before": "send this back. It's our proper duty to deliver the mail. I say, I hate postmen and I rip it up. 20 years. Your Honor, that would not be covered.",
+   "pause": 0.58,
+   "loud_s": 0.4,
+   "mean_over": 20.0,
+   "peak_over": 24.0,
+   "size": "medium"
+  },
+  {
+   "t": 2207.39,
+   "next": 2208.79,
+   "speaker": "JUSTICE BREYER",
+   "before": "it up. 20 years. Your Honor, that would not be covered. And why wouldn't it happen? It wouldn't happen because you'd never prosecute it, though I've had my doubts recently.",
+   "pause": 1.4,
+   "loud_s": 1.2,
+   "mean_over": 26.5,
+   "peak_over": 32.8,
+   "size": "big"
+  },
+  {
+   "t": 2389.65,
+   "next": 2389.65,
+   "speaker": "JUSTICE SCALIA",
+   "before": "statute by the way that the -- Well, that makes it okay. That's fine. I mean, you know, that explains how it happens. It doesn't explain how it makes any sense.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2701.47,
+   "next": 2702.73,
+   "speaker": "MR. MARTINEZ",
+   "before": "I think the -- you could say that the object of the game of Monopoly is to win all the money, but that's not really what Congress was looking at here.",
+   "pause": 1.26,
+   "loud_s": 1.1,
+   "mean_over": 24.7,
+   "peak_over": 30.2,
+   "size": "big"
+  },
+  {
+   "t": 2900.03,
+   "next": 2903.21,
+   "speaker": "JUSTICE SCALIA",
+   "before": "you -- if you asked them that question and you -- you pointed them to the fact that -- I don't think you would get a polite answer to either of those questions.",
+   "pause": 3.18,
+   "loud_s": 2.6,
+   "mean_over": 22.6,
+   "peak_over": 28.1,
+   "size": "big"
+  },
+  {
+   "t": 3361.21,
+   "next": 3362.53,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "the statute, based on the history of the statute, is -- is clearly yes, and we ask this Court to affirm. Perhaps Congress should have called this the Sarbanes-Oxley Grouper Act.",
+   "pause": 1.32,
+   "loud_s": 0.85,
+   "mean_over": 21.4,
+   "peak_over": 31.5,
+   "size": "medium"
+  }
+ ],
+ "silence_db": -41.2,
  "opening_start": 9.3,
  "opening": [
   [

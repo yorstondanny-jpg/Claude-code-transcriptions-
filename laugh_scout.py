@@ -29,7 +29,7 @@ UA = {"User-Agent": "Mozilla/5.0 (laugh scout)"}
 LAUGH_MARK = "<laughter>"  # history entry marking a laugh, so lookbacks stop there
 LAUGH_RE = re.compile(r"\(\s*[^()]*?\blaughter\b[^()]*\)\.?", re.I)
 SPEAKER_RE = re.compile(
-    r"^((?:CHIEF )?JUSTICE [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+|GENERAL [A-Za-z'\-]+|"
+    r"^((?:CHIEF )?JUSTICE [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+(?: [A-Z'\-]{2,})?|GENERAL [A-Za-z'\-]+|"
     r"THE CLERK|THE MARSHAL|QUESTION)\s*:\s*(.*)$")
 TIME_RE = re.compile(r"(\d{1,2}):(\d{2})\s*([ap])\.\s*m\.", re.I)
 FURNITURE_RE = re.compile(r"^(Official( - Subject to Final Review)?|.* Reporting (Company|Corporation)|"

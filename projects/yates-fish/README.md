@@ -77,6 +77,28 @@ Regenerate with:
 
     python3 transcribe.py 13-7451 2014 yates-fish --model medium.en --opinion
 
+## The official laughs, measured in the audio
+
+Each `(Laughter.)` in the transcript, at the end of the word before it, with the 30 words before. The room is measured in the pause that follows, up to the next transcribed word: its length, how many seconds are 12 dB or more over the silence floor (-41.2 dBFS, the quietest 5% of the recording), and the mean and peak loudness over that floor. "Big" is at least 1 s loud at a mean of 20 dB or more; "medium" at least 0.4 s loud. "Under speech" means the next word starts within 0.3 s, so any laughter is under someone's voice and can't be measured this way: listen to those.
+
+| # | time | time (s) | size | pause (s) | loud (s) | mean dB over floor | peak dB over floor | 30 words before |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 0:07:16.600 | 436.600 | small | 1.48 | 0.25 | 9.8 | 13.5 | and other object. And to me, it seems like other object is, if anything, a more classic case of that canon that I can't pronounce the name of, ejusdem whatever. |
+| 2 | 0:07:24.100 | 444.100 | big | 2.02 | 1.40 | 24.0 | 31.3 | object is, if anything, a more classic case of that canon that I can't pronounce the name of, ejusdem whatever. Generis. Good. That's what I count on my colleague for. |
+| 3 | 0:13:39.450 | 819.450 | under speech | 0.00 | 0.00 | - | - | mischarge here? Could they have charged your client with violating 1512(c)? It's possible the government could have charged that particular thing, but -- I love those words, "possible." It is possible. |
+| 4 | 0:14:26.290 | 866.290 | big | 2.62 | 2.15 | 26.1 | 33.0 | purposefully in that particular information because it is, perhaps, a broader class, and it is -- Destroying and substituting fish is not a corrupt act. It would have been my defense. |
+| 5 | 0:18:26.010 | 1106.010 | small | 0.36 | 0.15 | 20.5 | 25.2 | it, to impede, obstruct or influence the investigation or proper administration. What's vague about it? The answer to that, if you want to pose it as a question to me -- |
+| 6 | 0:31:36.430 | 1896.430 | under speech | 0.00 | 0.00 | - | - | executing that scheme and in lying to the law enforcement officers about it. And then -- You make him sound like a mob boss or something. I mean, he was caught -- |
+| 7 | 0:31:42.950 | 1902.950 | small | 0.56 | 0.15 | 21.9 | 29.3 | boss or something. I mean, he was caught -- The fish were -- how many inches short of permitted were the fish? The fish were -- it varied fish by fish, Your Honor. |
+| 8 | 0:36:18.930 | 2178.930 | small | 0.70 | 0.00 | 1.6 | 4.4 | destroy something in relation to any such matter or case. What matter? In relation to any matter within the jurisdiction of any department or agency within the United States. What? |
+| 9 | 0:36:39.670 | 2199.670 | under speech | 0.00 | 0.00 | - | - | postal -- it's a postman. He says, please send this back. It's our proper duty to deliver the mail. I say, I hate postmen and I rip it up. 20 years. |
+| 10 | 0:36:40.910 | 2200.910 | medium | 0.58 | 0.40 | 20.0 | 24.0 | send this back. It's our proper duty to deliver the mail. I say, I hate postmen and I rip it up. 20 years. Your Honor, that would not be covered. |
+| 11 | 0:36:47.390 | 2207.390 | big | 1.40 | 1.20 | 26.5 | 32.8 | it up. 20 years. Your Honor, that would not be covered. And why wouldn't it happen? It wouldn't happen because you'd never prosecute it, though I've had my doubts recently. |
+| 12 | 0:39:49.650 | 2389.650 | under speech | 0.00 | 0.00 | - | - | statute by the way that the -- Well, that makes it okay. That's fine. I mean, you know, that explains how it happens. It doesn't explain how it makes any sense. |
+| 13 | 0:45:01.470 | 2701.470 | big | 1.26 | 1.10 | 24.7 | 30.2 | I think the -- you could say that the object of the game of Monopoly is to win all the money, but that's not really what Congress was looking at here. |
+| 14 | 0:48:20.030 | 2900.030 | big | 3.18 | 2.60 | 22.6 | 28.1 | you -- if you asked them that question and you -- you pointed them to the fact that -- I don't think you would get a polite answer to either of those questions. |
+| 15 | 0:56:01.210 | 3361.210 | medium | 1.32 | 0.85 | 21.4 | 31.5 | the statute, based on the history of the statute, is -- is clearly yes, and we ask this Court to affirm. Perhaps Congress should have called this the Sarbanes-Oxley Grouper Act. |
+
 ## Petitioner's opening, first 3 minutes
 
 Everything said from 0:00:09.300 to 0:03:09.300, official wording, with each turn's start time. Interruptions from the bench are included.

@@ -78,8 +78,8 @@ Page:line is the transcript's own numbering (the printed page number, not the PD
 |---|---|---|---|---|
 | 1 | 7:10 | JUSTICE BREYER | No, but you are allowing him to use those seeds for anything else he wants to do. It has nothing to do with those seeds. There are three generations of seeds. Maybe three generations of seeds is enough. | (Laughter.) |
 | 2 | 7:16 | JUSTICE BREYER | It is for this example. First of you have the Monsanto, the first generation they sold. They have children, which is the second generation. And those children have children, which is the third generation, okay? So bad joke. | (Laughter.) |
-| 3 | 28:23 | JUSTICE SCALIA | sell commingled grain as seed. If that was their business they would have to comply with seed labeling laws. They do not do so because it's not their business model. That's why it's so cheap. And that's why farmers -- | (Laughter.) |
-| 4 | 33:2 | CHIEF JUSTICE ROBERTS | I can purchase software; one reasonable use would be to make a dozen other copies to give to my friends or sell on eBay. It's a reasonable use, but it's an infringing one. Well, we haven't had that case either. | (Laughter.) |
+| 3 | 28:23 | JUSTICE SCALIA | That's why it's so cheap. And that's why farmers -- | (Laughter.) |
+| 4 | 33:2 | CHIEF JUSTICE ROBERTS | Well, we haven't had that case either. | (Laughter.) |
 | 5 | 39:19 | MR. WAXMAN | I think you may be able to shoot several -- I don't know whether you can shoot a whole round or whatever. But in any event, it's one event. | (Laughter.) |
 | 6 | 39:22 | JUSTICE SCALIA | You can't rob a bank with it, though, right? | (Laughter.) |
 | 7 | 41:19 | JUSTICE KAGAN | the person -- farmer is infringing, or there's a 10-year-old who wants to do a science project of creating a soybean plant, and he goes to the supermarket and gets some edamame, and it turns out that it's Roundup seeds. | (Laughter.) |
