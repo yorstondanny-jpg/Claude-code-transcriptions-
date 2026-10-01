@@ -1,4 +1,6 @@
 {
+ "terms": [],
+ "mentions": null,
  "opening_start": 12.28,
  "opening": [
   [
@@ -83,7 +85,7 @@
   "speaker_turns": 1,
   "oyez_agree": [
    1551,
-   1659,
+   1657,
    1632
   ],
   "diffs": [
@@ -101,11 +103,6 @@
     114.86,
     "",
     "this -- of"
-   ],
-   [
-    135.32,
-    "could",
-    ""
    ],
    [
     136.14,
@@ -213,11 +210,6 @@
     "serious"
    ],
    [
-    336.76,
-    "called",
-    ""
-   ],
-   [
     361.9,
     "close quote.",
     "His objection --"
@@ -273,14 +265,25 @@
     "are enclosing"
    ]
   ],
-  "dropped": [],
+  "dropped": [
+   [
+    135.32,
+    135.38,
+    "could"
+   ],
+   [
+    336.76,
+    336.96,
+    "called"
+   ]
+  ],
   "redone": [],
-  "words": 1659,
+  "words": 1657,
   "opening": [
    [
     0.0,
     "JUSTICE SCALIA",
-    "This case is here on writ of certiorari to the United States Court of Appeals for the Ninth Circuit. In 2005, California enacted Assembly Bill 1179, which prohibits the sale or rental of violent video games to minors and requires their packaging to be labeled 18. The Act covers games, quote, in which the range of options available to a player includes killing, maiming, dismembering, or sexually assaulting an image of a human being if those acts are depicted in a manner that a reasonable person considering the game as a whole would find appeals to a deviant or morbid interest of minors, that is patently offensive to prevailing standards in the community as to what is suitable for minors, and that causes the game as a whole to lack serious literary, artistic, political, or scientific value for minors. Violation of the Act is punishable by a civil fine of up to $1,000. Respondents representing the video game and software industries brought a pre-enforcement challenge to the Act alleging that it violates the First Amendment. The district court agreed and permanently enjoined its enforcement. The Court of Appeals for the Ninth Circuit affirmed, and we granted certiorari. California correctly acknowledges that video games qualify as expression protected by the First Amendment. Like books, plays, and movies, video games communicate ideas. The most basic principle of First Amendment law is that government has no power to restrict expression because of its content. There are, of course, exceptions. From 1791 to the present, the First Amendment has permitted restrictions upon the content of speech in a few well-defined and narrowly limited areas, such as obscenity, incitement, and fighting words. Last term, in a case called United States v. Stevens, we held that new categories of unprotected speech may not be added to that list by a legislature that could conclude certain speech is too harmful to be tolerated. Without persuasive evidence that a novel restriction on the content of speech is part of a long tradition of proscription, a legislature may not revise the judgment of the American people embodied in the First Amendment that the benefits of constitutional restrictions on the government's power outweigh its costs. That holding controls this case. California's statute mimics the New York statute that we upheld in a case called Ginsburg v. New York. That statute prohibited the sale to minors of sexual material that did not meet our definition of obscenity, but that, quote, appeals to the prurient,"
+    "This case is here on writ of certiorari to the United States Court of Appeals for the Ninth Circuit. In 2005, California enacted Assembly Bill 1179, which prohibits the sale or rental of violent video games to minors and requires their packaging to be labeled 18. The Act covers games, quote, in which the range of options available to a player includes killing, maiming, dismembering, or sexually assaulting an image of a human being if those acts are depicted in a manner that a reasonable person considering the game as a whole would find appeals to a deviant or morbid interest of minors, that is patently offensive to prevailing standards in the community as to what is suitable for minors, and that causes the game as a whole to lack serious literary, artistic, political, or scientific value for minors. Violation of the Act is punishable by a civil fine of up to $1,000. Respondents representing the video game and software industries brought a pre-enforcement challenge to the Act alleging that it violates the First Amendment. The district court agreed and permanently enjoined its enforcement. The Court of Appeals for the Ninth Circuit affirmed, and we granted certiorari. California correctly acknowledges that video games qualify as expression protected by the First Amendment. Like books, plays, and movies, video games communicate ideas. The most basic principle of First Amendment law is that government has no power to restrict expression because of its content. There are, of course, exceptions. From 1791 to the present, the First Amendment has permitted restrictions upon the content of speech in a few well-defined and narrowly limited areas, such as obscenity, incitement, and fighting words. Last term, in a case called United States v. Stevens, we held that new categories of unprotected speech may not be added to that list by a legislature that conclude certain speech is too harmful to be tolerated. Without persuasive evidence that a novel restriction on the content of speech is part of a long tradition of proscription, a legislature may not revise the judgment of the American people embodied in the First Amendment that the benefits of constitutional restrictions on the government's power outweigh its costs. That holding controls this case. California's statute mimics the New York statute that we upheld in a case called Ginsburg v. New York. That statute prohibited the sale to minors of sexual material that did not meet our definition of obscenity, but that, quote, appeals to the prurient,"
    ]
   ],
   "lines": [
@@ -288,7 +291,7 @@
     "JUSTICE SCALIA",
     0.0,
     702.46,
-    1649
+    1647
    ]
   ],
   "checks": {

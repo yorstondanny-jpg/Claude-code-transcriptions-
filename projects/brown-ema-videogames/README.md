@@ -113,7 +113,7 @@ The justice reading the decision from the bench, Opinion Announcement - June 27,
 - Oyez page: https://www.oyez.org/cases/2010/08-1448
 - Audio: https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2010/08-1448/20110627o_08-1448.delivery.mp3 (saved unchanged as `audio/opinion.mp3`: 2.9 MB)
 - Length: 0:11:43.843 (703.843 s)
-- Words: 1659, transcribed by faster-whisper `medium.en` with the same settings as the
+- Words: 1657, transcribed by faster-whisper `medium.en` with the same settings as the
   argument. **There is no official transcript, so the wording is Whisper's.** The only check
   is against Oyez's unofficial transcript (below). Expect the odd misheard word, especially
   names and citations.
@@ -123,24 +123,27 @@ The justice reading the decision from the bench, Opinion Announcement - June 27,
 - Word times: Whisper's, with the same stretched-word trimming as the argument (1
   trimmed, 0 re-transcribed).
 - Checks: 0 words out of time order; words longer than 3 s: none.
-- Cross-check: Oyez's unofficial transcript agrees with 1551 of Whisper's 1659 words (93.5%; Oyez has 1632).
+- Cross-check: Oyez's unofficial transcript agrees with 1551 of Whisper's 1657 words (93.6%; Oyez has 1632).
 
 Files: `opinion_words.json` (`{"w", "s", "e", "speaker"}`) and `opinion_lines.json`
 (`{"speaker", "s", "e", "text"}`, one entry per speaker turn).
 
 | speaker | start | end | words |
 |---|---|---|---|
-| JUSTICE SCALIA | 0:00:00.000 | 0:11:42.460 | 1649 |
+| JUSTICE SCALIA | 0:00:00.000 | 0:11:42.460 | 1647 |
 
 ### First 3 minutes, as plain text
 
 Whisper's wording, 0:00:00.000 to 0:03:00.000, with each speaker's start time.
 
-[0:00:00.000] JUSTICE SCALIA: This case is here on writ of certiorari to the United States Court of Appeals for the Ninth Circuit. In 2005, California enacted Assembly Bill 1179, which prohibits the sale or rental of violent video games to minors and requires their packaging to be labeled 18. The Act covers games, quote, in which the range of options available to a player includes killing, maiming, dismembering, or sexually assaulting an image of a human being if those acts are depicted in a manner that a reasonable person considering the game as a whole would find appeals to a deviant or morbid interest of minors, that is patently offensive to prevailing standards in the community as to what is suitable for minors, and that causes the game as a whole to lack serious literary, artistic, political, or scientific value for minors. Violation of the Act is punishable by a civil fine of up to $1,000. Respondents representing the video game and software industries brought a pre-enforcement challenge to the Act alleging that it violates the First Amendment. The district court agreed and permanently enjoined its enforcement. The Court of Appeals for the Ninth Circuit affirmed, and we granted certiorari. California correctly acknowledges that video games qualify as expression protected by the First Amendment. Like books, plays, and movies, video games communicate ideas. The most basic principle of First Amendment law is that government has no power to restrict expression because of its content. There are, of course, exceptions. From 1791 to the present, the First Amendment has permitted restrictions upon the content of speech in a few well-defined and narrowly limited areas, such as obscenity, incitement, and fighting words. Last term, in a case called United States v. Stevens, we held that new categories of unprotected speech may not be added to that list by a legislature that could conclude certain speech is too harmful to be tolerated. Without persuasive evidence that a novel restriction on the content of speech is part of a long tradition of proscription, a legislature may not revise the judgment of the American people embodied in the First Amendment that the benefits of constitutional restrictions on the government's power outweigh its costs. That holding controls this case. California's statute mimics the New York statute that we upheld in a case called Ginsburg v. New York. That statute prohibited the sale to minors of sexual material that did not meet our definition of obscenity, but that, quote, appeals to the prurient,
+[0:00:00.000] JUSTICE SCALIA: This case is here on writ of certiorari to the United States Court of Appeals for the Ninth Circuit. In 2005, California enacted Assembly Bill 1179, which prohibits the sale or rental of violent video games to minors and requires their packaging to be labeled 18. The Act covers games, quote, in which the range of options available to a player includes killing, maiming, dismembering, or sexually assaulting an image of a human being if those acts are depicted in a manner that a reasonable person considering the game as a whole would find appeals to a deviant or morbid interest of minors, that is patently offensive to prevailing standards in the community as to what is suitable for minors, and that causes the game as a whole to lack serious literary, artistic, political, or scientific value for minors. Violation of the Act is punishable by a civil fine of up to $1,000. Respondents representing the video game and software industries brought a pre-enforcement challenge to the Act alleging that it violates the First Amendment. The district court agreed and permanently enjoined its enforcement. The Court of Appeals for the Ninth Circuit affirmed, and we granted certiorari. California correctly acknowledges that video games qualify as expression protected by the First Amendment. Like books, plays, and movies, video games communicate ideas. The most basic principle of First Amendment law is that government has no power to restrict expression because of its content. There are, of course, exceptions. From 1791 to the present, the First Amendment has permitted restrictions upon the content of speech in a few well-defined and narrowly limited areas, such as obscenity, incitement, and fighting words. Last term, in a case called United States v. Stevens, we held that new categories of unprotected speech may not be added to that list by a legislature that conclude certain speech is too harmful to be tolerated. Without persuasive evidence that a novel restriction on the content of speech is part of a long tradition of proscription, a legislature may not revise the judgment of the American people embodied in the First Amendment that the benefits of constitutional restrictions on the government's power outweigh its costs. That holding controls this case. California's statute mimics the New York statute that we upheld in a case called Ginsburg v. New York. That statute prohibited the sale to minors of sexual material that did not meet our definition of obscenity, but that, quote, appeals to the prurient,
 
 ### Words Whisper invented
 
-None found.
+Words that only Whisper has, and runs of 3 or more words where Whisper and Oyez's transcript disagree, were re-transcribed on their own, with 6 s either side. These Whisper words aren't in Oyez and weren't heard again, so they were dropped from the files:
+
+- 0:02:15.320-0:02:15.380: "could"
+- 0:05:36.760-0:05:36.960: "called"
 
 ### Where Whisper and Oyez disagree
 
@@ -151,7 +154,6 @@ Whisper's wording is what's in the files. Check these by ear; Oyez is not always
 | 0:00:02.880 | the | (nothing) |
 | 0:01:34.820 | and | in |
 | 0:01:54.860 | (nothing) | this -- of |
-| 0:02:15.320 | could | (nothing) |
 | 0:02:16.140 | speech is | speeches |
 | 0:02:36.340 | outweigh | out way |
 | 0:02:38.000 | costs. | cause. |
@@ -173,7 +175,6 @@ Whisper's wording is what's in the files. Check these by ear; Oyez is not always
 | 0:05:07.100 | (nothing) | binds -- |
 | 0:05:11.680 | steak, | stake |
 | 0:05:27.300 | series | serious |
-| 0:05:36.760 | called | (nothing) |
 | 0:06:01.900 | close quote. | His objection -- |
 | 0:06:27.380 | these | this |
 | 0:07:05.740 | miniscule real -world | minuscule real-world |

@@ -136,7 +136,7 @@ Whisper's wording, 0:00:00.000 to 0:03:00.000, with each speaker's start time.
 
 ### Words Whisper invented
 
-Runs of 3 or more words where Whisper and Oyez's transcript disagree were re-transcribed on their own, with 6 s either side. These Whisper words aren't in Oyez and weren't heard again, so they were dropped from the files:
+Words that only Whisper has, and runs of 3 or more words where Whisper and Oyez's transcript disagree, were re-transcribed on their own, with 6 s either side. These Whisper words aren't in Oyez and weren't heard again, so they were dropped from the files:
 
 - 0:02:21.220-0:02:21.860: "disability rights in the United States. Yates was charged with"
 

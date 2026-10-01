@@ -789,8 +789,8 @@ def process_opinion(case, year, root, work, model_name):
             oyez_words += " ".join(b["text"] for b in t.get("text_blocks") or []).split()
     info["speaker_turns"] = len(turns)
 
-    # Whisper can invent or mangle text. A run of 3+ words where Whisper and Oyez's transcript
-    # disagree is re-transcribed on its own (6 s either side). If Whisper added words Oyez lacks
+    # Whisper can invent or mangle text. Words only Whisper has, and runs of 3+ words where
+    # Whisper and Oyez's transcript disagree, are re-transcribed on their own (6 s either side). If Whisper added words Oyez lacks
     # and the re-run doesn't hear them, they weren't said: drop them. If the words differ and the
     # re-run agrees with Oyez, use the re-run's words and times for that stretch.
     wasr = WindowASR(mp3, model_name, work / f"asr_windows_opinion_{model_name}.json")
@@ -808,7 +808,13 @@ def process_opinion(case, year, root, work, model_name):
             return m.size >= 0.6 * len(needle), m
 
         for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
-            if op not in ("delete", "replace") or i2 - i1 < 3:
+            # words only Whisper has: any length; words Whisper and Oyez disagree on: 3 or more
+            if not (op == "delete" or (op == "replace" and i2 - i1 >= 3)):
+                continue
+            # spoken "quote ... close quote": Oyez leaves it out and Whisper may write it as a
+            # quotation mark, so neither source can confirm it; never drop it
+            if "quote" in " ".join(a[i1:i2]) and all(x in ("quote", "close", "end", "unquote")
+                                                      for x in a[i1:i2] if x):
                 continue
             raw = wasr.get(max(0.0, words[i1]["s"] - 6), words[i2 - 1]["e"] + 6)
             win = [norm(w["w"]) for w in raw]
@@ -1091,9 +1097,10 @@ Files: `opinion_words.json` (`{{"w", "s", "e", "speaker"}}`) and `opinion_lines.
         out += "\n\n".join(f"[{fmt_ts(a)}] {spk}: {txt}" for a, spk, txt in op["opening"]) + "\n"
     out += "\n### Words Whisper invented\n\n"
     if op.get("dropped"):
-        out += ("Runs of 3 or more words where Whisper and Oyez's transcript disagree were "
-                "re-transcribed on their own, with 6 s either side. These Whisper words aren't in "
-                "Oyez and weren't heard again, so they were dropped from the files:\n\n")
+        out += ("Words that only Whisper has, and runs of 3 or more words where Whisper and Oyez's "
+                "transcript disagree, were re-transcribed on their own, with 6 s either side. These "
+                "Whisper words aren't in Oyez and weren't heard again, so they were dropped from the "
+                "files:\n\n")
         out += "\n".join(f"- {fmt_ts(a)}-{fmt_ts(b)}: \"{txt}\"" for a, b, txt in op["dropped"]) + "\n"
     else:
         out += "None found.\n"
