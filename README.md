@@ -35,7 +35,7 @@ that, on the term's transcript listing (`/oral_arguments/argument_transcript/<ye
 medium.en on a 4-core CPU runs at or a little faster than realtime: the 61-minute Horne
 argument took 59 minutes, the 59-minute Lozman argument 40, the 62-minute Star Athletica
 argument 49, the 59-minute Yates argument 44, the 61-minute Brown argument 45, the 62-minute Jardines
-argument 45 and the 70-minute Bowman argument 48.
+argument 45 and the 70-minute Bowman argument 47.
 
 Add `--opinion` to also fetch the opinion announcement (the justice reading the decision from
 the bench) from oyez.org and transcribe it. There's no official transcript for those, so the
