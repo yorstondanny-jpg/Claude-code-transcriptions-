@@ -1,0 +1,18 @@
+[
+ {"case": "Sturgeon v. Frost (I)", "docket": "14-1209", "argued": "2016-01-20", "note": "a moose hunter's hovercraft"},
+ {"case": "Sturgeon v. Frost (II)", "docket": "17-949", "argued": "2018-11-14", "note": "a moose hunter's hovercraft"},
+ {"case": "United States v. Jones", "docket": "10-1259", "argued": "2011-11-08", "note": "a GPS tracker on a car"},
+ {"case": "Kimble v. Marvel Entertainment", "docket": "13-720", "argued": "2015-03-31", "note": "a Spider-Man web-shooter toy"},
+ {"case": "Kirtsaeng v. John Wiley & Sons", "docket": "11-697", "argued": "2012-10-29", "note": "reselling textbooks"},
+ {"case": "Heien v. North Carolina", "docket": "13-604", "argued": "2014-10-06", "note": "a broken brake light"},
+ {"case": "Bowman v. Monsanto", "docket": "11-796", "argued": "2013-02-19", "note": "a farmer replanting soybeans"},
+ {"case": "Allen v. Cooper", "docket": "18-877", "argued": "2019-11-05", "note": "footage of Blackbeard's shipwreck"},
+ {"case": "Romag Fasteners v. Fossil", "docket": "18-1233", "argued": "2020-01-14", "note": "magnetic purse snaps"},
+ {"case": "National Pork Producers Council v. Ross", "docket": "21-468", "argued": "2022-10-11", "note": "pig pens and bacon"},
+ {"case": "Andy Warhol Foundation v. Goldsmith", "docket": "21-869", "argued": "2022-10-12", "note": "Warhol's portraits of Prince"},
+ {"case": "Snyder v. United States", "docket": "23-108", "argued": "2024-04-15", "note": "gifts and tips to officials"},
+ {"case": "United States v. Alvarez", "docket": "11-210", "argued": "2012-02-22", "note": "lying about winning a medal"},
+ {"case": "Bilski v. Kappos", "docket": "08-964", "argued": "2009-11-09", "note": "patenting a way of hedging risk"},
+ {"case": "Yates v. United States (calibration: 15)", "docket": "13-7451", "argued": "2014-11-05", "note": "calibration, expected 15"},
+ {"case": "POM Wonderful v. Coca-Cola (calibration: 2)", "docket": "12-761", "argued": "2014-04-21", "note": "calibration, expected 2"}
+]

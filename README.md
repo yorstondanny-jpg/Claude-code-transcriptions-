@@ -42,3 +42,9 @@ wording is Whisper's, cross-checked against Oyez's unofficial transcript; see th
 Add `--mentions "Girl Scout(s),salesman/salesmen,front door"` to list every sentence in the
 argument that mentions those terms, with time and speaker. The raw ASR is cached in `projects/<name>/work/`, so re-running only redoes the
 alignment.
+
+## Laugh scout
+
+`laugh_scout.py` ranks cases by courtroom laughter using the official transcripts alone (no
+audio): `python3 laugh_scout.py projects/_laugh-scout/cases.json projects/_laugh-scout`. Results
+are in [projects/_laugh-scout](projects/_laugh-scout/).
