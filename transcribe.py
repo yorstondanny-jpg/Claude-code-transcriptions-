@@ -854,7 +854,11 @@ def write_readme(root, st):
     ex = c["max_duration"]["examples"]
     long_note = ""
     if ex:
-        long_note = "\n  Offending words: " + ", ".join(f"\"{w}\" {s:.3f}-{e:.3f}" for w, s, e in ex)
+        long_note = ("\n  Offending words: " + ", ".join(f"\"{w}\" {s:.3f}-{e:.3f}" for w, s, e in ex)
+                     + ". Left as the ASR timed them: none of the timing rules below could place them "
+                     "with confidence, and a re-transcription of the window didn't help. This is "
+                     "usually overlapping speech, where two people talk at once and the ASR hears "
+                     "only one; the transcript's word order then can't match the audio. Check by ear.")
     nums = c["max_duration"]["numbers"]
     if nums:
         long_note += ("\n  Not counted: " + ", ".join(f"`{w}` {s:.3f}-{e:.3f} ({e - s:.2f} s)" for w, s, e in nums)
@@ -970,10 +974,12 @@ def readme_extras(st):
 - Audio: {op['mp3_url']} (saved unchanged as `audio/opinion.mp3`: {op['mp3_bytes']/1e6:.1f} MB)
 - Length: {fmt_ts(op['duration'])} ({op['duration']:.3f} s)
 - Words: {op['words']}, transcribed by faster-whisper `{st['model']}` with the same settings as the
-  argument. **There is no official transcript, so the wording is Whisper's and has not been
-  checked against anything.** Expect the odd misheard word, especially names and citations.
-- Speakers: taken from the turn boundaries in Oyez's own transcript ({op['speaker_turns']} turns);
-  each word goes to the turn its midpoint falls in. Oyez's wording is not used.
+  argument. **There is no official transcript, so the wording is Whisper's.** The only check
+  is against Oyez's unofficial transcript (below). Expect the odd misheard word, especially
+  names and citations.
+- Speakers: from the turn boundaries in Oyez's own transcript ({op['speaker_turns']} turns), each
+  boundary moved to the longest pause between words within 1.5 s of it. Oyez's wording is not
+  used, except where noted below.
 - Word times: Whisper's, with the same stretched-word trimming as the argument ({op['trimmed']}
   trimmed, {op['rewindowed']} re-transcribed).
 - Checks: {ck['order_bad']} words out of time order; words longer than 3 s: {long_txt}.

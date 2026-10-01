@@ -1,4 +1,23 @@
 {
+ "opening_start": 7.4,
+ "opening": [
+  [
+   7.4,
+   "MR. BURSCH",
+   "Thank you, Mr. Chief Justice, and may it please the Court: Congress did not intend to grant a century-long copyright monopoly in cheerleader uniform design. And there are three points that support that conclusion. First, by subjecting two-dimensional pictures and graphics as well as sculptures to Section 101 separability test, Congress made clear that two-dimensional and three-dimensional designs must be analyzed for separability. Second, under Section 101's text, the dispositive questions are twofold: Whether the deign features can be identified separately from the useful article's utilitarian aspects; and second, whether they can exist independently, that is, the design features do not add to or change the useful article's utilitarian --"
+  ],
+  [
+   53.2,
+   "JUSTICE GINSBURG",
+   "Why, in this case, would we even need to get to any question of separability? What was submitted was a two-dimensional artwork. It may not be like Mondrian, but it is chevrons and other things. They are not submitting the cheerleader's uniform itself. They are not saying anything about the shape of the uniform, the cut of the uniform. They are just saying these zigzag designs -- and you can choose from five different ones that are interchangeable, the design. So why isn't this a -- a case of not -- not part -- the pictorial graphic element is not part of the design of the cheerleader's uniform; it's superimposed on it. It's reproduced on it. It's applied to it."
+  ],
+  [
+   114.88,
+   "MR. BURSCH",
+   "There two reasons, Justice Ginsburg. First, consider the example where you have a designer who designs a military uniform. And on that military uniform, they design the best desert camouflage that's been ever designed in the history of the world. And they submit it to the copyright office, and they don't claim the design in the uniform, they only claim copyright in the design on the uniform. There is no question they would have the copyright in the design, but the courts would still look to see whether that adds to the utilitarian aspects of that uniform such that that design copyright holder could not prevent the military from producing a military uniform that uses that design. That's why it's so important to understand that in Section 101, not only two-dimensional -- or three-dimensional, but also two-dimensional designs are subject to separability. And there's a second reason, Justice Ginsburg. What you're referring to, generally, is kind of the area of fabric design. And a good example of fabric design is the -- the flowers on the fabric in the Folio Impressions case that we reprint on page 7 of our reply brief. And those flowers, you could expand the design, you could contract the design, you can make any article of clothing out of it whatsoever, you could rotate it 45 degrees, and it always works functionally"
+  ]
+ ],
+ "opinion": null,
  "case": "15-866",
  "year": "2016",
  "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2016/15-866",
@@ -36,5 +55,5 @@
    "detail": "93.26% (threshold 85%)"
   }
  },
- "generated": "2026-09-30"
+ "generated": "2026-10-01"
 }

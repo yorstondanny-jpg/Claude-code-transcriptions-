@@ -75,3 +75,39 @@ matched word's ASR time changes.
 Regenerate with:
 
     python3 transcribe.py 11-626 2012 lozman-house --model medium.en
+
+## Petitioner's opening, first 3 minutes
+
+Everything said from 0:00:10.440 to 0:03:10.440, official wording, with each turn's start time. Interruptions from the bench are included.
+
+[0:00:10.440] MR. FISHER: Mr. Chief Justice, and may it please the Court: To be a vessel, a structure must be practically capable of maritime transportation, and this case turns on how to assess such practical capability. And that's a question this Court answered over a century ago in Cope and Perry, explaining that practical capability depends not on any physical attribute the structure might have, but rather, on "its purpose," that is, whether its function is to move people or things across water. And that test has been applied numerous times before and since, across decades, providing stability and overall coherence to general maritime law. And of course --
+
+[0:00:50.480] JUSTICE SCALIA: You should have phrased the test that way then, because it really --
+
+[0:00:53.120] MR. FISHER: Pardon me?
+
+[0:00:54.920] JUSTICE SCALIA: That doesn't seem to me a very felicitous description of what -- of what the test is -- is enunciated to be.
+
+[0:01:05.880] MR. FISHER: Well, I think --
+
+[0:01:06.820] JUSTICE SCALIA: The test is whether it's, what, practically able?
+
+[0:01:10.420] MR. FISHER: Practically capable.
+
+[0:01:11.920] JUSTICE SCALIA: Practically capable. Well, you could be practically capable of doing something, even though the purpose of -- of setting the thing up has nothing to do with that.
+
+[0:01:21.680] MR. FISHER: Well, that's not what this Court -- case is saying --
+
+[0:01:23.380] JUSTICE SCALIA: I understand. I'm just saying we ought to get a different test, and let's -- let's get rid of this. If we agree with you, let's get rid of this practically capable test, because practically capable, frankly, would make us come out the other way in this case.
+
+[0:01:37.920] MR. FISHER: With all due respect, I don't think that's correct. In Evansville in 1926, this Court used that exact phrase, practical capability. And it assessed that practical capability by looking at "the function of the structure." Again and again, in Evansville and other cases, this Court asked, was the function of the structure to carry people or things across water.
+
+[0:01:57.120] CHIEF JUSTICE ROBERTS: Well, that just has -- I understand that argument. It's got no connection whatever to the statutory language, right?
+
+[0:02:04.500] MR. FISHER: Well, I think the word capable obviously is in the statute. And what this Court said as recently as Stewart is that capable --
+
+[0:02:10.400] CHIEF JUSTICE ROBERTS: Capable is in the statute, purpose is not, right?
+
+[0:02:14.020] MR. FISHER: Correct. And what this Court said in Stewart is that capable means practically capable, not theoretically capable. There's a range of how broad the word capable can be. And again, going back over a century, every single time this Court's been confronted with that question, it's used the term function to describe whether or not something is practically capable of carrying people or things over water.
+
+[0:02:35.260] JUSTICE GINSBURG: You -- you described cases with this purpose -- or function, the briefs cited the district court decision, Sea Village Marina, that says floating homes like the one here that can be towed and are not in the business of carrying people or goods, but can be towed miles across the water, that those constitute vessels. And this district court

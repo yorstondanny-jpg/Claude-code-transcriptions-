@@ -76,3 +76,27 @@ matched word's ASR time changes.
 Regenerate with:
 
     python3 transcribe.py 14-275 2014 horne-raisins --model medium.en
+
+## Petitioner's opening, first 3 minutes
+
+Everything said from 0:00:07.700 to 0:03:07.700, official wording, with each turn's start time. Interruptions from the bench are included.
+
+[0:00:07.700] MR. MCCONNELL: Mr. Chief Justice, and may it please the Court: Thank you for being willing to hear this little case a second time. It does involve some important principles and the livelihoods of Marvin and Laura Horne, and more indirectly, hundreds of small California raisin growers will be profoundly affected. This is an administrative enforcement proceeding that was brought by the Department of Agriculture against my clients commanding the relinquishment of funds connected to specific pieces of property, namely, reserve-tonnage raisins. My clients appear in their capacity as handlers, but under their -- in the particular facts of this case, the economic circumstances are somewhat different than are ordinarily true in -- in this industry because as handlers, the Hornes actually assumed the full financial responsibility for the raisins that were not turned over to the Department of Agriculture. The producers in this case were fully paid for their raisins. This is a factual finding to be found in the judicial officer's opinion at 66a of the appendix to the -- to the petition. The Hornes paid the producers for their raisins. According to the judicial officer, those raisins became part of the inventory of the Hornes. The -- when the Raisin Administrative Committee, which I'll refer to as the RAC, came after the raisins, it was the Hornes and the Hornes only who bore the economic burden of this taking.
+
+[0:01:45.840] JUSTICE GINSBURG: I thought that -- I thought the growers were paid only for the volume that they were permitted, that was permitted, the permitted volume, and that they were not paid for what is -- goes in the reserve pool.
+
+[0:02:04.480] MR. MCCONNELL: Justice Ginsburg, that is true in the ordinary course. That was not true in this particular case because of the unusual business model of -- of my clients. These producers were paid the -- for all of their raisins.
+
+[0:02:19.920] JUSTICE GINSBURG: Are you objecting to the volume limitation, or is it just that the -- the reserve pool that you find --
+
+[0:02:30.040] MR. MCCONNELL: We --
+
+[0:02:30.770] JUSTICE GINSBURG: -- troublesome?
+
+[0:02:31.500] MR. MCCONNELL: We believe that a volume limitation would be a use restriction. It might possibly be challengeable under the Penn Central Test, but it is -- would not be a per se taking. In this case, because the government, the RAC, which is an agent of the Department of Agriculture, actually takes possession, ownership of the raisins, it is that -- it is that aspect of the case which we're challenging against the taking.
+
+[0:02:54.920] JUSTICE GINSBURG: But that's what so -- so puzzling because if -- if you're not challenging the volume limit itself, you can't sell more than 60 percent of your crop.
+
+[0:03:05.600] MR. MCCONNELL: That's correct.
+
+[0:03:07.500] JUSTICE GINSBURG: And what

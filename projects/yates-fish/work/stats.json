@@ -1,0 +1,294 @@
+{
+ "opening_start": 9.3,
+ "opening": [
+  [
+   9.3,
+   "MR. BADALAMENTI",
+   "Mr. Chief Justice, and may it please the Court: The natural, sensible and contextual reading of Section 1519 is that the phrase \"record document or tangible object\" is confined to records, documents and devices designed to preserve information, the very matters involved in the Enron debacle. Given the expansive Federal nexus of this statute, which is the intent to influence the proper administration of any matter within the jurisdiction of the United States, it is implausible that Congress would have passed sub silentio, an all-encompassing obstruction statute buried within the altering documents provision of the Sarbanes-Oxley Act. A strong textual indicator that Section 1519 is confined to record-related offenses is the inclusion of the unique term \"makes false entry in,\" which Congress only uses in record-related statutes. The canons of ejusdem generis and noscitur a sociis confirm that tangible object is related to the common thread between record and document which are information devices -- information mediums."
+  ],
+  [
+   77.86,
+   "JUSTICE GINSBURG",
+   "Why should -- why should the expression \"tangible object,\" which stands alone, it's not falsifying documents, why should the word \"object\" in 1519 be treated differently than the word \"other object\" in 1512 -- 1512(c)?"
+  ],
+  [
+   99.6,
+   "MR. BADALAMENTI",
+   "Justice Ginsburg, in Section 1519 -- it was passed at the same time as 1512(c) as part of the Sarbanes-Oxley Act. And as this Court held in Russello, when Congress includes different terms in different statutes passed in the same act, it is intended to mean something different."
+  ],
+  [
+   117.16,
+   "JUSTICE GINSBURG",
+   "So you think there's a difference between \"tangible object\" and \"other object\"?"
+  ],
+  [
+   121.62,
+   "MR. BADALAMENTI",
+   "Yes, there is. The first reason is that the inclusion of \"makes false entry in\" indicates that the phrase \"record document and tangible objects\" refers to recordkeeping. Another difference is that -- a common sense standpoint -- is that records can only be maintained on tangible mediums. And it's a distinguishing factor between \"record document\" and \"other objects\" in 1512(c). It's also limited --"
+  ],
+  [
+   148.31,
+   "JUSTICE SOTOMAYOR",
+   "But how does the Internet -- you could falsify Internet entries, or things that are in the cloud, those are intangible items."
+  ],
+  [
+   158.12,
+   "MR. BADALAMENTI",
+   "No, those are tangible items, Your Honor, because they are stored on a hard drive somewhere. The cloud is not existing above. It's merely being housed somewhere else that's accessed through the Internet on a tangible device that's designed to preserve that very type of information."
+  ],
+  [
+   176.32,
+   "JUSTICE KENNEDY",
+   "Suppose a typewriter were used to prepare an incriminating document. The document and the typewriter were destroyed, would that be covered?"
+  ],
+  [
+   185.44,
+   "MR. BADALAMENTI",
+   "The typewriter would not be. The piece of paper that the typewriter is"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2014/13-7451",
+  "page_url": "https://www.oyez.org/cases/2014/13-7451",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - February 25, 2015",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23987",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2014/13-7451/13-7451_20150225-opinion.delivery.mp3",
+  "duration": 429.296256,
+  "mp3_bytes": 1746881,
+  "asr_elapsed_s": 300.6,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "speaker_turns": 2,
+  "oyez_agree": [
+   729,
+   769,
+   750
+  ],
+  "diffs": [
+   [
+    3.06,
+    "13 -7451,",
+    "13-7451,"
+   ],
+   [
+    8.78,
+    "the summer",
+    "December"
+   ],
+   [
+    11.16,
+    "a",
+    "the"
+   ],
+   [
+    75.5,
+    "lower",
+    "longer"
+   ],
+   [
+    99.22,
+    "Section",
+    ""
+   ],
+   [
+    107.32,
+    "Did",
+    "The"
+   ],
+   [
+    108.64,
+    "concern",
+    "concerned"
+   ],
+   [
+    124.28,
+    "Sawbains -Oxley",
+    "Sarbanes-Oxley"
+   ],
+   [
+    138.7,
+    "Section",
+    ""
+   ],
+   [
+    155.34,
+    "",
+    "a"
+   ],
+   [
+    187.7,
+    "Sawbains -Oxley",
+    "Sarbanes-Oxley"
+   ],
+   [
+    204.96,
+    "He",
+    "who"
+   ],
+   [
+    210.38,
+    "3",
+    "three"
+   ],
+   [
+    217.5,
+    "Section",
+    ""
+   ],
+   [
+    249.3,
+    "words",
+    "word"
+   ],
+   [
+    250.26,
+    "mean",
+    "means"
+   ],
+   [
+    251.9,
+    "contexts.",
+    "context."
+   ],
+   [
+    254.86,
+    "Sawbains -Oxley",
+    "Sarbanes-Oxley"
+   ],
+   [
+    284.36,
+    "Section",
+    ""
+   ],
+   [
+    311.68,
+    "Sawbains -Oxley,",
+    "Sarbanes-Oxley,"
+   ],
+   [
+    314.56,
+    "Section",
+    ""
+   ],
+   [
+    321.58,
+    "Section",
+    ""
+   ],
+   [
+    329.4,
+    "Section",
+    ""
+   ],
+   [
+    360.76,
+    "reaching any physical object under the sun,",
+    "--"
+   ],
+   [
+    379.9,
+    "Section",
+    ""
+   ],
+   [
+    392.18,
+    "comprehended.",
+    "comprehending."
+   ],
+   [
+    400.68,
+    "seed",
+    "sea"
+   ],
+   [
+    417.62,
+    "grouper",
+    "groupers"
+   ],
+   [
+    427.98,
+    "join.",
+    "joined."
+   ]
+  ],
+  "dropped": [
+   [
+    141.22,
+    141.86,
+    "disability rights in the United States. Yates was charged with"
+   ]
+  ],
+  "redone": [
+   [
+    299.58,
+    "offense that was",
+    "events"
+   ]
+  ],
+  "words": 769,
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    7.2,
+    14
+   ],
+   [
+    "JUSTICE GINSBURG",
+    7.98,
+    428.4,
+    748
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  }
+ },
+ "case": "13-7451",
+ "year": "2014",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2014/13-7451",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/13-7451.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2014/13-7451_k1fk.pdf",
+ "model": "medium.en",
+ "duration": 3526.791837,
+ "asr_elapsed_s": 2630.1,
+ "asr_words": 9773,
+ "official_words": 9763,
+ "matched": 9276,
+ "shared": 1,
+ "clamped": 0,
+ "trimmed": 11,
+ "rewindowed": 0,
+ "match_rate": 95.01177916623989,
+ "turns": 262,
+ "laugh_markers": 15,
+ "mp3_bytes": 28214587,
+ "pauses": 361,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": false,
+   "detail": "1 words longer than 3 s outside laugh positions",
+   "examples": [
+    [
+     "the",
+     725.45,
+     728.87
+    ]
+   ],
+   "numbers": []
+  },
+  "short_words": 260,
+  "match_rate": {
+   "ok": true,
+   "detail": "95.01% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-01"
+}
