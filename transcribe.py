@@ -539,6 +539,8 @@ def main():
     ap.add_argument("--model", default="medium.en", help="faster-whisper model (default medium.en)")
     ap.add_argument("--pdf-url", help="override the transcript PDF URL")
     ap.add_argument("--mp3-url", help="override the audio URL (e.g. an oyez.org MP3)")
+    ap.add_argument("--mentions", help="comma-separated terms to list in a Key mentions table, "
+                    "e.g. \"Girl Scout(s),salesman/salesmen,front door\"")
     ap.add_argument("--opinion", action="store_true",
                     help="also fetch and transcribe the opinion announcement from oyez.org (Whisper only)")
     args = ap.parse_args()
@@ -657,7 +659,10 @@ def main():
         log(f"Opinion announcement: {opinion['words']} words, {fmt_ts(opinion['duration'])}")
     elif opinion:
         log(f"No opinion announcement on {opinion['page_url']} {opinion.get('error', '')}")
+    terms = [t.strip() for t in args.mentions.split(",") if t.strip()] if args.mentions else []
+    mentions = key_mentions(official, terms) if terms else None
     stats = {
+        "terms": terms, "mentions": mentions,
         "opening_start": opening_start, "opening": opening, "opinion": opinion,
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
         "pdf_url": pdf_url, "model": args.model, "duration": duration,
@@ -672,6 +677,61 @@ def main():
     log(f"Wrote {root}")
     if not all(v["ok"] for v in checks.values() if isinstance(v, dict)):
         sys.exit("Sanity checks failed, see README.md")
+
+
+ABBREV = {"mr.", "mrs.", "ms.", "dr.", "v.", "st.", "no.", "u.s.", "e.g.", "i.e.", "vs.", "jr.", "sr."}
+
+
+def term_regex(term):
+    """'Girl Scout(s)' -> regex. '(x)' is optional, '/' separates alternatives, spaces and hyphens
+    match either, and normal endings (s, es, 's, ed, ing) are allowed. Whole words only, so
+    'Franky' doesn't match 'frankly'."""
+    alts = []
+    for alt in term.split("/"):
+        alt = alt.strip().lower()
+        parts = re.split(r"(\([^)]*\))", alt)
+        rx = ""
+        for part in parts:
+            if part.startswith("("):
+                rx += f"(?:{re.escape(part[1:-1])})?"
+            else:
+                rx += re.sub(r"\\[ -]|\\-|[ -]", "[ -]", re.escape(part))
+        alts.append(rx)
+    return re.compile(r"(?<![a-z])(?:" + "|".join(alts) + r")(?:s|es|'s|s'|ed|ing)?(?![a-z])", re.I)
+
+
+def key_mentions(official, terms):
+    """Every sentence in the argument that mentions one of `terms`: (time of the matching word,
+    speaker, term, full sentence). One row per term per sentence."""
+    sentences, cur = [], []
+    for o in official:
+        if o["w"] == LAUGH:
+            continue
+        if cur and cur[-1]["turn"] != o["turn"]:
+            sentences.append(cur)
+            cur = []
+        cur.append(o)
+        last = re.sub(r"[\"')\]]+$", "", o["w"].lower())
+        if re.search(r"[.?!]$", last) and last not in ABBREV:
+            sentences.append(cur)
+            cur = []
+    if cur:
+        sentences.append(cur)
+    rows = []
+    for sent in sentences:
+        text = " ".join(o["w"] for o in sent)
+        for term in terms:
+            rx = term_regex(term)
+            # the word where a match starts; two-word terms ("front door") span words
+            hits = []
+            for k, o in enumerate(sent):
+                m = rx.search(" ".join(x["w"] for x in sent[k:k + 3]))
+                if m and m.start() < len(o["w"]):
+                    hits.append(o)
+            if hits:
+                rows.append((hits[0]["s"], sent[0]["speaker"], term, text, len(rx.findall(text))))
+    rows.sort(key=lambda r: r[0])
+    return rows
 
 
 OYEZ_API = "https://api.oyez.org"
@@ -960,7 +1020,7 @@ matched word's ASR time changes.
 
 Regenerate with:
 
-    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{' --opinion' if st.get('opinion') else ''}
+    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}
 """
     text += readme_extras(st)
     (root / "README.md").write_text(text)
@@ -968,6 +1028,19 @@ Regenerate with:
 
 def readme_extras(st):
     out = ""
+    if st.get("terms"):
+        rows = st["mentions"] or []
+        out += ("\n## Key mentions\n\nEvery sentence in the argument that mentions one of these terms, "
+                "official wording, with the time of the word and the speaker. Terms match whole words "
+                "with normal endings (dog, dogs, dog's; knock, knocks, knocking, knocked). A sentence "
+                "that mentions two terms appears once for each.\n\n| term | sentences | times said |\n|---|---|---|\n")
+        for term in st["terms"]:
+            tr = [r for r in rows if r[2] == term]
+            out += f"| {term} | {len(tr)} | {sum(r[4] for r in tr)} |\n"
+        if rows:
+            out += "\n| time | time (s) | speaker | term | sentence |\n|---|---|---|---|---|\n"
+            out += "\n".join(f"| {fmt_ts(t0)} | {t0:.3f} | {spk} | {term} | {txt.replace('|', '/')} |"
+                              for t0, spk, term, txt, _ in rows) + "\n"
     if st.get("opening"):
         out += ("\n## Petitioner's opening, first 3 minutes\n\n"
                 f"Everything said from {fmt_ts(st['opening_start'])} to "
