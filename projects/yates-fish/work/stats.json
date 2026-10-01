@@ -68,11 +68,6 @@
   ],
   "diffs": [
    [
-    3.06,
-    "13 -7451,",
-    "13-7451,"
-   ],
-   [
     8.78,
     "the summer",
     "December"
@@ -228,6 +223,18 @@
    ]
   ],
   "words": 769,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Ginsburg has our opinion this morning in Case 13-7451, Yates v. United States."
+   ],
+   [
+    7.98,
+    "JUSTICE GINSBURG",
+    "In the summer of 2007, a Federal agent on patrol in the Gulf of Mexico boarded the Miss Katie, a commercial fishing boat, to check on the vessel's compliance with fishing rules. At the time, Federal conservation regulations prohibited catching Red Grouper less than 20 inches long. A violation of those regulations is a civil offense, not a criminal infraction, punishable only by fine or fishing license suspension. The inspecting officer counted 72 undersized Red Grouper on board the Miss Katie. He placed those fish in crates to separate them from the rest of the ship's catch and told Petitioner Yates, the ship's captain, to leave the fish in the crates until the vessel returned to port. At port, the officer reexamined the fish in the crates. This time, the fish measured slightly lower than they had at sea. A crew member, questioned by the suspicious officer, admitted that at Yates' direction he had thrown the fish in the crates overboard and replaced them with other fish from the catch. For these actions, Yates was charged with violating 18 U .S .C. Section 1519, a felony punishable by up to 20 years in prison. Did 1519 concern the fish disposal in which Yates engaged? One clue to the answer, Congress passed 1519 in 2002 as part of the Sawbains-Oxley Act. That Act was sparked by the Enron Corporation fiasco, a fraud involving massive shredding of incriminating documents. Section 1519 prohibits altering destroying, mutilating, concealing, covering up, falsifying, or making a false entry in any record, document, or tangible object with intent to obstruct the investigation or proper administration of any matter within the jurisdiction of any Federal department or agency. Yates had violated this provision the government charged by destroying or concealing tangible objects, namely 72 small fish thrown overboard at Yates' command. At trial, Yates moved for a"
+   ]
+  ],
   "lines": [
    [
     "CHIEF JUSTICE ROBERTS",

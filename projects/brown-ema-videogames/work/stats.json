@@ -1,0 +1,337 @@
+{
+ "opening_start": 12.28,
+ "opening": [
+  [
+   12.28,
+   "MR. MORAZZINI",
+   "Mr. Chief Justice, and may it please the Court: The California law at issue today before this Court differs from the New York law at issue in Ginsberg in only one respect: Where New York was concerned with minors' access to harmful sexual material outside the guidance of a parent, California is no less concerned with a minor's access to the deviant level of violence that is presented in a certain category of video games that can be no less harmful to the development of minors. When this Court in Ginsberg crafted a rule of law that permits States to regulate a minor's access to such material outside the presence of a parent, it did so for two fundamental reasons that are equally applicable this morning in this case. First, this rule permits parents' claim to authority in their own household to direct the upbringing and the development of their children; and, secondly, this rule promotes the States' independent interest in helping parents protect the well-being of children in those instances when parents cannot be present. So this morning, California asks this Court to adopt a rule of law that permits States to restrict minors' ability to purchase deviant, violent video games that the legislature has determined can be harmful to the development and the upbringing --"
+  ],
+  [
+   85.52,
+   "JUSTICE SCALIA",
+   "What's a deviant -- a deviant, violent video game? As opposed to what? A normal violent video game?"
+  ],
+  [
+   95.52,
+   "MR. MORAZZINI",
+   "Yes, Your Honor. Deviant would be departing from established norms."
+  ],
+  [
+   100.3,
+   "JUSTICE SCALIA",
+   "There are established norms of violence?"
+  ],
+  [
+   103.4,
+   "MR. MORAZZINI",
+   "Well, I think if we look back --"
+  ],
+  [
+   104.64,
+   "JUSTICE SCALIA",
+   "I mean, some of the Grimms' fairy tales are quite grim, to tell you the truth. (Laughter.)"
+  ],
+  [
+   109.06,
+   "MR. MORAZZINI",
+   "Agreed, Your Honor. But the level of violence --"
+  ],
+  [
+   112.26,
+   "JUSTICE SCALIA",
+   "Are they okay? Are you going to ban them, too?"
+  ],
+  [
+   114.68,
+   "MR. MORAZZINI",
+   "Not at all, Your Honor."
+  ],
+  [
+   116.54,
+   "JUSTICE GINSBURG",
+   "What's the difference? I mean, if you -- if you are supposing a category of violent materials dangerous to children, then how do you cut it off at video games? What about films? What about comic books? Grimms' fairy tales? Why are video games special? Or does your principle extend to all deviant, violent materials in whatever form?"
+  ],
+  [
+   151.16,
+   "MR. MORAZZINI",
+   "No, Your Honor. That's why I believe California incorporated the three prongs of the Miller standard. So it's not just deviant violence. It's not just patently offensive violence. It's violence that meets all three of the terms set forth in --"
+  ],
+  [
+   163.44,
+   "CHIEF JUSTICE ROBERTS",
+   "I think that misses Justice Ginsburg's question, which was: Why just video games? Why not movies, for example, as well?"
+  ],
+  [
+   172.28,
+   "MR. MORAZZINI",
+   "Sure, Your Honor. The California Legislature was presented with substantial evidence that demonstrates that the interactive nature of violent -- of violent video games where the minor or the young adult is the aggressor, is the -- is the individual acting out this -- this obscene level of violence, if you will, is especially harmful to minors."
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2010/08-1448",
+  "page_url": "https://www.oyez.org/cases/2010/08-1448",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 27, 2011",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23000",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2010/08-1448/20110627o_08-1448.delivery.mp3",
+  "duration": 703.843256,
+  "mp3_bytes": 2920845,
+  "asr_elapsed_s": 402.7,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "speaker_turns": 1,
+  "oyez_agree": [
+   1551,
+   1659,
+   1632
+  ],
+  "diffs": [
+   [
+    2.88,
+    "the",
+    ""
+   ],
+   [
+    94.82,
+    "and",
+    "in"
+   ],
+   [
+    114.86,
+    "",
+    "this -- of"
+   ],
+   [
+    135.32,
+    "could",
+    ""
+   ],
+   [
+    136.14,
+    "speech is",
+    "speeches"
+   ],
+   [
+    156.34,
+    "outweigh",
+    "out way"
+   ],
+   [
+    158.0,
+    "costs.",
+    "cause."
+   ],
+   [
+    162.9,
+    "California's",
+    "California"
+   ],
+   [
+    167.94,
+    "Ginsburg v.",
+    "Ginsberg versus"
+   ],
+   [
+    182.04,
+    "interest",
+    "interests"
+   ],
+   [
+    197.7,
+    "could, quote,",
+    "Court,"
+   ],
+   [
+    208.68,
+    "interests",
+    "interest"
+   ],
+   [
+    223.36,
+    "attempts",
+    "attempt"
+   ],
+   [
+    259.16,
+    "",
+    "The"
+   ],
+   [
+    267.38,
+    "specially",
+    "especially"
+   ],
+   [
+    271.12,
+    "violence.",
+    "violations."
+   ],
+   [
+    280.92,
+    "are grim",
+    "or Grimm"
+   ],
+   [
+    283.3,
+    "desserts",
+    "deserts"
+   ],
+   [
+    284.32,
+    "to",
+    "the"
+   ],
+   [
+    285.92,
+    "the",
+    "but"
+   ],
+   [
+    296.9,
+    "doves,",
+    "dogs"
+   ],
+   [
+    298.88,
+    "kill",
+    "killed"
+   ],
+   [
+    307.1,
+    "",
+    "binds --"
+   ],
+   [
+    311.68,
+    "steak,",
+    "stake"
+   ],
+   [
+    327.3,
+    "series",
+    "serious"
+   ],
+   [
+    336.76,
+    "called",
+    ""
+   ],
+   [
+    361.9,
+    "close quote.",
+    "His objection --"
+   ],
+   [
+    387.38,
+    "these",
+    "this"
+   ],
+   [
+    425.74,
+    "miniscule real -world",
+    "minuscule real-world"
+   ],
+   [
+    447.6,
+    "",
+    "-- the State's"
+   ],
+   [
+    501.12,
+    "leave",
+    "live"
+   ],
+   [
+    509.18,
+    "",
+    "an"
+   ],
+   [
+    517.3,
+    "",
+    "the"
+   ],
+   [
+    533.7,
+    "that",
+    "the"
+   ],
+   [
+    554.86,
+    "contain",
+    "contained"
+   ],
+   [
+    567.2,
+    "",
+    "-- can readily"
+   ],
+   [
+    627.96,
+    "add in closing",
+    "are enclosing"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 1659,
+  "opening": [
+   [
+    0.0,
+    "JUSTICE SCALIA",
+    "This case is here on writ of certiorari to the United States Court of Appeals for the Ninth Circuit. In 2005, California enacted Assembly Bill 1179, which prohibits the sale or rental of violent video games to minors and requires their packaging to be labeled 18. The Act covers games, quote, in which the range of options available to a player includes killing, maiming, dismembering, or sexually assaulting an image of a human being if those acts are depicted in a manner that a reasonable person considering the game as a whole would find appeals to a deviant or morbid interest of minors, that is patently offensive to prevailing standards in the community as to what is suitable for minors, and that causes the game as a whole to lack serious literary, artistic, political, or scientific value for minors. Violation of the Act is punishable by a civil fine of up to $1,000. Respondents representing the video game and software industries brought a pre-enforcement challenge to the Act alleging that it violates the First Amendment. The district court agreed and permanently enjoined its enforcement. The Court of Appeals for the Ninth Circuit affirmed, and we granted certiorari. California correctly acknowledges that video games qualify as expression protected by the First Amendment. Like books, plays, and movies, video games communicate ideas. The most basic principle of First Amendment law is that government has no power to restrict expression because of its content. There are, of course, exceptions. From 1791 to the present, the First Amendment has permitted restrictions upon the content of speech in a few well-defined and narrowly limited areas, such as obscenity, incitement, and fighting words. Last term, in a case called United States v. Stevens, we held that new categories of unprotected speech may not be added to that list by a legislature that could conclude certain speech is too harmful to be tolerated. Without persuasive evidence that a novel restriction on the content of speech is part of a long tradition of proscription, a legislature may not revise the judgment of the American people embodied in the First Amendment that the benefits of constitutional restrictions on the government's power outweigh its costs. That holding controls this case. California's statute mimics the New York statute that we upheld in a case called Ginsburg v. New York. That statute prohibited the sale to minors of sexual material that did not meet our definition of obscenity, but that, quote, appeals to the prurient,"
+   ]
+  ],
+  "lines": [
+   [
+    "JUSTICE SCALIA",
+    0.0,
+    702.46,
+    1649
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  }
+ },
+ "case": "08-1448",
+ "year": "2010",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2010/08-1448",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/08-1448.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2010/08-1448.pdf",
+ "model": "medium.en",
+ "duration": 3636.349388,
+ "asr_elapsed_s": 2691.5,
+ "asr_words": 10391,
+ "official_words": 10588,
+ "matched": 9932,
+ "shared": 5,
+ "clamped": 0,
+ "trimmed": 23,
+ "rewindowed": 1,
+ "match_rate": 93.80430676237249,
+ "turns": 297,
+ "laugh_markers": 13,
+ "mp3_bytes": 29091048,
+ "pauses": 415,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 343,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.80% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-01"
+}

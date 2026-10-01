@@ -792,9 +792,17 @@ def process_opinion(case, year, root, work, model_name):
         sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
         agree = sum(bl.size for bl in sm.get_matching_blocks())
         info["oyez_agree"] = (agree, len(a), len(b))
-        info["diffs"] = [(words[i1]["s"] if i1 < len(words) else words[-1]["e"],
-                          " ".join(w["w"] for w in words[i1:i2]), " ".join(oyez_words[j1:j2]))
-                         for op, i1, i2, j1, j2 in sm.get_opcodes() if op != "equal"]
+        def same(x, y):
+            # spelling and formatting only: spacing, hyphens, punctuation, case, "v."/"versus",
+            # and "quote ... close quote", which justices say aloud and Oyez leaves out
+            f = lambda t: re.sub(r"\b(close )?quote\b", "", re.sub(r"\bversus\b", "v", t.lower()))
+            g = lambda t: re.sub(r"[^a-z0-9]", "", f(t)).replace("judgement", "judgment")
+            return g(x) == g(y)
+
+        info["diffs"] = [(words[i1]["s"] if i1 < len(words) else words[-1]["e"], wt, ot)
+                         for op, i1, i2, j1, j2 in sm.get_opcodes() if op != "equal"
+                         for wt, ot in [(" ".join(w["w"] for w in words[i1:i2]), " ".join(oyez_words[j1:j2]))]
+                         if not same(wt, ot)]
     info["dropped"], info["redone"] = dropped, redone
 
     # Speakers: each Oyez turn boundary is snapped to the longest pause between words within
@@ -814,7 +822,7 @@ def process_opinion(case, year, root, work, model_name):
         if lines and lines[-1]["speaker"] == w["speaker"]:
             lines[-1]["e"] = w["e"]
             # Whisper splits "13-7451" into "13" "-7451": rejoin in the text, keep both timed words
-            lines[-1]["text"] += ("" if w["w"].startswith("-") else " ") + w["w"]
+            lines[-1]["text"] += ("" if re.match(r"^(-|,\d)", w["w"]) else " ") + w["w"]
         else:
             lines.append({"speaker": w["speaker"], "s": w["s"], "e": w["e"], "text": w["w"]})
     (root / "opinion_lines.json").write_text(json.dumps(lines, indent=1, ensure_ascii=False) + "\n")
@@ -828,7 +836,7 @@ def process_opinion(case, year, root, work, model_name):
             if w["s"] >= t0 + 180:
                 break
             if opening and opening[-1][1] == w["speaker"]:
-                opening[-1][2] += ("" if w["w"].startswith("-") else " ") + w["w"]
+                opening[-1][2] += ("" if re.match(r"^(-|,\d)", w["w"]) else " ") + w["w"]
             else:
                 opening.append([w["s"], w["speaker"], w["w"]])
     info["opening"] = opening
@@ -989,7 +997,7 @@ def readme_extras(st):
   argument. **There is no official transcript, so the wording is Whisper's.** The only check
   is against Oyez's unofficial transcript (below). Expect the odd misheard word, especially
   names and citations.
-- Speakers: from the turn boundaries in Oyez's own transcript ({op['speaker_turns']} turns), each
+- Speakers: from the turn boundaries in Oyez's own transcript ({op['speaker_turns']} turn{'s' if op['speaker_turns'] != 1 else ''}), each
   boundary moved to the longest pause between words within 1.5 s of it. Oyez's wording is not
   used, except where noted below.
 - Word times: Whisper's, with the same stretched-word trimming as the argument ({op['trimmed']}
@@ -1023,7 +1031,9 @@ Files: `opinion_words.json` (`{{"w", "s", "e", "speaker"}}`) and `opinion_lines.
     if op.get("diffs"):
         out += ("\n### Where Whisper and Oyez disagree\n\n"
                 "Whisper's wording is what's in the files. Check these by ear; Oyez is not "
-                "always right either (\"--\" there often marks a repeat Oyez left out).\n\n"
+                "always right either (\"--\" there often marks a repeat Oyez left out). "
+                "Spelling and formatting differences (\"video games\"/\"videogames\", hyphens, "
+                "spoken \"quote\" and \"close quote\") are not listed.\n\n"
                 "| time | Whisper | Oyez |\n|---|---|---|\n")
         out += "\n".join(f"| {fmt_ts(t0)} | {wt.replace('|', '/') or '(nothing)'} | {ot.replace('|', '/') or '(nothing)'} |"
                           for t0, wt, ot in op["diffs"]) + "\n"

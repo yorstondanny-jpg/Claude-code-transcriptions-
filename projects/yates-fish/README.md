@@ -126,6 +126,14 @@ Files: `opinion_words.json` (`{"w", "s", "e", "speaker"}`) and `opinion_lines.js
 | CHIEF JUSTICE ROBERTS | 0:00:00.000 | 0:00:07.200 | 14 |
 | JUSTICE GINSBURG | 0:00:07.980 | 0:07:08.400 | 748 |
 
+### First 3 minutes, as plain text
+
+Whisper's wording, 0:00:00.000 to 0:03:00.000, with each speaker's start time.
+
+[0:00:00.000] CHIEF JUSTICE ROBERTS: Justice Ginsburg has our opinion this morning in Case 13-7451, Yates v. United States.
+
+[0:00:07.980] JUSTICE GINSBURG: In the summer of 2007, a Federal agent on patrol in the Gulf of Mexico boarded the Miss Katie, a commercial fishing boat, to check on the vessel's compliance with fishing rules. At the time, Federal conservation regulations prohibited catching Red Grouper less than 20 inches long. A violation of those regulations is a civil offense, not a criminal infraction, punishable only by fine or fishing license suspension. The inspecting officer counted 72 undersized Red Grouper on board the Miss Katie. He placed those fish in crates to separate them from the rest of the ship's catch and told Petitioner Yates, the ship's captain, to leave the fish in the crates until the vessel returned to port. At port, the officer reexamined the fish in the crates. This time, the fish measured slightly lower than they had at sea. A crew member, questioned by the suspicious officer, admitted that at Yates' direction he had thrown the fish in the crates overboard and replaced them with other fish from the catch. For these actions, Yates was charged with violating 18 U .S .C. Section 1519, a felony punishable by up to 20 years in prison. Did 1519 concern the fish disposal in which Yates engaged? One clue to the answer, Congress passed 1519 in 2002 as part of the Sawbains-Oxley Act. That Act was sparked by the Enron Corporation fiasco, a fraud involving massive shredding of incriminating documents. Section 1519 prohibits altering destroying, mutilating, concealing, covering up, falsifying, or making a false entry in any record, document, or tangible object with intent to obstruct the investigation or proper administration of any matter within the jurisdiction of any Federal department or agency. Yates had violated this provision the government charged by destroying or concealing tangible objects, namely 72 small fish thrown overboard at Yates' command. At trial, Yates moved for a
+
 ### Words Whisper invented
 
 Runs of 3 or more words where Whisper and Oyez's transcript disagree were re-transcribed on their own, with 6 s either side. These Whisper words aren't in Oyez and weren't heard again, so they were dropped from the files:
@@ -138,11 +146,10 @@ Where Whisper's words differed from Oyez's and the re-run agreed with Oyez, the 
 
 ### Where Whisper and Oyez disagree
 
-Whisper's wording is what's in the files. Check these by ear; Oyez is not always right either ("--" there often marks a repeat Oyez left out).
+Whisper's wording is what's in the files. Check these by ear; Oyez is not always right either ("--" there often marks a repeat Oyez left out). Spelling and formatting differences ("video games"/"videogames", hyphens, spoken "quote" and "close quote") are not listed.
 
 | time | Whisper | Oyez |
 |---|---|---|
-| 0:00:03.060 | 13 -7451, | 13-7451, |
 | 0:00:08.780 | the summer | December |
 | 0:00:11.160 | a | the |
 | 0:01:15.500 | lower | longer |
