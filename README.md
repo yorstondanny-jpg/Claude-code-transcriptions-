@@ -15,6 +15,7 @@ word by word to the official text.
 | [lozman-house](projects/lozman-house/) | Lozman v. City of Riviera Beach, Florida, No. 11-626 | 1 October 2012 |
 | [star-athletica-uniform](projects/star-athletica-uniform/) | Star Athletica, L.L.C. v. Varsity Brands, Inc., No. 15-866 | 31 October 2016 |
 | [yates-fish](projects/yates-fish/) | Yates v. United States, No. 13-7451 (plus the opinion announcement) | 5 November 2014 |
+| [pom-juice](projects/pom-juice/) | POM Wonderful LLC v. Coca-Cola Co., No. 12-761 (plus the opinion announcement) | 21 April 2014 |
 | [alvarez-medal](projects/alvarez-medal/) | United States v. Alvarez, No. 11-210 (plus the opinion announcement) | 22 February 2012 |
 | [bowman-soybean](projects/bowman-soybean/) | Bowman v. Monsanto Co., No. 11-796 (plus the opinion announcement) | 19 February 2013 |
 | [jardines-dog](projects/jardines-dog/) | Florida v. Jardines, No. 11-564 (plus the opinion announcement) | 31 October 2012 |
@@ -37,13 +38,14 @@ medium.en on a 4-core CPU runs at or a little faster than realtime: the 61-minut
 argument took 59 minutes, the 59-minute Lozman argument 40, the 62-minute Star Athletica
 argument 49, the 59-minute Yates argument 44, the 61-minute Brown argument 45, the 62-minute Jardines
 argument 45, the 70-minute Bowman argument 47 and the 59-minute Alvarez argument 70 (on a
-slower machine).
+slower machine), and the 62-minute POM argument 37.
 
 Add `--opinion` to also fetch the opinion announcement (the justice reading the decision from
 the bench) from oyez.org and transcribe it. There's no official transcript for those, so the
 wording is Whisper's, cross-checked against Oyez's unofficial transcript; see the project README.
 Add `--mentions "Girl Scout(s),salesman/salesmen,front door"` to list every sentence in the
-argument that mentions those terms, with time and speaker. The raw ASR is cached in `projects/<name>/work/`, so re-running only redoes the
+argument that mentions those terms, with time and speaker, and `--quotes "line one|line two"` to
+get each line's exact time and a 10-second clip around it in `audio/quotes/`. The raw ASR is cached in `projects/<name>/work/`, so re-running only redoes the
 alignment.
 
 ## Laugh scout

@@ -1022,7 +1022,7 @@ def process_opinion(case, year, root, work, model_name):
         if lines and lines[-1]["speaker"] == w["speaker"]:
             lines[-1]["e"] = w["e"]
             # Whisper splits "13-7451" into "13" "-7451": rejoin in the text, keep both timed words
-            lines[-1]["text"] += ("" if re.match(r"^(-|,\d)", w["w"]) else " ") + w["w"]
+            lines[-1]["text"] += ("" if re.match(r"^(-|[,.]\d)", w["w"]) else " ") + w["w"]
         else:
             lines.append({"speaker": w["speaker"], "s": w["s"], "e": w["e"], "text": w["w"]})
     (root / "opinion_lines.json").write_text(json.dumps(lines, indent=1, ensure_ascii=False) + "\n")
@@ -1036,7 +1036,7 @@ def process_opinion(case, year, root, work, model_name):
             if w["s"] >= t0 + 180:
                 break
             if opening and opening[-1][1] == w["speaker"]:
-                opening[-1][2] += ("" if re.match(r"^(-|,\d)", w["w"]) else " ") + w["w"]
+                opening[-1][2] += ("" if re.match(r"^(-|[,.]\d)", w["w"]) else " ") + w["w"]
             else:
                 opening.append([w["s"], w["speaker"], w["w"]])
     info["opening"] = opening
@@ -1243,8 +1243,8 @@ def readme_extras(st):
   names and citations.
 - Speakers: from the turn boundaries in Oyez's own transcript ({op['speaker_turns']} turn{'s' if op['speaker_turns'] != 1 else ''}), each
   boundary moved to the longest pause within 1.5 s of it that follows the end of a sentence
-  (or the longest pause, if none does).{(chr(10) + "  Oyez lists no names for " + str(op['speakers_inferred']) + " of these turns, so they come from the text: a turn that opens " + chr(34) + "Justice X has our opinion" + chr(34) + " is the Chief Justice introducing the case, and the next turn is Justice X.") if op.get('speakers_inferred') else ''} Oyez's wording is not
-  used, except where noted below.
+  (or the longest pause, if none does). Oyez's wording is not
+  used, except where noted below.{(chr(10) + "  Oyez lists no names for " + str(op['speakers_inferred']) + " of these turns, so they come from the text: a turn that opens " + chr(34) + "Justice X has our opinion" + chr(34) + " is the Chief Justice introducing the case, and the next turn is Justice X.") if op.get('speakers_inferred') else ''}
 - Word times: Whisper's, with the same stretched-word trimming as the argument ({op['trimmed']}
   trimmed, {op['rewindowed']} re-transcribed).
 - Checks: {ck['order_bad']} words out of time order; words longer than 3 s: {long_txt}.

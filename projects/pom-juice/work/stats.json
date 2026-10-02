@@ -1,0 +1,2356 @@
+{
+ "terms": [
+  "pomegranate",
+  "blueberry",
+  "juice",
+  "label",
+  "0.3",
+  "percent",
+  "five juices",
+  "consumers",
+  "unintelligent",
+  "fool",
+  "feel bad",
+  "read",
+  "Minute Maid",
+  "FDA"
+ ],
+ "mentions": [
+  [
+   25.9,
+   "MR. WAXMAN",
+   "label",
+   "Coca-Cola's label grossly misleads consumers , as Coke anticipated, but Coke says that it need not answer under the Lanham Act because its label is authorized by FDA regulations.",
+   2
+  ],
+  [
+   27.88,
+   "MR. WAXMAN",
+   "consumers",
+   "Coca-Cola's label grossly misleads consumers , as Coke anticipated, but Coke says that it need not answer under the Lanham Act because its label is authorized by FDA regulations.",
+   1
+  ],
+  [
+   37.02,
+   "MR. WAXMAN",
+   "FDA",
+   "Coca-Cola's label grossly misleads consumers , as Coke anticipated, but Coke says that it need not answer under the Lanham Act because its label is authorized by FDA regulations.",
+   1
+  ],
+  [
+   40.06,
+   "MR. WAXMAN",
+   "label",
+   "The label is not, in fact, authorized for reasons we explain and with which the United States largely agrees, but even if it were consistent with FDA regulations that would not strip POM of its right to prove a willful Lanham Act violation.",
+   1
+  ],
+  [
+   49.42,
+   "MR. WAXMAN",
+   "FDA",
+   "The label is not, in fact, authorized for reasons we explain and with which the United States largely agrees, but even if it were consistent with FDA regulations that would not strip POM of its right to prove a willful Lanham Act violation.",
+   1
+  ],
+  [
+   69.74,
+   "MR. WAXMAN",
+   "label",
+   "Here Congress has never precluded or conditioned enforcement of the Lanham Act in food labeling cases, and it is entirely possible, in fact, entirely easy for Coke to comply with both statutory obligations.",
+   1
+  ],
+  [
+   83.26,
+   "JUSTICE SOTOMAYOR",
+   "FDA",
+   "If there is no private cause of action to enforce the FDA label standards, only the FDA can bring a proceeding to say that an ad violates its regulations, how does a Court below, without interpreting the regulations, go about deciding whether or not a particular ad doesn't comport with the regulations and hence would be subject to the Lanham Act?",
+   2
+  ],
+  [
+   84.9,
+   "JUSTICE SOTOMAYOR",
+   "label",
+   "If there is no private cause of action to enforce the FDA label standards, only the FDA can bring a proceeding to say that an ad violates its regulations, how does a Court below, without interpreting the regulations, go about deciding whether or not a particular ad doesn't comport with the regulations and hence would be subject to the Lanham Act?",
+   1
+  ],
+  [
+   178.98,
+   "MR. WAXMAN",
+   "label",
+   "Our submission is that it is entirely irrelevant whether or not the Coke label, in any particular, is consistent with a regulation that implements criminal prohibitions by announcing when and under what limited circumstances the FDA will forebear from exercising its criminal and regulatory penalties.",
+   1
+  ],
+  [
+   193.66,
+   "MR. WAXMAN",
+   "FDA",
+   "Our submission is that it is entirely irrelevant whether or not the Coke label, in any particular, is consistent with a regulation that implements criminal prohibitions by announcing when and under what limited circumstances the FDA will forebear from exercising its criminal and regulatory penalties.",
+   1
+  ],
+  [
+   218.7,
+   "JUSTICE KENNEDY",
+   "label",
+   "And so do you concede that under the Lanham Act, plaintiff could not challenge aspects of the a food label that the FDA said is required?",
+   1
+  ],
+  [
+   219.36,
+   "JUSTICE KENNEDY",
+   "FDA",
+   "And so do you concede that under the Lanham Act, plaintiff could not challenge aspects of the a food label that the FDA said is required?",
+   1
+  ],
+  [
+   231.96,
+   "MR. WAXMAN",
+   "FDA",
+   "Let me just say, not only is that not this case because the FDA has never examined --",
+   1
+  ],
+  [
+   243.56,
+   "MR. WAXMAN",
+   "FDA",
+   "My answer to the question would be, under Wyeth, under this Court's decision in Wyeth, the FDCA and the FDA's regulations interpreting it and applying it, supply a floor and not a ceiling.",
+   1
+  ],
+  [
+   251.76,
+   "MR. WAXMAN",
+   "FDA",
+   "And the FDA would have no authority -- if the FDA said, This label is fine and you are required to use this label, the question would be, does it have the statutory authority to essentially create an immunity from enforcement of another federal statute that protects a different purpose and a different class of victims?",
+   2
+  ],
+  [
+   255.98,
+   "MR. WAXMAN",
+   "label",
+   "And the FDA would have no authority -- if the FDA said, This label is fine and you are required to use this label, the question would be, does it have the statutory authority to essentially create an immunity from enforcement of another federal statute that protects a different purpose and a different class of victims?",
+   2
+  ],
+  [
+   283.96,
+   "JUSTICE KAGAN",
+   "label",
+   "He said, suppose that it said you are required to use this label and only this label, then you would acknowledge that there is an impossibility issue; is that right?",
+   2
+  ],
+  [
+   296.2,
+   "MR. WAXMAN",
+   "label",
+   "Unless, as in Wyeth, there was, in fact, some possibility to change the label, but if -- and I apologize if I didn't understand the question.",
+   1
+  ],
+  [
+   299.98,
+   "MR. WAXMAN",
+   "FDA",
+   "If the FDA said, counterfactually, we've examined this label, you are not only permitted to use it but you are required to use it, and unlike what we do with respect to pharmaceuticals, you are not allowed to make any changes.",
+   1
+  ],
+  [
+   303.52,
+   "MR. WAXMAN",
+   "label",
+   "If the FDA said, counterfactually, we've examined this label, you are not only permitted to use it but you are required to use it, and unlike what we do with respect to pharmaceuticals, you are not allowed to make any changes.",
+   1
+  ],
+  [
+   334.34,
+   "JUSTICE KAGAN",
+   "FDA",
+   "Let's just focus on the name, which is what the solicitor general says the FDA has considered and has specifically permitted.",
+   1
+  ],
+  [
+   351.26,
+   "JUSTICE KAGAN",
+   "FDA",
+   "And essentially the FDA has said, This is what counts as misbranding, nothing else counts as misbranding.",
+   1
+  ],
+  [
+   362.2,
+   "JUSTICE KAGAN",
+   "FDA",
+   "And now you're coming in and under a Lanham Act claim saying, no, the FDA is wrong.",
+   1
+  ],
+  [
+   370.0,
+   "JUSTICE KAGAN",
+   "FDA",
+   "That the FDA said it's not misbranding, you're saying it is misbranding.",
+   1
+  ],
+  [
+   377.28,
+   "JUSTICE KAGAN",
+   "FDA",
+   "That seems a quite direct conflict as to what the FDA says versus what you are alleging under the Lanham Act.",
+   1
+  ],
+  [
+   383.6,
+   "MR. WAXMAN",
+   "FDA",
+   "So we know that that is not, in fact, how the FDA construes its regulation, and we know that because just by examining the FDA's own limited enforcement history, all the parties have cited the Court --",
+   2
+  ],
+  [
+   396.4,
+   "JUSTICE KAGAN",
+   "FDA",
+   "Well, just hypothetically, let's say that the FDA said that this name was not misbranding, that this name was fine under their regulations, that they did not count as misbranding.",
+   1
+  ],
+  [
+   408.46,
+   "MR. WAXMAN",
+   "label",
+   "So we're challenging the label as a whole, which is covered by -- under the --",
+   1
+  ],
+  [
+   416.6,
+   "JUSTICE KAGAN",
+   "label",
+   "So I understand that, you would have some claims about different parts of the label.",
+   1
+  ],
+  [
+   422.96,
+   "JUSTICE KAGAN",
+   "FDA",
+   "But I'm only asking about your claiming as -- your claim as to the specific thing that the FDA ruled on.",
+   1
+  ],
+  [
+   439.06,
+   "MR. WAXMAN",
+   "label",
+   "And the question is whether Congress gave any indication and it would have to, in this context where the Lanham Act is an express statutory enactment that Congress was well aware of when it enacted the Nutrition Labeling Act and, in fact, was told, not just by the industry, but by OMB, in testimony, that the Lanham Act was being used to police misrepresentations of the character of food products, you would have to conclude that Congress intended to allow the FDA to supply, if you will, the substantive rule of decision under a different statute that uses different words and -- and protects a different class of people when -- and here again, I think it's an important indicator why Congress didn't mean that.",
+   1
+  ],
+  [
+   459.3,
+   "MR. WAXMAN",
+   "FDA",
+   "And the question is whether Congress gave any indication and it would have to, in this context where the Lanham Act is an express statutory enactment that Congress was well aware of when it enacted the Nutrition Labeling Act and, in fact, was told, not just by the industry, but by OMB, in testimony, that the Lanham Act was being used to police misrepresentations of the character of food products, you would have to conclude that Congress intended to allow the FDA to supply, if you will, the substantive rule of decision under a different statute that uses different words and -- and protects a different class of people when -- and here again, I think it's an important indicator why Congress didn't mean that.",
+   1
+  ],
+  [
+   478.62,
+   "MR. WAXMAN",
+   "FDA",
+   "The FDA, the misbranding provisions of the FDCA are prohibitions.",
+   1
+  ],
+  [
+   488.88,
+   "MR. WAXMAN",
+   "FDA",
+   "And the rules that the FDA has promulgated announce essentially an enforcement forbearance.",
+   1
+  ],
+  [
+   506.84,
+   "MR. WAXMAN",
+   "juice",
+   "They don't represent a judgment and the Federal Register provisions that we've cited that accompanied the promulgation of the juice naming regulations make this as clear as day.",
+   1
+  ],
+  [
+   547.02,
+   "MR. WAXMAN",
+   "juice",
+   "In fact, they say although for purposes of our forbearance under our government enforcement authority, we will allow you to do one or the other -- and this is 2919 and 2920 of Federal Register 58, We warn manufacturers that even compliance with this, where there is a small amount of the non-predominant juice name has great capacity to mislead and we encourage -- twice in the rulemaking, we encourage manufacturers, nonetheless, to name the juices in the product.",
+   2
+  ],
+  [
+   578.16,
+   "MR. WAXMAN",
+   "label",
+   "Under those circumstances, the notion that Congress intended this type of regulation to preclude a case in which -- and these are the facts as the Court -- as they come to the Court -- Coke well knew and intentionally designed a label that, in fact, grossly misleads consumers to the economic disadvantage of the company that, in large part, created the market.",
+   1
+  ],
+  [
+   581.24,
+   "MR. WAXMAN",
+   "consumers",
+   "Under those circumstances, the notion that Congress intended this type of regulation to preclude a case in which -- and these are the facts as the Court -- as they come to the Court -- Coke well knew and intentionally designed a label that, in fact, grossly misleads consumers to the economic disadvantage of the company that, in large part, created the market.",
+   1
+  ],
+  [
+   592.54,
+   "MR. WAXMAN",
+   "FDA",
+   "And the notion that Congress wanted to allow the FDA to apply substantive rules of decision in that very different inquiry using very different language in a different statute, I think, is completely unsupported.",
+   1
+  ],
+  [
+   629.9,
+   "MR. WAXMAN",
+   "label",
+   "Well, we have in -- in the course of our complaint, we didn't specify -- I mean, the injunction that we would seek is ceasing to use the label as it currently exists, and of course --",
+   1
+  ],
+  [
+   633.02,
+   "JUSTICE GINSBURG",
+   "label",
+   "Without saying what label would be lawful?",
+   1
+  ],
+  [
+   667.84,
+   "MR. WAXMAN",
+   "consumers",
+   "All that they may -- all they do is make a judgment about whether or not on balance, there is substantial evidence that to the harm of the competitor, a substantial number of consumers are misled, and if so, was it willful.",
+   1
+  ],
+  [
+   689.26,
+   "MR. WAXMAN",
+   "label",
+   "In Wyeth versus Levine, the plaintiff had all sorts of reasons -- all sorts of different theories about what the warning label should or shouldn't say.",
+   1
+  ],
+  [
+   699.38,
+   "MR. WAXMAN",
+   "label",
+   "The jury simply decided that it violated the common law of the state of Vermont to use that particular label.",
+   1
+  ],
+  [
+   706.62,
+   "JUSTICE ALITO",
+   "percent",
+   "Suppose it was 50 percent pomegranate and blueberry.",
+   1
+  ],
+  [
+   707.22,
+   "JUSTICE ALITO",
+   "pomegranate",
+   "Suppose it was 50 percent pomegranate and blueberry.",
+   1
+  ],
+  [
+   708.32,
+   "JUSTICE ALITO",
+   "blueberry",
+   "Suppose it was 50 percent pomegranate and blueberry.",
+   1
+  ],
+  [
+   726.66,
+   "MR. WAXMAN",
+   "consumers",
+   "I mean, we have to come up with -- we have to adduce, it's our burden, substantial evidence to show that a substantial number of competitors -- of consumers are not only misled, but misled to the detriment of our product.",
+   1
+  ],
+  [
+   746.68,
+   "MR. WAXMAN",
+   "pomegranate",
+   "But Coke's argument, and for that matter the government's argument, with respect to the name itself, would apply if, unlike the eyedropper's worth of pomegranate juice that's in the half-gallon bottle, there were two microns.",
+   1
+  ],
+  [
+   747.32,
+   "MR. WAXMAN",
+   "juice",
+   "But Coke's argument, and for that matter the government's argument, with respect to the name itself, would apply if, unlike the eyedropper's worth of pomegranate juice that's in the half-gallon bottle, there were two microns.",
+   1
+  ],
+  [
+   768.22,
+   "MR. WAXMAN",
+   "consumers",
+   "And the evidence shows that over a third of consumers who look at this label believe that pomegranate and blueberry juice, in fact, are the majority juices.",
+   1
+  ],
+  [
+   769.6,
+   "MR. WAXMAN",
+   "label",
+   "And the evidence shows that over a third of consumers who look at this label believe that pomegranate and blueberry juice, in fact, are the majority juices.",
+   1
+  ],
+  [
+   771.06,
+   "MR. WAXMAN",
+   "pomegranate",
+   "And the evidence shows that over a third of consumers who look at this label believe that pomegranate and blueberry juice, in fact, are the majority juices.",
+   1
+  ],
+  [
+   772.04,
+   "MR. WAXMAN",
+   "blueberry",
+   "And the evidence shows that over a third of consumers who look at this label believe that pomegranate and blueberry juice, in fact, are the majority juices.",
+   1
+  ],
+  [
+   772.42,
+   "MR. WAXMAN",
+   "juice",
+   "And the evidence shows that over a third of consumers who look at this label believe that pomegranate and blueberry juice, in fact, are the majority juices.",
+   2
+  ],
+  [
+   788.62,
+   "JUSTICE ALITO",
+   "pomegranate",
+   "But let's say there are a few people who are very allergic to pomegranate juice or blueberry juice.",
+   1
+  ],
+  [
+   789.66,
+   "JUSTICE ALITO",
+   "juice",
+   "But let's say there are a few people who are very allergic to pomegranate juice or blueberry juice.",
+   2
+  ],
+  [
+   790.12,
+   "JUSTICE ALITO",
+   "blueberry",
+   "But let's say there are a few people who are very allergic to pomegranate juice or blueberry juice.",
+   1
+  ],
+  [
+   791.56,
+   "JUSTICE ALITO",
+   "FDA",
+   "And so the FDA says, if you put even an eyedropper full of that in your blend, you have to put that prominently on the bottle so that these people will not inadvertently get an allergic reaction.",
+   1
+  ],
+  [
+   812.22,
+   "MR. WAXMAN",
+   "consumers",
+   "Well, of course, pome -- the only thing that consumers know is that -- from the front label is that there is pomegranate -- arguably pomegranate juice and blueberry juice in here.",
+   1
+  ],
+  [
+   814.46,
+   "MR. WAXMAN",
+   "label",
+   "Well, of course, pome -- the only thing that consumers know is that -- from the front label is that there is pomegranate -- arguably pomegranate juice and blueberry juice in here.",
+   1
+  ],
+  [
+   815.62,
+   "MR. WAXMAN",
+   "pomegranate",
+   "Well, of course, pome -- the only thing that consumers know is that -- from the front label is that there is pomegranate -- arguably pomegranate juice and blueberry juice in here.",
+   2
+  ],
+  [
+   818.38,
+   "MR. WAXMAN",
+   "juice",
+   "Well, of course, pome -- the only thing that consumers know is that -- from the front label is that there is pomegranate -- arguably pomegranate juice and blueberry juice in here.",
+   2
+  ],
+  [
+   818.8,
+   "MR. WAXMAN",
+   "blueberry",
+   "Well, of course, pome -- the only thing that consumers know is that -- from the front label is that there is pomegranate -- arguably pomegranate juice and blueberry juice in here.",
+   1
+  ],
+  [
+   822.94,
+   "MR. WAXMAN",
+   "label",
+   "So the question would be whether they had to disclose on the label whether there was also .01 percent strawberry juice or 99.4 percent apple and grape juice.",
+   1
+  ],
+  [
+   825.42,
+   "MR. WAXMAN",
+   "percent",
+   "So the question would be whether they had to disclose on the label whether there was also .01 percent strawberry juice or 99.4 percent apple and grape juice.",
+   2
+  ],
+  [
+   826.52,
+   "MR. WAXMAN",
+   "juice",
+   "So the question would be whether they had to disclose on the label whether there was also .01 percent strawberry juice or 99.4 percent apple and grape juice.",
+   2
+  ],
+  [
+   834.04,
+   "MR. WAXMAN",
+   "FDA",
+   "That's the kind of judgment that we want the FDA to make, because the purpose of the FDCA is protect public health and safety.",
+   1
+  ],
+  [
+   840.3,
+   "MR. WAXMAN",
+   "FDA",
+   "What the FDA doesn't do, particularly given the criminal nature of its sanctions, is regulate or interpret, apply its forbearance authority with an eye toward, well, what kinds of things are going to so mislead consumers that they think there is going to be a substitute in the marketplace where there isn't.",
+   1
+  ],
+  [
+   854.04,
+   "MR. WAXMAN",
+   "consumers",
+   "What the FDA doesn't do, particularly given the criminal nature of its sanctions, is regulate or interpret, apply its forbearance authority with an eye toward, well, what kinds of things are going to so mislead consumers that they think there is going to be a substitute in the marketplace where there isn't.",
+   1
+  ],
+  [
+   863.42,
+   "JUSTICE ALITO",
+   "percent",
+   "Well, what I'm saying is suppose it's the case that for 99.999 percent of the population, the more pomegranate juice, the better, you just can't drink enough of it.",
+   1
+  ],
+  [
+   865.34,
+   "JUSTICE ALITO",
+   "pomegranate",
+   "Well, what I'm saying is suppose it's the case that for 99.999 percent of the population, the more pomegranate juice, the better, you just can't drink enough of it.",
+   1
+  ],
+  [
+   865.98,
+   "JUSTICE ALITO",
+   "juice",
+   "Well, what I'm saying is suppose it's the case that for 99.999 percent of the population, the more pomegranate juice, the better, you just can't drink enough of it.",
+   1
+  ],
+  [
+   876.76,
+   "JUSTICE ALITO",
+   "FDA",
+   "And so the FDA says, you've got to put that on there even if there is just a tincture of pomegranate juice.",
+   1
+  ],
+  [
+   881.16,
+   "JUSTICE ALITO",
+   "pomegranate",
+   "And so the FDA says, you've got to put that on there even if there is just a tincture of pomegranate juice.",
+   1
+  ],
+  [
+   881.92,
+   "JUSTICE ALITO",
+   "juice",
+   "And so the FDA says, you've got to put that on there even if there is just a tincture of pomegranate juice.",
+   1
+  ],
+  [
+   890.4,
+   "JUSTICE ALITO",
+   "pomegranate",
+   "Could you have a Lanham Act claim on the ground for the vast majority of your potential customers, they are going to be misled, because they want pomegranate juice and they are buying this stuff that just has a little bit of it in it?",
+   1
+  ],
+  [
+   891.08,
+   "JUSTICE ALITO",
+   "juice",
+   "Could you have a Lanham Act claim on the ground for the vast majority of your potential customers, they are going to be misled, because they want pomegranate juice and they are buying this stuff that just has a little bit of it in it?",
+   1
+  ],
+  [
+   904.08,
+   "MR. WAXMAN",
+   "FDA",
+   "Well, I think the vast -- presumably, and we're talking about a hypothetical regulation, presumably the FDA would promulgate a requirement that, in fact, you must name each of the -- each of the constituent juices in case there is an allergy.",
+   1
+  ],
+  [
+   911.96,
+   "MR. WAXMAN",
+   "juice",
+   "Well, I think the vast -- presumably, and we're talking about a hypothetical regulation, presumably the FDA would promulgate a requirement that, in fact, you must name each of the -- each of the constituent juices in case there is an allergy.",
+   1
+  ],
+  [
+   919.18,
+   "MR. WAXMAN",
+   "consumers",
+   "I mean, we wouldn't have an objection -- the argument wouldn't be that consumers are misled by that fact alone.",
+   1
+  ],
+  [
+   924.2,
+   "MR. WAXMAN",
+   "consumers",
+   "What's misleading consumers here is they have no way on God's green earth of telling that the total amount of blueberry and pomegranate juice in this product can be dispensed with a single eyedropper.",
+   1
+  ],
+  [
+   934.52,
+   "MR. WAXMAN",
+   "blueberry",
+   "What's misleading consumers here is they have no way on God's green earth of telling that the total amount of blueberry and pomegranate juice in this product can be dispensed with a single eyedropper.",
+   1
+  ],
+  [
+   935.22,
+   "MR. WAXMAN",
+   "pomegranate",
+   "What's misleading consumers here is they have no way on God's green earth of telling that the total amount of blueberry and pomegranate juice in this product can be dispensed with a single eyedropper.",
+   1
+  ],
+  [
+   935.74,
+   "MR. WAXMAN",
+   "juice",
+   "What's misleading consumers here is they have no way on God's green earth of telling that the total amount of blueberry and pomegranate juice in this product can be dispensed with a single eyedropper.",
+   1
+  ],
+  [
+   944.695,
+   "MR. WAXMAN",
+   "FDA",
+   "And the FDA has -- the FDA has explained in this case that it has no expertise, it has no warrant to interpret or understand or apply judgments about what kind of words and symbols and the combination thereof, to use the language of the Lanham Act, will have a tendency to misrepresent the nature or quality of the goods from the perspective of the competitor.",
+   2
+  ],
+  [
+   1006.76,
+   "MR. WAXMAN",
+   "label",
+   "The state law provision, Justice Kennedy, is Section 110660 of the California Health and Safety Code, which -- the language of which is in haec verba with the very first subsection of the misbranding statute 343(A), which declares misbranded any label which is false in particular -- false and misleading in any particular.",
+   1
+  ],
+  [
+   1041.81,
+   "MR. WAXMAN",
+   "FDA",
+   "There might be an open question if one of the things that we were challenging in the course of that state lawsuit was the name itself, and the question then would be is this name, in fact, compliant with the FDA regulation?",
+   1
+  ],
+  [
+   1112.49,
+   "MS. SHERRY",
+   "label",
+   "We have a circumstance here where we have two Federal statutes that cover the same subject matter that apply functionally the same standard to the same words on the same product label.",
+   1
+  ],
+  [
+   1118.25,
+   "MS. SHERRY",
+   "FDA",
+   "Under the FDCA, we have an authoritative interpretation of that language by the FDA.",
+   1
+  ],
+  [
+   1127.07,
+   "MS. SHERRY",
+   "FDA",
+   "The FDA considered the exact same question that is being raised here.",
+   1
+  ],
+  [
+   1135.89,
+   "MS. SHERRY",
+   "juice",
+   "It looked to figure out what an appropriate common or usual name was for a juice blend that had a small amount of a highly flavorful and expensive juice in order to allow consumers to know -- in order to prevent consumers from being misled as to the juice content of that particular product.",
+   3
+  ],
+  [
+   1141.89,
+   "MS. SHERRY",
+   "consumers",
+   "It looked to figure out what an appropriate common or usual name was for a juice blend that had a small amount of a highly flavorful and expensive juice in order to allow consumers to know -- in order to prevent consumers from being misled as to the juice content of that particular product.",
+   2
+  ],
+  [
+   1168.35,
+   "MS. SHERRY",
+   "FDA",
+   "It has a number of subsections, one of which gives the FDA authority to establish common or usual names of products.",
+   1
+  ],
+  [
+   1189.49,
+   "MS. SHERRY",
+   "juice",
+   "And, in fact, that was the purpose of the very regulation at issue here, the idea being by allowing manufacturers to choose to name their juice product based on the juice that flavors the product as opposed to based on the juice that is predominant by volume, that consumers will come to understand that when a juice says pomegranate and blueberry flavored, what it means is that the juice is present as a flavor.",
+   5
+  ],
+  [
+   1196.59,
+   "MS. SHERRY",
+   "consumers",
+   "And, in fact, that was the purpose of the very regulation at issue here, the idea being by allowing manufacturers to choose to name their juice product based on the juice that flavors the product as opposed to based on the juice that is predominant by volume, that consumers will come to understand that when a juice says pomegranate and blueberry flavored, what it means is that the juice is present as a flavor.",
+   1
+  ],
+  [
+   1199.17,
+   "MS. SHERRY",
+   "pomegranate",
+   "And, in fact, that was the purpose of the very regulation at issue here, the idea being by allowing manufacturers to choose to name their juice product based on the juice that flavors the product as opposed to based on the juice that is predominant by volume, that consumers will come to understand that when a juice says pomegranate and blueberry flavored, what it means is that the juice is present as a flavor.",
+   1
+  ],
+  [
+   1199.99,
+   "MS. SHERRY",
+   "blueberry",
+   "And, in fact, that was the purpose of the very regulation at issue here, the idea being by allowing manufacturers to choose to name their juice product based on the juice that flavors the product as opposed to based on the juice that is predominant by volume, that consumers will come to understand that when a juice says pomegranate and blueberry flavored, what it means is that the juice is present as a flavor.",
+   1
+  ],
+  [
+   1223.01,
+   "MS. SHERRY",
+   "0.3",
+   "The argument is because there is only 0.3 percent of pomegranate juice, that it is not actually enough to flavor the beverage.",
+   1
+  ],
+  [
+   1223.81,
+   "MS. SHERRY",
+   "percent",
+   "The argument is because there is only 0.3 percent of pomegranate juice, that it is not actually enough to flavor the beverage.",
+   1
+  ],
+  [
+   1224.55,
+   "MS. SHERRY",
+   "pomegranate",
+   "The argument is because there is only 0.3 percent of pomegranate juice, that it is not actually enough to flavor the beverage.",
+   1
+  ],
+  [
+   1225.33,
+   "MS. SHERRY",
+   "juice",
+   "The argument is because there is only 0.3 percent of pomegranate juice, that it is not actually enough to flavor the beverage.",
+   1
+  ],
+  [
+   1237.77,
+   "MS. SHERRY",
+   "percent",
+   "But Petitioner's argument with respect to the name would be exactly the same, Justice Alito, if there was 10 percent of pomegranate juice in this product or there was 15 percent.",
+   2
+  ],
+  [
+   1238.39,
+   "MS. SHERRY",
+   "pomegranate",
+   "But Petitioner's argument with respect to the name would be exactly the same, Justice Alito, if there was 10 percent of pomegranate juice in this product or there was 15 percent.",
+   1
+  ],
+  [
+   1238.87,
+   "MS. SHERRY",
+   "juice",
+   "But Petitioner's argument with respect to the name would be exactly the same, Justice Alito, if there was 10 percent of pomegranate juice in this product or there was 15 percent.",
+   1
+  ],
+  [
+   1257.65,
+   "JUSTICE SOTOMAYOR",
+   "label",
+   "Then, Ms. Sherry, you -- the government is taking the position that it's okay for District Courts to determine whether labels, in fact, comply or don't comply with FDA regulations?",
+   1
+  ],
+  [
+   1261.53,
+   "JUSTICE SOTOMAYOR",
+   "FDA",
+   "Then, Ms. Sherry, you -- the government is taking the position that it's okay for District Courts to determine whether labels, in fact, comply or don't comply with FDA regulations?",
+   1
+  ],
+  [
+   1274.49,
+   "MS. SHERRY",
+   "FDA",
+   "And let me try to explain why I don't think that\u2019s inconsistent with the notion of the FDA having exclusive enforcement authority with respect to the FDCA.",
+   1
+  ],
+  [
+   1284.95,
+   "MS. SHERRY",
+   "FDA",
+   "The FDCA and the FDA regulations come up by virtue of the preclusion defense that is being raised by Respondents here.",
+   1
+  ],
+  [
+   1295.35,
+   "MS. SHERRY",
+   "FDA",
+   "And so in the course of adjudicating that defense, we agree that district courts can look to the FDA regulations to determine compliance, of course, by applying all the normal rules of deference that would otherwise apply in those circumstances.",
+   1
+  ],
+  [
+   1310.57,
+   "JUSTICE KENNEDY",
+   "label",
+   "Do I understand your position to be that then if the label is specifically authorized, then the Lanham Act is precluded, but if the FDCA has just simply failed to forbid it then it's not?",
+   1
+  ],
+  [
+   1334.51,
+   "MS. SHERRY",
+   "FDA",
+   "What we're saying is that if the FDA or the FDCA provisions have specifically permitted something here, they've specifically permitted this type of name in certain circumstances, that that is something that should preclude a Lanham Act claim.",
+   1
+  ],
+  [
+   1347.01,
+   "MS. SHERRY",
+   "FDA",
+   "To the extent the FDCA or the FDA has not spoken to the particular issue with any degree of specificity, we don't see a problem with the Lanham Act claim going forward, because in that case you're not really second- guessing any judgment --",
+   1
+  ],
+  [
+   1363.11,
+   "JUSTICE GINSBURG",
+   "pomegranate",
+   "But, Ms. Sherry, applied to this case, so we have -- you said the name is okay, pomegranate and blueberry flavored, but you say the label is something different from the name and the Lanham Act can apply to the label.",
+   1
+  ],
+  [
+   1363.65,
+   "JUSTICE GINSBURG",
+   "blueberry",
+   "But, Ms. Sherry, applied to this case, so we have -- you said the name is okay, pomegranate and blueberry flavored, but you say the label is something different from the name and the Lanham Act can apply to the label.",
+   1
+  ],
+  [
+   1367.69,
+   "JUSTICE GINSBURG",
+   "label",
+   "But, Ms. Sherry, applied to this case, so we have -- you said the name is okay, pomegranate and blueberry flavored, but you say the label is something different from the name and the Lanham Act can apply to the label.",
+   2
+  ],
+  [
+   1378.23,
+   "JUSTICE GINSBURG",
+   "label",
+   "So what parts of the label are you saying are not touched -- are not preempted by the FDA laws?",
+   1
+  ],
+  [
+   1387.05,
+   "JUSTICE GINSBURG",
+   "FDA",
+   "So what parts of the label are you saying are not touched -- are not preempted by the FDA laws?",
+   1
+  ],
+  [
+   1393.31,
+   "MS. SHERRY",
+   "pomegranate",
+   "We're drawing a distinction -- when we say the name, we mean the actual words themselves, \"pomegranate blueberry flavored blendified juices.\"",
+   1
+  ],
+  [
+   1393.85,
+   "MS. SHERRY",
+   "blueberry",
+   "We're drawing a distinction -- when we say the name, we mean the actual words themselves, \"pomegranate blueberry flavored blendified juices.\"",
+   1
+  ],
+  [
+   1395.19,
+   "MS. SHERRY",
+   "juice",
+   "We're drawing a distinction -- when we say the name, we mean the actual words themselves, \"pomegranate blueberry flavored blendified juices.\"",
+   1
+  ],
+  [
+   1396.59,
+   "MS. SHERRY",
+   "label",
+   "When we talk about the label more generally, we mean how those words are presented on the label and other aspects of the label.",
+   3
+  ],
+  [
+   1418.23,
+   "MS. SHERRY",
+   "FDA",
+   "What the FDA said in that letter was that the juice labels at issue there were misleading, not because of the name, but because how the words of the name were displayed on the label, because the words \"orange tangerine,\" for example, were placed next to the picture of an orange, because they were in close proximity to \"100 percent\" --",
+   1
+  ],
+  [
+   1420.63,
+   "MS. SHERRY",
+   "juice",
+   "What the FDA said in that letter was that the juice labels at issue there were misleading, not because of the name, but because how the words of the name were displayed on the label, because the words \"orange tangerine,\" for example, were placed next to the picture of an orange, because they were in close proximity to \"100 percent\" --",
+   1
+  ],
+  [
+   1420.79,
+   "MS. SHERRY",
+   "label",
+   "What the FDA said in that letter was that the juice labels at issue there were misleading, not because of the name, but because how the words of the name were displayed on the label, because the words \"orange tangerine,\" for example, were placed next to the picture of an orange, because they were in close proximity to \"100 percent\" --",
+   2
+  ],
+  [
+   1436.61,
+   "MS. SHERRY",
+   "percent",
+   "What the FDA said in that letter was that the juice labels at issue there were misleading, not because of the name, but because how the words of the name were displayed on the label, because the words \"orange tangerine,\" for example, were placed next to the picture of an orange, because they were in close proximity to \"100 percent\" --",
+   1
+  ],
+  [
+   1437.53,
+   "CHIEF JUSTICE ROBERTS",
+   "label",
+   "What if the label just had the name on it, nothing else?",
+   1
+  ],
+  [
+   1443.23,
+   "CHIEF JUSTICE ROBERTS",
+   "label",
+   "Could they still sue on the ground that the label was misleading?",
+   1
+  ],
+  [
+   1447.65,
+   "MS. SHERRY",
+   "label",
+   "Not unless they are able to point to something else on the label that was misleading aside from the actual words in the name.",
+   1
+  ],
+  [
+   1459.31,
+   "MS. SHERRY",
+   "juice",
+   "The difficulty we have with the naming aspect of the Lanham Act claim here is the arguments that Petitioner is making that they should have instead named this \"apple grape juice,\" that they should have instead included the percentage declarations, are arguments that the FDA specifically considered when it adopted this rule and it ultimately objected.",
+   1
+  ],
+  [
+   1464.61,
+   "MS. SHERRY",
+   "FDA",
+   "The difficulty we have with the naming aspect of the Lanham Act claim here is the arguments that Petitioner is making that they should have instead named this \"apple grape juice,\" that they should have instead included the percentage declarations, are arguments that the FDA specifically considered when it adopted this rule and it ultimately objected.",
+   1
+  ],
+  [
+   1468.285,
+   "CHIEF JUSTICE ROBERTS",
+   "FDA",
+   "Does the FDA -- does the FDA take into account purely commercial confusion when it issues -- when it issued its regulations governing the label?",
+   2
+  ],
+  [
+   1478.01,
+   "CHIEF JUSTICE ROBERTS",
+   "label",
+   "Does the FDA -- does the FDA take into account purely commercial confusion when it issues -- when it issued its regulations governing the label?",
+   1
+  ],
+  [
+   1495.85,
+   "MS. SHERRY",
+   "consumers",
+   "There were comments with respect to this particular regulation, and the commenters were consumers saying that they were concerned that they were being misled with respect to the juice content.",
+   1
+  ],
+  [
+   1499.57,
+   "MS. SHERRY",
+   "juice",
+   "There were comments with respect to this particular regulation, and the commenters were consumers saying that they were concerned that they were being misled with respect to the juice content.",
+   1
+  ],
+  [
+   1500.91,
+   "CHIEF JUSTICE ROBERTS",
+   "FDA",
+   "What does the FDA know about that?",
+   1
+  ],
+  [
+   1505.95,
+   "CHIEF JUSTICE ROBERTS",
+   "FDA",
+   "I mean, I would understand if it was the FTC or something like that, but I don't know that the FDA has any expertise in terms of consumer confusion apart from any health issues.",
+   1
+  ],
+  [
+   1518.37,
+   "MS. SHERRY",
+   "label",
+   "The misbranding provisions, 343(a)(1), speak generally about labels that are false or misleading in any particular.",
+   1
+  ],
+  [
+   1525.05,
+   "MS. SHERRY",
+   "FDA",
+   "And in adopting the common or usual name here, that is something that the FDA was specifically focused on.",
+   1
+  ],
+  [
+   1549.49,
+   "JUSTICE KAGAN",
+   "FDA",
+   "Ms. Sherry, you know, there is no irreconcilable conflict if we view what the FDA has done as just setting a floor.",
+   1
+  ],
+  [
+   1555.01,
+   "JUSTICE KAGAN",
+   "FDA",
+   "And you talk a lot about how, oh, the FDA specifically considered this and it decided not to do this.",
+   1
+  ],
+  [
+   1566.55,
+   "JUSTICE KAGAN",
+   "FDA",
+   "And I guess my question to you is, is that the way you are saying we should know whether the FDA has only set a floor or instead has also set a ceiling, that we're supposed to look to the process and figure out whether the FDA specifically rejected a more extensive proposal, a more aggressive proposal?",
+   2
+  ],
+  [
+   1610.55,
+   "JUSTICE KAGAN",
+   "consumers",
+   "You've said here is the floor to make it not misleading, but, you know, we are not saying that there are some things that, you know, wouldn't mislead a lot of consumers anyway, and then the Lanham Act can come in and supplement that and really put us in a position where nothing is misleading at all.",
+   1
+  ],
+  [
+   1627.75,
+   "MS. SHERRY",
+   "consumers",
+   "Number one, because the agency considered why manufacturers would want to actually name their product based on the flavor, because consumers actually do care about the flavor and they care about the taste.",
+   1
+  ],
+  [
+   1632.69,
+   "MS. SHERRY",
+   "juice",
+   "If the product had the name \"apple grape juice,\" for example, and it in fact tasted like pomegranate blueberry juice, a consumer might be very surprised when he came home and had a sip of that juice and realized it tasted like something very different than what he expected.",
+   3
+  ],
+  [
+   1634.83,
+   "MS. SHERRY",
+   "pomegranate",
+   "If the product had the name \"apple grape juice,\" for example, and it in fact tasted like pomegranate blueberry juice, a consumer might be very surprised when he came home and had a sip of that juice and realized it tasted like something very different than what he expected.",
+   1
+  ],
+  [
+   1635.41,
+   "MS. SHERRY",
+   "blueberry",
+   "If the product had the name \"apple grape juice,\" for example, and it in fact tasted like pomegranate blueberry juice, a consumer might be very surprised when he came home and had a sip of that juice and realized it tasted like something very different than what he expected.",
+   1
+  ],
+  [
+   1643.39,
+   "JUSTICE ALITO",
+   "pomegranate",
+   "You don't think there are a lot of people who buy pomegranate juice because of -- they think it has health benefits and they would be very surprised to find when they bring home this bottle that's got a big picture of a pomegranate on it and it says \"pomegranate\" on it, that it is -- what is it, less than one-half of one percent pomegranate juice?",
+   4
+  ],
+  [
+   1644.07,
+   "JUSTICE ALITO",
+   "juice",
+   "You don't think there are a lot of people who buy pomegranate juice because of -- they think it has health benefits and they would be very surprised to find when they bring home this bottle that's got a big picture of a pomegranate on it and it says \"pomegranate\" on it, that it is -- what is it, less than one-half of one percent pomegranate juice?",
+   2
+  ],
+  [
+   1656.29,
+   "JUSTICE ALITO",
+   "percent",
+   "You don't think there are a lot of people who buy pomegranate juice because of -- they think it has health benefits and they would be very surprised to find when they bring home this bottle that's got a big picture of a pomegranate on it and it says \"pomegranate\" on it, that it is -- what is it, less than one-half of one percent pomegranate juice?",
+   1
+  ],
+  [
+   1658.05,
+   "JUSTICE ALITO",
+   "FDA",
+   "The FDA didn't think that would mislead consumers?",
+   1
+  ],
+  [
+   1659.57,
+   "JUSTICE ALITO",
+   "consumers",
+   "The FDA didn't think that would mislead consumers?",
+   1
+  ],
+  [
+   1719.89,
+   "MS. SULLIVAN",
+   "label",
+   "Section 341 makes clear that it also and with respect to the labeling requirements at issue here, quote, \"promotes honesty and fair dealing in the interest of consumers.\"",
+   1
+  ],
+  [
+   1724.85,
+   "MS. SULLIVAN",
+   "consumers",
+   "Section 341 makes clear that it also and with respect to the labeling requirements at issue here, quote, \"promotes honesty and fair dealing in the interest of consumers.\"",
+   1
+  ],
+  [
+   1739.15,
+   "MS. SULLIVAN",
+   "label",
+   "And here, the most important data we have about what Congress did that's barely been mentioned by POM or the government, is the enactment in 1990 of the NLEA, the Nutrition Labeling and Education Act, and its express preemption provision.",
+   1
+  ],
+  [
+   1916.33,
+   "JUSTICE KENNEDY",
+   "label",
+   "Is it part of Coke's narrow position that national uniformity consists in labels that cheat the consumers like this one did?",
+   1
+  ],
+  [
+   1917.35,
+   "JUSTICE KENNEDY",
+   "consumers",
+   "Is it part of Coke's narrow position that national uniformity consists in labels that cheat the consumers like this one did?",
+   1
+  ],
+  [
+   1942.11,
+   "JUSTICE KENNEDY",
+   "label",
+   "And if the statute works in the way you say it does and that Coca-Cola stands behind this label as being fair to consumers, then I think you have a very difficult case to make.",
+   1
+  ],
+  [
+   1943.33,
+   "JUSTICE KENNEDY",
+   "consumers",
+   "And if the statute works in the way you say it does and that Coca-Cola stands behind this label as being fair to consumers, then I think you have a very difficult case to make.",
+   1
+  ],
+  [
+   1960.03,
+   "JUSTICE KENNEDY",
+   "label",
+   "Do you still have this -- do you still have this label?",
+   1
+  ],
+  [
+   1981.55,
+   "MS. SULLIVAN",
+   "label",
+   "POM is arguing here that it may challenge Coca-Cola's name and label under the Lanham Act even if that name and label complies with the FDCA and all the relevant implementing regulations.",
+   2
+  ],
+  [
+   2001.481,
+   "MS. SULLIVAN",
+   "FDA",
+   "So, Justice Kagan, this is exactly your case, where POM said it can say misbranded under the Lanham Act, even where Coca-Cola has complied with all of the authorizations set forth in the FDA.",
+   1
+  ],
+  [
+   2060.37,
+   "MS. SULLIVAN",
+   "label",
+   "we're talking here about labeling so that consumers have adequate information, at the same time as manufacturers are not put to the burdens and inefficiencies of having constantly shifting labeling standards imposed by juries, which ultimately will cost more to the consumer.",
+   2
+  ],
+  [
+   2062.23,
+   "MS. SULLIVAN",
+   "consumers",
+   "we're talking here about labeling so that consumers have adequate information, at the same time as manufacturers are not put to the burdens and inefficiencies of having constantly shifting labeling standards imposed by juries, which ultimately will cost more to the consumer.",
+   1
+  ],
+  [
+   2083.45,
+   "JUSTICE SOTOMAYOR",
+   "FDA",
+   "The FDA just wanted to know what the name should be.",
+   1
+  ],
+  [
+   2132.75,
+   "MS. SULLIVAN",
+   "FDA",
+   "Justice Sotomayor and Justice Kennedy, I need to make very clear that we believe that under the FDCA and the FDA regulations, Coke's label is as a matter of law not misleading.",
+   1
+  ],
+  [
+   2135.07,
+   "MS. SULLIVAN",
+   "label",
+   "Justice Sotomayor and Justice Kennedy, I need to make very clear that we believe that under the FDCA and the FDA regulations, Coke's label is as a matter of law not misleading.",
+   1
+  ],
+  [
+   2140.59,
+   "MS. SULLIVAN",
+   "FDA",
+   "And once we reach that conclusion under FDCA and FDA, Lanham Act can't come in from the side and say, oh, yes, it is, because that would undermine the express preemption provision that was designed to create national uniformity.",
+   1
+  ],
+  [
+   2157.83,
+   "JUSTICE SOTOMAYOR",
+   "label",
+   "Could the government -- I think what the government is saying nothing about our permission goes to the size of the name on the label --",
+   1
+  ],
+  [
+   2161.29,
+   "JUSTICE SOTOMAYOR",
+   "juice",
+   "-- that you can break up the name of the juice into two different sizes so that you are deemphasizing it.",
+   1
+  ],
+  [
+   2190.09,
+   "JUSTICE SOTOMAYOR",
+   "juice",
+   "It's -- nothing in the regulations talk about using purple instead of whatever that color is that the juice is, that blue, purple, whatever, instead of the color of apple juice.",
+   2
+  ],
+  [
+   2196.47,
+   "JUSTICE SOTOMAYOR",
+   "juice",
+   "If you use the color of apple juice and grapes, it would be a light color.",
+   1
+  ],
+  [
+   2204.49,
+   "MS. SULLIVAN",
+   "label",
+   "Justice Sotomayor, there are five different attacks that POM has made on our label, only two of which were addressed in the lower court.",
+   1
+  ],
+  [
+   2210.61,
+   "MS. SULLIVAN",
+   "FDA",
+   "And we say that we comply with FDA regulations as to all five of them.",
+   1
+  ],
+  [
+   2287.63,
+   "MS. SULLIVAN",
+   "label",
+   "Justice Ginsburg, POM doesn't just want to enjoin our label.",
+   1
+  ],
+  [
+   2292.25,
+   "MS. SULLIVAN",
+   "juice",
+   "POM at JA61 said: You should have called it apple grape juice, not pomegranate blueberry juice.",
+   2
+  ],
+  [
+   2292.93,
+   "MS. SULLIVAN",
+   "pomegranate",
+   "POM at JA61 said: You should have called it apple grape juice, not pomegranate blueberry juice.",
+   1
+  ],
+  [
+   2293.09,
+   "MS. SULLIVAN",
+   "blueberry",
+   "POM at JA61 said: You should have called it apple grape juice, not pomegranate blueberry juice.",
+   1
+  ],
+  [
+   2298.71,
+   "JUSTICE GINSBURG",
+   "label",
+   "They just want to say your label is misleading.",
+   1
+  ],
+  [
+   2307.01,
+   "JUSTICE GINSBURG",
+   "FDA",
+   "And is there -- what statute or regulation of the FDA says that compliance with the permissive regulation of the FDA necessarily renders the label non-misleading?",
+   2
+  ],
+  [
+   2317.03,
+   "JUSTICE GINSBURG",
+   "label",
+   "And is there -- what statute or regulation of the FDA says that compliance with the permissive regulation of the FDA necessarily renders the label non-misleading?",
+   1
+  ],
+  [
+   2360.81,
+   "MS. SULLIVAN",
+   "label",
+   "And if you look at the express preemption provision, which is notably called \"National Uniform Nutrition Labeling,\" Section (2) and Section (3) on 5A over to 6A, set forth those portions of the FDCA that will and won't have preemptive force.",
+   1
+  ],
+  [
+   2403.91,
+   "MS. SULLIVAN",
+   "label",
+   "\"Font size\" is covered by 343(f), which goes to the presentation of the name and other printed matter on the label.",
+   1
+  ],
+  [
+   2445.11,
+   "MS. SULLIVAN",
+   "FDA",
+   "Yes, Your Honor, we still win because of your more general approach to preclusion by one Federal statute of another, because the FDA regulations as to misbranding here are far more specific.",
+   1
+  ],
+  [
+   2466.75,
+   "JUSTICE KENNEDY",
+   "FDA",
+   "You say that even if there's a violation of the FDA regulations, they still couldn't sue under the Lanham Act because that's for the FDA.",
+   2
+  ],
+  [
+   2490.61,
+   "MS. SULLIVAN",
+   "FDA",
+   "In this case we believe the Lanham Act claim is precluded because POM wants to go above the floor set by the FDCA and the FDA reg.",
+   1
+  ],
+  [
+   2505.93,
+   "MS. SULLIVAN",
+   "FDA",
+   "POM has said repeatedly in this case, right through the reply brief -- right through its reply brief at Page 17, and I quote, and this has been their position the whole time, POM's challenge does not depend on the FDCA or FDA's regulation.",
+   1
+  ],
+  [
+   2513.65,
+   "MS. SULLIVAN",
+   "FDA",
+   "Justice Sotomayor, POM is not bringing your hypothetical suit where they come in to enforce the FDCA and the FDA.",
+   1
+  ],
+  [
+   2535.09,
+   "JUSTICE GINSBURG",
+   "FDA",
+   "And there is no judicial review of the FDA regulations.",
+   1
+  ],
+  [
+   2539.29,
+   "JUSTICE GINSBURG",
+   "FDA",
+   "There's no private right of action under the FDA.",
+   1
+  ],
+  [
+   2569.75,
+   "MS. SULLIVAN",
+   "FDA",
+   "But what I'm trying to say here is, to the extent their Lanham Act claims seeks to say, as Justice Kagan said before, You are misbranded for misrepresentations under the Lanham Act, even though Coke has not been misbranded and has not made misrepresentations under FDCA and the FDA regulations, that is a conflict that should be resolved by this Court in the usual manner that statutory construction conflicts are resolved by making the statutes make sense together.",
+   1
+  ],
+  [
+   2583.27,
+   "CHIEF JUSTICE ROBERTS",
+   "label",
+   "I don't know why -- I don't know why it's impossible to have a label that fully complies with the FDA regulations and also happens to be misleading on the entirely different question of commercial competition, consumer confusion that has nothing to do with health.",
+   1
+  ],
+  [
+   2585.25,
+   "CHIEF JUSTICE ROBERTS",
+   "FDA",
+   "I don't know why -- I don't know why it's impossible to have a label that fully complies with the FDA regulations and also happens to be misleading on the entirely different question of commercial competition, consumer confusion that has nothing to do with health.",
+   1
+  ],
+  [
+   2640.99,
+   "MS. SULLIVAN",
+   "label",
+   "Just to be clear, what Congress wanted was national uniformity so that a manufacturer could print one label and sell in the 50 states and not have its juice legal when you leave on the flight in California and illegal when you land in D.C.",
+   1
+  ],
+  [
+   2644.67,
+   "MS. SULLIVAN",
+   "juice",
+   "Just to be clear, what Congress wanted was national uniformity so that a manufacturer could print one label and sell in the 50 states and not have its juice legal when you leave on the flight in California and illegal when you land in D.C.",
+   1
+  ],
+  [
+   2672.9,
+   "MS. SULLIVAN",
+   "pomegranate",
+   "I'm saying after the NLEA express preemption provision, a state cannot say that pomegranate-blueberry-flavored blend of five juices -- which is perfectly consistent with the naming regulations, as the U.S. agrees.",
+   1
+  ],
+  [
+   2672.9,
+   "MS. SULLIVAN",
+   "blueberry",
+   "I'm saying after the NLEA express preemption provision, a state cannot say that pomegranate-blueberry-flavored blend of five juices -- which is perfectly consistent with the naming regulations, as the U.S. agrees.",
+   1
+  ],
+  [
+   2674.83,
+   "MS. SULLIVAN",
+   "five juices",
+   "I'm saying after the NLEA express preemption provision, a state cannot say that pomegranate-blueberry-flavored blend of five juices -- which is perfectly consistent with the naming regulations, as the U.S. agrees.",
+   1
+  ],
+  [
+   2675.03,
+   "MS. SULLIVAN",
+   "juice",
+   "I'm saying after the NLEA express preemption provision, a state cannot say that pomegranate-blueberry-flavored blend of five juices -- which is perfectly consistent with the naming regulations, as the U.S. agrees.",
+   1
+  ],
+  [
+   2686.75,
+   "MS. SULLIVAN",
+   "juice",
+   "Because the naming regulations, Justice Sotomayor, said, you can name your minority juice, your non-predominant juice in either of two ways.",
+   2
+  ],
+  [
+   2702.11,
+   "JUSTICE KENNEDY",
+   "label",
+   "You want us to -- you want us to write an opinion that said that Congress enacted a statutory scheme because it intended that no matter how misleading or how deceptive a label it is, if it passes the FDA, it cannot -- it -- there can be no liability.",
+   1
+  ],
+  [
+   2704.01,
+   "JUSTICE KENNEDY",
+   "FDA",
+   "You want us to -- you want us to write an opinion that said that Congress enacted a statutory scheme because it intended that no matter how misleading or how deceptive a label it is, if it passes the FDA, it cannot -- it -- there can be no liability.",
+   1
+  ],
+  [
+   2714.03,
+   "MS. SULLIVAN",
+   "FDA",
+   "We would want you to say that what misleading is when it is defined by FDA in specific regulations pursuant to a specific statute that specifically seeks national uniformity, in the sense that the manufacturer picks one label and doesn't, as the American Beverage Association brief says at Page 7, create a logistical nightmare that you have to change your label in response to every jury verdict.",
+   1
+  ],
+  [
+   2722.39,
+   "MS. SULLIVAN",
+   "label",
+   "We would want you to say that what misleading is when it is defined by FDA in specific regulations pursuant to a specific statute that specifically seeks national uniformity, in the sense that the manufacturer picks one label and doesn't, as the American Beverage Association brief says at Page 7, create a logistical nightmare that you have to change your label in response to every jury verdict.",
+   2
+  ],
+  [
+   2742.03,
+   "JUSTICE GINSBURG",
+   "consumers",
+   "And overwhelmingly, consumers said that they are misled, that they thought that they were getting pure pomegranate, and they were just astonished to find what they were getting was apple juice with, what Mr. Waxman told us, a dropper of blueberry.",
+   1
+  ],
+  [
+   2750.23,
+   "JUSTICE GINSBURG",
+   "pomegranate",
+   "And overwhelmingly, consumers said that they are misled, that they thought that they were getting pure pomegranate, and they were just astonished to find what they were getting was apple juice with, what Mr. Waxman told us, a dropper of blueberry.",
+   1
+  ],
+  [
+   2758.77,
+   "JUSTICE GINSBURG",
+   "juice",
+   "And overwhelmingly, consumers said that they are misled, that they thought that they were getting pure pomegranate, and they were just astonished to find what they were getting was apple juice with, what Mr. Waxman told us, a dropper of blueberry.",
+   1
+  ],
+  [
+   2765.33,
+   "JUSTICE GINSBURG",
+   "blueberry",
+   "And overwhelmingly, consumers said that they are misled, that they thought that they were getting pure pomegranate, and they were just astonished to find what they were getting was apple juice with, what Mr. Waxman told us, a dropper of blueberry.",
+   1
+  ],
+  [
+   2770.33,
+   "JUSTICE GINSBURG",
+   "consumers",
+   "Suppose -- suppose the reality is that consumers are misled.",
+   1
+  ],
+  [
+   2779.45,
+   "MS. SULLIVAN",
+   "FDA",
+   "If I suppose that, Your Honor, then the proper procedure for a consumer or a competitor is to go to the FDA and seek FDA's change of its rulemaking.",
+   2
+  ],
+  [
+   2793.81,
+   "MS. SULLIVAN",
+   "FDA",
+   "Your Honor, in the red addendum -- red brief addendum at Page 17(a) over to 18(a), you'll see that in 21 CFR 102.33(d) FDA said, Your juice will not be misleading if it uses the word \"flavored.\"",
+   1
+  ],
+  [
+   2795.27,
+   "MS. SULLIVAN",
+   "juice",
+   "Your Honor, in the red addendum -- red brief addendum at Page 17(a) over to 18(a), you'll see that in 21 CFR 102.33(d) FDA said, Your juice will not be misleading if it uses the word \"flavored.\"",
+   1
+  ],
+  [
+   2804.43,
+   "MS. SULLIVAN",
+   "label",
+   "And in fact, over on 18(a), if you want to see the closest thing to an express authorization of our label here, it's the example that FDA gave on 18(a).",
+   1
+  ],
+  [
+   2806.39,
+   "MS. SULLIVAN",
+   "FDA",
+   "And in fact, over on 18(a), if you want to see the closest thing to an express authorization of our label here, it's the example that FDA gave on 18(a).",
+   1
+  ],
+  [
+   2813.61,
+   "MS. SULLIVAN",
+   "consumers",
+   "Because we don't think that consumers are quite as unintelligent as POM must think they are.",
+   1
+  ],
+  [
+   2814.93,
+   "MS. SULLIVAN",
+   "unintelligent",
+   "Because we don't think that consumers are quite as unintelligent as POM must think they are.",
+   1
+  ],
+  [
+   2819.39,
+   "MS. SULLIVAN",
+   "five juices",
+   "They know when something is a favored blend of five juices, non-min- -- the non-predominant juices are just a flavor.",
+   1
+  ],
+  [
+   2819.63,
+   "MS. SULLIVAN",
+   "juice",
+   "They know when something is a favored blend of five juices, non-min- -- the non-predominant juices are just a flavor.",
+   2
+  ],
+  [
+   2824.93,
+   "JUSTICE KENNEDY",
+   "feel bad",
+   "Don't make me feel bad because I thought that this was pomegranate juice.",
+   1
+  ],
+  [
+   2826.99,
+   "JUSTICE KENNEDY",
+   "pomegranate",
+   "Don't make me feel bad because I thought that this was pomegranate juice.",
+   1
+  ],
+  [
+   2827.43,
+   "JUSTICE KENNEDY",
+   "juice",
+   "Don't make me feel bad because I thought that this was pomegranate juice.",
+   1
+  ],
+  [
+   2831.97,
+   "MS. SULLIVAN",
+   "pomegranate",
+   "Justice Kennedy -- Justice Kennedy, it's pomegranate-blueberry-flavored blend of five juices.",
+   1
+  ],
+  [
+   2831.97,
+   "MS. SULLIVAN",
+   "blueberry",
+   "Justice Kennedy -- Justice Kennedy, it's pomegranate-blueberry-flavored blend of five juices.",
+   1
+  ],
+  [
+   2835.57,
+   "MS. SULLIVAN",
+   "five juices",
+   "Justice Kennedy -- Justice Kennedy, it's pomegranate-blueberry-flavored blend of five juices.",
+   1
+  ],
+  [
+   2835.87,
+   "MS. SULLIVAN",
+   "juice",
+   "Justice Kennedy -- Justice Kennedy, it's pomegranate-blueberry-flavored blend of five juices.",
+   1
+  ],
+  [
+   2842.75,
+   "JUSTICE SCALIA",
+   "read",
+   "He sometimes doesn't read closely enough.",
+   1
+  ],
+  [
+   2846.36,
+   "MS. SULLIVAN",
+   "pomegranate",
+   "Yeah, pomegranate-blueberry-flavored blend of five juices.",
+   1
+  ],
+  [
+   2846.36,
+   "MS. SULLIVAN",
+   "blueberry",
+   "Yeah, pomegranate-blueberry-flavored blend of five juices.",
+   1
+  ],
+  [
+   2849.35,
+   "MS. SULLIVAN",
+   "five juices",
+   "Yeah, pomegranate-blueberry-flavored blend of five juices.",
+   1
+  ],
+  [
+   2849.53,
+   "MS. SULLIVAN",
+   "juice",
+   "Yeah, pomegranate-blueberry-flavored blend of five juices.",
+   1
+  ],
+  [
+   2855.59,
+   "JUSTICE SOTOMAYOR",
+   "FDA",
+   "Wyeth, the FDA actually approves, looks at the label and says, this one is okay.",
+   1
+  ],
+  [
+   2859.97,
+   "JUSTICE SOTOMAYOR",
+   "label",
+   "Wyeth, the FDA actually approves, looks at the label and says, this one is okay.",
+   1
+  ],
+  [
+   2876.15,
+   "JUSTICE SOTOMAYOR",
+   "label",
+   "Not only is it not misleading, but it complies with all health requirements, and because the producers of drugs have the ability to change the label without FDA approval, there was -- we found no preemptions and no impossibility.",
+   1
+  ],
+  [
+   2876.89,
+   "JUSTICE SOTOMAYOR",
+   "FDA",
+   "Not only is it not misleading, but it complies with all health requirements, and because the producers of drugs have the ability to change the label without FDA approval, there was -- we found no preemptions and no impossibility.",
+   1
+  ],
+  [
+   2885.19,
+   "JUSTICE SOTOMAYOR",
+   "FDA",
+   "The FDA here -- it's even worse, this case.",
+   1
+  ],
+  [
+   2887.47,
+   "JUSTICE SOTOMAYOR",
+   "FDA",
+   "The FDA doesn't approve the labels.",
+   1
+  ],
+  [
+   2888.95,
+   "JUSTICE SOTOMAYOR",
+   "label",
+   "The FDA doesn't approve the labels.",
+   1
+  ],
+  [
+   2904.17,
+   "MS. SULLIVAN",
+   "FDA",
+   "It's true that FDA doesn't pre-approve the label, but they couldn't have gotten closer here, Justice Kennedy, than solving your difficulty by saying that ras-cranberry juice, it's okay if you call it raspberry-and-cranberry-flavored juice drink.",
+   1
+  ],
+  [
+   2905.67,
+   "MS. SULLIVAN",
+   "label",
+   "It's true that FDA doesn't pre-approve the label, but they couldn't have gotten closer here, Justice Kennedy, than solving your difficulty by saying that ras-cranberry juice, it's okay if you call it raspberry-and-cranberry-flavored juice drink.",
+   1
+  ],
+  [
+   2912.45,
+   "MS. SULLIVAN",
+   "juice",
+   "It's true that FDA doesn't pre-approve the label, but they couldn't have gotten closer here, Justice Kennedy, than solving your difficulty by saying that ras-cranberry juice, it's okay if you call it raspberry-and-cranberry-flavored juice drink.",
+   2
+  ],
+  [
+   2935.69,
+   "MS. SULLIVAN",
+   "label",
+   "It is the express preemption provision here that says that Congress wanted nationally uniform labeling regulations whereby a manufacturer could pick one label and stick with it.",
+   2
+  ],
+  [
+   2942.61,
+   "JUSTICE SOTOMAYOR",
+   "label",
+   "You assume people would pick a label and stick with it.",
+   1
+  ],
+  [
+   2950.01,
+   "JUSTICE SOTOMAYOR",
+   "label",
+   "The Lanham Act would -- if a Lanham Act claim is bought, and it's upheld, you change the label nationally.",
+   1
+  ],
+  [
+   2954.11,
+   "MS. SULLIVAN",
+   "FDA",
+   "Oh, but, Your Honor, that's one thing if the FDA decides to adapt its rulemaking.",
+   1
+  ],
+  [
+   2957.945,
+   "MS. SULLIVAN",
+   "consumers",
+   "Suppose Justice Ginsberg's consumers or competitors showed up and said, Excuse me, we don't think ras-cranberry is clear enough.",
+   1
+  ],
+  [
+   2965.97,
+   "MS. SULLIVAN",
+   "FDA",
+   "When the FDA issues guidance or changes its rules or issues a new kind of interpretation, that's one agency speaking nationally.",
+   1
+  ],
+  [
+   2986.59,
+   "MS. SULLIVAN",
+   "juice",
+   "What Mr. Waxman wants to do is invite plaintiffs to walk into every court in the land under Lanham Act claims and create one jury saying, I think you should have called it apple-grape juice, and another saying you should have had the percentage.",
+   1
+  ],
+  [
+   2993.97,
+   "JUSTICE GINSBURG",
+   "FDA",
+   "Ms. Sullivan, I would like you to respond to this question: In the real world, the FDA has a tremendous amount of things on its plate, and labels for juices are not really high on its list.",
+   1
+  ],
+  [
+   3000.45,
+   "JUSTICE GINSBURG",
+   "label",
+   "Ms. Sullivan, I would like you to respond to this question: In the real world, the FDA has a tremendous amount of things on its plate, and labels for juices are not really high on its list.",
+   1
+  ],
+  [
+   3001.37,
+   "JUSTICE GINSBURG",
+   "juice",
+   "Ms. Sullivan, I would like you to respond to this question: In the real world, the FDA has a tremendous amount of things on its plate, and labels for juices are not really high on its list.",
+   1
+  ],
+  [
+   3011.83,
+   "JUSTICE GINSBURG",
+   "juice",
+   "You are asking us to take what it has said about juice as blessing this label, saying it's not misbranding, when its regulations aren't reviewed by the Court, when there is no private right of action, and say that that overtakes the Lanham Act.",
+   1
+  ],
+  [
+   3013.65,
+   "JUSTICE GINSBURG",
+   "label",
+   "You are asking us to take what it has said about juice as blessing this label, saying it's not misbranding, when its regulations aren't reviewed by the Court, when there is no private right of action, and say that that overtakes the Lanham Act.",
+   1
+  ],
+  [
+   3050.75,
+   "MS. SULLIVAN",
+   "FDA",
+   "Of course you don't want the FDA deciding is pomegranate-blueberry or ras-cranberry clear -- that's why they gave specific regulations.",
+   1
+  ],
+  [
+   3052.07,
+   "MS. SULLIVAN",
+   "pomegranate",
+   "Of course you don't want the FDA deciding is pomegranate-blueberry or ras-cranberry clear -- that's why they gave specific regulations.",
+   1
+  ],
+  [
+   3052.07,
+   "MS. SULLIVAN",
+   "blueberry",
+   "Of course you don't want the FDA deciding is pomegranate-blueberry or ras-cranberry clear -- that's why they gave specific regulations.",
+   1
+  ],
+  [
+   3059.69,
+   "MS. SULLIVAN",
+   "FDA",
+   "And contrary to what Mr. Waxman said, the FDA does not just have criminal jurisdiction.",
+   1
+  ],
+  [
+   3073.23,
+   "JUSTICE KENNEDY",
+   "FDA",
+   "But the point is that it is doubtful that FDA has sufficient resources to police food and beverage labeling.",
+   1
+  ],
+  [
+   3076.97,
+   "JUSTICE KENNEDY",
+   "label",
+   "But the point is that it is doubtful that FDA has sufficient resources to police food and beverage labeling.",
+   1
+  ],
+  [
+   3101.11,
+   "MS. SULLIVAN",
+   "FDA",
+   "What we would respectfully suggest you look at is not FDA's latest amicus brief through the U.S., but FDA's authoritative statement about whether its labeling regulations were being implemented.",
+   2
+  ],
+  [
+   3106.63,
+   "MS. SULLIVAN",
+   "label",
+   "What we would respectfully suggest you look at is not FDA's latest amicus brief through the U.S., but FDA's authoritative statement about whether its labeling regulations were being implemented.",
+   1
+  ],
+  [
+   3114.21,
+   "MS. SULLIVAN",
+   "FDA",
+   "In the red brief at Page 7, we cite to the rulemaking in which the FDA found after the three-year study -- remember the express preemption provision couldn't go into force until there was a three-year study by the IOM.",
+   1
+  ],
+  [
+   3126.69,
+   "MS. SULLIVAN",
+   "FDA",
+   "And if you look at Page 7 of the red brief, three-quarters of the way down the page, you'll see FDA in its authoritative statement, irrespective of its amicus brief here, found that 343(f), the presentation regulation, and 343(i), the naming regulation, were being adequately implemented.",
+   1
+  ],
+  [
+   3144.83,
+   "JUSTICE GINSBURG",
+   "FDA",
+   "So that's contrary to its current position, and I think we have to take it -- the FDA is -- is -- the government is representing the current FDA position.",
+   2
+  ],
+  [
+   3155.67,
+   "MS. SULLIVAN",
+   "FDA",
+   "But, Your Honor, you don't give our deference to an amicus brief when there's an authoritative prior statement by FDA that these implementation -- for the very reason you suggest, the FDA has other things to do.",
+   2
+  ],
+  [
+   3177.13,
+   "MS. SULLIVAN",
+   "FDA",
+   "We would respectfully suggest that just as it's too late for Mr. Waxman to change his theory, as you said in Riegel, to a -- we're enforcing the FDA theory -- and he doesn't purport to do it here -- it's -- the FDA, it's too late now to say in an amicus brief that they didn't mean it back in 1993.",
+   2
+  ],
+  [
+   3188.67,
+   "JUSTICE KAGAN",
+   "label",
+   "Do you think, Ms. Sullivan, that there are any Lanham suits regarding food labels that are allowable?",
+   1
+  ],
+  [
+   3226.01,
+   "MS. SULLIVAN",
+   "label",
+   "If there's something else that's not covered -- and I would refer Your Honor to -- specifically to religious dietary labeling, bottle container deposit labeling -- those are things that the FDA said in its rulemaking, based on the Congressional record, are outside the specific provisions with preemptive force.",
+   2
+  ],
+  [
+   3230.53,
+   "MS. SULLIVAN",
+   "FDA",
+   "If there's something else that's not covered -- and I would refer Your Honor to -- specifically to religious dietary labeling, bottle container deposit labeling -- those are things that the FDA said in its rulemaking, based on the Congressional record, are outside the specific provisions with preemptive force.",
+   1
+  ],
+  [
+   3262.81,
+   "MR. WAXMAN",
+   "FDA",
+   "First of all, this three-year study that she's referring to, as we pointed out in our brief, the IOM and the FDA made absolutely clear repeatedly in that study that they did not look at FDA's enforcement capabilities, its enforcement efforts.",
+   2
+  ],
+  [
+   3299.61,
+   "MR. WAXMAN",
+   "FDA",
+   "And the FD -- and the FDA itself has made clear, not only in its brief in this case and not only in its enforcement action in the Nestle case, but in the Federal Register discussion of the juice naming regulation, that the fact that the juice may comply -- and here it probably doesn't -- may comply with the naming convention does not mean that it is misleading.",
+   1
+  ],
+  [
+   3316.43,
+   "MR. WAXMAN",
+   "juice",
+   "And the FD -- and the FDA itself has made clear, not only in its brief in this case and not only in its enforcement action in the Nestle case, but in the Federal Register discussion of the juice naming regulation, that the fact that the juice may comply -- and here it probably doesn't -- may comply with the naming convention does not mean that it is misleading.",
+   2
+  ],
+  [
+   3329.17,
+   "MR. WAXMAN",
+   "FDA",
+   "The FDA said over and over again in that rulemaking that we strongly caution manufacturers that, in fact, mere compliance with this does not mean that the label is misleading and -- and that manufacturers are under an obligation to ensure that the label is not misleading.",
+   1
+  ],
+  [
+   3341.09,
+   "MR. WAXMAN",
+   "label",
+   "The FDA said over and over again in that rulemaking that we strongly caution manufacturers that, in fact, mere compliance with this does not mean that the label is misleading and -- and that manufacturers are under an obligation to ensure that the label is not misleading.",
+   2
+  ],
+  [
+   3375.07,
+   "MR. WAXMAN",
+   "juice",
+   "And also, indeed said, nonetheless, we encourage manufacturers to name all of the juices in a multiple juice product specifically because it was concerned about this.",
+   2
+  ],
+  [
+   3406.93,
+   "MR. WAXMAN",
+   "label",
+   "This is -- the closest cognate here is 343(a), which provides that a food is misbranded if it is false -- if the label is false and -- false or misleading at any particular.",
+   1
+  ],
+  [
+   3443.53,
+   "MR. WAXMAN",
+   "FDA",
+   "The FDA wasn't worried here about health or safety.",
+   1
+  ],
+  [
+   3456.07,
+   "MR. WAXMAN",
+   "juice",
+   "It's because there were concerns about health and safety with this juice naming regulation that they said, in the exercise of our sovereign enforcement authority, we are not going to go after you for complying with this naming convention, because, as they've explained, we don't know anything about how to protect competitors.",
+   1
+  ],
+  [
+   3502.61,
+   "JUSTICE KAGAN",
+   "FDA",
+   "But, Mr. Waxman, I take it that Ms. Sherry said that the FDA views itself as having a job beyond health and safety, that they view themselves as at least -- not thinking about competitors' welfare or lack thereof, but at least thinking about consumer understanding of labels.",
+   1
+  ],
+  [
+   3514.87,
+   "JUSTICE KAGAN",
+   "label",
+   "But, Mr. Waxman, I take it that Ms. Sherry said that the FDA views itself as having a job beyond health and safety, that they view themselves as at least -- not thinking about competitors' welfare or lack thereof, but at least thinking about consumer understanding of labels.",
+   1
+  ],
+  [
+   3548.87,
+   "MR. WAXMAN",
+   "FDA",
+   "But the former is not what the Lanham Act is about, and the latter, the FDA has made perfectly clear is not what the FDCA is about.",
+   1
+  ],
+  [
+   3593.43,
+   "MR. WAXMAN",
+   "FDA",
+   "They're asking as -- their submission here is not -- not -- not just in an FDA action, enforcement action in court, will we get chevron deference for our interpretation of what the meaning of 343(i)(1) is.",
+   1
+  ],
+  [
+   3632.35,
+   "JUSTICE KENNEDY",
+   "FDA",
+   "Any authority that the FDA interpretation gets deference is presumed to be correct, or presumed to be not misleading?",
+   1
+  ]
+ ],
+ "laugh_rows": [
+  {
+   "t": 2827.63,
+   "next": 2829.31,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "when something is a favored blend of five juices, non-min- -- the non-predominant juices are just a flavor. Don't make me feel bad because I thought that this was pomegranate juice.",
+   "pause": 1.68,
+   "loud_s": 1.55,
+   "mean_over": 26.6,
+   "peak_over": 29.6,
+   "size": "big"
+  },
+  {
+   "t": 2843.71,
+   "next": 2843.93,
+   "speaker": "JUSTICE SCALIA",
+   "before": "bad because I thought that this was pomegranate juice. Justice Kennedy -- Justice Kennedy, it's pomegranate-blueberry-flavored blend of five juices. I've found that oftentimes -- well -- He sometimes doesn't read closely enough.",
+   "pause": 0.22,
+   "loud_s": 0.05,
+   "mean_over": 27.2,
+   "peak_over": 27.2,
+   "size": "under speech"
+  }
+ ],
+ "quote_rows": [
+  {
+   "quote": "quite as unintelligent as POM must think they are",
+   "exact": true,
+   "speaker": "MS. SULLIVAN",
+   "s": 2814.27,
+   "e": 2816.93,
+   "text": "quite as unintelligent as POM must think they are.",
+   "w0": 2810.6,
+   "w1": 2820.6,
+   "clip": "audio/quotes/quote_1.mp3",
+   "around": [
+    [
+     2810.31,
+     "MS. SULLIVAN",
+     "or a percentage, and it won't be misleading. Why? Because we don't think that consumers are quite as unintelligent as POM must think they are. They know when something is a favored blend of five juices, non-min- -- the"
+    ]
+   ]
+  },
+  {
+   "quote": "Don't make me feel bad because I thought that this was pomegranate juice",
+   "exact": true,
+   "speaker": "JUSTICE KENNEDY",
+   "s": 2824.17,
+   "e": 2827.63,
+   "text": "Don't make me feel bad because I thought that this was pomegranate juice.",
+   "w0": 2820.9,
+   "w1": 2830.9,
+   "clip": "audio/quotes/quote_2.mp3",
+   "around": [
+    [
+     2820.71,
+     "MS. SULLIVAN",
+     "non-predominant juices are just a flavor."
+    ],
+    [
+     2824.17,
+     "JUSTICE KENNEDY",
+     "Don't make me feel bad because I thought that this was pomegranate juice. (Laughter.)"
+    ],
+    [
+     2829.31,
+     "MS. SULLIVAN",
+     "Justice Kennedy --"
+    ]
+   ]
+  },
+  {
+   "quote": "it's pomegranate-blueberry-flavored blend of five juices",
+   "exact": true,
+   "speaker": "MS. SULLIVAN",
+   "s": 2831.71,
+   "e": 2836.33,
+   "text": "it's pomegranate-blueberry-flavored blend of five juices.",
+   "w0": 2829.02,
+   "w1": 2839.02,
+   "clip": "audio/quotes/quote_3.mp3",
+   "around": [
+    [
+     2827.63,
+     "JUSTICE KENNEDY",
+     "(Laughter.)"
+    ],
+    [
+     2829.31,
+     "MS. SULLIVAN",
+     "Justice Kennedy -- Justice Kennedy, it's pomegranate-blueberry-flavored blend of five juices. I've found that oftentimes --"
+    ]
+   ]
+  },
+  {
+   "quote": "He sometimes doesn't read closely enough",
+   "exact": true,
+   "speaker": "JUSTICE SCALIA",
+   "s": 2841.87,
+   "e": 2843.71,
+   "text": "He sometimes doesn't read closely enough.",
+   "w0": 2837.79,
+   "w1": 2847.79,
+   "clip": "audio/quotes/quote_4.mp3",
+   "around": [
+    [
+     2837.77,
+     "MS. SULLIVAN",
+     "found that oftentimes -- well --"
+    ],
+    [
+     2841.87,
+     "JUSTICE SCALIA",
+     "He sometimes doesn't read closely enough. (Laughter.)"
+    ],
+    [
+     2843.93,
+     "MS. SULLIVAN",
+     "Yeah, pomegranate-blueberry-flavored"
+    ]
+   ]
+  }
+ ],
+ "quotes": [
+  "quite as unintelligent as POM must think they are",
+  "Don't make me feel bad because I thought that this was pomegranate juice",
+  "it's pomegranate-blueberry-flavored blend of five juices",
+  "He sometimes doesn't read closely enough"
+ ],
+ "silence_db": -45.8,
+ "opening_start": 7.48,
+ "opening": [
+  [
+   7.48,
+   "MR. WAXMAN",
+   "Mr. Chief Justice, and may it please the Court: The Lanham Act provides a remedy for businesses whose market is misappropriated by competitors that misrepresent the character of the goods they sell. This case presents an egregious violation of the law. Coca-Cola's label grossly misleads consumers , as Coke anticipated, but Coke says that it need not answer under the Lanham Act because its label is authorized by FDA regulations. The label is not, in fact, authorized for reasons we explain and with which the United States largely agrees, but even if it were consistent with FDA regulations that would not strip POM of its right to prove a willful Lanham Act violation. Courts are obligated to give full effect to Congressional enactments wherever possible. Here Congress has never precluded or conditioned enforcement of the Lanham Act in food labeling cases, and it is entirely possible, in fact, entirely easy for Coke to comply with both statutory obligations."
+  ],
+  [
+   78.94,
+   "JUSTICE SOTOMAYOR",
+   "If there is no private cause of action to enforce the FDA label standards, only the FDA can bring a proceeding to say that an ad violates its regulations, how does a Court below, without interpreting the regulations, go about deciding whether or not a particular ad doesn't comport with the regulations and hence would be subject to the Lanham Act?"
+  ],
+  [
+   111.84,
+   "MR. WAXMAN",
+   "Justice --"
+  ],
+  [
+   112.22,
+   "JUSTICE SOTOMAYOR",
+   "Maybe that's a better question for the SG, but I'm trying to figure out --"
+  ],
+  [
+   116.54,
+   "MR. WAXMAN",
+   "Well, let me take a shot at it and, you know, the SG can and Ms. Sullivan can, as well. There's no question under -- as this Court explained in Buckman, that there is no private cause of action to enforce provisions of the FDCA. Now, this Court in Buckman distinguished Medtronic v. Lohr, which provided and held -- and did not and save from preemption a state law that was- that imposed parallel requirements, and in that instance, and this is not a case involving an attempt to enforce parallel requirements under state law or any other law. In those circumstances, as the government explains, of course a court is going to be required to ascertain what those parallel requirements are, and whether they were or weren\u2019t complied with. But this is a case involving a different statute. Our submission is that it is entirely irrelevant whether or not the Coke label, in any particular, is consistent with a regulation that implements criminal"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2013/12-761",
+  "page_url": "https://www.oyez.org/cases/2013/12-761",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 12, 2014",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23528",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2013/12-761/20140612o_12-761.delivery.mp3",
+  "duration": 253.518256,
+  "mp3_bytes": 1121593,
+  "asr_elapsed_s": 121.5,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "speaker_turns": 2,
+  "speakers_inferred": 2,
+  "oyez_agree": [
+   539,
+   583,
+   581
+  ],
+  "diffs": [
+   [
+    1.86,
+    "",
+    "in"
+   ],
+   [
+    2.2,
+    "12 -761, Palm",
+    "12-761, POM"
+   ],
+   [
+    22.52,
+    "interests,",
+    "interest"
+   ],
+   [
+    64.36,
+    "Palm",
+    "POM"
+   ],
+   [
+    67.6,
+    "Palm",
+    "POM"
+   ],
+   [
+    73.08,
+    "Palm's",
+    "POM's"
+   ],
+   [
+    92.46,
+    "",
+    "-- on"
+   ],
+   [
+    96.05,
+    "",
+    "it --"
+   ],
+   [
+    100.86,
+    "",
+    "juice --"
+   ],
+   [
+    105.16,
+    "but 0 .3 percent",
+    "about 0.3%"
+   ],
+   [
+    108.48,
+    "0 .2 percent",
+    "0.2%"
+   ],
+   [
+    111.62,
+    "Palm",
+    "POM"
+   ],
+   [
+    114.32,
+    "Palm",
+    "POM"
+   ],
+   [
+    122.74,
+    "entrusts",
+    "entrust"
+   ],
+   [
+    133.7,
+    "Palm's",
+    "POM's"
+   ],
+   [
+    163.16,
+    "",
+    "-- it might well"
+   ],
+   [
+    163.66,
+    "a",
+    "the"
+   ],
+   [
+    165.38,
+    "these",
+    "the"
+   ],
+   [
+    185.16,
+    "interests",
+    "interest"
+   ],
+   [
+    229.8,
+    "",
+    "had"
+   ],
+   [
+    231.84,
+    "trick",
+    "tricked"
+   ],
+   [
+    242.9,
+    "Palm's",
+    "POM's"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 583,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy, has our opinion Case 12-761, Palm Wonderful v. The Coca-Cola Company?"
+   ],
+   [
+    7.34,
+    "JUSTICE KENNEDY",
+    "This is a case about the intersection of two Federal statutes. The first is the Lanham Act. The second is the Federal Food, Drug and Cosmetic Act, also known as the FDCA. The Lanham Act allows certain commercial interests, including competitors, to sue for unfair competition from false or misleading product descriptions. The FDCA, the second act, forbids the misbranding of food and beverages. This includes use, prohibition on use, of false or misleading labeling. There are regulations implementing the FDCA. These regulations include requirements regarding the labeling of beverages composed of multiple juices, referred to often as juice blends. Both parties in this case make juice blends. The Petitioner is Palm Wonderful LLC. Palm makes and sells a pomegranate blueberry juice blend. One of Palm's competitors is the respondent, the Coca-Cola Company. Coca-Cola's Minute Maid Division sells a juice blend with a label that displays the words pomegranate blueberry with far more prominence than the other words on the label. But on close reading, it's disclosed that the juice is a blend of five juices, and in truth, the Coca-Cola product contains but 0.3 percent pomegranate juice and 0.2 percent blueberry juice. Palm sued Coca-Cola under the Lanham Act. Palm alleged that the label for the Coca-Cola juice blend is deceptive and misleading. The Court of Appeals held that the FDCA entrusts matters of juice blending to the expert judgment of the Food and Drug Administration. That agency has not forbidden Coca-Cola's label. So the Court of Appeals for the Ninth Circuit held that Palm's Lanham Act claim is precluded or barred by the FDCA. The Court of Appeals' conclusion was incorrect. Neither the Lanham Act nor the FDCA in express terms forbids Lanham Act claims challenging labels that are regulated by the FDCA. The Lanham Act and the FDCA have coexisted since 1946. If Congress had concluded that Lanham Act suits could interfere with the FDCA, it might well have enacted a provision addressing the issue during these 70 years, and it has not done so. The structures of the FDCA and the Lanham Act reinforce the conclusion we draw from the text. The Lanham Act and the FDCA complement each other in major respects."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.32,
+    13
+   ],
+   [
+    "JUSTICE KENNEDY",
+    7.34,
+    252.86,
+    557
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  }
+ },
+ "case": "12-761",
+ "year": "2013",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2013/12-761",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/12-761.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2013/12-761_j5f1.pdf",
+ "model": "medium.en",
+ "duration": 3711.529796,
+ "asr_elapsed_s": 2231.7,
+ "asr_words": 9454,
+ "official_words": 9488,
+ "matched": 8954,
+ "shared": 4,
+ "clamped": 0,
+ "trimmed": 30,
+ "rewindowed": 1,
+ "match_rate": 94.37183811129849,
+ "turns": 159,
+ "laugh_markers": 2,
+ "mp3_bytes": 29692491,
+ "pauses": 334,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 204,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.37% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-02"
+}
