@@ -1,4 +1,8 @@
 {
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [],
+ "silence_db": -54.5,
  "opening_start": 7.4,
  "opening": [
   [
@@ -31,13 +35,13 @@
  "matched": 10119,
  "shared": 4,
  "clamped": 0,
- "trimmed": 13,
+ "trimmed": 16,
  "rewindowed": 1,
  "match_rate": 93.26267281105991,
  "turns": 276,
  "laugh_markers": 0,
  "mp3_bytes": 29584941,
- "pauses": 284,
+ "pauses": 287,
  "checks": {
   "time_order": {
    "ok": true,
@@ -55,5 +59,5 @@
    "detail": "93.26% (threshold 85%)"
   }
  },
- "generated": "2026-10-01"
+ "generated": "2026-10-02"
 }

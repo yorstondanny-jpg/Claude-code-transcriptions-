@@ -63,7 +63,9 @@ words, and the word is trimmed to what remains. If nothing remains it is left al
 citations such as `989.166(c)`. When the voiced audio falls in clusters split by a second or
 more of silence, the word keeps the first cluster if it starts within 0.3 s of the word's start
 (Whisper's starts are reliable; it stretches words into the pause after them), else the last
-cluster if it ends at the word's end, and is left alone otherwise. This trimmed 23 words.
+cluster if it ends at the word's end, and is left alone otherwise. When the only sound in the span
+is right at its start (or there's none), followed by a second or more of silence, the word is cut
+to that sound, at least 0.2 s from its start. This trimmed 26 words.
 
 Any word still longer than 3 s gets the audio 3 s either side of it re-transcribed on its own
 and that stretch of official words re-aligned to the fresh ASR. Without an hour of context,
@@ -75,6 +77,26 @@ matched word's ASR time changes.
 Regenerate with:
 
     python3 transcribe.py 08-1448 2010 brown-ema-videogames --model medium.en --opinion
+
+## The official laughs, measured in the audio
+
+Each `(Laughter.)` in the transcript, at the end of the word before it, with the 30 words before. The room is measured in the pause that follows, up to the next transcribed word: its length, how many seconds are 12 dB or more over the silence floor (-49.3 dBFS, the quietest 5% of the recording), and the mean and peak loudness over that floor. "Big" is at least 1 s loud at a mean of 20 dB or more; "medium" at least 0.4 s loud. "Under speech" means the next word starts within 0.3 s, so any laughter is under someone's voice and can't be measured this way: listen to those.
+
+| # | time | time (s) | size | pause (s) | loud (s) | mean dB over floor | peak dB over floor | 30 words before |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 0:01:48.120 | 108.120 | medium | 0.94 | 0.80 | 16.5 | 22.1 | norms. There are established norms of violence? Well, I think if we look back -- I mean, some of the Grimms' fairy tales are quite grim, to tell you the truth. |
+| 2 | 0:09:00.240 | 540.240 | medium | 1.52 | 1.35 | 18.9 | 30.0 | the standard of what the community believes an average minor. So the manufacturer would consider -- Because the average minor is halfway between 0 and 18, is that 9 years old? |
+| 3 | 0:11:50.920 | 710.920 | under speech | 0.28 | 0.05 | 17.4 | 21.7 | to know whether a particular violent game is covered or not? Well, Your Honor, if we look -- Would he convene his own jury and -- and try it before -- you know -- |
+| 4 | 0:13:59.780 | 839.780 | medium | 1.68 | 1.00 | 16.5 | 22.0 | are no consensus, no judicial opinions. And this is -- and this indicates to me the statute might be vague, and I just thought you'd like to know that -- that reaction. |
+| 5 | 0:16:08.780 | 968.780 | big | 3.96 | 3.40 | 23.5 | 34.1 | the partial nudity that this Court allowed States to regulate minors' access to -- Well, I think what Justice Scalia wants to know is what James Madison thought about video games. |
+| 6 | 0:21:48.460 | 1308.460 | small | 0.58 | 0.00 | 6.9 | 11.7 | Does California -- I gather that -- that if -- if the parents of the minor want the kid to watch this violent stuff, they like gore, they may even like violent kids -- |
+| 7 | 0:24:48.820 | 1488.820 | under speech | 0.00 | 0.00 | - | - | if -- if we can view the -- Do we let the government do that? Juries are not controllable. That's the wonderful thing about juries, also the worst thing about juries. But -- |
+| 8 | 0:27:53.100 | 1673.100 | under speech | 0.00 | 0.00 | - | - | for them to adjust the outer boundaries of the exception. But the material wasn't obscene. They were girlie magazines. I imagine to today's children they would seem rather tame -- Well -- |
+| 9 | 0:32:43.820 | 1963.820 | under speech | 0.00 | 0.00 | - | - | children to understand and know about? I mean, what's the difference between sex and violence? Both, if anything? There's a huge difference. The difference is -- Thank you. I understand that. |
+| 10 | 0:44:53.740 | 2693.740 | under speech | 0.04 | 0.00 | - | - | First Amendment test. Well, they make a feint at trying to argue that -- All right. Then let's -- to get you to focus on it, I'll say I've made the argument. |
+| 11 | 0:51:28.920 | 3088.920 | small | 1.00 | 0.10 | 10.6 | 17.1 | they do with cigarettes or something, isn't it? Except that cigarettes are not speech, Your Honor. This is fully protected speech. I know that cigarettes are not speech, Mr. Smith. |
+| 12 | 0:58:29.180 | 3509.180 | big | 1.14 | 1.00 | 24.8 | 31.9 | that Mortal Kombat -- which is, you know, an iconic game, which I'm sure half of the clerks who work for us spent considerable amounts of time in their adolescence playing. |
+| 13 | 0:58:32.720 | 3512.720 | big | 2.30 | 2.15 | 32.5 | 38.1 | game, which I'm sure half of the clerks who work for us spent considerable amounts of time in their adolescence playing. Justice Kagan -- I don't know what she's talking about. |
 
 ## Petitioner's opening, first 3 minutes
 
@@ -118,7 +140,8 @@ The justice reading the decision from the bench, Opinion Announcement - June 27,
   is against Oyez's unofficial transcript (below). Expect the odd misheard word, especially
   names and citations.
 - Speakers: from the turn boundaries in Oyez's own transcript (1 turn), each
-  boundary moved to the longest pause between words within 1.5 s of it. Oyez's wording is not
+  boundary moved to the longest pause within 1.5 s of it that follows the end of a sentence
+  (or the longest pause, if none does). Oyez's wording is not
   used, except where noted below.
 - Word times: Whisper's, with the same stretched-word trimming as the argument (1
   trimmed, 0 re-transcribed).

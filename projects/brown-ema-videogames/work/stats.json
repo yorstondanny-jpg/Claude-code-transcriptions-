@@ -1,6 +1,152 @@
 {
  "terms": [],
  "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 108.12,
+   "next": 109.06,
+   "speaker": "JUSTICE SCALIA",
+   "before": "norms. There are established norms of violence? Well, I think if we look back -- I mean, some of the Grimms' fairy tales are quite grim, to tell you the truth.",
+   "pause": 0.94,
+   "loud_s": 0.8,
+   "mean_over": 16.5,
+   "peak_over": 22.1,
+   "size": "medium"
+  },
+  {
+   "t": 540.24,
+   "next": 541.76,
+   "speaker": "JUSTICE SCALIA",
+   "before": "the standard of what the community believes an average minor. So the manufacturer would consider -- Because the average minor is halfway between 0 and 18, is that 9 years old?",
+   "pause": 1.52,
+   "loud_s": 1.35,
+   "mean_over": 18.9,
+   "peak_over": 30.0,
+   "size": "medium"
+  },
+  {
+   "t": 710.92,
+   "next": 711.2,
+   "speaker": "JUSTICE SCALIA",
+   "before": "to know whether a particular violent game is covered or not? Well, Your Honor, if we look -- Would he convene his own jury and -- and try it before -- you know --",
+   "pause": 0.28,
+   "loud_s": 0.05,
+   "mean_over": 17.4,
+   "peak_over": 21.7,
+   "size": "under speech"
+  },
+  {
+   "t": 839.78,
+   "next": 841.46,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "are no consensus, no judicial opinions. And this is -- and this indicates to me the statute might be vague, and I just thought you'd like to know that -- that reaction.",
+   "pause": 1.68,
+   "loud_s": 1.0,
+   "mean_over": 16.5,
+   "peak_over": 22.0,
+   "size": "medium"
+  },
+  {
+   "t": 968.78,
+   "next": 972.74,
+   "speaker": "JUSTICE ALITO",
+   "before": "the partial nudity that this Court allowed States to regulate minors' access to -- Well, I think what Justice Scalia wants to know is what James Madison thought about video games.",
+   "pause": 3.96,
+   "loud_s": 3.4,
+   "mean_over": 23.5,
+   "peak_over": 34.1,
+   "size": "big"
+  },
+  {
+   "t": 1308.46,
+   "next": 1309.04,
+   "speaker": "JUSTICE SCALIA",
+   "before": "Does California -- I gather that -- that if -- if the parents of the minor want the kid to watch this violent stuff, they like gore, they may even like violent kids --",
+   "pause": 0.58,
+   "loud_s": 0.0,
+   "mean_over": 6.9,
+   "peak_over": 11.7,
+   "size": "small"
+  },
+  {
+   "t": 1488.82,
+   "next": 1488.82,
+   "speaker": "JUSTICE SCALIA",
+   "before": "if -- if we can view the -- Do we let the government do that? Juries are not controllable. That's the wonderful thing about juries, also the worst thing about juries. But --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1673.1,
+   "next": 1673.1,
+   "speaker": "MR. SMITH",
+   "before": "for them to adjust the outer boundaries of the exception. But the material wasn't obscene. They were girlie magazines. I imagine to today's children they would seem rather tame -- Well --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1963.82,
+   "next": 1963.82,
+   "speaker": "JUSTICE BREYER",
+   "before": "children to understand and know about? I mean, what's the difference between sex and violence? Both, if anything? There's a huge difference. The difference is -- Thank you. I understand that.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2693.74,
+   "next": 2693.78,
+   "speaker": "JUSTICE BREYER",
+   "before": "First Amendment test. Well, they make a feint at trying to argue that -- All right. Then let's -- to get you to focus on it, I'll say I've made the argument.",
+   "pause": 0.04,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3088.92,
+   "next": 3089.92,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "they do with cigarettes or something, isn't it? Except that cigarettes are not speech, Your Honor. This is fully protected speech. I know that cigarettes are not speech, Mr. Smith.",
+   "pause": 1.0,
+   "loud_s": 0.1,
+   "mean_over": 10.6,
+   "peak_over": 17.1,
+   "size": "small"
+  },
+  {
+   "t": 3509.18,
+   "next": 3510.32,
+   "speaker": "JUSTICE KAGAN",
+   "before": "that Mortal Kombat -- which is, you know, an iconic game, which I'm sure half of the clerks who work for us spent considerable amounts of time in their adolescence playing.",
+   "pause": 1.14,
+   "loud_s": 1.0,
+   "mean_over": 24.8,
+   "peak_over": 31.9,
+   "size": "big"
+  },
+  {
+   "t": 3512.72,
+   "next": 3515.02,
+   "speaker": "JUSTICE SCALIA",
+   "before": "game, which I'm sure half of the clerks who work for us spent considerable amounts of time in their adolescence playing. Justice Kagan -- I don't know what she's talking about.",
+   "pause": 2.3,
+   "loud_s": 2.15,
+   "mean_over": 32.5,
+   "peak_over": 38.1,
+   "size": "big"
+  }
+ ],
+ "silence_db": -49.3,
  "opening_start": 12.28,
  "opening": [
   [
@@ -312,13 +458,13 @@
  "matched": 9932,
  "shared": 5,
  "clamped": 0,
- "trimmed": 23,
+ "trimmed": 26,
  "rewindowed": 1,
  "match_rate": 93.80430676237249,
  "turns": 297,
  "laugh_markers": 13,
  "mp3_bytes": 29091048,
- "pauses": 415,
+ "pauses": 419,
  "checks": {
   "time_order": {
    "ok": true,
@@ -336,5 +482,5 @@
    "detail": "93.80% (threshold 85%)"
   }
  },
- "generated": "2026-10-01"
+ "generated": "2026-10-02"
 }

@@ -1,4 +1,86 @@
 {
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 378.54,
+   "next": 379.38,
+   "speaker": "MR. MCCONNELL",
+   "before": "yes. Well, so I guess what Justice Sotomayor's question is is why wouldn't the same be true as to raisins? Because raisins are not wild animals, even if they're dancing --",
+   "pause": 0.84,
+   "loud_s": 0.2,
+   "mean_over": 16.1,
+   "peak_over": 23.5,
+   "size": "small"
+  },
+  {
+   "t": 1789.46,
+   "next": 1789.46,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "Central. This is different. This is different because you come up with the truck and you get the shovels and you take their raisins, probably in the dark of night.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2387.84,
+   "next": 2388.24,
+   "speaker": "JUSTICE SCALIA",
+   "before": "government can prohibit the -- the introduction of harmful pesticides into interstate commerce. I'm not sure it can prohibit the introduction of raisins. I mean, that's a -- you know, dangerous raisins.",
+   "pause": 0.4,
+   "loud_s": 0.0,
+   "mean_over": 7.5,
+   "peak_over": 9.2,
+   "size": "small"
+  },
+  {
+   "t": 3177.7,
+   "next": 3178.2,
+   "speaker": "JUSTICE KAGAN",
+   "before": "is a sensible program for you to prevail, do you? No, we do not. The question -- I mean, we could think that this is a ridiculous program; isn't that right?",
+   "pause": 0.5,
+   "loud_s": 0.0,
+   "mean_over": 9.5,
+   "peak_over": 11.0,
+   "size": "small"
+  },
+  {
+   "t": 3194.7,
+   "next": 3194.7,
+   "speaker": "JUSTICE SCALIA",
+   "before": "every grower since 1949 has had a per se takings. Mr. Kneedler, I'd like to get you -- It doesn't help your case that it's ridiculous, though. You -- you acknowledge that.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3655.2,
+   "next": 3660.74,
+   "speaker": "MR. MCCONNELL",
+   "before": "unusual. Mr. McConnell, this is probably neither here nor there, but what has the impact of the drought been on the raisin producers? Do you know? It is not good.",
+   "pause": 5.54,
+   "loud_s": 4.95,
+   "mean_over": 21.2,
+   "peak_over": 29.0,
+   "size": "big"
+  },
+  {
+   "t": 3662.56,
+   "next": 3662.56,
+   "speaker": "JUSTICE SCALIA",
+   "before": "is probably neither here nor there, but what has the impact of the drought been on the raisin producers? Do you know? It is not good. Very carefully guarded response.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "silence_db": -40.8,
  "opening_start": 7.7,
  "opening": [
   [
@@ -96,5 +178,5 @@
    "detail": "90.52% (threshold 85%)"
   }
  },
- "generated": "2026-10-01"
+ "generated": "2026-10-02"
 }

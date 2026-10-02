@@ -1,4 +1,31 @@
 {
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 2027.33,
+   "next": 2027.33,
+   "speaker": "JUSTICE BREYER",
+   "before": "practical capability means that there must -- this must really have as a function, as one of its functions -- I'd like to say purpose, but some people apparently don't like that --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2175.17,
+   "next": 2176.13,
+   "speaker": "JUSTICE BREYER",
+   "before": "want to come up with that will get rid of all the absurd examples that are lurking in the back of my mind, which I will avoid -- and yet include --",
+   "pause": 0.96,
+   "loud_s": 0.3,
+   "mean_over": 13.4,
+   "peak_over": 19.7,
+   "size": "small"
+  }
+ ],
+ "silence_db": -47.2,
  "opening_start": 10.44,
  "opening": [
   [
@@ -120,5 +147,5 @@
    "detail": "95.26% (threshold 85%)"
   }
  },
- "generated": "2026-10-01"
+ "generated": "2026-10-02"
 }

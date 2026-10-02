@@ -64,7 +64,9 @@ words, and the word is trimmed to what remains. If nothing remains it is left al
 citations such as `989.166(c)`. When the voiced audio falls in clusters split by a second or
 more of silence, the word keeps the first cluster if it starts within 0.3 s of the word's start
 (Whisper's starts are reliable; it stretches words into the pause after them), else the last
-cluster if it ends at the word's end, and is left alone otherwise. This trimmed 13 words.
+cluster if it ends at the word's end, and is left alone otherwise. When the only sound in the span
+is right at its start (or there's none), followed by a second or more of silence, the word is cut
+to that sound, at least 0.2 s from its start. This trimmed 13 words.
 
 Any word still longer than 3 s gets the audio 3 s either side of it re-transcribed on its own
 and that stretch of official words re-aligned to the fresh ASR. Without an hour of context,
@@ -76,6 +78,20 @@ matched word's ASR time changes.
 Regenerate with:
 
     python3 transcribe.py 14-275 2014 horne-raisins --model medium.en
+
+## The official laughs, measured in the audio
+
+Each `(Laughter.)` in the transcript, at the end of the word before it, with the 30 words before. The room is measured in the pause that follows, up to the next transcribed word: its length, how many seconds are 12 dB or more over the silence floor (-40.8 dBFS, the quietest 5% of the recording), and the mean and peak loudness over that floor. "Big" is at least 1 s loud at a mean of 20 dB or more; "medium" at least 0.4 s loud. "Under speech" means the next word starts within 0.3 s, so any laughter is under someone's voice and can't be measured this way: listen to those.
+
+| # | time | time (s) | size | pause (s) | loud (s) | mean dB over floor | peak dB over floor | 30 words before |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 0:06:18.540 | 378.540 | small | 0.84 | 0.20 | 16.1 | 23.5 | yes. Well, so I guess what Justice Sotomayor's question is is why wouldn't the same be true as to raisins? Because raisins are not wild animals, even if they're dancing -- |
+| 2 | 0:29:49.460 | 1789.460 | under speech | 0.00 | 0.00 | - | - | Central. This is different. This is different because you come up with the truck and you get the shovels and you take their raisins, probably in the dark of night. |
+| 3 | 0:39:47.840 | 2387.840 | small | 0.40 | 0.00 | 7.5 | 9.2 | government can prohibit the -- the introduction of harmful pesticides into interstate commerce. I'm not sure it can prohibit the introduction of raisins. I mean, that's a -- you know, dangerous raisins. |
+| 4 | 0:52:57.700 | 3177.700 | small | 0.50 | 0.00 | 9.5 | 11.0 | is a sensible program for you to prevail, do you? No, we do not. The question -- I mean, we could think that this is a ridiculous program; isn't that right? |
+| 5 | 0:53:14.700 | 3194.700 | under speech | 0.00 | 0.00 | - | - | every grower since 1949 has had a per se takings. Mr. Kneedler, I'd like to get you -- It doesn't help your case that it's ridiculous, though. You -- you acknowledge that. |
+| 6 | 1:00:55.200 | 3655.200 | big | 5.54 | 4.95 | 21.2 | 29.0 | unusual. Mr. McConnell, this is probably neither here nor there, but what has the impact of the drought been on the raisin producers? Do you know? It is not good. |
+| 7 | 1:01:02.560 | 3662.560 | under speech | 0.00 | 0.00 | - | - | is probably neither here nor there, but what has the impact of the drought been on the raisin producers? Do you know? It is not good. Very carefully guarded response. |
 
 ## Petitioner's opening, first 3 minutes
 

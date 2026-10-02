@@ -63,7 +63,9 @@ words, and the word is trimmed to what remains. If nothing remains it is left al
 citations such as `989.166(c)`. When the voiced audio falls in clusters split by a second or
 more of silence, the word keeps the first cluster if it starts within 0.3 s of the word's start
 (Whisper's starts are reliable; it stretches words into the pause after them), else the last
-cluster if it ends at the word's end, and is left alone otherwise. This trimmed 16 words.
+cluster if it ends at the word's end, and is left alone otherwise. When the only sound in the span
+is right at its start (or there's none), followed by a second or more of silence, the word is cut
+to that sound, at least 0.2 s from its start. This trimmed 16 words.
 
 Any word still longer than 3 s gets the audio 3 s either side of it re-transcribed on its own
 and that stretch of official words re-aligned to the fresh ASR. Without an hour of context,
@@ -75,6 +77,15 @@ matched word's ASR time changes.
 Regenerate with:
 
     python3 transcribe.py 11-626 2012 lozman-house --model medium.en
+
+## The official laughs, measured in the audio
+
+Each `(Laughter.)` in the transcript, at the end of the word before it, with the 30 words before. The room is measured in the pause that follows, up to the next transcribed word: its length, how many seconds are 12 dB or more over the silence floor (-47.2 dBFS, the quietest 5% of the recording), and the mean and peak loudness over that floor. "Big" is at least 1 s loud at a mean of 20 dB or more; "medium" at least 0.4 s loud. "Under speech" means the next word starts within 0.3 s, so any laughter is under someone's voice and can't be measured this way: listen to those.
+
+| # | time | time (s) | size | pause (s) | loud (s) | mean dB over floor | peak dB over floor | 30 words before |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 0:33:47.330 | 2027.330 | under speech | 0.00 | 0.00 | - | - | practical capability means that there must -- this must really have as a function, as one of its functions -- I'd like to say purpose, but some people apparently don't like that -- |
+| 2 | 0:36:15.170 | 2175.170 | small | 0.96 | 0.30 | 13.4 | 19.7 | want to come up with that will get rid of all the absurd examples that are lurking in the back of my mind, which I will avoid -- and yet include -- |
 
 ## Petitioner's opening, first 3 minutes
 

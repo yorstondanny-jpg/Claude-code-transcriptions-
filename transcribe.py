@@ -408,9 +408,21 @@ def trim_stretched(spoken, voiced, max_len=STRETCH_S, edge=0.3):
         s, e = o["s"], o["e"]
         if e - s <= max_len or is_citation(o["w"]):
             continue
-        runs = [r for r in voiced_runs(voiced, s, e)
-                if not (r[1] <= s + edge or r[0] >= e - edge)]
+        all_runs = voiced_runs(voiced, s, e)
+        runs = [r for r in all_runs if not (r[1] <= s + edge or r[0] >= e - edge)]
         if not runs:
+            # only blips at the edges (or none): if a second or more of silence follows the
+            # word's start, the word is the short, quiet sound right there, not bleed, and the
+            # rest of the span is a pause; keep at least 0.2 s from the start
+            head = [r for r in all_runs if r[1] <= s + edge]
+            rest = [r for r in all_runs if r[0] > s + edge]
+            gap_start = head[-1][1] if head else s
+            gap_end = rest[0][0] if rest else e
+            if gap_end - gap_start >= 1.0:
+                ne = max(gap_start, s + 0.2)
+                if ne < e:
+                    o["e"] = round(float(ne), 3)
+                    trimmed += 1
             continue
         # voiced audio split by a second or more of silence: Whisper's word starts are the reliable
         # edge (it stretches words into the pause after them), so keep the first cluster if it
@@ -916,9 +928,12 @@ def process_opinion(case, year, root, work, model_name):
     # 1.5 s of it, then every word takes the speaker of the turn it falls in.
     cuts = []
     for t in turns[1:]:
-        gaps = [(words[k]["s"] - words[k - 1]["e"], k) for k in range(1, len(words))
+        # prefer a pause after a sentence end ("v." doesn't count), then the longest pause
+        ends = lambda w: (bool(re.search(r"[.?!][\"')]*$", w)) and
+                          re.sub(r"[\"')]+$", "", w.lower()) not in ABBREV)
+        gaps = [(ends(words[k - 1]["w"]), words[k]["s"] - words[k - 1]["e"], k) for k in range(1, len(words))
                 if abs((words[k - 1]["e"] + words[k]["s"]) / 2 - t["s"]) <= 1.5]
-        cuts.append(max(gaps)[1] if gaps else
+        cuts.append(max(gaps)[2] if gaps else
                     next((k for k, w in enumerate(words) if w["s"] >= t["s"]), len(words)))
     for k, w in enumerate(words):
         w["speaker"] = turns[sum(1 for c in cuts if k >= c)]["speaker"] if turns else "UNKNOWN"
@@ -1056,7 +1071,9 @@ words, and the word is trimmed to what remains. If nothing remains it is left al
 citations such as `989.166(c)`. When the voiced audio falls in clusters split by a second or
 more of silence, the word keeps the first cluster if it starts within 0.3 s of the word's start
 (Whisper's starts are reliable; it stretches words into the pause after them), else the last
-cluster if it ends at the word's end, and is left alone otherwise. This trimmed {st['trimmed']} words.
+cluster if it ends at the word's end, and is left alone otherwise. When the only sound in the span
+is right at its start (or there's none), followed by a second or more of silence, the word is cut
+to that sound, at least 0.2 s from its start. This trimmed {st['trimmed']} words.
 
 Any word still longer than 3 s gets the audio 3 s either side of it re-transcribed on its own
 and that stretch of official words re-aligned to the fresh ASR. Without an hour of context,
@@ -1135,7 +1152,8 @@ def readme_extras(st):
   is against Oyez's unofficial transcript (below). Expect the odd misheard word, especially
   names and citations.
 - Speakers: from the turn boundaries in Oyez's own transcript ({op['speaker_turns']} turn{'s' if op['speaker_turns'] != 1 else ''}), each
-  boundary moved to the longest pause between words within 1.5 s of it. Oyez's wording is not
+  boundary moved to the longest pause within 1.5 s of it that follows the end of a sentence
+  (or the longest pause, if none does). Oyez's wording is not
   used, except where noted below.
 - Word times: Whisper's, with the same stretched-word trimming as the argument ({op['trimmed']}
   trimmed, {op['rewindowed']} re-transcribed).

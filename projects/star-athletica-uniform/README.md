@@ -63,7 +63,9 @@ words, and the word is trimmed to what remains. If nothing remains it is left al
 citations such as `989.166(c)`. When the voiced audio falls in clusters split by a second or
 more of silence, the word keeps the first cluster if it starts within 0.3 s of the word's start
 (Whisper's starts are reliable; it stretches words into the pause after them), else the last
-cluster if it ends at the word's end, and is left alone otherwise. This trimmed 13 words.
+cluster if it ends at the word's end, and is left alone otherwise. When the only sound in the span
+is right at its start (or there's none), followed by a second or more of silence, the word is cut
+to that sound, at least 0.2 s from its start. This trimmed 16 words.
 
 Any word still longer than 3 s gets the audio 3 s either side of it re-transcribed on its own
 and that stretch of official words re-aligned to the fresh ASR. Without an hour of context,

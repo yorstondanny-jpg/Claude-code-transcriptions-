@@ -1,0 +1,1055 @@
+{
+ "terms": [
+  "medal",
+  "Medal of Honor",
+  "Congressional",
+  "hockey",
+  "Red Wings",
+  "married",
+  "starlet",
+  "dating",
+  "date",
+  "daughter",
+  "lie",
+  "lying",
+  "liar",
+  "shame",
+  "valor",
+  "Alvarez"
+ ],
+ "mentions": [
+  [
+   6.34,
+   "CHIEF JUSTICE ROBERTS",
+   "Alvarez",
+   "We'll hear argument first this morning in Case 11-210, United States v. Alvarez.",
+   1
+  ],
+  [
+   28.2,
+   "GENERAL VERRILLI",
+   "valor",
+   "The Stolen Valor Act continues that tradition by prohibiting knowingly false statements that one has been awarded a military honor.",
+   1
+  ],
+  [
+   92.04,
+   "JUSTICE SOTOMAYOR",
+   "medal",
+   "Is that person -- if he's not a veteran having received a medal, is he liable under this Act?",
+   1
+  ],
+  [
+   249.72,
+   "GENERAL VERRILLI",
+   "valor",
+   "Those are substantial constraints, but they are substantial constraints that are satisfied in this case because the Stolen Valor Act regulates a very narrowly drawn and specific category of calculated factual falsehood, a verifiably false claim that an individual has won a military honor, and that's information that is within you, and only punishes speech about yourself.",
+   1
+  ],
+  [
+   486.9,
+   "JUSTICE KENNEDY",
+   "medal",
+   "Here it does seem to me that you can argue that this is something like a -- a trademark, a medal in which this -- the government and the armed forces have a particular interest, and we could carve out a narrow exception for that.",
+   1
+  ],
+  [
+   781.9,
+   "GENERAL VERRILLI",
+   "valor",
+   "And, of course, with respect to the Stolen Valor Act, the -- Congress -- Congress is building the Stolen Valor Act on a statute that Congress enacted in 1923 which prohibited the -- the wearing of medals without justification to wear the medals.",
+   2
+  ],
+  [
+   793.72,
+   "GENERAL VERRILLI",
+   "medal",
+   "And, of course, with respect to the Stolen Valor Act, the -- Congress -- Congress is building the Stolen Valor Act on a statute that Congress enacted in 1923 which prohibited the -- the wearing of medals without justification to wear the medals.",
+   2
+  ],
+  [
+   849.54,
+   "JUSTICE ALITO",
+   "medal",
+   "Suppose the statute also made it a crime to represent falsely that someone else was the recipient of a military medal, so that if someone said falsely and knowingly that a spouse or a parent or a child was a medal recipient, that would also be covered.",
+   2
+  ],
+  [
+   925.78,
+   "GENERAL VERRILLI",
+   "medal",
+   "You have to answer the question in that case of whether there was a material risk of deterring expression that's truthful because what -- who knows whether your grandfather was telling the truth when he -- when he said he won the medal.",
+   1
+  ],
+  [
+   941.04,
+   "JUSTICE GINSBURG",
+   "medal",
+   "That was -- and that it's not so hard to find out if somebody claims to have the Medal of Honor and he doesn't.",
+   1
+  ],
+  [
+   941.04,
+   "JUSTICE GINSBURG",
+   "Medal of Honor",
+   "That was -- and that it's not so hard to find out if somebody claims to have the Medal of Honor and he doesn't.",
+   1
+  ],
+  [
+   1017.51,
+   "GENERAL VERRILLI",
+   "medal",
+   "This is a pinpoint accuracy, a specific verifiable factual claim about yourself, that you've won a medal.",
+   1
+  ],
+  [
+   1134.76,
+   "JUSTICE KAGAN",
+   "medal",
+   "-- just about your qualifications, about what you've done in your life, your -- you know, whether you have a Medal of Honor, whether you've been in military service, whether you've been to college.",
+   1
+  ],
+  [
+   1134.76,
+   "JUSTICE KAGAN",
+   "Medal of Honor",
+   "-- just about your qualifications, about what you've done in your life, your -- you know, whether you have a Medal of Honor, whether you've been in military service, whether you've been to college.",
+   1
+  ],
+  [
+   1192.56,
+   "JUSTICE KAGAN",
+   "lie",
+   "Well, I assume that that would be, in the case of these State statutes, because the State feels that it has a specially important interest in maintaining the political sphere free of lies.",
+   1
+  ],
+  [
+   1229.7,
+   "JUSTICE SCALIA",
+   "lying",
+   "I suppose that even in the commercial context we allow a decent amount of lying, don't we?",
+   1
+  ],
+  [
+   1332.88,
+   "JUSTICE KENNEDY",
+   "medal",
+   "On the other hand, I have to acknowledge that this does diminish the medal in many respects.",
+   1
+  ],
+  [
+   1377.36,
+   "JUSTICE SOTOMAYOR",
+   "medal",
+   "Wouldn't take much to do exactly what Congress said it was doing, which was to protect against fraudulent claims of receiving a medal, and the example it used was someone who used a fraudulent claim of receiving a medal to get money.",
+   2
+  ],
+  [
+   1422.82,
+   "JUSTICE SOTOMAYOR",
+   "medal",
+   "If that is the core of our First Amendment, what I hear, and that's what I think the court below said, is you can't really believe that a war veteran thinks less of the medal that he or she received because someone's claiming fraudulently that they got one.",
+   1
+  ],
+  [
+   1431.42,
+   "JUSTICE SOTOMAYOR",
+   "medal",
+   "They don't think less of the medal.",
+   1
+  ],
+  [
+   1459.56,
+   "JUSTICE SOTOMAYOR",
+   "dating",
+   "I too take offense when people make these kinds of claims, but I take offense when someone I'm dating makes a claim that's not true.",
+   1
+  ],
+  [
+   1464.86,
+   "GENERAL VERRILLI",
+   "daughter",
+   "And as -- as the father of a 20-year-old daughter, so do I, Justice Sotomayor.",
+   1
+  ],
+  [
+   1480.76,
+   "GENERAL VERRILLI",
+   "medal",
+   "I mean, at some level, of course, it is true that no soldier charges up Mount Suribachi thinking, well, I'm going to do this because I'll get a medal if I get to the top.",
+   1
+  ],
+  [
+   1485.3,
+   "JUSTICE SOTOMAYOR",
+   "medal",
+   "Or I'm not going to do this because the medal has been debased.",
+   1
+  ],
+  [
+   1506.3,
+   "GENERAL VERRILLI",
+   "medal",
+   "And what the medals do is say to the -- to our military this is what we care about.",
+   1
+  ],
+  [
+   1532.24,
+   "GENERAL VERRILLI",
+   "medal",
+   "And I -- what I think with respect to the government's interest here and why there is a harm to that interest is that the point of these medals is that it's a big deal.",
+   1
+  ],
+  [
+   1546.6,
+   "GENERAL VERRILLI",
+   "medal",
+   "And for the government to say this is a really big deal and then to stand idly by when one charlatan after another makes a false claim to have won the medal does debase the value of the medal in the eyes of the soldiers.",
+   2
+  ],
+  [
+   1572.4,
+   "JUSTICE SOTOMAYOR",
+   "lying",
+   "His public position was compromised, as is the case with almost everyone who's caught at lying.",
+   1
+  ],
+  [
+   1644.26,
+   "MR. LIBBY",
+   "valor",
+   "Thank you, Mr. Chief Justice, and may it please the Court: The Stolen Valor Act criminalizes pure speech in the form of bare falsity, a mere telling of a lie.",
+   1
+  ],
+  [
+   1649.86,
+   "MR. LIBBY",
+   "lie",
+   "Thank you, Mr. Chief Justice, and may it please the Court: The Stolen Valor Act criminalizes pure speech in the form of bare falsity, a mere telling of a lie.",
+   1
+  ],
+  [
+   1651.88,
+   "MR. LIBBY",
+   "lie",
+   "It doesn't matter whether the lie was told in a public meeting or in a private conversation with a friend or family member.",
+   1
+  ],
+  [
+   1671.02,
+   "CHIEF JUSTICE ROBERTS",
+   "lie",
+   "What is -- what is the First Amendment value in a lie, a pure lie?",
+   2
+  ],
+  [
+   1674.26,
+   "MR. LIBBY",
+   "lie",
+   "Just a pure lie?",
+   1
+  ],
+  [
+   1687.5,
+   "CHIEF JUSTICE ROBERTS",
+   "lie",
+   "No, not exaggerate -- lie.",
+   1
+  ],
+  [
+   1715.64,
+   "CHIEF JUSTICE ROBERTS",
+   "medal",
+   "No one is suggesting you can't write a book or tell a story about somebody who earned a Medal of Honor, and it's a fictional character; so, he obviously didn't.",
+   1
+  ],
+  [
+   1715.64,
+   "CHIEF JUSTICE ROBERTS",
+   "Medal of Honor",
+   "No one is suggesting you can't write a book or tell a story about somebody who earned a Medal of Honor, and it's a fictional character; so, he obviously didn't.",
+   1
+  ],
+  [
+   1725.68,
+   "MR. LIBBY",
+   "lie",
+   "But there are other things, in addition to the fact that people tell lies allows us to appreciate truth better.",
+   1
+  ],
+  [
+   1734.58,
+   "JUSTICE ALITO",
+   "lie",
+   "Do you really think that there is -- that the First Amendment -- that there is First Amendment value in a bald-faced lie about a purely factual statement that a person makes about himself, because that person would like to create a particular persona?",
+   1
+  ],
+  [
+   1745.24,
+   "JUSTICE ALITO",
+   "medal",
+   "Gee, I won the Medal of Honor.",
+   1
+  ],
+  [
+   1745.24,
+   "JUSTICE ALITO",
+   "Medal of Honor",
+   "Gee, I won the Medal of Honor.",
+   1
+  ],
+  [
+   1765.92,
+   "MR. LIBBY",
+   "lie",
+   "Well, that's right, and that's certainly a beneficial lie.",
+   1
+  ],
+  [
+   1778.76,
+   "CHIEF JUSTICE ROBERTS",
+   "valor",
+   "It seems to me that the Stolen Valor Act is more narrow than that.",
+   1
+  ],
+  [
+   1803.92,
+   "MR. LIBBY",
+   "valor",
+   "Well, perhaps, just dealing with an example under the Stolen Valor Act, if a grandfather were to make up a story that he had won a medal in order to persuade a grandchild to --",
+   1
+  ],
+  [
+   1809.26,
+   "MR. LIBBY",
+   "medal",
+   "Well, perhaps, just dealing with an example under the Stolen Valor Act, if a grandfather were to make up a story that he had won a medal in order to persuade a grandchild to --",
+   1
+  ],
+  [
+   1925.36,
+   "MR. LIBBY",
+   "lie",
+   "Whether it in fact causes that direct harm, there's still a significant risk of imminent harm resulting from telling a lie to a government investigator.",
+   1
+  ],
+  [
+   2022.56,
+   "JUSTICE KENNEDY",
+   "medal",
+   "Well, it's a matter -- it's a matter of common sense that it, it seems to me -- that it demeans the medal.",
+   1
+  ],
+  [
+   2029.32,
+   "JUSTICE KENNEDY",
+   "medal",
+   "Let me ask you this: What do you do with the statute that prohibits the wearing of a medal that has not been earned?",
+   1
+  ],
+  [
+   2032.28,
+   "MR. LIBBY",
+   "medal",
+   "Wearing medals is a slightly different category because there you're dealing with conduct rather than content.",
+   1
+  ],
+  [
+   2059.14,
+   "MR. LIBBY",
+   "medal",
+   "It may be or it may be in doubt under certain situations where one is wearing a medal.",
+   1
+  ],
+  [
+   2065.995,
+   "MR. LIBBY",
+   "medal",
+   "But certainly Congress has an interest in protecting non-expressive purposes of wearing the medals.",
+   1
+  ],
+  [
+   2071.24,
+   "JUSTICE KENNEDY",
+   "medal",
+   "But I think it is, if the whole purpose of the person who puts the medal on his tuxedo that he didn't earn is an expressive purpose.",
+   1
+  ],
+  [
+   2093.5,
+   "JUSTICE GINSBURG",
+   "medal",
+   "You wear the medal and you're saying I am a Medal of Honor winner.",
+   2
+  ],
+  [
+   2096.14,
+   "JUSTICE GINSBURG",
+   "Medal of Honor",
+   "You wear the medal and you're saying I am a Medal of Honor winner.",
+   1
+  ],
+  [
+   2130.36,
+   "JUSTICE GINSBURG",
+   "medal",
+   "Where you go out in the street with the -- with the medal on you for everybody to see.",
+   1
+  ],
+  [
+   2142.62,
+   "MR. LIBBY",
+   "medal",
+   "If -- if there's -- if Congress does not have a non-speech purpose for prohibiting the wearing of the medals, then if it's strictly an expressive purpose, then, yes, there would be a significant First Amendment problem.",
+   1
+  ],
+  [
+   2275.7,
+   "MR. LIBBY",
+   "lie",
+   "Well, when one lies to a government investigator, presumably you're doing it in order to send them in the wrong direction, even if it doesn't do that.",
+   1
+  ],
+  [
+   2344.74,
+   "MR. LIBBY",
+   "medal",
+   "I mean, it's -- we certainly concede that one typically knows whether or not one has won a medal or not.",
+   1
+  ],
+  [
+   2402.25,
+   "JUSTICE GINSBURG",
+   "lie",
+   "It's just a bald-faced lie.",
+   1
+  ],
+  [
+   2586.92,
+   "JUSTICE SOTOMAYOR",
+   "medal",
+   "So, why isn't the outrage that medal winners, legitimately entitled medal winners, experience in seeing fake people or hearing fake people claim a medal -- why isn't that comparable?",
+   3
+  ],
+  [
+   2644.3,
+   "MR. LIBBY",
+   "Alvarez",
+   "Now, what the Government has suggested is that there's no harm that really results from a single claim, that Mr. Alvarez's falsehood did not cause harm to any individual.",
+   1
+  ],
+  [
+   2702.0,
+   "JUSTICE BREYER",
+   "medal",
+   "Because, after all, we're willing to protect the Olympics Committee when a false person saying he's the Olympics Committee might deprive the Olympics Committee of a penny, while here they're saying that to win this great medal, say, the congressional Medal of Honor, the highest award in the military the nation can give, you're deserving of the most possible, grandest possible respect, and we don't -- we don't even want you to have to think about somebody having taken that name falsely; and so, we will just criminalize it to discourage such activity that undermines the very thought and purpose of giving the medal.",
+   3
+  ],
+  [
+   2703.38,
+   "JUSTICE BREYER",
+   "Congressional",
+   "Because, after all, we're willing to protect the Olympics Committee when a false person saying he's the Olympics Committee might deprive the Olympics Committee of a penny, while here they're saying that to win this great medal, say, the congressional Medal of Honor, the highest award in the military the nation can give, you're deserving of the most possible, grandest possible respect, and we don't -- we don't even want you to have to think about somebody having taken that name falsely; and so, we will just criminalize it to discourage such activity that undermines the very thought and purpose of giving the medal.",
+   1
+  ],
+  [
+   2703.88,
+   "JUSTICE BREYER",
+   "Medal of Honor",
+   "Because, after all, we're willing to protect the Olympics Committee when a false person saying he's the Olympics Committee might deprive the Olympics Committee of a penny, while here they're saying that to win this great medal, say, the congressional Medal of Honor, the highest award in the military the nation can give, you're deserving of the most possible, grandest possible respect, and we don't -- we don't even want you to have to think about somebody having taken that name falsely; and so, we will just criminalize it to discourage such activity that undermines the very thought and purpose of giving the medal.",
+   1
+  ],
+  [
+   2773.52,
+   "MR. LIBBY",
+   "lie",
+   "If someone tells a lie about having received an honor, there's time for them to be exposed.",
+   1
+  ],
+  [
+   2792.74,
+   "JUSTICE SCALIA",
+   "lie",
+   "You know, when there's a sanction in place, you think twice before you tell the lie.",
+   1
+  ],
+  [
+   2803.28,
+   "JUSTICE SCALIA",
+   "lie",
+   "That sanction already exists, and there are a lot of people nonetheless who tell the lie.",
+   1
+  ],
+  [
+   2851.0,
+   "JUSTICE BREYER",
+   "lying",
+   "Is there anything else -- that the threat of criminal prosecution might discourage from lying who would never be caught.",
+   1
+  ],
+  [
+   2878.62,
+   "JUSTICE BREYER",
+   "medal",
+   "My theory is that it does hurt the medal, the purpose, the objective, the honor, for people falsely to go around saying that they have this medal when they don't.",
+   2
+  ],
+  [
+   2910.3,
+   "MR. LIBBY",
+   "Congressional",
+   "There was a congressional hearing that suggested that the military has been a little lax in identifying true heroes and awarding them medals.",
+   1
+  ],
+  [
+   2916.54,
+   "MR. LIBBY",
+   "medal",
+   "There was a congressional hearing that suggested that the military has been a little lax in identifying true heroes and awarding them medals.",
+   1
+  ],
+  [
+   2931.5,
+   "JUSTICE SCALIA",
+   "medal",
+   "How about giving a medal of shame to those who have falsely claimed to have earned the medal of valor?",
+   2
+  ],
+  [
+   2932.0,
+   "JUSTICE SCALIA",
+   "shame",
+   "How about giving a medal of shame to those who have falsely claimed to have earned the medal of valor?",
+   1
+  ],
+  [
+   2936.7,
+   "JUSTICE SCALIA",
+   "valor",
+   "How about giving a medal of shame to those who have falsely claimed to have earned the medal of valor?",
+   1
+  ],
+  [
+   2951.16,
+   "CHIEF JUSTICE ROBERTS",
+   "medal",
+   "I mean, it -- I mean, it's still a sanction for telling something that you say is protected under the First Amendment, whether you get 6 months or a medal of shame doesn't matter under your theory.",
+   1
+  ],
+  [
+   2951.42,
+   "CHIEF JUSTICE ROBERTS",
+   "shame",
+   "I mean, it -- I mean, it's still a sanction for telling something that you say is protected under the First Amendment, whether you get 6 months or a medal of shame doesn't matter under your theory.",
+   1
+  ],
+  [
+   2964.4,
+   "MR. LIBBY",
+   "liar",
+   "Well, there is a significant difference between a criminal sanction that puts someone in prison versus simply exposing them for what they are, which is a liar.",
+   1
+  ],
+  [
+   2966.74,
+   "MR. LIBBY",
+   "Alvarez",
+   "And Mr. Alvarez -- whether or not he in fact was sentenced to a crime, he still was exposed for who he was, which was a liar.",
+   1
+  ],
+  [
+   2975.74,
+   "MR. LIBBY",
+   "liar",
+   "And Mr. Alvarez -- whether or not he in fact was sentenced to a crime, he still was exposed for who he was, which was a liar.",
+   1
+  ],
+  [
+   3006.48,
+   "JUSTICE GINSBURG",
+   "Alvarez",
+   "Is that -- is that -- that wouldn't reach Alvarez because he didn't obtain anything of value.",
+   1
+  ],
+  [
+   3013.56,
+   "MR. LIBBY",
+   "Alvarez",
+   "What we do know is that Mr. Alvarez did not obtain a thing of value.",
+   1
+  ],
+  [
+   3023.06,
+   "CHIEF JUSTICE ROBERTS",
+   "medal",
+   "He was involved -- well, doesn't it help a politician to have a congressional Medal of Honor?",
+   1
+  ],
+  [
+   3023.06,
+   "CHIEF JUSTICE ROBERTS",
+   "Medal of Honor",
+   "He was involved -- well, doesn't it help a politician to have a congressional Medal of Honor?",
+   1
+  ],
+  [
+   3023.06,
+   "CHIEF JUSTICE ROBERTS",
+   "Congressional",
+   "He was involved -- well, doesn't it help a politician to have a congressional Medal of Honor?",
+   1
+  ],
+  [
+   3047.14,
+   "CHIEF JUSTICE ROBERTS",
+   "lie",
+   "But it seems to me that your willingness to say that this statute is valid so long as there's some benefit to the person who lies, it's an awfully big concession.",
+   1
+  ],
+  [
+   3144.98,
+   "JUSTICE SCALIA",
+   "Congressional",
+   "I'm a congressional Medal of -- the crowd cheers, and they give him a parade down Main Street.",
+   1
+  ],
+  [
+   3145.36,
+   "JUSTICE SCALIA",
+   "medal",
+   "I'm a congressional Medal of -- the crowd cheers, and they give him a parade down Main Street.",
+   1
+  ],
+  [
+   3179.38,
+   "JUSTICE ALITO",
+   "date",
+   "Suppose what the person gets is -- is a date with a potential rich spouse.",
+   1
+  ],
+  [
+   3190.76,
+   "MR. LIBBY",
+   "date",
+   "Your Honor, I think when it comes -- when you get into the situation where you're getting something like a date, I do not know that -- I certainly wouldn't consider that a non-de minimis thing of value.",
+   1
+  ],
+  [
+   3392.62,
+   "JUSTICE KAGAN",
+   "lie",
+   "The government has a strong interest in the sanctity of the family, the stability of the family; so, we're going to prevent everybody from telling lies about their extramarital affairs.",
+   1
+  ],
+  [
+   3491.42,
+   "JUSTICE SOTOMAYOR",
+   "lie",
+   "So, in that lie in that context, you can't sanction, but you can sanction that lie in a different context.",
+   2
+  ],
+  [
+   3501.66,
+   "JUSTICE SOTOMAYOR",
+   "date",
+   "On a date.",
+   1
+  ],
+  [
+   3504.08,
+   "JUSTICE SOTOMAYOR",
+   "date",
+   "I don't know because, on a date, it doesn't chill political speech, and it will induce a young woman to date someone who she thinks is more of a professional, because that harms the parents, it harms the family.",
+   2
+  ]
+ ],
+ "laugh_rows": [
+  {
+   "t": 1263.96,
+   "next": 1263.96,
+   "speaker": "JUSTICE SCALIA",
+   "before": "is the line that was -- So, maybe we allow a certain amount of puffing in political speech as well. And I do think that -- Nobody believes all that stuff, right?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1461.48,
+   "next": 1462.5,
+   "speaker": "JUSTICE SOTOMAYOR",
+   "before": "And I'm not minimizing it. I too take offense when people make these kinds of claims, but I take offense when someone I'm dating makes a claim that's not true.",
+   "pause": 1.02,
+   "loud_s": 0.5,
+   "mean_over": 16.9,
+   "peak_over": 26.3,
+   "size": "medium"
+  },
+  {
+   "t": 1466.512,
+   "next": 1466.512,
+   "speaker": "GENERAL VERRILLI",
+   "before": "but I take offense when someone I'm dating makes a claim that's not true. And -- and -- And as -- as the father of a 20-year-old daughter, so do I, Justice Sotomayor.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1770.9,
+   "next": 1776.28,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "Well, that's right, and that's certainly a beneficial lie. That's not a statement about one's self. This is -- And now -- Are you hiding Jews in the cellar? Excuse me. Sorry.",
+   "pause": 5.38,
+   "loud_s": 5.2,
+   "mean_over": 24.7,
+   "peak_over": 30.4,
+   "size": "big"
+  },
+  {
+   "t": 2743.26,
+   "next": 2744.24,
+   "speaker": "JUSTICE BREYER",
+   "before": "and yet, I can think of instances where we do want to protect false information. And I want you to accept that as a given because that isn't my question.",
+   "pause": 0.98,
+   "loud_s": 0.0,
+   "mean_over": 5.2,
+   "peak_over": 9.4,
+   "size": "small"
+  },
+  {
+   "t": 2937.04,
+   "next": 2937.78,
+   "speaker": "JUSTICE SCALIA",
+   "before": "who has won them. All the heroic acts that have -- How about giving a medal of shame to those who have falsely claimed to have earned the medal of valor?",
+   "pause": 0.74,
+   "loud_s": 0.45,
+   "mean_over": 14.6,
+   "peak_over": 17.6,
+   "size": "medium"
+  },
+  {
+   "t": 3172.61,
+   "next": 3172.61,
+   "speaker": "MR. LIBBY",
+   "before": "But that's not -- the answer is would the First Amendment permit that. That's a difficult question, Your Honor. Well, that's sort of the question we have to answer here. Sure.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3175.02,
+   "next": 3177.14,
+   "speaker": "MR. LIBBY",
+   "before": "answer is would the First Amendment permit that. That's a difficult question, Your Honor. Well, that's sort of the question we have to answer here. Sure. And I get that.",
+   "pause": 2.12,
+   "loud_s": 1.75,
+   "mean_over": 26.9,
+   "peak_over": 35.2,
+   "size": "big"
+  },
+  {
+   "t": 3196.72,
+   "next": 3196.72,
+   "speaker": "MR. LIBBY",
+   "before": "comes -- when you get into the situation where you're getting something like a date, I do not know that -- I certainly wouldn't consider that a non-de minimis thing of value.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3201.28,
+   "next": 3201.28,
+   "speaker": "JUSTICE ALITO",
+   "before": "you're getting something like a date, I do not know that -- I certainly wouldn't consider that a non-de minimis thing of value. But -- Some people might have a different opinion.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "silence_db": -49.5,
+ "opening_start": 8.22,
+ "opening": [
+  [
+   8.22,
+   "GENERAL VERRILLI",
+   "Mr. Chief Justice, and may it please the Court: Military honors play a vital role in inculcating and sustaining the core values of our nation's armed forces. The military applies exacting criteria in awarding honors, and Congress has a long tradition of legislating to protect the integrity of the honors system. The Stolen Valor Act continues that tradition by prohibiting knowingly false statements that one has been awarded a military honor. It regulates a carefully limited and narrowly drawn category of calculated factual falsehoods. It advances a legitimate substantial, and, indeed, compelling governmental interest, and it chills no protected speech. This Court has recognized --"
+  ],
+  [
+   56.1,
+   "JUSTICE SOTOMAYOR",
+   "General, may I pose a hypothetical? During the Vietnam War, a protester holds up a sign that says I won a Purple Heart -- for killing babies. Knowing statement. He didn't win the Purple Heart. As a reader, I can't be sure whether he did and is a combat veteran who opposes the war or whether he's a citizen protesting the war. Is that person -- if he's not a veteran having received a medal, is he liable under this Act?"
+  ],
+  [
+   94.0,
+   "GENERAL VERRILLI",
+   "I think, Your Honor, it would depend on whether that was -- that expression was reasonably understood by the audience as a statement of fact or as an exercise in political theater. If it's the latter, it's not within the scope of the statute --"
+  ],
+  [
+   109.38,
+   "JUSTICE SOTOMAYOR",
+   "Somewhat dangerous, isn't it --"
+  ],
+  [
+   109.4,
+   "GENERAL VERRILLI",
+   "-- and it wouldn't be subject to liability."
+  ],
+  [
+   111.56,
+   "JUSTICE SOTOMAYOR",
+   "-- to subject speech to the absolute rule of no protection? Which is what you're advocating, I understand."
+  ],
+  [
+   121.68,
+   "GENERAL VERRILLI",
+   "Well, Your Honor --"
+  ],
+  [
+   122.16,
+   "JUSTICE SOTOMAYOR",
+   "That there are no circumstances in which this speech has value. I -- I believe that's your bottom line."
+  ],
+  [
+   127.98,
+   "GENERAL VERRILLI",
+   "Well, what -- what I would say with respect to that, Your Honor, is that this Court has said in numerous contexts, numerous contexts, that the calculated factual falsehood has no First Amendment value for its own sake."
+  ],
+  [
+   140.44,
+   "JUSTICE SOTOMAYOR",
+   "Well, that's not --"
+  ],
+  [
+   140.61,
+   "JUSTICE KENNEDY",
+   "Well, I'm -- I'm not sure that that's quite correct. It has said it often but always in context where it is well understood that speech can injure. Defamation, Gertz -- page 12 of your brief, you make this point, and it's what Justice Sotomayor is indicating. You think there's no value to falsity. But I -- I simply can't find that in our cases, and I -- I think it's a sweeping proposition to say that there's no value to falsity. Falsity is a way in which we contrast what is false and what is true."
+  ],
+  [
+   179.06,
+   "GENERAL VERRILLI",
+   "I want to be --"
+  ],
+  [
+   179.58,
+   "JUSTICE KENNEDY",
+   "And --"
+  ],
+  [
+   179.76,
+   "GENERAL VERRILLI",
+   "I want to respond with precision, Justice Kennedy, that the -- I think what this Court -- and Gertz is a good example -- has done"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2011/11-210",
+  "page_url": "https://www.oyez.org/cases/2011/11-210",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 28, 2012",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/22409",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/11-210/20120628o_11-210.delivery.mp3",
+  "duration": 347.716,
+  "mp3_bytes": 1498384,
+  "asr_elapsed_s": 367.3,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "speaker_turns": 2,
+  "oyez_agree": [
+   876,
+   912,
+   906
+  ],
+  "diffs": [
+   [
+    14.7,
+    "Javier",
+    "Xavier"
+   ],
+   [
+    44.74,
+    "he had",
+    "he'd"
+   ],
+   [
+    48.22,
+    "had",
+    "who"
+   ],
+   [
+    49.04,
+    "",
+    "Medal --"
+   ],
+   [
+    53.88,
+    "the",
+    "a"
+   ],
+   [
+    61.18,
+    "up",
+    ""
+   ],
+   [
+    82.9,
+    "there is",
+    "there's"
+   ],
+   [
+    140.0,
+    "content -based restrictions",
+    "content-based restriction"
+   ],
+   [
+    141.42,
+    "",
+    "the"
+   ],
+   [
+    155.1,
+    "a",
+    "the"
+   ],
+   [
+    180.7,
+    "verily",
+    "barely"
+   ],
+   [
+    208.48,
+    "we have",
+    "we've"
+   ],
+   [
+    219.26,
+    "as it",
+    "with"
+   ],
+   [
+    224.7,
+    "",
+    "-- of"
+   ],
+   [
+    238.88,
+    "",
+    "\"I"
+   ],
+   [
+    247.3,
+    "as",
+    "it's"
+   ],
+   [
+    249.68,
+    "are",
+    "were"
+   ],
+   [
+    261.04,
+    "the",
+    ""
+   ],
+   [
+    294.66,
+    "imposter.",
+    "impostor."
+   ],
+   [
+    303.52,
+    "if",
+    "of"
+   ],
+   [
+    305.14,
+    "reinforce",
+    "reenforce"
+   ],
+   [
+    346.42,
+    "join.",
+    "joined."
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 912,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has the announcement today in Case 11-210, United States v. Alvarez."
+   ],
+   [
+    6.4,
+    "JUSTICE KENNEDY",
+    "This is an opinion announcing the judgment of the Court in United States v. Alvarez. Lying was his habit. Javier Alvarez is the Respondent here. He lied when he said he played hockey for the Detroit Red Wings and that he once married a starlet from Mexico. But when he lied in announcing he held the Congressional Medal of Honor, Respondent ventured on to new ground. For that lie violates a Federal criminal statute, the Stolen Valor Act of 2005. Respondent was elected to the Three Valley Water District Board in California. At a board meeting, he introduced himself by claiming that he had been a Marine for 25 years, had been wounded in combat, and had won the Congressional Medal of Honor, and none of these statements were true. The Stolen Valor Act, the Federal statute, provides that whoever falsely claims to have won the Congressional Medal of Honor can be fined or imprisoned up for up to one year. Alvarez was convicted under the statute, but the United States Court of Appeals for the Ninth Circuit reversed, it found the statute invalid under the First Amendment. After we granted certiorari, the United States Court of Appeals for the Tenth Circuit in an unrelated case found that the Act was constitutional, so now there is a conflict in the circuits. It's right and proper that Congress, over a century ago, established an award so the nation can hold in its highest respect and esteem those who, in performing the supreme and noble duty of contributing to the defense of the rights and honor of this nation, have acted with extraordinary valor. Fundamental constitutional principles, however, require that laws enacted to recognize the brave must be consistent with the precepts of the Constitution for which they fought. As a general matter, this Court has permitted content-based restrictions only when they are confined to one of the few historic and traditional categories of expression, defamation, obscenity and fraud, are among these few categories of punishable speech. Absent from those few categories where the law does allow content-based restrictions of speech is any general exception to the First Amendment for false statements. A Federal criminal statute does prohibit lying to a government official, but statutes of that sort are inapplicable here. This Court has not endorsed a categorical rule that false statements receive no First Amendment protection. By its plain terms, the Stolen Valor Act applies to speech made at any time, in any place, to any person. And it does so entirely without regard to whether the lie was made for the purpose of material gain. Permitting the government to decree this speech to be a criminal offense, whether shouted from the rooftops or"
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.06,
+    13
+   ],
+   [
+    "JUSTICE KENNEDY",
+    6.4,
+    346.88,
+    894
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  }
+ },
+ "case": "11-210",
+ "year": "2011",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2011/11-210",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/11-210.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2011/11-210.pdf",
+ "model": "medium.en",
+ "duration": 3555.395918,
+ "asr_elapsed_s": 4178.8,
+ "asr_words": 9033,
+ "official_words": 9282,
+ "matched": 8716,
+ "shared": 8,
+ "clamped": 0,
+ "trimmed": 26,
+ "rewindowed": 0,
+ "match_rate": 93.90217625511742,
+ "turns": 266,
+ "laugh_markers": 10,
+ "mp3_bytes": 28443420,
+ "pauses": 408,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 325,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.90% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-02"
+}

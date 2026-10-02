@@ -437,13 +437,13 @@
  "matched": 9276,
  "shared": 1,
  "clamped": 0,
- "trimmed": 11,
+ "trimmed": 16,
  "rewindowed": 0,
  "match_rate": 95.01177916623989,
  "turns": 262,
  "laugh_markers": 15,
  "mp3_bytes": 28214587,
- "pauses": 361,
+ "pauses": 366,
  "checks": {
   "time_order": {
    "ok": true,
@@ -467,5 +467,5 @@
    "detail": "95.01% (threshold 85%)"
   }
  },
- "generated": "2026-10-01"
+ "generated": "2026-10-02"
 }
