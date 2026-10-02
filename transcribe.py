@@ -326,6 +326,56 @@ def loudness(audio):
     return db, floor, db > floor + 12, db > silence + 12, silence
 
 
+def find_quotes(official, quotes, mp3, out_dir, window=10.0):
+    """Each quote's exact place in the argument (official words, matched ignoring case,
+    punctuation and hyphens), a `window`-second stretch centred on it, everything said in that
+    stretch, and a clip of it saved as out_dir/quote_N.mp3."""
+    spoken = [o for o in official if o["w"] != LAUGH]
+    key = lambda t: re.sub(r"[^a-z0-9]", "", t.lower())
+    keys = [key(o["w"]) for o in spoken]
+    rows = []
+    for n, q in enumerate(quotes, 1):
+        target = key(q)
+        hit = None
+        for i in range(len(spoken)):
+            acc, j = "", i
+            while j < len(spoken) and len(acc) < len(target):
+                acc += keys[j]
+                j += 1
+            if acc == target or (acc.startswith(target) and j - i > 1):
+                hit = (i, j)
+                break
+        exact = hit is not None
+        if not hit:  # closest stretch, for wording that differs slightly
+            n_words = max(1, len(q.split()))
+            best = max(range(len(spoken)), key=lambda i: difflib.SequenceMatcher(
+                None, "".join(keys[i:i + n_words]), target).ratio())
+            hit = (best, best + n_words)
+        i, j = hit
+        s0, s1 = spoken[i]["s"], spoken[j - 1]["e"]
+        mid = (s0 + s1) / 2
+        w0 = max(0.0, mid - window / 2)
+        w1 = w0 + window
+        out_dir.mkdir(parents=True, exist_ok=True)
+        clip = out_dir / f"quote_{n}.mp3"
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", f"{w0:.3f}", "-t", f"{window:.3f}", "-i", str(mp3),
+                        "-ac", "1", "-b:a", "64k", str(clip)], check=True)
+        around, cur = [], None
+        for o in official:
+            if o["s"] >= w1 or o["e"] <= w0:
+                continue
+            if cur and cur[1] == o["speaker"]:
+                cur[2].append(o["w"])
+            else:
+                cur = [o["s"], o["speaker"], [o["w"]]]
+                around.append(cur)
+        rows.append({"quote": q, "exact": exact, "speaker": spoken[i]["speaker"], "s": s0, "e": s1,
+                     "text": " ".join(o["w"] for o in spoken[i:j]), "w0": w0, "w1": w1,
+                     "clip": f"audio/quotes/{clip.name}",
+                     "around": [(a, spk, " ".join(ws)) for a, spk, ws in around]})
+    return rows
+
+
 def measure_laughs(official, db, silence, hop=HOP, edge=0.05, words_before=30):
     """Each official (Laughter.) marker in the audio: its time (end of the word before), the
     words before it, and the room inside the pause that follows, up to the next transcribed
@@ -593,6 +643,8 @@ def main():
     ap.add_argument("--mp3-url", help="override the audio URL (e.g. an oyez.org MP3)")
     ap.add_argument("--mentions", help="comma-separated terms to list in a Key mentions table, "
                     "e.g. \"Girl Scout(s),salesman/salesmen,front door\"")
+    ap.add_argument("--quotes", help="'|'-separated lines to locate in the argument, each with a "
+                    "10-second clip around it")
     ap.add_argument("--opinion", action="store_true",
                     help="also fetch and transcribe the opinion announcement from oyez.org (Whisper only)")
     args = ap.parse_args()
@@ -683,6 +735,8 @@ def main():
                       f"{b['dur']:.2f} | {b['mean_db']} | {near(b)} | {overlap(b)} |")
     pauses, spoken_words = rank_pauses(official, db, silence)
     laugh_rows = measure_laughs(official, db, silence)
+    quotes = [q.strip() for q in args.quotes.split("|") if q.strip()] if args.quotes else []
+    quote_rows = find_quotes(official, quotes, mp3, audio_dir / "quotes") if quotes else None
     md += ["", "## Every pause of 0.4 s or more, loudest room first", "",
            f"Gaps of 0.4 s or more between consecutive official words, ranked by how loud the room "
            f"is inside the gap: energy mean (and peak) of 50 ms frames, 0.1 s trimmed off each side, "
@@ -715,7 +769,7 @@ def main():
     terms = [t.strip() for t in args.mentions.split(",") if t.strip()] if args.mentions else []
     mentions = key_mentions(official, terms) if terms else None
     stats = {
-        "terms": terms, "mentions": mentions, "laugh_rows": laugh_rows, "silence_db": round(silence, 1),
+        "terms": terms, "mentions": mentions, "laugh_rows": laugh_rows, "quote_rows": quote_rows, "quotes": quotes, "silence_db": round(silence, 1),
         "opening_start": opening_start, "opening": opening, "opinion": opinion,
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
         "pdf_url": pdf_url, "model": args.model, "duration": duration,
@@ -798,6 +852,13 @@ def oyez_speaker(name):
     return f"CHIEF JUSTICE {last}" if last in ("ROBERTS", "REHNQUIST", "BURGER", "WARREN") else f"JUSTICE {last}"
 
 
+def chief_justice_on(title):
+    """Chief Justice on the date in an Oyez title like 'Opinion Announcement - June 12, 2014'."""
+    m = re.search(r"(\d{4})\s*$", title or "")
+    year = int(m.group(1)) if m else 2100
+    return "CHIEF JUSTICE ROBERTS" if year >= 2006 else "CHIEF JUSTICE REHNQUIST"
+
+
 def process_opinion(case, year, root, work, model_name):
     """Opinion announcement from Oyez: audio/opinion.mp3, opinion_words.json, opinion_lines.json.
     Wording and times are Whisper's alone (there is no official transcript); speaker names come
@@ -837,10 +898,27 @@ def process_opinion(case, year, root, work, model_name):
     turns, oyez_words = [], []
     for sec in (media.get("transcript") or {}).get("sections") or []:
         for t in sec.get("turns") or []:
-            turns.append({"speaker": oyez_speaker((t.get("speaker") or {}).get("name")),
+            text = " ".join(b["text"] for b in t.get("text_blocks") or [])
+            name = (t.get("speaker") or {}).get("name")
+            turns.append({"speaker": oyez_speaker(name) if name else None, "text": text,
                           "s": float(t["start"]), "e": float(t["stop"])})
-            oyez_words += " ".join(b["text"] for b in t.get("text_blocks") or []).split()
+            oyez_words += text.split()
+    # Oyez sometimes lists no speaker names. The text says who: "Justice Kennedy has our opinion"
+    # is the Chief Justice introducing the case, and the next turn is that justice
+    inferred = 0
+    for k, t in enumerate(turns):
+        m = re.match(r"\s*Justice (\w+) has (?:our|the) (?:opinion|announcement)", t["text"])
+        if m and t["speaker"] is None:
+            t["speaker"] = chief_justice_on(ann[0].get("title", ""))
+            inferred += 1
+            if k + 1 < len(turns) and turns[k + 1]["speaker"] is None:
+                turns[k + 1]["speaker"] = f"JUSTICE {m.group(1).upper()}"
+                inferred += 1
+    for t in turns:
+        if t["speaker"] is None:
+            t["speaker"] = "UNKNOWN"
     info["speaker_turns"] = len(turns)
+    info["speakers_inferred"] = inferred
 
     # Whisper can invent or mangle text. Words only Whisper has, and runs of 3+ words where
     # Whisper and Oyez's transcript disagree, are re-transcribed on their own (6 s either side). If Whisper added words Oyez lacks
@@ -1040,7 +1118,7 @@ small gap between the ASR words either side. Their order is right; their exact t
 
 ## Files
 
-- `audio/argument.mp3`: the argument audio.
+- `audio/argument.mp3`: the argument audio (and `audio/quotes/`, 10-second clips, when quotes are asked for).
 - `audio/words.json`: every official word in order, `{{"w", "s", "e", "speaker"}}`, times in seconds.
   `(Laughter.)` markers are included as entries of their own, running from the end of the word
   before to the start of the word after.
@@ -1084,7 +1162,7 @@ matched word's ASR time changes.
 
 Regenerate with:
 
-    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}
+    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}{(' --quotes ' + chr(34) + '|'.join(st['quotes']) + chr(34)) if st.get('quotes') else ''}
 """
     text += readme_extras(st)
     (root / "README.md").write_text(text)
@@ -1092,6 +1170,18 @@ Regenerate with:
 
 def readme_extras(st):
     out = ""
+    if st.get("quote_rows"):
+        out += ("\n## Quotes\n\nEach line's exact place in the argument (official wording; matched ignoring "
+                "case, punctuation and hyphens), and the 10 seconds of audio centred on it: the window's "
+                "times, a clip of it, and everything said in it.\n")
+        for k, r in enumerate(st["quote_rows"], 1):
+            note = "" if r["exact"] else " (closest match; the wording differs)"
+            out += (f"\n### {k}. \"{r['quote']}\"\n\n"
+                    f"- Said by {r['speaker']}, {fmt_ts(r['s'])} to {fmt_ts(r['e'])} "
+                    f"({r['s']:.3f} to {r['e']:.3f} s){note}: \"{r['text']}\"\n"
+                    f"- 10-second window: {fmt_ts(r['w0'])} to {fmt_ts(r['w1'])} ({r['w0']:.3f} to "
+                    f"{r['w1']:.3f} s), clip [`{r['clip']}`]({r['clip']})\n\n")
+            out += "\n".join(f"> [{fmt_ts(a)}] {spk}: {txt}" for a, spk, txt in r["around"]) + "\n"
     if st.get("laugh_rows"):
         rows = st["laugh_rows"]
         out += (f"\n## The official laughs, measured in the audio\n\nEach `(Laughter.)` in the transcript, "
@@ -1153,7 +1243,7 @@ def readme_extras(st):
   names and citations.
 - Speakers: from the turn boundaries in Oyez's own transcript ({op['speaker_turns']} turn{'s' if op['speaker_turns'] != 1 else ''}), each
   boundary moved to the longest pause within 1.5 s of it that follows the end of a sentence
-  (or the longest pause, if none does). Oyez's wording is not
+  (or the longest pause, if none does).{(chr(10) + "  Oyez lists no names for " + str(op['speakers_inferred']) + " of these turns, so they come from the text: a turn that opens " + chr(34) + "Justice X has our opinion" + chr(34) + " is the Chief Justice introducing the case, and the next turn is Justice X.") if op.get('speakers_inferred') else ''} Oyez's wording is not
   used, except where noted below.
 - Word times: Whisper's, with the same stretched-word trimming as the argument ({op['trimmed']}
   trimmed, {op['rewindowed']} re-transcribed).
