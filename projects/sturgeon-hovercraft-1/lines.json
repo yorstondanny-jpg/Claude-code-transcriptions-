@@ -1,0 +1,1892 @@
+[
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 0.0,
+  "e": 6.18,
+  "text": "We'll hear argument next in Case 14-1209, Sturgeon v. Frost. Mr. Findley."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 6.8,
+  "e": 39.26,
+  "text": "Thank you, Mr. Chief Justice, and may it please the Court: ANILCA was the result of a grand bargain. Congress enacted ANILCA to finally resolve land ownership in Alaska, a process that began with the Statehood Act and continued with the Native Claims Settlement Act, both statutes that granted land to the State and native corporations to further economic development and self-sufficiency for Alaska and its people. ANILCA very carefully balanced conservation with those important goals."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 40.16,
+  "e": 59.78,
+  "text": "Mr. -- Mr. Findley, can I ask two quick clarifying questions just so I understand what's at issue here? Your argument applies to the navigable rivers generally; is that right? In other words, to the navigable rivers running through the federally owned land as well as to those running through the inholdings?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 60.6,
+  "e": 65.56,
+  "text": "If a navigable river is surrounded by the outer boundaries of the park, yes, that's covered by Section 103(c)."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 66.14,
+  "e": 82.8,
+  "text": "And is there any information in the record about whether your client actually was running his boat on the portions which were -- are within the federally owned parts, or instead it's the inholdings? Is that what you called them?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 83.32,
+  "e": 84.26,
+  "text": "That is one word for it."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 84.26,
+  "e": 84.26,
+  "text": "Yes."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 84.26,
+  "e": 89.52,
+  "text": "He was within the shore. On either side of where his hovercraft was stopped was Federal public land."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 90.04,
+  "e": 90.34,
+  "text": "Was Federal --"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 90.34,
+  "e": 90.72,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 90.72,
+  "e": 92.22,
+  "text": "Was Federal public land?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 92.3,
+  "e": 92.9,
+  "text": "Yes, exactly."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 92.9,
+  "e": 93.944,
+  "text": "Okay. Thank you."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 93.944,
+  "e": 94.64,
+  "text": "Oh, sure."
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 94.64,
+  "e": 96.44,
+  "text": "Just, again, a preliminary question."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 96.44,
+  "e": 97.04,
+  "text": "Sure."
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 97.04,
+  "e": 101.74,
+  "text": "Is it conceded by all or is it not that this is navigable -- that these are navigable waters?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 102.18,
+  "e": 109.1,
+  "text": "Yes. And the Ninth Circuit issued decision in 2001 called Alaska v. United States by Judge Kleinfeld which adjudicated the Nation River navigable."
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 109.18,
+  "e": 110.54,
+  "text": "And that's not contested here?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 110.58,
+  "e": 111.68,
+  "text": "No, it is not contested here."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 111.68,
+  "e": 127.68,
+  "text": "So you're claiming a right not merely to use the hovercraft in the nonpublic lands. You're claiming that there's no residual right to control navigable waters in the Federal lands area?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 128.66,
+  "e": 141.18,
+  "text": "What Mr. Sturgeon is arguing -- we've been very specific about that -- is that the Park Service does not have authority to issue its Park Management Regulations to cover State navigable waters that run through these ANILCA parks."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 141.18,
+  "e": 156.48,
+  "text": "So what do you do about the ANILCA provision that says that boating and other water activities within public lands, within Federal public lands can be regulated?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 156.96,
+  "e": 163.28,
+  "text": "Yes. And those apply to all kinds of waters that are not navigable. Those apply to Federal waters and those --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 163.28,
+  "e": 167.98,
+  "text": "That's not what it says. It says any waters in the jurisdiction of the United States."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 168.14,
+  "e": 171.5,
+  "text": "It doesn't say navigable waters. And there is --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 171.5,
+  "e": 176.04,
+  "text": "Well, it could apply to both, is what I'm saying. What says it excludes navigable waters?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 176.44,
+  "e": 201.18,
+  "text": "You turn back to the definition of public lands in the statute, which makes clear for anything to be public lands, the United States must hold title. And there really is no dispute. The United States does not hold title to the submerged lands or the navigable waters. So those navigable waters, they aren't public lands. Section 103(c) makes crystal clear they're not part of the park and they are not subject to regulations solely enacted to manage our claim."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 201.82,
+  "e": 210.26,
+  "text": "I wasn't sure, but I -- I thought maybe they were suggesting that the navigational servitude and its reserved rights were -- were title."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 210.26,
+  "e": 231.84,
+  "text": "They are not title interests. They are both nonpossessory use rights. Even the Ninth Circuit made crystal clear that the navigationable servitude is not something the United States owns. And the Submerged Lands Act itself disavows an actual title of proprietary interest pursuant to the navigational servitude. Reserved water rights, it had the same answer: They're a nonpossessory use right."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 231.84,
+  "e": 248.9,
+  "text": "So it -- it -- it may well be, you think, that the Federal government would have authority to do this in the exercise of its navigational servitude even though it doesn't have authority to do it, as you assert, under the Park Service?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 250.26,
+  "e": 259.96,
+  "text": "Our objection is to the Park Service asserting its regulation on these navigable waters. Our position is Congress expressly denied this authority to the Park Service in 103(c)."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 259.98,
+  "e": 267.02,
+  "text": "Okay. Do -- do we have to resolve the further question? Whether if the Park Service can't do it somebody else can do it?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 267.32,
+  "e": 308.58,
+  "text": "You don't have to resolve that further question. I mean, ANILCA makes crystal clear that Federal government is not bereft of authority over navigable waters. The EPA has authority, Corps of Engineer has authority. The specific issue here was you -- you had pockets of land that were about to be surrounded by these new ANILCA CSUs. Those included State navigable waters, and that included over 40 percent of the native corporation land selections under the Native Corporation Settlement Act. The concern was whoa, if you're about to surround us with these parks, we don't want to be part of the parks and we don't want to be subject to park regulation. The idea was if you weren't part of the park, you weren't subject to park regulation the day before ANILCA was enacted, and that status quo carries through after ANILCA was enacted."
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 308.64,
+  "e": 316.22,
+  "text": "Suppose you have a regulation or a statute that's applicable to all United States parks. Is it applicable here?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 317.26,
+  "e": 319.16,
+  "text": "If it's a regulation that the Park Service --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 319.16,
+  "e": 329.88,
+  "text": "No, let's say -- let's say first it's a statute, suppose a Federal statute. So you need a permit for a fire in a Federal park. Applicable or -- or -- or not?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 330.28,
+  "e": 377.04,
+  "text": "You have to look at whether this is a regulation that was solely enacted to manage park land. The hovercraft regulation we have here, it's crystal clear. That's exactly that type of regulation where the Park Service made a judgment call about what it believed was appropriate or not appropriate to occur on public land. If the Park Service -- this is a Park Service regulation issued under the Organic Act and you read this code of Federal regulations and the Park Service is saying, we want fires here on public lands; we want fires here not on public lands. That's the type of regulation Section 103(c) is talking about. If the EPA says, look, we're concerned about Clean Air Act emissions from fire smoke and we are going to issue a generally applicable regulation across the United States on when you can burn wood and when you can't, that is not the type of regulation that Section 103(c) reaches."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 378.34,
+  "e": 382.34,
+  "text": "What was the basis for the Ninth Circuit's decision? Was it limited to navigable waters?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 383.22,
+  "e": 386.08,
+  "text": "The Ninth Circuit did not reach the unnavigable waters issues at all."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 386.1,
+  "e": 387.52,
+  "text": "What was the basis for the decision?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 387.52,
+  "e": 439.76,
+  "text": "The Ninth Circuit took a very strained, improper reading of the statute and looked at Section 103(c) and said, well, it only applies to Alaska-specific regulations. And it was a reading that reads the statute out of context. It's contrary to the text and leads to an incredibly absurd result that, frankly, no -- there's evidence Congress thought this is what was going to happen was that these islands of non-Federal land that were excluded from the parks, under the Ninth Circuit's ruling, they cannot take advantage of all of the rules in Alaska that Congress specifically loosened for Alaska parks. You can camp in Alaska parks. You can hunt. You can fish. You can use snow machines. You can fly. The list goes on and on. Right? Under the Ninth Circuit ruling, those relaxed rules, they don't apply to the non-Federal land. Instead, that non-Federal land is subject to the more restrictive nationwide rules that were not promulgated to be tailored to Alaska. And that simply makes no sense."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 441.76,
+  "e": 487.34,
+  "text": "Your reading on a practical basis with respect to the navigable waters makes almost no sense to me. I'm looking at a map attached to the petition of the State of Alaska. It's attached to the end of the brief. And it seems like these national parks are spread along the coast of Alaska in a haphazard way, meaning the national parks have jurisdiction over a small strip along the coast of Alaska. Presumably you're not arguing that this agreement controls the U.S. servitude of navigable waters around those strips."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 488.46,
+  "e": 501.84,
+  "text": "We're not claiming that Section 103(c) trumps the navigable -- navigational servitude. What we're claiming is ANILCA makes crystal clear for submerged lands and navigable waters owned by the State, they aren't public lands; they aren't part of the park."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 502.48,
+  "e": 510.28,
+  "text": "So you're saying that the U.S. can't control the navigable servitude in any part of that coast."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 510.52,
+  "e": 511.64,
+  "text": "No. The United States can."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 511.64,
+  "e": 512.12,
+  "text": "Can."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 512.64,
+  "e": 518.06,
+  "text": "The Park Service hasn't been delegated that authority. It was expressly denied that authority by Section 103(c)."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 519.32,
+  "e": 538.12,
+  "text": "And so what do you take the words in -- in 103(c) to mean, the boating exception, when it says \"in the jurisdiction of the United States\"? \"Waters in the jurisdiction\"? You don't think navigable waters are within the jurisdiction of the United States in Federal lands?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 539.14,
+  "e": 558.36,
+  "text": "That's within the regulation that the Park Service promulgated nationwide, saying we're going in -- the hovercraft is one of many regulations that they assert to apply within the jurisdiction of the Park Service. Section 103(c), which is the -- which is the specific park-enabling statute, denied the Park Service jurisdiction over nonpublic land which includes these navigable waters."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 558.36,
+  "e": 576.28,
+  "text": "So if the -- as it often does elsewhere, if the Army Corps of Engineers have issues with respect to things that the State is doing on the navigable waters or, you know, other people are building a -- a -- a damn or a fish -- I forget what they are called -- the Corps of Engineers can come in and say, you can't do that."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 576.88,
+  "e": 585.56,
+  "text": "Exactly. Under whatever its authorities are. I mean -- and that's exactly what ANILCA was meant to remain unaffected by the law was those generally applicable rights that --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 585.56,
+  "e": 590.86,
+  "text": "Let's -- and EPA might -- might be able to prohibit boating, no?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 592.54,
+  "e": 593.12,
+  "text": "Whether the EPA --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 593.12,
+  "e": 593.12,
+  "text": "Or environmental --"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 593.12,
+  "e": 610.3,
+  "text": "-- can prohibit boating, that may be an extension of their authority. But certainly. It's -- Coast Guard has authority, EPA, Corps of Engineers. There's a laundry list of Federal agencies that have plenty of authority here. The question is the Park Service can't throw its hat in the ring and in addition apply its park regulations on top of everything else."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 610.3,
+  "e": 642.46,
+  "text": "But it says in the regulation -- look at the regulation. It says, \"The Hovercraft Regulation applies to waters subject to the jurisdiction of the United States.\" This is water subject to the jurisdiction. \"Within the boundaries of the National Park Service\" -- that's the tougher part -- \"including navigable waters.\" That doesn't help us. So the question, I would think, would be is this portion of the river within the boundaries of the National Park Service? Am I right so far?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 642.46,
+  "e": 646.96,
+  "text": "It is within the outer boundaries of the park. It is not part of the park pursuant to --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 646.96,
+  "e": 688.86,
+  "text": "Well, now, you look at what they say about that, and you get, when they're defining the Yukon-Charley River's National Preserve, it says that that national preserve -- which is the whole thing, which includes the section of the river that we're talking about -- contains public lands. It doesn't say it's identical with the public lands. And then in another place it says, \"Only those lands within the portion which are public lands shall be deemed to be included a portion of such unit,\" not that they make up the whole of such unit. At least we --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 688.86,
+  "e": 689.0,
+  "text": "What are -- what are you quoting from? I'm --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 689.98,
+  "e": 698.44,
+  "text": "I'm quoting from regulations which are 54 U.S.C. -- I don't know. I'll -- I'll have to show you later, because I'm quoting -- (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 699.36,
+  "e": 705.52,
+  "text": "We're going to get into numbers, and I -- I just thought this case is too complicated to ask anything, but you've tempted me. (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 707.0,
+  "e": 711.02,
+  "text": "And so -- so you see -- have you got in your mind what I just quoted?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 711.02,
+  "e": 711.64,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 711.64,
+  "e": 780.38,
+  "text": "And then once you have that, you have this regulation applying to this portion of the river. So now we look to the statute to see if anything there takes away what the regulations seem to give. And the only part of the statute -- though it's an important part -- that supports you is the second sentence. But as I read that second sentence, it says that, \"The regulations that apply solely to public lands within such units,\" you see, \"are the ones that don't apply to the private land up in Yukon-Charley. But I've just read you a regulation, which, on my reading of it, is the Hovercraft Regulation, and does not apply solely to public lands within National Park Service units, either in Alaska or anywhere else. And therefore, the statute doesn't stop it. Now, that's -- that's -- and I want to -- I don't know if I can do this orally; I just tried to, which is to put the argument against you as best I could, and I want to hear the reply."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 781.44,
+  "e": 785.68,
+  "text": "Yes, Your Honor. Thank you. And you know, this is -- and the government makes the same argument in its briefing here."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 785.68,
+  "e": 785.96,
+  "text": "Yes."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 785.96,
+  "e": 789.48,
+  "text": "And -- and this is a dispute that's why -- it's what has brought us together here today."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 789.48,
+  "e": 789.78,
+  "text": "Uh-huh."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 789.78,
+  "e": 811.463,
+  "text": "But prior to 1996, the Park Service did not apply this regulation to navigable waters. That was a change they made in 1996, and that's in 36 C.F.R. 1.2(b) where they say now we're going to apply this to navigable waters without regard to ownership of the submerged lands. And that is what Mr. Sturgeon is objecting to. The whole point was 103(c) says --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 811.463,
+  "e": 811.68,
+  "text": "Well, Mr. Findley, I mean --"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 811.68,
+  "e": 812.22,
+  "text": "-- you can't do that."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 812.22,
+  "e": 839.1,
+  "text": "-- whether or not that's true, agencies can change their mind about things. And I think that the question that Justice Breyer is putting to you is this question about what this provision means: \"Shall be subject to the regulations applicable solely to public lands.\" I mean, \"solely\" is a very purposive word, you know? I mean, Congress drops lots of words, but you put \"solely\" in a sentence when you mean \"solely.\" And this does not apply solely to public lands."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 840.4,
+  "e": 866.54,
+  "text": "Because the regulation never should have been allowed to reach out to the public land. That is our objection here. The Hovercraft Regulation, as promulgated in 1983, was a regulation promulgated solely to manage park land. What 103(c) says, it was a permanent barrier to take in that regulation and extending it out to nonpublic land. The fact that they did it in 1996, and the fact that they've gotten away with it for over 20 years, does not suddenly make the regulation --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 866.54,
+  "e": 885.76,
+  "text": "I -- I don't understand why the statute that Justice Breyer is focusing on, that part of the statute. Applies just to park regulations and not to something from the EPA or the Federal Aeronautics Administration. Federal Aeronautics Administration says you can't have a smoke stack more than 800 feet high. Why -- why doesn't that apply?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 886.64,
+  "e": 894.46,
+  "text": "Because that would not be a regulation solely enacted to manage park land. You ask about the word \"solely.\" The reason that it's there, if you were to take a --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 895.3,
+  "e": 912.02,
+  "text": "But it -- it -- it -- but it -- it talks about regulations applicable solely to public lands. But is -- is -- is that all Forest Service regulations? Are you saying that that's a -- the same as Forest Service regulations? Is that what you're saying?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 912.3,
+  "e": 933.32,
+  "text": "Forest Service regulations are also solely enacted to manage those public lands. To answer your question, if you take the word \"solely\" out of the statute, you've inadvertently created a statute which says none of these private lands within the ANILCA parks are subject to any regulations applicable to public lands. Now surely, Congress is not trying to exempt these lands from Clean Water Act, Clean Air Act --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 933.32,
+  "e": 933.48,
+  "text": "Maybe --"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 933.48,
+  "e": 935.6,
+  "text": "That's what the word \"solely\" is there to do."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 935.84,
+  "e": 967.0,
+  "text": "I guess maybe -- maybe you can explain that to me. But it seems to me that if you took it out of the statute, what you would have was to something that says no private lands shall be subject to the regulations applicable to public lands. And that's what you should want. If -- if it had said that, no private lands shall be subject to the regulations applicable to public lands, you wouldn't be here. You would have won your case already. But it doesn't say that. It says, \"No private lands shall be subject to the regulations applicable solely\" -- exclusively, only -- \"to public lands.\""
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 967.0,
+  "e": 983.4,
+  "text": "Right. And again, though, however, you take out the word \"solely,\" not only, I suppose, will Mr. Sturgeon win, but you have a lot of in-holding owners that would be happy to know they're not subject to the Clean Water Act, the Clean Air Act, the Voting Rights Act, or anything else. I mean, that's what that word is there to do. If there's any doubt about that, then I think the 1979 Senate report makes that --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 983.42,
+  "e": 991.22,
+  "text": "So you're saying that the word \"solely\" distinguishes between statutes like the Clean Air Act and park land statutes?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 991.84,
+  "e": 994.4,
+  "text": "Yes. Absolutely. That's what's there to draw that line in the sand."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 994.4,
+  "e": 1009.26,
+  "text": "Because I understand why Congress might have wanted to distinguish between, like, the Clean Air Act and park statutes. But putting the word \"solely\" in, I got to say, does not do that for me."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 1009.56,
+  "e": 1012.4,
+  "text": "It may not have been the perfect way for Congress to go about and do it, but that's --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1012.4,
+  "e": 1013.52,
+  "text": "Well, tell me the imperfect way."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 1014.98,
+  "e": 1015.56,
+  "text": "Well, \"solely.\" (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1016.04,
+  "e": 1035.16,
+  "text": "Well, no. How does that do that? No, seriously. How does that distinguish between two different kinds of generally-applicable statutes, one generally applicable in applying to park lands and not park lands, and another generally applicable in the sense of applying to both public and private lands within parks."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 1035.62,
+  "e": 1092.38,
+  "text": "Read that sentence in context with both the first sentence of Section 103(c) and the third sentence, and then read it in context with the purpose of the statute. The first sentence says these lands are not part of the park. The second sentence is doing its best to make clear these lands won't be regulated as though they were. And the third sentence makes clear that if the Federal government -- or the Park Service, excuse me -- wants to regulate these lands, wants them to be part of the park, they have to go out and acquire them. There wouldn't be any purpose for that third sentence if the Federal government -- or, excuse me -- the Park Service already had authority of those nonpublic lands. And if you take a step back and you look at the overall purpose of the statute -- and again 101(d) of the statute makes clear that this is a balancing statute. This is not just a conservation statute. So right in context, that's that -- what that line \"solely\" is trying to draw on -- draw on. Again, I would direct you to, if -- if there's any doubt, look at the 1979 Senate report, makes crystal clear about what regulations were meant to be affected by this and which were not. If there are -- aren't any further questions, I'd like to reserve the remainder of my time."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1092.98,
+  "e": 1093.44,
+  "text": "Thank you, counsel."
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 1097.68,
+  "e": 1097.973,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1097.973,
+  "e": 1105.16,
+  "text": "Miss Botstein."
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1109.7,
+  "e": 1219.44,
+  "text": "Thank you, Mr. Chief Justice, and may it please the Court: This case is about honoring Congress's mandate to protect Alaska's sovereignty in the face of the Park Service's rapidly-expanding interpretation of its own jurisdiction under ANILCA. Congress provided in ANILCA that Alaska would lose over 100 million acres of land. But at the same time, Congress provided concrete protection against further encroachments on the lands and waters that Alaska did retain. This Court should reject the Park Service's attempt to redefine the Federal/State balance that Congress chose. We know from ANILCA that Congress intended to provide unique management rules for Alaska, and there are good reasons for that. This was the continuation in a trilogy of legislation that began with the Alaska Statehood Act and the Alaska Native Claims Settlement Act, and this piece of legislation furthered the goals of those predecessors. One purpose of the statute was to provide adequate opportunity for the satisfaction of the economic and social needs of the State of Alaska and its people. And Congress explicitly balanced that goal with conservation goals and the goals of completing the land selections within the States. And that means that the National Park Service's authority in other States or in other parks are not the baseline here. The starting point is the power that Congress gave to the National Park Service and other Land Management agencies in regulating ANILCA parks. And what Congress did in Section 103(c) was to set aside the inholdings of the State, private, and native corporation lands that might be surrounded by the parks, but should not be regulated as though they were in fact part of the parks."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1219.64,
+  "e": 1227.4,
+  "text": "By \"inholdings,\" you include the submerged lands that were conveyed to the State upon statehood?"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1227.7,
+  "e": 1231.08,
+  "text": "We do, Your Honor. The submerged lands and the waters that accompany them."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1231.36,
+  "e": 1244.64,
+  "text": "Right. Now, is there any basis for distinguishing the submerged lands from the -- I don't know what to call it -- from the land land that are in the other inholdings or do you understand the government's argument to be that they are treated the same?"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1245.96,
+  "e": 1277.52,
+  "text": "I understand the Park Service's argument to be that the -- the submerged -- the waters and the submerged lands have somehow become public lands. I mean, I understand their argument here to say, well, Section 103(c) doesn't apply to the waters because those are, in fact, not Alaska's waters. But that is completely wrong, Your Honor. This Court's cases have held that control over lands and waters is an unmistakable and central part of a State sovereignty."
+ },
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 1277.54,
+  "e": 1286.64,
+  "text": "What does that do to Federal right to control, whether it's titled or not, all navigable waters?"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1287.82,
+  "e": 1309.24,
+  "text": "Congress possesses a right to control the navigational servitude, and that's not an issue here. Congress hasn't given that and ANILCA doesn't delegate the authorization to control navigation to the Park Service as part of Park Service regulation. And I think even the Park Service isn't asserting that it has. So that right --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1309.24,
+  "e": 1313.1,
+  "text": "Repeat what you said. I didn't quite hear it or understand it. I'm sorry. Say it again."
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1313.1,
+  "e": 1331.54,
+  "text": "Your Honor, Congress has the power to control navigation in these waters through exercise of the navigational servitude. Congress hasn't given that power to the National Park Service. And I don't even believe they are asserting that it has. So that's not what's at issue here. Neither has -- does --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 1332.24,
+  "e": 1339.92,
+  "text": "Well, suppose there were a Coast Guard regulation that -- applicable to all throughout the United States. Could that be applied to this river?"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1340.24,
+  "e": 1342.7,
+  "text": "Yes, Your Honor. The Coast Guard has that power --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 1342.7,
+  "e": 1354.1,
+  "text": "Well, why is the -- so you're -- you're just saying that the Park Service lacks authority to promulgate this regulation quite without regard to this statute, which doesn't help me very much."
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1354.44,
+  "e": 1362.74,
+  "text": "No, Your Honor. We're saying this statute, the enabling legislation of the parks, sets the ground rules for what authority the National Park Service has."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1363.04,
+  "e": 1372.56,
+  "text": "So you're not -- I'm sorry. You're not saying that the Coast Guard couldn't come in and say no hovercrafts around the Alaskan coast."
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1373.68,
+  "e": 1381.74,
+  "text": "The Coast Guard could enact regulations to regulate navigation in the water. The River and Harbors Act gives the Coast Guard that explicit delegation."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1381.74,
+  "e": 1392.42,
+  "text": "How about if they wanted to say, in this alcove, the Coast Guard, not the Park Service, says you can't have hovercrafts, that would be okay?"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1392.62,
+  "e": 1394.7,
+  "text": "Yes, Your Honor. The Coast Guard could do it. We're not --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1395.48,
+  "e": 1415.0,
+  "text": "If I understand what you're saying, you're saying with respect to a river that's smack in the middle of federally owned lands, okay, a river that's in the middle of federally owned lands, what cannot happen is that the EPA can't come in and say there's some terrible pollution in this river, and we need to address it. That would be off limits?"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1415.9,
+  "e": 1439.56,
+  "text": "No, Your Honor. What -- a couple of things there. I mean, first, the -- the waters go with the submerged lands. If the submerged lands pass to the State of Alaska, then there are some lands that are going to be State owned together with the water column itself. And what Section 103(c) places limits on is the Park Service's ability to regulate that in the same fashion it wants to regulate the rest --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1439.7,
+  "e": 1440.86,
+  "text": "Why? I mean --"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1440.86,
+  "e": 1441.6,
+  "text": "The EPA is separate."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1442.84,
+  "e": 1447.44,
+  "text": "The Coast Guard can do it. The EPA can do. It's only the Park Service that can't do it?"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1448.68,
+  "e": 1471.08,
+  "text": "Or another Land Management agency that is regulating -- is attempting to regulate the lands and waters that are not part of the park as though they were part of the park. We're not saying these are some islands of lawlessness. We're saying that the Park Service is not the policeman here, because it is Congress that needs to give an agency power to regulate --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1471.24,
+  "e": 1524.4,
+  "text": "And I guess part of my question about this is, I look at that map, you know, and that map of this area has all this green land, which green represents real Federal park land, and there's a river that runs through it. And -- and you're saying that that river that runs through the park land, and nobody can do anything on -- or the Feds can't do anything on? I mean, this isn't the inholdings. I mean, I can understand the argument with respect to the inholdings and the rivers that are running through the inholdings. But this is the rivers that are running through the park land. Now, it seems to me a very strange thing that Congress would have created Federal lands in a Federal park land but said that the Federal Park Service can't have anything to do with the rivers. The rivers are like an important part of the park, aren't they?"
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1525.16,
+  "e": 1542.18,
+  "text": "The rivers are an important part of the park, but the control over the rivers is Alaska's, is Alaska's by sovereign right. And the clear statement cases of the Court make clear that Congress does not lightly or vaguely take that power away from a State that --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 1542.18,
+  "e": 1546.96,
+  "text": "But that's not true as to navigable waters. The Federal government can regulate navigable waters."
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1547.42,
+  "e": 1636.2,
+  "text": "It can, but it has not done so in this case. ANILCA does not talk about navigable waters. It does not talk about the Commerce Clause to regulate navigation. It is about the Land Management agency's ability to regulate parks. And our position is that the park -- the park management can't encompass State waters and lands. And there are good reasons that Congress made that choice. Alaska's waters are used in ways that are different from the lower 48 in, for example, the Yukon Flats National Wildlife Refuge, there are three villages of less than one hundred people that are hundreds of miles from any road. And this is common in Alaska. So these rivers are the way that you would travel to get medical care or groceries or obtain school books for your children. And Alaska's ability to make choices about what sort of conduct is permissible on the rivers furthers its ability to provide economic and self-sufficiency for its people, which was one of Congress's primary goals in passing this legislation. The idea that the creation of a park somehow transforms Alaska's waters into Federal waters, Alaska lands into Federal lands without a clear statement would dramatically change Alaska's sovereign ability to control its property in a way that this Court never has sanctioned and should not do so now."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1637.22,
+  "e": 1716.6,
+  "text": "As I read it -- as I read it, it's complicated, but in a sense it's simple. Yosemite has some private land within it and a lot of public. You know, there's some houses in Yosemite owned by private people. There are interior regs that apply to all of Yosemite, such as certain fireplace regs. There are some that only apply to the park but not the private people. What this statute says is the latter. Doesn't deprive -- apply to that land that you gave to Alaska. That's what the statute says. And what the reg says is that our hovercraft reg applies to everything within Yosemite, if this were Yosemite. This navigable waters, whether the land around it is owned by James Jones, the private person, or whether it's owned -- whether it's part of Yosemite Park. That's what it seemed to say to me. Now, there are two problems with what I just read. One is the third sentence and the word \"unit.\" And the second problem is the NPS, the National Park Service, is it really all of Yosemite, you know, with that private thing or is it just the public part? Now, that's at least a sorry. I shouldn't have got into it. It's too complicated. Skip the question. (Laughter.)"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1716.96,
+  "e": 1722.02,
+  "text": "Why don't you take -- the -- the rest of us are interested in your answer to Justice Breyer."
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1723.34,
+  "e": 1759.96,
+  "text": "Thank you, Mr. Chief Justice. I don't actually think it's all that complicated, Your Honor. Analytically, the Court would first look to the enabling legislation that creates a specific park. In the case of Yosemite, there's actually a clear congressional indication that says the Park Service has sole and exclusive jurisdiction over park lands. That's not what we have here. Here we would look to ANILCA and specifically the limitations in Section 103(c), which tell the Park Service, in fact, you cannot manage State and private lands as though they were public lands."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1760.02,
+  "e": 1760.6,
+  "text": "Thank you, counsel."
+ },
+ {
+  "speaker": "MS. BOTSTEIN",
+  "s": 1761.08,
+  "e": 1761.78,
+  "text": "Thank you, Your Honor."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1768.16,
+  "e": 1768.98,
+  "text": "Ms. Kovner."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1769.68,
+  "e": 1799.02,
+  "text": "Mr. Chief Justice, and may it please the Court: When Congress created new park units in Alaska for the express purpose of protecting their waters, their free-flowing rivers and their fish, it didn't simultaneously strip the Park Service of preexisting authorities to achieve those goals by regulating navigable waters. And I think it might make sense just to clarify our argument to first explain what those preexisting authorities are and why they let the Park Service --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1799.02,
+  "e": 1836.8,
+  "text": "Well, before you get to that, could we begin with what the Ninth Circuit decided? You're entitled to defend the judgment on any ground that you like, but -- that was presented below, but the only issue we have to -- we have to reach is the correctness of the Ninth Circuit's decision. Now, I understand what the Ninth Circuit to have held, to be this, that the hovercraft rule is not barred by the second sentence of Section 103(c) of ANILCA, because the hovercraft rule does not apply only in Alaska, because it applies throughout the country. Is that -- that's a correct understanding of what they held?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1837.24,
+  "e": 1874.1,
+  "text": "I actually think they were saying two things. I think you're right that they were saying that hovercraft rule isn't covered by the second sentence. But I think they say this rule is out for two reasons: One is that conservation-specific unit, and the other is -- and I direct you to 24a and 26a -- they talk about whether the regulation is generally applicable or not. And I take that to mean, essentially whether it applies only on public lands, in which case it's out, or whether it's the very limited class of rules that the Park Service is allowed to write in the way that Justice Breyer alludes to, to apply to both public and private lands. And so if I could just explain the Park Service's --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1874.14,
+  "e": 1905.06,
+  "text": "Well, no. I want to -- I understand the -- the holding -- and I -- I stand ready to be corrected -- to be what I stated: That the hovercraft rule is not barred because it isn't Alaska-specific. And, I mean, you filed a 58-page brief and, as I read it, you didn't get to the reason that the Ninth Circuit based its decision on until page 49, and you devoted exactly a paragraph to it. And why don't you concede that it's wrong? It's a ridiculous interpretation, is it not? (Laughter.)"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1906.66,
+  "e": 1913.38,
+  "text": "We think we have two much stronger arguments than that, and we focused on those. And if I could go to the --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1913.38,
+  "e": 1935.68,
+  "text": "If it's wrong. And -- and -- and walk it through, their argument, and tell me why they are wrong. I think they start with that Federal lands, as defined under the statute, are only lands that the U.S. has title to. Do you take -- do you disagree with that? And if so, why?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1936.1,
+  "e": 1939.55,
+  "text": "We think public lands are slightly more expansive than that. Public --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1939.55,
+  "e": 1940.6,
+  "text": "How? Read the statute --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1940.6,
+  "e": 1940.6,
+  "text": "Sure."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1940.6,
+  "e": 1942.16,
+  "text": "-- and -- and -- and tell me how --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1942.16,
+  "e": 1942.16,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1942.16,
+  "e": 1943.18,
+  "text": "-- in the statute --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1943.18,
+  "e": 1943.18,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1943.18,
+  "e": 1946.04,
+  "text": "-- you can read it more broadly."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1946.04,
+  "e": 1947.52,
+  "text": "Sure. So the -- in the definition --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1947.52,
+  "e": 1948.78,
+  "text": "I'm going -- I'm in the definition section."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1948.78,
+  "e": 1980.76,
+  "text": "Yes. So we're on 3a of our appendix, and it defines public lands to mean lands situated in Alaska, which are Federal lands. So we're going to look to the Federal lands. And Federal lands means lands which the title is held by the United States. And then \"lands\" is defined -- and this is the critical portion for us. \"Lands\" is defined to include not just lands and waters, but also interests therein. And what we get from that, Your Honor, is that public lands includes interests in water that the United States holds title to."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1982.04,
+  "e": 1993.92,
+  "text": "Well, in other words, the interests aren't the title. This is subsidiary. It's -- it's water that the U.S. holds title to and interests in that water, even though they are not reflected in the title?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 1995.92,
+  "e": 1999.34,
+  "text": "We agree the U.S. has to hold title to the interest. It has to be a property --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1999.34,
+  "e": 2000.58,
+  "text": "It has to hold title to the interest."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2000.6,
+  "e": 2001.02,
+  "text": "That's right, Your Honor."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2001.04,
+  "e": 2008.08,
+  "text": "Well, that's where I kind of stumbled in your argument, because you're not claiming title to the submerged land. It's clear that's in the State --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2008.2,
+  "e": 2008.58,
+  "text": "That's right."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2008.58,
+  "e": 2018.32,
+  "text": "-- right? You're -- you -- you rely on the reserved water right. Is that ever expressed as \"title,\" as opposed to a -- the words -- \"usufructuary right\"?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2019.14,
+  "e": 2025.86,
+  "text": "Usufructuary right is a property interest, so it is something you can hold title to. And one place you see that is in the Mohawk Power --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2025.86,
+  "e": 2029.5,
+  "text": "Yes, but holding title to that is different from holding title to the water."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2030.38,
+  "e": 2030.84,
+  "text": "That's right."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2030.84,
+  "e": 2038.12,
+  "text": "And you're -- you're telling us that the river, that the government holds title to the river. It doesn't. It has usufructuary rights in the river."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2038.74,
+  "e": 2046.42,
+  "text": "No. We're saying, as -- as Your Honor articulated it correctly, that the United States holds title to an interest in the water."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2046.76,
+  "e": 2048.9,
+  "text": "That's different from holding title to the water."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2048.98,
+  "e": 2069.72,
+  "text": "I agree. And the question is, if we hold title to an interest in the water, how broad is that interest, and what does it let us regulate. And the interest has been defined by regulation. And -- and consistent with the statements of what this land is being reserved for, it's an interest that we hold over the entirety of the water. And that permits us to regulate the water. And I think one way you know that --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2069.72,
+  "e": 2086.34,
+  "text": "Well, it's just a -- I'm sorry to pause -- pause there. I understood with reserve water doctrine is usually, you know, we need water to do this, so we get -- we have a reserve right to 40 percent of the water, or the initial flow, or whatever. I've never thought of it as a basis for general regulatory authority."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2087.68,
+  "e": 2104.02,
+  "text": "So I think that move is made by ANILCA, the statute. It's ANILCA-specific, because ANILCA says if you hold title to an interest, like a reserved water right interest, then that is a public land, and it can be regulated as public lands. And if -- if there's questions --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 2104.02,
+  "e": 2127.34,
+  "text": "I'm with you so far. That gets you to regulating the waters in Federal -- in -- in -- in Federal units, because the U.S. under ANILCA only controls lands within the conservation units that are public lands."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2127.34,
+  "e": 2127.34,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 2127.34,
+  "e": 2129.18,
+  "text": "In the United States."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2129.18,
+  "e": 2137.9,
+  "text": "Right. We only have authority to regulate the lands in which we have reserved water rights, and those are only waters within the park's units. And, Your Honor --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 2137.9,
+  "e": 2150.06,
+  "text": "So -- and does the no-hovercraft rule apply to the nonpublic lands? Is that the position you're taking, that you have the right to regulate that as well?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2150.42,
+  "e": 2156.62,
+  "text": "No. The hovercraft rule only applies on public lands, and so it doesn't apply on inholdings."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2157.28,
+  "e": 2166.76,
+  "text": "Then -- then -- then I'm completely wrong. Then what the right -- then -- then I was totally wrong. I -- I thought that the argument was that -- just to go to my Yosemite analogy --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2166.76,
+  "e": 2167.48,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2167.48,
+  "e": 2175.46,
+  "text": "-- that the hovercraft rule was like a rule that applies to all of Yosemite, say a campfire rule that applies even to John Jones's house."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2176.5,
+  "e": 2178.12,
+  "text": "So it's written to apply in two places."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2178.42,
+  "e": 2184.14,
+  "text": "I mean, it could be the navigable waters. It wouldn't be John Jones's fireplace. But if that -- if that's your argument, I was wrong."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2184.38,
+  "e": 2192.24,
+  "text": "No. Your -- Your Honor, it's written to apply in two places. The first is on Federally-owned lands, and the second is on -- on navigable waters."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2192.48,
+  "e": 2202.8,
+  "text": "I thought the navigable waters are not. They're on John Jones's property. But you still have the authority to regulate them, because the regulation that does it is not a regulation that applies solely to public lands."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2203.1,
+  "e": 2204.0,
+  "text": "That's right. And Your Honor, so it's like --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2204.0,
+  "e": 2206.52,
+  "text": "Is that right? Because you just seemed to say the opposite a minute ago."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2206.56,
+  "e": 2218.74,
+  "text": "No. So the -- the way that the regulations are written as -- it's 1.2, and it -- it says they apply in two places: Federally-Owned lands, and also on navigable waters that are within the parks."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2219.4,
+  "e": 2223.72,
+  "text": "Now, navigable waters that are within the boundaries of the National Park Service."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2223.72,
+  "e": 2223.72,
+  "text": "That's right. That's right."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2223.72,
+  "e": 2226.64,
+  "text": "That's like John Jones's house in Yosemite."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2226.96,
+  "e": 2227.14,
+  "text": "That's right."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2227.28,
+  "e": 2234.62,
+  "text": "The fireplace reg applies to him, even though his is a private house, because it's within the boundary of Yosemite."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2234.62,
+  "e": 2235.56,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2235.56,
+  "e": 2236.46,
+  "text": "Am I right or not?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2236.8,
+  "e": 2244.92,
+  "text": "Well, I think the -- the difficulty is, Your Honor, we think that the navigable waters are not like John Jones's house. We think they're Federal lands. But if Your Honor is to assume --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2244.92,
+  "e": 2266.52,
+  "text": "Either way, you say you win. Either they are Federal lands and this is part of a reg that applies to Federal lands; or they are not Federal lands, in which case this reg applies to both nonfederal and -- I mean nonpublic lands and public lands. So it's not within the second sentence. Is that your argument?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2266.66,
+  "e": 2270.06,
+  "text": "That is right. And so if we could talk about what that sentence means, even assuming --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2270.46,
+  "e": 2285.72,
+  "text": "Well, but if that's right, I mean, it -- it -- it's right because the question is do these things apply solely to public lands. And you say, well, the second sentence doesn't matter because we say they don't apply solely to public lands. That's not a very significant protection for the inholders."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2286.12,
+  "e": 2299.72,
+  "text": "I -- I think it is. And the reason is that we have very limited authority to regulate things that are inholdings. And in particular, we are acting here pursuant to an express grant of authority to regulate waters within the parks. In 19- --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2299.72,
+  "e": 2345.68,
+  "text": "Well, you -- you want to talk about waters, and -- and after this question I won't say anything more on this, but is the Ninth Circuit's holding limited to waters? The -- the State of Alaska on page 20 and 21 of their brief cite a notice in the Federal Register by the Park Service in which they defend the regulation of nonfederal oil and gas activities on the basis of Sturgeon, on the ground that Section 103(c) of ANILCA applies only to Alaska-specific regulations. And since these are not Alaska-specific, those -- those regulations apply. So they understand it to apply to something more than just navigable waters."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2345.9,
+  "e": 2361.18,
+  "text": "That's right. So I think the long-standing interpretation for 20 years, so that in a notice and comment regulation of what this provision means, is that it only limits rules that are written solely to apply to public lands. And as to what the Park Service can do when it --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2361.18,
+  "e": 2362.14,
+  "text": "It's solely to apply to Alaska --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2363.0,
+  "e": 2363.36,
+  "text": "That's the whole --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 2363.38,
+  "e": 2363.94,
+  "text": "-- within such unit?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2365.2,
+  "e": 2365.573,
+  "text": "We just --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2365.573,
+  "e": 2368.52,
+  "text": "Solely to apply to nonpublic units to lands in Alaska."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2368.52,
+  "e": 2389.86,
+  "text": "That -- if that's how Your Honor understands the Ninth Circuit's ruling. The regulation, the 20-year regulation I'm alluding to, says if it's a rule that applies to both public and private lands, then it's not covered by this provision. And just to be clear, we have very limited authority to regulate private lands. So it's not a plenary -- this -- this provision doesn't grant us the ability to regulate privately held --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2389.86,
+  "e": 2466.38,
+  "text": "Let's -- let's talk about your authority. I don't even get to the second sentence. I just get to the first sentence. The authority of the Park Service comes from the statute which authorizes the Secretary of Interior to, quote, \"prescribe such regulations necessary or proper for the use and management of system units, including those concerning boating and other activities. Only here the CSU's are park system units.\" That's 13.013(c). As a result, non-Federal holdings unambiguously fall outside the scope of the Secretary's authority because of the first sentence. \"Only those lands within the boundaries of any conservation system unit which are public lands as such term is defined in this Act shall be deemed to be included as a portion of such unit.\" If it's not within the unit, it's not within the basic authority of the Park Service to issue regulations, period. So you -- you have to show that -- I think the Federal government holds title to the water. I don't think you can show. Nobody holds title to the water."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2466.62,
+  "e": 2486.38,
+  "text": "So if I could walk through that authority that Your Honor is discussing and show why it allows us to enact the regulation here. I agree, Your Honor, that the authority under (a) is general authority to prescribe only those rules that are necessary for the protection of the system units, meaning the parks. And I agree that this is outside of that. And as a result our authority to prescribe rules for this land is very limited."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 2487.12,
+  "e": 2491.8,
+  "text": "Why? You're -- you're conceding that the waters are outside of that?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2491.92,
+  "e": 2533.68,
+  "text": "I'm conceding -- well, we haven't -- our first argument, Your Honor, is that no, these are public lands. But if -- I think Justice Scalia's premise is what is our authority to regulate if they are not public lands. Okay? And I want to focus on provision (b), okay, and just the language of provision (b). It has always been understood to allow us to regulate waters that are within the boundaries of the parks regardless of who owns them. And who owns them is always going to be the State under Petitioner's theory no matter where we are. And just to focus on the language of it, it's a very specific express grant of authority to regulate waters within parks. It says we can -- the Park Service can enact rules, quote, \"concerning boating and other activities, not just on but also relating to waters that are located within\" --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2534.38,
+  "e": 2575.44,
+  "text": "I read that first sentence. It's very interesting, because the tone of voice is the only way I can deal with this case. Watch. Imagine we have a valley that's a public land, and that valley traverses the boundary of the unit. Some of it's inside and some of it's outside. Now, only those lands within the boundaries of any conservation system which are public -- within the boundaries of any conservation system which are public lands shall be deemed to be included as a portion of the unit. So the only part of that valley that it's a portion of the unit is that part of the valley that's within the boundary of the unit. The part that's outside the boundary of the unit is not part of the unit."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2576.62,
+  "e": 2577.52,
+  "text": "Yes. So --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2577.68,
+  "e": 2591.38,
+  "text": "Is that what it -- I thought it must mean something like that. If it doesn't mean something like that, it means what Justice Scalia says. And then they're -- Joe Jones' house, the Indian reservation, none of it is part of the unit. But that can't be what it means, can it?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2591.56,
+  "e": 2592.26,
+  "text": "So I think the --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2592.68,
+  "e": 2594.02,
+  "text": "Do you see what I -- are you following it?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2594.02,
+  "e": 2603.94,
+  "text": "I think -- I think I am following. The statutes that Congress has enacted draw a distinction between land that is within the boundaries of the unit, which includes private lands, and lands --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2603.94,
+  "e": 2612.7,
+  "text": "If it makes clear -- if it makes clear that private lands like Joe Jones' house are a part of the unit?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2614.34,
+  "e": 2617.28,
+  "text": "I think they're within the boundaries of the unit, not part of the unit."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2617.28,
+  "e": 2621.28,
+  "text": "Within the boundaries of it. Ah, so distinction between being part of the unit and being within the boundaries of the unit."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2621.28,
+  "e": 2625.38,
+  "text": "Just -- so this -- this grant of authority in (b) has always been -- yes."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2626.26,
+  "e": 2629.64,
+  "text": "You say this grant of authority in (b). You're quoting from the regulations --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2629.78,
+  "e": 2630.14,
+  "text": "No."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2630.26,
+  "e": 2630.98,
+  "text": "-- right from the statute."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2631.02,
+  "e": 2631.22,
+  "text": "No."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2631.46,
+  "e": 2632.3,
+  "text": "What are you quoting from?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2632.34,
+  "e": 2647.84,
+  "text": "From -- so on 7a of our appendix, it's a statute. It's a statute that was enacted in 1976, and it expressly grants the Park Service the authority to enact rules concerning boating and other activities on or relating to waters."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 2647.84,
+  "e": 2654.32,
+  "text": "Can you tell me whether that statute violates this statute?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2654.62,
+  "e": 2660.52,
+  "text": "I think that's -- I think it's whether this provision prohibits the Park Service from exercising that authority or whether --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2660.52,
+  "e": 2661.016,
+  "text": "I'm sorry. Go ahead."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2661.016,
+  "e": 2678.22,
+  "text": "Yes. And so to answer that, I think we look at the text and what does the text do. And the text says you can't apply on lands that were conveyed to the State or to private parties those rules that are applicable solely to public lands within conservation system units. And so it's not --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2679.02,
+  "e": 2680.72,
+  "text": "7a? You're saying it's on page 7a?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2680.72,
+  "e": 2680.92,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2682.06,
+  "e": 2688.22,
+  "text": "That's 54 U.S.C. 107 -- 100751. It's a regulation. It's not --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2688.22,
+  "e": 2695.56,
+  "text": "No. I'm sorry. It is -- it is a statute. It's the Act of 1976. I understand that the numbering is -- it's an unusually high --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2695.56,
+  "e": 2700.2,
+  "text": "It's not the numbering. It's -- it says regulations -- oh, I see. (Laughter.)"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2700.32,
+  "e": 2701.4,
+  "text": "It's about the authority to enact --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2701.58,
+  "e": 2703.7,
+  "text": "The statute is addressing regulations."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2703.7,
+  "e": 2703.7,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 2703.7,
+  "e": 2705.3,
+  "text": "That's the subtitle in the statute."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2705.3,
+  "e": 2765.64,
+  "text": "Yes. And so just -- I think Justice Kennedy was making this -- this distinction. And I think it's exactly the right distinction. Is -- is this authority one that gives the Park Service the ability to regulate lands whether they are public or private? And if you look at the text, it does. And as a result, this is not a regulation -- if you think that waters within the parks are private lands, this is not the kind of regulation that's carved out by the text. Just giving meaning to the word solely, that has to be correct. And if you also look to other provisions of the statute, it confirms it in two ways, if I could just focuses on two of them. The first is, if you look at the management plan of the statute of ANILCA, it expressly contemplates that the Park Service is going to be able to regulate private lands under some circumstances. And it does that by saying, you need your management plan to describe the activities that are occurring on private lands and to describe any methods you're going to use -- the methods you're going to use to control those activities, including, quote, \"issuance or enforcement of regulations.\" And just the other thing I think --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2765.78,
+  "e": 2800.62,
+  "text": "And if I'm looking at the right section, I mean, I would have thought that that was key to your argument, because it says in these management plans what you need is a -- is a \"description of privately owned areas which are within such unit.\" So it's clearly contemplating that there are these private areas that are within the unit. And then as you say, it goes on and says we want in these plans some idea of what regulations are going to be applying on those private lands within the unit."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2801.32,
+  "e": 2872.96,
+  "text": "That's right, Your Honor. And if I could just focus on the one other part of the statute that confirms that this reading is correct, that the Park Service isn't being stripped of its preexisting authority to regulate rivers. It's if you look at the other provisions of the statute that very clearly confirm the Park Service is going to have the authority to regulate rivers. And let me just give two examples of those. The first is, when Congress is setting aside land for parks -- and let me use the park here as an example -- it states it's -- its purposes. So it says \"We are creating here the Yukon-Charley Rivers Preserve. And our purposes are to ensure the protection of,\" quote, \"the entire Yukon-Charley basin, including the lakes and the streams. So that provision confirms that Congress is contemplating by setting aside this land as parks, we're going to have this preexisting authority to regulate waters within the parks still in place. And just one other example of these provisions is the Wild and Scenic River Act provisions that are in the statute. And Congress sets aside as a special type of conservation system unit wild and scenic rivers. These are entirely composed of rivers. And says, Park Service, you are supposed to protect those pursuant to your Organic Act authority in these wild and scenic water provisions. The Petitioner's view would --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2872.96,
+  "e": 2889.98,
+  "text": "What does -- you -- on page 24, and I think you have mentioned this several times, so -- you talk about this isn't a problem because your authority is circumscribed and you have the inholdings are -- have substantial protections against Park Service regulation. What -- what are those protections?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2890.22,
+  "e": 2899.7,
+  "text": "Yes. So I want to make clear, our authority is very narrow, and we can only regulate where there is some statute that authorizes us to regulate inholdings and --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2899.7,
+  "e": 2911.787,
+  "text": "Do you -- do you think the statute that authorizes you to regulate is the one that says \"the Secretary shall prescribe such regulations as the Secretary considers necessary or proper\"? Would you --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2911.787,
+  "e": 2914.54,
+  "text": "We're principally relying on the one right below that, (b)."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2914.54,
+  "e": 2919.96,
+  "text": "Well, but do you rely on that one? Because if you rely on that one, I don't see that it provides any protections at all."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2920.42,
+  "e": 2946.26,
+  "text": "So let me tell you how -- how that first one has been interpreted and why it does provide protections. So that first provision has been interpreted to allow the Secretary to regulate private lands when doing so is necessary for the protection of the system units. And so, for example, if the Park Service regulates some activity on private lands that is going to cause danger or harm to the system units that's -- that adjoins them, that's the only circumstance in which authority to regulate --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2946.26,
+  "e": 2953.92,
+  "text": "So danger -- danger or harm, is that what it's limited to? Or could it be limited to scenic, environmental, noise impacts?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2954.96,
+  "e": 2975.04,
+  "text": "We think it's clear that the Park Service can't simply treat inholdings as though they were public lands. And the only case in which the Park Service has tried to use its authority to regulate inholdings under that provision is this case where there is going to be some kind of harm to the actual public lands that befalls the park's units. But --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 2975.04,
+  "e": 2976.38,
+  "text": "But is that true even if it's a -- the regulation is nation -- applicable nationwide?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2979.2,
+  "e": 2984.92,
+  "text": "We think that nationwide, yes, the Park Service's authority to regulate inholdings is quite limited."
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 2986.18,
+  "e": 2996.54,
+  "text": "So -- so if -- because if that's true, then I don't know what -- then you disagree with the Ninth Circuit on the meaning that it gave -- gives to the \"solely\" phrase?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 2997.64,
+  "e": 3017.88,
+  "text": "I think that we think -- and we've said for 20 years in a regulation that's entitled the Chevron difference that what the \"solely\" phrase does is it carves out the rules that are applicable solely to public lands. And because our authority is so limited, that's most rules. It's only under very narrow circumstances that we can write rules that apply to both public and private lands."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3017.94,
+  "e": 3032.38,
+  "text": "No, but your authority is not limited if you get Chevron deference. If you get Chevron deference on determining what you think is necessary or proper, the idea that that's a substantial circumscription of your authority doesn't seem to me to be a valid one."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3032.4,
+  "e": 3054.42,
+  "text": "I don't think so. I mean, there's a -- it's been a very long-standing limitation on how this has been construed that we're not going beyond the kinds of regulations I've described to pervasive regulation. There might be, if we tried to interpret our authority under this section more broadly, there might be a clear statement problem then, but there's certainly no clear statement problem --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 3054.42,
+  "e": 3066.58,
+  "text": "More broadly? Interpret necessary or proper -- necessary or proper to mean necessary or proper? You think it's beyond belief that you're going to do that?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3067.26,
+  "e": 3072.44,
+  "text": "I -- I do. And when the history is there to prove it, it's been interpreted quite narrowly, and I think the Court would --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3072.44,
+  "e": 3087.56,
+  "text": "Some might argue that your proposed regulations on oil contravene the intent of this provision. So assuming we do, how do you deal with that? Assuming some people do. I don't -- I don't know that --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3087.56,
+  "e": 3109.52,
+  "text": "Yes. I -- I think Your Honor is right, that some people might say that that's not an appropriate regulation, and they will be able to challenge it nationwide as not an appropriate exercise of our authority. But what's never been disputed in this case is that, in general, under the 1976 Act, this very specific authorization of the Park Service to regulate waters within units, we have the authority to regulate waters in units --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3109.52,
+  "e": 3109.88,
+  "text": "What --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3109.88,
+  "e": 3140.08,
+  "text": "What can you do about why this provision that you -- you reproduce on 7a gets around the first section of 103(c)? This -- that provision allows regulation of waters within Service units, but the first section, as I read it, says that nonpublic land within the boundaries of -- of a CSU is not part of the CSU."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3140.38,
+  "e": 3176.88,
+  "text": "Yes. So I think the statutory authorization is actually slightly broader. And just to read the language, it's concerning boating or other activities on or relating to waters located within system units. And that's always been understood to allow the regulation of all the waters in system units, regardless of their ownership. And I think it makes sense, because you can't regulate or protect a river piecemeal, stretch by stretch. If Congress -- when Congress set aside these rivers and said the Park Service is going to be able to protect the entire river and stream and basin, protecting the rivers and streams and basins that are Federal property is going to require setting a rule for the whole river, and enforcing the rule on the whole --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 3176.88,
+  "e": 3181.02,
+  "text": "100751 is a general statute; it applies everywhere, right?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3181.62,
+  "e": 3181.72,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 3181.72,
+  "e": 3187.38,
+  "text": "And -- and 3101, Section 103 is specific to Alaska, isn't it?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3187.48,
+  "e": 3187.66,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 3187.74,
+  "e": 3190.64,
+  "text": "Isn't there a general rule that the specific governs the general?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3191.1,
+  "e": 3191.96,
+  "text": "Yes. And I think then --"
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 3191.96,
+  "e": 3206.02,
+  "text": "So this general provision is limited by what Congress has said about Alaska. And that sentence says, \"Only those lines within the boundaries of any CSU which are public lands shall be deemed to be included as a portion of such unit.\""
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3206.12,
+  "e": 3206.44,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SCALIA",
+  "s": 3206.72,
+  "e": 3214.24,
+  "text": "And if you read that back into 100751, it seems to me the Park Service doesn't have jurisdiction."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3214.56,
+  "e": 3244.1,
+  "text": "No. So we agree, Your Honor, that the specific governs the general, and so the Court has to give effect to that first sentence. And what that first sentence says is they can't be treated -- they are not part of the unit. So then we look to the Park Service's authorities and we say, does the Park Service's authority depend on this water being part of the unit? And the answer is no. If you look at (b), it's an authorization to impose rules concerning boating and -- and other activities on or relating to waters located within."
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 3244.1,
+  "e": 3244.56,
+  "text": "Go --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3244.56,
+  "e": 3259.48,
+  "text": "The regulation itself says, it says water -- \"Hovercraft regulation applies to, quote, 'waters subject to the jurisdiction of the United States within the boundaries of the National Park Service.'\""
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3259.66,
+  "e": 3259.94,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3260.14,
+  "e": 3289.8,
+  "text": "And then the National Park Service somewhere has a definition that equates it with the unit. The National Park Service is defined identically to system units. That's at 54 U.S.C. 100102 and 100501. So if we -- Justice Scalia's point is this seems to take the private land, the in-holdings, and say they're not part of the unit; only the public lands are part of the unit --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3289.8,
+  "e": 3290.16,
+  "text": "That's --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3290.16,
+  "e": 3295.98,
+  "text": "-- and then the Hovercraft Regulation applies only to the unit."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3296.9,
+  "e": 3298.28,
+  "text": "No, Your Honor."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3298.5,
+  "e": 3300.18,
+  "text": "And that's -- that -- isn't that the point? Yes. That's --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3300.18,
+  "e": 3300.26,
+  "text": "No --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3300.26,
+  "e": 3300.54,
+  "text": "-- the point."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3300.68,
+  "e": 3301.02,
+  "text": "No, your Honor."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3301.04,
+  "e": 3301.96,
+  "text": "What's the response to that?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3301.96,
+  "e": 3306.42,
+  "text": "So I think Your Honor's suggesting that the regulations themselves say they don't apply --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3306.42,
+  "e": 3306.42,
+  "text": "Yes."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3306.42,
+  "e": 3307.14,
+  "text": "-- unless it's part of a unit."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3307.14,
+  "e": 3307.6,
+  "text": "Exactly."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3307.72,
+  "e": 3324.94,
+  "text": "And I think that's not correct. There's this distinction between what's within the boundaries of the park and what is park lands. And Your -- Your Honor, this is established in Section 103, among other places, where it talks about whether land is within the boundaries of the system unit --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3324.94,
+  "e": 3325.24,
+  "text": "Ah."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3325.24,
+  "e": 3325.42,
+  "text": "-- versus being within the park."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3325.42,
+  "e": 3336.1,
+  "text": "So you're saying it applies within -- it is within the boundaries of the unit, although the unit consists of just the public land. Who drafted this? This is -- (Laughter.)"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3336.1,
+  "e": 3348.82,
+  "text": "And to be clear, there's never been any -- to be clear, there's never been any dispute that the regulations are written to apply to these lands. The only question in this case is whether Section 103 strips that authority. And Your Honor, I would just ask the Court again --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3348.82,
+  "e": 3358.18,
+  "text": "Well, the specific would overcome the general. So if Congress passed a new statute, it could limit or expand 103 as it chose, correct?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3358.18,
+  "e": 3383.04,
+  "text": "Yes. And Your Honor, just -- if I could leave the Court with -- I mean, in interpreting Section 103, this provision that talks about rules solely applicable to public lands, and whether that removes the Park Service's preexisting authority to regulate waters in the parks, I would just ask the Court to look to all the other provisions of the statute that clearly contemplate -- of ANILCA, the statute -- that clearly contemplate the Park Service is going to retain the authority to protect park's waters."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3383.04,
+  "e": 3400.86,
+  "text": "Let's say that part of a river is within a CSU. And do you read this statute to mean that the --the Park Service could regulate boating 500 miles downstream from that part of the -- on that river, because it's relating to waters that are within the CSU?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3400.96,
+  "e": 3415.98,
+  "text": "The Park Service has -- has consistently understood its authority to be regulating the park's -- within the park's boundaries. It's never sought to enact a regulation outside of the park's boundaries. But this 1976 provision has uniformly been understood to confer on the Park Service --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3416.16,
+  "e": 3431.38,
+  "text": "Are you satisfied with this holding -- imaginary -- but the Ninth Circuit's wrong. Two, the second sentence does not bar this regulation. Three, there are other possible arguments; we send it back for reconsideration as to whether those arguments are good or bad."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3431.88,
+  "e": 3436.14,
+  "text": "I'm -- I'm not sure I understand the second sentence of the whole -- so --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3436.14,
+  "e": 3442.52,
+  "text": "They -- they -- we're saying that the second sentence, which is what they're talking about primarily in the briefs, the second sentence of (c) --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3442.52,
+  "e": 3442.82,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3442.82,
+  "e": 3446.46,
+  "text": "-- \"no lands which,\" et cetera, you're right about that."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3446.46,
+  "e": 3446.64,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3446.64,
+  "e": 3448.1,
+  "text": "You're right about -- I mean I imagine --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3448.1,
+  "e": 3448.88,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 3448.88,
+  "e": 3454.5,
+  "text": "Then as to this first sentence, which I -- I don't think I focused on, particularly, we say go back and argue that."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3454.8,
+  "e": 3482.06,
+  "text": "Your Honor, this case could be sent back to address both that and to address the question of what is public lands, which is a question that wasn't addressed below. And we think it would be sufficient to say the second sentence doesn't -- the text clearly indicates the second sentence doesn't prohibit the application of those rules that are validly written to apply to both public and private lands within the parks. This regulation is a rule that's been written to apply, regardless of who owns the lands in the parks. It's an exercise of our narrow authority --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3482.78,
+  "e": 3491.36,
+  "text": "No. That's you winning. (Laughter.) I think Justice Alito has been asking you this question from the beginning."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3491.36,
+  "e": 3491.8,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3491.8,
+  "e": 3499.18,
+  "text": "What do you think the Ninth Circuit meant? And do you agree with its interpretation? As he pointed out --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3499.18,
+  "e": 3499.36,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3499.36,
+  "e": 3503.32,
+  "text": "-- you spent 49 pages of your brief arguing other things --"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3503.32,
+  "e": 3503.86,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3503.86,
+  "e": 3505.06,
+  "text": "-- putting you to the test."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3505.06,
+  "e": 3505.76,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3505.76,
+  "e": 3508.0,
+  "text": "All right. So what do you think it held?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3508.46,
+  "e": 3531.74,
+  "text": "So we think there are -- we have two stronger arguments, but we think part of what the Ninth Circuit said was the second sentence only limits rules that are specific to conservation system units. And \"conservation system units\" is defined in the statute to be parks units in Alaska. And we think, yes, the plain text of this regulation only limits those kinds of rules. We don't think the Court needs to reach that --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3531.88,
+  "e": 3533.26,
+  "text": "Do you think the Ninth Circuit was right?"
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3533.72,
+  "e": 3533.86,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3534.36,
+  "e": 3555.04,
+  "text": "So if there's a rule that applies to conservation -- it applies to Alaska, and it applies to the National Mall, that would be that you can't have a Hovercraft in Alaska or in the tidal basin. Under the Ninth Circuit's -- the Ninth Circuit's rationale, that would be 107 -- 103 -- 103(c) wouldn't buy that."
+ },
+ {
+  "speaker": "MS. KOVNER",
+  "s": 3555.14,
+  "e": 3583.6,
+  "text": "I don't think there's any dispute that's what the plain text says. And the reason I don't think that's ridiculous or irrational, Your Honor, is because when ANILCA was enacted, there was a very well-settled regulatory regime that didn't subject private lands to any kind of plenary authority. So Congress had every reason to -- may I just finish my sentence? Congress had every reason to expect that would remain the rule, nationwide. And what it was concerned about was that the Park Service would deviate from that approach in Alaska when these new lands were added."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3584.18,
+  "e": 3587.48,
+  "text": "Thank you, counsel. Mr. Findley, you have two minutes remaining."
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 3587.58,
+  "e": 3592.02,
+  "text": "Just in the two minutes, can you address the very last point the Solicitor General made, please?"
+ },
+ {
+  "speaker": "MR. FINDLEY",
+  "s": 3593.12,
+  "e": 3718.76,
+  "text": "Yes. And that's -- it's simply backwards to what 103(c) was supposed to do. Let's take Joe Jones' house, and let's think about it differently. Let's think about this as a native corporation's land allotment. You have 40 percent of their land allotment that they were given under Native Claim Settlement Act, land that was given to them in exchange for extinguishing their entire claim for aboriginal land rights. It's there for economic development. It's about to be surrounded by these ANILCA parks. It's worth taking a step back. What does 1 -- Section 103(c) doing? It is saying before ANILCA was passed, you're not part of the park and you're not subject to Park Service regulation. The day after ANILCA was part -- excuse me. The day after ANILCA is passed, you're still not part of the park and you're still not subject to Park Service regulation. The government's position here, they keep saying their authority is limited, and Mr. Chief Justice hit the nail on the head. They're relying on the Organic Act which allows them to enact any regulations they feel necessary at any time. They've already done that with the 9(b) oil and gas regulations, seeking to apply those to non-Federal land within Alaska. And the hits are going to keep on coming unless this Court stops this interpretation and goes back to what 103(c) was meant to do, which was to prevent the Park Service from taking these lands that aren't owned by the government and regulating them as though they are part of the park. And the second point want -- I -- I want to make -- I imagine about 45 seconds at this point: There's a lot of discussion about whether ANILCA covers navigable waters or not. The clear statement rule covers that question. And in that circumstance, it's a question of is anything in the statute clearly saying we are taking away State authority over navigable waters? You will not find the term navigable waters in the statute once. Let's contrast this to other park-enabling legislation. This is for Olympic National Park, and you'll find this at 16 U.S.C. 251(n). And here's what it says: \"The boundary of Olympic National Park Washington is\" -- if I may just finish the quote -- \"is hereby revised to\" -- \"is hereby revised to include within the park all submerged lands and waters of Lake Ozette, Washington, and the Ozette River, Washington.\" There's your clear statement. Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3718.76,
+  "e": 3720.44,
+  "text": "Thank you, counsel. Case is submitted."
+ }
+]
