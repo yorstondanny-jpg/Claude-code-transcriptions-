@@ -38,7 +38,7 @@ SPEAKER_RE = re.compile(
     r"THE CLERK|THE MARSHAL|QUESTION)\s*:\s*(.*)$"
 )
 SECTION_RE = re.compile(r"^(ORAL ARGUMENT OF|REBUTTAL ARGUMENT OF|ON BEHALF OF|P R O C E E D I N G S)")
-TIME_RE = re.compile(r"^\(\d{1,2}:\d{2} [ap]\.m\.\)$")
+TIME_RE = re.compile(r"^[(\[]\d{1,2}:\d{2} [ap]\.m\.[)\]]$")  # "(10:04 a.m.)", "[10:04 a.m.]" before ~2006
 
 
 def log(msg):
@@ -163,8 +163,8 @@ def run_asr(audio, model_name, cache, checkpoint_every=20):
 
 # --------------------------------------------------------------------------- official transcript
 
-BOILERPLATE_RE = re.compile(r"^(Official( - Subject to Final Review)?|.* Reporting (Company|Corporation)"
-                            r"|.*www\.\S+\.com.*)$", re.I)
+BOILERPLATE_RE = re.compile(r"^(Official( - Subject to Final Review)?|.*\bReporting (Company|Corporation)\b.*"
+                            r"|.*www\.\S+\.com.*|.*\bFOR[- ]DEPO\b.*)$", re.I)
 
 
 def clean_pdf_lines(text):
@@ -173,7 +173,8 @@ def clean_pdf_lines(text):
     appears on at least half the pages is page furniture, not speech."""
     text = text.replace("\u00ad", "-")  # the PDFs use soft hyphens for every hyphen/dash
     pages = max(1, text.count("\f"))
-    raw_lines = [r.replace("\f", "").strip() for r in text.splitlines()]
+    # whitespace collapsed, so a footer spaced differently on each page still counts as repeated
+    raw_lines = [re.sub(r"\s+", " ", r.replace("\f", "")).strip() for r in text.splitlines()]
     counts = {}
     for r in raw_lines:
         if r and not r.isdigit():
@@ -195,7 +196,7 @@ def parse_transcript(pdf):
                           text=True, check=True).stdout
     lines = clean_pdf_lines(text)
     start = next(i for i, l in enumerate(lines) if l.startswith("P R O C E E D I N G S"))
-    end = next(i for i, l in enumerate(lines) if l.startswith("(Whereupon"))
+    end = next(i for i, l in enumerate(lines) if re.match(r"^[(\[]?Whereupon", l))
     turns = []
     section = ""  # current argument heading, e.g. "ORAL ARGUMENT OF ... ON BEHALF OF THE PETITIONER"
     in_heading = False  # headings can run over several all-caps lines ("FOR UNITED STATES, AS ...")
@@ -225,7 +226,8 @@ def parse_transcript(pdf):
 def tokenize_turn(text):
     """Split turn text into official words. Punctuation-only tokens ("--") are glued to a
     neighbouring word; "(Laughter.)" is kept as one marker token."""
-    text = re.sub(r"\(\s*Laughter\s*\.?\s*\)\.?", f" {LAUGH} ", text)  # "(Laughter.)", "(Laughter)."
+    # "(Laughter.)", "(Laughter).", "(A little laughter.)", "[Laughter.]" (before ~2006): one marker
+    text = re.sub(r"[(\[]\s*[^()\[\]]*?\blaughter\b[^()\[\]]*[)\]]\.?", f" {LAUGH} ", text, flags=re.I)
     toks = []
     pending_prefix = ""
     for tok in text.split():
@@ -1140,7 +1142,7 @@ transcript's, verbatim; times come from ASR.
 ## Sources
 
 - Argument page: {st['page_url']}
-- Audio: {st['mp3_url']}
+- Audio: {st['mp3_url']}{"" if "supremecourt.gov" in st['mp3_url'] else chr(10) + "  **Not from supremecourt.gov:** the Court's own site has no audio for this argument (its audio pages start with the October 2010 term), so this is Oyez's copy of the Court's recording. The transcript is the Court's own."}
 - Official transcript: {st['pdf_url']}
 
 ## Numbers
