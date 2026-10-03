@@ -111,28 +111,53 @@ def audio_duration(path):
 
 # --------------------------------------------------------------------------- ASR
 
-def run_asr(audio, model_name, cache):
+def run_asr(audio, model_name, cache, checkpoint_every=20):
+    """Whisper over the whole file, with word timestamps. Progress is saved to <cache>.partial
+    every few segments, so a run that dies (a container restart, say) resumes from the last saved
+    segment instead of starting over; Whisper loses its running context only at that seam."""
     if cache.exists():
         data = json.loads(cache.read_text())
         if data.get("model") == model_name:
             log(f"Using cached ASR {cache}")
             return data
+    partial = cache.with_name(cache.name + ".partial")
+    words, offset, prev_elapsed, resumed = [], 0.0, 0.0, []
+    if partial.exists():
+        p = json.loads(partial.read_text())
+        if p.get("model") == model_name:
+            words, offset, prev_elapsed = p["words"], p["upto"], p.get("elapsed_s", 0.0)
+            resumed = p.get("resumed_at", []) + [offset]
+            log(f"Resuming ASR from {offset:.1f} s ({len(words)} words saved)")
     from faster_whisper import WhisperModel
     log(f"Loading {model_name}")
     model = WhisperModel(model_name, device="cpu", compute_type="int8")
-    segments, info = model.transcribe(str(audio), language="en", word_timestamps=True,
+    duration = audio_duration(audio)
+    if offset > 0:
+        pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{offset:.3f}", "-i", str(audio), "-ac", "1",
+                              "-ar", "16000", "-f", "s16le", "-"], capture_output=True, check=True).stdout
+        source = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
+    else:
+        source = str(audio)
+    segments, info = model.transcribe(source, language="en", word_timestamps=True,
                                       vad_filter=False, beam_size=5)
-    words, t0 = [], time.time()
-    for seg in segments:
+    t0 = time.time()
+    for k, seg in enumerate(segments, 1):
         for w in seg.words:
-            words.append({"w": w.word.strip(), "s": round(w.start, 3), "e": round(w.end, 3),
+            words.append({"w": w.word.strip(), "s": round(offset + w.start, 3), "e": round(offset + w.end, 3),
                           "p": round(w.probability, 3)})
-        el = time.time() - t0
-        print(f"\r  {seg.end:7.1f}/{info.duration:.0f}s audio, {el:6.0f}s elapsed", end="", flush=True)
+        el = prev_elapsed + time.time() - t0
+        print(f"\r  {offset + seg.end:7.1f}/{duration:.0f}s audio, {el:6.0f}s elapsed", end="", flush=True)
+        if k % checkpoint_every == 0:
+            partial.write_text(json.dumps({"model": model_name, "upto": round(offset + seg.end, 3),
+                                           "elapsed_s": round(el, 1), "resumed_at": resumed, "words": words}))
     print()
-    data = {"model": model_name, "duration": info.duration,
-            "elapsed_s": round(time.time() - t0, 1), "words": words}
+    data = {"model": model_name, "duration": duration,
+            "elapsed_s": round(prev_elapsed + time.time() - t0, 1), "words": words}
+    if resumed:
+        data["resumed_at"] = resumed
     cache.write_text(json.dumps(data))
+    if partial.exists():
+        partial.unlink()
     return data
 
 

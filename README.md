@@ -46,7 +46,8 @@ wording is Whisper's, cross-checked against Oyez's unofficial transcript; see th
 Add `--mentions "Girl Scout(s),salesman/salesmen,front door"` to list every sentence in the
 argument that mentions those terms, with time and speaker, and `--quotes "line one|line two"` to
 get each line's exact time and a 10-second clip around it in `audio/quotes/`. The raw ASR is cached in `projects/<name>/work/`, so re-running only redoes the
-alignment.
+alignment. While it runs, progress is saved every few segments, so if the run dies (a container
+restart, say) the next run resumes where it stopped.
 
 ## Laugh scout
 

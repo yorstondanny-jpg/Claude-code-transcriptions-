@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 projects/*/work/original.mp3
 projects/*/work/run.log
+projects/*/work/*.partial
