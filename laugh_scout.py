@@ -29,7 +29,7 @@ UA = {"User-Agent": "Mozilla/5.0 (laugh scout)"}
 LAUGH_MARK = "<laughter>"  # history entry marking a laugh, so lookbacks stop there
 LAUGH_RE = re.compile(r"\(\s*[^()]*?\blaughter\b[^()]*\)\.?", re.I)
 SPEAKER_RE = re.compile(
-    r"^((?:CHIEF )?JUSTICE [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+(?: [A-Z'\-]{2,})?|GENERAL [A-Za-z'\-]+|"
+    r"^((?:CHIEF )?JUST(?:ICE)? [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+(?: [A-Z'\-]{2,})?|GENERAL [A-Za-z'\-]+|"
     r"THE CLERK|THE MARSHAL|QUESTION)\s*:\s*(.*)$")
 TIME_RE = re.compile(r"(\d{1,2}):(\d{2})\s*([ap])\.\s*m\.", re.I)
 FURNITURE_RE = re.compile(r"^(Official( - Subject to Final Review)?|.* Reporting (Company|Corporation)|"
@@ -123,7 +123,7 @@ def scan(pdf_bytes):
                 continue
             sm = SPEAKER_RE.match(body)
             if sm:
-                speaker = sm.group(1).upper()
+                speaker = re.sub(r"^(CHIEF )?JUST ", r"\1JUSTICE ", sm.group(1).upper())  # "JUST KAGAN:" typo
                 body = sm.group(2)
             # walk the line in order: text goes into the history, and each laugh marker looks
             # back through it to the previous marker or the start of the speaker's turn

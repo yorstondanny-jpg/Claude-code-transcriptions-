@@ -34,7 +34,7 @@ MAX_MP3_BYTES = 90 * 1024 * 1024
 LAUGH = "(Laughter.)"
 
 SPEAKER_RE = re.compile(
-    r"^((?:CHIEF )?JUSTICE [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+(?: [A-Z'\-]{2,})?|GENERAL [A-Za-z'\-]+|"
+    r"^((?:CHIEF )?JUST(?:ICE)? [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+(?: [A-Z'\-]{2,})?|GENERAL [A-Za-z'\-]+|"
     r"THE CLERK|THE MARSHAL|QUESTION)\s*:\s*(.*)$"
 )
 SECTION_RE = re.compile(r"^(ORAL ARGUMENT OF|REBUTTAL ARGUMENT OF|ON BEHALF OF|P R O C E E D I N G S)")
@@ -188,7 +188,8 @@ def parse_transcript(pdf):
             continue
         in_heading = False
         if m:
-            turns.append({"speaker": m.group(1).upper(), "text": m.group(2), "section": section})
+            turns.append({"speaker": re.sub(r"^(CHIEF )?JUST ", r"\1JUSTICE ", m.group(1).upper()),
+                          "text": m.group(2), "section": section})
         elif turns:
             turns[-1]["text"] += " " + line
     for t in turns:
@@ -374,6 +375,25 @@ def find_quotes(official, quotes, mp3, out_dir, window=10.0):
                      "clip": f"audio/quotes/{clip.name}",
                      "around": [(a, spk, " ".join(ws)) for a, spk, ws in around]})
     return rows
+
+
+def longest_questions(official, turns, n=10):
+    """The n longest turns by a justice, timed from first word to last in the audio: each is
+    uninterrupted by definition, since the transcript starts a new turn when anyone else speaks."""
+    by_turn = {}
+    for o in official:
+        by_turn.setdefault(o["turn"], []).append(o)
+    rows = []
+    for ti, ws in by_turn.items():
+        spk = turns[ti]["speaker"]
+        spoken = [o for o in ws if o["w"] != LAUGH]
+        if "JUSTICE" not in spk or not spoken:
+            continue
+        rows.append({"speaker": spk, "s": spoken[0]["s"], "e": spoken[-1]["e"],
+                     "dur": round(spoken[-1]["e"] - spoken[0]["s"], 2), "words": len(spoken),
+                     "text": " ".join(o["w"] for o in ws)})
+    rows.sort(key=lambda r: -r["dur"])
+    return rows[:n]
 
 
 def measure_laughs(official, db, silence, hop=HOP, edge=0.05, words_before=30):
@@ -645,6 +665,8 @@ def main():
                     "e.g. \"Girl Scout(s),salesman/salesmen,front door\"")
     ap.add_argument("--quotes", help="'|'-separated lines to locate in the argument, each with a "
                     "10-second clip around it")
+    ap.add_argument("--long-questions", type=int, default=0, metavar="N",
+                    help="list the N longest uninterrupted turns by a justice")
     ap.add_argument("--opinion", action="store_true",
                     help="also fetch and transcribe the opinion announcement from oyez.org (Whisper only)")
     args = ap.parse_args()
@@ -735,6 +757,7 @@ def main():
                       f"{b['dur']:.2f} | {b['mean_db']} | {near(b)} | {overlap(b)} |")
     pauses, spoken_words = rank_pauses(official, db, silence)
     laugh_rows = measure_laughs(official, db, silence)
+    long_qs = longest_questions(official, turns, args.long_questions) if args.long_questions else None
     quotes = [q.strip() for q in args.quotes.split("|") if q.strip()] if args.quotes else []
     quote_rows = find_quotes(official, quotes, mp3, audio_dir / "quotes") if quotes else None
     md += ["", "## Every pause of 0.4 s or more, loudest room first", "",
@@ -769,7 +792,7 @@ def main():
     terms = [t.strip() for t in args.mentions.split(",") if t.strip()] if args.mentions else []
     mentions = key_mentions(official, terms) if terms else None
     stats = {
-        "terms": terms, "mentions": mentions, "laugh_rows": laugh_rows, "quote_rows": quote_rows, "quotes": quotes, "silence_db": round(silence, 1),
+        "terms": terms, "mentions": mentions, "laugh_rows": laugh_rows, "long_qs": long_qs, "long_n": args.long_questions, "quote_rows": quote_rows, "quotes": quotes, "silence_db": round(silence, 1),
         "opening_start": opening_start, "opening": opening, "opinion": opinion,
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
         "pdf_url": pdf_url, "model": args.model, "duration": duration,
@@ -1162,7 +1185,7 @@ matched word's ASR time changes.
 
 Regenerate with:
 
-    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}{(' --quotes ' + chr(34) + '|'.join(st['quotes']) + chr(34)) if st.get('quotes') else ''}
+    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}{(' --quotes ' + chr(34) + '|'.join(st['quotes']) + chr(34)) if st.get('quotes') else ''}{(' --long-questions ' + str(st['long_n'])) if st.get('long_n') else ''}
 """
     text += readme_extras(st)
     (root / "README.md").write_text(text)
@@ -1170,6 +1193,13 @@ Regenerate with:
 
 def readme_extras(st):
     out = ""
+    if st.get("long_qs"):
+        out += (f"\n## The {len(st['long_qs'])} longest uninterrupted questions from a justice\n\n"
+                "Each is one justice's turn in the transcript, which ends when anyone else speaks, timed from "
+                "its first word to its last. Longest first; official wording.\n")
+        for k, r in enumerate(st["long_qs"], 1):
+            out += (f"\n### {k}. {r['speaker']}, {fmt_ts(r['s'])} to {fmt_ts(r['e'])} "
+                    f"({r['dur']:.1f} s, {r['words']} words)\n\n> {r['text']}\n")
     if st.get("quote_rows"):
         out += ("\n## Quotes\n\nEach line's exact place in the argument (official wording; matched ignoring "
                 "case, punctuation and hyphens), and the 10 seconds of audio centred on it: the window's "
@@ -1234,6 +1264,9 @@ def readme_extras(st):
                 if ck["long_bad"] else "none")
     out += f"""The justice reading the decision from the bench, {op['title']}.
 
+- Source: this recording comes from Oyez (oyez.org), not from the Supreme Court's own website,
+  which publishes argument audio but not opinion announcements. The argument audio above is the
+  Court's own.
 - Oyez page: {op['page_url']}
 - Audio: {op['mp3_url']} (saved unchanged as `audio/opinion.mp3`: {op['mp3_bytes']/1e6:.1f} MB)
 - Length: {fmt_ts(op['duration'])} ({op['duration']:.3f} s)
