@@ -15,6 +15,8 @@ word by word to the official text.
 | [lozman-house](projects/lozman-house/) | Lozman v. City of Riviera Beach, Florida, No. 11-626 | 1 October 2012 |
 | [star-athletica-uniform](projects/star-athletica-uniform/) | Star Athletica, L.L.C. v. Varsity Brands, Inc., No. 15-866 | 31 October 2016 |
 | [yates-fish](projects/yates-fish/) | Yates v. United States, No. 13-7451 (plus the opinion announcement) | 5 November 2014 |
+| [sturgeon-hovercraft-2](projects/sturgeon-hovercraft-2/) | Sturgeon v. Frost (II), No. 17-949 (plus the opinion announcement) | 14 November 2018 |
+| [sturgeon-hovercraft-1](projects/sturgeon-hovercraft-1/) | Sturgeon v. Frost (I), No. 14-1209 (plus the opinion announcement) | 20 January 2016 |
 | [pom-juice](projects/pom-juice/) | POM Wonderful LLC v. Coca-Cola Co., No. 12-761 (plus the opinion announcement) | 21 April 2014 |
 | [alvarez-medal](projects/alvarez-medal/) | United States v. Alvarez, No. 11-210 (plus the opinion announcement) | 22 February 2012 |
 | [bowman-soybean](projects/bowman-soybean/) | Bowman v. Monsanto Co., No. 11-796 (plus the opinion announcement) | 19 February 2013 |
