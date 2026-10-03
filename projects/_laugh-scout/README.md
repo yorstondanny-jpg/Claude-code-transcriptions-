@@ -1,6 +1,6 @@
 # Laugh scout
 
-Courtroom laughter in the official oral argument transcripts, counted from the PDFs on supremecourt.gov. No audio was used. Every bracketed marker containing the word "laughter" counts: "(Laughter.)", "(Laughter).", "(Laughter)", "(A little laughter.)" and so on. Only the argument itself is scanned, from "P R O C E E D I N G S" to "Whereupon", so the word index at the back doesn't count. Minutes come from the start and end times printed in the transcript. The transcript is a stenographer's record: it marks laughter the reporter noticed, and some reporters mark more than others.
+Courtroom laughter in the official oral argument transcripts, counted from the PDFs on supremecourt.gov. No audio was used. Every bracketed marker containing the word "laughter" counts: "(Laughter.)", "(Laughter).", "(Laughter)", "(A little laughter.)", and "[Laughter.]" in square brackets as in transcripts before about 2006. Only the argument itself is scanned, from "P R O C E E D I N G S" to "Whereupon", so the word index at the back doesn't count. Minutes come from the start and end times printed in the transcript. The transcript is a stenographer's record: it marks laughter the reporter noticed, and some reporters mark more than others.
 
 Regenerate with `python3 laugh_scout.py projects/_laugh-scout/cases.json projects/_laugh-scout`.
 
@@ -118,7 +118,7 @@ Page:line is the transcript's own numbering (the printed page number, not the PD
 
 ## Transcripts not found
 
-None. All 16 transcripts were found, one argument each (no docket on this list was argued twice; the two Sturgeon v. Frost arguments are separate dockets, 14-1209 and 17-949).
+None. All 16 transcripts were found, one argument each.
 
 ## Notes
 

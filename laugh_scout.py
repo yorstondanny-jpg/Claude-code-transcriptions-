@@ -8,7 +8,7 @@ word index), and records page:line, the speaker and the text just before each la
 argument length from the transcript's start and end times.
 
 Usage:
-    python3 laugh_scout.py projects/_laugh-scout/cases.json projects/_laugh-scout
+    python3 laugh_scout.py projects/_laugh-scout/cases.json projects/_laugh-scout [TOP_N]
 
 cases.json is a list of {"case", "docket", "argued" (YYYY-MM-DD), "note"}.
 Requires pdftotext (poppler-utils).
@@ -27,7 +27,8 @@ SCOTUS = "https://www.supremecourt.gov"
 UA = {"User-Agent": "Mozilla/5.0 (laugh scout)"}
 
 LAUGH_MARK = "<laughter>"  # history entry marking a laugh, so lookbacks stop there
-LAUGH_RE = re.compile(r"\(\s*[^()]*?\blaughter\b[^()]*\)\.?", re.I)
+# "(Laughter.)", and "[Laughter.]" in transcripts before about 2006
+LAUGH_RE = re.compile(r"[(\[]\s*[^()\[\]]*?\blaughter\b[^()\[\]]*[)\]]\.?", re.I)
 SPEAKER_RE = re.compile(
     r"^((?:CHIEF )?JUST(?:ICE)? [A-Z'\-]+|(?:MR|MS|MRS|GENERAL)\.? [A-Za-z'\-]+(?: [A-Z'\-]{2,})?|GENERAL [A-Za-z'\-]+|"
     r"THE CLERK|THE MARSHAL|QUESTION)\s*:\s*(.*)$")
@@ -85,6 +86,7 @@ def scan(pdf_bytes):
     page_hits = sum(1 for i, b in enumerate(bare, 1) if (i - offset) in b)
     laughs, start_t, end_t = [], None, None
     end_note = None
+    in_argument = False
     speaker, history = None, []  # history: (speaker, words) of recent body lines
     started = ended = False
     for pi, page in enumerate(pages, 1):
@@ -103,12 +105,17 @@ def scan(pdf_bytes):
                 continue
             if ended:
                 continue
-            if start_t is None:
+            # start: the last "(10:04 a.m.)" / "[10:04 a.m.]" before the first argument heading
+            # (Kyllo opens with a 10:00 ceremony before the case is called at 10:14)
+            if (body.startswith("ORAL ARGUMENT OF") and len(body) > len("ORAL ARGUMENT OF") + 2
+                    and not re.search(r"\bPAGE\b", body)):  # a real heading, not a contents line
+                in_argument = True
+            if not in_argument:
                 tm = TIME_RE.search(body)
-                if tm and body.startswith("("):
+                if tm and body[:1] in "([":
                     start_t = to_minutes(*tm.groups())
                     continue
-            if re.match(r"^\(?Whereupon", body):  # Heien (13-604) drops the bracket
+            if re.match(r"^[(\[]?Whereupon", body):  # Heien (13-604) drops the bracket; old ones use [
                 tm = TIME_RE.search(body)
                 bare = re.search(r"\bat (\d{1,2}):(\d{2})", body)
                 if tm:
@@ -161,18 +168,18 @@ def fmt_clock(m):
     return f"{(h - 1) % 12 + 1}:{mm:02d} {'a.m.' if h < 12 else 'p.m.'}"
 
 
-def readme(results, missing, cases, top=5):
+def readme(results, missing, cases, top=5, cmd="python3 laugh_scout.py projects/_laugh-scout/cases.json projects/_laugh-scout"):
     date = lambda iso: datetime.date.fromisoformat(iso).strftime("%-d %b %Y")
     label = lambda r: r["case"] + (f" (argument {r['argument']})" if r["arguments_found"] > 1 else "")
     out = ["# Laugh scout", "",
            "Courtroom laughter in the official oral argument transcripts, counted from the PDFs on "
            "supremecourt.gov. No audio was used. Every bracketed marker containing the word "
            "\"laughter\" counts: \"(Laughter.)\", \"(Laughter).\", \"(Laughter)\", \"(A little "
-           "laughter.)\" and so on. Only the argument itself is scanned, from \"P R O C E E D I N G "
+           "laughter.)\", and \"[Laughter.]\" in square brackets as in transcripts before about 2006. Only the argument itself is scanned, from \"P R O C E E D I N G "
            "S\" to \"Whereupon\", so the word index at the back doesn't count. Minutes come from the "
            "start and end times printed in the transcript. The transcript is a stenographer's "
            "record: it marks laughter the reporter noticed, and some reporters mark more than others.",
-           "", "Regenerate with `python3 laugh_scout.py projects/_laugh-scout/cases.json projects/_laugh-scout`.",
+           "", f"Regenerate with `{cmd}`.",
            "", "## Ranking", "", "Most laughs first; ties broken by laughs per 10 minutes.", "",
            "| # | case | docket | argued | laughs | minutes | per 10 min | transcript |",
            "|---|---|---|---|---|---|---|---|"]
@@ -196,9 +203,8 @@ def readme(results, missing, cases, top=5):
         out += [f"- {m['case']}, No. {m['docket']} (argued {date(m['argued'])}): nothing on {m['listing']}"
                 for m in missing]
     else:
-        out.append(f"None. All {len(cases)} transcripts were found, one argument each "
-                   "(no docket on this list was argued twice; the two Sturgeon v. Frost arguments are "
-                   "separate dockets, 14-1209 and 17-949).")
+        out.append(f"None. All {len(cases)} transcripts were found"
+                   + (", one argument each." if all(r["arguments_found"] == 1 for r in results) else "."))
     notes = []
     for r in results:
         if r["checks"].get("end_note"):
@@ -237,7 +243,9 @@ def main():
     (out_dir / "laughs.json").write_text(json.dumps({"generated": datetime.date.today().isoformat(),
                                                      "results": results, "not_found": missing},
                                                     indent=1, ensure_ascii=False) + "\n")
-    (out_dir / "README.md").write_text(readme(results, missing, cases))
+    top = int(sys.argv[3]) if len(sys.argv) > 3 else 5
+    cmd = "python3 laugh_scout.py " + " ".join(sys.argv[1:])
+    (out_dir / "README.md").write_text(readme(results, missing, cases, top=top, cmd=cmd))
     print(f"wrote {out_dir / 'laughs.json'} and README.md")
 
 
