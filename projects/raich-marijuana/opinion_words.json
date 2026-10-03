@@ -1,0 +1,3458 @@
+[
+ {
+  "w": "The",
+  "s": 0.0,
+  "e": 0.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "opinion",
+  "s": 0.98,
+  "e": 1.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 1.32,
+  "e": 1.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 1.54,
+  "e": 1.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 1.72,
+  "e": 1.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 1.96,
+  "e": 2.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Gonzalez",
+  "s": 2.92,
+  "e": 3.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "v.",
+  "s": 3.58,
+  "e": 4.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Wright",
+  "s": 4.36,
+  "e": 4.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "will",
+  "s": 4.44,
+  "e": 5.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "be",
+  "s": 5.44,
+  "e": 5.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "announced",
+  "s": 5.6,
+  "e": 5.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "by",
+  "s": 5.86,
+  "e": 6.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Justice",
+  "s": 6.12,
+  "e": 6.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Stevens.",
+  "s": 6.42,
+  "e": 6.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "This",
+  "s": 8.52,
+  "e": 8.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "case",
+  "s": 8.66,
+  "e": 8.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "comes",
+  "s": 8.96,
+  "e": 9.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 9.3,
+  "e": 9.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "us",
+  "s": 9.46,
+  "e": 10.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "from",
+  "s": 10.2,
+  "e": 10.38,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 10.38,
+  "e": 10.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Court",
+  "s": 10.56,
+  "e": 10.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 10.7,
+  "e": 10.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Appeals",
+  "s": 10.86,
+  "e": 11.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 11.2,
+  "e": 11.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 11.42,
+  "e": 11.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Ninth",
+  "s": 11.6,
+  "e": 11.8,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Circuit.",
+  "s": 11.8,
+  "e": 12.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "California",
+  "s": 13.42,
+  "e": 13.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 13.92,
+  "e": 14.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "one",
+  "s": 14.32,
+  "e": 14.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 14.56,
+  "e": 14.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "at",
+  "s": 14.7,
+  "e": 14.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "least",
+  "s": 14.9,
+  "e": 15.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "nine",
+  "s": 15.1,
+  "e": 15.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "States",
+  "s": 15.46,
+  "e": 16.08,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 16.08,
+  "e": 16.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "authorize",
+  "s": 16.54,
+  "e": 17.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 17.0,
+  "e": 17.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "use",
+  "s": 17.34,
+  "e": 17.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 17.54,
+  "e": 17.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 17.78,
+  "e": 18.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 18.3,
+  "e": 19.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "medicinal",
+  "s": 19.04,
+  "e": 19.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "purposes.",
+  "s": 19.6,
+  "e": 20.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "The",
+  "s": 21.26,
+  "e": 21.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "question",
+  "s": 21.42,
+  "e": 21.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "presented",
+  "s": 21.78,
+  "e": 22.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "in",
+  "s": 22.32,
+  "e": 22.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "this",
+  "s": 22.54,
+  "e": 22.72,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "case",
+  "s": 22.72,
+  "e": 23.06,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 23.06,
+  "e": 23.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "whether",
+  "s": 23.28,
+  "e": 23.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 23.5,
+  "e": 23.72,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "power",
+  "s": 23.72,
+  "e": 24.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "vested",
+  "s": 24.04,
+  "e": 24.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "in",
+  "s": 24.44,
+  "e": 24.8,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Congress",
+  "s": 24.8,
+  "e": 25.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "by",
+  "s": 25.16,
+  "e": 25.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Article",
+  "s": 25.48,
+  "e": 25.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "I,",
+  "s": 25.9,
+  "e": 26.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Section",
+  "s": 26.24,
+  "e": 26.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "8",
+  "s": 26.56,
+  "e": 26.74,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 26.74,
+  "e": 26.88,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 26.88,
+  "e": 27.08,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Constitution",
+  "s": 27.08,
+  "e": 27.72,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 27.72,
+  "e": 28.68,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "make",
+  "s": 28.68,
+  "e": 28.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "all",
+  "s": 28.86,
+  "e": 29.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "laws",
+  "s": 29.24,
+  "e": 29.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "which",
+  "s": 29.62,
+  "e": 29.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "shall",
+  "s": 29.82,
+  "e": 30.02,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "be",
+  "s": 30.02,
+  "e": 30.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "necessary",
+  "s": 30.24,
+  "e": 30.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "and",
+  "s": 30.84,
+  "e": 31.14,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "proper",
+  "s": 31.14,
+  "e": 31.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 31.56,
+  "e": 31.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "carrying",
+  "s": 31.82,
+  "e": 32.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "into",
+  "s": 32.2,
+  "e": 32.74,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "execution",
+  "s": 32.74,
+  "e": 33.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "its",
+  "s": 33.78,
+  "e": 34.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "authority",
+  "s": 34.54,
+  "e": 35.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 35.0,
+  "e": 35.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "regulate",
+  "s": 35.32,
+  "e": 35.74,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "interstate",
+  "s": 35.74,
+  "e": 36.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "commerce",
+  "s": 36.86,
+  "e": 37.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "includes",
+  "s": 37.58,
+  "e": 38.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 38.64,
+  "e": 38.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "power",
+  "s": 38.96,
+  "e": 39.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 39.28,
+  "e": 39.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "prohibit",
+  "s": 39.54,
+  "e": 39.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 39.96,
+  "e": 40.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "local",
+  "s": 40.26,
+  "e": 40.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "cultivation",
+  "s": 40.54,
+  "e": 41.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "and",
+  "s": 41.24,
+  "e": 41.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "use",
+  "s": 41.52,
+  "e": 41.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 41.7,
+  "e": 41.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 41.96,
+  "e": 42.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "in",
+  "s": 42.44,
+  "e": 43.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "compliance",
+  "s": 43.2,
+  "e": 43.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "with",
+  "s": 43.76,
+  "e": 44.08,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "California",
+  "s": 44.08,
+  "e": 44.68,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "law.",
+  "s": 44.68,
+  "e": 45.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Respondents",
+  "s": 46.88,
+  "e": 47.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "are",
+  "s": 47.46,
+  "e": 47.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "seriously",
+  "s": 47.7,
+  "e": 48.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "ill",
+  "s": 48.26,
+  "e": 48.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "California",
+  "s": 48.58,
+  "e": 49.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "residents.",
+  "s": 49.3,
+  "e": 49.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Their",
+  "s": 49.94,
+  "e": 50.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "doctors",
+  "s": 50.76,
+  "e": 51.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "have",
+  "s": 51.2,
+  "e": 51.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "concluded",
+  "s": 51.52,
+  "e": 52.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "after",
+  "s": 52.1,
+  "e": 52.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "unsuccessfully",
+  "s": 52.58,
+  "e": 53.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "prescribing",
+  "s": 53.5,
+  "e": 54.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 54.28,
+  "e": 54.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "host",
+  "s": 54.9,
+  "e": 55.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 55.2,
+  "e": 55.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "conventional",
+  "s": 55.46,
+  "e": 56.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "medicines",
+  "s": 56.04,
+  "e": 56.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 56.58,
+  "e": 57.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 57.5,
+  "e": 57.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 57.96,
+  "e": 58.36,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 58.36,
+  "e": 58.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "only",
+  "s": 58.56,
+  "e": 58.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "drug",
+  "s": 58.86,
+  "e": 59.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "available",
+  "s": 59.2,
+  "e": 59.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 59.7,
+  "e": 60.06,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "provides",
+  "s": 60.06,
+  "e": 60.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "effective",
+  "s": 60.48,
+  "e": 60.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "treatment.",
+  "s": 60.98,
+  "e": 61.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Both",
+  "s": 62.86,
+  "e": 63.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "women",
+  "s": 63.18,
+  "e": 63.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "have",
+  "s": 63.56,
+  "e": 63.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "been",
+  "s": 63.82,
+  "e": 63.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "using",
+  "s": 63.98,
+  "e": 64.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 64.26,
+  "e": 64.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "as",
+  "s": 64.82,
+  "e": 65.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 65.1,
+  "e": 65.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "medication",
+  "s": 65.28,
+  "e": 65.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 65.76,
+  "e": 66.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "several",
+  "s": 66.1,
+  "e": 66.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "years",
+  "s": 66.42,
+  "e": 66.88,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "pursuant",
+  "s": 66.88,
+  "e": 67.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 67.34,
+  "e": 67.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "their",
+  "s": 67.58,
+  "e": 67.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "doctor's",
+  "s": 67.78,
+  "e": 68.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "recommendation,",
+  "s": 68.24,
+  "e": 68.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "and",
+  "s": 69.2,
+  "e": 69.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "both",
+  "s": 69.76,
+  "e": 70.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "rely",
+  "s": 70.0,
+  "e": 70.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "heavily",
+  "s": 70.44,
+  "e": 70.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "on",
+  "s": 70.92,
+  "e": 71.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "cannabis",
+  "s": 71.6,
+  "e": 71.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 71.94,
+  "e": 72.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "function",
+  "s": 72.24,
+  "e": 72.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "on",
+  "s": 72.56,
+  "e": 72.8,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 72.8,
+  "e": 72.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "daily",
+  "s": 72.94,
+  "e": 73.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "basis.",
+  "s": 73.2,
+  "e": 73.68,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "While",
+  "s": 74.98,
+  "e": 75.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Respondents'",
+  "s": 75.28,
+  "e": 75.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "activities",
+  "s": 76.1,
+  "e": 76.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "do",
+  "s": 76.34,
+  "e": 76.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "not",
+  "s": 76.62,
+  "e": 76.88,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "violate",
+  "s": 76.88,
+  "e": 77.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "California",
+  "s": 77.32,
+  "e": 78.06,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "law,",
+  "s": 78.06,
+  "e": 78.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "they",
+  "s": 78.66,
+  "e": 79.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "do",
+  "s": 79.0,
+  "e": 79.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "violate",
+  "s": 79.2,
+  "e": 79.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 79.76,
+  "e": 79.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Federal",
+  "s": 79.94,
+  "e": 80.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Controlled",
+  "s": 80.32,
+  "e": 80.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Substance",
+  "s": 80.82,
+  "e": 81.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Act",
+  "s": 81.3,
+  "e": 81.8,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 81.8,
+  "e": 82.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "1970,",
+  "s": 82.04,
+  "e": 82.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 83.52,
+  "e": 83.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "comprehensive",
+  "s": 83.82,
+  "e": 84.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "regulatory",
+  "s": 84.6,
+  "e": 85.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "statute",
+  "s": 85.46,
+  "e": 85.91,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "which,",
+  "s": 86.14,
+  "e": 87.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "among",
+  "s": 87.16,
+  "e": 87.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "other",
+  "s": 87.3,
+  "e": 87.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "things,",
+  "s": 87.6,
+  "e": 88.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "categorically",
+  "s": 88.24,
+  "e": 88.88,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "prohibits",
+  "s": 88.88,
+  "e": 89.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 89.46,
+  "e": 89.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "manufacture,",
+  "s": 89.78,
+  "e": 90.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "distribution,",
+  "s": 90.96,
+  "e": 91.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "or",
+  "s": 91.64,
+  "e": 91.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "possession",
+  "s": 91.98,
+  "e": 92.38,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 92.38,
+  "e": 92.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 92.66,
+  "e": 93.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 93.16,
+  "e": 93.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "any",
+  "s": 93.54,
+  "e": 93.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "purpose.",
+  "s": 93.84,
+  "e": 94.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "After",
+  "s": 95.66,
+  "e": 96.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "agents",
+  "s": 96.56,
+  "e": 97.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "from",
+  "s": 97.0,
+  "e": 97.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 97.22,
+  "e": 97.38,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Drug",
+  "s": 97.38,
+  "e": 97.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Enforcement",
+  "s": 97.6,
+  "e": 98.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Administration",
+  "s": 98.12,
+  "e": 98.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "seized",
+  "s": 98.9,
+  "e": 99.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "and",
+  "s": 99.46,
+  "e": 99.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "destroyed",
+  "s": 99.7,
+  "e": 100.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "their",
+  "s": 100.18,
+  "e": 100.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "cannabis",
+  "s": 100.46,
+  "e": 100.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "plants,",
+  "s": 100.92,
+  "e": 101.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Respondents",
+  "s": 102.26,
+  "e": 102.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "filed",
+  "s": 102.78,
+  "e": 103.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "this",
+  "s": 103.1,
+  "e": 103.38,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "action",
+  "s": 103.38,
+  "e": 103.8,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 103.8,
+  "e": 104.02,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "prohibit",
+  "s": 104.02,
+  "e": 104.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "enforcement",
+  "s": 104.42,
+  "e": 105.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 105.04,
+  "e": 105.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 105.18,
+  "e": 105.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Federal",
+  "s": 105.32,
+  "e": 105.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "statute",
+  "s": 105.64,
+  "e": 106.14,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 106.14,
+  "e": 106.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 106.84,
+  "e": 107.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "extent",
+  "s": 107.0,
+  "e": 107.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 107.32,
+  "e": 107.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "it",
+  "s": 107.54,
+  "e": 107.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "prevents",
+  "s": 107.7,
+  "e": 108.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "them",
+  "s": 108.44,
+  "e": 108.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "from",
+  "s": 108.9,
+  "e": 109.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "cultivating",
+  "s": 109.16,
+  "e": 109.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 109.95,
+  "e": 110.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 110.26,
+  "e": 110.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "their",
+  "s": 110.56,
+  "e": 110.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "personal",
+  "s": 110.76,
+  "e": 111.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "medical",
+  "s": 111.24,
+  "e": 112.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "use.",
+  "s": 112.42,
+  "e": 112.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "The",
+  "s": 114.06,
+  "e": 114.68,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "district",
+  "s": 114.68,
+  "e": 115.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "court",
+  "s": 115.0,
+  "e": 115.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "denied",
+  "s": 115.24,
+  "e": 115.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "relief,",
+  "s": 115.66,
+  "e": 116.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "but",
+  "s": 116.26,
+  "e": 116.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 116.46,
+  "e": 116.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Court",
+  "s": 116.64,
+  "e": 116.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 116.76,
+  "e": 116.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Appeals",
+  "s": 116.94,
+  "e": 117.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 117.24,
+  "e": 117.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 117.44,
+  "e": 117.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Ninth",
+  "s": 117.6,
+  "e": 117.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Circuit",
+  "s": 117.76,
+  "e": 118.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "held",
+  "s": 118.1,
+  "e": 118.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 118.56,
+  "e": 119.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "as",
+  "s": 119.34,
+  "e": 119.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "applied",
+  "s": 119.56,
+  "e": 119.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 119.98,
+  "e": 120.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "their",
+  "s": 120.24,
+  "e": 120.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "activities,",
+  "s": 120.52,
+  "e": 121.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 121.78,
+  "e": 121.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "CSA",
+  "s": 121.94,
+  "e": 122.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "exceeded",
+  "s": 122.58,
+  "e": 123.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Congress",
+  "s": 123.18,
+  "e": 123.68,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "power",
+  "s": 123.68,
+  "e": 124.08,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "under",
+  "s": 124.08,
+  "e": 124.4,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 124.4,
+  "e": 124.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Commerce",
+  "s": 124.66,
+  "e": 124.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Clause.",
+  "s": 124.92,
+  "e": 125.4,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Because",
+  "s": 125.8,
+  "e": 126.4,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 126.4,
+  "e": 126.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 126.56,
+  "e": 126.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "obvious",
+  "s": 126.7,
+  "e": 127.08,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "importance",
+  "s": 127.08,
+  "e": 127.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 127.56,
+  "e": 127.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 127.78,
+  "e": 127.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "case,",
+  "s": 127.92,
+  "e": 128.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "we",
+  "s": 128.28,
+  "e": 128.36,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "granted",
+  "s": 128.36,
+  "e": 128.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "certiorari.",
+  "s": 128.64,
+  "e": 129.38,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "The",
+  "s": 130.78,
+  "e": 131.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "case",
+  "s": 131.2,
+  "e": 131.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 131.48,
+  "e": 131.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "extremely",
+  "s": 131.66,
+  "e": 132.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "troublesome",
+  "s": 132.1,
+  "e": 132.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "because",
+  "s": 132.64,
+  "e": 133.02,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Respondents",
+  "s": 133.02,
+  "e": 133.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "have",
+  "s": 133.66,
+  "e": 133.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "made",
+  "s": 133.92,
+  "e": 134.14,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "such",
+  "s": 134.14,
+  "e": 134.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 134.42,
+  "e": 134.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "strong",
+  "s": 134.64,
+  "e": 134.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "showing",
+  "s": 134.92,
+  "e": 135.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 135.32,
+  "e": 135.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "they",
+  "s": 135.52,
+  "e": 135.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "will",
+  "s": 135.66,
+  "e": 135.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "suffer",
+  "s": 135.84,
+  "e": 136.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "irreparable",
+  "s": 136.12,
+  "e": 136.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "harm",
+  "s": 136.76,
+  "e": 137.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "if",
+  "s": 137.26,
+  "e": 137.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "denied",
+  "s": 137.84,
+  "e": 138.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 138.22,
+  "e": 138.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "use",
+  "s": 138.5,
+  "e": 138.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 138.7,
+  "e": 138.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 138.94,
+  "e": 139.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 139.34,
+  "e": 139.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "treat",
+  "s": 139.64,
+  "e": 139.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "their",
+  "s": 139.9,
+  "e": 140.14,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "serious",
+  "s": 140.14,
+  "e": 140.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "medical",
+  "s": 140.52,
+  "e": 140.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "ailments.",
+  "s": 140.98,
+  "e": 141.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "But",
+  "s": 142.0,
+  "e": 142.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 142.6,
+  "e": 142.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "question",
+  "s": 142.78,
+  "e": 143.14,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "before",
+  "s": 143.14,
+  "e": 143.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "us",
+  "s": 143.54,
+  "e": 143.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 143.9,
+  "e": 144.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "not",
+  "s": 144.12,
+  "e": 144.36,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "whether",
+  "s": 144.36,
+  "e": 144.68,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 144.68,
+  "e": 145.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "does",
+  "s": 145.22,
+  "e": 145.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "in",
+  "s": 145.54,
+  "e": 145.74,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "fact",
+  "s": 145.74,
+  "e": 146.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "have",
+  "s": 146.0,
+  "e": 146.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "valid",
+  "s": 146.3,
+  "e": 146.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "therapeutic",
+  "s": 146.66,
+  "e": 147.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "purposes,",
+  "s": 147.3,
+  "e": 148.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "nor",
+  "s": 148.54,
+  "e": 148.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "whether",
+  "s": 148.76,
+  "e": 149.02,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "it",
+  "s": 149.02,
+  "e": 149.14,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 149.14,
+  "e": 149.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "good",
+  "s": 149.3,
+  "e": 149.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "policy",
+  "s": 149.5,
+  "e": 150.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 150.04,
+  "e": 150.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 150.28,
+  "e": 150.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Federal",
+  "s": 150.48,
+  "e": 150.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "government",
+  "s": 150.7,
+  "e": 151.14,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 151.14,
+  "e": 151.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "enforce",
+  "s": 151.58,
+  "e": 151.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 151.96,
+  "e": 152.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Controlled",
+  "s": 152.2,
+  "e": 152.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Substances",
+  "s": 152.56,
+  "e": 153.06,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Act",
+  "s": 153.06,
+  "e": 153.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "in",
+  "s": 153.42,
+  "e": 153.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "these",
+  "s": 153.62,
+  "e": 153.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "circumstances.",
+  "s": 153.84,
+  "e": 154.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Rather,",
+  "s": 155.42,
+  "e": 155.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 155.9,
+  "e": 156.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "only",
+  "s": 156.0,
+  "e": 156.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "question",
+  "s": 156.26,
+  "e": 156.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "before",
+  "s": 156.76,
+  "e": 157.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "us",
+  "s": 157.22,
+  "e": 157.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 157.6,
+  "e": 157.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "whether",
+  "s": 157.82,
+  "e": 158.06,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Congress",
+  "s": 158.06,
+  "e": 158.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "has",
+  "s": 158.54,
+  "e": 159.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 159.2,
+  "e": 159.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "power",
+  "s": 159.42,
+  "e": 159.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 159.76,
+  "e": 160.4,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "prohibit",
+  "s": 160.4,
+  "e": 160.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Respondents'",
+  "s": 160.96,
+  "e": 161.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "activities.",
+  "s": 161.88,
+  "e": 162.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "California",
+  "s": 163.62,
+  "e": 164.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "law",
+  "s": 164.34,
+  "e": 164.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "does",
+  "s": 164.76,
+  "e": 165.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "not",
+  "s": 165.1,
+  "e": 165.36,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "really",
+  "s": 165.36,
+  "e": 165.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "affect",
+  "s": 165.66,
+  "e": 166.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "our",
+  "s": 166.12,
+  "e": 166.38,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "answer",
+  "s": 166.38,
+  "e": 166.74,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 166.74,
+  "e": 166.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 166.9,
+  "e": 167.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "question,",
+  "s": 167.12,
+  "e": 167.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 167.6,
+  "e": 168.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "it",
+  "s": 168.52,
+  "e": 168.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 168.6,
+  "e": 168.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "well",
+  "s": 168.78,
+  "e": 168.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "settled",
+  "s": 168.98,
+  "e": 169.4,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 169.4,
+  "e": 169.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 169.66,
+  "e": 169.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "outer",
+  "s": 169.86,
+  "e": 170.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "limits",
+  "s": 170.12,
+  "e": 170.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 170.48,
+  "e": 170.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "congressional",
+  "s": 170.76,
+  "e": 171.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "power",
+  "s": 171.24,
+  "e": 171.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "under",
+  "s": 171.76,
+  "e": 172.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 172.04,
+  "e": 172.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Commerce",
+  "s": 172.3,
+  "e": 172.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Clause",
+  "s": 172.58,
+  "e": 172.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "are",
+  "s": 172.96,
+  "e": 173.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "defined",
+  "s": 173.64,
+  "e": 174.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "exclusively",
+  "s": 174.16,
+  "e": 174.88,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "by",
+  "s": 174.88,
+  "e": 175.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Federal",
+  "s": 175.24,
+  "e": 175.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "law.",
+  "s": 175.52,
+  "e": 175.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "The",
+  "s": 176.72,
+  "e": 176.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Supremacy",
+  "s": 176.94,
+  "e": 177.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Clause",
+  "s": 177.5,
+  "e": 177.88,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "unambiguously",
+  "s": 177.88,
+  "e": 178.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "provides",
+  "s": 178.86,
+  "e": 179.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 179.48,
+  "e": 180.02,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "if",
+  "s": 180.02,
+  "e": 180.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "there",
+  "s": 180.16,
+  "e": 180.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 180.34,
+  "e": 180.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "any",
+  "s": 180.48,
+  "e": 180.72,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "conflict",
+  "s": 180.72,
+  "e": 181.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "between",
+  "s": 181.26,
+  "e": 181.74,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Federal",
+  "s": 181.74,
+  "e": 182.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "and",
+  "s": 182.1,
+  "e": 182.4,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "State",
+  "s": 182.4,
+  "e": 182.72,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "law,",
+  "s": 182.72,
+  "e": 183.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Federal",
+  "s": 183.82,
+  "e": 184.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "law",
+  "s": 184.04,
+  "e": 184.38,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "shall",
+  "s": 184.38,
+  "e": 184.68,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "prevail.",
+  "s": 184.68,
+  "e": 185.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "The",
+  "s": 186.14,
+  "e": 186.28,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Federal",
+  "s": 186.28,
+  "e": 186.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "power",
+  "s": 186.58,
+  "e": 186.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "can",
+  "s": 186.98,
+  "e": 187.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "neither",
+  "s": 187.32,
+  "e": 187.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "be",
+  "s": 187.62,
+  "e": 187.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "enlarged",
+  "s": 187.92,
+  "e": 188.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "nor",
+  "s": 188.52,
+  "e": 188.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "diminished",
+  "s": 188.94,
+  "e": 189.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "by",
+  "s": 189.46,
+  "e": 190.08,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 190.08,
+  "e": 190.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "exercise",
+  "s": 190.32,
+  "e": 190.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "or",
+  "s": 190.84,
+  "e": 191.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "non",
+  "s": 191.26,
+  "e": 191.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "-exercise",
+  "s": 191.62,
+  "e": 192.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 192.18,
+  "e": 192.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "State",
+  "s": 192.5,
+  "e": 192.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "power.",
+  "s": 192.84,
+  "e": 193.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Our",
+  "s": 194.46,
+  "e": 195.08,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "case",
+  "s": 195.08,
+  "e": 195.38,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "law",
+  "s": 195.38,
+  "e": 195.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "firmly",
+  "s": 195.66,
+  "e": 196.14,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "establishes",
+  "s": 196.14,
+  "e": 196.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 196.84,
+  "e": 197.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Congress",
+  "s": 197.22,
+  "e": 197.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "has",
+  "s": 197.5,
+  "e": 197.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 197.86,
+  "e": 198.06,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "power",
+  "s": 198.06,
+  "e": 198.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 198.34,
+  "e": 198.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "regulate",
+  "s": 198.62,
+  "e": 199.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "purely",
+  "s": 199.04,
+  "e": 199.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "local",
+  "s": 199.44,
+  "e": 199.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "activities",
+  "s": 199.82,
+  "e": 200.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "when",
+  "s": 200.54,
+  "e": 201.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "necessary",
+  "s": 201.22,
+  "e": 201.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "to",
+  "s": 201.78,
+  "e": 202.1,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "implement",
+  "s": 202.1,
+  "e": 202.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 202.64,
+  "e": 203.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "comprehensive",
+  "s": 203.2,
+  "e": 203.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "national",
+  "s": 203.92,
+  "e": 204.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "regulatory",
+  "s": 204.76,
+  "e": 205.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "program.",
+  "s": 205.5,
+  "e": 206.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Neither",
+  "s": 207.08,
+  "e": 207.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 207.34,
+  "e": 207.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "fact",
+  "s": 207.6,
+  "e": 207.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 207.9,
+  "e": 208.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Respondents",
+  "s": 208.22,
+  "e": 209.02,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "use",
+  "s": 209.02,
+  "e": 209.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "locally",
+  "s": 209.66,
+  "e": 210.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "grown",
+  "s": 210.16,
+  "e": 210.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "marijuana",
+  "s": 210.5,
+  "e": 211.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 211.2,
+  "e": 211.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "medicinal",
+  "s": 211.48,
+  "e": 211.87,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "rather",
+  "s": 212.04,
+  "e": 212.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "than",
+  "s": 212.46,
+  "e": 212.72,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "recreational",
+  "s": 212.72,
+  "e": 213.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "purposes,",
+  "s": 213.26,
+  "e": 213.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "nor",
+  "s": 214.2,
+  "e": 214.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 214.82,
+  "e": 215.02,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "fact",
+  "s": 215.02,
+  "e": 215.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "that",
+  "s": 215.32,
+  "e": 215.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "their",
+  "s": 215.54,
+  "e": 215.68,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "use",
+  "s": 215.68,
+  "e": 215.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 215.94,
+  "e": 216.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "such",
+  "s": 216.16,
+  "e": 216.4,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "purposes",
+  "s": 216.4,
+  "e": 216.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "is",
+  "s": 216.86,
+  "e": 217.06,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "permitted",
+  "s": 217.06,
+  "e": 217.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "by",
+  "s": 217.48,
+  "e": 217.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "California",
+  "s": 217.78,
+  "e": 218.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "law,",
+  "s": 218.44,
+  "e": 218.96,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "justifies",
+  "s": 219.48,
+  "e": 220.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 220.04,
+  "e": 220.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "constitutionally",
+  "s": 220.54,
+  "e": 221.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "compelled",
+  "s": 221.26,
+  "e": 221.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "exemption",
+  "s": 221.84,
+  "e": 222.5,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "from",
+  "s": 222.5,
+  "e": 223.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 223.26,
+  "e": 223.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "comprehensive",
+  "s": 223.48,
+  "e": 224.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "regulatory",
+  "s": 224.18,
+  "e": 224.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "scheme",
+  "s": 224.92,
+  "e": 225.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "created",
+  "s": 225.52,
+  "e": 226.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "by",
+  "s": 226.46,
+  "e": 226.72,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 226.72,
+  "e": 226.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Controlled",
+  "s": 226.92,
+  "e": 227.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Substances",
+  "s": 227.22,
+  "e": 227.78,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Act.",
+  "s": 227.78,
+  "e": 228.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "For",
+  "s": 229.06,
+  "e": 229.34,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 229.34,
+  "e": 229.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "reasons",
+  "s": 229.56,
+  "e": 229.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "stated",
+  "s": 229.82,
+  "e": 230.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "at",
+  "s": 230.24,
+  "e": 230.58,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "length",
+  "s": 230.58,
+  "e": 230.88,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "in",
+  "s": 230.88,
+  "e": 231.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "an",
+  "s": 231.12,
+  "e": 231.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "opinion",
+  "s": 231.32,
+  "e": 231.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "filed",
+  "s": 231.6,
+  "e": 231.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "with",
+  "s": 231.94,
+  "e": 232.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 232.18,
+  "e": 232.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "clerk,",
+  "s": 232.44,
+  "e": 232.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "we",
+  "s": 232.76,
+  "e": 232.88,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "therefore",
+  "s": 232.88,
+  "e": 233.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "vacate",
+  "s": 233.24,
+  "e": 233.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 233.7,
+  "e": 233.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "judgment",
+  "s": 233.98,
+  "e": 234.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 234.22,
+  "e": 234.42,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 234.42,
+  "e": 234.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "court",
+  "s": 234.52,
+  "e": 234.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 234.66,
+  "e": 234.8,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "appeals",
+  "s": 234.8,
+  "e": 235.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "and",
+  "s": 235.3,
+  "e": 235.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "remand",
+  "s": 235.86,
+  "e": 236.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 236.24,
+  "e": 236.44,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "case",
+  "s": 236.44,
+  "e": 236.66,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 236.66,
+  "e": 236.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "further",
+  "s": 236.9,
+  "e": 237.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "proceedings.",
+  "s": 237.18,
+  "e": 237.74,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Justice",
+  "s": 238.68,
+  "e": 238.98,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Scalia",
+  "s": 238.98,
+  "e": 239.3,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "has",
+  "s": 239.3,
+  "e": 239.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "filed",
+  "s": 239.62,
+  "e": 239.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "an",
+  "s": 239.9,
+  "e": 240.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "opinion",
+  "s": 240.12,
+  "e": 240.48,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "concurring",
+  "s": 240.48,
+  "e": 241.0,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "in",
+  "s": 241.0,
+  "e": 241.22,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 241.22,
+  "e": 241.36,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "judgment.",
+  "s": 241.36,
+  "e": 241.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Justice",
+  "s": 242.5,
+  "e": 242.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "O",
+  "s": 242.84,
+  "e": 243.06,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "'Connor",
+  "s": 243.06,
+  "e": 243.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "has",
+  "s": 243.32,
+  "e": 243.62,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "filed",
+  "s": 243.62,
+  "e": 243.9,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 243.9,
+  "e": 244.08,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "dissenting",
+  "s": 244.08,
+  "e": 244.46,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "opinion",
+  "s": 244.46,
+  "e": 244.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "in",
+  "s": 244.94,
+  "e": 245.24,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "which",
+  "s": 245.24,
+  "e": 245.4,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 245.4,
+  "e": 245.64,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Chief",
+  "s": 245.64,
+  "e": 245.82,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Justice",
+  "s": 245.82,
+  "e": 246.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "and",
+  "s": 246.26,
+  "e": 246.56,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Justice",
+  "s": 246.56,
+  "e": 246.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Thomas",
+  "s": 246.86,
+  "e": 247.52,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "have",
+  "s": 247.52,
+  "e": 247.94,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "joined",
+  "s": 247.94,
+  "e": 248.32,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "except",
+  "s": 248.32,
+  "e": 248.76,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "for",
+  "s": 248.76,
+  "e": 249.04,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "part",
+  "s": 249.04,
+  "e": 249.26,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "3",
+  "s": 249.26,
+  "e": 249.54,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "of",
+  "s": 249.54,
+  "e": 249.7,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "the",
+  "s": 249.7,
+  "e": 249.92,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "vote.",
+  "s": 249.92,
+  "e": 250.16,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "And",
+  "s": 250.56,
+  "e": 250.8,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Justice",
+  "s": 250.8,
+  "e": 251.12,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "Thomas",
+  "s": 251.12,
+  "e": 251.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "has",
+  "s": 251.6,
+  "e": 251.86,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "also",
+  "s": 251.86,
+  "e": 252.2,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "filed",
+  "s": 252.2,
+  "e": 252.6,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "a",
+  "s": 252.6,
+  "e": 252.84,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "dissenting",
+  "s": 252.84,
+  "e": 253.18,
+  "speaker": "JUSTICE STEVENS"
+ },
+ {
+  "w": "opinion.",
+  "s": 253.18,
+  "e": 253.62,
+  "speaker": "JUSTICE STEVENS"
+ }
+]

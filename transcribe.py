@@ -1141,7 +1141,7 @@ transcript's, verbatim; times come from ASR.
 
 ## Sources
 
-- Argument page: {st['page_url']}
+- Argument page: {st['page_url'] if "supremecourt.gov" in st['mp3_url'] else "none on supremecourt.gov for this term"}
 - Audio: {st['mp3_url']}{"" if "supremecourt.gov" in st['mp3_url'] else chr(10) + "  **Not from supremecourt.gov:** the Court's own site has no audio for this argument (its audio pages start with the October 2010 term), so this is Oyez's copy of the Court's recording. The transcript is the Court's own."}
 - Official transcript: {st['pdf_url']}
 
