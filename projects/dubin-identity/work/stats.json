@@ -1,0 +1,406 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2022/22-10_f3b7.pdf",
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 2454.94,
+   "next": 2454.94,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "offense that uses somebody's name becomes identity theft. Whether it's in a restaurant billing scenario, a healthcare billing scenario, or lawyers who round their hours up, and I'm sure nobody --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3271.64,
+   "next": 3272.76,
+   "speaker": "JUSTICE THOMAS",
+   "before": "hours. Would that be sufficient to violate this provision? Yes, Justice Thomas. And I appreciate that that may seem an unattractive result. Well, I think unattractive is -- is an understatement.",
+   "pause": 1.12,
+   "loud_s": 0.9,
+   "mean_over": 16.8,
+   "peak_over": 20.8,
+   "size": "medium"
+  },
+  {
+   "t": 3465.64,
+   "next": 3468.08,
+   "speaker": "MR. SURI",
+   "before": "them -- -- then we'd have a serious federalism problem, wouldn't we? -- if you read them the same, you'd be creating a federalism problem that you could avoid by reading them differently.",
+   "pause": 2.44,
+   "loud_s": 1.95,
+   "mean_over": 27.4,
+   "peak_over": 36.1,
+   "size": "big"
+  },
+  {
+   "t": 3540.26,
+   "next": 3540.26,
+   "speaker": "MR. SURI",
+   "before": "fraud in America is within the scope of the Commerce Clause, counsel? If that's a problem, Justice Gorsuch, it's attributable to the Court's Commerce Clause cases and not to this --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 4182.04,
+   "next": 4183.56,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "of the calendar year period. Now, Justice Gorsuch, I -- I must get back to this question of \"in connection with\" and the federalism problems. Well, let's -- let's -- let's skip that.",
+   "pause": 1.52,
+   "loud_s": 0.8,
+   "mean_over": 21.9,
+   "peak_over": 31.5,
+   "size": "medium"
+  },
+  {
+   "t": 4191.28,
+   "next": 4192.36,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "let's -- let's skip that. I think we've beaten that horse, but I do have another question for you since you -- you looked over here. Maybe you -- maybe you regret that.",
+   "pause": 1.08,
+   "loud_s": 0.9,
+   "mean_over": 20.7,
+   "peak_over": 25.8,
+   "size": "medium"
+  },
+  {
+   "t": 4193.3,
+   "next": 4195.8,
+   "speaker": "MR. SURI",
+   "before": "I think we've beaten that horse, but I do have another question for you since you -- you looked over here. Maybe you -- maybe you regret that. I regret it already.",
+   "pause": 2.5,
+   "loud_s": 1.55,
+   "mean_over": 25.7,
+   "peak_over": 35.9,
+   "size": "big"
+  },
+  {
+   "t": 4812.7,
+   "next": 4813.24,
+   "speaker": "JUSTICE KAGAN",
+   "before": "not psychological services now but something else entirely. How does the Judge Sutton test work with relationship to those hypotheticals -- I think -- -- which also means with connection to those hypotheticals.",
+   "pause": 0.54,
+   "loud_s": 0.15,
+   "mean_over": 14.2,
+   "peak_over": 20.2,
+   "size": "small"
+  }
+ ],
+ "long_qs": [
+  {
+   "speaker": "JUSTICE ALITO",
+   "s": 857.86,
+   "e": 930.44,
+   "dur": 72.58,
+   "words": 193,
+   "text": "Your argument has a lot of intuitive appeal because this does not seem like what one normally thinks of as identity theft, but I'm wondering if you are trying to get too much out of the caption of this -- out of -- of this provision. And I know it's a little -- it's unfair to ask you about a case that we heard argument in last week, but I know you follow our cases, so I'm going to do it. If you just want to take a pass, that's fine. But we heard very extensive argument on the meaning of Section 230 of the Communications Act, which provides -- has been held by the lower courts to provide pretty broad immunity from civil liability for Internet service providers. But the -- the caption of that section is \"Protection for Good Samaritan Blocking and Screening of Offensive Material.\" So the -- the interpretation that the lower courts have given to that provision goes way beyond what you might think of just by looking at the caption. So, I mean, how far can we go in reading -- taking the caption as the gloss on the actual text of the statute?"
+  },
+  {
+   "speaker": "JUSTICE GORSUCH",
+   "s": 3371.2,
+   "e": 3433.64,
+   "dur": 62.44,
+   "words": 156,
+   "text": "Counsel, it seems to me you've just given up the ghost and -- and clarified things substantially that every time anyone overbills for anything, that triggers this statute, and all you have to prove -- now it may be small, as the amounts here were, $338, or it might be rounding up, a lawyer rounding up his hours to the next tenth of an hour, but that is still identity theft because you are using somebody's identity in a way that is unlawful and perhaps arguably exceeds their permission. If that's true, where do we stand in terms of federalism, given that (a)(7) speaks in much the same language and would seem to federalize pretty much every state misrepresentation claim? Where do we stand in terms of vagueness, notice to the world, fair notice to the world? I'm not sure most waiters in America appreciate that they're committing identity theft when they bill for that bottle of wine."
+  },
+  {
+   "speaker": "JUSTICE KAVANAUGH",
+   "s": 4913.08,
+   "e": 4973.7,
+   "dur": 60.62,
+   "words": 139,
+   "text": "In the court of appeals, Judge Costa's opinion said that this Court's precedents had sent an \"unmistakable\" message that \"[c]ourts should not assign federal criminal statutes [of] a 'breath-taking' scope when a narrower reading is reasonable.\" And the Petitioner also cites a long line of cases you're familiar with, Marinello, Van Buren, Kelly, the list goes on, where we have rejected, I would say, the broadest interpretation of criminal statutes, the literal reading as compared to the ordinary reading of criminal statutes, based on fair notice concerns and not trapping the unwary or increasing the sentence on an unwary person. So what -- why does this case not fall within that concern and with that body of precedent about reading it as broadly as you possibly could and thereby raising fair notice concerns of the kinds that Judge Costa raised?"
+  },
+  {
+   "speaker": "JUSTICE ALITO",
+   "s": 1817.56,
+   "e": 1871.66,
+   "dur": 54.1,
+   "words": 136,
+   "text": "Suppose we think that \"without lawful authority\" can plausibly be read in a number of different ways. Then you need something to persuade us that you -- we should adopt your interpretation. Now one would be something, the force you can get from the title. Put that aside. Another would be perhaps some version of the Rule of Lenity. But you have accepted some limiting principles. So you would not read \"without lawful authority\" in its broadest sense, which might be where the Rule of Lenity would lead. So, in the next case -- suppose we rule in your favor. The next case involves a different type of service, and the case after that involves a person who was once a patient of this doctor but hasn't been for a while. How would you justify your limiting principles?"
+  },
+  {
+   "speaker": "JUSTICE JACKSON",
+   "s": 4442.88,
+   "e": 4496.92,
+   "dur": 54.04,
+   "words": 144,
+   "text": "Of course, that's not the function of mandatory minimums. I mean, they're not really -- I appreciate that it has a higher top level, but Congress, when it -- when it enacts a mandatory minimum, is constraining judicial discretion with respect to what you can impose as a penalty. And usually Congress does that in situations in which it has identified substantially more serious or more egregious conduct on the part of the person who is subject to the mandatory minimum. And what's strange to me about your argument is that you're saying, in this situation, unlike many others, we don't care about that. We're not focused on the fact that it's necessarily more egregious. We're just looking at the list of offenses, and, to the extent a misdemeanor could be charged in the other world, that -- that justifies a two-year mandatory minimum in this one?"
+  },
+  {
+   "speaker": "JUSTICE KAVANAUGH",
+   "s": 5022.24,
+   "e": 5070.4,
+   "dur": 48.16,
+   "words": 116,
+   "text": "Well, that's similar to an argument I heard years ago from the government about mens rea: Don't worry about mens rea requirements for sentence enhancements as opposed to the crime itself. And I didn't find that persuasive then because the concern about sentence enhancements is -- is still, as Justice Gorsuch said earlier, you know, the -- the ordinary citizen may know, okay, well, this is going to trigger a certain amount of punishment, but you're on no notice that it could trigger a mandatory minimum or a significantly increased amount of punishment. So don't the same concerns about fair notice still kick in in that situation, where you're talking about an enhancement as to the underlying crime?"
+  },
+  {
+   "speaker": "JUSTICE KAGAN",
+   "s": 4690.34,
+   "e": 4737.18,
+   "dur": 46.84,
+   "words": 115,
+   "text": "Mr. Suri, you -- just on this question of \"without lawful authority,\" different kind of issue, in your brief, you say that means if he uses it with permission -- no, sorry, if he uses it without permission or -- here's what I want to ask you about -- if he uses it with permission but the conferral of that permission contravened some other law. So suppose somebody had said to this doctor -- that Patient L had said to this doctor, you know, you gave me five hours of service X, but you've been a great doctor; I'm happy for you to bill 20 hours of some more expensive service. Would that count as without lawful authority or not?"
+  },
+  {
+   "speaker": "JUSTICE JACKSON",
+   "s": 1236.9,
+   "e": 1281.94,
+   "dur": 45.04,
+   "words": 112,
+   "text": "-- because it uses almost identical terms, right, \"knowingly transfer, possess, or use,\" and then we have \"in connection with\" unlawful activity. So that's kind of like the base offense. And then, in 1028A, we have the aggravated offense, where they say not just \"in connection with\" but \"during and in relation to\" the particular enumerated crimes. So it seemed to me to be a -- a familiar structure in penalty statutes at least, where Congress -- you have -- you -- you have one that doesn't have a mandatory minimum that's sort of the base, and then you get aggravated with this different level of, you know, egregiousness. Is that -- is that close to your argument?"
+  },
+  {
+   "speaker": "JUSTICE SOTOMAYOR",
+   "s": 1959.04,
+   "e": 2003.44,
+   "dur": 44.4,
+   "words": 97,
+   "text": "If you take the government's definition at face value, it's hard to define exactly what their definition is because every time you point to something that seems absurd, they come up with a limiting rule. So the vagueness is a problem. But let's talk about those absurdities. The patient tells the doctor: You can submit this a month later, it's okay by me, a co-conspirator, in other words. The government -- on the government's reading, even though they have the permission of the person to use their name in the fraud, that would still be aggravated theft, correct?"
+  },
+  {
+   "speaker": "JUSTICE JACKSON",
+   "s": 2915.74,
+   "e": 2959.72,
+   "dur": 43.98,
+   "words": 108,
+   "text": "So you've given us a number of ways in which we could rule in your favor and things we can look at and rely on. I -- I was trying to keep a list. We have title, the Rule of Lenity, all the statutory terms have meaning, federalism canon, and then there was this talk of constitutional avoidance. And I am interested in particular in sort of the species of constitutional avoidance that I was bringing up with you before, which basically looks at this provision in context and in relation to (a)(7). In other words, this is an aggravated penalty and we have a mandatory minimum that attaches."
+  }
+ ],
+ "long_n": 10,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -43.6,
+ "opening_start": 6.78,
+ "opening": [
+  [
+   6.78,
+   "MR. FISHER",
+   "Mr. Chief Justice, and may it please the Court: The Fifth Circuit's decision here stretches the aggravated identity theft statute beyond its breaking point. Overbilling Medicaid by $101 may provide fodder for a simple healthcare fraud prosecution, but, as even the concurring judges below recognized, it does not meet any ordinary understanding of the term \"identity theft.\" Nor, for two independent reasons, does Mr. Dubin's conduct fall within the terms of Section 1028A. First, he did not use Patient L's name in relation to his healthcare fraud offense. That statutory element requires that the use of the name be instrumental, not merely incidental, to the fraud. In a fraud case, another way to think about that is it requires the name to be the \"who\" in the fraud, that is, misrepresenting who received services, not merely how or when those services were received. And Mr. Dubin's conduct falls only in the latter camp. Second, Mr. Dubin did not use Patient L's identity without lawful authority. He had permission to use Patient L's identity to bill Medicaid for psychological services, and that's precisely what he did. A contextual perspective confirms this analysis. The federal fraud statute that's the predicate here, like the other federal fraud statutes, covers an enormously broad swath of conduct, and, therefore, Congress has made prison time discretionary in those instances. And as the Federal Defenders' brief explains, the median sentence in a fraud case in this country is 12 months. Twenty-five percent of offenders receive only probation. The -- this statute, by contrast, requires a two-year mandatory minimum. So all indications are what Congress was doing is targeting a particularly egregious form of fraud, use of somebody's name through stealing it, misappropriating it, or -- or impersonating the person, identity theft. But, if the government is right and if the Fifth Circuit is right about how broad the statute is, what it would do is it would transform fraud prosecutions to having every one of them be essentially an aggravated identity theft prosecution too, and that would thwart Congress's careful design. The Court should reverse, and I'm happy to answer any questions the Court has."
+  ],
+  [
+   138.44,
+   "JUSTICE THOMAS",
+   "Mr. Fisher, you said that -- that Mr. Dubin was authorized to use the -- Patient L's identity. Was Dubin authorized to use Patient -- Patient L's identity for this particular transaction?"
+  ],
+  [
+   160.48,
+   "MR. FISHER",
+   "Well, I think the best I can answer is yes, he was in the sense that he was authorized to use Patient L's identity for billing Medicaid. That was the name that was at the center --"
+  ],
+  [
+   168.3,
+   "JUSTICE THOMAS",
+   "Well, I understand -- that's a little broader. Well, you could say that if you drop a car off at a valet, your Porsche -- I don't have one -- but, if you had a Porsche, you'd be concerned about the use of it, and the valet is authorized to drive it generally but not to drive"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2022/22-10",
+  "page_url": "https://www.oyez.org/cases/2022/22-10",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 08, 2023",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/25533",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2022/22-10/22-10_20230608-opinion.delivery.mp3",
+  "duration": 322.776,
+  "mp3_bytes": 6485216,
+  "asr_elapsed_s": 130.6,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   592,
+   642,
+   620
+  ],
+  "diffs": [
+   [
+    7.44,
+    "won't",
+    "would not"
+   ],
+   [
+    40.2,
+    "section",
+    ""
+   ],
+   [
+    51.9,
+    "",
+    "uses without"
+   ],
+   [
+    69.36,
+    "The question is,",
+    ""
+   ],
+   [
+    73.04,
+    "section",
+    ""
+   ],
+   [
+    87.38,
+    "a",
+    "are"
+   ],
+   [
+    89.98,
+    "section",
+    ""
+   ],
+   [
+    112.84,
+    "billed",
+    "build"
+   ],
+   [
+    120.5,
+    "and",
+    "in"
+   ],
+   [
+    121.64,
+    "section",
+    ""
+   ],
+   [
+    124.16,
+    "this sweeping reading. Instead, a",
+    "the sweepingreading, insteada"
+   ],
+   [
+    171.62,
+    "and",
+    "in"
+   ],
+   [
+    177.16,
+    "use",
+    "used"
+   ],
+   [
+    207.92,
+    "section",
+    ""
+   ],
+   [
+    253.52,
+    "section",
+    ""
+   ],
+   [
+    266.92,
+    "garden variety overbuilding",
+    "garden-variety overbilling"
+   ],
+   [
+    281.3,
+    "Section",
+    ""
+   ],
+   [
+    283.58,
+    "the",
+    "a"
+   ],
+   [
+    309.48,
+    "section",
+    "in"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 642,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Sotomayor has the opinion in case 2210, Dubin versus United States."
+   ],
+   [
+    7.34,
+    "JUSTICE SOTOMAYOR",
+    "I won't be as entertaining. There is no dispute that petitioner David Fox Dubin defrauded Medicaid by overbilling it. He did so primarily by exaggerating the credentials of one of his employees when billing for services that were actually provided to a patient. The question in this case is whether in doing so, petitioner also committed aggravated identity theft. The relevant provision 18 U .S .C. section 1028A applies to a defendant who, quote, during and in relation to any predicate offense, knowingly transfers, possesses, or lawful authority, a means of identification of another person. Here petitioner billed for services actually provided to a patient using that patient's means of identification, i .e., their Medicaid reimbursement number. The question is, this question is critical because section 2028A imposes a harsh two-year mandatory minimum sentence on top of any sentence for the predicate offense of fraud. The government advances a nearly limitless interpretation of section 1028A under which a defendant commits aggravated identity theft anytime someone else's means of identification plays some role in an offense. Under this reading, if a lawyer inflated her billable hours by rounding up from 2.9 to 3 and billed her client using his name, she would have committed aggravated identity theft. The text and context of section 1028A do not support this sweeping reading. Instead, a defendant uses another person's means of identification in relation to a predicate offense when the means of identification is at the crux of what makes the conduct criminal rather than merely an ancillary feature of a billing method. When the predicate offense involves fraud or deceit, this requires using the means of identification specifically to defraud or deceive. Such fraud or deceit about identity can often be captured by a rule of thumb. The statute applies when the fraud goes to who is involved rather than just how or when services were provided. From top to bottom, the text and context support this narrower reading. First, the two key terms, use and in relationship to, have been singled"
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    5.74,
+    12
+   ],
+   [
+    "JUSTICE SOTOMAYOR",
+    7.34,
+    321.88,
+    627
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  }
+ },
+ "case": "22-10",
+ "year": "2022",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2022/22-10",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-10.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2022/22-10_f3b7.pdf",
+ "model": "medium.en",
+ "duration": 5549.184,
+ "asr_elapsed_s": 5326.3,
+ "asr_words": 16072,
+ "official_words": 16636,
+ "matched": 15775,
+ "shared": 9,
+ "clamped": 0,
+ "trimmed": 21,
+ "rewindowed": 0,
+ "match_rate": 94.82447703774946,
+ "turns": 403,
+ "laugh_markers": 8,
+ "mp3_bytes": 44393709,
+ "pauses": 621,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": false,
+   "detail": "1 words longer than 3 s outside laugh positions",
+   "examples": [
+    [
+     "titles",
+     987.2,
+     990.82
+    ]
+   ],
+   "numbers": [
+    [
+     "101",
+     5271.44,
+     5278.08
+    ]
+   ]
+  },
+  "short_words": 534,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.82% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-03"
+}

@@ -77,7 +77,7 @@ matched word's ASR time changes.
 
 Regenerate with:
 
-    python3 transcribe.py 03-1454 2004 raich-marijuana --model medium.en --opinion --long-questions 10
+    python3 transcribe.py 03-1454 2004 raich-marijuana --model medium.en --pdf-url https://www.supremecourt.gov/pdfs/transcripts/2004/03-1454.pdf --mp3-url https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2004/03-1454/20041129a_03-1454.delivery.mp3 --opinion --long-questions 10
 
 ## The 10 longest uninterrupted questions from a justice
 

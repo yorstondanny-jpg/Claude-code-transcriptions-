@@ -819,6 +819,7 @@ def main():
     terms = [t.strip() for t in args.mentions.split(",") if t.strip()] if args.mentions else []
     mentions = key_mentions(official, terms) if terms else None
     stats = {
+        "pdf_url_arg": args.pdf_url, "mp3_url_arg": args.mp3_url,
         "terms": terms, "mentions": mentions, "laugh_rows": laugh_rows, "long_qs": long_qs, "long_n": args.long_questions, "quote_rows": quote_rows, "quotes": quotes, "silence_db": round(silence, 1),
         "opening_start": opening_start, "opening": opening, "opinion": opinion,
         "case": args.case, "year": args.year, "page_url": page_url, "mp3_url": mp3_url,
@@ -1212,7 +1213,7 @@ matched word's ASR time changes.
 
 Regenerate with:
 
-    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}{(' --quotes ' + chr(34) + '|'.join(st['quotes']) + chr(34)) if st.get('quotes') else ''}{(' --long-questions ' + str(st['long_n'])) if st.get('long_n') else ''}
+    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{(' --pdf-url ' + st['pdf_url_arg']) if st.get('pdf_url_arg') else ''}{(' --mp3-url ' + st['mp3_url_arg']) if st.get('mp3_url_arg') else ''}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}{(' --quotes ' + chr(34) + '|'.join(st['quotes']) + chr(34)) if st.get('quotes') else ''}{(' --long-questions ' + str(st['long_n'])) if st.get('long_n') else ''}
 """
     text += readme_extras(st)
     (root / "README.md").write_text(text)
