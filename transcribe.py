@@ -164,7 +164,8 @@ def run_asr(audio, model_name, cache, checkpoint_every=20):
 # --------------------------------------------------------------------------- official transcript
 
 BOILERPLATE_RE = re.compile(r"^(Official( - Subject to Final Review)?|.*\bReporting (Company|Corporation)\b.*"
-                            r"|.*www\.\S+\.com.*|.*\bFOR[- ]DEPO\b.*)$", re.I)
+                            r"|.*www\.\S+\.com.*|.*\bFOR[- ]DEPO\b.*"
+                            r"|Page \d+)$", re.I)  # a whole-line "Page 13" header (12-123); "at Page 7" in speech stays
 
 
 def clean_pdf_lines(text):

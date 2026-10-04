@@ -15,18 +15,18 @@ transcript's, verbatim; times come from ASR.
 - ASR run time: 56 min on 4 CPU cores
 - Audio length: 0:59:24.957 (3564.957 s)
 - `audio/argument.mp3`: mono, 64 kbps, 28.5 MB
-- Official words: 10252 (plus 6 `(Laughter.)` markers), in 244 speaker turns
+- Official words: 10142 (plus 6 `(Laughter.)` markers), in 244 speaker turns
 - ASR words: 9941
-- Official words matched to an ASR word: 9548 of 10252 (**93.13%**)
+- Official words matched to an ASR word: 9548 of 10142 (**94.14%**)
 
 ## Sanity checks
 
 - PASS: words in time order. 0 words start before the previous word; 0 words end before they start.
   (0 spread words had to be nudged forward to keep order before this check ran.)
 - PASS: no word longer than 3 s except before a laugh. 0 words longer than 3 s outside laugh positions.
-- PASS: match rate over 85%. 93.13% (threshold 85%).
+- PASS: match rate over 85%. 94.14% (threshold 85%).
 
-450 words are shorter than 20 ms. These are official words the ASR didn't produce,
+373 words are shorter than 20 ms. These are official words the ASR didn't produce,
 mostly repeats, false starts and cross-talk ("the -- the --", "I -- I think"), squeezed into the
 small gap between the ASR words either side. Their order is right; their exact times are not.
 
@@ -82,29 +82,29 @@ Regenerate with:
 
 Each is one justice's turn in the transcript, which ends when anyone else speaks, timed from its first word to its last. Longest first; official wording.
 
-### 1. JUSTICE BREYER, 0:19:08.200 to 0:20:07.600 (59.4 s, 222 words)
+### 1. JUSTICE BREYER, 0:19:08.200 to 0:20:07.600 (59.4 s, 220 words)
 
-> I'm just trying to get to what you're arguing about. And I might be off base by now. I feel like handlers, purchasers, raisins, like an old Abbott and Costello movie. I just want to see if Page 20 I'm right. Tell me. Just say you're wrong and I don't go into it further. There -- there are some people, they've been -- they are either -- they have some raisins, all right. And these particular people, whom the Department has said have acquired the raisins, it said they acquired the raisins. And so they're there with some raisins, and then the government says, do this thing with your raisins. And they don't want to do it, so they don't. They don't do it even though the law says do it. And then they say the law is unconstitutional and, moreover, you fined us a huge amount of money and we don't want to pay it because the law is unconstitutional, and we consider that money that we paid. Call it a fine, call it what you want. We consider we shouldn't have paid it and now we want it back and we want compensation and we think it's a taking and where do we go. Can't we make that argument in the Ninth Circuit? It's something like that; isn't that what we're arguing about?
+> I'm just trying to get to what you're arguing about. And I might be off base by now. I feel like handlers, purchasers, raisins, like an old Abbott and Costello movie. I just want to see if I'm right. Tell me. Just say you're wrong and I don't go into it further. There -- there are some people, they've been -- they are either -- they have some raisins, all right. And these particular people, whom the Department has said have acquired the raisins, it said they acquired the raisins. And so they're there with some raisins, and then the government says, do this thing with your raisins. And they don't want to do it, so they don't. They don't do it even though the law says do it. And then they say the law is unconstitutional and, moreover, you fined us a huge amount of money and we don't want to pay it because the law is unconstitutional, and we consider that money that we paid. Call it a fine, call it what you want. We consider we shouldn't have paid it and now we want it back and we want compensation and we think it's a taking and where do we go. Can't we make that argument in the Ninth Circuit? It's something like that; isn't that what we're arguing about?
 
 ### 2. JUSTICE GINSBURG, 0:12:44.020 to 0:13:38.140 (54.1 s, 122 words)
 
 > Mr. McConnell, would you explain the -- if they were just handlers and weren't producing any raisins, if they were just handlers, do they have a claim and where? And if they were just producers -- I take it from the question I asked and the question Justice Kagan asked that if they were just producers, the raisins got set aside, they were paid for only the ones that went to market, they could go to the Court of Claims. But now they're just handlers, as this entity is for most of the raisins that are involved, some 80 percent, right? It's only about 20 percent is their own. So could this work for someone who was just a handler, doesn't produce any raisins?
 
-### 3. JUSTICE SOTOMAYOR, 0:15:47.100 to 0:16:40.420 (53.3 s, 100 words)
+### 3. JUSTICE SOTOMAYOR, 0:15:47.100 to 0:16:40.420 (53.3 s, 98 words)
 
-> What is -- what is the value in permitting a party who doesn't own property to raise a taking claim on behalf of other people? Meaning, doesn't the system have an interest in ensuring that people comply with their legal obligations, and to the extent that you choose to violate the law the way Page 17 they have here, that the fine is punitive and not compensatory. Meaning, you don't own the raisins, but you were obligated to put raisins aside for someone else. You were their agent and you failed to meet a government obligation that was independently on you.
+> What is -- what is the value in permitting a party who doesn't own property to raise a taking claim on behalf of other people? Meaning, doesn't the system have an interest in ensuring that people comply with their legal obligations, and to the extent that you choose to violate the law the way they have here, that the fine is punitive and not compensatory. Meaning, you don't own the raisins, but you were obligated to put raisins aside for someone else. You were their agent and you failed to meet a government obligation that was independently on you.
 
-### 4. JUSTICE SOTOMAYOR, 0:00:25.760 to 0:01:15.620 (49.9 s, 89 words)
+### 4. JUSTICE SOTOMAYOR, 0:00:25.760 to 0:01:15.620 (49.9 s, 87 words)
 
-> -- because it has confused me. As I look at the captions of the cases, there appear to be two different partnerships: One partnership, known as Raisin -- doing business as Raisin Valley Farms, has Mr. Horne and his wife as the partners. Larsen Valley, the producer -- not the producer, the handler -- has four other, the Hornes, Page 4 plus two other people. So who owns the raisins? Isn't that the first partnership of the husband and wife? And isn't the handler a second partnership that does the business of handling?
+> -- because it has confused me. As I look at the captions of the cases, there appear to be two different partnerships: One partnership, known as Raisin -- doing business as Raisin Valley Farms, has Mr. Horne and his wife as the partners. Larsen Valley, the producer -- not the producer, the handler -- has four other, the Hornes, plus two other people. So who owns the raisins? Isn't that the first partnership of the husband and wife? And isn't the handler a second partnership that does the business of handling?
 
 ### 5. JUSTICE SOTOMAYOR, 0:46:01.810 to 0:46:44.870 (43.1 s, 97 words)
 
 > All right. It almost seems to me, and I'll ask Mr. McConnell when he gets up at rebuttal, that there is some sort of due process challenge going on here that's been created by the labels they did in this new situation -- in this new business venture. In the normal situation, the handler, I'm being told, would actually have title to the raisins, and they would pay the producers for the raisins. So there would be property taking. In that situation, where the handlers actually own the property, would they be able to raise a taking defense?
 
-### 6. JUSTICE BREYER, 0:44:50.250 to 0:45:33.010 (42.8 s, 145 words)
+### 6. JUSTICE BREYER, 0:44:50.250 to 0:45:33.010 (42.8 s, 143 words)
 
-> No, no. No, it doesn't go to the merits. It goes to whether or not it makes sense to think that the Court of Claims has something to say Page 44 about this. And suppose we did this. Suppose we said, given the fact that you filed your thing, whatever it was -- you know, late, and the -- and the light of this very enlightening discussion which has been helpful, we think this is the kind of program and challenge to the program where there isn't going to be a remedy really in the Court of Claims and they ought to go ahead in the Ninth Circuit, and in light of all these enlightening things that we'll write, you just decide the merits of -- is that -- now, I'm sure you're going to say that's absolutely terrible, it won't work at all. So tell me why not.
+> No, no. No, it doesn't go to the merits. It goes to whether or not it makes sense to think that the Court of Claims has something to say about this. And suppose we did this. Suppose we said, given the fact that you filed your thing, whatever it was -- you know, late, and the -- and the light of this very enlightening discussion which has been helpful, we think this is the kind of program and challenge to the program where there isn't going to be a remedy really in the Court of Claims and they ought to go ahead in the Ninth Circuit, and in light of all these enlightening things that we'll write, you just decide the merits of -- is that -- now, I'm sure you're going to say that's absolutely terrible, it won't work at all. So tell me why not.
 
 ### 7. JUSTICE GINSBURG, 0:41:27.990 to 0:42:10.610 (42.6 s, 78 words)
 
@@ -114,9 +114,9 @@ Each is one justice's turn in the transcript, which ends when anyone else speaks
 
 > Fine. So they're making that kind of constitutional claim. Now, I would think if all you told me was that and I knew nothing about all these statutes, I would say that's the kind of claim that should be made in a Federal district court, period, not the Court of Claims. Because their government isn't going to compensate them for anything. That's against the whole point of the program. Either this program is valid or it isn't. And if it isn't, some authoritative set of courts should tell us that. So I have a feeling this is somehow not a right fit with the Court of Claims. Now, you explain to me why that purely instinctive feeling at this point is completely wrong.
 
-### 9. JUSTICE KAGAN, 0:50:23.790 to 0:51:03.230 (39.4 s, 126 words)
+### 9. JUSTICE KAGAN, 0:50:23.790 to 0:51:03.230 (39.4 s, 124 words)
 
-> Mr. Palmore, what would be wrong -- would anything be wrong -- with a -- with a disposition of this Court that went something like this: Everybody agrees that this is not a jurisdictional issue, including the government, so they got that wrong. Page 49 Now, as to this whole business about the Tucker Act and whether the Tucker Act provides a remedy, the government only started talking about that in a petition for rehearing en banc, and the government can't do that. You know, it can't introduce an argument like this in a petition for rehearing en banc. So that's waived. And now, the Ninth Circuit can go and try to figure out whether this marketing order is a taking or it's just the world's most outdated law. (Laughter.)
+> Mr. Palmore, what would be wrong -- would anything be wrong -- with a -- with a disposition of this Court that went something like this: Everybody agrees that this is not a jurisdictional issue, including the government, so they got that wrong. Now, as to this whole business about the Tucker Act and whether the Tucker Act provides a remedy, the government only started talking about that in a petition for rehearing en banc, and the government can't do that. You know, it can't introduce an argument like this in a petition for rehearing en banc. So that's waived. And now, the Ninth Circuit can go and try to figure out whether this marketing order is a taking or it's just the world's most outdated law. (Laughter.)
 
 ### 10. JUSTICE KAGAN, 0:21:13.520 to 0:21:51.860 (38.3 s, 119 words)
 
@@ -132,7 +132,7 @@ Each `(Laughter.)` in the transcript, at the end of the word before it, with the
 | 2 | 0:26:47.370 | 1607.370 | medium | 1.58 | 1.15 | 17.0 | 22.1 | Ninth Circuit panel accepted their view, issued a new opinion, stripping out the entire merits, and substituting this jurisdictional holding that is producing so much enjoyment for us this morning. |
 | 3 | 0:31:30.310 | 1890.310 | small | 0.80 | 0.05 | 10.4 | 15.5 | that provides a judicial review mechanism only for handlers. Yes, but part of -- part of that penalty was -- you know, your raisins or your life, right? I mean, it was -- |
 | 4 | 0:51:03.230 | 3063.230 | big | 3.74 | 1.20 | 24.9 | 37.5 | So that's waived. And now, the Ninth Circuit can go and try to figure out whether this marketing order is a taking or it's just the world's most outdated law. |
-| 5 | 0:52:49.420 | 3169.420 | under speech | 0.00 | 0.00 | - | - | of our Page 51 brief, we cite communication after communication where USDA told them -- Now, can an acquirer of my car, for example -- I don't know. Forget that. A bailee? |
+| 5 | 0:52:49.420 | 3169.420 | under speech | 0.00 | 0.00 | - | - | through 11 of our brief, we cite communication after communication where USDA told them -- Now, can an acquirer of my car, for example -- I don't know. Forget that. A bailee? |
 | 6 | 0:56:46.230 | 3406.230 | big | 2.64 | 2.50 | 25.3 | 35.8 | you should affirm. However, I do recognize -- Do you think we should reach the merits, which is a very different question? Well, it depends on what you mean by "merits." |
 
 ## Key mentions
@@ -158,8 +158,8 @@ Every sentence in the argument that mentions one of these terms, official wordin
 |---|---|---|---|---|
 | 0:00:05.620 | 5.620 | CHIEF JUSTICE ROBERTS | Horne | We'll hear argument first this morning in Case 12-123, Horne v. Department of Agriculture. |
 | 0:00:42.940 | 42.940 | JUSTICE SOTOMAYOR | Horne | As I look at the captions of the cases, there appear to be two different partnerships: One partnership, known as Raisin -- doing business as Raisin Valley Farms, has Mr. Horne and his wife as the partners. |
-| 0:00:51.260 | 51.260 | JUSTICE SOTOMAYOR | handler | Larsen Valley, the producer -- not the producer, the handler -- has four other, the Hornes, Page 4 plus two other people. |
-| 0:00:54.340 | 54.340 | JUSTICE SOTOMAYOR | Horne | Larsen Valley, the producer -- not the producer, the handler -- has four other, the Hornes, Page 4 plus two other people. |
+| 0:00:51.260 | 51.260 | JUSTICE SOTOMAYOR | handler | Larsen Valley, the producer -- not the producer, the handler -- has four other, the Hornes, plus two other people. |
+| 0:00:54.340 | 54.340 | JUSTICE SOTOMAYOR | Horne | Larsen Valley, the producer -- not the producer, the handler -- has four other, the Hornes, plus two other people. |
 | 0:00:59.560 | 59.560 | JUSTICE SOTOMAYOR | raisins | So who owns the raisins? |
 | 0:01:07.840 | 67.840 | JUSTICE SOTOMAYOR | handler | And isn't the handler a second partnership that does the business of handling? |
 | 0:01:20.320 | 80.320 | MR. MCCONNELL | Horne | The other two partners in Lassen were Laura Horne's parents, now deceased. |
@@ -167,9 +167,9 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:02:39.860 | 159.860 | JUSTICE SOTOMAYOR | handler | What exactly is being taken from the handlers? |
 | 0:02:43.660 | 163.660 | JUSTICE SOTOMAYOR | raisins | Is it the percentage -- it can't be the raisins because they don't own them. |
 | 0:02:54.900 | 174.900 | JUSTICE SOTOMAYOR | handler | What is it that's being taken from the handler entity? |
-| 0:03:00.730 | 180.730 | MR. MCCONNELL | Horne | The order in this case was Page 6 issued against the -- the Hornes in their capacity as a handler only, so the entire fine was paid by them. |
-| 0:03:02.180 | 182.180 | MR. MCCONNELL | handler | The order in this case was Page 6 issued against the -- the Hornes in their capacity as a handler only, so the entire fine was paid by them. |
-| 0:03:04.240 | 184.240 | MR. MCCONNELL | fine | The order in this case was Page 6 issued against the -- the Hornes in their capacity as a handler only, so the entire fine was paid by them. |
+| 0:03:00.730 | 180.730 | MR. MCCONNELL | Horne | The order in this case was issued against the -- the Hornes in their capacity as a handler only, so the entire fine was paid by them. |
+| 0:03:02.180 | 182.180 | MR. MCCONNELL | handler | The order in this case was issued against the -- the Hornes in their capacity as a handler only, so the entire fine was paid by them. |
+| 0:03:04.240 | 184.240 | MR. MCCONNELL | fine | The order in this case was issued against the -- the Hornes in their capacity as a handler only, so the entire fine was paid by them. |
 | 0:03:07.540 | 187.540 | MR. MCCONNELL | fine | None of the fine is attributable to anyone in their capacity as a producer. |
 | 0:03:21.840 | 201.840 | JUSTICE SOTOMAYOR | fine | What is the -- what was taken from them -- you're saying it's just the fine, that the fine is a taking or -- what was the interest that they're claiming was taken by the government? |
 | 0:03:30.440 | 210.440 | JUSTICE SOTOMAYOR | raisins | They didn't own the raisins, so they get paid a fee for handling. |
@@ -193,7 +193,7 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:08:04.880 | 484.880 | JUSTICE SOTOMAYOR | raisins | It belonged to the producers who supplied them with the raisins and expected payment for them -- |
 | 0:08:18.360 | 498.360 | MR. MCCONNELL | handler | It is the handlers who have been held responsible. |
 | 0:08:46.560 | 526.560 | MR. MCCONNELL | raisins | They were held responsible because in their -- in their processing capacity, when they were doing the stemming, the seeding, the fumigating, the packing, that this was regarded by the Department of Agriculture as possession -- physical possession of the raisins and acquisition of the raisins, even though they never had title to the raisins. |
-| 0:08:58.500 | 538.500 | MR. MCCONNELL | raisins | It's the Department of Agriculture that has attached to them a possessory interest in the raisins and then assessed them the full monetary equivalent of those raisins, full market value, $484,000 for the Page 11 market value because it's -- because under this very unusual regulatory scheme the government regards them as having possessed the raisins even though that -- that is not -- |
+| 0:08:58.500 | 538.500 | MR. MCCONNELL | raisins | It's the Department of Agriculture that has attached to them a possessory interest in the raisins and then assessed them the full monetary equivalent of those raisins, full market value, $484,000 for the market value because it's -- because under this very unusual regulatory scheme the government regards them as having possessed the raisins even though that -- that is not -- |
 | 0:09:28.360 | 568.360 | JUSTICE KAGAN | Horne | Could I -- along the lines of what Justice Ginsburg was saying, suppose that the Hornes had given over all the raisins, right, but that they thought that this was improper, that this marketing order was -- it was a violation of the takings clause. |
 | 0:09:30.580 | 570.580 | JUSTICE KAGAN | raisins | Could I -- along the lines of what Justice Ginsburg was saying, suppose that the Hornes had given over all the raisins, right, but that they thought that this was improper, that this marketing order was -- it was a violation of the takings clause. |
 | 0:09:49.940 | 589.940 | JUSTICE KAGAN | raisins | They gave -- they gave over the raisins, they say we're entitled to compensation. |
@@ -206,8 +206,8 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:11:13.420 | 673.420 | MR. MCCONNELL | handler | The plan was ultimately rejected and we haven't brought a -- a cert petition on it, but the plan actually complies with the -- with the language of the -- of the regulation because they believe that in their capacity as handler, as processor, that they never acquired the raisins. |
 | 0:11:16.860 | 676.860 | MR. MCCONNELL | raisins | The plan was ultimately rejected and we haven't brought a -- a cert petition on it, but the plan actually complies with the -- with the language of the -- of the regulation because they believe that in their capacity as handler, as processor, that they never acquired the raisins. |
 | 0:11:20.240 | 680.240 | MR. MCCONNELL | handler | "Acquisition" is the key term for becoming a handler under the rule. |
-| 0:11:28.440 | 688.440 | MR. MCCONNELL | ton(s) | And they believe that since they were simply providing a service for -- for $12 a ton to their neighbors, that they never acquired the raisins, they never possessed the raisins, and therefore no one had to Page 13 comply the regulation. |
-| 0:11:31.800 | 691.800 | MR. MCCONNELL | raisins | And they believe that since they were simply providing a service for -- for $12 a ton to their neighbors, that they never acquired the raisins, they never possessed the raisins, and therefore no one had to Page 13 comply the regulation. |
+| 0:11:28.440 | 688.440 | MR. MCCONNELL | ton(s) | And they believe that since they were simply providing a service for -- for $12 a ton to their neighbors, that they never acquired the raisins, they never possessed the raisins, and therefore no one had to comply the regulation. |
+| 0:11:31.800 | 691.800 | MR. MCCONNELL | raisins | And they believe that since they were simply providing a service for -- for $12 a ton to their neighbors, that they never acquired the raisins, they never possessed the raisins, and therefore no one had to comply the regulation. |
 | 0:11:36.980 | 696.980 | JUSTICE SCALIA | raisins | Well, some of the raisins were their own. |
 | 0:11:37.400 | 697.400 | JUSTICE SCALIA | raisins | Some of the raisins were their own. |
 | 0:11:56.860 | 716.860 | JUSTICE KENNEDY | penalty | Well, to get you back to the -- the jurisdiction point, let's -- let's just assume a hypothetical case where a regulated entity has to pay an exaction which it deems to be a penalty. |
@@ -244,7 +244,7 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:15:39.860 | 939.860 | MR. MCCONNELL | Horne | And the Hornes believed that this would mean that they were not handlers. |
 | 0:15:43.720 | 943.720 | MR. MCCONNELL | handler | And the Hornes believed that this would mean that they were not handlers. |
 | 0:15:46.500 | 946.500 | MR. MCCONNELL | handler | And that -- and they were found to be handlers anyway. |
-| 0:16:20.240 | 980.240 | JUSTICE SOTOMAYOR | fine | Meaning, doesn't the system have an interest in ensuring that people comply with their legal obligations, and to the extent that you choose to violate the law the way Page 17 they have here, that the fine is punitive and not compensatory. |
+| 0:16:20.240 | 980.240 | JUSTICE SOTOMAYOR | fine | Meaning, doesn't the system have an interest in ensuring that people comply with their legal obligations, and to the extent that you choose to violate the law the way they have here, that the fine is punitive and not compensatory. |
 | 0:16:26.180 | 986.180 | JUSTICE SOTOMAYOR | raisins | Meaning, you don't own the raisins, but you were obligated to put raisins aside for someone else. |
 | 0:16:46.940 | 1006.940 | JUSTICE SOTOMAYOR | raisins | Since you didn't own the raisins, the taking is the fine is what you want to call the taking. |
 | 0:16:48.400 | 1008.400 | JUSTICE SOTOMAYOR | fine | Since you didn't own the raisins, the taking is the fine is what you want to call the taking. |
@@ -252,7 +252,7 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:17:00.400 | 1020.400 | JUSTICE SOTOMAYOR | raisins | But they're not your raisins. |
 | 0:17:00.871 | 1020.871 | JUSTICE SOTOMAYOR | raisins | They’re not your raisins. |
 | 0:17:04.920 | 1024.920 | MR. MCCONNELL | raisins | By the time -- by the time this order was enforced, the raisins were gone and so as a practical matter, only one of those two alternatives was left as a matter of timing. |
-| 0:17:24.340 | 1044.340 | JUSTICE ALITO | raisins | Well, but in answer to Justice Ginsburg's question that -- you said the producers could go to the -- the Court of Federal Claims to contest the taking of -- producers could go to Page 18 contest the taking of raisins. |
+| 0:17:24.340 | 1044.340 | JUSTICE ALITO | raisins | Well, but in answer to Justice Ginsburg's question that -- you said the producers could go to the -- the Court of Federal Claims to contest the taking of -- producers could go to contest the taking of raisins. |
 | 0:17:26.560 | 1046.560 | MR. MCCONNELL | raisins | If they had not been paid for the raisins. |
 | 0:17:38.200 | 1058.200 | MR. MCCONNELL | handler | It withdraws Tucker Act jurisdiction only for handlers. |
 | 0:17:40.707 | 1060.707 | JUSTICE ALITO | handler | Only for handlers. |
@@ -275,22 +275,22 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:21:36.740 | 1296.740 | JUSTICE KAGAN | raisins | It seems to me that as to the penalty part, the key thing is that if they had handed over the raisins, they could have gone to the Court of Federal Claims and had the compensation done there. |
 | 0:21:54.820 | 1314.820 | MR. MCCONNELL | fine | Well, the most pertinent case for that part of the fine, for the penalty part, is Missouri Pacific Railroad v. Nebraska. |
 | 0:21:55.440 | 1315.440 | MR. MCCONNELL | penalty | Well, the most pertinent case for that part of the fine, for the penalty part, is Missouri Pacific Railroad v. Nebraska. |
-| 0:22:28.400 | 1348.400 | MR. MCCONNELL | fine | That gets up to this Court and an opinion by Mr. -- Justice Holmes, the Court holds that that is a taking and that the railroad is entitled to challenge Page 23 the taking in the form of the fine. |
+| 0:22:28.400 | 1348.400 | MR. MCCONNELL | fine | That gets up to this Court and an opinion by Mr. -- Justice Holmes, the Court holds that that is a taking and that the railroad is entitled to challenge the taking in the form of the fine. |
 | 0:22:29.520 | 1349.520 | MR. MCCONNELL | penalty | So for -- for the penalty portion, the punishment portion of the fine, Missouri Pacific Railroad is actually the more pertinent decision. |
 | 0:22:32.720 | 1352.720 | MR. MCCONNELL | fine | So for -- for the penalty portion, the punishment portion of the fine, Missouri Pacific Railroad is actually the more pertinent decision. |
 | 0:24:09.460 | 1449.460 | JUSTICE SOTOMAYOR | raisins | Mr. McConnell, in -- in -- if the producers had decided to challenge this as a Tucker Act violation, they would have had to hand over the raisins? |
 | 0:24:13.460 | 1453.460 | JUSTICE SOTOMAYOR | raisins | Or could they have just held on to the raisins and said, I'm not handing it over until I get just compensation? |
-| 0:24:23.280 | 1463.280 | MR. MCCONNELL | raisins | So had they held on to their own raisins and sold them, I assume, you don't -- not just left them rot, if they had sold them, then the Department of Agriculture would have called them a Page 25 handler because anyone who sells raisins is called a handler, and then they would be fined in their capacity as a handler and it would be a somewhat similar case to this one. |
-| 0:24:33.280 | 1473.280 | MR. MCCONNELL | handler | So had they held on to their own raisins and sold them, I assume, you don't -- not just left them rot, if they had sold them, then the Department of Agriculture would have called them a Page 25 handler because anyone who sells raisins is called a handler, and then they would be fined in their capacity as a handler and it would be a somewhat similar case to this one. |
+| 0:24:23.280 | 1463.280 | MR. MCCONNELL | raisins | So had they held on to their own raisins and sold them, I assume, you don't -- not just left them rot, if they had sold them, then the Department of Agriculture would have called them a handler because anyone who sells raisins is called a handler, and then they would be fined in their capacity as a handler and it would be a somewhat similar case to this one. |
+| 0:24:33.280 | 1473.280 | MR. MCCONNELL | handler | So had they held on to their own raisins and sold them, I assume, you don't -- not just left them rot, if they had sold them, then the Department of Agriculture would have called them a handler because anyone who sells raisins is called a handler, and then they would be fined in their capacity as a handler and it would be a somewhat similar case to this one. |
 | 0:26:49.650 | 1609.650 | MR. MCCONNELL | reserve | May I reserve the remaining time? |
 | 0:27:22.070 | 1642.070 | MR. PALMORE | raisins | Raisins and money. |
-| 0:29:46.510 | 1786.510 | MR. PALMORE | raisins | And moreover, they decided something separate, which is Page 30 at JA-305 they said something different, which is the kind of threshold defect in the takings claim turning on raisins, which is there is a capacity problem. |
+| 0:29:46.510 | 1786.510 | MR. PALMORE | raisins | And moreover, they decided something separate, which is at JA-305 they said something different, which is the kind of threshold defect in the takings claim turning on raisins, which is there is a capacity problem. |
 | 0:30:04.450 | 1804.450 | MR. PALMORE | reserve | The capacity problem is this: In 2002, after having been strictly raisin producers since 1969, entering into a market where there was a reserve requirement from the beginning, they knew what they were getting into, they decided to adopt a new business model, as Petitioner's counsel says. |
 | 0:30:25.710 | 1825.710 | MR. PALMORE | handler | But what they did was they took on the obligations of a handler. |
 | 0:30:26.790 | 1826.790 | MR. PALMORE | handler | They became raisin handlers in 2002. |
-| 0:30:34.110 | 1834.110 | MR. PALMORE | handler | And what came with that status were a series of regulatory obligations that apply only to handlers and under the AMAA can apply only to handlers: The requirement to have raisins inspected, the requirement to file truthful reports, the requirement to make records available, and the requirement to separate out raisins into what's called free tonnage and reserve tonnage, any raisins processed, it doesn't matter who Page 31 owns them. |
-| 0:30:39.610 | 1839.610 | MR. PALMORE | raisins | And what came with that status were a series of regulatory obligations that apply only to handlers and under the AMAA can apply only to handlers: The requirement to have raisins inspected, the requirement to file truthful reports, the requirement to make records available, and the requirement to separate out raisins into what's called free tonnage and reserve tonnage, any raisins processed, it doesn't matter who Page 31 owns them. |
-| 0:30:50.170 | 1850.170 | MR. PALMORE | reserve | And what came with that status were a series of regulatory obligations that apply only to handlers and under the AMAA can apply only to handlers: The requirement to have raisins inspected, the requirement to file truthful reports, the requirement to make records available, and the requirement to separate out raisins into what's called free tonnage and reserve tonnage, any raisins processed, it doesn't matter who Page 31 owns them. |
+| 0:30:34.110 | 1834.110 | MR. PALMORE | handler | And what came with that status were a series of regulatory obligations that apply only to handlers and under the AMAA can apply only to handlers: The requirement to have raisins inspected, the requirement to file truthful reports, the requirement to make records available, and the requirement to separate out raisins into what's called free tonnage and reserve tonnage, any raisins processed, it doesn't matter who owns them. |
+| 0:30:39.610 | 1839.610 | MR. PALMORE | raisins | And what came with that status were a series of regulatory obligations that apply only to handlers and under the AMAA can apply only to handlers: The requirement to have raisins inspected, the requirement to file truthful reports, the requirement to make records available, and the requirement to separate out raisins into what's called free tonnage and reserve tonnage, any raisins processed, it doesn't matter who owns them. |
+| 0:30:50.170 | 1850.170 | MR. PALMORE | reserve | And what came with that status were a series of regulatory obligations that apply only to handlers and under the AMAA can apply only to handlers: The requirement to have raisins inspected, the requirement to file truthful reports, the requirement to make records available, and the requirement to separate out raisins into what's called free tonnage and reserve tonnage, any raisins processed, it doesn't matter who owns them. |
 | 0:30:54.610 | 1854.610 | MR. PALMORE | handler | Those are handler-specific regulatory obligations that were imposed upon them, and they violated every single one of them, willfully and intentionally, in order to secure an unfair competitive advantage. |
 | 0:31:13.530 | 1873.530 | MR. PALMORE | handler | And what the USDA did was impose penalties on them for the violation of law that -- that attached to them only as raisin handlers. |
 | 0:31:22.050 | 1882.050 | MR. PALMORE | handler | And then they invoked the judicial review proceedings in Section 14 that provides a judicial review mechanism only for handlers. |
@@ -316,11 +316,11 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:37:00.990 | 2220.990 | JUSTICE BREYER | raisins | And they think as a matter of policy that just hurts people by raising prices, and as a matter of constitutional law it takes raisins from some people that belong to them and uses them for this bad purpose. |
 | 0:37:08.910 | 2228.910 | JUSTICE BREYER | fine | Fine. |
 | 0:37:55.090 | 2275.090 | MR. PALMORE | raisins | Justice Breyer, we've now shifted back to the -- the first theory about the property, which is the raisins. |
-| 0:38:00.970 | 2280.970 | MR. PALMORE | raisins | What they could have done in 2002, would they have been a producer of raisins, solely a producer of raisins for decades, at any point during -- between 1969 and 2002, they could have gone to the Court of Claims and said, this reserve requirement, is a taking of my raisins, I want my just Page 38 compensation. |
-| 0:38:10.430 | 2290.430 | MR. PALMORE | reserve | What they could have done in 2002, would they have been a producer of raisins, solely a producer of raisins for decades, at any point during -- between 1969 and 2002, they could have gone to the Court of Claims and said, this reserve requirement, is a taking of my raisins, I want my just Page 38 compensation. |
+| 0:38:00.970 | 2280.970 | MR. PALMORE | raisins | What they could have done in 2002, would they have been a producer of raisins, solely a producer of raisins for decades, at any point during -- between 1969 and 2002, they could have gone to the Court of Claims and said, this reserve requirement, is a taking of my raisins, I want my just compensation. |
+| 0:38:10.430 | 2290.430 | MR. PALMORE | reserve | What they could have done in 2002, would they have been a producer of raisins, solely a producer of raisins for decades, at any point during -- between 1969 and 2002, they could have gone to the Court of Claims and said, this reserve requirement, is a taking of my raisins, I want my just compensation. |
 | 0:38:37.250 | 2317.250 | JUSTICE SCALIA | raisins | Did -- did Congress create a statute in which we're going to take your raisins and then you can go to the Court of Claims and get your money back. |
 | 0:39:00.250 | 2340.250 | JUSTICE SCALIA | raisins | But to say that Congress contemplated -- you know, we'll take your raisins and then you sue in the Court of Claims, they give you your money back. |
-| 0:39:20.770 | 2360.770 | MR. PALMORE | reserve | Raisin producers, or in the Cal-Almond case it was an Page 39 almond producer, went to the Court of Claims and said this reserve requirement is a taking, I want my money. |
+| 0:39:20.770 | 2360.770 | MR. PALMORE | reserve | Raisin producers, or in the Cal-Almond case it was an almond producer, went to the Court of Claims and said this reserve requirement is a taking, I want my money. |
 | 0:39:39.430 | 2379.430 | MR. PALMORE | reserve | That said, we do agree that it is actually a close question whether Congress would have intended compensation to be provided in a situation like this one, in the event the raisin reserve program were found to be a taking. |
 | 0:40:05.050 | 2405.050 | JUSTICE SCALIA | raisins | You think that the way the statute is supposed to operate, once it is held that this is an unconstitutional taking, is that every year, the government takes the raisins and every year, the grower goes to the Court of Claims and gets the money back for the raisins. |
 | 0:40:21.070 | 2421.070 | JUSTICE SCALIA | raisins | Every year we're going to take raisins and every year we're going to pay you in the Court of Claims. |
@@ -330,7 +330,7 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:41:34.510 | 2494.510 | JUSTICE GINSBURG | handler | Mr. Palmore, am I incorrect in thinking that the government is saying, handlers cannot raise the constitutionality of the Raisin Marketing Order? |
 | 0:41:48.250 | 2508.250 | JUSTICE GINSBURG | handler | What about the handlers? |
 | 0:42:24.610 | 2544.610 | MR. PALMORE | raisins | If the property is the raisins, they can't raise that in this proceeding. |
-| 0:42:44.690 | 2564.690 | MR. PALMORE | fine | If the claim -- if the claim is that the money that was taken from me, the fine, that Page 42 itself is a taking, then we think that claim can and must be brought in the context of the AMAA proceeding. |
+| 0:42:44.690 | 2564.690 | MR. PALMORE | fine | If the claim -- if the claim is that the money that was taken from me, the fine, that itself is a taking, then we think that claim can and must be brought in the context of the AMAA proceeding. |
 | 0:43:01.070 | 2581.070 | MR. PALMORE | fine | That was not how the Court of Appeals understood the claim here to be, and there's no precedent for the idea that a fine for violation of law can be articulated as a taking of the lawbreaker's property without just compensation. |
 | 0:43:31.790 | 2611.790 | JUSTICE KENNEDY | penalty | I -- I thought that what we were going to decide was whether or not, assuming you can go to the Court of Claims, you must go to the Court of Claims, can you prefer to wait, have a penalty assessed against you and say this is unconstitutional, it's a taking. |
 | 0:43:48.050 | 2628.050 | MR. PALMORE | fine | But, Justice Kennedy, the -- the Ninth Circuit didn't understand the taking claim to be that the fine for my violation of law is a taking of my money. |
@@ -348,7 +348,7 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:47:07.270 | 2827.270 | MR. PALMORE | reserve | He takes title to the free-tonnage raisins and the title to the reserve raisins passes, as a matter of law, from the producer to the Raisin Administrative Committee. |
 | 0:47:12.590 | 2832.590 | MR. PALMORE | handler | The handler never owns those raisins. |
 | 0:47:13.830 | 2833.830 | MR. PALMORE | raisins | The handler never owns those raisins. |
-| 0:47:19.410 | 2839.410 | JUSTICE SOTOMAYOR | raisins | So they are missing a Page 46 business opportunity because they can't take title to those raisins. |
+| 0:47:19.410 | 2839.410 | JUSTICE SOTOMAYOR | raisins | So they are missing a business opportunity because they can't take title to those raisins. |
 | 0:47:23.510 | 2843.510 | MR. PALMORE | raisins | They would never pay for those -- they would never pay for those raisins because they can't take title. |
 | 0:47:27.370 | 2847.370 | MR. PALMORE | raisins | They can't lawfully take title to those raisins. |
 | 0:47:44.810 | 2864.810 | JUSTICE SOTOMAYOR | handler | Whether it's a taking -- whether there's a takings claim for the handler because the handler is being asked to do things -- |
@@ -357,11 +357,11 @@ Every sentence in the argument that mentions one of these terms, official wordin
 | 0:48:02.350 | 2882.350 | MR. PALMORE | raisins | For instance, there was a case called Lion Raisins from the Federal Circuit that we cite in our brief, in which the issue was that the handler provided bins to store the raisins, and he didn't get his bins back. |
 | 0:48:06.310 | 2886.310 | MR. PALMORE | handler | For instance, there was a case called Lion Raisins from the Federal Circuit that we cite in our brief, in which the issue was that the handler provided bins to store the raisins, and he didn't get his bins back. |
 | 0:48:11.790 | 2891.790 | MR. PALMORE | handler | That was a handler takings claim, and that had to be asserted in the context of this handler review scheme. |
-| 0:48:19.050 | 2899.050 | MR. PALMORE | handler | But the handler doesn't own the raisins under Page 47 this scheme. |
-| 0:48:20.990 | 2900.990 | MR. PALMORE | raisins | But the handler doesn't own the raisins under Page 47 this scheme. |
+| 0:48:19.050 | 2899.050 | MR. PALMORE | handler | But the handler doesn't own the raisins under this scheme. |
+| 0:48:20.990 | 2900.990 | MR. PALMORE | raisins | But the handler doesn't own the raisins under this scheme. |
 | 0:48:51.210 | 2931.210 | MR. PALMORE | handler | And if someone wants to take on both roles, they will be regulated only as a handler. |
 | 0:48:57.530 | 2937.530 | MR. PALMORE | handler | So the regulatory obligations that applied to Petitioners when they adopted this business model were handler-only regulatory obligations, and then this is a handler judicial review proceeding. |
-| 0:49:37.650 | 2977.650 | MR. PALMORE | raisins | But there's no unfairness or no due process issue here at all because they -- in 2002, when -- when Petitioners decided to engage in this, these regulatory violations in order to secure an unfair advantage over their competitors, as was found by the ALJ at JA41, at Page 48 that point they could have sought compensation for the past 6 years of raisins that they had provided. |
+| 0:49:37.650 | 2977.650 | MR. PALMORE | raisins | But there's no unfairness or no due process issue here at all because they -- in 2002, when -- when Petitioners decided to engage in this, these regulatory violations in order to secure an unfair advantage over their competitors, as was found by the ALJ at JA41, at that point they could have sought compensation for the past 6 years of raisins that they had provided. |
 | 0:49:48.990 | 2988.990 | MR. PALMORE | handler | And to the extent they wanted to claim going forward, they could have continued to use compliant handlers and sued every month for compensation in the Court of Claims. |
 | 0:51:26.530 | 3086.530 | MR. PALMORE | handler | But there's a separate issue in that there's this capacity issue, which is a separate point that the Ninth Circuit made at JA305, when it pointed out that this was a producer claim, and that's something that -- that was strictly a producer claim and wasn't -- wasn't a fit for this handler review action, and that's something that could also be considered on remand. |
 | 0:52:05.770 | 3125.770 | JUSTICE BREYER | handler | There is some opinion here which says these handlers acquired the raisins. |
@@ -388,7 +388,7 @@ Everything said from 0:00:09.240 to 0:03:09.240, official wording, with each tur
 
 [0:00:25.740] MR. MCCONNELL: Certainly.
 
-[0:00:25.760] JUSTICE SOTOMAYOR: -- because it has confused me. As I look at the captions of the cases, there appear to be two different partnerships: One partnership, known as Raisin -- doing business as Raisin Valley Farms, has Mr. Horne and his wife as the partners. Larsen Valley, the producer -- not the producer, the handler -- has four other, the Hornes, Page 4 plus two other people. So who owns the raisins? Isn't that the first partnership of the husband and wife? And isn't the handler a second partnership that does the business of handling?
+[0:00:25.760] JUSTICE SOTOMAYOR: -- because it has confused me. As I look at the captions of the cases, there appear to be two different partnerships: One partnership, known as Raisin -- doing business as Raisin Valley Farms, has Mr. Horne and his wife as the partners. Larsen Valley, the producer -- not the producer, the handler -- has four other, the Hornes, plus two other people. So who owns the raisins? Isn't that the first partnership of the husband and wife? And isn't the handler a second partnership that does the business of handling?
 
 [0:01:16.640] MR. MCCONNELL: The other two partners in Lassen were Laura Horne's parents, now deceased.
 
@@ -404,7 +404,7 @@ Everything said from 0:00:09.240 to 0:03:09.240, official wording, with each tur
 
 [0:01:45.880] MR. MCCONNELL: They are separate -- they are separate legal entities, all effectively controlled by the same family.
 
-[0:01:51.720] JUSTICE SOTOMAYOR: Well, that's -- you know, in the cat -- you get some limited liability by creating separate entities, so the creature who owns is one partnership, and the -- and the entity that produces, that handles, is a second one. Page 5
+[0:01:51.720] JUSTICE SOTOMAYOR: Well, that's -- you know, in the cat -- you get some limited liability by creating separate entities, so the creature who owns is one partnership, and the -- and the entity that produces, that handles, is a second one.
 
 [0:02:07.640] JUSTICE SCALIA: I assume this is one of those difficult merits questions you were alluding to, it doesn't go to whether there's jurisdiction, but to whether the claim of a taking can be asserted by the partnership in question, isn't it?
 
@@ -422,7 +422,7 @@ Everything said from 0:00:09.240 to 0:03:09.240, official wording, with each tur
 
 [0:02:52.820] JUSTICE SOTOMAYOR: What is it that's being taken from the handler entity?
 
-[0:02:56.380] MR. MCCONNELL: The order in this case was Page 6 issued against the -- the Hornes in their capacity as a handler only, so the entire fine was paid by them. None of the fine is attributable
+[0:02:56.380] MR. MCCONNELL: The order in this case was issued against the -- the Hornes in their capacity as a handler only, so the entire fine was paid by them. None of the fine is attributable
 
 ## Opinion announcement
 
