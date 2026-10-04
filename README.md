@@ -16,6 +16,7 @@ word by word to the official text.
 | [lozman-house](projects/lozman-house/) | Lozman v. City of Riviera Beach, Florida, No. 11-626 | 1 October 2012 |
 | [star-athletica-uniform](projects/star-athletica-uniform/) | Star Athletica, L.L.C. v. Varsity Brands, Inc., No. 15-866 | 31 October 2016 |
 | [yates-fish](projects/yates-fish/) | Yates v. United States, No. 13-7451 (plus the opinion announcement) | 5 November 2014 |
+| [jones-gps](projects/jones-gps/) | United States v. Jones, No. 10-1259 (plus the opinion announcement) | 8 November 2011 |
 | [dubin-identity](projects/dubin-identity/) | Dubin v. United States, No. 22-10 (plus the opinion announcement) | 27 February 2023 |
 | [raich-marijuana](projects/raich-marijuana/) | Gonzales v. Raich, No. 03-1454 (argument audio from Oyez; plus the opinion announcement) | 29 November 2004 |
 | [sturgeon-hovercraft-2](projects/sturgeon-hovercraft-2/) | Sturgeon v. Frost (II), No. 17-949 (plus the opinion announcement) | 14 November 2018 |

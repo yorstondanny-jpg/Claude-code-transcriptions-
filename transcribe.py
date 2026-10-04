@@ -45,10 +45,19 @@ def log(msg):
     print(f"[{time.strftime('%H:%M:%S')}] {msg}", flush=True)
 
 
-def fetch(url, dest=None):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=120) as r:
-        data = r.read()
+def fetch(url, dest=None, attempts=4):
+    """GET with retries (2, 4, 8 s back-off): connections through the proxy sometimes drop."""
+    for k in range(attempts):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=120) as r:
+                data = r.read()
+            break
+        except Exception as exc:
+            if k == attempts - 1:
+                raise
+            log(f"Fetch failed ({exc}); retrying {url}")
+            time.sleep(2 ** (k + 1))
     if dest:
         Path(dest).write_bytes(data)
     return data
@@ -978,6 +987,26 @@ def process_opinion(case, year, root, work, model_name):
     info["rewindowed"] = rewindow_long_words(words, mp3, model_name, voiced,
                                              work / f"asr_windows_opinion_{model_name}.json")
 
+    # Whisper sometimes skips a stretch of speech outright (Jones: 33 s of Scalia's opening).
+    # A gap of 5 s or more between words that holds 3 s or more of voiced audio is re-transcribed
+    # on its own and the words it hears there are put in.
+    gap_asr = WindowASR(mp3, model_name, work / f"asr_windows_opinion_{model_name}.json")
+    filled = []
+    edges = [(0.0, words[0]["s"] if words else info["duration"])] + \
+            [(words[k - 1]["e"], words[k]["s"]) for k in range(1, len(words))] + \
+            [(words[-1]["e"] if words else 0.0, info["duration"])]
+    for g0, g1 in edges:
+        if g1 - g0 < 5.0 or sum(voiced[int(g0 / HOP):int(g1 / HOP)]) * HOP < 3.0:
+            continue
+        new = [w for w in gap_asr.get(max(0.0, g0 - 0.5), g1 + 0.5)
+               if w["s"] >= g0 - 0.2 and w["e"] <= g1 + 0.2 and w["w"]]
+        if new:
+            filled.append((round(g0, 3), round(g1, 3), len(new)))
+            for w in new:
+                w["s"], w["e"] = max(w["s"], g0), min(w["e"], g1)
+            words = sorted(words + new, key=lambda w: w["s"])
+    info["gaps_filled"] = filled
+
     turns, oyez_words = [], []
     for sec in (media.get("transcript") or {}).get("sections") or []:
         for t in sec.get("turns") or []:
@@ -1353,6 +1382,7 @@ def readme_extras(st):
   used, except where noted below.{(chr(10) + "  Oyez lists no names for " + str(op['speakers_inferred']) + " of these turns, so they come from the text: a turn that opens " + chr(34) + "Justice X has our opinion" + chr(34) + " is the Chief Justice introducing the case, and the next turn is Justice X.") if op.get('speakers_inferred') else ''}
 - Word times: Whisper's, with the same stretched-word trimming as the argument ({op['trimmed']}
   trimmed, {op['rewindowed']} re-transcribed).
+- Skipped speech: {("Whisper skipped " + ("a stretch" if len(op['gaps_filled']) == 1 else str(len(op['gaps_filled'])) + " stretches") + " of speech: " + "; ".join(f"{fmt_ts(a)} to {fmt_ts(b)} ({n} words recovered)" for a, b, n in op['gaps_filled']) + ". Each was re-transcribed on its own and the words put in") if op.get('gaps_filled') else "none (no gap of 5 s or more with speech in it)"}.
 - Checks: {ck['order_bad']} words out of time order; words longer than 3 s: {long_txt}.
 - Cross-check: Oyez's unofficial transcript agrees with {agree_txt}.
 
