@@ -1,0 +1,6596 @@
+[
+ {
+  "w": "I",
+  "s": 0.0,
+  "e": 0.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "have",
+  "s": 0.6,
+  "e": 0.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 0.84,
+  "e": 1.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.0,
+  "e": 1.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 1.26,
+  "e": 1.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1.46,
+  "e": 1.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Court",
+  "s": 1.64,
+  "e": 1.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 1.8,
+  "e": 2.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Case",
+  "s": 2.08,
+  "e": 2.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "No.",
+  "s": 2.26,
+  "e": 2.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "14",
+  "s": 2.98,
+  "e": 3.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "-275,",
+  "s": 3.16,
+  "e": 4.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horn",
+  "s": 5.04,
+  "e": 5.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "v.",
+  "s": 5.16,
+  "e": 5.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "United",
+  "s": 5.62,
+  "e": 5.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "States",
+  "s": 5.9,
+  "e": 6.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Department",
+  "s": 6.34,
+  "e": 6.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 6.8,
+  "e": 7.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Agriculture.",
+  "s": 7.2,
+  "e": 7.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "At",
+  "s": 8.5,
+  "e": 9.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "8",
+  "s": 9.06,
+  "e": 9.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "o",
+  "s": 9.22,
+  "e": 9.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "'clock",
+  "s": 9.44,
+  "e": 9.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "one",
+  "s": 9.62,
+  "e": 9.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "April",
+  "s": 9.88,
+  "e": 10.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning",
+  "s": 10.26,
+  "e": 10.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 10.72,
+  "e": 11.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Fresno",
+  "s": 11.08,
+  "e": 11.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "County,",
+  "s": 11.48,
+  "e": 11.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "California,",
+  "s": 12.06,
+  "e": 12.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 13.06,
+  "e": 13.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "trucks",
+  "s": 13.32,
+  "e": 13.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "waited",
+  "s": 13.76,
+  "e": 14.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "outside",
+  "s": 14.18,
+  "e": 14.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 14.78,
+  "e": 15.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisin",
+  "s": 15.14,
+  "e": 15.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "handling",
+  "s": 15.38,
+  "e": 15.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "facility",
+  "s": 15.78,
+  "e": 16.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 16.38,
+  "e": 16.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 16.66,
+  "e": 16.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns,",
+  "s": 16.82,
+  "e": 17.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 17.46,
+  "e": 17.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "family",
+  "s": 17.62,
+  "e": 17.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 17.96,
+  "e": 18.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisin",
+  "s": 18.26,
+  "e": 18.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "growers.",
+  "s": 18.52,
+  "e": 18.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 19.22,
+  "e": 19.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "trucks",
+  "s": 19.72,
+  "e": 19.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "were",
+  "s": 19.94,
+  "e": 20.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "there",
+  "s": 20.16,
+  "e": 20.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 20.32,
+  "e": 20.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "pick",
+  "s": 20.54,
+  "e": 20.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "up",
+  "s": 20.68,
+  "e": 20.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "over",
+  "s": 20.94,
+  "e": 21.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 21.18,
+  "e": 21.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "thousand",
+  "s": 21.42,
+  "e": 21.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "tons",
+  "s": 21.74,
+  "e": 22.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 22.08,
+  "e": 22.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 22.32,
+  "e": 22.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns'",
+  "s": 22.5,
+  "e": 22.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisin",
+  "s": 23.08,
+  "e": 23.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "crop,",
+  "s": 23.22,
+  "e": 23.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "even",
+  "s": 23.94,
+  "e": 24.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "though",
+  "s": 24.5,
+  "e": 24.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 24.64,
+  "e": 24.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 24.82,
+  "e": 25.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "had",
+  "s": 25.06,
+  "e": 25.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 25.28,
+  "e": 25.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "paid",
+  "s": 25.5,
+  "e": 25.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 25.82,
+  "e": 26.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "those",
+  "s": 26.06,
+  "e": 26.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins.",
+  "s": 26.3,
+  "e": 26.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 26.72,
+  "e": 27.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 27.4,
+  "e": 27.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sought",
+  "s": 27.7,
+  "e": 28.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 28.08,
+  "e": 28.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins",
+  "s": 28.32,
+  "e": 28.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "pursuant",
+  "s": 28.74,
+  "e": 29.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 29.16,
+  "e": 29.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 29.52,
+  "e": 29.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Agricultural",
+  "s": 29.82,
+  "e": 30.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Marketing",
+  "s": 30.42,
+  "e": 30.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Agreement",
+  "s": 30.94,
+  "e": 31.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Act",
+  "s": 31.38,
+  "e": 31.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 31.76,
+  "e": 32.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "1937.",
+  "s": 32.0,
+  "e": 32.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "That",
+  "s": 33.36,
+  "e": 34.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "statute",
+  "s": 34.12,
+  "e": 34.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "was",
+  "s": 34.6,
+  "e": 34.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "passed",
+  "s": 34.86,
+  "e": 35.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "during",
+  "s": 35.2,
+  "e": 35.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 35.48,
+  "e": 35.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Great",
+  "s": 35.62,
+  "e": 35.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Depression",
+  "s": 35.86,
+  "e": 36.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 36.36,
+  "e": 37.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "help",
+  "s": 37.04,
+  "e": 37.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "respond",
+  "s": 37.22,
+  "e": 37.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 37.7,
+  "e": 37.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 37.88,
+  "e": 38.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "farming",
+  "s": 38.04,
+  "e": 38.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "crisis",
+  "s": 38.34,
+  "e": 38.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "at",
+  "s": 38.82,
+  "e": 39.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 39.24,
+  "e": 39.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "time.",
+  "s": 39.42,
+  "e": 39.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "It",
+  "s": 40.78,
+  "e": 40.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "authorizes",
+  "s": 40.84,
+  "e": 41.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 41.56,
+  "e": 41.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Secretary",
+  "s": 41.86,
+  "e": 42.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 42.32,
+  "e": 42.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Agriculture",
+  "s": 42.66,
+  "e": 43.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 43.22,
+  "e": 43.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "promulgate",
+  "s": 43.5,
+  "e": 44.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "what",
+  "s": 44.12,
+  "e": 44.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "are",
+  "s": 44.3,
+  "e": 44.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "known",
+  "s": 44.46,
+  "e": 44.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 44.74,
+  "e": 45.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "marketing",
+  "s": 45.18,
+  "e": 45.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "orders",
+  "s": 45.5,
+  "e": 45.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 45.92,
+  "e": 46.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "help",
+  "s": 46.66,
+  "e": 46.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "maintain",
+  "s": 46.84,
+  "e": 47.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "stable",
+  "s": 47.3,
+  "e": 47.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "markets",
+  "s": 47.8,
+  "e": 48.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 48.18,
+  "e": 48.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "certain",
+  "s": 48.48,
+  "e": 48.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "agricultural",
+  "s": 48.78,
+  "e": 49.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "products.",
+  "s": 49.5,
+  "e": 50.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "One",
+  "s": 50.98,
+  "e": 51.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 51.16,
+  "e": 51.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "those",
+  "s": 51.26,
+  "e": 51.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "marketing",
+  "s": 51.44,
+  "e": 51.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "orders,",
+  "s": 51.9,
+  "e": 52.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 52.52,
+  "e": 52.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "California",
+  "s": 52.62,
+  "e": 53.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Raisin",
+  "s": 53.3,
+  "e": 53.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Marketing",
+  "s": 53.76,
+  "e": 54.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Order,",
+  "s": 54.16,
+  "e": 54.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "requires",
+  "s": 55.18,
+  "e": 55.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisin",
+  "s": 55.76,
+  "e": 56.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "growers",
+  "s": 56.16,
+  "e": 56.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "like",
+  "s": 56.46,
+  "e": 56.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 56.76,
+  "e": 56.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns",
+  "s": 56.96,
+  "e": 57.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 57.4,
+  "e": 57.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "set",
+  "s": 57.54,
+  "e": 57.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "aside",
+  "s": 57.78,
+  "e": 58.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 58.26,
+  "e": 58.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "specified",
+  "s": 58.54,
+  "e": 59.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "portion",
+  "s": 59.08,
+  "e": 59.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 59.64,
+  "e": 60.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 60.3,
+  "e": 60.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisin",
+  "s": 60.52,
+  "e": 60.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "crop",
+  "s": 60.92,
+  "e": 61.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 61.28,
+  "e": 61.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "certain",
+  "s": 61.96,
+  "e": 62.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "years",
+  "s": 62.24,
+  "e": 62.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 62.72,
+  "e": 63.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 63.16,
+  "e": 63.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government,",
+  "s": 63.36,
+  "e": 63.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "free",
+  "s": 63.68,
+  "e": 64.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 64.08,
+  "e": 64.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "charge.",
+  "s": 64.3,
+  "e": 64.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 65.12,
+  "e": 65.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "2002,",
+  "s": 65.62,
+  "e": 66.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 66.46,
+  "e": 66.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "amount",
+  "s": 66.78,
+  "e": 67.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "was",
+  "s": 67.06,
+  "e": 67.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "47",
+  "s": 67.34,
+  "e": 67.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "percent.",
+  "s": 67.98,
+  "e": 68.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 68.42,
+  "e": 69.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "2003,",
+  "s": 69.1,
+  "e": 70.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "30",
+  "s": 70.42,
+  "e": 70.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "percent.",
+  "s": 70.64,
+  "e": 71.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 71.64,
+  "e": 71.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 71.88,
+  "e": 72.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "uses",
+  "s": 72.12,
+  "e": 72.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 72.54,
+  "e": 72.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "portion",
+  "s": 72.82,
+  "e": 73.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 73.22,
+  "e": 73.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 73.4,
+  "e": 73.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "grower's",
+  "s": 73.54,
+  "e": 73.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisin",
+  "s": 73.94,
+  "e": 74.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "crop,",
+  "s": 74.2,
+  "e": 74.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "what",
+  "s": 74.76,
+  "e": 74.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "are",
+  "s": 74.86,
+  "e": 74.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "known",
+  "s": 74.98,
+  "e": 75.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 75.16,
+  "e": 75.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "reserve",
+  "s": 75.48,
+  "e": 75.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins,",
+  "s": 75.86,
+  "e": 76.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 76.62,
+  "e": 77.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "ways",
+  "s": 77.14,
+  "e": 77.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 77.48,
+  "e": 77.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "thinks",
+  "s": 77.82,
+  "e": 78.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "best",
+  "s": 78.16,
+  "e": 78.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "promote",
+  "s": 78.56,
+  "e": 79.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 79.08,
+  "e": 79.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "purposes",
+  "s": 79.4,
+  "e": 79.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 79.86,
+  "e": 80.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 80.24,
+  "e": 80.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "marketing",
+  "s": 80.44,
+  "e": 80.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "order",
+  "s": 80.78,
+  "e": 81.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "program,",
+  "s": 81.1,
+  "e": 81.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "such",
+  "s": 82.14,
+  "e": 82.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 82.46,
+  "e": 82.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "by",
+  "s": 82.6,
+  "e": 82.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "selling",
+  "s": 82.82,
+  "e": 83.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "them",
+  "s": 83.18,
+  "e": 83.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 83.52,
+  "e": 83.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "noncompetitive",
+  "s": 83.84,
+  "e": 84.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "markets,",
+  "s": 84.48,
+  "e": 85.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "donating",
+  "s": 85.24,
+  "e": 85.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "them,",
+  "s": 85.6,
+  "e": 86.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "or",
+  "s": 86.12,
+  "e": 86.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "otherwise",
+  "s": 86.58,
+  "e": 86.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "disposing",
+  "s": 86.98,
+  "e": 87.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 87.68,
+  "e": 87.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "them.",
+  "s": 87.82,
+  "e": 88.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "After",
+  "s": 88.62,
+  "e": 89.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "deducting",
+  "s": 89.18,
+  "e": 89.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 89.78,
+  "e": 89.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "expenses",
+  "s": 89.92,
+  "e": 90.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 90.44,
+  "e": 90.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "administering",
+  "s": 90.72,
+  "e": 91.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 91.22,
+  "e": 91.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "program,",
+  "s": 91.5,
+  "e": 91.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 92.56,
+  "e": 92.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 92.7,
+  "e": 92.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "returns",
+  "s": 92.9,
+  "e": 93.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 93.48,
+  "e": 93.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 93.74,
+  "e": 93.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "growers",
+  "s": 93.92,
+  "e": 94.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "any",
+  "s": 94.24,
+  "e": 94.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "net",
+  "s": 94.72,
+  "e": 94.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "proceeds",
+  "s": 94.98,
+  "e": 95.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "left",
+  "s": 95.5,
+  "e": 95.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "over",
+  "s": 95.9,
+  "e": 96.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "from",
+  "s": 96.32,
+  "e": 96.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 96.62,
+  "e": 96.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sale",
+  "s": 96.82,
+  "e": 97.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 97.1,
+  "e": 97.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 97.48,
+  "e": 97.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "reserve",
+  "s": 97.62,
+  "e": 97.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins.",
+  "s": 97.96,
+  "e": 98.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 98.78,
+  "e": 99.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "one",
+  "s": 99.26,
+  "e": 99.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 99.5,
+  "e": 99.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 99.62,
+  "e": 99.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "two",
+  "s": 99.76,
+  "e": 99.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "years",
+  "s": 99.92,
+  "e": 100.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "at",
+  "s": 100.18,
+  "e": 100.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "issue",
+  "s": 100.36,
+  "e": 100.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 100.56,
+  "e": 100.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 100.74,
+  "e": 100.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "case,",
+  "s": 100.9,
+  "e": 101.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "those",
+  "s": 101.36,
+  "e": 101.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "proceeds",
+  "s": 101.66,
+  "e": 102.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "were",
+  "s": 102.2,
+  "e": 102.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "less",
+  "s": 102.5,
+  "e": 102.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "than",
+  "s": 102.72,
+  "e": 102.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 102.96,
+  "e": 103.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cost",
+  "s": 103.12,
+  "e": 103.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 103.32,
+  "e": 103.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "producing",
+  "s": 103.56,
+  "e": 103.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 103.92,
+  "e": 104.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins.",
+  "s": 104.14,
+  "e": 104.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 104.86,
+  "e": 105.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 105.42,
+  "e": 105.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "other",
+  "s": 105.56,
+  "e": 105.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "year,",
+  "s": 105.74,
+  "e": 106.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "they",
+  "s": 106.18,
+  "e": 106.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "were",
+  "s": 106.28,
+  "e": 106.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "no",
+  "s": 106.42,
+  "e": 106.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "net",
+  "s": 106.94,
+  "e": 107.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "proceeds",
+  "s": 107.3,
+  "e": 107.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "at",
+  "s": 107.82,
+  "e": 108.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "all.",
+  "s": 108.04,
+  "e": 108.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Now,",
+  "s": 109.26,
+  "e": 109.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "when",
+  "s": 109.48,
+  "e": 109.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 109.6,
+  "e": 109.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "trucks",
+  "s": 109.78,
+  "e": 109.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "arrived",
+  "s": 109.94,
+  "e": 110.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "at",
+  "s": 110.4,
+  "e": 110.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 110.64,
+  "e": 110.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns'",
+  "s": 110.78,
+  "e": 111.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "facility,",
+  "s": 111.14,
+  "e": 111.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 111.68,
+  "e": 111.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns",
+  "s": 111.8,
+  "e": 112.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "refused",
+  "s": 112.3,
+  "e": 112.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 112.68,
+  "e": 112.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "hand",
+  "s": 112.86,
+  "e": 113.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "over",
+  "s": 113.06,
+  "e": 113.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 113.34,
+  "e": 113.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins.",
+  "s": 113.52,
+  "e": 113.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 114.14,
+  "e": 114.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "response,",
+  "s": 114.74,
+  "e": 115.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 115.42,
+  "e": 115.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 115.56,
+  "e": 115.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "assessed",
+  "s": 115.82,
+  "e": 116.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 116.3,
+  "e": 116.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "fine",
+  "s": 116.6,
+  "e": 116.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "against",
+  "s": 116.74,
+  "e": 117.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 117.1,
+  "e": 117.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns",
+  "s": 117.32,
+  "e": 117.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "equal",
+  "s": 117.82,
+  "e": 118.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 118.24,
+  "e": 118.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 118.52,
+  "e": 118.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "fair",
+  "s": 118.68,
+  "e": 118.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "market",
+  "s": 118.98,
+  "e": 119.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "value",
+  "s": 119.34,
+  "e": 119.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 119.74,
+  "e": 120.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 120.02,
+  "e": 120.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins,",
+  "s": 120.24,
+  "e": 120.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 120.66,
+  "e": 121.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "well",
+  "s": 121.36,
+  "e": 121.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 121.5,
+  "e": 121.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 121.64,
+  "e": 121.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "civil",
+  "s": 121.8,
+  "e": 122.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "penalty",
+  "s": 122.02,
+  "e": 122.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 122.42,
+  "e": 122.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "disobeying",
+  "s": 122.7,
+  "e": 123.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 123.18,
+  "e": 123.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "order.",
+  "s": 123.38,
+  "e": 123.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 124.3,
+  "e": 124.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns",
+  "s": 124.82,
+  "e": 125.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "challenged",
+  "s": 125.24,
+  "e": 125.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 125.62,
+  "e": 125.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "fine",
+  "s": 125.86,
+  "e": 126.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 126.12,
+  "e": 126.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "penalty",
+  "s": 126.4,
+  "e": 126.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 126.8,
+  "e": 127.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Federal",
+  "s": 127.12,
+  "e": 127.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "District",
+  "s": 127.38,
+  "e": 127.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Court,",
+  "s": 127.78,
+  "e": 128.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "arguing",
+  "s": 128.76,
+  "e": 129.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 129.2,
+  "e": 129.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 129.4,
+  "e": 129.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government's",
+  "s": 129.6,
+  "e": 130.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "program",
+  "s": 130.08,
+  "e": 130.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "took",
+  "s": 130.42,
+  "e": 130.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 130.74,
+  "e": 131.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins",
+  "s": 131.0,
+  "e": 131.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 131.46,
+  "e": 131.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "public",
+  "s": 131.66,
+  "e": 132.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "use",
+  "s": 132.0,
+  "e": 132.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "without",
+  "s": 132.3,
+  "e": 132.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 132.62,
+  "e": 132.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation",
+  "s": 132.98,
+  "e": 133.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 133.76,
+  "e": 134.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "violation",
+  "s": 134.56,
+  "e": 135.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 135.0,
+  "e": 135.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 135.3,
+  "e": 135.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Takings",
+  "s": 135.48,
+  "e": 135.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Clause",
+  "s": 135.8,
+  "e": 136.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 136.16,
+  "e": 136.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 136.56,
+  "e": 136.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Fifth",
+  "s": 136.68,
+  "e": 136.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Amendment",
+  "s": 136.88,
+  "e": 137.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 137.22,
+  "e": 137.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 137.46,
+  "e": 137.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Constitution.",
+  "s": 137.64,
+  "e": 138.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 139.28,
+  "e": 139.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Court",
+  "s": 139.88,
+  "e": 140.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 140.02,
+  "e": 140.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Appeals",
+  "s": 140.18,
+  "e": 140.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "rejected",
+  "s": 140.46,
+  "e": 140.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 140.96,
+  "e": 141.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "argument.",
+  "s": 141.24,
+  "e": 141.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 141.6,
+  "e": 142.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Court",
+  "s": 142.36,
+  "e": 142.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "acknowledged",
+  "s": 142.62,
+  "e": 143.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 143.22,
+  "e": 143.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 143.54,
+  "e": 143.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 143.74,
+  "e": 143.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "could",
+  "s": 143.96,
+  "e": 144.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 144.26,
+  "e": 144.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "physically",
+  "s": 144.5,
+  "e": 144.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "take",
+  "s": 144.98,
+  "e": 145.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "real",
+  "s": 145.3,
+  "e": 145.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 145.6,
+  "e": 146.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "land",
+  "s": 146.06,
+  "e": 146.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "without",
+  "s": 146.78,
+  "e": 147.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation",
+  "s": 147.62,
+  "e": 148.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "under",
+  "s": 148.4,
+  "e": 148.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 148.8,
+  "e": 149.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Fifth",
+  "s": 149.0,
+  "e": 149.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Amendment.",
+  "s": 149.18,
+  "e": 149.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "It",
+  "s": 150.04,
+  "e": 150.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "ruled,",
+  "s": 150.62,
+  "e": 150.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "however,",
+  "s": 151.04,
+  "e": 151.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 151.48,
+  "e": 151.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "personal",
+  "s": 151.64,
+  "e": 152.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property,",
+  "s": 152.1,
+  "e": 152.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "like",
+  "s": 152.74,
+  "e": 152.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins,",
+  "s": 152.94,
+  "e": 153.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "was",
+  "s": 153.74,
+  "e": 154.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "entitled",
+  "s": 154.04,
+  "e": 154.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 154.44,
+  "e": 154.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "less",
+  "s": 154.7,
+  "e": 154.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "protection.",
+  "s": 154.92,
+  "e": 155.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "There",
+  "s": 155.9,
+  "e": 156.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "had",
+  "s": 156.44,
+  "e": 156.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 156.64,
+  "e": 156.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "be",
+  "s": 156.78,
+  "e": 157.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 157.02,
+  "e": 157.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "more",
+  "s": 157.22,
+  "e": 157.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "complicated",
+  "s": 157.4,
+  "e": 157.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "analysis",
+  "s": 157.98,
+  "e": 158.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 158.58,
+  "e": 158.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "determine",
+  "s": 158.88,
+  "e": 159.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "whether",
+  "s": 159.36,
+  "e": 160.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "there",
+  "s": 160.02,
+  "e": 160.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "had",
+  "s": 160.32,
+  "e": 160.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "been",
+  "s": 160.46,
+  "e": 160.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 160.7,
+  "e": 161.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "taking",
+  "s": 161.66,
+  "e": 162.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "with",
+  "s": 162.0,
+  "e": 162.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "respect",
+  "s": 162.54,
+  "e": 162.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 162.92,
+  "e": 163.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "personal",
+  "s": 163.16,
+  "e": 163.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property,",
+  "s": 163.56,
+  "e": 164.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "even",
+  "s": 164.32,
+  "e": 164.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "when",
+  "s": 164.82,
+  "e": 165.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 165.0,
+  "e": 165.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 165.14,
+  "e": 165.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "physically",
+  "s": 165.44,
+  "e": 165.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "took",
+  "s": 165.92,
+  "e": 166.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "such",
+  "s": 166.24,
+  "e": 166.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property.",
+  "s": 166.64,
+  "e": 167.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 167.86,
+  "e": 168.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Court",
+  "s": 168.38,
+  "e": 168.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 168.52,
+  "e": 168.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Appeals",
+  "s": 168.66,
+  "e": 169.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "also",
+  "s": 169.04,
+  "e": 169.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "relied",
+  "s": 169.54,
+  "e": 169.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "on",
+  "s": 169.96,
+  "e": 170.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 170.16,
+  "e": 170.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "fact",
+  "s": 170.28,
+  "e": 170.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 170.54,
+  "e": 170.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "growers",
+  "s": 170.78,
+  "e": 171.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "like",
+  "s": 171.12,
+  "e": 171.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 171.46,
+  "e": 171.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns",
+  "s": 171.7,
+  "e": 172.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "retained",
+  "s": 172.36,
+  "e": 172.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 172.82,
+  "e": 173.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "right",
+  "s": 173.1,
+  "e": 173.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 173.28,
+  "e": 173.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "any",
+  "s": 173.54,
+  "e": 173.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "net",
+  "s": 173.8,
+  "e": 174.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "proceeds",
+  "s": 174.06,
+  "e": 174.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "from",
+  "s": 174.56,
+  "e": 174.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 174.84,
+  "e": 175.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government's",
+  "s": 175.02,
+  "e": 175.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "use",
+  "s": 175.46,
+  "e": 175.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 175.64,
+  "e": 175.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 175.86,
+  "e": 176.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins.",
+  "s": 176.02,
+  "e": 176.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 176.76,
+  "e": 177.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 177.28,
+  "e": 177.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Court's",
+  "s": 177.48,
+  "e": 177.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "view,",
+  "s": 177.74,
+  "e": 177.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "if",
+  "s": 177.98,
+  "e": 178.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 178.24,
+  "e": 178.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horns",
+  "s": 178.38,
+  "e": 178.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "did",
+  "s": 178.68,
+  "e": 178.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 178.8,
+  "e": 179.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "wish",
+  "s": 179.0,
+  "e": 179.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 179.18,
+  "e": 179.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "give",
+  "s": 179.38,
+  "e": 179.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "up",
+  "s": 179.5,
+  "e": 179.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 179.66,
+  "e": 179.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "portion",
+  "s": 179.84,
+  "e": 180.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 180.1,
+  "e": 180.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 180.34,
+  "e": 180.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins",
+  "s": 180.5,
+  "e": 180.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 180.88,
+  "e": 181.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 181.04,
+  "e": 181.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government,",
+  "s": 181.22,
+  "e": 181.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "they",
+  "s": 181.9,
+  "e": 182.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "could",
+  "s": 182.1,
+  "e": 182.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "plant",
+  "s": 182.26,
+  "e": 182.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "something",
+  "s": 182.52,
+  "e": 182.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "else.",
+  "s": 182.84,
+  "e": 183.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Now,",
+  "s": 183.78,
+  "e": 184.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 184.3,
+  "e": 184.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "case",
+  "s": 184.48,
+  "e": 184.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raises",
+  "s": 184.7,
+  "e": 185.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "three",
+  "s": 185.14,
+  "e": 185.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "questions",
+  "s": 185.44,
+  "e": 185.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "which",
+  "s": 185.92,
+  "e": 186.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "we",
+  "s": 186.16,
+  "e": 186.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "answer",
+  "s": 186.38,
+  "e": 186.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 186.72,
+  "e": 186.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "turn.",
+  "s": 186.98,
+  "e": 187.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 187.96,
+  "e": 188.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "first",
+  "s": 188.48,
+  "e": 188.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "question",
+  "s": 188.7,
+  "e": 189.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 189.14,
+  "e": 189.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "whether",
+  "s": 189.38,
+  "e": 189.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 189.66,
+  "e": 189.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "physical",
+  "s": 189.92,
+  "e": 190.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "appropriation",
+  "s": 190.4,
+  "e": 191.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 191.2,
+  "e": 191.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "real",
+  "s": 191.68,
+  "e": 192.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 192.04,
+  "e": 192.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "personal",
+  "s": 192.38,
+  "e": 192.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 192.88,
+  "e": 193.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "should",
+  "s": 193.32,
+  "e": 193.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "be",
+  "s": 193.56,
+  "e": 193.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "treated",
+  "s": 193.74,
+  "e": 193.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 193.98,
+  "e": 194.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "same.",
+  "s": 194.2,
+  "e": 194.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 194.98,
+  "e": 195.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "answer",
+  "s": 195.16,
+  "e": 195.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 195.4,
+  "e": 195.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "yes.",
+  "s": 195.6,
+  "e": 195.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 195.88,
+  "e": 196.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Takings",
+  "s": 196.92,
+  "e": 197.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Clause",
+  "s": 197.28,
+  "e": 197.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 197.58,
+  "e": 197.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 197.8,
+  "e": 197.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Fifth",
+  "s": 197.92,
+  "e": 198.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Amendment",
+  "s": 198.1,
+  "e": 198.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "provides,",
+  "s": 198.42,
+  "e": 199.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "quote,",
+  "s": 199.12,
+  "e": 199.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "nor",
+  "s": 199.9,
+  "e": 200.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "shall",
+  "s": 200.36,
+  "e": 200.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "private",
+  "s": 200.66,
+  "e": 201.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 201.08,
+  "e": 201.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "be",
+  "s": 201.54,
+  "e": 201.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "taken",
+  "s": 201.8,
+  "e": 202.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 202.04,
+  "e": 202.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "public",
+  "s": 202.28,
+  "e": 202.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "use",
+  "s": 202.64,
+  "e": 202.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "without",
+  "s": 202.98,
+  "e": 203.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 203.44,
+  "e": 203.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation.",
+  "s": 203.78,
+  "e": 204.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "That",
+  "s": 204.92,
+  "e": 205.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "clause",
+  "s": 205.56,
+  "e": 205.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "makes",
+  "s": 205.92,
+  "e": 206.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "no",
+  "s": 206.24,
+  "e": 206.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "distinction",
+  "s": 206.5,
+  "e": 206.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "between",
+  "s": 206.96,
+  "e": 207.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "real",
+  "s": 207.44,
+  "e": 207.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 207.82,
+  "e": 208.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "personal",
+  "s": 208.08,
+  "e": 208.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property.",
+  "s": 208.54,
+  "e": 208.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 209.76,
+  "e": 209.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 209.92,
+  "e": 210.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 210.18,
+  "e": 210.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 210.46,
+  "e": 210.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "categorical",
+  "s": 210.64,
+  "e": 211.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "duty",
+  "s": 211.34,
+  "e": 211.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 211.7,
+  "e": 211.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "pay",
+  "s": 211.9,
+  "e": 212.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 212.08,
+  "e": 212.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation",
+  "s": 212.38,
+  "e": 213.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "when",
+  "s": 213.08,
+  "e": 213.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 213.34,
+  "e": 213.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "takes",
+  "s": 213.52,
+  "e": 213.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "your",
+  "s": 213.72,
+  "e": 213.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "car,",
+  "s": 213.92,
+  "e": 214.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 214.48,
+  "e": 215.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 215.16,
+  "e": 215.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "when",
+  "s": 215.3,
+  "e": 215.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 215.44,
+  "e": 215.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "takes",
+  "s": 215.58,
+  "e": 215.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "your",
+  "s": 215.84,
+  "e": 216.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "home.",
+  "s": 216.04,
+  "e": 216.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "That",
+  "s": 216.86,
+  "e": 217.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 217.5,
+  "e": 217.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "been",
+  "s": 217.64,
+  "e": 217.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 217.8,
+  "e": 217.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "rule",
+  "s": 217.96,
+  "e": 218.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "from",
+  "s": 218.18,
+  "e": 218.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "before",
+  "s": 218.46,
+  "e": 218.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 218.98,
+  "e": 219.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "beginning.",
+  "s": 219.16,
+  "e": 219.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Eight",
+  "s": 220.1,
+  "e": 220.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "hundred",
+  "s": 220.26,
+  "e": 220.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "years",
+  "s": 220.56,
+  "e": 220.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "ago",
+  "s": 220.82,
+  "e": 221.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 221.24,
+  "e": 221.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Magna",
+  "s": 221.58,
+  "e": 221.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Carta,",
+  "s": 221.94,
+  "e": 222.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "King",
+  "s": 222.6,
+  "e": 222.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "John",
+  "s": 222.74,
+  "e": 223.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "promised",
+  "s": 223.12,
+  "e": 223.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 223.62,
+  "e": 224.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 224.34,
+  "e": 224.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "take,",
+  "s": 224.58,
+  "e": 224.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "quote,",
+  "s": 225.3,
+  "e": 225.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "corn",
+  "s": 225.3,
+  "e": 226.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "or",
+  "s": 226.22,
+  "e": 226.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "other",
+  "s": 226.48,
+  "e": 226.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "provisions",
+  "s": 226.76,
+  "e": 227.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "from",
+  "s": 227.24,
+  "e": 227.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "anyone",
+  "s": 227.52,
+  "e": 228.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "without",
+  "s": 228.02,
+  "e": 228.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "immediately",
+  "s": 228.68,
+  "e": 229.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "tendering",
+  "s": 229.32,
+  "e": 229.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "money",
+  "s": 229.82,
+  "e": 230.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "therefore.",
+  "s": 230.16,
+  "e": 230.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "So",
+  "s": 231.24,
+  "e": 231.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 231.92,
+  "e": 232.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "earliest",
+  "s": 232.14,
+  "e": 232.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "predecessor",
+  "s": 232.48,
+  "e": 233.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 233.02,
+  "e": 233.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 233.3,
+  "e": 233.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Takings",
+  "s": 233.42,
+  "e": 233.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Clause",
+  "s": 233.72,
+  "e": 234.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "applied",
+  "s": 234.02,
+  "e": 234.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 234.62,
+  "e": 235.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "personal",
+  "s": 235.18,
+  "e": 235.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property.",
+  "s": 235.56,
+  "e": 235.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 236.58,
+  "e": 236.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Founding",
+  "s": 236.98,
+  "e": 237.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Fathers",
+  "s": 237.26,
+  "e": 237.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "at",
+  "s": 237.66,
+  "e": 237.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 237.96,
+  "e": 238.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "time",
+  "s": 238.14,
+  "e": 238.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 238.3,
+  "e": 238.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 238.42,
+  "e": 238.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Revolution",
+  "s": 238.54,
+  "e": 238.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "knew",
+  "s": 238.96,
+  "e": 239.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 239.26,
+  "e": 239.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "rights",
+  "s": 239.48,
+  "e": 239.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "from",
+  "s": 239.76,
+  "e": 240.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Magna",
+  "s": 240.02,
+  "e": 240.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Carta",
+  "s": 240.36,
+  "e": 240.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 240.66,
+  "e": 241.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "objected,",
+  "s": 241.18,
+  "e": 241.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "even",
+  "s": 241.8,
+  "e": 242.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "when",
+  "s": 242.16,
+  "e": 242.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 242.34,
+  "e": 242.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "own",
+  "s": 242.48,
+  "e": 242.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Continental",
+  "s": 242.68,
+  "e": 243.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Army",
+  "s": 243.12,
+  "e": 243.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "took",
+  "s": 243.5,
+  "e": 243.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "personal",
+  "s": 243.9,
+  "e": 244.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 244.44,
+  "e": 244.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "without",
+  "s": 244.88,
+  "e": 245.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 245.3,
+  "e": 245.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation.",
+  "s": 245.6,
+  "e": 246.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Nothing",
+  "s": 247.16,
+  "e": 247.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 247.42,
+  "e": 247.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 247.62,
+  "e": 247.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "history",
+  "s": 247.78,
+  "e": 248.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "suggested",
+  "s": 248.18,
+  "e": 248.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 248.82,
+  "e": 249.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 249.1,
+  "e": 249.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 249.26,
+  "e": 249.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "was",
+  "s": 249.58,
+  "e": 249.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "entitled",
+  "s": 249.8,
+  "e": 250.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 250.2,
+  "e": 250.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "any",
+  "s": 250.42,
+  "e": 250.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "less",
+  "s": 250.64,
+  "e": 250.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "protection",
+  "s": 250.84,
+  "e": 251.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "than",
+  "s": 253.32,
+  "e": 253.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "real",
+  "s": 253.92,
+  "e": 254.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property.",
+  "s": 254.52,
+  "e": 254.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Now,",
+  "s": 255.6,
+  "e": 256.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "personal",
+  "s": 256.2,
+  "e": 256.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 256.6,
+  "e": 257.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "can,",
+  "s": 257.04,
+  "e": 257.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 257.36,
+  "e": 257.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "course,",
+  "s": 257.52,
+  "e": 257.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "be",
+  "s": 257.82,
+  "e": 257.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "subject",
+  "s": 257.98,
+  "e": 258.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 258.3,
+  "e": 258.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "stringent",
+  "s": 258.56,
+  "e": 258.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 258.9,
+  "e": 259.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "regulation",
+  "s": 259.36,
+  "e": 260.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 260.02,
+  "e": 260.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "appropriate",
+  "s": 260.22,
+  "e": 260.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cases.",
+  "s": 260.66,
+  "e": 261.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "But",
+  "s": 261.44,
+  "e": 262.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "like",
+  "s": 262.04,
+  "e": 262.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "real",
+  "s": 262.28,
+  "e": 262.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property,",
+  "s": 262.56,
+  "e": 263.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 263.18,
+  "e": 263.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cannot",
+  "s": 263.34,
+  "e": 263.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "be",
+  "s": 263.6,
+  "e": 263.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "physically",
+  "s": 263.88,
+  "e": 264.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "taken",
+  "s": 264.22,
+  "e": 264.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 264.54,
+  "e": 264.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "public",
+  "s": 264.78,
+  "e": 265.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "use",
+  "s": 265.1,
+  "e": 265.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "without",
+  "s": 265.38,
+  "e": 265.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 265.72,
+  "e": 266.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation.",
+  "s": 266.02,
+  "e": 266.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 267.52,
+  "e": 268.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "second",
+  "s": 268.06,
+  "e": 268.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "question",
+  "s": 268.32,
+  "e": 268.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 268.74,
+  "e": 268.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "whether",
+  "s": 268.98,
+  "e": 269.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 269.22,
+  "e": 269.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 269.46,
+  "e": 269.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "can",
+  "s": 269.7,
+  "e": 269.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "argue",
+  "s": 269.96,
+  "e": 270.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 270.22,
+  "e": 270.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 270.38,
+  "e": 270.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 270.52,
+  "e": 270.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "actually",
+  "s": 270.78,
+  "e": 271.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "taken",
+  "s": 271.12,
+  "e": 271.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 271.44,
+  "e": 271.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "grower's",
+  "s": 271.7,
+  "e": 272.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 272.08,
+  "e": 272.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "because",
+  "s": 272.4,
+  "e": 272.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "when",
+  "s": 272.94,
+  "e": 273.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 273.58,
+  "e": 273.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "seizes",
+  "s": 273.78,
+  "e": 274.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 274.04,
+  "e": 274.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins,",
+  "s": 274.36,
+  "e": 274.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 275.06,
+  "e": 275.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "leaves",
+  "s": 275.32,
+  "e": 275.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 275.68,
+  "e": 275.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "growers",
+  "s": 275.9,
+  "e": 276.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "with",
+  "s": 276.2,
+  "e": 276.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 276.5,
+  "e": 276.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "contingent",
+  "s": 276.7,
+  "e": 277.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "interest",
+  "s": 277.22,
+  "e": 277.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 277.7,
+  "e": 277.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "any",
+  "s": 277.94,
+  "e": 278.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "net",
+  "s": 278.18,
+  "e": 278.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "proceeds",
+  "s": 278.44,
+  "e": 278.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "from",
+  "s": 278.98,
+  "e": 279.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 279.64,
+  "e": 279.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sales",
+  "s": 279.8,
+  "e": 280.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 280.06,
+  "e": 280.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 280.24,
+  "e": 280.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins.",
+  "s": 280.38,
+  "e": 280.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 280.9,
+  "e": 281.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "answer",
+  "s": 281.8,
+  "e": 282.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 282.08,
+  "e": 282.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "no.",
+  "s": 282.28,
+  "e": 282.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "There",
+  "s": 282.68,
+  "e": 282.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 282.94,
+  "e": 283.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "still",
+  "s": 283.1,
+  "e": 283.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "been",
+  "s": 283.36,
+  "e": 283.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 283.62,
+  "e": 283.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "physical",
+  "s": 283.84,
+  "e": 284.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "taking.",
+  "s": 284.16,
+  "e": 284.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "When",
+  "s": 285.42,
+  "e": 285.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 285.56,
+  "e": 285.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 285.98,
+  "e": 286.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "been",
+  "s": 286.22,
+  "e": 286.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "physically",
+  "s": 286.4,
+  "e": 286.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "appropriated,",
+  "s": 286.82,
+  "e": 287.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 287.72,
+  "e": 287.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 287.88,
+  "e": 288.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 288.1,
+  "e": 288.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "under",
+  "s": 288.42,
+  "e": 288.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 288.64,
+  "e": 288.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "categorical",
+  "s": 288.88,
+  "e": 289.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "duty",
+  "s": 289.38,
+  "e": 289.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 289.7,
+  "e": 289.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "pay",
+  "s": 289.94,
+  "e": 290.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 290.14,
+  "e": 290.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation.",
+  "s": 290.44,
+  "e": 291.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Physical",
+  "s": 292.08,
+  "e": 292.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "appropriation",
+  "s": 292.42,
+  "e": 292.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 292.98,
+  "e": 293.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 293.46,
+  "e": 293.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "clearest",
+  "s": 293.7,
+  "e": 293.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "example",
+  "s": 293.96,
+  "e": 294.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 294.44,
+  "e": 294.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 294.64,
+  "e": 294.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "taking.",
+  "s": 294.82,
+  "e": 295.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Any",
+  "s": 295.76,
+  "e": 296.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "payment",
+  "s": 296.0,
+  "e": 296.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "made",
+  "s": 296.42,
+  "e": 296.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 296.8,
+  "e": 296.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 296.94,
+  "e": 297.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property",
+  "s": 297.14,
+  "e": 297.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "owner",
+  "s": 297.46,
+  "e": 297.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "goes,",
+  "s": 297.74,
+  "e": 298.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "at",
+  "s": 298.24,
+  "e": 298.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "most,",
+  "s": 298.42,
+  "e": 298.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 298.84,
+  "e": 299.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 299.42,
+  "e": 299.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "issue",
+  "s": 299.58,
+  "e": 299.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 299.82,
+  "e": 300.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "whether",
+  "s": 300.0,
+  "e": 300.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "he",
+  "s": 300.2,
+  "e": 300.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 300.42,
+  "e": 300.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "received",
+  "s": 300.62,
+  "e": 301.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 301.06,
+  "e": 301.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation,",
+  "s": 301.4,
+  "e": 302.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 302.66,
+  "e": 302.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "whether",
+  "s": 302.94,
+  "e": 303.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "there",
+  "s": 303.16,
+  "e": 303.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 303.32,
+  "e": 303.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "been",
+  "s": 303.46,
+  "e": 303.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 303.58,
+  "e": 303.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "taking",
+  "s": 303.74,
+  "e": 304.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 304.02,
+  "e": 304.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 304.28,
+  "e": 304.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "first",
+  "s": 304.4,
+  "e": 304.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "place.",
+  "s": 304.58,
+  "e": 304.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 305.9,
+  "e": 306.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Constitution",
+  "s": 306.1,
+  "e": 306.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "does",
+  "s": 306.54,
+  "e": 306.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 306.82,
+  "e": 307.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "allow",
+  "s": 307.06,
+  "e": 307.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 307.26,
+  "e": 307.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 307.46,
+  "e": 307.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 307.7,
+  "e": 307.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "avoid",
+  "s": 307.94,
+  "e": 308.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 308.22,
+  "e": 308.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "requirement",
+  "s": 308.38,
+  "e": 308.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 308.8,
+  "e": 308.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 308.92,
+  "e": 309.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation",
+  "s": 309.16,
+  "e": 309.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "when",
+  "s": 309.84,
+  "e": 310.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 310.04,
+  "e": 310.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "takes",
+  "s": 310.2,
+  "e": 310.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "your",
+  "s": 310.42,
+  "e": 310.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "car",
+  "s": 310.62,
+  "e": 310.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "simply",
+  "s": 310.94,
+  "e": 311.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "because",
+  "s": 311.78,
+  "e": 312.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 312.16,
+  "e": 312.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "promises",
+  "s": 312.36,
+  "e": 312.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 312.74,
+  "e": 313.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "return",
+  "s": 313.04,
+  "e": 313.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 313.32,
+  "e": 313.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "quarters",
+  "s": 313.58,
+  "e": 313.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 313.8,
+  "e": 314.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "finds",
+  "s": 314.08,
+  "e": 314.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 314.36,
+  "e": 314.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 314.56,
+  "e": 314.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "seats.",
+  "s": 314.72,
+  "e": 314.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 316.2,
+  "e": 316.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "third",
+  "s": 316.72,
+  "e": 316.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "question",
+  "s": 316.98,
+  "e": 317.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "presented",
+  "s": 317.38,
+  "e": 317.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 317.76,
+  "e": 317.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 317.98,
+  "e": 318.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "case",
+  "s": 318.14,
+  "e": 318.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 318.48,
+  "e": 318.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "whether",
+  "s": 318.78,
+  "e": 319.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 319.0,
+  "e": 319.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 319.24,
+  "e": 319.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "can",
+  "s": 319.48,
+  "e": 319.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "require",
+  "s": 319.74,
+  "e": 320.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 320.18,
+  "e": 320.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "horns",
+  "s": 320.42,
+  "e": 320.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 320.62,
+  "e": 320.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "give",
+  "s": 320.86,
+  "e": 321.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "up",
+  "s": 321.04,
+  "e": 321.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 321.22,
+  "e": 321.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "percentage",
+  "s": 321.42,
+  "e": 321.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 321.8,
+  "e": 322.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 322.08,
+  "e": 322.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins",
+  "s": 322.28,
+  "e": 322.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 322.7,
+  "e": 323.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 323.28,
+  "e": 323.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "condition",
+  "s": 323.46,
+  "e": 323.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 323.88,
+  "e": 324.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "being",
+  "s": 324.16,
+  "e": 324.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "allowed",
+  "s": 324.34,
+  "e": 324.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 324.68,
+  "e": 324.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sell",
+  "s": 324.96,
+  "e": 325.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 325.12,
+  "e": 325.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "rest.",
+  "s": 325.32,
+  "e": 325.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 325.76,
+  "e": 326.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "answer",
+  "s": 326.14,
+  "e": 326.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 326.4,
+  "e": 326.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "no.",
+  "s": 326.66,
+  "e": 326.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 327.44,
+  "e": 327.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 327.78,
+  "e": 328.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "argues",
+  "s": 328.02,
+  "e": 328.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 328.46,
+  "e": 328.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 328.68,
+  "e": 328.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "marketing",
+  "s": 328.98,
+  "e": 329.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "order",
+  "s": 329.3,
+  "e": 329.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "imposes",
+  "s": 329.62,
+  "e": 330.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "reasonable",
+  "s": 330.14,
+  "e": 330.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "conditions",
+  "s": 330.76,
+  "e": 331.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "on",
+  "s": 331.34,
+  "e": 331.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "growers",
+  "s": 331.7,
+  "e": 332.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "who",
+  "s": 332.02,
+  "e": 332.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "want",
+  "s": 332.24,
+  "e": 332.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 332.46,
+  "e": 332.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sell",
+  "s": 332.68,
+  "e": 332.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins.",
+  "s": 332.88,
+  "e": 333.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "It",
+  "s": 333.82,
+  "e": 334.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "says",
+  "s": 334.34,
+  "e": 334.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 334.64,
+  "e": 334.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "if",
+  "s": 334.84,
+  "e": 334.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 334.96,
+  "e": 335.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "horns",
+  "s": 335.16,
+  "e": 335.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "do",
+  "s": 335.42,
+  "e": 335.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 335.58,
+  "e": 335.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "like",
+  "s": 335.78,
+  "e": 336.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "these",
+  "s": 336.02,
+  "e": 336.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "conditions,",
+  "s": 336.2,
+  "e": 336.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "they",
+  "s": 337.42,
+  "e": 337.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "have",
+  "s": 337.48,
+  "e": 337.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "alternatives.",
+  "s": 337.66,
+  "e": 338.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "They",
+  "s": 338.86,
+  "e": 338.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "can",
+  "s": 338.98,
+  "e": 339.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "plant",
+  "s": 339.18,
+  "e": 339.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "different",
+  "s": 339.42,
+  "e": 339.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "crops",
+  "s": 339.78,
+  "e": 340.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "or,",
+  "s": 340.2,
+  "e": 340.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "quoting",
+  "s": 341.14,
+  "e": 341.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "from",
+  "s": 341.14,
+  "e": 341.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 341.36,
+  "e": 341.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government's",
+  "s": 341.52,
+  "e": 341.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "brief,",
+  "s": 341.98,
+  "e": 342.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sell",
+  "s": 342.92,
+  "e": 343.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 343.18,
+  "e": 343.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisin",
+  "s": 343.46,
+  "e": 343.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "variety",
+  "s": 343.82,
+  "e": 344.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "grapes",
+  "s": 344.2,
+  "e": 344.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 344.68,
+  "e": 344.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "table",
+  "s": 344.96,
+  "e": 345.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "grapes",
+  "s": 345.28,
+  "e": 345.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "or",
+  "s": 345.66,
+  "e": 346.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 346.12,
+  "e": 346.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "use",
+  "s": 346.32,
+  "e": 346.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 346.62,
+  "e": 346.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "juice",
+  "s": 346.98,
+  "e": 347.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "or",
+  "s": 347.24,
+  "e": 347.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "wine.",
+  "s": 347.6,
+  "e": 347.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Now,",
+  "s": 348.62,
+  "e": 349.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 349.3,
+  "e": 349.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "let",
+  "s": 349.52,
+  "e": 349.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "them",
+  "s": 349.9,
+  "e": 350.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sell",
+  "s": 350.1,
+  "e": 350.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "wine",
+  "s": 350.38,
+  "e": 350.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "response",
+  "s": 350.82,
+  "e": 351.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 351.32,
+  "e": 351.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "no",
+  "s": 351.92,
+  "e": 352.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "more",
+  "s": 352.14,
+  "e": 352.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "comforting",
+  "s": 352.4,
+  "e": 352.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "than",
+  "s": 352.84,
+  "e": 353.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "similar",
+  "s": 353.14,
+  "e": 353.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "retorts",
+  "s": 353.56,
+  "e": 354.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "have",
+  "s": 354.02,
+  "e": 354.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "been",
+  "s": 354.24,
+  "e": 354.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 354.4,
+  "e": 354.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "others",
+  "s": 354.58,
+  "e": 354.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "throughout",
+  "s": 354.88,
+  "e": 355.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "history.",
+  "s": 355.24,
+  "e": 355.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 357.34,
+  "e": 358.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 358.02,
+  "e": 358.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "can,",
+  "s": 358.36,
+  "e": 358.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 358.82,
+  "e": 358.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "course,",
+  "s": 358.96,
+  "e": 359.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "regulate",
+  "s": 359.38,
+  "e": 359.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisin",
+  "s": 359.74,
+  "e": 360.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sales",
+  "s": 360.1,
+  "e": 360.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 360.46,
+  "e": 360.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "many",
+  "s": 360.76,
+  "e": 361.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "ways,",
+  "s": 361.0,
+  "e": 361.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "but",
+  "s": 361.92,
+  "e": 362.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "it",
+  "s": 362.18,
+  "e": 362.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cannot",
+  "s": 362.36,
+  "e": 362.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "require",
+  "s": 362.68,
+  "e": 363.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "growers",
+  "s": 363.18,
+  "e": 363.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 363.6,
+  "e": 364.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "waive",
+  "s": 364.02,
+  "e": 364.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 364.26,
+  "e": 364.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "right",
+  "s": 364.5,
+  "e": 364.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 364.76,
+  "e": 364.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "just",
+  "s": 364.94,
+  "e": 365.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "compensation",
+  "s": 365.22,
+  "e": 366.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 366.0,
+  "e": 366.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "exchange",
+  "s": 366.76,
+  "e": 367.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 367.12,
+  "e": 367.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "something",
+  "s": 367.38,
+  "e": 367.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 367.74,
+  "e": 367.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "basic",
+  "s": 367.94,
+  "e": 368.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "as",
+  "s": 368.34,
+  "e": 368.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 368.72,
+  "e": 368.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "ability",
+  "s": 368.88,
+  "e": 369.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 369.2,
+  "e": 369.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "sell",
+  "s": 369.44,
+  "e": 369.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 369.64,
+  "e": 369.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "produce.",
+  "s": 369.82,
+  "e": 370.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Some",
+  "s": 371.38,
+  "e": 371.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "products",
+  "s": 371.62,
+  "e": 372.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "are",
+  "s": 372.04,
+  "e": 372.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "dangerous",
+  "s": 372.32,
+  "e": 372.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "or",
+  "s": 372.74,
+  "e": 372.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "hazardous,",
+  "s": 372.94,
+  "e": 373.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 373.68,
+  "e": 374.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 374.08,
+  "e": 374.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "such",
+  "s": 374.24,
+  "e": 374.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cases,",
+  "s": 374.42,
+  "e": 374.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government",
+  "s": 375.14,
+  "e": 375.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "conditions",
+  "s": 375.34,
+  "e": 375.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "on",
+  "s": 375.94,
+  "e": 376.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "selling",
+  "s": 376.2,
+  "e": 376.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "those",
+  "s": 376.54,
+  "e": 376.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "products,",
+  "s": 376.8,
+  "e": 377.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "even",
+  "s": 377.66,
+  "e": 378.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "up",
+  "s": 378.14,
+  "e": 378.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 378.3,
+  "e": 378.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "an",
+  "s": 378.46,
+  "e": 378.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "appropriation",
+  "s": 378.6,
+  "e": 379.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 379.16,
+  "e": 379.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "property,",
+  "s": 379.48,
+  "e": 379.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "may",
+  "s": 380.18,
+  "e": 380.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "be",
+  "s": 380.5,
+  "e": 380.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "justified.",
+  "s": 380.72,
+  "e": 381.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "But",
+  "s": 381.34,
+  "e": 381.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins",
+  "s": 381.92,
+  "e": 382.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "are",
+  "s": 382.28,
+  "e": 382.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 382.44,
+  "e": 382.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "hazardous",
+  "s": 382.66,
+  "e": 383.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "products.",
+  "s": 383.08,
+  "e": 383.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 384.58,
+  "e": 384.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "light",
+  "s": 384.98,
+  "e": 385.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 385.16,
+  "e": 385.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "our",
+  "s": 385.26,
+  "e": 385.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "answers",
+  "s": 385.46,
+  "e": 385.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 385.74,
+  "e": 385.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "these",
+  "s": 385.98,
+  "e": 386.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "three",
+  "s": 386.2,
+  "e": 386.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "questions,",
+  "s": 386.48,
+  "e": 386.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "we",
+  "s": 387.04,
+  "e": 387.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "hold",
+  "s": 387.32,
+  "e": 387.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 387.68,
+  "e": 387.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 387.98,
+  "e": 388.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "horns",
+  "s": 388.18,
+  "e": 388.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cannot",
+  "s": 388.44,
+  "e": 388.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "be",
+  "s": 388.82,
+  "e": 389.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "fined",
+  "s": 389.14,
+  "e": 389.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 389.38,
+  "e": 389.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "resisting",
+  "s": 389.66,
+  "e": 390.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 390.06,
+  "e": 390.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "government's",
+  "s": 390.26,
+  "e": 390.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "attempt",
+  "s": 390.72,
+  "e": 391.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 391.0,
+  "e": 391.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "take",
+  "s": 391.56,
+  "e": 391.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "their",
+  "s": 391.76,
+  "e": 391.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "raisins.",
+  "s": 391.96,
+  "e": 392.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 392.96,
+  "e": 393.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "judgment",
+  "s": 393.18,
+  "e": 393.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 393.44,
+  "e": 393.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 393.64,
+  "e": 393.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "court",
+  "s": 393.8,
+  "e": 393.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 393.9,
+  "e": 394.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "appeals",
+  "s": 394.08,
+  "e": 394.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 394.42,
+  "e": 394.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "accordingly",
+  "s": 394.66,
+  "e": 395.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "reversed.",
+  "s": 395.1,
+  "e": 395.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Justices",
+  "s": 396.84,
+  "e": 397.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Scalia,",
+  "s": 397.24,
+  "e": 397.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Kennedy,",
+  "s": 397.94,
+  "e": 398.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Thomas,",
+  "s": 398.46,
+  "e": 398.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 398.9,
+  "e": 399.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Alito",
+  "s": 399.06,
+  "e": 399.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "have",
+  "s": 399.38,
+  "e": 399.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "joined",
+  "s": 399.72,
+  "e": 400.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 400.02,
+  "e": 400.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 400.22,
+  "e": 400.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 400.56,
+  "e": 400.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "full.",
+  "s": 400.82,
+  "e": 401.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Justices",
+  "s": 402.04,
+  "e": 402.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Ginsburg,",
+  "s": 402.44,
+  "e": 403.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Breyer,",
+  "s": 403.36,
+  "e": 403.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 403.62,
+  "e": 403.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Kagan",
+  "s": 403.94,
+  "e": 404.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "have",
+  "s": 404.14,
+  "e": 404.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "joined",
+  "s": 404.46,
+  "e": 404.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "all",
+  "s": 404.92,
+  "e": 405.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "but",
+  "s": 405.28,
+  "e": 405.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Part",
+  "s": 405.5,
+  "e": 405.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "3.",
+  "s": 405.8,
+  "e": 406.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Justice",
+  "s": 406.8,
+  "e": 407.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Breyer",
+  "s": 407.14,
+  "e": 407.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 407.58,
+  "e": 407.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "filed",
+  "s": 407.76,
+  "e": 408.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "an",
+  "s": 408.06,
+  "e": 408.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 408.24,
+  "e": 408.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "concurring",
+  "s": 408.54,
+  "e": 409.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 409.14,
+  "e": 409.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "part",
+  "s": 409.44,
+  "e": 409.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 409.66,
+  "e": 409.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "dissenting",
+  "s": 409.86,
+  "e": 410.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 410.22,
+  "e": 410.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "part",
+  "s": 410.5,
+  "e": 410.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 410.7,
+  "e": 411.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "which",
+  "s": 411.26,
+  "e": 411.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Justices",
+  "s": 411.5,
+  "e": 412.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Ginsburg",
+  "s": 412.06,
+  "e": 412.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 412.96,
+  "e": 413.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Kagan",
+  "s": 413.28,
+  "e": 413.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "join.",
+  "s": 413.7,
+  "e": 414.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Justice",
+  "s": 414.9,
+  "e": 415.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Sotomayor",
+  "s": 415.3,
+  "e": 415.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 415.98,
+  "e": 416.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "filed",
+  "s": 416.28,
+  "e": 416.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 416.78,
+  "e": 417.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "dissenting",
+  "s": 417.0,
+  "e": 417.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion.",
+  "s": 417.3,
+  "e": 417.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ }
+]
