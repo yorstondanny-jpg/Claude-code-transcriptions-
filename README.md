@@ -11,7 +11,8 @@ word by word to the official text.
 
 | Project | Case | Argued |
 |---|---|---|
-| [horne-raisins](projects/horne-raisins/) | Horne v. Department of Agriculture, No. 14-275 | 22 April 2015 |
+| [horne-raisins-2013](projects/horne-raisins-2013/) | Horne v. Department of Agriculture (I), No. 12-123 (plus the opinion announcement) | 20 March 2013 |
+| [horne-raisins](projects/horne-raisins/) | Horne v. Department of Agriculture (II), No. 14-275 (plus the opinion announcement) | 22 April 2015 |
 | [lozman-house](projects/lozman-house/) | Lozman v. City of Riviera Beach, Florida, No. 11-626 | 1 October 2012 |
 | [star-athletica-uniform](projects/star-athletica-uniform/) | Star Athletica, L.L.C. v. Varsity Brands, Inc., No. 15-866 | 31 October 2016 |
 | [yates-fish](projects/yates-fish/) | Yates v. United States, No. 13-7451 (plus the opinion announcement) | 5 November 2014 |

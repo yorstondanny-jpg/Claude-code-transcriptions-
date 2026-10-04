@@ -1,0 +1,4490 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 0.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Thomas",
+  "s": 0.82,
+  "e": 1.28,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.28,
+  "e": 1.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "our",
+  "s": 1.58,
+  "e": 1.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.74,
+  "e": 2.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 2.02,
+  "e": 2.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning",
+  "s": 2.24,
+  "e": 2.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 2.54,
+  "e": 2.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Case",
+  "s": 2.76,
+  "e": 2.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "12",
+  "s": 2.88,
+  "e": 3.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "-123,",
+  "s": 3.46,
+  "e": 4.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Horne",
+  "s": 4.62,
+  "e": 4.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "v.",
+  "s": 4.86,
+  "e": 5.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Department",
+  "s": 5.24,
+  "e": 5.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 5.6,
+  "e": 5.88,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Agriculture.",
+  "s": 5.88,
+  "e": 6.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "This",
+  "s": 7.26,
+  "e": 7.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "case",
+  "s": 7.76,
+  "e": 8.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "comes",
+  "s": 8.04,
+  "e": 8.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 8.36,
+  "e": 8.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "us",
+  "s": 8.66,
+  "e": 8.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "on",
+  "s": 8.92,
+  "e": 9.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 9.1,
+  "e": 9.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "writ",
+  "s": 9.26,
+  "e": 9.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 9.32,
+  "e": 9.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "certiorari",
+  "s": 9.52,
+  "e": 10.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 10.16,
+  "e": 10.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 10.4,
+  "e": 10.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "United",
+  "s": 10.5,
+  "e": 10.7,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "States",
+  "s": 10.7,
+  "e": 11.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Court",
+  "s": 11.1,
+  "e": 11.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 11.3,
+  "e": 11.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Appeals",
+  "s": 11.48,
+  "e": 11.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "for",
+  "s": 11.8,
+  "e": 12.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 12.06,
+  "e": 12.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Ninth",
+  "s": 12.22,
+  "e": 12.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Circuit.",
+  "s": 12.44,
+  "e": 12.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "During",
+  "s": 13.96,
+  "e": 14.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 14.14,
+  "e": 14.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Great",
+  "s": 14.32,
+  "e": 14.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Depression,",
+  "s": 14.54,
+  "e": 15.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Congress",
+  "s": 15.6,
+  "e": 15.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "enacted",
+  "s": 15.88,
+  "e": 16.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 16.46,
+  "e": 16.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agricultural",
+  "s": 16.76,
+  "e": 17.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Marketing",
+  "s": 17.3,
+  "e": 17.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agreement",
+  "s": 17.92,
+  "e": 18.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act",
+  "s": 18.74,
+  "e": 19.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 19.16,
+  "e": 19.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "1937.",
+  "s": 19.34,
+  "e": 20.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "I",
+  "s": 21.1,
+  "e": 21.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "will",
+  "s": 21.68,
+  "e": 21.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "refer",
+  "s": 21.82,
+  "e": 22.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 22.14,
+  "e": 22.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "this",
+  "s": 22.32,
+  "e": 22.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "as",
+  "s": 22.48,
+  "e": 22.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 22.68,
+  "e": 22.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Marketing",
+  "s": 22.84,
+  "e": 23.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agreement",
+  "s": 23.14,
+  "e": 23.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act.",
+  "s": 23.6,
+  "e": 24.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "This",
+  "s": 24.02,
+  "e": 24.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act",
+  "s": 24.92,
+  "e": 25.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "stabilized,",
+  "s": 25.22,
+  "e": 25.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "was",
+  "s": 27.44,
+  "e": 27.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "enacted",
+  "s": 27.58,
+  "e": 28.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 28.4,
+  "e": 29.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "stabilize",
+  "s": 29.66,
+  "e": 30.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "agricultural",
+  "s": 30.3,
+  "e": 31.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "commodity",
+  "s": 31.06,
+  "e": 31.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "prices.",
+  "s": 31.68,
+  "e": 32.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "California",
+  "s": 34.04,
+  "e": 34.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins",
+  "s": 34.56,
+  "e": 35.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "are",
+  "s": 35.04,
+  "e": 35.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "one",
+  "s": 35.24,
+  "e": 35.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 35.42,
+  "e": 35.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 35.54,
+  "e": 35.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "many",
+  "s": 35.68,
+  "e": 35.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "commodities",
+  "s": 35.86,
+  "e": 36.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "regulated",
+  "s": 36.46,
+  "e": 37.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "by",
+  "s": 37.14,
+  "e": 37.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 37.6,
+  "e": 38.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act.",
+  "s": 38.5,
+  "e": 39.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Pursuant",
+  "s": 39.68,
+  "e": 40.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 40.08,
+  "e": 40.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 40.28,
+  "e": 40.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Marketing",
+  "s": 40.46,
+  "e": 40.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agreement",
+  "s": 40.78,
+  "e": 41.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act,",
+  "s": 41.2,
+  "e": 41.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 41.88,
+  "e": 41.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Secretary",
+  "s": 41.98,
+  "e": 42.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 42.4,
+  "e": 42.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agriculture",
+  "s": 42.74,
+  "e": 43.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "issued",
+  "s": 43.3,
+  "e": 43.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "regulations",
+  "s": 43.74,
+  "e": 44.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "creating",
+  "s": 44.6,
+  "e": 45.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 45.64,
+  "e": 46.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Raisin",
+  "s": 46.0,
+  "e": 46.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Administrative",
+  "s": 46.32,
+  "e": 47.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Committee.",
+  "s": 47.26,
+  "e": 48.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Each",
+  "s": 48.86,
+  "e": 49.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "year,",
+  "s": 49.5,
+  "e": 49.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 50.06,
+  "e": 50.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Raisin",
+  "s": 50.22,
+  "e": 50.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Administrative",
+  "s": 50.5,
+  "e": 51.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Committee",
+  "s": 51.34,
+  "e": 51.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "recommends",
+  "s": 51.9,
+  "e": 53.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "whether",
+  "s": 53.6,
+  "e": 54.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 54.28,
+  "e": 54.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "place",
+  "s": 54.72,
+  "e": 54.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 54.98,
+  "e": 55.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "percentage",
+  "s": 55.18,
+  "e": 55.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 55.58,
+  "e": 55.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 55.98,
+  "e": 56.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 56.2,
+  "e": 56.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "crop",
+  "s": 56.46,
+  "e": 56.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 56.9,
+  "e": 57.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 57.14,
+  "e": 57.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "so",
+  "s": 57.32,
+  "e": 57.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "-called",
+  "s": 57.48,
+  "e": 57.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "reserve",
+  "s": 57.98,
+  "e": 58.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "pool",
+  "s": 58.9,
+  "e": 59.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 59.38,
+  "e": 60.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "is",
+  "s": 60.84,
+  "e": 61.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "not",
+  "s": 61.0,
+  "e": 61.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "sold",
+  "s": 61.28,
+  "e": 61.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "on",
+  "s": 61.72,
+  "e": 62.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 62.06,
+  "e": 62.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "open",
+  "s": 62.22,
+  "e": 62.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "market.",
+  "s": 62.46,
+  "e": 62.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "If",
+  "s": 64.34,
+  "e": 64.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 64.48,
+  "e": 64.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "reserve",
+  "s": 64.66,
+  "e": 65.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "pool",
+  "s": 65.0,
+  "e": 65.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "is",
+  "s": 65.36,
+  "e": 65.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "established,",
+  "s": 65.58,
+  "e": 66.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 67.44,
+  "e": 67.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers",
+  "s": 67.72,
+  "e": 68.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "are",
+  "s": 68.18,
+  "e": 68.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "required",
+  "s": 68.48,
+  "e": 68.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 68.94,
+  "e": 69.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "set",
+  "s": 69.2,
+  "e": 69.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "aside",
+  "s": 69.42,
+  "e": 69.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 69.76,
+  "e": 70.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "portion",
+  "s": 70.04,
+  "e": 70.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 70.32,
+  "e": 70.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 70.52,
+  "e": 70.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins",
+  "s": 70.72,
+  "e": 71.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 71.1,
+  "e": 71.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "receive",
+  "s": 71.4,
+  "e": 71.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "from",
+  "s": 71.92,
+  "e": 72.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "producers",
+  "s": 72.48,
+  "e": 72.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 72.96,
+  "e": 73.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "hold",
+  "s": 73.34,
+  "e": 73.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "them",
+  "s": 73.62,
+  "e": 73.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 73.86,
+  "e": 74.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 74.12,
+  "e": 74.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "pool.",
+  "s": 74.3,
+  "e": 74.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Producers",
+  "s": 75.6,
+  "e": 76.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "receive",
+  "s": 76.54,
+  "e": 77.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "no",
+  "s": 77.18,
+  "e": 77.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "upfront",
+  "s": 77.56,
+  "e": 78.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "compensation",
+  "s": 78.06,
+  "e": 78.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "for",
+  "s": 78.88,
+  "e": 79.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "these",
+  "s": 79.38,
+  "e": 79.7,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins.",
+  "s": 79.7,
+  "e": 80.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "The",
+  "s": 81.46,
+  "e": 81.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Raisin",
+  "s": 81.6,
+  "e": 81.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Administrative",
+  "s": 81.9,
+  "e": 82.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Committee",
+  "s": 82.62,
+  "e": 83.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "then",
+  "s": 83.14,
+  "e": 83.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "decides",
+  "s": 83.58,
+  "e": 84.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "whether",
+  "s": 84.18,
+  "e": 84.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 84.58,
+  "e": 84.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "give",
+  "s": 84.82,
+  "e": 84.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 84.98,
+  "e": 85.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins",
+  "s": 85.2,
+  "e": 85.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "away",
+  "s": 85.56,
+  "e": 85.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "or",
+  "s": 86.15,
+  "e": 86.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "sell",
+  "s": 86.62,
+  "e": 86.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "them",
+  "s": 86.94,
+  "e": 87.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 87.2,
+  "e": 87.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "foreign",
+  "s": 87.56,
+  "e": 87.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "markets.",
+  "s": 87.78,
+  "e": 88.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Petitioners",
+  "s": 89.9,
+  "e": 90.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "are",
+  "s": 90.32,
+  "e": 90.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "California",
+  "s": 90.48,
+  "e": 91.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 91.1,
+  "e": 91.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "growers",
+  "s": 91.6,
+  "e": 92.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "who",
+  "s": 92.04,
+  "e": 92.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "became",
+  "s": 92.58,
+  "e": 93.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "frustrated",
+  "s": 93.44,
+  "e": 94.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "with",
+  "s": 94.14,
+  "e": 94.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "this",
+  "s": 94.52,
+  "e": 94.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "regulatory",
+  "s": 94.74,
+  "e": 95.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "scheme.",
+  "s": 95.34,
+  "e": 95.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Since",
+  "s": 97.24,
+  "e": 97.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 97.4,
+  "e": 97.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "regulations",
+  "s": 97.64,
+  "e": 98.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "apply",
+  "s": 98.22,
+  "e": 98.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "only",
+  "s": 98.72,
+  "e": 99.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 99.16,
+  "e": 99.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 99.48,
+  "e": 99.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers,",
+  "s": 99.78,
+  "e": 100.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 101.16,
+  "e": 101.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "decided",
+  "s": 101.68,
+  "e": 102.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 102.2,
+  "e": 102.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "process",
+  "s": 102.5,
+  "e": 102.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 102.94,
+  "e": 103.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "sell",
+  "s": 103.2,
+  "e": 103.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "their",
+  "s": 103.58,
+  "e": 103.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "own",
+  "s": 103.82,
+  "e": 104.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins",
+  "s": 104.18,
+  "e": 104.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "without",
+  "s": 104.78,
+  "e": 105.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "using",
+  "s": 105.62,
+  "e": 106.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 106.16,
+  "e": 106.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "third",
+  "s": 106.44,
+  "e": 106.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "-party",
+  "s": 106.66,
+  "e": 106.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handler",
+  "s": 106.96,
+  "e": 107.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 107.54,
+  "e": 108.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "an",
+  "s": 108.26,
+  "e": 108.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "effort",
+  "s": 108.46,
+  "e": 108.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 108.66,
+  "e": 108.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "avoid",
+  "s": 108.92,
+  "e": 109.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 109.26,
+  "e": 109.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "requirement",
+  "s": 109.46,
+  "e": 110.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 110.08,
+  "e": 110.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 110.82,
+  "e": 111.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "contribute",
+  "s": 111.0,
+  "e": 111.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins",
+  "s": 111.58,
+  "e": 112.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 112.26,
+  "e": 112.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 112.44,
+  "e": 112.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "reserve",
+  "s": 112.58,
+  "e": 112.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "pool.",
+  "s": 112.98,
+  "e": 113.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "They",
+  "s": 114.62,
+  "e": 114.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "also",
+  "s": 114.74,
+  "e": 115.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "agreed",
+  "s": 115.04,
+  "e": 115.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 115.4,
+  "e": 115.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "process",
+  "s": 115.62,
+  "e": 116.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins",
+  "s": 116.1,
+  "e": 116.7,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "from",
+  "s": 116.7,
+  "e": 116.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "60",
+  "s": 116.96,
+  "e": 117.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "other",
+  "s": 117.38,
+  "e": 117.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "farms.",
+  "s": 117.72,
+  "e": 118.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "The",
+  "s": 119.54,
+  "e": 119.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Department",
+  "s": 119.64,
+  "e": 120.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 120.0,
+  "e": 120.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agriculture",
+  "s": 120.26,
+  "e": 120.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "determined",
+  "s": 120.92,
+  "e": 122.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 122.16,
+  "e": 122.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 122.52,
+  "e": 123.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 123.12,
+  "e": 123.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 123.38,
+  "e": 123.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers",
+  "s": 123.72,
+  "e": 124.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 124.32,
+  "e": 125.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "demanded",
+  "s": 125.12,
+  "e": 125.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 125.64,
+  "e": 125.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 125.88,
+  "e": 126.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "turn",
+  "s": 126.14,
+  "e": 126.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "over",
+  "s": 126.38,
+  "e": 126.7,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 126.7,
+  "e": 126.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "requisite",
+  "s": 126.92,
+  "e": 127.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "percentage",
+  "s": 127.38,
+  "e": 127.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 127.9,
+  "e": 128.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins.",
+  "s": 128.36,
+  "e": 128.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "After",
+  "s": 129.92,
+  "e": 130.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 130.44,
+  "e": 131.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "refused,",
+  "s": 131.12,
+  "e": 131.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 131.76,
+  "e": 131.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Department",
+  "s": 131.84,
+  "e": 132.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 132.16,
+  "e": 132.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agriculture",
+  "s": 132.5,
+  "e": 132.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "initiated",
+  "s": 132.96,
+  "e": 133.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "administrative",
+  "s": 133.74,
+  "e": 134.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "proceedings",
+  "s": 135.92,
+  "e": 136.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "seeking",
+  "s": 136.34,
+  "e": 138.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "civil",
+  "s": 138.0,
+  "e": 138.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "penalties",
+  "s": 138.52,
+  "e": 139.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 139.12,
+  "e": 139.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "reimbursement",
+  "s": 139.56,
+  "e": 140.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "for",
+  "s": 140.16,
+  "e": 140.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 140.56,
+  "e": 140.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins",
+  "s": 140.78,
+  "e": 141.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 141.2,
+  "e": 141.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioner",
+  "s": 141.44,
+  "e": 141.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "refused",
+  "s": 141.94,
+  "e": 142.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 142.54,
+  "e": 142.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "surrender.",
+  "s": 142.82,
+  "e": 143.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Petitioners",
+  "s": 144.88,
+  "e": 145.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "argued",
+  "s": 145.42,
+  "e": 145.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 145.94,
+  "e": 146.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 146.2,
+  "e": 146.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 146.38,
+  "e": 146.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "producers,",
+  "s": 146.6,
+  "e": 147.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "not",
+  "s": 147.12,
+  "e": 147.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers,",
+  "s": 147.54,
+  "e": 148.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 148.16,
+  "e": 148.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "therefore",
+  "s": 148.9,
+  "e": 149.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "did",
+  "s": 149.3,
+  "e": 149.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "not",
+  "s": 149.56,
+  "e": 149.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "have",
+  "s": 149.78,
+  "e": 150.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 150.04,
+  "e": 150.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "give",
+  "s": 150.4,
+  "e": 150.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "up",
+  "s": 150.74,
+  "e": 151.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 151.04,
+  "e": 151.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisins.",
+  "s": 151.34,
+  "e": 151.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "They",
+  "s": 152.52,
+  "e": 153.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "also",
+  "s": 153.28,
+  "e": 153.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "argued",
+  "s": 153.62,
+  "e": 154.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 154.02,
+  "e": 154.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 154.24,
+  "e": 154.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 154.5,
+  "e": 154.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "regulations",
+  "s": 154.78,
+  "e": 155.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "violated",
+  "s": 155.56,
+  "e": 156.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 156.12,
+  "e": 156.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Fifth",
+  "s": 156.4,
+  "e": 156.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Amendment",
+  "s": 156.62,
+  "e": 157.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "prohibition",
+  "s": 157.06,
+  "e": 157.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "against",
+  "s": 157.72,
+  "e": 158.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "taking",
+  "s": 158.08,
+  "e": 158.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "property",
+  "s": 158.54,
+  "e": 159.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "without",
+  "s": 159.1,
+  "e": 159.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "just",
+  "s": 159.8,
+  "e": 160.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "compensation.",
+  "s": 160.18,
+  "e": 161.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "An",
+  "s": 161.86,
+  "e": 162.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "administrative",
+  "s": 162.48,
+  "e": 163.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "law",
+  "s": 163.12,
+  "e": 163.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "judge",
+  "s": 163.44,
+  "e": 163.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "found",
+  "s": 163.84,
+  "e": 164.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 164.26,
+  "e": 164.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 164.78,
+  "e": 165.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 165.58,
+  "e": 165.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers",
+  "s": 165.82,
+  "e": 166.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 166.28,
+  "e": 166.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 166.58,
+  "e": 166.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 166.76,
+  "e": 167.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "had",
+  "s": 167.0,
+  "e": 167.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "violated",
+  "s": 167.22,
+  "e": 167.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 167.66,
+  "e": 167.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 167.96,
+  "e": 168.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "regulations.",
+  "s": 168.2,
+  "e": 168.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "He",
+  "s": 169.94,
+  "e": 170.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "imposed",
+  "s": 170.02,
+  "e": 170.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "fines",
+  "s": 170.58,
+  "e": 171.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 171.04,
+  "e": 171.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "rejected",
+  "s": 171.3,
+  "e": 171.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners'",
+  "s": 171.78,
+  "e": 172.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "takings",
+  "s": 172.74,
+  "e": 172.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "defense.",
+  "s": 172.92,
+  "e": 173.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "On",
+  "s": 173.82,
+  "e": 174.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "appeal,",
+  "s": 174.62,
+  "e": 174.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 175.12,
+  "e": 175.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "judicial",
+  "s": 175.26,
+  "e": 175.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "officer",
+  "s": 175.6,
+  "e": 176.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "agreed.",
+  "s": 176.18,
+  "e": 176.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Petitioners",
+  "s": 177.8,
+  "e": 178.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "then",
+  "s": 178.16,
+  "e": 178.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "sought",
+  "s": 178.42,
+  "e": 178.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "review",
+  "s": 178.8,
+  "e": 179.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 179.32,
+  "e": 179.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 179.84,
+  "e": 180.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Federal,",
+  "s": 180.16,
+  "e": 180.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 180.56,
+  "e": 180.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Federal",
+  "s": 180.72,
+  "e": 181.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "district",
+  "s": 181.02,
+  "e": 181.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "court,",
+  "s": 181.42,
+  "e": 181.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "which",
+  "s": 182.12,
+  "e": 182.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "concluded",
+  "s": 182.46,
+  "e": 183.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 183.02,
+  "e": 183.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 183.34,
+  "e": 183.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 183.92,
+  "e": 184.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers",
+  "s": 184.12,
+  "e": 184.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "rather",
+  "s": 184.66,
+  "e": 185.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "than",
+  "s": 185.08,
+  "e": 185.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "producers",
+  "s": 185.42,
+  "e": 185.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 185.94,
+  "e": 186.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "rejected",
+  "s": 186.64,
+  "e": 187.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners'",
+  "s": 187.04,
+  "e": 188.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "takings",
+  "s": 188.26,
+  "e": 188.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "claims",
+  "s": 188.54,
+  "e": 188.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "on",
+  "s": 188.94,
+  "e": 189.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 189.66,
+  "e": 189.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "merits.",
+  "s": 189.8,
+  "e": 190.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "The",
+  "s": 191.58,
+  "e": 192.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Ninth",
+  "s": 192.3,
+  "e": 192.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Circuit",
+  "s": 192.56,
+  "e": 192.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "affirmed.",
+  "s": 192.88,
+  "e": 193.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "It",
+  "s": 194.28,
+  "e": 194.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "agreed",
+  "s": 194.28,
+  "e": 194.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 194.76,
+  "e": 195.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 195.04,
+  "e": 195.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 195.58,
+  "e": 195.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers,",
+  "s": 195.8,
+  "e": 196.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "but",
+  "s": 196.28,
+  "e": 196.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "concluded",
+  "s": 196.76,
+  "e": 197.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 197.32,
+  "e": 197.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "it",
+  "s": 197.56,
+  "e": 197.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "lacked",
+  "s": 197.78,
+  "e": 198.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "jurisdiction",
+  "s": 198.04,
+  "e": 198.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 198.78,
+  "e": 199.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "adjudicate",
+  "s": 199.06,
+  "e": 199.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 199.76,
+  "e": 200.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "takings",
+  "s": 200.3,
+  "e": 200.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "claims",
+  "s": 200.66,
+  "e": 201.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "because",
+  "s": 201.14,
+  "e": 201.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "it",
+  "s": 201.52,
+  "e": 201.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "was",
+  "s": 201.8,
+  "e": 201.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "not",
+  "s": 201.96,
+  "e": 202.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "ripe.",
+  "s": 202.2,
+  "e": 202.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "According",
+  "s": 203.7,
+  "e": 204.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 204.06,
+  "e": 204.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 204.48,
+  "e": 204.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Ninth",
+  "s": 204.68,
+  "e": 204.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Circuit,",
+  "s": 204.94,
+  "e": 205.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 205.38,
+  "e": 206.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raised",
+  "s": 206.04,
+  "e": 206.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "their",
+  "s": 206.42,
+  "e": 206.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "takings",
+  "s": 206.66,
+  "e": 207.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "claims",
+  "s": 207.1,
+  "e": 207.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "as",
+  "s": 207.58,
+  "e": 207.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "producers,",
+  "s": 207.98,
+  "e": 208.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "not",
+  "s": 208.78,
+  "e": 208.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers,",
+  "s": 208.96,
+  "e": 209.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 209.54,
+  "e": 210.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "thus",
+  "s": 210.02,
+  "e": 210.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 210.3,
+  "e": 210.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "required",
+  "s": 210.6,
+  "e": 211.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 211.06,
+  "e": 211.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "pay",
+  "s": 211.3,
+  "e": 211.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 211.46,
+  "e": 211.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "fines",
+  "s": 211.74,
+  "e": 212.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 212.04,
+  "e": 212.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "then",
+  "s": 212.32,
+  "e": 212.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "file",
+  "s": 212.54,
+  "e": 212.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "suit",
+  "s": 212.86,
+  "e": 213.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 213.3,
+  "e": 213.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 213.96,
+  "e": 214.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Court",
+  "s": 214.32,
+  "e": 214.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 214.64,
+  "e": 214.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Federal",
+  "s": 214.72,
+  "e": 215.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Claims.",
+  "s": 215.16,
+  "e": 215.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "In",
+  "s": 216.36,
+  "e": 216.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "an",
+  "s": 216.94,
+  "e": 217.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "opinion",
+  "s": 217.14,
+  "e": 217.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "filed",
+  "s": 217.54,
+  "e": 217.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "with",
+  "s": 217.94,
+  "e": 218.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 218.14,
+  "e": 218.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "clerk",
+  "s": 218.36,
+  "e": 218.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "today,",
+  "s": 218.48,
+  "e": 218.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "we",
+  "s": 219.04,
+  "e": 219.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "reverse.",
+  "s": 219.3,
+  "e": 219.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Although",
+  "s": 220.88,
+  "e": 221.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 221.2,
+  "e": 221.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "argued",
+  "s": 221.88,
+  "e": 222.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "before",
+  "s": 222.34,
+  "e": 222.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 222.78,
+  "e": 223.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "agency",
+  "s": 223.06,
+  "e": 223.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 223.54,
+  "e": 223.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 223.86,
+  "e": 224.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 224.04,
+  "e": 224.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "producers",
+  "s": 224.26,
+  "e": 224.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 224.76,
+  "e": 225.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "thus",
+  "s": 225.12,
+  "e": 225.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "not",
+  "s": 225.44,
+  "e": 225.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "subject",
+  "s": 225.82,
+  "e": 226.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 226.26,
+  "e": 226.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 226.52,
+  "e": 226.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 226.72,
+  "e": 226.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "regulations,",
+  "s": 226.96,
+  "e": 227.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "both",
+  "s": 228.62,
+  "e": 228.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 228.84,
+  "e": 229.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "agency",
+  "s": 229.12,
+  "e": 229.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 229.56,
+  "e": 230.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 230.0,
+  "e": 230.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "district",
+  "s": 230.22,
+  "e": 230.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "court",
+  "s": 230.54,
+  "e": 230.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "concluded",
+  "s": 230.88,
+  "e": 231.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 231.4,
+  "e": 231.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 231.68,
+  "e": 231.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 231.94,
+  "e": 232.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers.",
+  "s": 232.22,
+  "e": 232.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Because",
+  "s": 233.42,
+  "e": 234.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 234.1,
+  "e": 234.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raisin",
+  "s": 234.36,
+  "e": 234.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "regulations",
+  "s": 234.66,
+  "e": 235.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "imposed",
+  "s": 235.46,
+  "e": 236.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "duties",
+  "s": 236.0,
+  "e": 236.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "on",
+  "s": 236.46,
+  "e": 236.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 236.78,
+  "e": 237.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "only",
+  "s": 237.48,
+  "e": 237.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 237.92,
+  "e": 238.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "their",
+  "s": 238.24,
+  "e": 238.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "capacity",
+  "s": 238.44,
+  "e": 239.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "as",
+  "s": 239.02,
+  "e": 239.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers,",
+  "s": 239.28,
+  "e": 239.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners'",
+  "s": 240.6,
+  "e": 241.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "takings",
+  "s": 241.38,
+  "e": 241.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "claims,",
+  "s": 241.62,
+  "e": 242.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raised",
+  "s": 242.36,
+  "e": 242.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "as",
+  "s": 242.64,
+  "e": 242.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 242.88,
+  "e": 243.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "defense",
+  "s": 243.08,
+  "e": 243.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "against",
+  "s": 243.46,
+  "e": 243.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "fines",
+  "s": 243.9,
+  "e": 244.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "imposed",
+  "s": 244.4,
+  "e": 245.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "for",
+  "s": 245.22,
+  "e": 245.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "violating",
+  "s": 245.6,
+  "e": 246.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "those",
+  "s": 246.08,
+  "e": 246.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "duties,",
+  "s": 246.46,
+  "e": 246.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "is",
+  "s": 247.32,
+  "e": 247.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "necessarily",
+  "s": 247.84,
+  "e": 248.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raised",
+  "s": 248.5,
+  "e": 249.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 249.02,
+  "e": 249.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 249.28,
+  "e": 249.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "same",
+  "s": 249.48,
+  "e": 249.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "capacity.",
+  "s": 249.82,
+  "e": 250.21,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "In",
+  "s": 251.1,
+  "e": 251.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "finding",
+  "s": 251.88,
+  "e": 252.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "otherwise,",
+  "s": 252.24,
+  "e": 252.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 253.14,
+  "e": 253.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Ninth",
+  "s": 253.22,
+  "e": 253.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Circuit",
+  "s": 253.42,
+  "e": 253.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "confused",
+  "s": 253.74,
+  "e": 254.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioner's",
+  "s": 254.36,
+  "e": 255.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "statutory",
+  "s": 255.18,
+  "e": 255.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "argument",
+  "s": 255.66,
+  "e": 256.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 256.36,
+  "e": 256.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 256.72,
+  "e": 256.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 256.9,
+  "e": 257.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "producers",
+  "s": 257.12,
+  "e": 257.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "with",
+  "s": 257.68,
+  "e": 258.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "their",
+  "s": 258.5,
+  "e": 258.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "constitutional",
+  "s": 258.76,
+  "e": 259.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "argument",
+  "s": 259.5,
+  "e": 260.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that,",
+  "s": 260.16,
+  "e": 260.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "even",
+  "s": 260.94,
+  "e": 261.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "assuming",
+  "s": 261.26,
+  "e": 261.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "they",
+  "s": 261.8,
+  "e": 262.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 262.08,
+  "e": 262.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers,",
+  "s": 262.28,
+  "e": 262.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 263.34,
+  "e": 263.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "fines",
+  "s": 263.48,
+  "e": 263.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "violated",
+  "s": 263.92,
+  "e": 264.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 264.52,
+  "e": 264.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Fifth",
+  "s": 264.8,
+  "e": 265.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Amendment.",
+  "s": 265.02,
+  "e": 265.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "As",
+  "s": 265.48,
+  "e": 266.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 266.48,
+  "e": 266.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "result,",
+  "s": 266.64,
+  "e": 267.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 267.32,
+  "e": 267.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "relevant",
+  "s": 267.46,
+  "e": 267.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "question",
+  "s": 267.9,
+  "e": 268.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "is",
+  "s": 268.5,
+  "e": 268.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "whether",
+  "s": 268.76,
+  "e": 269.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 269.14,
+  "e": 269.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Federal",
+  "s": 269.8,
+  "e": 270.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "court",
+  "s": 270.04,
+  "e": 270.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "has",
+  "s": 270.4,
+  "e": 270.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "jurisdiction",
+  "s": 270.72,
+  "e": 271.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 271.44,
+  "e": 271.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "adjudicate",
+  "s": 271.76,
+  "e": 272.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 272.5,
+  "e": 273.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "takings",
+  "s": 273.1,
+  "e": 273.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "defense",
+  "s": 273.48,
+  "e": 274.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raised",
+  "s": 274.04,
+  "e": 274.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "by",
+  "s": 274.9,
+  "e": 275.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 275.32,
+  "e": 275.7,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handler.",
+  "s": 275.7,
+  "e": 275.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Petitioners",
+  "s": 276.92,
+  "e": 277.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "were",
+  "s": 277.4,
+  "e": 277.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "subject",
+  "s": 277.64,
+  "e": 277.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 277.98,
+  "e": 278.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 278.2,
+  "e": 278.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "final",
+  "s": 278.42,
+  "e": 278.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "agency",
+  "s": 278.66,
+  "e": 279.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "order",
+  "s": 279.24,
+  "e": 279.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "imposing",
+  "s": 279.76,
+  "e": 280.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "fines",
+  "s": 280.4,
+  "e": 280.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 280.92,
+  "e": 281.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "thus",
+  "s": 281.22,
+  "e": 281.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "suffered",
+  "s": 281.52,
+  "e": 282.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "an",
+  "s": 282.2,
+  "e": 282.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "injury",
+  "s": 282.5,
+  "e": 282.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "sufficient",
+  "s": 282.88,
+  "e": 283.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "for",
+  "s": 283.44,
+  "e": 284.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Article",
+  "s": 284.24,
+  "e": 284.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "III",
+  "s": 284.64,
+  "e": 284.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "jurisdiction.",
+  "s": 284.94,
+  "e": 285.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "The",
+  "s": 286.54,
+  "e": 286.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "government",
+  "s": 286.78,
+  "e": 287.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "argues",
+  "s": 287.14,
+  "e": 287.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 287.8,
+  "e": 288.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioner's",
+  "s": 288.2,
+  "e": 288.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "claim",
+  "s": 288.94,
+  "e": 289.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "is",
+  "s": 289.18,
+  "e": 289.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "unripe",
+  "s": 289.48,
+  "e": 290.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "because",
+  "s": 290.06,
+  "e": 290.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 290.54,
+  "e": 290.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Tucker",
+  "s": 290.8,
+  "e": 291.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act",
+  "s": 291.06,
+  "e": 291.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "affords",
+  "s": 291.48,
+  "e": 292.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "them",
+  "s": 292.1,
+  "e": 292.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 292.42,
+  "e": 292.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "remedy.",
+  "s": 292.74,
+  "e": 293.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "The",
+  "s": 293.04,
+  "e": 293.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Tucker",
+  "s": 293.86,
+  "e": 294.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act",
+  "s": 294.14,
+  "e": 294.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "normally",
+  "s": 294.48,
+  "e": 295.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "requires",
+  "s": 295.12,
+  "e": 295.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "people",
+  "s": 295.8,
+  "e": 296.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "who",
+  "s": 296.3,
+  "e": 297.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "want",
+  "s": 297.02,
+  "e": 297.46,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "or",
+  "s": 297.46,
+  "e": 297.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "individuals",
+  "s": 297.74,
+  "e": 298.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "who",
+  "s": 298.34,
+  "e": 298.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "want",
+  "s": 298.68,
+  "e": 299.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 299.0,
+  "e": 299.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "sue",
+  "s": 299.32,
+  "e": 299.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 299.5,
+  "e": 299.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "United",
+  "s": 299.76,
+  "e": 300.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "States",
+  "s": 300.08,
+  "e": 300.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "for",
+  "s": 300.62,
+  "e": 300.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "damages",
+  "s": 300.88,
+  "e": 301.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 301.4,
+  "e": 302.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "bring",
+  "s": 302.0,
+  "e": 302.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "their",
+  "s": 302.26,
+  "e": 302.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "suits",
+  "s": 302.5,
+  "e": 302.88,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 302.88,
+  "e": 303.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 303.22,
+  "e": 303.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "court",
+  "s": 303.58,
+  "e": 303.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 303.74,
+  "e": 303.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Federal",
+  "s": 303.94,
+  "e": 304.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "claims.",
+  "s": 304.22,
+  "e": 304.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "However,",
+  "s": 305.42,
+  "e": 305.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "when",
+  "s": 306.0,
+  "e": 306.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 306.2,
+  "e": 306.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "statute",
+  "s": 306.44,
+  "e": 306.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "contains",
+  "s": 306.72,
+  "e": 307.34,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "its",
+  "s": 307.34,
+  "e": 307.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "own",
+  "s": 307.52,
+  "e": 307.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "self",
+  "s": 307.86,
+  "e": 308.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "-executing",
+  "s": 308.28,
+  "e": 308.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "remedial",
+  "s": 308.92,
+  "e": 309.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "scheme,",
+  "s": 309.48,
+  "e": 310.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Tucker",
+  "s": 310.6,
+  "e": 310.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act",
+  "s": 310.78,
+  "e": 311.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "jurisdiction",
+  "s": 311.1,
+  "e": 311.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "is",
+  "s": 311.74,
+  "e": 312.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "replaced",
+  "s": 312.22,
+  "e": 312.7,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "by",
+  "s": 312.7,
+  "e": 313.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 313.02,
+  "e": 313.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "scheme.",
+  "s": 313.3,
+  "e": 313.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "In",
+  "s": 314.32,
+  "e": 314.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "this",
+  "s": 314.74,
+  "e": 315.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "case,",
+  "s": 315.02,
+  "e": 315.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "we",
+  "s": 315.48,
+  "e": 315.7,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "conclude",
+  "s": 315.7,
+  "e": 316.18,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 316.18,
+  "e": 316.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 316.5,
+  "e": 316.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Marketing",
+  "s": 316.74,
+  "e": 317.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agreement",
+  "s": 317.08,
+  "e": 317.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act",
+  "s": 317.64,
+  "e": 318.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "provides",
+  "s": 318.26,
+  "e": 319.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "such",
+  "s": 319.3,
+  "e": 319.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 319.72,
+  "e": 319.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "comprehensive",
+  "s": 319.96,
+  "e": 320.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "remedial",
+  "s": 320.32,
+  "e": 321.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "scheme",
+  "s": 321.26,
+  "e": 321.7,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 321.7,
+  "e": 322.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 322.0,
+  "e": 322.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "nothing",
+  "s": 322.22,
+  "e": 322.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 322.52,
+  "e": 322.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 322.86,
+  "e": 323.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Marketing",
+  "s": 323.02,
+  "e": 323.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agreement",
+  "s": 323.38,
+  "e": 323.92,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Act",
+  "s": 323.92,
+  "e": 324.56,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "borrows",
+  "s": 324.56,
+  "e": 325.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "handlers",
+  "s": 325.58,
+  "e": 325.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "from",
+  "s": 325.9,
+  "e": 326.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raising",
+  "s": 326.24,
+  "e": 326.62,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "constitutional",
+  "s": 326.62,
+  "e": 327.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "defenses",
+  "s": 327.54,
+  "e": 328.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 328.14,
+  "e": 328.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 328.82,
+  "e": 328.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Department",
+  "s": 328.96,
+  "e": 329.36,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 329.36,
+  "e": 329.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Agriculture's",
+  "s": 329.76,
+  "e": 331.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "enforcement",
+  "s": 332.38,
+  "e": 332.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "action.",
+  "s": 332.66,
+  "e": 333.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Accordingly,",
+  "s": 334.42,
+  "e": 335.06,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "petitioners",
+  "s": 335.42,
+  "e": 335.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "are",
+  "s": 335.82,
+  "e": 336.04,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "free",
+  "s": 336.04,
+  "e": 336.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 336.3,
+  "e": 336.52,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "raise",
+  "s": 336.52,
+  "e": 336.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "their",
+  "s": 336.72,
+  "e": 336.98,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "takings",
+  "s": 336.98,
+  "e": 337.38,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "claims",
+  "s": 337.38,
+  "e": 337.78,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 337.78,
+  "e": 338.4,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "these",
+  "s": 338.4,
+  "e": 338.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "proceedings.",
+  "s": 338.64,
+  "e": 339.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Indeed,",
+  "s": 340.02,
+  "e": 340.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "it",
+  "s": 340.54,
+  "e": 340.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "would",
+  "s": 340.74,
+  "e": 340.9,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "make",
+  "s": 340.9,
+  "e": 341.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "little",
+  "s": 341.14,
+  "e": 341.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "sense",
+  "s": 341.42,
+  "e": 341.84,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 341.84,
+  "e": 342.12,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "force",
+  "s": 342.12,
+  "e": 342.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "a",
+  "s": 342.44,
+  "e": 342.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "party",
+  "s": 342.8,
+  "e": 343.0,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "to",
+  "s": 343.0,
+  "e": 343.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "pay",
+  "s": 343.3,
+  "e": 343.54,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "an",
+  "s": 343.54,
+  "e": 343.8,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "assessed",
+  "s": 343.8,
+  "e": 344.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "fine",
+  "s": 344.22,
+  "e": 344.68,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 344.68,
+  "e": 345.2,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "one",
+  "s": 345.2,
+  "e": 345.48,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "proceeding",
+  "s": 345.48,
+  "e": 346.08,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 346.08,
+  "e": 346.76,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "then",
+  "s": 346.76,
+  "e": 346.94,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "turn",
+  "s": 346.94,
+  "e": 347.22,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "around",
+  "s": 347.22,
+  "e": 347.72,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "and",
+  "s": 347.72,
+  "e": 348.1,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "sue",
+  "s": 348.1,
+  "e": 348.24,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "for",
+  "s": 348.24,
+  "e": 348.5,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "recovery",
+  "s": 348.5,
+  "e": 348.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 348.96,
+  "e": 349.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "that",
+  "s": 349.26,
+  "e": 349.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "same",
+  "s": 349.42,
+  "e": 349.82,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "money",
+  "s": 349.82,
+  "e": 350.16,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "in",
+  "s": 350.16,
+  "e": 350.58,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "another.",
+  "s": 350.58,
+  "e": 350.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "We",
+  "s": 351.66,
+  "e": 352.26,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "therefore",
+  "s": 352.26,
+  "e": 352.86,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "reverse",
+  "s": 352.86,
+  "e": 353.44,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 353.44,
+  "e": 353.74,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "judgment",
+  "s": 353.74,
+  "e": 354.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 354.02,
+  "e": 354.28,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 354.28,
+  "e": 354.42,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Ninth",
+  "s": 354.42,
+  "e": 354.64,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Circuit.",
+  "s": 354.64,
+  "e": 355.02,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "The",
+  "s": 355.24,
+  "e": 355.3,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "opinion",
+  "s": 355.3,
+  "e": 355.66,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "of",
+  "s": 355.66,
+  "e": 355.96,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "the",
+  "s": 355.96,
+  "e": 356.14,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "Court",
+  "s": 356.14,
+  "e": 356.32,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "is",
+  "s": 356.32,
+  "e": 356.6,
+  "speaker": "JUSTICE THOMAS"
+ },
+ {
+  "w": "unanimous.",
+  "s": 356.6,
+  "e": 357.12,
+  "speaker": "JUSTICE THOMAS"
+ }
+]
