@@ -694,6 +694,10 @@ def main():
                     "10-second clip around it")
     ap.add_argument("--long-questions", type=int, default=0, metavar="N",
                     help="list the N longest uninterrupted turns by a justice")
+    ap.add_argument("--opinion-full-text", action="store_true",
+                    help="put the opinion announcement's full text in the README (default: first 3 minutes)")
+    ap.add_argument("--opinion-mentions", help="comma-separated terms to find in the opinion announcement; "
+                    "'percentages', 'dollar amounts' and 'years' match any such number")
     ap.add_argument("--opinion", action="store_true",
                     help="also fetch and transcribe the opinion announcement from oyez.org (Whisper only)")
     args = ap.parse_args()
@@ -813,6 +817,11 @@ def main():
     opening_start, opening = petitioner_opening(official, turns)
     opinion = process_opinion(args.case, args.year, root, work, args.model) if args.opinion else None
     if opinion and opinion.get("found"):
+        opinion["show_full"] = args.opinion_full_text
+        op_terms = [t.strip() for t in (args.opinion_mentions or "").split(",") if t.strip()]
+        opinion["mention_terms"] = op_terms
+        opinion["mentions"] = mention_rows(opinion["sentences"], op_terms) if op_terms else None
+    if opinion and opinion.get("found"):
         log(f"Opinion announcement: {opinion['words']} words, {fmt_ts(opinion['duration'])}")
     elif opinion:
         log(f"No opinion announcement on {opinion['page_url']} {opinion.get('error', '')}")
@@ -908,6 +917,28 @@ def chief_justice_on(title):
     m = re.search(r"(\d{4})\s*$", title or "")
     year = int(m.group(1)) if m else 2100
     return "CHIEF JUSTICE ROBERTS" if year >= 2006 else "CHIEF JUSTICE REHNQUIST"
+
+
+SPECIAL_TERMS = {
+    # "47 percent", "47%", "forty-seven percent"
+    "percentages": re.compile(r"\d[\d,.]*\s*%|\b[\w-]+\s+(?:percent|per cent)\b", re.I),
+    # "$483,843", "483,000 dollars", "$1.5 million"
+    "dollar amounts": re.compile(r"\$\s?\d|\b[\d,.]+\s+(?:dollars|million|billion)\b|\b(?:\w+\s+)?dollars?\b", re.I),
+    # 1600 to 2099, with an optional decade "s"
+    "years": re.compile(r"\b(?:1[6-9]\d\d|20\d\d)s?\b"),
+}
+
+
+def mention_rows(sentences, terms):
+    """(time, speaker, matched terms, sentence) for each sentence matching any term. "percentages",
+    "dollar amounts" and "years" are pattern terms; the rest match as in --mentions."""
+    rxs = [(t, SPECIAL_TERMS.get(t.lower()) or term_regex(t)) for t in terms]
+    rows = []
+    for t0, spk, text in sentences:
+        hit = [t for t, rx in rxs if rx.search(text)]
+        if hit:
+            rows.append((t0, spk, ", ".join(hit), text))
+    return rows
 
 
 def process_opinion(case, year, root, work, model_name):
@@ -1091,6 +1122,19 @@ def process_opinion(case, year, root, work, model_name):
             else:
                 opening.append([w["s"], w["speaker"], w["w"]])
     info["opening"] = opening
+    info["full_text"] = [(l["s"], l["speaker"], l["text"]) for l in lines]
+    sentences, cur = [], []
+    for w in words:
+        cur.append(w)
+        last = re.sub(r"[\"')\]]+$", "", w["w"].lower())
+        if re.search(r"[.?!]$", last) and last not in ABBREV:
+            sentences.append(cur)
+            cur = []
+    if cur:
+        sentences.append(cur)
+    info["sentences"] = [(sn[0]["s"], sn[0]["speaker"],
+                          "".join(("" if re.match(r"^(-|[,.]\d)", w["w"]) or k == 0 else " ") + w["w"]
+                                  for k, w in enumerate(sn))) for sn in sentences]
     info["lines"] = [(l["speaker"], l["s"], l["e"], len(l["text"].split())) for l in lines]
     order_bad = sum(1 for i in range(1, len(words)) if words[i]["s"] < words[i - 1]["s"])
     long_bad = [(w["w"], w["s"], w["e"]) for w in words if w["e"] - w["s"] > 3.0 and not is_citation(w["w"])]
@@ -1213,7 +1257,7 @@ matched word's ASR time changes.
 
 Regenerate with:
 
-    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{(' --pdf-url ' + st['pdf_url_arg']) if st.get('pdf_url_arg') else ''}{(' --mp3-url ' + st['mp3_url_arg']) if st.get('mp3_url_arg') else ''}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}{(' --quotes ' + chr(34) + '|'.join(st['quotes']) + chr(34)) if st.get('quotes') else ''}{(' --long-questions ' + str(st['long_n'])) if st.get('long_n') else ''}
+    python3 transcribe.py {st['case']} {st['year']} {root.name} --model {st['model']}{(' --pdf-url ' + st['pdf_url_arg']) if st.get('pdf_url_arg') else ''}{(' --mp3-url ' + st['mp3_url_arg']) if st.get('mp3_url_arg') else ''}{' --opinion' if st.get('opinion') else ''}{(' --mentions ' + chr(34) + ','.join(st['terms']) + chr(34)) if st.get('terms') else ''}{(' --quotes ' + chr(34) + '|'.join(st['quotes']) + chr(34)) if st.get('quotes') else ''}{(' --long-questions ' + str(st['long_n'])) if st.get('long_n') else ''}{' --opinion-full-text' if (st.get('opinion') or {}).get('show_full') else ''}{(' --opinion-mentions ' + chr(34) + ','.join(st['opinion']['mention_terms']) + chr(34)) if (st.get('opinion') or {}).get('mention_terms') else ''}
 """
     text += readme_extras(st)
     (root / "README.md").write_text(text)
@@ -1317,11 +1361,27 @@ Files: `opinion_words.json` (`{{"w", "s", "e", "speaker"}}`) and `opinion_lines.
 | speaker | start | end | words |
 |---|---|---|---|
 """ + "\n".join(f"| {spk} | {fmt_ts(a)} | {fmt_ts(b)} | {n} |" for spk, a, b, n in op["lines"]) + "\n"
-    if op.get("opening"):
+    if op.get("show_full") and op.get("full_text"):
+        out += ("\n### Full text, as plain text\n\nWhisper's wording, the whole announcement, with each "
+                "speaker's start time.\n\n")
+        out += "\n\n".join(f"[{fmt_ts(a)}] {spk}: {txt}" for a, spk, txt in op["full_text"]) + "\n"
+    elif op.get("opening"):
         t0 = op["opening"][0][0]
         out += (f"\n### First 3 minutes, as plain text\n\nWhisper's wording, {fmt_ts(t0)} to "
                 f"{fmt_ts(t0 + 180)}, with each speaker's start time.\n\n")
         out += "\n\n".join(f"[{fmt_ts(a)}] {spk}: {txt}" for a, spk, txt in op["opening"]) + "\n"
+    if op.get("mention_terms"):
+        rows = op.get("mentions") or []
+        out += ("\n### Announcement mentions\n\nEvery sentence in the announcement (Whisper's wording) "
+                f"that mentions: {', '.join(op['mention_terms'])}. \"Percentages\" means any \"N percent\", "
+                "\"dollar amounts\" any \"$N\" or \"N dollars\", \"years\" any year from 1600 to 2099. "
+                "One row per sentence; the time is where the sentence starts.\n\n")
+        out += "| term | sentences |\n|---|---|\n" + "\n".join(
+            f"| {t} | {sum(1 for r in rows if t in r[2].split(', '))} |" for t in op["mention_terms"]) + "\n"
+        if rows:
+            out += ("\n| time | time (s) | speaker | matches | sentence |\n|---|---|---|---|---|\n" +
+                    "\n".join(f"| {fmt_ts(a)} | {a:.3f} | {spk} | {hit} | {txt.replace('|', '/')} |"
+                              for a, spk, hit, txt in rows) + "\n")
     out += "\n### Words Whisper invented\n\n"
     if op.get("dropped"):
         out += ("Words that only Whisper has, and runs of 3 or more words where Whisper and Oyez's "
