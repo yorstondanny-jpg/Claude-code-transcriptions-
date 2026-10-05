@@ -37,6 +37,7 @@ source's copyright status at the top of its README.
 | Project | Source | Copyright status |
 |---|---|---|
 | [council-pigeons](projects/council-pigeons/) | St. Petersburg, FL City Council committee, 14 May 2026: "What's the flashing red?" (44 s) | Florida public record; no copyright claim on the recording |
+| [prelinger-snails](projects/prelinger-snails/) | *Habit Patterns* (Knickerbocker Productions, 1954), Prelinger Archives item HabitPat1954 (14 min) | Public domain per the archive.org item (`licenseurl` creativecommons.org/licenses/publicdomain/) |
 
     python3 recast.py <project> <audio file or URL> [--start S --end S] [--speakers "0=NARRATOR,12.5=CHAIR"]
 
