@@ -27,6 +27,22 @@ word by word to the official text.
 | [jardines-dog](projects/jardines-dog/) | Florida v. Jardines, No. 11-564 (plus the opinion announcement) | 31 October 2012 |
 | [brown-ema-videogames](projects/brown-ema-videogames/) | Brown v. Entertainment Merchants Association, No. 08-1448 (argued as Schwarzenegger v. EMA; plus the opinion announcement) | 2 November 2010 |
 
+## Recast pilots
+
+Real public audio for animation pilots, re-performed by animal characters. There's no official
+transcript, so `recast.py` uses Whisper's wording, checked against a second independent Whisper
+pass. Each project has the same files, with the audio at `audio/source.mp3`, and states the
+source's copyright status at the top of its README.
+
+| Project | Source | Copyright status |
+|---|---|---|
+| [council-pigeons](projects/council-pigeons/) | St. Petersburg, FL City Council committee, 14 May 2026: "What's the flashing red?" (44 s) | Florida public record; no copyright claim on the recording |
+
+    python3 recast.py <project> <audio file or URL> [--start S --end S] [--speakers "0=NARRATOR,12.5=CHAIR"]
+
+Hand-written notes (sources, rights, candidates) go in `projects/<project>/notes.md` and are pasted
+into the generated README.
+
 ## Running a new case
 
     sudo apt-get install -y ffmpeg poppler-utils

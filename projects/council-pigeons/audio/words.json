@@ -1,0 +1,776 @@
+[
+ {
+  "w": "What's",
+  "s": 0.78,
+  "e": 1.22,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "the",
+  "s": 1.22,
+  "e": 1.38,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "flashing",
+  "s": 1.38,
+  "e": 1.84,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "red?",
+  "s": 1.84,
+  "e": 2.16,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "So",
+  "s": 2.7,
+  "e": 2.76,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "the",
+  "s": 2.76,
+  "e": 2.94,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "flashing",
+  "s": 2.94,
+  "e": 3.38,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "red",
+  "s": 3.38,
+  "e": 3.58,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "is",
+  "s": 3.58,
+  "e": 3.8,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "kind",
+  "s": 3.8,
+  "e": 3.98,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "of",
+  "s": 3.98,
+  "e": 4.08,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "meant",
+  "s": 4.08,
+  "e": 4.24,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "to",
+  "s": 4.24,
+  "e": 4.46,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "emulate",
+  "s": 4.46,
+  "e": 5.0,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "what's",
+  "s": 5.0,
+  "e": 6.24,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "available",
+  "s": 6.24,
+  "e": 6.62,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "at",
+  "s": 6.62,
+  "e": 6.88,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "railroad",
+  "s": 6.88,
+  "e": 7.12,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "signals",
+  "s": 7.12,
+  "e": 7.6,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "and",
+  "s": 7.6,
+  "e": 7.82,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "typically",
+  "s": 7.82,
+  "e": 8.18,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "the",
+  "s": 8.18,
+  "e": 8.36,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "requirement",
+  "s": 8.36,
+  "e": 8.74,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "for",
+  "s": 8.74,
+  "e": 8.94,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "the",
+  "s": 8.94,
+  "e": 9.1,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "motorists",
+  "s": 9.1,
+  "e": 9.36,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "is",
+  "s": 9.36,
+  "e": 9.62,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "to",
+  "s": 9.62,
+  "e": 9.74,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "stop,",
+  "s": 9.74,
+  "e": 10.32,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "double",
+  "s": 11.22,
+  "e": 11.3,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "check",
+  "s": 11.3,
+  "e": 11.54,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "that",
+  "s": 11.54,
+  "e": 11.72,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "it's",
+  "s": 11.72,
+  "e": 11.94,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "clear",
+  "s": 11.94,
+  "e": 12.18,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "and",
+  "s": 12.18,
+  "e": 12.34,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "if",
+  "s": 12.34,
+  "e": 12.5,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "it's",
+  "s": 12.5,
+  "e": 12.78,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "clear",
+  "s": 12.78,
+  "e": 13.0,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "then",
+  "s": 13.0,
+  "e": 13.24,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "the",
+  "s": 13.24,
+  "e": 13.44,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "motorists",
+  "s": 13.44,
+  "e": 13.62,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "can",
+  "s": 13.62,
+  "e": 13.82,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "proceed",
+  "s": 13.82,
+  "e": 14.12,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "through",
+  "s": 14.12,
+  "e": 14.3,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "the",
+  "s": 14.3,
+  "e": 14.48,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "crosswalk.",
+  "s": 14.48,
+  "e": 15.06,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "But",
+  "s": 15.52,
+  "e": 15.86,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "there",
+  "s": 15.86,
+  "e": 16.0,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "is",
+  "s": 16.0,
+  "e": 16.12,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "a",
+  "s": 16.12,
+  "e": 16.26,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "requirement",
+  "s": 16.26,
+  "e": 16.56,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "to",
+  "s": 16.56,
+  "e": 16.78,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "stop",
+  "s": 16.78,
+  "e": 17.06,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "first,",
+  "s": 17.06,
+  "e": 17.5,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "hence",
+  "s": 17.64,
+  "e": 17.76,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "the",
+  "s": 17.76,
+  "e": 17.98,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "red",
+  "s": 17.98,
+  "e": 18.1,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "indication,",
+  "s": 18.1,
+  "e": 18.68,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "double",
+  "s": 19.22,
+  "e": 19.3,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "check,",
+  "s": 19.3,
+  "e": 19.54,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "make",
+  "s": 19.66,
+  "e": 19.76,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "sure",
+  "s": 19.76,
+  "e": 19.94,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "it's",
+  "s": 19.94,
+  "e": 20.12,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "clear",
+  "s": 20.12,
+  "e": 20.26,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "and",
+  "s": 20.26,
+  "e": 20.4,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "then",
+  "s": 20.4,
+  "e": 20.52,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "you",
+  "s": 20.52,
+  "e": 20.64,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "can",
+  "s": 20.64,
+  "e": 20.8,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "proceed.",
+  "s": 20.8,
+  "e": 21.24,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "On",
+  "s": 21.72,
+  "e": 21.84,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "the",
+  "s": 21.84,
+  "e": 22.02,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "red",
+  "s": 22.02,
+  "e": 22.28,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "ball",
+  "s": 22.28,
+  "e": 22.5,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "that's",
+  "s": 22.5,
+  "e": 22.84,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "steady",
+  "s": 22.84,
+  "e": 23.06,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "you",
+  "s": 23.06,
+  "e": 23.24,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "have",
+  "s": 23.24,
+  "e": 23.38,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "to",
+  "s": 23.38,
+  "e": 23.58,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "stay",
+  "s": 23.58,
+  "e": 23.84,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "there",
+  "s": 23.84,
+  "e": 24.02,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "the",
+  "s": 24.02,
+  "e": 24.16,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "whole",
+  "s": 24.16,
+  "e": 24.34,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "time",
+  "s": 24.34,
+  "e": 24.6,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "it's",
+  "s": 24.6,
+  "e": 24.84,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "red.",
+  "s": 24.84,
+  "e": 25.04,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "Right,",
+  "s": 25.18,
+  "e": 25.18,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "so",
+  "s": 25.42,
+  "e": 25.7,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "solid",
+  "s": 25.7,
+  "e": 26.6,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "red",
+  "s": 26.6,
+  "e": 26.96,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "is",
+  "s": 26.96,
+  "e": 27.5,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "like",
+  "s": 27.5,
+  "e": 27.82,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "a",
+  "s": 27.82,
+  "e": 28.06,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "traffic",
+  "s": 28.06,
+  "e": 28.44,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "stop",
+  "s": 28.44,
+  "e": 29.2,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "light.",
+  "s": 29.2,
+  "e": 29.56,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "Correct.",
+  "s": 30.16,
+  "e": 30.16,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "Flashing",
+  "s": 30.66,
+  "e": 30.88,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "red",
+  "s": 30.88,
+  "e": 31.1,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "is",
+  "s": 31.1,
+  "e": 31.26,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "like",
+  "s": 31.26,
+  "e": 31.4,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "a",
+  "s": 31.4,
+  "e": 31.58,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "stop",
+  "s": 31.58,
+  "e": 31.78,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "sign.",
+  "s": 31.78,
+  "e": 32.32,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "Yes.",
+  "s": 33.24,
+  "e": 33.36,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "Is",
+  "s": 33.56,
+  "e": 33.6,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "that",
+  "s": 33.6,
+  "e": 33.66,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "the",
+  "s": 33.66,
+  "e": 33.82,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "best",
+  "s": 33.82,
+  "e": 33.98,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "way",
+  "s": 33.98,
+  "e": 34.16,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "to",
+  "s": 34.16,
+  "e": 34.3,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "remember?",
+  "s": 34.3,
+  "e": 34.64,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "Yes,",
+  "s": 34.9,
+  "e": 35.04,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "yes",
+  "s": 35.62,
+  "e": 35.62,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "indeed.",
+  "s": 35.62,
+  "e": 36.04,
+  "speaker": "CITY STAFF"
+ },
+ {
+  "w": "Hopefully",
+  "s": 37.08,
+  "e": 37.38,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "I've",
+  "s": 37.38,
+  "e": 37.6,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "been",
+  "s": 37.6,
+  "e": 37.7,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "doing",
+  "s": 37.7,
+  "e": 37.88,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "it",
+  "s": 37.88,
+  "e": 38.08,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "right.",
+  "s": 38.08,
+  "e": 38.32,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "I",
+  "s": 38.72,
+  "e": 38.84,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "don't,",
+  "s": 38.84,
+  "e": 39.06,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "I'm",
+  "s": 39.54,
+  "e": 39.82,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "like",
+  "s": 39.82,
+  "e": 39.94,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "it's",
+  "s": 39.94,
+  "e": 40.2,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "flashing.",
+  "s": 40.2,
+  "e": 40.68,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "Can",
+  "s": 42.56,
+  "e": 43.04,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "I",
+  "s": 43.04,
+  "e": 43.4,
+  "speaker": "COUNCIL MEMBER"
+ },
+ {
+  "w": "go?",
+  "s": 43.4,
+  "e": 43.78,
+  "speaker": "COUNCIL MEMBER"
+ }
+]

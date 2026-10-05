@@ -3,3 +3,4 @@ __pycache__/
 projects/*/work/original.mp3
 projects/*/work/run.log
 projects/*/work/*.partial
+projects/*/work/download.*

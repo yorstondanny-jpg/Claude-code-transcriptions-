@@ -1,0 +1,50 @@
+[
+ {
+  "speaker": "COUNCIL MEMBER",
+  "s": 0.78,
+  "e": 2.16,
+  "text": "What's the flashing red?"
+ },
+ {
+  "speaker": "CITY STAFF",
+  "s": 2.7,
+  "e": 25.04,
+  "text": "So the flashing red is kind of meant to emulate what's available at railroad signals and typically the requirement for the motorists is to stop, double check that it's clear and if it's clear then the motorists can proceed through the crosswalk. But there is a requirement to stop first, hence the red indication, double check, make sure it's clear and then you can proceed. On the red ball that's steady you have to stay there the whole time it's red."
+ },
+ {
+  "speaker": "COUNCIL MEMBER",
+  "s": 25.18,
+  "e": 32.32,
+  "text": "Right, so solid red is like a traffic stop light. Correct. Flashing red is like a stop sign."
+ },
+ {
+  "speaker": "CITY STAFF",
+  "s": 33.24,
+  "e": 33.36,
+  "text": "Yes."
+ },
+ {
+  "speaker": "COUNCIL MEMBER",
+  "s": 33.56,
+  "e": 34.64,
+  "text": "Is that the best way to remember?"
+ },
+ {
+  "speaker": "CITY STAFF",
+  "s": 34.9,
+  "e": 36.04,
+  "text": "Yes, yes indeed."
+ },
+ {
+  "speaker": "COUNCIL MEMBER",
+  "s": 37.08,
+  "e": 40.68,
+  "text": "Hopefully I've been doing it right. I don't, I'm like it's flashing."
+ },
+ {
+  "speaker": "COUNCIL MEMBER",
+  "s": 42.56,
+  "e": 43.78,
+  "text": "Can I go?"
+ }
+]
