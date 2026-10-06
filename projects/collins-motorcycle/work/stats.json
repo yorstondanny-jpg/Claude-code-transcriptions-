@@ -1,0 +1,498 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 815.44,
+   "next": 818.6,
+   "speaker": "JUSTICE GINSBURG",
+   "before": "the defendant and the homeowner. But suppose there weren't that close relationship. Suppose it was a brand new girlfriend and he never stayed overnight, he was hopeful, but he hadn't.",
+   "pause": 3.16,
+   "loud_s": 2.9,
+   "mean_over": 19.2,
+   "peak_over": 28.0,
+   "size": "medium"
+  },
+  {
+   "t": 1190.9,
+   "next": 1191.1,
+   "speaker": "JUSTICE BREYER",
+   "before": "access. And I think it would be -- No, I know that, but I'm saying if he'd had access to it. If they'd said please come to my curtilage. All right?",
+   "pause": 0.2,
+   "loud_s": 0.05,
+   "mean_over": 17.7,
+   "peak_over": 17.7,
+   "size": "under speech"
+  },
+  {
+   "t": 1855.4,
+   "next": 1855.4,
+   "speaker": "MR. COX",
+   "before": "of residential purposes. They might have storage out there, an extra refrigerator. Somebody might be living out there, if the teenager gets too rambunctious, put them out in the garage.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1927.44,
+   "next": 1928.66,
+   "speaker": "JUSTICE BREYER",
+   "before": "hypothetical, I don't see any. Okay. So, fine. Okay. Now, the other Hornbook principle is it's not The Thinker, it's a wisp, a wispy bit of very suspicious drug smoke.",
+   "pause": 1.22,
+   "loud_s": 0.25,
+   "mean_over": 12.1,
+   "peak_over": 18.7,
+   "size": "small"
+  },
+  {
+   "t": 2735.02,
+   "next": 2735.2,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "not, you know, Jay Leno's house, right, where he's got dozens of rare cars or -- or the Porsche in Ferris Bueller. I mean, you -- you're saying that you -- you don't --",
+   "pause": 0.18,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -51.7,
+ "opening_start": 6.88,
+ "opening": [
+  [
+   6.88,
+   "MR. FITZGERALD",
+   "Thank you, Mr. Chief Justice, and may it please the Court: The warrant requirement for the home and curtilage cannot be overthrown by the automobile exception. Under the Commonwealth's argument, on probable cause alone, an officer may search a vehicle anywhere that he finds it and may go anywhere that he needs to in order to access that vehicle. That rule cannot survive foundational Fourth Amendment principles. Searches of the home and curtilage without a warrant are presumptively unreasonable, as this Court has often recognized. So the rule we ask this Court to adopt is that the automobile exception does not apply to a vehicle found in the curtilage of the home."
+  ],
+  [
+   54.02,
+   "JUSTICE GINSBURG",
+   "Suppose the -- the police have probable cause to believe that the vehicle is stolen and they even get a warrant to inspect the vehicle. But the vehicle is parked in this port. Do they need -- do they need a warrant to go get the car for which they have a warrant?"
+  ],
+  [
+   91.24,
+   "MR. FITZGERALD",
+   "Well, Your Honor, the -- the warrant would specify the place to be searched for the car. And so, commonly, a warrant would say, for instance, the dwelling and curtilage to look for this motorcycle. So the warrant that authorizes the search of the motorcycle would, by its terms, authorize the intrusion into the curtilage to look for --"
+  ],
+  [
+   108.96,
+   "JUSTICE ALITO",
+   "But what if it didn't? So they have a warrant here, let's say, to search for -- they have probable cause to search this thing covered by a -- a tarp. They have a warrant to search this motorcycle because it's been involved in criminal activity. They want to get the vehicle identification number from it. And they see it. Let's say it's parked two feet from the curb. But arguably -- or it's parked where it is here, maybe in the curtilage, maybe not in the curtilage. The -- that warrant would be insufficient?"
+  ],
+  [
+   143.42,
+   "MR. FITZGERALD",
+   "Well, Your Honor, the Fourth Amendment, by its terms, requires a warrant to specify the place to be searched. So if they've seen the motorcycle in that spot and they get a warrant, the warrant would say this house on Dellmead Avenue, may have included the picture, and it would, by its terms, authorize the access to that."
+  ],
+  [
+   160.94,
+   "JUSTICE ALITO",
+   "And this is my question about your argument based on the curtilage. We -- we ask whether a search within or outside the curtilage in order to determine whether the Fourth Amendment applies at all. But that's not really the question here because there is probable cause, and there is the motor vehicle exception to the warrant requirement. So the issue is not whether there was a search. Yes, there was a search."
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2017/16-1027",
+  "page_url": "https://www.oyez.org/cases/2017/16-1027",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 29, 2018",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24738",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2017/16-1027/16-1027_20180529-opinion.delivery.mp3",
+  "duration": 346.409796,
+  "mp3_bytes": 1415517,
+  "asr_elapsed_s": 194.0,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   759,
+   786,
+   778
+  ],
+  "diffs": [
+   [
+    0.68,
+    "No. 16 -1027,",
+    "16-1027,"
+   ],
+   [
+    7.98,
+    "Sotomayor",
+    ""
+   ],
+   [
+    20.02,
+    "curdleage",
+    "curtilage"
+   ],
+   [
+    27.16,
+    "Rhoads,",
+    "Rhodes,"
+   ],
+   [
+    35.5,
+    "Rhoads",
+    "Rhodes"
+   ],
+   [
+    48.84,
+    "he",
+    ""
+   ],
+   [
+    57.12,
+    "Rhoads",
+    "Rhodes"
+   ],
+   [
+    82.18,
+    "Rhoads",
+    "Rhodes"
+   ],
+   [
+    84.38,
+    "curdleage",
+    "curtilage"
+   ],
+   [
+    113.1,
+    "curdleage",
+    "curtilage"
+   ],
+   [
+    143.78,
+    "curdleage,",
+    "curtilage,"
+   ],
+   [
+    155.3,
+    "curdleage",
+    "curtilage"
+   ],
+   [
+    172.6,
+    "curdleage.",
+    "curtilage."
+   ],
+   [
+    178.28,
+    "curdleage",
+    "curtilage"
+   ],
+   [
+    179.26,
+    "the motor of",
+    ""
+   ],
+   [
+    197.72,
+    "curdleage",
+    "curtilage"
+   ],
+   [
+    214.26,
+    "a",
+    ""
+   ],
+   [
+    255.32,
+    "interest",
+    "interests"
+   ],
+   [
+    265.04,
+    "interest",
+    "interests"
+   ],
+   [
+    267.3,
+    "curdleage.",
+    "curtilage."
+   ],
+   [
+    296.22,
+    "curdleage,",
+    "cartilage,"
+   ],
+   [
+    301.34,
+    "curdleage",
+    "curtilage"
+   ],
+   [
+    328.04,
+    "curdleage.",
+    "curtilage."
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 786,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "In Case No. 16-1027, Collins v. Virginia, Justice Sotomayor has the opinion for the Court."
+   ],
+   [
+    7.98,
+    "JUSTICE SOTOMAYOR",
+    "Sotomayor This case presents the question whether the automobile exception to the Fourth Amendment permits a police officer, uninvited and without a warrant, to intrude upon the curdleage of a home to search a vehicle parked therein. We hold that it does not. David Rhoads, a police officer in Virginia, was investigating two traffic incidents involving a motorcyclist. After Officer Rhoads learned that the motorcycle likely was stolen and in the possession of petitioner Ryan Collins, he went to Collins' house. From his position on the street, he saw what he appeared to be a motorcycle under a white tarp near the top of the driveway. Acting without a search warrant, Officer Rhoads walked onto the property and up to the motorcycle. He removed the tarp to reveal the license plate and vehicle identification numbers and ran a search of those numbers to confirm that the motorcycle was stolen. He then waited for Collins to return home and arrested him for receiving stolen property. Collins filed a motion to suppress, arguing that Officer Rhoads had trespassed on his curdleage to conduct an investigation in violation of the Fourth Amendment. The trial court denied the motion, and the Court of Appeals of Virginia affirmed, as did the Supreme Court of Virginia, which reasoned that the search was justified pursuant to the automobile exception. This case arises at the intersection of two aspects of our Fourth Amendment jurisprudence. The automobile exception and the protection extended to the curdleage of a house. As to the first, the Court has held that the search of an automobile can be reasonable without a warrant because of the readily mobility of automobiles and the pervasive regulation of vehicles capable of traveling on public highways. In announcing these rationales, the Court emphasized that they apply only to automobiles and not to houses. As to the second, the Court has long made clear that curdleage, the area immediately surrounding and associated with the home, is considered part of the home itself for Fourth Amendment purposes. An intrusion on the curdleage by a law enforcement officer to gather evidence is a search, and such conduct is presumptively unreasonable without a warrant. For reasons we explained in our opinion, the part of the driveway where Collins Motorcycle was searched is curdleage. Virginia contends that Officer Rhodes' intrusion on the curdleage to search the motor of the"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "In Case No. 16-1027, Collins v. Virginia, Justice Sotomayor has the opinion for the Court."
+   ],
+   [
+    7.98,
+    "JUSTICE SOTOMAYOR",
+    "Sotomayor This case presents the question whether the automobile exception to the Fourth Amendment permits a police officer, uninvited and without a warrant, to intrude upon the curdleage of a home to search a vehicle parked therein. We hold that it does not. David Rhoads, a police officer in Virginia, was investigating two traffic incidents involving a motorcyclist. After Officer Rhoads learned that the motorcycle likely was stolen and in the possession of petitioner Ryan Collins, he went to Collins' house. From his position on the street, he saw what he appeared to be a motorcycle under a white tarp near the top of the driveway. Acting without a search warrant, Officer Rhoads walked onto the property and up to the motorcycle. He removed the tarp to reveal the license plate and vehicle identification numbers and ran a search of those numbers to confirm that the motorcycle was stolen. He then waited for Collins to return home and arrested him for receiving stolen property. Collins filed a motion to suppress, arguing that Officer Rhoads had trespassed on his curdleage to conduct an investigation in violation of the Fourth Amendment. The trial court denied the motion, and the Court of Appeals of Virginia affirmed, as did the Supreme Court of Virginia, which reasoned that the search was justified pursuant to the automobile exception. This case arises at the intersection of two aspects of our Fourth Amendment jurisprudence. The automobile exception and the protection extended to the curdleage of a house. As to the first, the Court has held that the search of an automobile can be reasonable without a warrant because of the readily mobility of automobiles and the pervasive regulation of vehicles capable of traveling on public highways. In announcing these rationales, the Court emphasized that they apply only to automobiles and not to houses. As to the second, the Court has long made clear that curdleage, the area immediately surrounding and associated with the home, is considered part of the home itself for Fourth Amendment purposes. An intrusion on the curdleage by a law enforcement officer to gather evidence is a search, and such conduct is presumptively unreasonable without a warrant. For reasons we explained in our opinion, the part of the driveway where Collins Motorcycle was searched is curdleage. Virginia contends that Officer Rhodes' intrusion on the curdleage to search the motor of the motorcycle was justified by the automobile exception. We disagree. The scope of the automobile exception extends no further than the automobile itself. It does not give an officer the right to enter a home or its curdleage to access a vehicle without a warrant. The Court has similarly declined to expand the scope of other exceptions to the warrant requirement, and that logic applies equally well here. Under the plain view doctrine, an officer must have a lawful right of access to any contraband he discovers in plain view in order to seize it without a warrant. Likewise, although warrantless arrests in public places are valid, an officer generally may not enter a home to make an arrest without a warrant. So, too, an officer must have a lawful right of access to a vehicle in order to search it pursuant to the automobile exception. The automobile exception itself does not afford that necessary right of access because the rationales underlying it take account only of the balance between the intrusion of an individual's Fourth Amendment interest in his vehicle and the government's interest in an expedient search of that vehicle. They do not account for the distinct privacy interest in one's home or curdleage. Virginia argues that the Court's precedent indicates that the automobile exception is a categorical one that permits the warrantless search of a vehicle anytime, anywhere, but that the precedents on which it relies are neither dispositive nor persuasive. Alternatively, Virginia urges a compromise position, which is that the automobile exception permits warrantless entry into some types of curdleage, but not into a fixed, enclosed structure inside the curdleage or into the home. This carve-out approach, however, is likely to create confusion for officers, is rooted in a mistaken premise about the significance of visual observation, and deprives those persons without the financial means to afford garages of any individualized determination as to whether the areas in which they store their vehicles qualify as curdleage. For these and other reasons set forth in our opinion, we reverse the judgment of the Supreme Court of Virginia and remand for further proceedings not inconsistent with this opinion. Justice Thomas has filed a concurring opinion. Justice Alito has filed a dissenting opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "In Case No. 16-1027, Collins v. Virginia, Justice Sotomayor has the opinion for the Court."
+   ],
+   [
+    7.98,
+    "JUSTICE SOTOMAYOR",
+    "Sotomayor This case presents the question whether the automobile exception to the Fourth Amendment permits a police officer, uninvited and without a warrant, to intrude upon the curdleage of a home to search a vehicle parked therein."
+   ],
+   [
+    23.86,
+    "JUSTICE SOTOMAYOR",
+    "We hold that it does not."
+   ],
+   [
+    26.6,
+    "JUSTICE SOTOMAYOR",
+    "David Rhoads, a police officer in Virginia, was investigating two traffic incidents involving a motorcyclist."
+   ],
+   [
+    33.82,
+    "JUSTICE SOTOMAYOR",
+    "After Officer Rhoads learned that the motorcycle likely was stolen and in the possession of petitioner Ryan Collins, he went to Collins' house."
+   ],
+   [
+    45.48,
+    "JUSTICE SOTOMAYOR",
+    "From his position on the street, he saw what he appeared to be a motorcycle under a white tarp near the top of the driveway."
+   ],
+   [
+    53.44,
+    "JUSTICE SOTOMAYOR",
+    "Acting without a search warrant, Officer Rhoads walked onto the property and up to the motorcycle."
+   ],
+   [
+    60.82,
+    "JUSTICE SOTOMAYOR",
+    "He removed the tarp to reveal the license plate and vehicle identification numbers and ran a search of those numbers to confirm that the motorcycle was stolen."
+   ],
+   [
+    71.62,
+    "JUSTICE SOTOMAYOR",
+    "He then waited for Collins to return home and arrested him for receiving stolen property."
+   ],
+   [
+    78.44,
+    "JUSTICE SOTOMAYOR",
+    "Collins filed a motion to suppress, arguing that Officer Rhoads had trespassed on his curdleage to conduct an investigation in violation of the Fourth Amendment."
+   ],
+   [
+    89.56,
+    "JUSTICE SOTOMAYOR",
+    "The trial court denied the motion, and the Court of Appeals of Virginia affirmed, as did the Supreme Court of Virginia, which reasoned that the search was justified pursuant to the automobile exception."
+   ],
+   [
+    103.26,
+    "JUSTICE SOTOMAYOR",
+    "This case arises at the intersection of two aspects of our Fourth Amendment jurisprudence."
+   ],
+   [
+    108.78,
+    "JUSTICE SOTOMAYOR",
+    "The automobile exception and the protection extended to the curdleage of a house."
+   ],
+   [
+    115.06,
+    "JUSTICE SOTOMAYOR",
+    "As to the first, the Court has held that the search of an automobile can be reasonable without a warrant because of the readily mobility of automobiles and the pervasive regulation of vehicles capable of traveling on public highways."
+   ],
+   [
+    131.1,
+    "JUSTICE SOTOMAYOR",
+    "In announcing these rationales, the Court emphasized that they apply only to automobiles and not to houses."
+   ],
+   [
+    139.62,
+    "JUSTICE SOTOMAYOR",
+    "As to the second, the Court has long made clear that curdleage, the area immediately surrounding and associated with the home, is considered part of the home itself for Fourth Amendment purposes."
+   ],
+   [
+    154.22,
+    "JUSTICE SOTOMAYOR",
+    "An intrusion on the curdleage by a law enforcement officer to gather evidence is a search, and such conduct is presumptively unreasonable without a warrant."
+   ],
+   [
+    165.14,
+    "JUSTICE SOTOMAYOR",
+    "For reasons we explained in our opinion, the part of the driveway where Collins Motorcycle was searched is curdleage."
+   ],
+   [
+    174.66,
+    "JUSTICE SOTOMAYOR",
+    "Virginia contends that Officer Rhodes' intrusion on the curdleage to search the motor of the motorcycle was justified by the automobile exception."
+   ],
+   [
+    185.36,
+    "JUSTICE SOTOMAYOR",
+    "We disagree."
+   ],
+   [
+    187.36,
+    "JUSTICE SOTOMAYOR",
+    "The scope of the automobile exception extends no further than the automobile itself."
+   ],
+   [
+    193.06,
+    "JUSTICE SOTOMAYOR",
+    "It does not give an officer the right to enter a home or its curdleage to access a vehicle without a warrant."
+   ],
+   [
+    201.4,
+    "JUSTICE SOTOMAYOR",
+    "The Court has similarly declined to expand the scope of other exceptions to the warrant requirement, and that logic applies equally well here."
+   ],
+   [
+    210.74,
+    "JUSTICE SOTOMAYOR",
+    "Under the plain view doctrine, an officer must have a lawful right of access to any contraband he discovers in plain view in order to seize it without a warrant."
+   ],
+   [
+    223.34,
+    "JUSTICE SOTOMAYOR",
+    "Likewise, although warrantless arrests in public places are valid, an officer generally may not enter a home to make an arrest without a warrant."
+   ],
+   [
+    233.58,
+    "JUSTICE SOTOMAYOR",
+    "So, too, an officer must have a lawful right of access to a vehicle in order to search it pursuant to the automobile exception."
+   ],
+   [
+    242.86,
+    "JUSTICE SOTOMAYOR",
+    "The automobile exception itself does not afford that necessary right of access because the rationales underlying it take account only of the balance between the intrusion of an individual's Fourth Amendment interest in his vehicle and the government's interest in an expedient search of that vehicle."
+   ],
+   [
+    261.7,
+    "JUSTICE SOTOMAYOR",
+    "They do not account for the distinct privacy interest in one's home or curdleage."
+   ],
+   [
+    268.92,
+    "JUSTICE SOTOMAYOR",
+    "Virginia argues that the Court's precedent indicates that the automobile exception is a categorical one that permits the warrantless search of a vehicle anytime, anywhere, but that the precedents on which it relies are neither dispositive nor persuasive."
+   ],
+   [
+    287.14,
+    "JUSTICE SOTOMAYOR",
+    "Alternatively, Virginia urges a compromise position, which is that the automobile exception permits warrantless entry into some types of curdleage, but not into a fixed, enclosed structure inside the curdleage or into the home."
+   ],
+   [
+    303.8,
+    "JUSTICE SOTOMAYOR",
+    "This carve-out approach, however, is likely to create confusion for officers, is rooted in a mistaken premise about the significance of visual observation, and deprives those persons without the financial means to afford garages of any individualized determination as to whether the areas in which they store their vehicles qualify as curdleage."
+   ],
+   [
+    329.12,
+    "JUSTICE SOTOMAYOR",
+    "For these and other reasons set forth in our opinion, we reverse the judgment of the Supreme Court of Virginia and remand for further proceedings not inconsistent with this opinion."
+   ],
+   [
+    340.16,
+    "JUSTICE SOTOMAYOR",
+    "Justice Thomas has filed a concurring opinion."
+   ],
+   [
+    343.06,
+    "JUSTICE SOTOMAYOR",
+    "Justice Alito has filed a dissenting opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.8,
+    15
+   ],
+   [
+    "JUSTICE SOTOMAYOR",
+    7.98,
+    345.44,
+    769
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "16-1027",
+ "year": "2017",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2017/16-1027",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/16-1027.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/16-1027_p4k8.pdf",
+ "model": "medium.en",
+ "duration": 3315.288,
+ "asr_elapsed_s": 2273.6,
+ "asr_words": 9412,
+ "official_words": 9783,
+ "matched": 9187,
+ "shared": 9,
+ "clamped": 0,
+ "trimmed": 21,
+ "rewindowed": 2,
+ "match_rate": 93.90779924358581,
+ "turns": 276,
+ "laugh_markers": 5,
+ "mp3_bytes": 26522541,
+ "pauses": 341,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 396,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.91% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-06"
+}
