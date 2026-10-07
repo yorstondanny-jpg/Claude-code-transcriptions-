@@ -1,0 +1,520 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-848.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-848/20051107a_04-848.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 563.36,
+   "next": 566.08,
+   "speaker": "JUSTICE SCALIA",
+   "before": "resulting from the accident. It would be precisely the same conduct. Precisely the same under our interpretation of -- That is a good answer. I'm glad you came up with that.",
+   "pause": 2.72,
+   "loud_s": 2.35,
+   "mean_over": 19.8,
+   "peak_over": 27.8,
+   "size": "medium"
+  },
+  {
+   "t": 697.8,
+   "next": 698.44,
+   "speaker": "JUSTICE BREYER",
+   "before": "So, if, in fact, they -- the Post Office negligently delays the knowledge that would come to me in the letter, that I have 15 days to claim my billion-dollar inheritance --",
+   "pause": 0.64,
+   "loud_s": 0.1,
+   "mean_over": 13.0,
+   "peak_over": 20.0,
+   "size": "small"
+  },
+  {
+   "t": 723.24,
+   "next": 723.66,
+   "speaker": "JUSTICE BREYER",
+   "before": "they do is, he puts the mail on the porch, my package, and he rips it open, negligently; and there for everyone to see is the toupee that I ordered.",
+   "pause": 0.42,
+   "loud_s": 0.0,
+   "mean_over": 4.8,
+   "peak_over": 8.5,
+   "size": "small"
+  },
+  {
+   "t": 729.46,
+   "next": 733.94,
+   "speaker": "JUSTICE BREYER",
+   "before": "it open, negligently; and there for everyone to see is the toupee that I ordered. And I sue -- I sue for public humiliation. See? I mean, what about that one?",
+   "pause": 4.48,
+   "loud_s": 3.7,
+   "mean_over": 24.9,
+   "peak_over": 36.6,
+   "size": "big"
+  },
+  {
+   "t": 736.02,
+   "next": 736.4,
+   "speaker": "MR. RADMORE",
+   "before": "for everyone to see is the toupee that I ordered. And I sue -- I sue for public humiliation. See? I mean, what about that one? I have that same problem.",
+   "pause": 0.38,
+   "loud_s": 0.2,
+   "mean_over": 31.4,
+   "peak_over": 35.6,
+   "size": "small"
+  },
+  {
+   "t": 1611.38,
+   "next": 1611.64,
+   "speaker": "MS. MILLETT",
+   "before": "letterbomb or, unfortunately, anthrax, or biohazards -- I mean, we ship poisons, we ship medical specimens, we ship live alligators. I mean, every -- you wouldn't believe what goes into the mail.",
+   "pause": 0.26,
+   "loud_s": 0.0,
+   "mean_over": 7.2,
+   "peak_over": 8.6,
+   "size": "under speech"
+  },
+  {
+   "t": 1678.86,
+   "next": 1678.9,
+   "speaker": "JUSTICE BREYER",
+   "before": "driving a postal truck or leaving something on a porch that somebody trips over or walking along the street swinging the live alligator over your head, or whatever you do \u2013-",
+   "pause": 0.04,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1939.24,
+   "next": 1939.76,
+   "speaker": "JUSTICE BREYER",
+   "before": "in the truck, so my skis, which I have shipped by mail, happen to stick out the side, and, as he walk -- drives along, he just mows down the pedestrians.",
+   "pause": 0.52,
+   "loud_s": 0.1,
+   "mean_over": 10.9,
+   "peak_over": 15.3,
+   "size": "small"
+  },
+  {
+   "t": 3215.08,
+   "next": 3215.08,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "his rebuttal. Do you have any -- I mean, you'll be responsible, if you prevail, for all of us having to go down to the Post Office every time we get --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3222.06,
+   "next": 3222.9,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "having to go down to the Post Office every time we get -- -- packages. I mean, it there -- Well, then I'll probably -- -- do you have any response to that policy concern?",
+   "pause": 0.84,
+   "loud_s": 0.65,
+   "mean_over": 23.0,
+   "peak_over": 26.2,
+   "size": "medium"
+  },
+  {
+   "t": 3225.88,
+   "next": 3229.7,
+   "speaker": "MS. MILLETT",
+   "before": "we get -- -- packages. I mean, it there -- Well, then I'll probably -- -- do you have any response to that policy concern? Then I'll probably be subject to some intentional torts, myself.",
+   "pause": 3.82,
+   "loud_s": 1.5,
+   "mean_over": 16.8,
+   "peak_over": 24.5,
+   "size": "medium"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -50.9,
+ "opening_start": 7.16,
+ "opening": [
+  [
+   7.16,
+   "MR. RADMORE",
+   "Mr. Chief Justice, and may it please the Court: The Federal Tort Claims Act's postal-matter exception bars any claim arising out of the failure of the Postal Service to fulfill its duty to deliver mail to its intended destination on time and in good condition, but does not bar any claim arising out of ordinary negligence that happens to occur while the tortfeasor is delivering mail. The Petitioner's construction shields the Government from all claims arising out of loss or damage or delay or destruction of the mail, while allowing claims that do not stem from all -- do not stem from the violation of the unique duty of the Postal Service to make sure that the mail arrives on time and in good condition. It is the construction most faithful with the text and purpose of the Federal Tort Claims Act. The exception bars any claims, whether for personal injury or property damage, that arise while the mail is -- if the mail is lost, misdelivered, damaged, or delayed. The Government argues for a much broader construction that would bar all claims that arise from the handling of mail. The Government's construction depends on a definition of transmission of the mail, viewed in isolation from the rest --"
+  ],
+  [
+   98.66,
+   "JUSTICE O'CONNOR",
+   "Mr. Radmore, what was the purpose of the enactment of the waiver of Federal sovereign immunity here? Was it to allow recovery for auto accidents occurring by postal trucks?"
+  ],
+  [
+   115.04,
+   "MR. RADMORE",
+   "Well, the --"
+  ],
+  [
+   116.42,
+   "JUSTICE O'CONNOR",
+   "Was that basically the purpose?"
+  ],
+  [
+   118.38,
+   "MR. RADMORE",
+   "Justice O'Connor, this Court's decision in Kosak tells us that one of the main purposes in enacting the Federal Tort Claims Act was to allow private persons to be able to make claims against the Postal Service from motor vehicle --"
+  ],
+  [
+   133.58,
+   "JUSTICE O'CONNOR",
+   "Arising --"
+  ],
+  [
+   134.04,
+   "MR. RADMORE",
+   "-- accidents."
+  ],
+  [
+   134.04,
+   "JUSTICE O'CONNOR",
+   "-- out of auto accidents."
+  ],
+  [
+   135.4,
+   "MR. RADMORE",
+   "Correct."
+  ],
+  [
+   136.88,
+   "JUSTICE O'CONNOR",
+   "And do we normally construe waivers of sovereign immunity narrowly?"
+  ],
+  [
+   144.0,
+   "MR. RADMORE",
+   "Well, once you --"
+  ],
+  [
+   145.58,
+   "JUSTICE O'CONNOR",
+   "I thought we did."
+  ],
+  [
+   148.38,
+   "MR. RADMORE",
+   "But once there's a broad waiver --"
+  ],
+  [
+   150.74,
+   "JUSTICE O'CONNOR",
+   "For auto accidents."
+  ],
+  [
+   152.1,
+   "MR. RADMORE",
+   "Well --"
+  ],
+  [
+   152.12,
+   "JUSTICE O'CONNOR",
+   "Now, why should we interpret the exception broadly?"
+  ],
+  [
+   159.56,
+   "MR. RADMORE",
+   "Well, the exception -- this Court has told us, in both Smith and Kosak, that it is the -- the lower courts and this Court, when they're viewing an exception to the Federal Tort Claims Act -- that they shouldn't extend the waiver, nor should they view it more narrowly, that they should look at the waiver -- they should look at the exception and make a determination as to what the meaning of the words are, and"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2005/04-848",
+  "page_url": "https://www.oyez.org/cases/2005/04-848",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - February 22, 2006",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/21821",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-848/20060222o_04-848.delivery.mp3",
+  "duration": 180.114256,
+  "mp3_bytes": 809161,
+  "asr_elapsed_s": 90.2,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   510,
+   527,
+   522
+  ],
+  "diffs": [
+   [
+    74.86,
+    "terms",
+    "turns"
+   ],
+   [
+    78.86,
+    "proclaims",
+    "\u201cfor claims"
+   ],
+   [
+    80.64,
+    "the",
+    "a"
+   ],
+   [
+    129.04,
+    "that would",
+    "which"
+   ],
+   [
+    142.8,
+    "Kozak",
+    "Kosak"
+   ],
+   [
+    172.04,
+    "Third",
+    "3rd"
+   ],
+   [
+    178.28,
+    "of the",
+    "or"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 527,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has the opinion in No. 04848, Dolan v. The United States Postal Service."
+   ],
+   [
+    7.8,
+    "JUSTICE KENNEDY",
+    "As the Chief Justice indicates, this is our opinion in Dolan v. United States Postal Service. Barbara Dolan alleged that the United States Postal Service left mail on her front porch at her residence and that that caused her to slip and fall. She sued the Postal Service for resulting injuries. The district court and the court of appeals ordered her suit dismissed. And now Mrs. Dolan is the Petitioner in this Court, and she asks us to rule that the suit can proceed. The Postal Service is an independent establishment of the government of the United States. That means that it enjoys immunity from suit unless the immunity has been waived. The question here is whether there has been a waiver for suits of this type. The case turns on provisions of the Federal Tort Claims Act. The Act contains a broad waiver of immunity, but the waiver has some exceptions. If one of the exceptions applies, then the immunity from suit has been retained. The exception relevant to this case specifically applies to the Postal Service, and the question we must decide is how far that exception extends. By terms of the exception, immunity is retained, which means suit is barred, proclaims arising out of the loss, miscarriage, or negligent transmission of letters or postal matters. And the key phrase for us here is the meaning of negligent transmission. If considered in isolation, that term could embrace a wide range of negligent acts committed in the course of delivering mail. This could include the creation of slip and fall hazards from leaving mail packets and parcels on the porch of a customer. The government urges us to adopt that interpretation. It notes that each day the Postal Service delivers some 660 million pieces of mail to as many as 142 million different points. It is obviously concerned, then, with the potential for liability from slip and fall suits. We think, though, that we must read negligent transmission in the statute in light of the more narrow phrase, loss or miscarriage of the mail, phrases that would precede it in the same statutory clause. These words refer to destruction of the mail or delivering to the wrong address or delivering it late. And we do not write on a clean slate in this case. In a decision by this Court in a case called Kozak v. United States, the Court held that this provision does not retain immunity for injuries resulting from auto accidents in which employees of the Postal Service were allegedly at fault. Applying that reasoning here, we think the exception does not extend to this case. The exception, as a general rule, does not go beyond negligence, causing mail to be lost or to arrive late or in damaged condition or at the wrong address. In sum, Mrs. Dolan's suit can proceed, and the judgment of the Court of Appeals for the Third Circuit must be reversed. Justice Thomas has filed a dissenting opinion. Justice Alito took no part in the consideration of the decision of the case."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has the opinion in No. 04848, Dolan v. The United States Postal Service."
+   ],
+   [
+    7.8,
+    "JUSTICE KENNEDY",
+    "As the Chief Justice indicates, this is our opinion in Dolan v. United States Postal Service. Barbara Dolan alleged that the United States Postal Service left mail on her front porch at her residence and that that caused her to slip and fall. She sued the Postal Service for resulting injuries. The district court and the court of appeals ordered her suit dismissed. And now Mrs. Dolan is the Petitioner in this Court, and she asks us to rule that the suit can proceed. The Postal Service is an independent establishment of the government of the United States. That means that it enjoys immunity from suit unless the immunity has been waived. The question here is whether there has been a waiver for suits of this type. The case turns on provisions of the Federal Tort Claims Act. The Act contains a broad waiver of immunity, but the waiver has some exceptions. If one of the exceptions applies, then the immunity from suit has been retained. The exception relevant to this case specifically applies to the Postal Service, and the question we must decide is how far that exception extends. By terms of the exception, immunity is retained, which means suit is barred, proclaims arising out of the loss, miscarriage, or negligent transmission of letters or postal matters. And the key phrase for us here is the meaning of negligent transmission. If considered in isolation, that term could embrace a wide range of negligent acts committed in the course of delivering mail. This could include the creation of slip and fall hazards from leaving mail packets and parcels on the porch of a customer. The government urges us to adopt that interpretation. It notes that each day the Postal Service delivers some 660 million pieces of mail to as many as 142 million different points. It is obviously concerned, then, with the potential for liability from slip and fall suits. We think, though, that we must read negligent transmission in the statute in light of the more narrow phrase, loss or miscarriage of the mail, phrases that would precede it in the same statutory clause. These words refer to destruction of the mail or delivering to the wrong address or delivering it late. And we do not write on a clean slate in this case. In a decision by this Court in a case called Kozak v. United States, the Court held that this provision does not retain immunity for injuries resulting from auto accidents in which employees of the Postal Service were allegedly at fault. Applying that reasoning here, we think the exception does not extend to this case. The exception, as a general rule, does not go beyond negligence, causing mail to be lost or to arrive late or in damaged condition or at the wrong address. In sum, Mrs. Dolan's suit can proceed, and the judgment of the Court of Appeals for the Third Circuit must be reversed. Justice Thomas has filed a dissenting opinion. Justice Alito took no part in the consideration of the decision of the case."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has the opinion in No. 04848, Dolan v. The United States Postal Service."
+   ],
+   [
+    7.8,
+    "JUSTICE KENNEDY",
+    "As the Chief Justice indicates, this is our opinion in Dolan v. United States Postal Service."
+   ],
+   [
+    12.96,
+    "JUSTICE KENNEDY",
+    "Barbara Dolan alleged that the United States Postal Service left mail on her front porch at her residence and that that caused her to slip and fall."
+   ],
+   [
+    21.44,
+    "JUSTICE KENNEDY",
+    "She sued the Postal Service for resulting injuries."
+   ],
+   [
+    24.68,
+    "JUSTICE KENNEDY",
+    "The district court and the court of appeals ordered her suit dismissed."
+   ],
+   [
+    28.16,
+    "JUSTICE KENNEDY",
+    "And now Mrs. Dolan is the Petitioner in this Court, and she asks us to rule that the suit can proceed."
+   ],
+   [
+    34.34,
+    "JUSTICE KENNEDY",
+    "The Postal Service is an independent establishment of the government of the United States."
+   ],
+   [
+    38.74,
+    "JUSTICE KENNEDY",
+    "That means that it enjoys immunity from suit unless the immunity has been waived."
+   ],
+   [
+    45.16,
+    "JUSTICE KENNEDY",
+    "The question here is whether there has been a waiver for suits of this type."
+   ],
+   [
+    49.98,
+    "JUSTICE KENNEDY",
+    "The case turns on provisions of the Federal Tort Claims Act."
+   ],
+   [
+    54.7,
+    "JUSTICE KENNEDY",
+    "The Act contains a broad waiver of immunity, but the waiver has some exceptions."
+   ],
+   [
+    61.14,
+    "JUSTICE KENNEDY",
+    "If one of the exceptions applies, then the immunity from suit has been retained."
+   ],
+   [
+    66.28,
+    "JUSTICE KENNEDY",
+    "The exception relevant to this case specifically applies to the Postal Service, and the question we must decide is how far that exception extends."
+   ],
+   [
+    74.72,
+    "JUSTICE KENNEDY",
+    "By terms of the exception, immunity is retained, which means suit is barred, proclaims arising out of the loss, miscarriage, or negligent transmission of letters or postal matters."
+   ],
+   [
+    86.1,
+    "JUSTICE KENNEDY",
+    "And the key phrase for us here is the meaning of negligent transmission."
+   ],
+   [
+    91.32,
+    "JUSTICE KENNEDY",
+    "If considered in isolation, that term could embrace a wide range of negligent acts committed in the course of delivering mail."
+   ],
+   [
+    97.46,
+    "JUSTICE KENNEDY",
+    "This could include the creation of slip and fall hazards from leaving mail packets and parcels on the porch of a customer."
+   ],
+   [
+    104.54,
+    "JUSTICE KENNEDY",
+    "The government urges us to adopt that interpretation."
+   ],
+   [
+    107.12,
+    "JUSTICE KENNEDY",
+    "It notes that each day the Postal Service delivers some 660 million pieces of mail to as many as 142 million different points."
+   ],
+   [
+    115.4,
+    "JUSTICE KENNEDY",
+    "It is obviously concerned, then, with the potential for liability from slip and fall suits."
+   ],
+   [
+    121.4,
+    "JUSTICE KENNEDY",
+    "We think, though, that we must read negligent transmission in the statute in light of the more narrow phrase, loss or miscarriage of the mail, phrases that would precede it in the same statutory clause."
+   ],
+   [
+    132.36,
+    "JUSTICE KENNEDY",
+    "These words refer to destruction of the mail or delivering to the wrong address or delivering it late."
+   ],
+   [
+    137.98,
+    "JUSTICE KENNEDY",
+    "And we do not write on a clean slate in this case."
+   ],
+   [
+    140.7,
+    "JUSTICE KENNEDY",
+    "In a decision by this Court in a case called Kozak v. United States, the Court held that this provision does not retain immunity for injuries resulting from auto accidents in which employees of the Postal Service were allegedly at fault."
+   ],
+   [
+    154.68,
+    "JUSTICE KENNEDY",
+    "Applying that reasoning here, we think the exception does not extend to this case."
+   ],
+   [
+    159.04,
+    "JUSTICE KENNEDY",
+    "The exception, as a general rule, does not go beyond negligence, causing mail to be lost or to arrive late or in damaged condition or at the wrong address."
+   ],
+   [
+    167.78,
+    "JUSTICE KENNEDY",
+    "In sum, Mrs. Dolan's suit can proceed, and the judgment of the Court of Appeals for the Third Circuit must be reversed."
+   ],
+   [
+    174.02,
+    "JUSTICE KENNEDY",
+    "Justice Thomas has filed a dissenting opinion."
+   ],
+   [
+    176.4,
+    "JUSTICE KENNEDY",
+    "Justice Alito took no part in the consideration of the decision of the case."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    7.14,
+    15
+   ],
+   [
+    "JUSTICE KENNEDY",
+    7.8,
+    179.38,
+    512
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "04-848",
+ "year": "2005",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2005/04-848",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-848/20051107a_04-848.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-848.pdf",
+ "model": "medium.en",
+ "duration": 3413.263673,
+ "asr_elapsed_s": 1767.6,
+ "asr_words": 9417,
+ "official_words": 9712,
+ "matched": 8973,
+ "shared": 6,
+ "clamped": 0,
+ "trimmed": 35,
+ "rewindowed": 3,
+ "match_rate": 92.39085667215815,
+ "turns": 408,
+ "laugh_markers": 11,
+ "mp3_bytes": 27331470,
+ "pauses": 344,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": [
+    [
+     "2680(c)",
+     527.44,
+     531.0
+    ]
+   ]
+  },
+  "short_words": 409,
+  "match_rate": {
+   "ok": true,
+   "detail": "92.39% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-07"
+}

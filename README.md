@@ -16,6 +16,7 @@ word by word to the official text.
 | [lozman-house](projects/lozman-house/) | Lozman v. City of Riviera Beach, Florida, No. 11-626 | 1 October 2012 |
 | [star-athletica-uniform](projects/star-athletica-uniform/) | Star Athletica, L.L.C. v. Varsity Brands, Inc., No. 15-866 | 31 October 2016 |
 | [yates-fish](projects/yates-fish/) | Yates v. United States, No. 13-7451 (plus the opinion announcement) | 5 November 2014 |
+| [dolan-mail](projects/dolan-mail/) | Dolan v. United States Postal Service, No. 04-848 (argument audio from Oyez; plus the opinion announcement; Reel prep in reel-prep.md) | 7 November 2005 |
 | [collins-motorcycle](projects/collins-motorcycle/) | Collins v. Virginia, No. 16-1027 (plus the opinion announcement) | 9 January 2018 |
 | [jones-gps](projects/jones-gps/) | United States v. Jones, No. 10-1259 (plus the opinion announcement) | 8 November 2011 |
 | [dubin-identity](projects/dubin-identity/) | Dubin v. United States, No. 22-10 (plus the opinion announcement) | 27 February 2023 |
