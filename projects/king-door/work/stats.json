@@ -1,0 +1,349 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 463.28,
+   "next": 463.44,
+   "speaker": "JUSTICE SCALIA",
+   "before": "Probable cause beyond thinking that the evidence -- Beyond the reasonable belief -- -- is being destroyed? Yes. Correct. Okay. That is correct. It might just be somebody going to the toilet, right?",
+   "pause": 0.16,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 762.04,
+   "next": 763.62,
+   "speaker": "JUSTICE SCALIA",
+   "before": "surrounding circumstances, that exigent circumstances may not have existed. What if -- what if the defendants here had not flushed the evidence down but had answered the door and said \"Yes?\"?",
+   "pause": 1.58,
+   "loud_s": 0.2,
+   "mean_over": 11.6,
+   "peak_over": 23.6,
+   "size": "small"
+  },
+  {
+   "t": 861.44,
+   "next": 861.44,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "But -- this may be a bit rudimentary, but can you tell me why isn't the evidence always being destroyed when the marijuana is being smoked? Isn't it being burnt up?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1068.58,
+   "next": 1071.32,
+   "speaker": "JUSTICE SCALIA",
+   "before": "I guess that a person is entitled to do that. I don't recall it ever happening to me, but maybe -- maybe I'm a likable fellow and people open the door.",
+   "pause": 2.74,
+   "loud_s": 0.95,
+   "mean_over": 14.5,
+   "peak_over": 23.2,
+   "size": "medium"
+  },
+  {
+   "t": 1988.26,
+   "next": 1988.9,
+   "speaker": "JUSTICE SCALIA",
+   "before": "problem I have is there are a lot of constraints on -- on law enforcement, and the one thing that -- that it has going for it is that criminals are stupid.",
+   "pause": 0.64,
+   "loud_s": 0.0,
+   "mean_over": 4.1,
+   "peak_over": 7.4,
+   "size": "small"
+  },
+  {
+   "t": 2376.0,
+   "next": 2376.0,
+   "speaker": "JUSTICE BREYER",
+   "before": "circumstances -- and I would think it's reasonably foreseeable, when you knock on the door very politely and say \"The police,\" that somebody might shout out \"Hide the pot\"; all right?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3459.96,
+   "next": 3459.96,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "in that case, suppression -- once they have entry, the evidence would be suppressed. But they can't gain entry by deception. They can't knock on the door and say \"Pizza\"; right?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -50.1,
+ "opening_start": 10.1,
+ "opening": [
+  [
+   10.1,
+   "MR. FARLEY",
+   "Mr. Chief Justice, and may it please the Court: The issue before you today, of whether or not police can impermissibly create exigent circumstances, arises from the improper suppression of reasonably seized evidence after a reasonable warrantless entry. The test set forth by the Kentucky Supreme Court is improper for several reasons, the first of which is that this Court has routinely held that the subjective intent of police officers when effecting a warrantless entry is irrelevant."
+  ],
+  [
+   42.98,
+   "JUSTICE GINSBURG",
+   "Where did the -- where did the Kentucky Supreme Court -- where did the Kentucky Supreme Court say that it was looking to a subjective state of mind on the part of the police?"
+  ],
+  [
+   57.98,
+   "MR. FARLEY",
+   "Well, the Kentucky Supreme Court's first prong of their test -- and I believe it's in our petition appendix on page 26 -- I'm sorry. Their -- their discussion starts on page 44a and carries over to 46a. The first question of their test is whether or not the officers acted in bad faith in an attempt to purposefully evade the warrant requirements."
+  ],
+  [
+   102.487,
+   "JUSTICE GINSBURG",
+   "That didn't -- that didn't apply in this case?"
+  ],
+  [
+   105.5,
+   "MR. FARLEY",
+   "That is correct. The second prong of the Kentucky Supreme Court's test is whether or not the actions of the Respondent in this case or the occupant of the home would have been foreseeable by the police officers before they knocked and announced their presence. Now, the problem with the foreseeability test --"
+  ],
+  [
+   123.84,
+   "JUSTICE GINSBURG",
+   "But why is -- why is that subjective? Why isn't that -- would it be foreseeable to a reasonable police officer similarly situated?"
+  ],
+  [
+   133.9,
+   "MR. FARLEY",
+   "Well, Justice Ginsburg, it -- it isn't directly a subjective inquiry. However, police officers are trained to expect and foresee illegal activity so that they may carry out the duties of their job in protecting the citizens. So under a foreseeability test, a reasonable officer will always foresee illegal activity in response to his actions, be it walking down the street or knocking on your door. A reasonable officer will always foresee illegal activity, and for that reason, the Kentucky Supreme Court's test is completely unworkable. Several of the other circuits and the lower courts have adopted tests that also attempt to add an extra exception, an unwarranted closure of the exigent circumstances exception that narrows the use of that exception by police"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2010/09-1272",
+  "page_url": "https://www.oyez.org/cases/2010/09-1272",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 16, 2011",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/22477",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2010/09-1272/20110516o_09-1272.delivery.mp3",
+  "duration": 154.279256,
+  "mp3_bytes": 723613,
+  "asr_elapsed_s": 59.9,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   359,
+   374,
+   368
+  ],
+  "diffs": [
+   [
+    10.98,
+    "a",
+    "the"
+   ],
+   [
+    116.04,
+    "reasons",
+    "reason"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 374,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the Court this morning in Case 09-1272, Kentucky v. King. He has asked that I announce it for him. This case comes to us on a writ of certiorari to the Supreme Court of Kentucky. In this case, police officers smelled marijuana outside an apartment door, knocked loudly, and announced their presence. As soon as the officers began knocking, they heard noises that, in their view, indicated that the occupants were destroying drug-related evidence. The officers entered the apartment without a warrant to prevent the destruction of evidence. Respondent was convicted of drug-related offenses based on evidence that the officers found inside the apartment. Now, it is well established that the rule of exigent circumstances, which includes the need to prevent destruction of evidence, is an exception to the warrant requirement. We do not decide whether exigent circumstances actually existed in this case. We, like the Kentucky Supreme Court, assume that there was an exigency. The question before us concerns an exception to the exigent circumstances rule that has been developed by lower courts. Lower courts have held that when police create an exigency, the search is unconstitutional even though an exigency existed. This is known as the police-created exigency doctrine. The Kentucky Supreme Court applied the police-created exigency doctrine in this case, overturning Respondent's conviction. Assuming there was an exigency, the Kentucky Supreme Court held that the exigent circumstances rule could not justify the search because the police should have foreseen that their conduct would prompt the occupants to destroy evidence. In short, the Court held that the police had impermissibly created the exigency. For the reasons stated in our opinion, we reject this interpretation of the exigent circumstances rule. The conduct of the police prior to their entry into the apartment was entirely lawful. They banged on the door and announced their presence. They did not violate the Fourth Amendment, nor did they threaten to violate the Fourth Amendment. Under these circumstances, the officer's warrantless entry to prevent the destruction of evidence was reasonable. We therefore reverse the judgment of the Kentucky Supreme Court and remand for further proceedings not inconsistent with this opinion. Justice Ginsburg has filed a dissenting opinion."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the Court this morning in Case 09-1272, Kentucky v. King. He has asked that I announce it for him. This case comes to us on a writ of certiorari to the Supreme Court of Kentucky. In this case, police officers smelled marijuana outside an apartment door, knocked loudly, and announced their presence. As soon as the officers began knocking, they heard noises that, in their view, indicated that the occupants were destroying drug-related evidence. The officers entered the apartment without a warrant to prevent the destruction of evidence. Respondent was convicted of drug-related offenses based on evidence that the officers found inside the apartment. Now, it is well established that the rule of exigent circumstances, which includes the need to prevent destruction of evidence, is an exception to the warrant requirement. We do not decide whether exigent circumstances actually existed in this case. We, like the Kentucky Supreme Court, assume that there was an exigency. The question before us concerns an exception to the exigent circumstances rule that has been developed by lower courts. Lower courts have held that when police create an exigency, the search is unconstitutional even though an exigency existed. This is known as the police-created exigency doctrine. The Kentucky Supreme Court applied the police-created exigency doctrine in this case, overturning Respondent's conviction. Assuming there was an exigency, the Kentucky Supreme Court held that the exigent circumstances rule could not justify the search because the police should have foreseen that their conduct would prompt the occupants to destroy evidence. In short, the Court held that the police had impermissibly created the exigency. For the reasons stated in our opinion, we reject this interpretation of the exigent circumstances rule. The conduct of the police prior to their entry into the apartment was entirely lawful. They banged on the door and announced their presence. They did not violate the Fourth Amendment, nor did they threaten to violate the Fourth Amendment. Under these circumstances, the officer's warrantless entry to prevent the destruction of evidence was reasonable. We therefore reverse the judgment of the Kentucky Supreme Court and remand for further proceedings not inconsistent with this opinion. Justice Ginsburg has filed a dissenting opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the Court this morning in Case 09-1272, Kentucky v. King."
+   ],
+   [
+    6.82,
+    "CHIEF JUSTICE ROBERTS",
+    "He has asked that I announce it for him."
+   ],
+   [
+    9.5,
+    "CHIEF JUSTICE ROBERTS",
+    "This case comes to us on a writ of certiorari to the Supreme Court of Kentucky."
+   ],
+   [
+    14.26,
+    "CHIEF JUSTICE ROBERTS",
+    "In this case, police officers smelled marijuana outside an apartment door, knocked loudly, and announced their presence."
+   ],
+   [
+    21.66,
+    "CHIEF JUSTICE ROBERTS",
+    "As soon as the officers began knocking, they heard noises that, in their view, indicated that the occupants were destroying drug-related evidence."
+   ],
+   [
+    31.8,
+    "CHIEF JUSTICE ROBERTS",
+    "The officers entered the apartment without a warrant to prevent the destruction of evidence."
+   ],
+   [
+    37.32,
+    "CHIEF JUSTICE ROBERTS",
+    "Respondent was convicted of drug-related offenses based on evidence that the officers found inside the apartment."
+   ],
+   [
+    44.9,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, it is well established that the rule of exigent circumstances, which includes the need to prevent destruction of evidence, is an exception to the warrant requirement."
+   ],
+   [
+    54.16,
+    "CHIEF JUSTICE ROBERTS",
+    "We do not decide whether exigent circumstances actually existed in this case."
+   ],
+   [
+    60.28,
+    "CHIEF JUSTICE ROBERTS",
+    "We, like the Kentucky Supreme Court, assume that there was an exigency."
+   ],
+   [
+    66.06,
+    "CHIEF JUSTICE ROBERTS",
+    "The question before us concerns an exception to the exigent circumstances rule that has been developed by lower courts."
+   ],
+   [
+    73.32,
+    "CHIEF JUSTICE ROBERTS",
+    "Lower courts have held that when police create an exigency, the search is unconstitutional even though an exigency existed."
+   ],
+   [
+    81.5,
+    "CHIEF JUSTICE ROBERTS",
+    "This is known as the police-created exigency doctrine."
+   ],
+   [
+    86.28,
+    "CHIEF JUSTICE ROBERTS",
+    "The Kentucky Supreme Court applied the police-created exigency doctrine in this case, overturning Respondent's conviction."
+   ],
+   [
+    94.3,
+    "CHIEF JUSTICE ROBERTS",
+    "Assuming there was an exigency, the Kentucky Supreme Court held that the exigent circumstances rule could not justify the search because the police should have foreseen that their conduct would prompt the occupants to destroy evidence."
+   ],
+   [
+    108.86,
+    "CHIEF JUSTICE ROBERTS",
+    "In short, the Court held that the police had impermissibly created the exigency."
+   ],
+   [
+    115.5,
+    "CHIEF JUSTICE ROBERTS",
+    "For the reasons stated in our opinion, we reject this interpretation of the exigent circumstances rule."
+   ],
+   [
+    121.82,
+    "CHIEF JUSTICE ROBERTS",
+    "The conduct of the police prior to their entry into the apartment was entirely lawful."
+   ],
+   [
+    127.84,
+    "CHIEF JUSTICE ROBERTS",
+    "They banged on the door and announced their presence."
+   ],
+   [
+    130.34,
+    "CHIEF JUSTICE ROBERTS",
+    "They did not violate the Fourth Amendment, nor did they threaten to violate the Fourth Amendment."
+   ],
+   [
+    135.3,
+    "CHIEF JUSTICE ROBERTS",
+    "Under these circumstances, the officer's warrantless entry to prevent the destruction of evidence was reasonable."
+   ],
+   [
+    142.76,
+    "CHIEF JUSTICE ROBERTS",
+    "We therefore reverse the judgment of the Kentucky Supreme Court and remand for further proceedings not inconsistent with this opinion."
+   ],
+   [
+    151.04,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Ginsburg has filed a dissenting opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    153.7,
+    369
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "09-1272",
+ "year": "2010",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2010/09-1272",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/09-1272.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2010/09-1272.pdf",
+ "model": "medium.en",
+ "duration": 3515.245714,
+ "asr_elapsed_s": 1496.4,
+ "asr_words": 9205,
+ "official_words": 9481,
+ "matched": 8954,
+ "shared": 1,
+ "clamped": 0,
+ "trimmed": 28,
+ "rewindowed": 0,
+ "match_rate": 94.4415146081637,
+ "turns": 279,
+ "laugh_markers": 7,
+ "mp3_bytes": 28122218,
+ "pauses": 397,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 317,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.44% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-09"
+}
