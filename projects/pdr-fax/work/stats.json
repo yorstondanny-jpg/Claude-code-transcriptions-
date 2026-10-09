@@ -1,0 +1,504 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 647.7,
+   "next": 647.7,
+   "speaker": "MR. PHILLIPS",
+   "before": "providing a private cause of action. So, if I think -- if I were to think -- I'm not there yet -- that there's no due -- There's hope. You're telling me there's hope.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1390.28,
+   "next": 1391.76,
+   "speaker": "JUSTICE BREYER",
+   "before": "question too, which you can tell me both, and that is what happens -- a lot of rules are -- these are my only two questions. Can I -- shall I ask both?",
+   "pause": 1.48,
+   "loud_s": 1.3,
+   "mean_over": 28.5,
+   "peak_over": 37.0,
+   "size": "big"
+  },
+  {
+   "t": 1849.02,
+   "next": 1851.96,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "Bob must pay the government $100 every year. All right? And a young man is born after the regulation is adopted, and he didn't -- he didn't read the Federal Register.",
+   "pause": 2.94,
+   "loud_s": 1.25,
+   "mean_over": 15.0,
+   "peak_over": 25.8,
+   "size": "medium"
+  },
+  {
+   "t": 1855.94,
+   "next": 1857.6,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "man is born after the regulation is adopted, and he didn't -- he didn't read the Federal Register. Shocking, huh? Yes. Maybe a lot of people don't read the Federal Register.",
+   "pause": 1.66,
+   "loud_s": 1.05,
+   "mean_over": 15.5,
+   "peak_over": 19.9,
+   "size": "medium"
+  },
+  {
+   "t": 1859.56,
+   "next": 1861.12,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "he didn't -- he didn't read the Federal Register. Shocking, huh? Yes. Maybe a lot of people don't read the Federal Register. Maybe they can't read it. It's in eight-point font.",
+   "pause": 1.56,
+   "loud_s": 0.4,
+   "mean_over": 10.9,
+   "peak_over": 14.7,
+   "size": "medium"
+  },
+  {
+   "t": 2030.36,
+   "next": 2033.96,
+   "speaker": "JUSTICE BREYER",
+   "before": "you if you'd like. It says: Rule at the beginning of the APA means the whole or part of an agency statement of general or -- oh, that's rule. Wrong place.",
+   "pause": 3.6,
+   "loud_s": 3.1,
+   "mean_over": 21.8,
+   "peak_over": 28.4,
+   "size": "big"
+  },
+  {
+   "t": 2047.3,
+   "next": 2047.3,
+   "speaker": "JUSTICE BREYER",
+   "before": "or -- oh, that's rule. Wrong place. God, that's -- here -- where is it? Definitions. Well, it says order somewhere. I just read it. Okay. Let somebody else ask a few questions.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2418.1,
+   "next": 2419.08,
+   "speaker": "JUSTICE ALITO",
+   "before": "PDR had other options available to it, other than taking a Hobbs Act petition in 2006. Do you know how many pages were issued in the Federal Register in 2018?",
+   "pause": 0.98,
+   "loud_s": 0.05,
+   "mean_over": 6.9,
+   "peak_over": 17.5,
+   "size": "small"
+  },
+  {
+   "t": 2438.46,
+   "next": 2439.3,
+   "speaker": "JUSTICE ALITO",
+   "before": "saw somebody riding home on the Metro at midnight in Washington, D.C., reading the Code of Federal Regulations, and I thought: Only in Washington, D.C., could you see this sight.",
+   "pause": 0.84,
+   "loud_s": 0.55,
+   "mean_over": 23.3,
+   "peak_over": 30.7,
+   "size": "medium"
+  },
+  {
+   "t": 2445.82,
+   "next": 2445.82,
+   "speaker": "JUSTICE ALITO",
+   "before": "and I thought: Only in Washington, D.C., could you see this sight. But you think people out in other parts of the country are -- they're waiting for the latest addition --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -49.9,
+ "opening_start": 9.48,
+ "opening": [
+  [
+   9.48,
+   "MR. PHILLIPS",
+   "Thank you, Mr. Chief Justice, and may it please the Court: The most startling comment in the Fourth Circuit's opinion in this case is the following one: \"We need not harmonize the FCC's rule with the underlying statute.\" I would have thought, in any ordinary instance of judicial review of administrative agency decision-making, that's a statement that ought to leap out off the page, and when it's being applied in the context of a private right of action brought as a class action by private plaintiffs against a private defendant who is seeking to assert that the statute is not violated by the action of the defendant, the idea that the court of appeals will say, no, no, there's no opportunity and no reason for the courts to entertain the agency's standard to be applied in those circumstances is one that, it would seem to me, you could only justify in extraordinary circumstances that are candidly not presented."
+  ],
+  [
+   62.4,
+   "JUSTICE SOTOMAYOR",
+   "That -- that -- that's a bit what's unusual about this case. It's a different question whether the court of appeals can do it because the Hobbs Act gives it exclusive jurisdiction, and I think the exclusive jurisdiction has to mean something. And that it then doesn't become a matter of jurisdiction; it becomes a matter of how much, if any, deference this interpretation is due than the question we granted cert on, which is, what does the district court -- what can the district court do as opposed to the court of appeals?"
+  ],
+  [
+   100.14,
+   "MR. PHILLIPS",
+   "Can --"
+  ],
+  [
+   101.14,
+   "JUSTICE SOTOMAYOR",
+   "So, here, the district court, I understand, didn't think it was challenging the validity of the order, or that you were, of -- of the FDC interpretation. It was interpreting it."
+  ],
+  [
+   114.78,
+   "MR. PHILLIPS",
+   "Right."
+  ],
+  [
+   115.94,
+   "JUSTICE SOTOMAYOR",
+   "So where does that leave --"
+  ],
+  [
+   116.62,
+   "MR. PHILLIPS",
+   "But it was interpreting it in -- in -- in light of the statute, candidly."
+  ],
+  [
+   120.52,
+   "JUSTICE SOTOMAYOR",
+   "Well, but --"
+  ],
+  [
+   121.48,
+   "MR. PHILLIPS",
+   "Can -- can --"
+  ],
+  [
+   121.48,
+   "JUSTICE SOTOMAYOR",
+   "-- yes, I agree with you, it's interpreting, but that's what applied challenges are about, aren't they? They're here's the statute, here's the interpretation, your facts are unique, and we now as judges decide whether or not that uniqueness falls within or without the interpretive guideline or the -- the statute."
+  ],
+  [
+   146.92,
+   "MR. PHILLIPS",
+   "I mean, there --"
+  ],
+  [
+   147.37,
+   "JUSTICE SOTOMAYOR",
+   "That's a normal process, isn't it?"
+  ],
+  [
+   148.78,
+   "MR. PHILLIPS",
+   "Right. There -- there are two things that come out of that question that I'd like to address. The first one is, what is the -- the work that's done by the requirement of exclusive jurisdiction in the Hobbs Act? And we would say that the exclusive jurisdiction under the Hobbs Act says the court of appeals can decide whether and only -- you know, whether they can enjoin, set aside, suspend in whole or part --"
+  ],
+  [
+   169.72,
+   "JUSTICE SOTOMAYOR",
+   "Put that aside, because that's -- assuming I don't accept that, that the court of appeals has exclusive jurisdiction, period, and we have plenty of statutes that give courts of appeals exclusive jurisdiction over matters. So, if you're not challenging the validity of the Hobbs Act, how do you -- and you accept it on its"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2018/17-1705",
+  "page_url": "https://www.oyez.org/cases/2018/17-1705",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 20, 2019",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24879",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2018/17-1705/17-1705_20190620-opinion.delivery.mp3",
+  "duration": 169.247347,
+  "mp3_bytes": 706867,
+  "asr_elapsed_s": 67.0,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   390,
+   417,
+   413
+  ],
+  "diffs": [
+   [
+    7.28,
+    "Carleton and",
+    "Carlton &"
+   ],
+   [
+    21.2,
+    "of,",
+    ""
+   ],
+   [
+    22.04,
+    "a",
+    "the"
+   ],
+   [
+    44.4,
+    "to",
+    "for"
+   ],
+   [
+    46.34,
+    "just",
+    "as"
+   ],
+   [
+    57.2,
+    "we're",
+    "we are"
+   ],
+   [
+    59.44,
+    "can't",
+    "cannot"
+   ],
+   [
+    68.44,
+    "It's",
+    "It is"
+   ],
+   [
+    80.46,
+    "and",
+    ""
+   ],
+   [
+    81.04,
+    "isn't",
+    "is not"
+   ],
+   [
+    86.4,
+    "it's",
+    "it is"
+   ],
+   [
+    88.5,
+    "we're",
+    "we are"
+   ],
+   [
+    112.26,
+    "didn't,",
+    "did not,"
+   ],
+   [
+    118.36,
+    "don't",
+    "do not"
+   ],
+   [
+    136.66,
+    "Oh, wait. There are several, yes. Breyer.",
+    ""
+   ],
+   [
+    139.6,
+    "didn't",
+    "did not"
+   ]
+  ],
+  "dropped": [
+   [
+    10.96,
+    11.58,
+    "Breyer,"
+   ]
+  ],
+  "redone": [],
+  "words": 417,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Breyer has our opinion this morning in Case 17-1705, PDR Network v. Carleton and Harris Chiropractic."
+   ],
+   [
+    10.96,
+    "JUSTICE BREYER",
+    "there are several Federal statutes known as the Hobbs Act. This one is quite technical and has to do with regulatory agencies. And it says that the final order of, for example, a Federal Communications Commission, that the court of appeals, Federal court of appeals, will have, quote, exclusive jurisdiction to enjoin, set aside, suspend, or determine the validity of the order. In this case, a district court wanted to determine the validity of the order, and the court of appeals to the Fourth Circuit said, no, just the court of appeals, you have to take the order as given. Well, the case is more difficult than my summary made it sound, and what we're doing is sending it back because we think we can't answer the question until the court of appeals decides two preliminary matters. The first matter is what kind of an order is this? It's a rule, but is it a legislative rule, which is just like law, or is it an interpretive rule, which is just the FCC's idea of a law, of what the statute means, and it isn't a law itself automatically. And we want them to answer that because we think that if it's an interpretive rule, maybe, we're not saying definitely, the district court could go ahead. And then the next question we want them to answer is whether the party here, the PDR network, had a, quote, prior and adequate opportunity to actually go to the court of appeals when the first rule came out. Did they have a chance to get the thing reviewed at all? Because if they didn't, then they have a stronger claim that the district court should review it now. Again, we don't say anything definitely. All we do is we send the case back and we ask the court of appeals to decide those two preliminary questions, and then maybe, eventually, we will answer the question that the parties wanted us to answer. Oh, wait. There are several, yes. Breyer. Actually, we didn't even agree on that. There is a majority for it. And that majority vacates the judgment, sends it back to determine they consider these issues. Justice Thomas has filed an opinion concurring in the judgment in which Justice Gorsuch joins. Justice Kavanaugh has filed an opinion concurring in the judgment in which Justice Thomas, Justice Alito, and Justice Gorsuch join."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Breyer has our opinion this morning in Case 17-1705, PDR Network v. Carleton and Harris Chiropractic."
+   ],
+   [
+    10.96,
+    "JUSTICE BREYER",
+    "there are several Federal statutes known as the Hobbs Act. This one is quite technical and has to do with regulatory agencies. And it says that the final order of, for example, a Federal Communications Commission, that the court of appeals, Federal court of appeals, will have, quote, exclusive jurisdiction to enjoin, set aside, suspend, or determine the validity of the order. In this case, a district court wanted to determine the validity of the order, and the court of appeals to the Fourth Circuit said, no, just the court of appeals, you have to take the order as given. Well, the case is more difficult than my summary made it sound, and what we're doing is sending it back because we think we can't answer the question until the court of appeals decides two preliminary matters. The first matter is what kind of an order is this? It's a rule, but is it a legislative rule, which is just like law, or is it an interpretive rule, which is just the FCC's idea of a law, of what the statute means, and it isn't a law itself automatically. And we want them to answer that because we think that if it's an interpretive rule, maybe, we're not saying definitely, the district court could go ahead. And then the next question we want them to answer is whether the party here, the PDR network, had a, quote, prior and adequate opportunity to actually go to the court of appeals when the first rule came out. Did they have a chance to get the thing reviewed at all? Because if they didn't, then they have a stronger claim that the district court should review it now. Again, we don't say anything definitely. All we do is we send the case back and we ask the court of appeals to decide those two preliminary questions, and then maybe, eventually, we will answer the question that the parties wanted us to answer. Oh, wait. There are several, yes. Breyer. Actually, we didn't even agree on that. There is a majority for it. And that majority vacates the judgment, sends it back to determine they consider these issues. Justice Thomas has filed an opinion concurring in the judgment in which Justice Gorsuch joins. Justice Kavanaugh has filed an opinion concurring in the judgment in which Justice Thomas, Justice Alito, and Justice Gorsuch join."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Breyer has our opinion this morning in Case 17-1705, PDR Network v. Carleton and Harris Chiropractic."
+   ],
+   [
+    10.96,
+    "JUSTICE BREYER",
+    "there are several Federal statutes known as the Hobbs Act."
+   ],
+   [
+    14.22,
+    "JUSTICE BREYER",
+    "This one is quite technical and has to do with regulatory agencies."
+   ],
+   [
+    17.98,
+    "JUSTICE BREYER",
+    "And it says that the final order of, for example, a Federal Communications Commission, that the court of appeals, Federal court of appeals, will have, quote, exclusive jurisdiction to enjoin, set aside, suspend, or determine the validity of the order."
+   ],
+   [
+    36.7,
+    "JUSTICE BREYER",
+    "In this case, a district court wanted to determine the validity of the order, and the court of appeals to the Fourth Circuit said, no, just the court of appeals, you have to take the order as given."
+   ],
+   [
+    53.28,
+    "JUSTICE BREYER",
+    "Well, the case is more difficult than my summary made it sound, and what we're doing is sending it back because we think we can't answer the question until the court of appeals decides two preliminary matters."
+   ],
+   [
+    65.36,
+    "JUSTICE BREYER",
+    "The first matter is what kind of an order is this?"
+   ],
+   [
+    68.44,
+    "JUSTICE BREYER",
+    "It's a rule, but is it a legislative rule, which is just like law, or is it an interpretive rule, which is just the FCC's idea of a law, of what the statute means, and it isn't a law itself automatically."
+   ],
+   [
+    83.28,
+    "JUSTICE BREYER",
+    "And we want them to answer that because we think that if it's an interpretive rule, maybe, we're not saying definitely, the district court could go ahead."
+   ],
+   [
+    93.66,
+    "JUSTICE BREYER",
+    "And then the next question we want them to answer is whether the party here, the PDR network, had a, quote, prior and adequate opportunity to actually go to the court of appeals when the first rule came out."
+   ],
+   [
+    107.84,
+    "JUSTICE BREYER",
+    "Did they have a chance to get the thing reviewed at all?"
+   ],
+   [
+    111.34,
+    "JUSTICE BREYER",
+    "Because if they didn't, then they have a stronger claim that the district court should review it now."
+   ],
+   [
+    117.6,
+    "JUSTICE BREYER",
+    "Again, we don't say anything definitely."
+   ],
+   [
+    120.14,
+    "JUSTICE BREYER",
+    "All we do is we send the case back and we ask the court of appeals to decide those two preliminary questions, and then maybe, eventually, we will answer the question that the parties wanted us to answer."
+   ],
+   [
+    136.66,
+    "JUSTICE BREYER",
+    "Oh, wait."
+   ],
+   [
+    137.6,
+    "JUSTICE BREYER",
+    "There are several, yes."
+   ],
+   [
+    138.92,
+    "JUSTICE BREYER",
+    "Breyer."
+   ],
+   [
+    139.3,
+    "JUSTICE BREYER",
+    "Actually, we didn't even agree on that."
+   ],
+   [
+    145.74,
+    "JUSTICE BREYER",
+    "There is a majority for it."
+   ],
+   [
+    149.46,
+    "JUSTICE BREYER",
+    "And that majority vacates the judgment, sends it back to determine they consider these issues."
+   ],
+   [
+    154.38,
+    "JUSTICE BREYER",
+    "Justice Thomas has filed an opinion concurring in the judgment in which Justice Gorsuch joins."
+   ],
+   [
+    159.96,
+    "JUSTICE BREYER",
+    "Justice Kavanaugh has filed an opinion concurring in the judgment in which Justice Thomas, Justice Alito, and Justice Gorsuch join."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    9.36,
+    17
+   ],
+   [
+    "JUSTICE BREYER",
+    10.96,
+    167.28,
+    399
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "17-1705",
+ "year": "2018",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2018/17-1705",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/17-1705.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2018/17-1705_d18f.pdf",
+ "model": "medium.en",
+ "duration": 3625.536,
+ "asr_elapsed_s": 1943.1,
+ "asr_words": 10726,
+ "official_words": 11263,
+ "matched": 10439,
+ "shared": 6,
+ "clamped": 0,
+ "trimmed": 12,
+ "rewindowed": 1,
+ "match_rate": 92.68400958891947,
+ "turns": 378,
+ "laugh_markers": 10,
+ "mp3_bytes": 29004525,
+ "pauses": 332,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 491,
+  "match_rate": {
+   "ok": true,
+   "detail": "92.68% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-09"
+}

@@ -1,0 +1,2504 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 1.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Breyer",
+  "s": 1.12,
+  "e": 1.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.62,
+  "e": 1.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "our",
+  "s": 1.86,
+  "e": 2.08,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 2.08,
+  "e": 2.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 2.34,
+  "e": 2.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning",
+  "s": 2.58,
+  "e": 2.84,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 2.84,
+  "e": 3.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Case",
+  "s": 3.06,
+  "e": 3.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "17",
+  "s": 3.2,
+  "e": 3.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "-1705,",
+  "s": 3.9,
+  "e": 4.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "PDR",
+  "s": 5.64,
+  "e": 6.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Network",
+  "s": 6.02,
+  "e": 6.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "v.",
+  "s": 6.56,
+  "e": 6.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Carleton",
+  "s": 7.28,
+  "e": 7.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 7.64,
+  "e": 7.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Harris",
+  "s": 7.96,
+  "e": 8.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Chiropractic.",
+  "s": 8.32,
+  "e": 9.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "there",
+  "s": 10.96,
+  "e": 11.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "are",
+  "s": 11.6,
+  "e": 11.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "several",
+  "s": 11.78,
+  "e": 12.08,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Federal",
+  "s": 12.08,
+  "e": 12.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "statutes",
+  "s": 12.44,
+  "e": 12.92,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "known",
+  "s": 12.92,
+  "e": 13.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "as",
+  "s": 13.26,
+  "e": 13.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 13.44,
+  "e": 13.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Hobbs",
+  "s": 13.58,
+  "e": 13.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Act.",
+  "s": 13.88,
+  "e": 14.1,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "This",
+  "s": 14.22,
+  "e": 14.36,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "one",
+  "s": 14.36,
+  "e": 14.52,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 14.52,
+  "e": 14.68,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "quite",
+  "s": 14.68,
+  "e": 14.86,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "technical",
+  "s": 14.86,
+  "e": 15.5,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "and",
+  "s": 15.5,
+  "e": 16.06,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "has",
+  "s": 16.06,
+  "e": 16.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 16.3,
+  "e": 16.46,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "do",
+  "s": 16.46,
+  "e": 16.52,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "with",
+  "s": 16.52,
+  "e": 16.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "regulatory",
+  "s": 16.74,
+  "e": 17.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "agencies.",
+  "s": 17.26,
+  "e": 17.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "And",
+  "s": 17.98,
+  "e": 18.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it",
+  "s": 18.24,
+  "e": 18.46,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "says",
+  "s": 18.46,
+  "e": 18.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "that",
+  "s": 18.76,
+  "e": 19.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 19.44,
+  "e": 19.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "final",
+  "s": 19.88,
+  "e": 20.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "order",
+  "s": 20.84,
+  "e": 21.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of,",
+  "s": 21.2,
+  "e": 21.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "for",
+  "s": 21.46,
+  "e": 21.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "example,",
+  "s": 21.6,
+  "e": 21.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 22.04,
+  "e": 22.22,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Federal",
+  "s": 22.22,
+  "e": 22.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Communications",
+  "s": 22.42,
+  "e": 23.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Commission,",
+  "s": 23.24,
+  "e": 23.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "that",
+  "s": 24.24,
+  "e": 24.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 24.98,
+  "e": 25.28,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 25.28,
+  "e": 25.64,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 25.64,
+  "e": 25.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "appeals,",
+  "s": 25.84,
+  "e": 26.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Federal",
+  "s": 26.82,
+  "e": 27.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 27.04,
+  "e": 27.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 27.34,
+  "e": 27.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "appeals,",
+  "s": 27.48,
+  "e": 28.16,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "will",
+  "s": 28.48,
+  "e": 28.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "have,",
+  "s": 28.8,
+  "e": 29.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "quote,",
+  "s": 29.04,
+  "e": 29.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "exclusive",
+  "s": 29.34,
+  "e": 29.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "jurisdiction",
+  "s": 29.88,
+  "e": 30.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 30.58,
+  "e": 30.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "enjoin,",
+  "s": 30.84,
+  "e": 33.22,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "set",
+  "s": 33.44,
+  "e": 33.5,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "aside,",
+  "s": 33.5,
+  "e": 33.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "suspend,",
+  "s": 34.06,
+  "e": 34.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "or",
+  "s": 34.58,
+  "e": 34.68,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "determine",
+  "s": 34.68,
+  "e": 35.06,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 35.06,
+  "e": 35.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "validity",
+  "s": 35.24,
+  "e": 35.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 35.54,
+  "e": 35.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 35.8,
+  "e": 35.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "order.",
+  "s": 35.98,
+  "e": 36.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "In",
+  "s": 36.7,
+  "e": 37.18,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "this",
+  "s": 37.18,
+  "e": 37.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "case,",
+  "s": 37.42,
+  "e": 37.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 37.94,
+  "e": 38.28,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "district",
+  "s": 38.28,
+  "e": 39.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 39.72,
+  "e": 40.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "wanted",
+  "s": 40.42,
+  "e": 40.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 40.94,
+  "e": 41.14,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "determine",
+  "s": 41.14,
+  "e": 41.5,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 41.5,
+  "e": 41.68,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "validity",
+  "s": 41.68,
+  "e": 42.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 42.04,
+  "e": 42.28,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 42.28,
+  "e": 42.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "order,",
+  "s": 42.44,
+  "e": 42.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "and",
+  "s": 42.74,
+  "e": 43.52,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 43.52,
+  "e": 43.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 43.8,
+  "e": 43.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 43.98,
+  "e": 44.16,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "appeals",
+  "s": 44.16,
+  "e": 44.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 44.4,
+  "e": 44.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 44.6,
+  "e": 44.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Fourth",
+  "s": 44.74,
+  "e": 44.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Circuit",
+  "s": 44.94,
+  "e": 45.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "said,",
+  "s": 45.26,
+  "e": 45.5,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "no,",
+  "s": 45.76,
+  "e": 45.86,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "just",
+  "s": 46.34,
+  "e": 46.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 46.78,
+  "e": 47.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 49.16,
+  "e": 49.64,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 49.64,
+  "e": 49.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "appeals,",
+  "s": 49.76,
+  "e": 50.14,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "you",
+  "s": 50.34,
+  "e": 50.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "have",
+  "s": 50.98,
+  "e": 51.12,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 51.12,
+  "e": 51.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "take",
+  "s": 51.24,
+  "e": 51.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 51.4,
+  "e": 51.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "order",
+  "s": 51.58,
+  "e": 51.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "as",
+  "s": 51.76,
+  "e": 51.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "given.",
+  "s": 51.94,
+  "e": 52.18,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Well,",
+  "s": 53.28,
+  "e": 53.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 53.5,
+  "e": 53.62,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "case",
+  "s": 53.62,
+  "e": 53.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 53.84,
+  "e": 54.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "more",
+  "s": 54.04,
+  "e": 54.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "difficult",
+  "s": 54.2,
+  "e": 54.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "than",
+  "s": 54.54,
+  "e": 54.9,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "my",
+  "s": 54.9,
+  "e": 55.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "summary",
+  "s": 55.24,
+  "e": 55.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "made",
+  "s": 55.58,
+  "e": 55.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it",
+  "s": 55.84,
+  "e": 56.06,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "sound,",
+  "s": 56.06,
+  "e": 56.38,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "and",
+  "s": 56.5,
+  "e": 57.02,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "what",
+  "s": 57.02,
+  "e": 57.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we're",
+  "s": 57.2,
+  "e": 57.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "doing",
+  "s": 57.4,
+  "e": 57.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 57.56,
+  "e": 57.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "sending",
+  "s": 57.74,
+  "e": 57.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it",
+  "s": 57.98,
+  "e": 58.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "back",
+  "s": 58.2,
+  "e": 58.46,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "because",
+  "s": 58.46,
+  "e": 58.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 58.8,
+  "e": 59.02,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "think",
+  "s": 59.02,
+  "e": 59.22,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 59.22,
+  "e": 59.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "can't",
+  "s": 59.44,
+  "e": 59.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "answer",
+  "s": 59.72,
+  "e": 60.08,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 60.08,
+  "e": 60.28,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "question",
+  "s": 60.28,
+  "e": 60.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "until",
+  "s": 60.72,
+  "e": 61.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 61.42,
+  "e": 61.86,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 61.86,
+  "e": 62.0,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 62.0,
+  "e": 62.18,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "appeals",
+  "s": 62.18,
+  "e": 62.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "decides",
+  "s": 62.58,
+  "e": 63.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "two",
+  "s": 63.48,
+  "e": 63.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "preliminary",
+  "s": 63.78,
+  "e": 64.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "matters.",
+  "s": 64.34,
+  "e": 64.86,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "The",
+  "s": 65.36,
+  "e": 65.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "first",
+  "s": 65.54,
+  "e": 65.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "matter",
+  "s": 65.76,
+  "e": 66.06,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 66.06,
+  "e": 66.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "what",
+  "s": 66.3,
+  "e": 66.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "kind",
+  "s": 66.56,
+  "e": 66.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 66.94,
+  "e": 67.1,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "an",
+  "s": 67.1,
+  "e": 67.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "order",
+  "s": 67.26,
+  "e": 67.5,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 67.5,
+  "e": 67.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "this?",
+  "s": 67.8,
+  "e": 68.16,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "It's",
+  "s": 68.44,
+  "e": 68.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 68.74,
+  "e": 68.9,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "rule,",
+  "s": 68.9,
+  "e": 69.18,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "but",
+  "s": 69.56,
+  "e": 69.68,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 69.68,
+  "e": 69.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it",
+  "s": 69.84,
+  "e": 70.02,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 70.02,
+  "e": 70.28,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "legislative",
+  "s": 70.28,
+  "e": 70.82,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "rule,",
+  "s": 70.82,
+  "e": 71.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "which",
+  "s": 71.26,
+  "e": 71.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 71.54,
+  "e": 71.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "just",
+  "s": 71.72,
+  "e": 72.02,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "like",
+  "s": 72.02,
+  "e": 72.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "law,",
+  "s": 72.3,
+  "e": 72.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "or",
+  "s": 72.72,
+  "e": 73.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 73.2,
+  "e": 73.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it",
+  "s": 73.34,
+  "e": 73.46,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "an",
+  "s": 73.46,
+  "e": 73.68,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "interpretive",
+  "s": 73.68,
+  "e": 74.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "rule,",
+  "s": 74.44,
+  "e": 74.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "which",
+  "s": 74.86,
+  "e": 75.18,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 75.18,
+  "e": 75.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "just",
+  "s": 75.4,
+  "e": 75.64,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 75.64,
+  "e": 75.82,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "FCC's",
+  "s": 75.82,
+  "e": 76.5,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "idea",
+  "s": 76.5,
+  "e": 77.06,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 77.06,
+  "e": 77.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 77.42,
+  "e": 77.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "law,",
+  "s": 77.6,
+  "e": 77.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 78.22,
+  "e": 78.66,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "what",
+  "s": 78.66,
+  "e": 78.82,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 78.82,
+  "e": 79.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "statute",
+  "s": 79.26,
+  "e": 79.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "means,",
+  "s": 79.74,
+  "e": 80.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "and",
+  "s": 80.46,
+  "e": 80.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it",
+  "s": 80.72,
+  "e": 81.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "isn't",
+  "s": 81.04,
+  "e": 81.38,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 81.38,
+  "e": 81.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "law",
+  "s": 81.6,
+  "e": 81.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "itself",
+  "s": 81.78,
+  "e": 82.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "automatically.",
+  "s": 82.26,
+  "e": 83.1,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "And",
+  "s": 83.28,
+  "e": 83.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 83.84,
+  "e": 83.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "want",
+  "s": 83.98,
+  "e": 84.16,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "them",
+  "s": 84.16,
+  "e": 84.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 84.34,
+  "e": 84.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "answer",
+  "s": 84.48,
+  "e": 84.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "that",
+  "s": 84.78,
+  "e": 85.06,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "because",
+  "s": 85.06,
+  "e": 85.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 85.34,
+  "e": 85.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "think",
+  "s": 85.58,
+  "e": 85.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "that",
+  "s": 85.88,
+  "e": 86.28,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "if",
+  "s": 86.28,
+  "e": 86.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it's",
+  "s": 86.4,
+  "e": 86.62,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "an",
+  "s": 86.62,
+  "e": 86.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "interpretive",
+  "s": 86.8,
+  "e": 87.36,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "rule,",
+  "s": 87.36,
+  "e": 87.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "maybe,",
+  "s": 87.82,
+  "e": 88.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we're",
+  "s": 88.5,
+  "e": 88.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "not",
+  "s": 88.76,
+  "e": 88.92,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "saying",
+  "s": 88.92,
+  "e": 89.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "definitely,",
+  "s": 89.24,
+  "e": 89.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 90.42,
+  "e": 91.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "district",
+  "s": 91.42,
+  "e": 92.16,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 92.16,
+  "e": 92.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "could",
+  "s": 92.4,
+  "e": 92.68,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "go",
+  "s": 92.68,
+  "e": 92.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "ahead.",
+  "s": 92.94,
+  "e": 93.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "And",
+  "s": 93.66,
+  "e": 94.1,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "then",
+  "s": 94.1,
+  "e": 94.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 94.24,
+  "e": 94.38,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "next",
+  "s": 94.38,
+  "e": 94.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "question",
+  "s": 94.6,
+  "e": 94.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 94.98,
+  "e": 95.12,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "want",
+  "s": 95.12,
+  "e": 95.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "them",
+  "s": 95.3,
+  "e": 95.46,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 95.46,
+  "e": 95.62,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "answer",
+  "s": 95.62,
+  "e": 95.96,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 95.96,
+  "e": 96.16,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "whether",
+  "s": 96.16,
+  "e": 96.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 96.48,
+  "e": 97.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "party",
+  "s": 97.7,
+  "e": 99.28,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "here,",
+  "s": 99.28,
+  "e": 99.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 99.68,
+  "e": 99.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "PDR",
+  "s": 99.76,
+  "e": 100.08,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "network,",
+  "s": 100.08,
+  "e": 100.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "had",
+  "s": 100.94,
+  "e": 101.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a,",
+  "s": 101.24,
+  "e": 101.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "quote,",
+  "s": 101.44,
+  "e": 101.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "prior",
+  "s": 101.82,
+  "e": 102.22,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "and",
+  "s": 102.22,
+  "e": 102.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "adequate",
+  "s": 102.54,
+  "e": 103.12,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "opportunity",
+  "s": 103.12,
+  "e": 103.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 103.8,
+  "e": 104.36,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "actually",
+  "s": 104.36,
+  "e": 104.7,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "go",
+  "s": 104.7,
+  "e": 104.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 104.94,
+  "e": 105.1,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 105.1,
+  "e": 105.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 105.26,
+  "e": 105.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 105.4,
+  "e": 105.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "appeals",
+  "s": 105.58,
+  "e": 105.96,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "when",
+  "s": 105.96,
+  "e": 106.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 106.3,
+  "e": 106.46,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "first",
+  "s": 106.46,
+  "e": 106.7,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "rule",
+  "s": 106.7,
+  "e": 106.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "came",
+  "s": 106.94,
+  "e": 107.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "out.",
+  "s": 107.2,
+  "e": 107.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Did",
+  "s": 107.84,
+  "e": 108.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "they",
+  "s": 108.2,
+  "e": 108.32,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "have",
+  "s": 108.32,
+  "e": 108.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 108.48,
+  "e": 108.7,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "chance",
+  "s": 108.7,
+  "e": 108.92,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 108.92,
+  "e": 109.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "get",
+  "s": 109.24,
+  "e": 109.36,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 109.36,
+  "e": 109.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "thing",
+  "s": 109.56,
+  "e": 109.7,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "reviewed",
+  "s": 109.7,
+  "e": 110.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "at",
+  "s": 110.04,
+  "e": 110.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "all?",
+  "s": 110.24,
+  "e": 110.66,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Because",
+  "s": 111.34,
+  "e": 111.9,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "if",
+  "s": 111.9,
+  "e": 112.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "they",
+  "s": 112.04,
+  "e": 112.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "didn't,",
+  "s": 112.26,
+  "e": 112.92,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "then",
+  "s": 113.28,
+  "e": 113.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "they",
+  "s": 113.56,
+  "e": 113.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "have",
+  "s": 113.74,
+  "e": 113.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 113.88,
+  "e": 114.1,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "stronger",
+  "s": 114.1,
+  "e": 114.44,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "claim",
+  "s": 114.44,
+  "e": 114.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "that",
+  "s": 114.94,
+  "e": 115.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 115.6,
+  "e": 115.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "district",
+  "s": 115.72,
+  "e": 116.06,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 116.06,
+  "e": 116.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "should",
+  "s": 116.3,
+  "e": 116.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "review",
+  "s": 116.56,
+  "e": 116.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it",
+  "s": 116.88,
+  "e": 117.08,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "now.",
+  "s": 117.08,
+  "e": 117.36,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Again,",
+  "s": 117.6,
+  "e": 118.18,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 118.26,
+  "e": 118.36,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "don't",
+  "s": 118.36,
+  "e": 118.52,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "say",
+  "s": 118.52,
+  "e": 118.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "anything",
+  "s": 118.74,
+  "e": 119.02,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "definitely.",
+  "s": 119.02,
+  "e": 119.52,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "All",
+  "s": 120.14,
+  "e": 120.46,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 120.46,
+  "e": 120.66,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "do",
+  "s": 120.66,
+  "e": 120.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 120.88,
+  "e": 121.08,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 121.08,
+  "e": 121.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "send",
+  "s": 121.26,
+  "e": 121.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 121.56,
+  "e": 121.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "case",
+  "s": 121.8,
+  "e": 122.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "back",
+  "s": 122.04,
+  "e": 122.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "and",
+  "s": 122.48,
+  "e": 122.92,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 122.92,
+  "e": 123.12,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "ask",
+  "s": 123.12,
+  "e": 123.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 123.42,
+  "e": 123.68,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "court",
+  "s": 123.68,
+  "e": 123.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "of",
+  "s": 123.84,
+  "e": 124.8,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "appeals",
+  "s": 124.8,
+  "e": 125.12,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 125.12,
+  "e": 125.38,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "decide",
+  "s": 125.38,
+  "e": 125.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "those",
+  "s": 125.72,
+  "e": 125.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "two",
+  "s": 125.98,
+  "e": 126.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "preliminary",
+  "s": 126.24,
+  "e": 126.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "questions,",
+  "s": 126.78,
+  "e": 127.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "and",
+  "s": 127.42,
+  "e": 127.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "then",
+  "s": 127.98,
+  "e": 128.16,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "maybe,",
+  "s": 128.16,
+  "e": 128.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "eventually,",
+  "s": 128.96,
+  "e": 129.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 129.94,
+  "e": 130.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "will",
+  "s": 130.54,
+  "e": 130.82,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "answer",
+  "s": 130.82,
+  "e": 131.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 131.4,
+  "e": 131.82,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "question",
+  "s": 131.82,
+  "e": 132.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "that",
+  "s": 132.2,
+  "e": 132.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 132.56,
+  "e": 132.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "parties",
+  "s": 132.76,
+  "e": 133.08,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "wanted",
+  "s": 133.08,
+  "e": 133.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "us",
+  "s": 133.58,
+  "e": 133.82,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 133.82,
+  "e": 133.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "answer.",
+  "s": 133.98,
+  "e": 134.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Oh,",
+  "s": 136.66,
+  "e": 137.22,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "wait.",
+  "s": 137.3,
+  "e": 137.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "There",
+  "s": 137.6,
+  "e": 137.66,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "are",
+  "s": 137.66,
+  "e": 137.86,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "several,",
+  "s": 137.86,
+  "e": 138.14,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "yes.",
+  "s": 138.24,
+  "e": 138.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Breyer.",
+  "s": 138.92,
+  "e": 139.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Actually,",
+  "s": 139.3,
+  "e": 139.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "we",
+  "s": 139.5,
+  "e": 139.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "didn't",
+  "s": 139.6,
+  "e": 139.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "even",
+  "s": 139.76,
+  "e": 139.98,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "agree",
+  "s": 139.98,
+  "e": 140.26,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "on",
+  "s": 140.26,
+  "e": 140.54,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "that.",
+  "s": 140.54,
+  "e": 140.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "There",
+  "s": 145.74,
+  "e": 146.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "is",
+  "s": 146.3,
+  "e": 146.86,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "a",
+  "s": 146.86,
+  "e": 147.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "majority",
+  "s": 147.04,
+  "e": 147.42,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "for",
+  "s": 147.42,
+  "e": 147.74,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it.",
+  "s": 147.74,
+  "e": 148.64,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "And",
+  "s": 149.46,
+  "e": 150.02,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "that",
+  "s": 150.02,
+  "e": 150.2,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "majority",
+  "s": 150.2,
+  "e": 150.62,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "vacates",
+  "s": 150.62,
+  "e": 151.1,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 151.1,
+  "e": 151.32,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "judgment,",
+  "s": 151.32,
+  "e": 151.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "sends",
+  "s": 151.74,
+  "e": 151.92,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "it",
+  "s": 151.92,
+  "e": 152.12,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "back",
+  "s": 152.12,
+  "e": 152.3,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "to",
+  "s": 152.3,
+  "e": 152.52,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "determine",
+  "s": 152.52,
+  "e": 152.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "they",
+  "s": 152.88,
+  "e": 153.12,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "consider",
+  "s": 153.12,
+  "e": 153.56,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "these",
+  "s": 153.56,
+  "e": 153.86,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "issues.",
+  "s": 153.86,
+  "e": 154.24,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Justice",
+  "s": 154.38,
+  "e": 154.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Thomas",
+  "s": 154.72,
+  "e": 155.04,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "has",
+  "s": 155.04,
+  "e": 155.32,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "filed",
+  "s": 155.32,
+  "e": 155.48,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "an",
+  "s": 155.48,
+  "e": 155.68,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "opinion",
+  "s": 155.68,
+  "e": 155.94,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "concurring",
+  "s": 155.94,
+  "e": 156.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "in",
+  "s": 156.4,
+  "e": 156.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 156.6,
+  "e": 156.78,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "judgment",
+  "s": 156.78,
+  "e": 157.1,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "in",
+  "s": 157.1,
+  "e": 157.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "which",
+  "s": 157.72,
+  "e": 157.9,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Justice",
+  "s": 157.9,
+  "e": 158.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Gorsuch",
+  "s": 158.34,
+  "e": 158.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "joins.",
+  "s": 158.72,
+  "e": 159.4,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Justice",
+  "s": 159.96,
+  "e": 160.36,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Kavanaugh",
+  "s": 160.36,
+  "e": 160.76,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "has",
+  "s": 160.76,
+  "e": 161.08,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "filed",
+  "s": 161.08,
+  "e": 161.36,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "an",
+  "s": 161.36,
+  "e": 161.58,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "opinion",
+  "s": 161.58,
+  "e": 161.88,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "concurring",
+  "s": 161.88,
+  "e": 162.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "in",
+  "s": 162.34,
+  "e": 162.52,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "the",
+  "s": 162.52,
+  "e": 162.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "judgment",
+  "s": 162.72,
+  "e": 163.06,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "in",
+  "s": 163.06,
+  "e": 163.64,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "which",
+  "s": 163.64,
+  "e": 163.84,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Justice",
+  "s": 163.84,
+  "e": 164.22,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Thomas,",
+  "s": 164.22,
+  "e": 164.64,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Justice",
+  "s": 164.82,
+  "e": 165.18,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Alito,",
+  "s": 165.18,
+  "e": 165.6,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "and",
+  "s": 165.78,
+  "e": 165.92,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Justice",
+  "s": 165.92,
+  "e": 166.34,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "Gorsuch",
+  "s": 166.34,
+  "e": 166.72,
+  "speaker": "JUSTICE BREYER"
+ },
+ {
+  "w": "join.",
+  "s": 166.72,
+  "e": 167.28,
+  "speaker": "JUSTICE BREYER"
+ }
+]
