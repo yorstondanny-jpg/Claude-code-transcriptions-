@@ -1,0 +1,528 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 940.68,
+   "next": 941.1,
+   "speaker": "JUSTICE BREYER",
+   "before": "punitive in nature, then the defense can be raised. And that makes sense. What is the situation with jail, prison? I have a vague recollection -- often such recollections are incorrect --",
+   "pause": 0.42,
+   "loud_s": 0.0,
+   "mean_over": 5.7,
+   "peak_over": 9.3,
+   "size": "small"
+  },
+  {
+   "t": 1096.2,
+   "next": 1098.84,
+   "speaker": "JUSTICE BREYER",
+   "before": "offense, so it was -- Yeah, he had a history. -- it was a punishment for recidivist. Absolutely, Your Honor, and thank you for that. Yeah. He also robbed a chicken coop.",
+   "pause": 2.64,
+   "loud_s": 1.55,
+   "mean_over": 18.4,
+   "peak_over": 27.2,
+   "size": "medium"
+  },
+  {
+   "t": 1634.54,
+   "next": 1635.76,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "at least agree on that? I have two responses to that. First, with -- Well, I -- I think -- I think a \"yes\" or \"no\" would probably be a good starting place.",
+   "pause": 1.22,
+   "loud_s": 1.1,
+   "mean_over": 25.3,
+   "peak_over": 30.4,
+   "size": "big"
+  },
+  {
+   "t": 2264.62,
+   "next": 2267.34,
+   "speaker": "JUSTICE BREYER",
+   "before": "that is true. So what is to happen if a state needing revenue says anyone who speeds has to forfeit the Bugatti, Mercedes, or a special Ferrari or even jalopy?",
+   "pause": 2.72,
+   "loud_s": 0.05,
+   "mean_over": 4.8,
+   "peak_over": 15.6,
+   "size": "small"
+  },
+  {
+   "t": 2288.16,
+   "next": 2288.16,
+   "speaker": "JUSTICE BREYER",
+   "before": "there is a constitutional limit, which is the proof of instrumentality, the need to prove nexus. That isn't a problem because it was the Bugatti in which he was speeding.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2323.76,
+   "next": 2327.24,
+   "speaker": "JUSTICE BREYER",
+   "before": "Louisa Barber case, one person over the -- the passenger limit and the entire ship is forfeit. This is -- history shows us in rem forfeiture -- So if the airplane is speeding --",
+   "pause": 3.48,
+   "loud_s": 2.3,
+   "mean_over": 27.2,
+   "peak_over": 37.0,
+   "size": "big"
+  },
+  {
+   "t": 2791.86,
+   "next": 2791.86,
+   "speaker": "MR. FISHER",
+   "before": "I'm clear, you're asking us to overrule Austin? I think that's the most historically -- Because that's the only way that you can win with a straight face? No, I don't --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -50.7,
+ "opening_start": 6.26,
+ "opening": [
+  [
+   6.26,
+   "MR. HOTTOT",
+   "Mr. Chief Justice, and may it please the Court: The freedom from excessive fines applies to the states because it is deeply rooted in our nation's history and traditions and fundamental to our scheme of ordered liberty. The State of Indiana appears not to dispute that straightforward answer to the actual question presented. And for good reason. The freedom from excessive fines easily warrants incorporation alongside the Eighth Amendment's other protections. This Court has said just that five times over the last 30 years. Without addressing the incorporation question directly, the State asked whether the clause applies to the states the same way that it applies to the federal government. But 50 years of incorporation precedent holds that incorporated Bill of Rights protections apply to the states the exact same way that they apply to the federal government. There's no reason to adopt the so-called two-track approach at this late stage of the incorporation doctrine, especially --"
+  ],
+  [
+   66.44,
+   "JUSTICE GINSBURG",
+   "Is that so of all incorporations? What about the non-unanimous jury in -- in criminal cases?"
+  ],
+  [
+   73.66,
+   "MR. HOTTOT",
+   "Justice Ginsburg, as the Court recognized in McDonald, the non-unanimous jury in criminal cases is an anomalous decision that results from a one-justice concurrence in the Apodaca case, and there's no reason, as the Court recognized in McDonald, for that to control when there's over 50 years of precedent, beginning in Malloy versus Hogan, Mapp, Aguilar, again in McDonald, rejecting that two-track approach. Adopting the two-track approach at this late stage would only invite further litigation about rights that are already incorporated. When this Court interpreted the Fourth Amendment right to be free from having your cell phone tracked in the Carpenter case, if my friend's argument were correct, we would have to relitigate whether that right applies to the states. Virtually all of the Bill of Rights, with the one exception noted by Justice Ginsburg, has been incorporated on the right-by-right approach used in McDonald, not on the application-by-application approach proposed --"
+  ],
+  [
+   136.28,
+   "JUSTICE ALITO",
+   "There are a few others that have not been incorporated, isn't that right?"
+  ],
+  [
+   139.56,
+   "MR. HOTTOT",
+   "Oh, that's true, absolutely. But that's either because they haven't been addressed by this Court, like in the case of the Third Amendment right against quartering soldiers, or because, as the Court recognized in McDonald, they long predate the era of selective incorporation. So I think it's possible that if the rights at issue in Bombolis and Hurtado were to come before this Court today, the results might be different. But we don't have to get into that history here because the history on the question presented of whether the Excessive Fines Clause applies to the states is clear."
+  ],
+  [
+   172.02,
+   "JUSTICE ALITO",
+   "What is the provision in the Constitution that you rely on?"
+  ],
+  [
+   176.9,
+   "MR. HOTTOT",
+   "The Section 1 of the Fourteenth Amendment, Your Honor."
+  ],
+  [
+   179.5,
+   "JUSTICE ALITO",
+   "It's a component of -- of the liberty that's substantively -- substantively protected by the Fourth Amendment's Due"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2018/17-1091",
+  "page_url": "https://www.oyez.org/cases/2018/17-1091",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - February 20, 2019",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24859",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2018/17-1091/17-1091_20190220-opinion.delivery.mp3",
+  "duration": 370.808163,
+  "mp3_bytes": 1513111,
+  "asr_elapsed_s": 124.3,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "gaps_filled": [
+   [
+    12.8,
+    17.92,
+    8
+   ]
+  ],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   699,
+   730,
+   737
+  ],
+  "diffs": [
+   [
+    1.16,
+    "No. 17 -1091,",
+    "number 17-1091"
+   ],
+   [
+    12.18,
+    "Ginsburg.",
+    "Tyson Timbs pleaded guilty in Indiana State Court to"
+   ],
+   [
+    17.92,
+    "",
+    "offense."
+   ],
+   [
+    20.36,
+    "Timbs",
+    "him"
+   ],
+   [
+    32.4,
+    "Timbs's",
+    "Timbs'"
+   ],
+   [
+    55.9,
+    "Timbs's",
+    "Timbs'"
+   ],
+   [
+    59.22,
+    "request,",
+    ""
+   ],
+   [
+    85.1,
+    "Timbs's",
+    "Timbs'"
+   ],
+   [
+    180.46,
+    "manner",
+    "matter"
+   ],
+   [
+    182.1,
+    "accord",
+    "a court"
+   ],
+   [
+    192.4,
+    "revenue",
+    "revenues"
+   ],
+   [
+    199.54,
+    "cost the",
+    "costs a"
+   ],
+   [
+    206.08,
+    "its",
+    ""
+   ],
+   [
+    207.4,
+    "-ramp",
+    "rem"
+   ],
+   [
+    223.1,
+    "-ramp",
+    "rem"
+   ],
+   [
+    232.88,
+    "a",
+    "the"
+   ],
+   [
+    272.9,
+    "-ramp",
+    "rem"
+   ],
+   [
+    303.82,
+    "v.",
+    "against"
+   ],
+   [
+    320.66,
+    "the",
+    "his"
+   ],
+   [
+    324.82,
+    "whether",
+    "where the"
+   ],
+   [
+    340.68,
+    "-ramp",
+    "rem"
+   ]
+  ],
+  "dropped": [
+   [
+    363.4,
+    363.48,
+    "concurrence or"
+   ]
+  ],
+  "redone": [],
+  "words": 730,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "In Case No. 17-1091, Timbs v. Indiana, Justice Ginsburg has the opinion of the Court."
+   ],
+   [
+    12.18,
+    "JUSTICE GINSBURG",
+    "Ginsburg. dealing in a controlled substance and a related The trial court sentenced Timbs to one year of home detention, five years of probation, and fees and costs totaling some $1,200. The police also seized Timbs's vehicle, a Land Rover SUV he had purchased for about $42,000, with money he received from an insurance policy when his father died. The State engaged a private law firm on a contingent fee basis to bring a civil suit for forfeiture of Timbs's Land Rover. Denying the request, requested forfeiture, the trial court observed that Timbs had recently purchased the vehicle for more than four times the maximum $10,000 monetary fine assessable against him for his drug conviction. Forfeiture of the Land Rover, the Court found, would be grossly disproportionate to the gravity of Timbs's offense and, therefore, unconstitutional under the Eighth Amendment's clause banning excessive fines. The Indiana Supreme Court ruled otherwise, holding that the Excessive Fines Clause constrains only Federal action and does not protect against exorbitant State impositions. We vacate that judgment. The Eighth Amendment's Excessive Fines Clause we hold today is an incorporated protection applicable to the States under the Fourteenth Amendment's Due Process Clause. A bill of rights protection is incorporated, meaning it is applicable to the States as well as the Federal government. We have explained if it is fundamental to our scheme of ordered liberty or deeply rooted in the Nation's history and tradition. The Excessive Fines Clause fits that description. The right to be free from excessive fines is stated in sources ranging from Magna Carta to the English Bill of Rights to State constitutions from the founding era to the present day, and for good reason. Exorbitant tolls undermine other constitutional liberties. Excessive fines historically were used to retaliate against or chill the speech of the sovereign's political adversaries. Even absent a political motive, the government may employ fines in"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "In Case No. 17-1091, Timbs v. Indiana, Justice Ginsburg has the opinion of the Court."
+   ],
+   [
+    12.18,
+    "JUSTICE GINSBURG",
+    "Ginsburg. dealing in a controlled substance and a related The trial court sentenced Timbs to one year of home detention, five years of probation, and fees and costs totaling some $1,200. The police also seized Timbs's vehicle, a Land Rover SUV he had purchased for about $42,000, with money he received from an insurance policy when his father died. The State engaged a private law firm on a contingent fee basis to bring a civil suit for forfeiture of Timbs's Land Rover. Denying the request, requested forfeiture, the trial court observed that Timbs had recently purchased the vehicle for more than four times the maximum $10,000 monetary fine assessable against him for his drug conviction. Forfeiture of the Land Rover, the Court found, would be grossly disproportionate to the gravity of Timbs's offense and, therefore, unconstitutional under the Eighth Amendment's clause banning excessive fines. The Indiana Supreme Court ruled otherwise, holding that the Excessive Fines Clause constrains only Federal action and does not protect against exorbitant State impositions. We vacate that judgment. The Eighth Amendment's Excessive Fines Clause we hold today is an incorporated protection applicable to the States under the Fourteenth Amendment's Due Process Clause. A bill of rights protection is incorporated, meaning it is applicable to the States as well as the Federal government. We have explained if it is fundamental to our scheme of ordered liberty or deeply rooted in the Nation's history and tradition. The Excessive Fines Clause fits that description. The right to be free from excessive fines is stated in sources ranging from Magna Carta to the English Bill of Rights to State constitutions from the founding era to the present day, and for good reason. Exorbitant tolls undermine other constitutional liberties. Excessive fines historically were used to retaliate against or chill the speech of the sovereign's political adversaries. Even absent a political motive, the government may employ fines in a manner out of accord with the penal goals of retribution and deterrence. The temptation to do so is real, for fines are a source of revenue in contrast to common forms of punishment, imprisonment, or supervised release that cost the State money. The State of Indiana argues that the clause does not apply to its use of civil in-ramp forfeitures because the specific application of the clause to such forfeitures is neither fundamental nor deeply rooted. But in Austin v. United States, decided in 1993, this Court held that civil in-ramp forfeiture falls within the compass of the Excessive Fines Clause when the forfeiture is at least in part punitive. Austin involved a Federal imposition, but when a bill of rights protection is incorporated, it applies identically to both the Federal government and the States. Indiana urges that we should either overrule Austin or hold that in light of Austin the Excessive Fines Clause is not incorporated. For reasons explained in our opinion, the State's request to reconsider our unanimous judgment in Austin is not properly before the Court today. The State's alternative argument that the Excessive Fines Clause should be incorporated if it applies to civil in-ramp forfeitures misapprehends the nature of our inquiry. In considering whether a bill of rights protection is incorporated, we ask whether the basic right, not each and every particular application of that right, is fundamental or deeply rooted. Indiana's suggestion to the contrary overlooks our approach to cases concerning novel applications of rights we have held to be incorporated. In Packingham v. North Carolina, decided in 2017, for example, we dealt with the North Carolina statute prohibiting registered sex offenders from accessing certain commonplace social media websites. We held that the statute violated the First Amendment right to freedom of speech without inquiring whether application of the Free Speech Clause specifically to social media websites was fundamental or deeply rooted. Similarly, here, whether or not application of the Excessive Fines Clause to civil in-ramp forfeiture is itself fundamental, our conclusion that the clause is fundamental, therefore incorporated, remains firm. For the reasons just summarized and more fully stated in the Court's opinion, we vacate the Indiana Supreme Court's judgment and remand the case for further proceedings. Justice Gorsuch has filed a concurring opinion. Justice Thomas has filed an opinion concurring in the judgment."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "In Case No. 17-1091, Timbs v. Indiana, Justice Ginsburg has the opinion of the Court."
+   ],
+   [
+    12.18,
+    "JUSTICE GINSBURG",
+    "Ginsburg."
+   ],
+   [
+    13.48,
+    "JUSTICE GINSBURG",
+    "dealing in a controlled substance and a related The trial court sentenced Timbs to one year of home detention, five years of probation, and fees and costs totaling some $1,200."
+   ],
+   [
+    29.86,
+    "JUSTICE GINSBURG",
+    "The police also seized Timbs's vehicle, a Land Rover SUV he had purchased for about $42,000, with money he received from an insurance policy when his father died."
+   ],
+   [
+    46.74,
+    "JUSTICE GINSBURG",
+    "The State engaged a private law firm on a contingent fee basis to bring a civil suit for forfeiture of Timbs's Land Rover."
+   ],
+   [
+    58.14,
+    "JUSTICE GINSBURG",
+    "Denying the request, requested forfeiture, the trial court observed that Timbs had recently purchased the vehicle for more than four times the maximum $10,000 monetary fine assessable against him for his drug conviction."
+   ],
+   [
+    77.28,
+    "JUSTICE GINSBURG",
+    "Forfeiture of the Land Rover, the Court found, would be grossly disproportionate to the gravity of Timbs's offense and, therefore, unconstitutional under the Eighth Amendment's clause banning excessive fines."
+   ],
+   [
+    93.18,
+    "JUSTICE GINSBURG",
+    "The Indiana Supreme Court ruled otherwise, holding that the Excessive Fines Clause constrains only Federal action and does not protect against exorbitant State impositions."
+   ],
+   [
+    107.9,
+    "JUSTICE GINSBURG",
+    "We vacate that judgment."
+   ],
+   [
+    110.26,
+    "JUSTICE GINSBURG",
+    "The Eighth Amendment's Excessive Fines Clause we hold today is an incorporated protection applicable to the States under the Fourteenth Amendment's Due Process Clause."
+   ],
+   [
+    122.72,
+    "JUSTICE GINSBURG",
+    "A bill of rights protection is incorporated, meaning it is applicable to the States as well as the Federal government."
+   ],
+   [
+    130.88,
+    "JUSTICE GINSBURG",
+    "We have explained if it is fundamental to our scheme of ordered liberty or deeply rooted in the Nation's history and tradition."
+   ],
+   [
+    141.08,
+    "JUSTICE GINSBURG",
+    "The Excessive Fines Clause fits that description."
+   ],
+   [
+    144.6,
+    "JUSTICE GINSBURG",
+    "The right to be free from excessive fines is stated in sources ranging from Magna Carta to the English Bill of Rights to State constitutions from the founding era to the present day, and for good reason."
+   ],
+   [
+    160.58,
+    "JUSTICE GINSBURG",
+    "Exorbitant tolls undermine other constitutional liberties."
+   ],
+   [
+    165.62,
+    "JUSTICE GINSBURG",
+    "Excessive fines historically were used to retaliate against or chill the speech of the sovereign's political adversaries."
+   ],
+   [
+    175.16,
+    "JUSTICE GINSBURG",
+    "Even absent a political motive, the government may employ fines in a manner out of accord with the penal goals of retribution and deterrence."
+   ],
+   [
+    186.6,
+    "JUSTICE GINSBURG",
+    "The temptation to do so is real, for fines are a source of revenue in contrast to common forms of punishment, imprisonment, or supervised release that cost the State money."
+   ],
+   [
+    201.24,
+    "JUSTICE GINSBURG",
+    "The State of Indiana argues that the clause does not apply to its use of civil in-ramp forfeitures because the specific application of the clause to such forfeitures is neither fundamental nor deeply rooted."
+   ],
+   [
+    216.52,
+    "JUSTICE GINSBURG",
+    "But in Austin v. United States, decided in 1993, this Court held that civil in-ramp forfeiture falls within the compass of the Excessive Fines Clause when the forfeiture is at least in part punitive."
+   ],
+   [
+    232.04,
+    "JUSTICE GINSBURG",
+    "Austin involved a Federal imposition, but when a bill of rights protection is incorporated, it applies identically to both the Federal government and the States."
+   ],
+   [
+    244.4,
+    "JUSTICE GINSBURG",
+    "Indiana urges that we should either overrule Austin or hold that in light of Austin the Excessive Fines Clause is not incorporated."
+   ],
+   [
+    253.76,
+    "JUSTICE GINSBURG",
+    "For reasons explained in our opinion, the State's request to reconsider our unanimous judgment in Austin is not properly before the Court today."
+   ],
+   [
+    264.7,
+    "JUSTICE GINSBURG",
+    "The State's alternative argument that the Excessive Fines Clause should be incorporated if it applies to civil in-ramp forfeitures misapprehends the nature of our inquiry."
+   ],
+   [
+    277.58,
+    "JUSTICE GINSBURG",
+    "In considering whether a bill of rights protection is incorporated, we ask whether the basic right, not each and every particular application of that right, is fundamental or deeply rooted."
+   ],
+   [
+    292.2,
+    "JUSTICE GINSBURG",
+    "Indiana's suggestion to the contrary overlooks our approach to cases concerning novel applications of rights we have held to be incorporated."
+   ],
+   [
+    302.98,
+    "JUSTICE GINSBURG",
+    "In Packingham v. North Carolina, decided in 2017, for example, we dealt with the North Carolina statute prohibiting registered sex offenders from accessing certain commonplace social media websites."
+   ],
+   [
+    318.66,
+    "JUSTICE GINSBURG",
+    "We held that the statute violated the First Amendment right to freedom of speech without inquiring whether application of the Free Speech Clause specifically to social media websites was fundamental or deeply rooted."
+   ],
+   [
+    334.02,
+    "JUSTICE GINSBURG",
+    "Similarly, here, whether or not application of the Excessive Fines Clause to civil in-ramp forfeiture is itself fundamental, our conclusion that the clause is fundamental, therefore incorporated, remains firm."
+   ],
+   [
+    350.92,
+    "JUSTICE GINSBURG",
+    "For the reasons just summarized and more fully stated in the Court's opinion, we vacate the Indiana Supreme Court's judgment and remand the case for further proceedings."
+   ],
+   [
+    361.7,
+    "JUSTICE GINSBURG",
+    "Justice Gorsuch has filed a concurring opinion."
+   ],
+   [
+    365.14,
+    "JUSTICE GINSBURG",
+    "Justice Thomas has filed an opinion concurring in the judgment."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    7.46,
+    15
+   ],
+   [
+    "JUSTICE GINSBURG",
+    12.18,
+    369.72,
+    707
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "17-1091",
+ "year": "2018",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2018/17-1091",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/17-1091.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2018/17-1091_6c36.pdf",
+ "model": "medium.en",
+ "duration": 3405.336,
+ "asr_elapsed_s": 1639.1,
+ "asr_words": 9349,
+ "official_words": 9754,
+ "matched": 9100,
+ "shared": 5,
+ "clamped": 0,
+ "trimmed": 18,
+ "rewindowed": 0,
+ "match_rate": 93.29505843756408,
+ "turns": 195,
+ "laugh_markers": 7,
+ "mp3_bytes": 27242925,
+ "pauses": 391,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": [
+    [
+     "34-24-1-4(a),",
+     3371.62,
+     3375.44
+    ]
+   ]
+  },
+  "short_words": 389,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.30% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-09"
+}
