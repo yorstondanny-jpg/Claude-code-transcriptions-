@@ -1,0 +1,7604 @@
+[
+ {
+  "w": "Yes,",
+  "s": 0.88,
+  "e": 1.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom,",
+  "s": 1.54,
+  "e": 1.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I've",
+  "s": 1.74,
+  "e": 1.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "got",
+  "s": 1.96,
+  "e": 2.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it.",
+  "s": 2.12,
+  "e": 2.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What's",
+  "s": 8.42,
+  "e": 8.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that?",
+  "s": 8.94,
+  "e": 9.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hmm.",
+  "s": 18.1,
+  "e": 18.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 18.62,
+  "e": 19.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yes,",
+  "s": 19.14,
+  "e": 19.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 19.78,
+  "e": 20.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ticket",
+  "s": 20.1,
+  "e": 20.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 20.36,
+  "e": 20.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "told",
+  "s": 20.56,
+  "e": 20.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me",
+  "s": 20.74,
+  "e": 20.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about.",
+  "s": 20.92,
+  "e": 21.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 22.2,
+  "e": 22.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "let's",
+  "s": 22.48,
+  "e": 22.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "see",
+  "s": 22.74,
+  "e": 22.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 22.84,
+  "e": 22.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 22.98,
+  "e": 23.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has",
+  "s": 23.08,
+  "e": 23.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 23.26,
+  "e": 23.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "say.",
+  "s": 23.48,
+  "e": 23.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Here's",
+  "s": 25.2,
+  "e": 25.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 25.72,
+  "e": 25.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "latest",
+  "s": 25.9,
+  "e": 26.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 26.28,
+  "e": 27.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 27.04,
+  "e": 27.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "broken",
+  "s": 27.26,
+  "e": 27.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ankle.",
+  "s": 27.66,
+  "e": 28.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Doc",
+  "s": 28.96,
+  "e": 29.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "says",
+  "s": 29.6,
+  "e": 30.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 30.02,
+  "e": 30.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 30.42,
+  "e": 30.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 30.72,
+  "e": 30.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right,",
+  "s": 30.92,
+  "e": 31.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "only",
+  "s": 31.86,
+  "e": 32.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 32.38,
+  "e": 32.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 32.58,
+  "e": 32.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 32.86,
+  "e": 33.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "stay",
+  "s": 33.1,
+  "e": 33.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "off",
+  "s": 33.36,
+  "e": 33.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 33.6,
+  "e": 33.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "feet",
+  "s": 33.84,
+  "e": 34.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 34.4,
+  "e": 35.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 35.6,
+  "e": 35.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "week",
+  "s": 35.8,
+  "e": 36.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 36.06,
+  "e": 36.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so.",
+  "s": 36.3,
+  "e": 36.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Anyway,",
+  "s": 37.82,
+  "e": 38.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "here's",
+  "s": 38.74,
+  "e": 39.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 39.06,
+  "e": 39.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ticket",
+  "s": 39.24,
+  "e": 39.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 39.56,
+  "e": 40.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 40.36,
+  "e": 40.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "high",
+  "s": 40.56,
+  "e": 40.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-teen",
+  "s": 40.68,
+  "e": 40.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "carnival.",
+  "s": 40.98,
+  "e": 41.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 42.54,
+  "e": 42.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "too",
+  "s": 42.86,
+  "e": 43.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "late",
+  "s": 43.06,
+  "e": 43.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 43.24,
+  "e": 43.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "turn",
+  "s": 43.46,
+  "e": 43.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 43.82,
+  "e": 43.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in,",
+  "s": 43.98,
+  "e": 44.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 44.9,
+  "e": 45.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 45.22,
+  "e": 45.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 45.48,
+  "e": 45.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yourself",
+  "s": 45.8,
+  "e": 46.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 46.22,
+  "e": 46.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time",
+  "s": 46.54,
+  "e": 46.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 46.84,
+  "e": 47.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "tell",
+  "s": 47.48,
+  "e": 47.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me",
+  "s": 47.76,
+  "e": 48.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 48.0,
+  "e": 48.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 48.22,
+  "e": 48.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it.",
+  "s": 48.5,
+  "e": 49.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "One",
+  "s": 50.36,
+  "e": 51.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "couple.",
+  "s": 51.0,
+  "e": 51.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That",
+  "s": 54.0,
+  "e": 54.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "means",
+  "s": 54.62,
+  "e": 54.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 54.9,
+  "e": 55.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date.",
+  "s": 55.1,
+  "e": 55.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Not",
+  "s": 56.34,
+  "e": 56.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like",
+  "s": 56.64,
+  "e": 56.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 56.9,
+  "e": 57.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 57.1,
+  "e": 57.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "around",
+  "s": 57.32,
+  "e": 57.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 57.62,
+  "e": 57.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 57.84,
+  "e": 58.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "crowd.",
+  "s": 58.0,
+  "e": 58.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Just",
+  "s": 59.6,
+  "e": 59.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me",
+  "s": 59.92,
+  "e": 60.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 60.34,
+  "e": 60.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 60.56,
+  "e": 60.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "girl.",
+  "s": 60.68,
+  "e": 61.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 62.14,
+  "e": 62.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that's",
+  "s": 63.24,
+  "e": 63.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 63.68,
+  "e": 63.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right.",
+  "s": 63.88,
+  "e": 64.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Only,",
+  "s": 65.72,
+  "e": 66.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 67.0,
+  "e": 67.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "girl?",
+  "s": 67.4,
+  "e": 67.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Who?",
+  "s": 68.8,
+  "e": 69.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "How",
+  "s": 71.9,
+  "e": 72.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 72.52,
+  "e": 72.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 72.7,
+  "e": 72.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "choose",
+  "s": 72.88,
+  "e": 73.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 73.16,
+  "e": 73.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date?",
+  "s": 73.42,
+  "e": 73.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Whose",
+  "s": 74.68,
+  "e": 74.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "company",
+  "s": 74.92,
+  "e": 75.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 75.32,
+  "e": 75.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 75.54,
+  "e": 75.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "enjoy?",
+  "s": 75.66,
+  "e": 76.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 77.36,
+  "e": 77.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one",
+  "s": 77.82,
+  "e": 77.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thing",
+  "s": 77.94,
+  "e": 78.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 78.18,
+  "e": 78.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 78.36,
+  "e": 78.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "consider",
+  "s": 78.64,
+  "e": 79.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 79.12,
+  "e": 79.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "looks.",
+  "s": 79.44,
+  "e": 79.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody",
+  "s": 81.62,
+  "e": 82.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thought",
+  "s": 82.16,
+  "e": 82.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 82.56,
+  "e": 82.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Janice",
+  "s": 82.86,
+  "e": 83.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 83.22,
+  "e": 83.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "how",
+  "s": 83.44,
+  "e": 83.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 83.66,
+  "e": 83.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-looking",
+  "s": 83.92,
+  "e": 84.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "she",
+  "s": 84.18,
+  "e": 84.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was.",
+  "s": 84.42,
+  "e": 84.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "He'd",
+  "s": 85.8,
+  "e": 86.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "really",
+  "s": 86.02,
+  "e": 86.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 86.24,
+  "e": 86.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 86.46,
+  "e": 86.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "rate",
+  "s": 86.68,
+  "e": 86.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 86.86,
+  "e": 87.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 87.08,
+  "e": 87.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "somebody",
+  "s": 87.24,
+  "e": 87.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like",
+  "s": 87.62,
+  "e": 87.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "her.",
+  "s": 87.9,
+  "e": 88.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yes,",
+  "s": 93.42,
+  "e": 93.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he'd",
+  "s": 94.0,
+  "e": 94.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "enjoy",
+  "s": 94.28,
+  "e": 94.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that,",
+  "s": 94.64,
+  "e": 95.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "except,",
+  "s": 95.58,
+  "e": 96.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "well,",
+  "s": 96.66,
+  "e": 96.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 96.96,
+  "e": 97.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "too",
+  "s": 97.08,
+  "e": 97.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 97.22,
+  "e": 97.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Janice",
+  "s": 97.52,
+  "e": 97.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "always",
+  "s": 97.88,
+  "e": 98.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "acts",
+  "s": 98.24,
+  "e": 98.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 98.52,
+  "e": 98.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "superior",
+  "s": 98.72,
+  "e": 99.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 99.18,
+  "e": 99.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bored.",
+  "s": 99.46,
+  "e": 99.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "She'd",
+  "s": 100.44,
+  "e": 100.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "make",
+  "s": 100.68,
+  "e": 100.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 100.8,
+  "e": 100.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fellow",
+  "s": 100.98,
+  "e": 101.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "feel",
+  "s": 101.12,
+  "e": 101.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "awkward",
+  "s": 101.42,
+  "e": 101.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 101.9,
+  "e": 102.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "inferior.",
+  "s": 102.16,
+  "e": 102.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 108.6,
+  "e": 109.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "perhaps",
+  "s": 109.98,
+  "e": 110.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "someone",
+  "s": 110.18,
+  "e": 110.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "who",
+  "s": 110.54,
+  "e": 110.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doesn't",
+  "s": 110.74,
+  "e": 111.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "feel",
+  "s": 111.0,
+  "e": 111.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "superior.",
+  "s": 111.32,
+  "e": 111.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "There's",
+  "s": 112.82,
+  "e": 113.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Betty.",
+  "s": 113.3,
+  "e": 113.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 114.32,
+  "e": 114.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yet",
+  "s": 114.42,
+  "e": 114.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 114.6,
+  "e": 114.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 114.82,
+  "e": 115.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doesn't",
+  "s": 115.06,
+  "e": 115.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "seem",
+  "s": 115.4,
+  "e": 115.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 115.62,
+  "e": 115.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 115.78,
+  "e": 115.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "she'd",
+  "s": 115.9,
+  "e": 116.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 116.18,
+  "e": 116.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "much",
+  "s": 116.3,
+  "e": 116.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fun.",
+  "s": 116.52,
+  "e": 116.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 120.4,
+  "e": 120.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 120.86,
+  "e": 121.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann?",
+  "s": 121.24,
+  "e": 121.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "She",
+  "s": 122.56,
+  "e": 122.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "knows",
+  "s": 122.84,
+  "e": 123.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "how",
+  "s": 123.0,
+  "e": 123.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 123.16,
+  "e": 123.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 123.26,
+  "e": 123.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 123.38,
+  "e": 123.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 123.52,
+  "e": 123.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time",
+  "s": 123.64,
+  "e": 124.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 124.12,
+  "e": 124.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "how",
+  "s": 124.66,
+  "e": 124.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 124.84,
+  "e": 124.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "make",
+  "s": 124.96,
+  "e": 125.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 125.12,
+  "e": 125.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fellow",
+  "s": 125.3,
+  "e": 125.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 125.48,
+  "e": 125.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "her",
+  "s": 125.72,
+  "e": 125.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "relax,",
+  "s": 125.9,
+  "e": 126.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 126.58,
+  "e": 126.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fun",
+  "s": 126.7,
+  "e": 126.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "too.",
+  "s": 126.96,
+  "e": 127.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yes,",
+  "s": 128.66,
+  "e": 129.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that's",
+  "s": 129.52,
+  "e": 129.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 129.86,
+  "e": 129.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 129.94,
+  "e": 130.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "boy",
+  "s": 130.06,
+  "e": 130.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "likes.",
+  "s": 130.32,
+  "e": 130.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "He",
+  "s": 131.34,
+  "e": 131.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wants",
+  "s": 131.38,
+  "e": 131.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 131.64,
+  "e": 131.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 131.88,
+  "e": 132.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he's",
+  "s": 132.08,
+  "e": 132.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "appreciated.",
+  "s": 132.46,
+  "e": 132.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann",
+  "s": 133.84,
+  "e": 134.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 134.08,
+  "e": 134.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 134.3,
+  "e": 134.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fun",
+  "s": 134.46,
+  "e": 134.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 134.74,
+  "e": 134.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 134.92,
+  "e": 135.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date.",
+  "s": 135.08,
+  "e": 135.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 138.12,
+  "e": 138.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody",
+  "s": 138.34,
+  "e": 138.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "decided",
+  "s": 138.52,
+  "e": 139.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he'd",
+  "s": 139.04,
+  "e": 139.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ask",
+  "s": 139.42,
+  "e": 139.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann",
+  "s": 139.66,
+  "e": 140.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 140.16,
+  "e": 140.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 140.38,
+  "e": 140.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "first",
+  "s": 140.54,
+  "e": 140.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date.",
+  "s": 140.82,
+  "e": 141.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 141.92,
+  "e": 142.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 142.1,
+  "e": 142.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "how",
+  "s": 142.38,
+  "e": 142.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "should",
+  "s": 142.64,
+  "e": 142.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 142.86,
+  "e": 143.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ask",
+  "s": 143.02,
+  "e": 143.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "her?",
+  "s": 143.3,
+  "e": 143.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 143.94,
+  "e": 144.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 144.26,
+  "e": 144.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 144.44,
+  "e": 144.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "she",
+  "s": 144.56,
+  "e": 144.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "refused?",
+  "s": 144.74,
+  "e": 145.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "No,",
+  "s": 145.82,
+  "e": 146.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 146.12,
+  "e": 146.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "won't",
+  "s": 146.28,
+  "e": 146.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 146.46,
+  "e": 146.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "easy",
+  "s": 146.7,
+  "e": 147.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "asking",
+  "s": 147.08,
+  "e": 147.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 147.68,
+  "e": 148.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 148.0,
+  "e": 148.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "first",
+  "s": 148.18,
+  "e": 148.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date.",
+  "s": 148.46,
+  "e": 148.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 150.48,
+  "e": 150.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 150.8,
+  "e": 151.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hi.",
+  "s": 151.32,
+  "e": 151.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hi,",
+  "s": 151.62,
+  "e": 151.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ed.",
+  "s": 152.06,
+  "e": 152.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 152.32,
+  "e": 152.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 152.48,
+  "e": 152.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doing?",
+  "s": 152.58,
+  "e": 152.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Just",
+  "s": 153.2,
+  "e": 153.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thinking.",
+  "s": 153.38,
+  "e": 153.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Don't",
+  "s": 154.22,
+  "e": 154.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "work",
+  "s": 154.42,
+  "e": 154.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "too",
+  "s": 154.6,
+  "e": 154.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hard.",
+  "s": 154.78,
+  "e": 155.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ed,",
+  "s": 164.36,
+  "e": 164.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 164.96,
+  "e": 164.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 164.96,
+  "e": 165.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "private?",
+  "s": 165.68,
+  "e": 166.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "No.",
+  "s": 167.12,
+  "e": 167.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Stick",
+  "s": 167.84,
+  "e": 167.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "around",
+  "s": 167.96,
+  "e": 168.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 168.24,
+  "e": 168.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 168.38,
+  "e": 168.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like.",
+  "s": 168.46,
+  "e": 168.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 171.26,
+  "e": 171.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hello,",
+  "s": 171.58,
+  "e": 171.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Edward.",
+  "s": 171.76,
+  "e": 171.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 171.96,
+  "e": 172.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thought",
+  "s": 172.24,
+  "e": 172.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 172.44,
+  "e": 172.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "heard",
+  "s": 172.64,
+  "e": 172.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 172.8,
+  "e": 173.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "come",
+  "s": 173.0,
+  "e": 173.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in.",
+  "s": 173.22,
+  "e": 173.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hi,",
+  "s": 173.66,
+  "e": 173.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom.",
+  "s": 174.02,
+  "e": 174.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What's",
+  "s": 174.42,
+  "e": 174.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 174.74,
+  "e": 174.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "supper?",
+  "s": 174.84,
+  "e": 175.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 175.42,
+  "e": 175.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom.",
+  "s": 175.72,
+  "e": 175.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Is",
+  "s": 176.6,
+  "e": 177.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 177.0,
+  "e": 177.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 177.14,
+  "e": 177.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right",
+  "s": 177.28,
+  "e": 177.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 177.44,
+  "e": 177.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 177.6,
+  "e": 177.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 177.76,
+  "e": 178.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 178.2,
+  "e": 178.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 178.32,
+  "e": 178.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 178.44,
+  "e": 178.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 178.58,
+  "e": 178.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Saturday",
+  "s": 178.72,
+  "e": 179.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night?",
+  "s": 179.02,
+  "e": 179.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 179.66,
+  "e": 179.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 179.8,
+  "e": 180.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "course.",
+  "s": 180.02,
+  "e": 180.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You",
+  "s": 180.3,
+  "e": 180.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "generally",
+  "s": 180.44,
+  "e": 180.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "go",
+  "s": 180.84,
+  "e": 181.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "out",
+  "s": 181.1,
+  "e": 181.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 181.28,
+  "e": 181.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Saturdays.",
+  "s": 181.58,
+  "e": 181.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hello.",
+  "s": 182.46,
+  "e": 182.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "May",
+  "s": 182.98,
+  "e": 183.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 183.08,
+  "e": 183.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "speak",
+  "s": 183.24,
+  "e": 183.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 183.38,
+  "e": 183.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mary,",
+  "s": 183.58,
+  "e": 183.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "please?",
+  "s": 183.8,
+  "e": 184.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But,",
+  "s": 184.6,
+  "e": 185.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom,",
+  "s": 185.28,
+  "e": 185.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 185.8,
+  "e": 186.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 186.06,
+  "e": 186.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "different.",
+  "s": 186.28,
+  "e": 186.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "A",
+  "s": 187.04,
+  "e": 187.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date.",
+  "s": 187.12,
+  "e": 187.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I,",
+  "s": 188.16,
+  "e": 188.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "well,",
+  "s": 188.9,
+  "e": 189.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 189.16,
+  "e": 189.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "haven't",
+  "s": 189.24,
+  "e": 189.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "asked",
+  "s": 189.44,
+  "e": 189.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "her",
+  "s": 189.68,
+  "e": 189.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yet,",
+  "s": 189.88,
+  "e": 190.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 190.16,
+  "e": 190.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'd",
+  "s": 190.74,
+  "e": 190.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like",
+  "s": 190.96,
+  "e": 191.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 191.08,
+  "e": 191.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "take",
+  "s": 191.24,
+  "e": 191.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Aunt",
+  "s": 191.46,
+  "e": 191.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Davis",
+  "s": 191.68,
+  "e": 191.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 191.9,
+  "e": 192.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 192.2,
+  "e": 192.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "high",
+  "s": 192.42,
+  "e": 192.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "teen",
+  "s": 192.64,
+  "e": 192.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "carnival.",
+  "s": 192.84,
+  "e": 193.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 193.92,
+  "e": 193.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann's",
+  "s": 194.02,
+  "e": 194.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 194.28,
+  "e": 194.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "nice",
+  "s": 194.56,
+  "e": 194.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "girl,",
+  "s": 194.82,
+  "e": 195.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 195.34,
+  "e": 195.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 195.58,
+  "e": 196.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date?",
+  "s": 196.68,
+  "e": 197.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 198.3,
+  "e": 198.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you're",
+  "s": 198.84,
+  "e": 199.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "rather",
+  "s": 199.0,
+  "e": 199.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "young.",
+  "s": 199.28,
+  "e": 199.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 200.38,
+  "e": 200.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom.",
+  "s": 200.74,
+  "e": 200.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Give",
+  "s": 201.1,
+  "e": 201.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "him",
+  "s": 201.26,
+  "e": 201.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 201.4,
+  "e": 201.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "break.",
+  "s": 201.68,
+  "e": 201.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 202.52,
+  "e": 202.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 202.68,
+  "e": 202.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 202.88,
+  "e": 203.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 203.0,
+  "e": 203.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "swing",
+  "s": 203.16,
+  "e": 203.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it.",
+  "s": 203.4,
+  "e": 203.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "We",
+  "s": 204.02,
+  "e": 204.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 204.16,
+  "e": 204.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 204.32,
+  "e": 204.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 204.46,
+  "e": 204.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "start",
+  "s": 204.62,
+  "e": 204.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sometime.",
+  "s": 204.8,
+  "e": 205.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 207.12,
+  "e": 207.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 207.6,
+  "e": 208.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 208.08,
+  "e": 208.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 208.2,
+  "e": 208.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "overdo",
+  "s": 208.38,
+  "e": 208.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "aunt",
+  "s": 208.82,
+  "e": 209.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "dating,",
+  "s": 209.1,
+  "e": 209.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ed",
+  "s": 210.28,
+  "e": 210.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "knows",
+  "s": 210.4,
+  "e": 210.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 210.6,
+  "e": 210.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 210.8,
+  "e": 211.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mean.",
+  "s": 211.0,
+  "e": 211.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Weekends",
+  "s": 211.46,
+  "e": 211.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "only",
+  "s": 211.94,
+  "e": 212.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 212.34,
+  "e": 212.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 212.88,
+  "e": 213.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "too",
+  "s": 213.12,
+  "e": 213.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "late.",
+  "s": 213.36,
+  "e": 213.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hello,",
+  "s": 214.12,
+  "e": 214.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mary.",
+  "s": 214.38,
+  "e": 214.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 215.66,
+  "e": 215.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 215.78,
+  "e": 216.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "caught",
+  "s": 216.26,
+  "e": 216.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "up",
+  "s": 216.46,
+  "e": 216.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 216.62,
+  "e": 216.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "check",
+  "s": 216.74,
+  "e": 216.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 216.88,
+  "e": 217.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 217.02,
+  "e": 217.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night.",
+  "s": 217.12,
+  "e": 217.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 218.34,
+  "e": 218.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 218.44,
+  "e": 218.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 218.66,
+  "e": 218.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 218.78,
+  "e": 218.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "get",
+  "s": 218.92,
+  "e": 219.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 219.04,
+  "e": 219.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 219.2,
+  "e": 219.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "little",
+  "s": 219.3,
+  "e": 219.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "earlier",
+  "s": 219.42,
+  "e": 219.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "than",
+  "s": 219.7,
+  "e": 219.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "usual.",
+  "s": 219.88,
+  "e": 220.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "How's",
+  "s": 221.1,
+  "e": 221.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "7",
+  "s": 221.34,
+  "e": 221.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": ".30?",
+  "s": 221.5,
+  "e": 221.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "All",
+  "s": 223.12,
+  "e": 223.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right,",
+  "s": 223.52,
+  "e": 223.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mary.",
+  "s": 223.76,
+  "e": 223.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Bye",
+  "s": 224.8,
+  "e": 225.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "now.",
+  "s": 225.04,
+  "e": 225.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Boy,",
+  "s": 227.88,
+  "e": 228.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 228.42,
+  "e": 228.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sure",
+  "s": 228.56,
+  "e": 228.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "make",
+  "s": 228.9,
+  "e": 229.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 229.1,
+  "e": 229.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sound",
+  "s": 229.26,
+  "e": 229.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "easy.",
+  "s": 229.5,
+  "e": 229.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "How",
+  "s": 231.04,
+  "e": 231.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 231.32,
+  "e": 231.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 231.46,
+  "e": 231.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 231.56,
+  "e": 231.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it?",
+  "s": 231.8,
+  "e": 232.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Practice,",
+  "s": 232.6,
+  "e": 232.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 232.9,
+  "e": 232.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "boy.",
+  "s": 232.96,
+  "e": 233.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Experience.",
+  "s": 233.66,
+  "e": 234.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 234.88,
+  "e": 235.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 235.2,
+  "e": 235.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 235.36,
+  "e": 235.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 235.5,
+  "e": 235.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 235.68,
+  "e": 235.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 235.94,
+  "e": 236.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 236.04,
+  "e": 236.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 236.22,
+  "e": 236.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "say,",
+  "s": 236.44,
+  "e": 236.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 237.58,
+  "e": 237.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 237.68,
+  "e": 237.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talk",
+  "s": 237.88,
+  "e": 238.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about.",
+  "s": 238.14,
+  "e": 238.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Now",
+  "s": 239.06,
+  "e": 239.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 239.52,
+  "e": 239.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "worry",
+  "s": 239.76,
+  "e": 240.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 240.02,
+  "e": 240.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that.",
+  "s": 240.4,
+  "e": 240.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Just",
+  "s": 241.12,
+  "e": 241.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 241.38,
+  "e": 241.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 241.58,
+  "e": 241.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "natural",
+  "s": 241.72,
+  "e": 242.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talkative",
+  "s": 242.08,
+  "e": 242.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "old",
+  "s": 242.54,
+  "e": 242.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "self.",
+  "s": 242.74,
+  "e": 243.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Come",
+  "s": 243.66,
+  "e": 243.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on,",
+  "s": 243.7,
+  "e": 243.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "let's",
+  "s": 243.88,
+  "e": 243.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "see",
+  "s": 243.98,
+  "e": 244.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what's",
+  "s": 244.08,
+  "e": 244.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 244.2,
+  "e": 244.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "supper.",
+  "s": 244.34,
+  "e": 244.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Wait",
+  "s": 245.12,
+  "e": 245.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 245.28,
+  "e": 245.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "second.",
+  "s": 245.46,
+  "e": 245.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 246.46,
+  "e": 246.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom,",
+  "s": 246.84,
+  "e": 247.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 247.14,
+  "e": 247.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 247.36,
+  "e": 247.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "floor",
+  "s": 247.56,
+  "e": 247.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "dry",
+  "s": 247.74,
+  "e": 248.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yet?",
+  "s": 248.06,
+  "e": 248.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yes,",
+  "s": 248.76,
+  "e": 249.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 249.16,
+  "e": 249.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 249.42,
+  "e": 249.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "come",
+  "s": 249.58,
+  "e": 249.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in.",
+  "s": 249.78,
+  "e": 250.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hello,",
+  "s": 271.16,
+  "e": 271.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mrs.",
+  "s": 272.24,
+  "e": 272.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Davis.",
+  "s": 272.92,
+  "e": 273.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 274.02,
+  "e": 274.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 274.4,
+  "e": 274.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 274.66,
+  "e": 274.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 275.42,
+  "e": 275.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mean,",
+  "s": 275.56,
+  "e": 275.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Alan",
+  "s": 276.0,
+  "e": 276.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woodruff.",
+  "s": 276.32,
+  "e": 276.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "May",
+  "s": 277.38,
+  "e": 277.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 277.82,
+  "e": 278.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "speak",
+  "s": 278.0,
+  "e": 278.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 278.24,
+  "e": 278.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann?",
+  "s": 278.44,
+  "e": 278.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "How",
+  "s": 281.08,
+  "e": 281.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 281.72,
+  "e": 281.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 281.92,
+  "e": 282.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ask",
+  "s": 282.14,
+  "e": 282.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 282.46,
+  "e": 282.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 282.68,
+  "e": 282.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date?",
+  "s": 282.86,
+  "e": 283.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 285.08,
+  "e": 285.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 285.72,
+  "e": 286.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this?",
+  "s": 286.0,
+  "e": 286.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Uh,",
+  "s": 287.6,
+  "e": 287.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann?",
+  "s": 288.06,
+  "e": 288.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 289.2,
+  "e": 289.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "how",
+  "s": 290.44,
+  "e": 290.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 290.86,
+  "e": 291.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 291.06,
+  "e": 291.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date?",
+  "s": 291.26,
+  "e": 291.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 292.52,
+  "e": 293.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 293.6,
+  "e": 293.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mean...",
+  "s": 293.74,
+  "e": 294.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 294.5,
+  "e": 294.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "really.",
+  "s": 294.74,
+  "e": 295.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "No",
+  "s": 295.86,
+  "e": 296.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thanks,",
+  "s": 296.18,
+  "e": 296.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 296.72,
+  "e": 296.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hmm.",
+  "s": 300.62,
+  "e": 301.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 301.8,
+  "e": 302.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "suppose",
+  "s": 302.38,
+  "e": 302.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 302.64,
+  "e": 302.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did",
+  "s": 302.84,
+  "e": 302.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 302.98,
+  "e": 303.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 303.14,
+  "e": 303.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "way.",
+  "s": 303.32,
+  "e": 303.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hi,",
+  "s": 304.74,
+  "e": 304.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann.",
+  "s": 305.06,
+  "e": 305.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 305.66,
+  "e": 305.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 305.82,
+  "e": 305.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doing",
+  "s": 305.94,
+  "e": 306.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Saturday",
+  "s": 306.16,
+  "e": 306.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night?",
+  "s": 306.6,
+  "e": 306.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 307.66,
+  "e": 307.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 307.96,
+  "e": 308.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "guess",
+  "s": 308.02,
+  "e": 309.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'm",
+  "s": 309.16,
+  "e": 309.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "busy.",
+  "s": 309.48,
+  "e": 309.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 310.64,
+  "e": 310.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yeah?",
+  "s": 310.84,
+  "e": 311.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 311.94,
+  "e": 312.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 312.02,
+  "e": 312.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 312.18,
+  "e": 312.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 312.28,
+  "e": 312.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 312.36,
+  "e": 312.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "giving",
+  "s": 312.52,
+  "e": 312.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "him",
+  "s": 312.7,
+  "e": 312.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 312.9,
+  "e": 313.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "brush",
+  "s": 313.1,
+  "e": 313.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "off",
+  "s": 313.28,
+  "e": 313.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 313.48,
+  "e": 313.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me?",
+  "s": 313.68,
+  "e": 313.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 315.06,
+  "e": 315.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 315.5,
+  "e": 315.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 315.5,
+  "e": 315.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 315.82,
+  "e": 316.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "nerve.",
+  "s": 316.18,
+  "e": 316.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 317.68,
+  "e": 318.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 318.22,
+  "e": 318.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 318.44,
+  "e": 318.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "another",
+  "s": 318.56,
+  "e": 318.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "way?",
+  "s": 318.86,
+  "e": 319.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann,",
+  "s": 319.72,
+  "e": 320.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 321.16,
+  "e": 321.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 321.54,
+  "e": 321.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 321.82,
+  "e": 322.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 323.02,
+  "e": 323.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 323.36,
+  "e": 323.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 323.64,
+  "e": 323.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 323.78,
+  "e": 323.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ticket",
+  "s": 323.88,
+  "e": 324.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 324.14,
+  "e": 324.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 324.38,
+  "e": 324.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "high",
+  "s": 324.52,
+  "e": 324.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "team",
+  "s": 324.64,
+  "e": 324.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "carnival",
+  "s": 324.9,
+  "e": 325.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Saturday",
+  "s": 325.36,
+  "e": 325.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and...",
+  "s": 327.15,
+  "e": 328.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Why,",
+  "s": 329.74,
+  "e": 330.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yes,",
+  "s": 330.58,
+  "e": 330.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 330.9,
+  "e": 330.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 331.38,
+  "e": 331.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 331.72,
+  "e": 331.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 331.84,
+  "e": 331.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talk",
+  "s": 331.98,
+  "e": 332.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 332.16,
+  "e": 332.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 332.3,
+  "e": 332.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "folks",
+  "s": 332.46,
+  "e": 332.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 332.66,
+  "e": 333.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it,",
+  "s": 333.02,
+  "e": 333.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 333.44,
+  "e": 333.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 333.72,
+  "e": 333.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 333.88,
+  "e": 334.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 334.04,
+  "e": 334.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 334.2,
+  "e": 334.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "go.",
+  "s": 334.34,
+  "e": 334.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That'll",
+  "s": 335.18,
+  "e": 335.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 335.54,
+  "e": 335.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fun.",
+  "s": 335.68,
+  "e": 336.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yeah.",
+  "s": 337.12,
+  "e": 337.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 338.4,
+  "e": 338.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "shall",
+  "s": 338.94,
+  "e": 339.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 339.12,
+  "e": 339.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "pick",
+  "s": 339.44,
+  "e": 339.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 339.8,
+  "e": 339.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "up",
+  "s": 339.92,
+  "e": 340.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 340.08,
+  "e": 340.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "eight",
+  "s": 340.48,
+  "e": 340.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "o",
+  "s": 340.8,
+  "e": 341.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "'clock?",
+  "s": 341.04,
+  "e": 341.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That's",
+  "s": 342.16,
+  "e": 342.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fine,",
+  "s": 342.66,
+  "e": 342.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 343.04,
+  "e": 343.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Eight",
+  "s": 343.82,
+  "e": 343.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "o",
+  "s": 343.96,
+  "e": 344.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "'clock",
+  "s": 344.16,
+  "e": 344.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Saturday.",
+  "s": 344.32,
+  "e": 344.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 345.4,
+  "e": 345.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 345.84,
+  "e": 346.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it'll",
+  "s": 346.02,
+  "e": 346.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 346.18,
+  "e": 346.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 346.32,
+  "e": 346.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right,",
+  "s": 346.48,
+  "e": 346.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 346.66,
+  "e": 346.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 346.8,
+  "e": 346.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "let",
+  "s": 346.94,
+  "e": 347.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 347.06,
+  "e": 347.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 347.2,
+  "e": 347.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 347.34,
+  "e": 347.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sure.",
+  "s": 347.56,
+  "e": 347.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Bye.",
+  "s": 348.58,
+  "e": 349.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "A",
+  "s": 351.18,
+  "e": 351.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 351.46,
+  "e": 351.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 351.7,
+  "e": 351.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 351.92,
+  "e": 352.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Saturday.",
+  "s": 352.98,
+  "e": 353.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Come",
+  "s": 376.46,
+  "e": 377.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in.",
+  "s": 377.06,
+  "e": 377.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hi,",
+  "s": 378.88,
+  "e": 379.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann.",
+  "s": 379.82,
+  "e": 379.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hi,",
+  "s": 380.06,
+  "e": 380.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Judy.",
+  "s": 380.46,
+  "e": 380.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 382.92,
+  "e": 383.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 383.52,
+  "e": 383.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 383.64,
+  "e": 383.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doing?",
+  "s": 383.8,
+  "e": 384.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Why",
+  "s": 384.5,
+  "e": 384.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "aren't",
+  "s": 384.68,
+  "e": 384.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 384.92,
+  "e": 385.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "being",
+  "s": 385.08,
+  "e": 385.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "quizzed",
+  "s": 385.34,
+  "e": 385.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 385.7,
+  "e": 385.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "little",
+  "s": 385.82,
+  "e": 386.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sister?",
+  "s": 386.02,
+  "e": 386.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'm",
+  "s": 386.92,
+  "e": 387.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "getting",
+  "s": 387.4,
+  "e": 387.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ready",
+  "s": 387.56,
+  "e": 387.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 387.8,
+  "e": 388.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 388.02,
+  "e": 388.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 388.18,
+  "e": 388.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "tonight",
+  "s": 388.4,
+  "e": 388.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 388.86,
+  "e": 389.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 389.16,
+  "e": 389.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 389.94,
+  "e": 390.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he's",
+  "s": 390.34,
+  "e": 390.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "nice.",
+  "s": 390.88,
+  "e": 391.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "A",
+  "s": 391.96,
+  "e": 392.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date,",
+  "s": 392.34,
+  "e": 392.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "huh?",
+  "s": 392.92,
+  "e": 393.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What'll",
+  "s": 393.52,
+  "e": 393.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 393.88,
+  "e": 394.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do?",
+  "s": 394.02,
+  "e": 394.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Go",
+  "s": 394.88,
+  "e": 395.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 395.12,
+  "e": 395.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "some",
+  "s": 395.24,
+  "e": 395.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fancy",
+  "s": 395.42,
+  "e": 395.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "place",
+  "s": 395.94,
+  "e": 396.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 396.28,
+  "e": 396.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "dinner?",
+  "s": 396.52,
+  "e": 396.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "No,",
+  "s": 396.96,
+  "e": 397.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "silly.",
+  "s": 397.36,
+  "e": 397.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "We're",
+  "s": 398.14,
+  "e": 398.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 398.24,
+  "e": 398.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 398.42,
+  "e": 398.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 398.52,
+  "e": 398.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "high",
+  "s": 398.7,
+  "e": 398.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "team",
+  "s": 398.82,
+  "e": 399.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "carnival",
+  "s": 399.08,
+  "e": 399.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 399.62,
+  "e": 400.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "then",
+  "s": 400.14,
+  "e": 400.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he'll",
+  "s": 400.28,
+  "e": 400.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bring",
+  "s": 400.44,
+  "e": 400.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me",
+  "s": 400.58,
+  "e": 400.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "home.",
+  "s": 400.82,
+  "e": 401.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 401.54,
+  "e": 401.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 401.94,
+  "e": 402.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doesn't",
+  "s": 402.06,
+  "e": 402.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sound",
+  "s": 402.64,
+  "e": 402.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like",
+  "s": 402.9,
+  "e": 403.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "much.",
+  "s": 403.28,
+  "e": 403.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "We'd",
+  "s": 404.58,
+  "e": 405.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 405.02,
+  "e": 405.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fun",
+  "s": 405.16,
+  "e": 405.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "at",
+  "s": 405.36,
+  "e": 405.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 405.5,
+  "e": 405.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "carnival,",
+  "s": 405.62,
+  "e": 406.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 406.34,
+  "e": 406.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 406.42,
+  "e": 406.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I,",
+  "s": 406.58,
+  "e": 406.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wouldn't",
+  "s": 407.0,
+  "e": 407.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we?",
+  "s": 407.26,
+  "e": 407.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 407.9,
+  "e": 408.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yes.",
+  "s": 408.12,
+  "e": 408.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 409.08,
+  "e": 409.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody",
+  "s": 409.62,
+  "e": 409.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 409.82,
+  "e": 409.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 409.96,
+  "e": 410.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 410.06,
+  "e": 410.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 410.22,
+  "e": 410.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 410.26,
+  "e": 410.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 410.36,
+  "e": 410.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fun",
+  "s": 410.58,
+  "e": 410.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 410.84,
+  "e": 411.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 411.3,
+  "e": 411.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "way.",
+  "s": 411.62,
+  "e": 411.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 412.68,
+  "e": 413.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 413.12,
+  "e": 413.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 413.36,
+  "e": 413.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "important",
+  "s": 413.58,
+  "e": 414.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thing",
+  "s": 414.1,
+  "e": 414.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 414.36,
+  "e": 414.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 414.6,
+  "e": 414.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 414.74,
+  "e": 414.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 414.96,
+  "e": 415.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 415.18,
+  "e": 415.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 415.34,
+  "e": 415.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 415.56,
+  "e": 415.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 415.72,
+  "e": 415.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time.",
+  "s": 415.84,
+  "e": 416.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You",
+  "s": 416.96,
+  "e": 417.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 417.14,
+  "e": 417.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "need",
+  "s": 417.36,
+  "e": 417.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 417.54,
+  "e": 417.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "spend",
+  "s": 417.7,
+  "e": 417.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 417.88,
+  "e": 418.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lot",
+  "s": 418.06,
+  "e": 418.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 418.18,
+  "e": 418.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "money",
+  "s": 418.34,
+  "e": 418.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 418.52,
+  "e": 418.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 418.72,
+  "e": 418.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that.",
+  "s": 418.88,
+  "e": 419.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You",
+  "s": 420.08,
+  "e": 420.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 420.16,
+  "e": 420.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "enjoy",
+  "s": 420.44,
+  "e": 420.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "whatever",
+  "s": 420.92,
+  "e": 421.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you're",
+  "s": 421.34,
+  "e": 421.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doing,",
+  "s": 421.72,
+  "e": 421.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "whether",
+  "s": 422.62,
+  "e": 422.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 422.92,
+  "e": 423.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "movies",
+  "s": 423.36,
+  "e": 423.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 423.76,
+  "e": 424.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "parties",
+  "s": 424.58,
+  "e": 425.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 425.06,
+  "e": 425.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "anything.",
+  "s": 425.3,
+  "e": 425.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 426.48,
+  "e": 426.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 426.72,
+  "e": 426.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "leave",
+  "s": 426.86,
+  "e": 427.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 427.0,
+  "e": 427.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "boyfriend",
+  "s": 427.16,
+  "e": 427.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "enough",
+  "s": 427.48,
+  "e": 427.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "money",
+  "s": 427.82,
+  "e": 428.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 428.12,
+  "e": 428.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he'll",
+  "s": 428.4,
+  "e": 428.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ask",
+  "s": 428.58,
+  "e": 428.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 428.82,
+  "e": 428.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "again.",
+  "s": 428.98,
+  "e": 429.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mine?",
+  "s": 429.86,
+  "e": 430.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You'll",
+  "s": 430.64,
+  "e": 430.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 430.82,
+  "e": 431.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "out",
+  "s": 431.0,
+  "e": 431.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "late.",
+  "s": 431.24,
+  "e": 431.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Why",
+  "s": 432.08,
+  "e": 432.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 432.26,
+  "e": 432.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "particularly",
+  "s": 432.44,
+  "e": 432.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "late?",
+  "s": 432.96,
+  "e": 433.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom",
+  "s": 434.18,
+  "e": 434.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 434.3,
+  "e": 434.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Dad",
+  "s": 434.5,
+  "e": 434.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 434.72,
+  "e": 434.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 434.9,
+  "e": 435.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 435.06,
+  "e": 435.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 435.32,
+  "e": 435.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "agreement",
+  "s": 435.44,
+  "e": 435.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 435.76,
+  "e": 436.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 436.06,
+  "e": 436.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time",
+  "s": 436.28,
+  "e": 436.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 436.52,
+  "e": 436.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "come",
+  "s": 436.66,
+  "e": 436.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in.",
+  "s": 436.82,
+  "e": 437.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Look,",
+  "s": 437.64,
+  "e": 437.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "will",
+  "s": 438.86,
+  "e": 439.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 439.04,
+  "e": 439.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 439.1,
+  "e": 439.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 439.22,
+  "e": 439.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "honey",
+  "s": 439.34,
+  "e": 439.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 439.44,
+  "e": 439.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "get",
+  "s": 439.58,
+  "e": 439.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 439.7,
+  "e": 439.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "stockings",
+  "s": 439.88,
+  "e": 440.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "from",
+  "s": 440.24,
+  "e": 440.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 440.4,
+  "e": 440.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bathroom?",
+  "s": 440.56,
+  "e": 440.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Sure.",
+  "s": 440.84,
+  "e": 441.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom!",
+  "s": 447.3,
+  "e": 447.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mom!",
+  "s": 448.42,
+  "e": 448.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Do",
+  "s": 449.0,
+  "e": 449.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we",
+  "s": 449.16,
+  "e": 449.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 449.28,
+  "e": 449.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "any",
+  "s": 449.44,
+  "e": 449.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "cleaning",
+  "s": 449.6,
+  "e": 449.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fluids?",
+  "s": 449.92,
+  "e": 450.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "There's",
+  "s": 451.56,
+  "e": 451.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 451.9,
+  "e": 452.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "spot",
+  "s": 452.02,
+  "e": 452.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 452.16,
+  "e": 452.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Michael's.",
+  "s": 452.38,
+  "e": 452.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Goodness,",
+  "s": 452.94,
+  "e": 453.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 453.4,
+  "e": 453.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 453.56,
+  "e": 453.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we",
+  "s": 453.84,
+  "e": 454.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 454.12,
+  "e": 454.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "some.",
+  "s": 454.5,
+  "e": 454.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 455.86,
+  "e": 456.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "here,",
+  "s": 456.48,
+  "e": 456.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "let",
+  "s": 456.82,
+  "e": 456.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me...",
+  "s": 456.92,
+  "e": 457.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That's",
+  "s": 457.36,
+  "e": 458.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it,",
+  "s": 458.64,
+  "e": 458.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "son.",
+  "s": 459.12,
+  "e": 459.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Look",
+  "s": 459.7,
+  "e": 459.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 459.84,
+  "e": 460.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "best.",
+  "s": 460.06,
+  "e": 460.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Your",
+  "s": 460.92,
+  "e": 461.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "first",
+  "s": 461.08,
+  "e": 461.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 461.5,
+  "e": 461.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 461.78,
+  "e": 462.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mighty",
+  "s": 462.1,
+  "e": 462.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "important",
+  "s": 462.48,
+  "e": 463.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 463.06,
+  "e": 463.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me.",
+  "s": 463.36,
+  "e": 463.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yeah.",
+  "s": 463.58,
+  "e": 463.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Dad,",
+  "s": 468.96,
+  "e": 469.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 469.94,
+  "e": 470.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 470.24,
+  "e": 470.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "excited",
+  "s": 470.38,
+  "e": 470.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 470.84,
+  "e": 471.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night",
+  "s": 471.02,
+  "e": 471.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 471.18,
+  "e": 471.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 471.32,
+  "e": 471.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "first",
+  "s": 471.46,
+  "e": 471.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date?",
+  "s": 471.74,
+  "e": 471.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 472.36,
+  "e": 472.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sure",
+  "s": 472.64,
+  "e": 473.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was.",
+  "s": 473.02,
+  "e": 473.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 474.38,
+  "e": 474.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 474.56,
+  "e": 474.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I.",
+  "s": 474.84,
+  "e": 475.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 475.4,
+  "e": 475.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "took",
+  "s": 475.62,
+  "e": 475.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 475.82,
+  "e": 476.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 476.1,
+  "e": 476.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "seriously.",
+  "s": 476.3,
+  "e": 477.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "A",
+  "s": 477.34,
+  "e": 477.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 477.46,
+  "e": 477.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 477.66,
+  "e": 477.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 477.82,
+  "e": 478.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "major",
+  "s": 478.0,
+  "e": 478.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "event.",
+  "s": 478.44,
+  "e": 478.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Why,",
+  "s": 479.52,
+  "e": 479.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 479.72,
+  "e": 479.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night",
+  "s": 479.82,
+  "e": 479.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 479.96,
+  "e": 480.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 480.14,
+  "e": 480.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "first",
+  "s": 480.3,
+  "e": 480.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date,",
+  "s": 480.6,
+  "e": 481.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 481.54,
+  "e": 481.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 481.72,
+  "e": 481.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 481.94,
+  "e": 482.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 482.12,
+  "e": 482.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "flat",
+  "s": 482.34,
+  "e": 482.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "tire",
+  "s": 482.54,
+  "e": 482.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 482.96,
+  "e": 483.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 483.14,
+  "e": 483.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 483.22,
+  "e": 483.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 483.34,
+  "e": 483.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hour",
+  "s": 483.5,
+  "e": 483.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "late.",
+  "s": 483.68,
+  "e": 484.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 484.52,
+  "e": 484.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 484.74,
+  "e": 484.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "didn't",
+  "s": 484.9,
+  "e": 485.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "even",
+  "s": 485.1,
+  "e": 485.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bother",
+  "s": 485.28,
+  "e": 485.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 485.56,
+  "e": 485.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "call",
+  "s": 485.86,
+  "e": 486.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me.",
+  "s": 486.04,
+  "e": 486.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 486.68,
+  "e": 486.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "when",
+  "s": 486.8,
+  "e": 486.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 486.94,
+  "e": 487.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "finally",
+  "s": 487.06,
+  "e": 487.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "came,",
+  "s": 487.4,
+  "e": 487.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 487.84,
+  "e": 487.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 487.94,
+  "e": 488.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 488.08,
+  "e": 488.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "run",
+  "s": 488.22,
+  "e": 488.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "upstairs",
+  "s": 488.44,
+  "e": 488.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 488.82,
+  "e": 489.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 489.04,
+  "e": 489.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 489.1,
+  "e": 489.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "face",
+  "s": 489.28,
+  "e": 489.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 489.56,
+  "e": 489.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 489.7,
+  "e": 489.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hair",
+  "s": 489.9,
+  "e": 490.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 490.08,
+  "e": 490.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "over",
+  "s": 490.32,
+  "e": 490.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "again.",
+  "s": 490.54,
+  "e": 490.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 491.26,
+  "e": 491.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 491.48,
+  "e": 491.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 491.62,
+  "e": 491.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 491.8,
+  "e": 492.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "upset.",
+  "s": 492.08,
+  "e": 492.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 493.58,
+  "e": 493.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 493.68,
+  "e": 493.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 493.86,
+  "e": 493.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lot",
+  "s": 493.98,
+  "e": 494.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 494.16,
+  "e": 494.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "learn",
+  "s": 494.34,
+  "e": 494.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 494.56,
+  "e": 494.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "girls.",
+  "s": 494.92,
+  "e": 495.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Your",
+  "s": 496.38,
+  "e": 496.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mother",
+  "s": 496.46,
+  "e": 496.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lost",
+  "s": 496.82,
+  "e": 497.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 497.2,
+  "e": 497.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "interest",
+  "s": 497.56,
+  "e": 497.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 497.84,
+  "e": 498.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "him",
+  "s": 498.08,
+  "e": 498.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "after",
+  "s": 498.36,
+  "e": 499.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "she",
+  "s": 499.26,
+  "e": 499.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "met",
+  "s": 499.48,
+  "e": 499.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me.",
+  "s": 499.66,
+  "e": 500.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 503.02,
+  "e": 503.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 503.5,
+  "e": 503.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "moral",
+  "s": 503.66,
+  "e": 503.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 503.82,
+  "e": 504.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 504.04,
+  "e": 504.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "story",
+  "s": 504.22,
+  "e": 504.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 504.58,
+  "e": 504.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 504.96,
+  "e": 505.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 505.32,
+  "e": 505.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "should",
+  "s": 505.46,
+  "e": 505.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 505.6,
+  "e": 505.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 505.74,
+  "e": 505.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time",
+  "s": 505.88,
+  "e": 506.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "tonight,",
+  "s": 506.12,
+  "e": 506.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right?",
+  "s": 506.72,
+  "e": 506.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You",
+  "s": 507.18,
+  "e": 507.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bet.",
+  "s": 507.48,
+  "e": 507.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 508.14,
+  "e": 508.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 508.38,
+  "e": 508.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "same",
+  "s": 508.52,
+  "e": 508.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "goes",
+  "s": 508.86,
+  "e": 509.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 509.26,
+  "e": 509.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann.",
+  "s": 509.6,
+  "e": 509.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Any",
+  "s": 509.84,
+  "e": 510.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "girl",
+  "s": 510.14,
+  "e": 510.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "who",
+  "s": 510.34,
+  "e": 510.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can't",
+  "s": 510.52,
+  "e": 510.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 510.8,
+  "e": 510.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ready",
+  "s": 510.94,
+  "e": 511.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 511.14,
+  "e": 511.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time",
+  "s": 511.4,
+  "e": 511.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 511.66,
+  "e": 511.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 511.86,
+  "e": 512.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "date",
+  "s": 512.08,
+  "e": 512.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "isn't",
+  "s": 512.26,
+  "e": 512.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 512.62,
+  "e": 512.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "enough",
+  "s": 512.74,
+  "e": 513.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 513.0,
+  "e": 513.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 513.16,
+  "e": 513.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "boy.",
+  "s": 513.44,
+  "e": 513.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 515.1,
+  "e": 515.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 515.32,
+  "e": 515.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 515.52,
+  "e": 515.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 515.82,
+  "e": 516.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doing?",
+  "s": 516.08,
+  "e": 516.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 518.04,
+  "e": 518.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "go",
+  "s": 518.46,
+  "e": 518.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "find",
+  "s": 518.62,
+  "e": 518.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 518.86,
+  "e": 519.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mirror",
+  "s": 519.04,
+  "e": 519.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 519.28,
+  "e": 519.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 519.52,
+  "e": 519.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 519.62,
+  "e": 519.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "see",
+  "s": 519.8,
+  "e": 520.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yourself.",
+  "s": 520.0,
+  "e": 520.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hi,",
+  "s": 526.24,
+  "e": 526.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 526.8,
+  "e": 526.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 527.18,
+  "e": 527.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hi.",
+  "s": 527.56,
+  "e": 527.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Good",
+  "s": 527.7,
+  "e": 527.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night,",
+  "s": 527.82,
+  "e": 528.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "eh?",
+  "s": 528.3,
+  "e": 528.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yeah.",
+  "s": 528.38,
+  "e": 528.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Flowers.",
+  "s": 529.76,
+  "e": 530.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann",
+  "s": 531.68,
+  "e": 531.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "won't",
+  "s": 531.86,
+  "e": 532.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "expect",
+  "s": 532.1,
+  "e": 532.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "flowers,",
+  "s": 532.46,
+  "e": 532.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "will",
+  "s": 533.1,
+  "e": 533.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "she?",
+  "s": 533.2,
+  "e": 533.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Huh?",
+  "s": 534.58,
+  "e": 534.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oh,",
+  "s": 535.26,
+  "e": 535.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 535.76,
+  "e": 535.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hardly",
+  "s": 535.88,
+  "e": 536.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 536.04,
+  "e": 536.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so.",
+  "s": 536.3,
+  "e": 536.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'm",
+  "s": 536.86,
+  "e": 537.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thinking",
+  "s": 537.18,
+  "e": 537.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 537.34,
+  "e": 537.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "these",
+  "s": 537.56,
+  "e": 537.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 537.6,
+  "e": 537.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "marry",
+  "s": 537.8,
+  "e": 537.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "because",
+  "s": 537.94,
+  "e": 538.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 538.26,
+  "e": 538.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 538.46,
+  "e": 538.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "special",
+  "s": 538.6,
+  "e": 538.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "occasion.",
+  "s": 538.96,
+  "e": 539.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Of",
+  "s": 539.88,
+  "e": 540.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "course,",
+  "s": 540.06,
+  "e": 540.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 540.22,
+  "e": 540.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 540.32,
+  "e": 540.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "want",
+  "s": 540.42,
+  "e": 540.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 540.64,
+  "e": 540.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "take",
+  "s": 540.78,
+  "e": 540.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "flowers",
+  "s": 540.92,
+  "e": 541.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "anyway,",
+  "s": 541.28,
+  "e": 541.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 542.1,
+  "e": 542.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "guess",
+  "s": 542.1,
+  "e": 542.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there's",
+  "s": 542.2,
+  "e": 542.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no",
+  "s": 542.44,
+  "e": 542.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "law",
+  "s": 542.56,
+  "e": 542.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "against",
+  "s": 542.82,
+  "e": 543.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it.",
+  "s": 543.08,
+  "e": 543.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But...",
+  "s": 544.34,
+  "e": 544.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 544.82,
+  "e": 545.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 545.04,
+  "e": 545.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 545.18,
+  "e": 545.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 545.42,
+  "e": 545.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 545.56,
+  "e": 545.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "unless",
+  "s": 545.86,
+  "e": 546.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 546.4,
+  "e": 546.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 546.68,
+  "e": 546.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ritzy",
+  "s": 546.78,
+  "e": 547.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "affair.",
+  "s": 547.02,
+  "e": 547.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That's",
+  "s": 549.04,
+  "e": 549.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 549.46,
+  "e": 549.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "general",
+  "s": 549.58,
+  "e": 549.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "idea.",
+  "s": 549.92,
+  "e": 550.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Flowers",
+  "s": 550.94,
+  "e": 551.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 551.16,
+  "e": 551.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 551.42,
+  "e": 551.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "prom",
+  "s": 551.68,
+  "e": 551.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 551.92,
+  "e": 552.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 552.08,
+  "e": 552.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "very",
+  "s": 552.2,
+  "e": 552.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "special",
+  "s": 552.34,
+  "e": 552.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "party.",
+  "s": 552.7,
+  "e": 553.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Otherwise,",
+  "s": 553.06,
+  "e": 553.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 553.94,
+  "e": 554.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 554.0,
+  "e": 554.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "need",
+  "s": 554.14,
+  "e": 554.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to.",
+  "s": 554.34,
+  "e": 554.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Say,",
+  "s": 555.56,
+  "e": 556.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 556.14,
+  "e": 556.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 556.28,
+  "e": 556.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 556.38,
+  "e": 556.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "run.",
+  "s": 556.56,
+  "e": 556.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Me",
+  "s": 557.02,
+  "e": 557.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "too.",
+  "s": 557.12,
+  "e": 557.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "See",
+  "s": 557.68,
+  "e": 557.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 557.78,
+  "e": 557.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "later.",
+  "s": 557.9,
+  "e": 558.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'm",
+  "s": 560.04,
+  "e": 560.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going,",
+  "s": 560.5,
+  "e": 560.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "folks.",
+  "s": 560.98,
+  "e": 561.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "All",
+  "s": 562.08,
+  "e": 562.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right,",
+  "s": 562.34,
+  "e": 562.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ed.",
+  "s": 562.88,
+  "e": 562.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Have",
+  "s": 563.2,
+  "e": 563.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 563.46,
+  "e": 563.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "nice",
+  "s": 563.66,
+  "e": 563.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time.",
+  "s": 563.9,
+  "e": 564.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You're",
+  "s": 611.04,
+  "e": 612.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "welcome.",
+  "s": 612.44,
+  "e": 612.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 633.54,
+  "e": 634.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "when",
+  "s": 634.08,
+  "e": 634.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you're",
+  "s": 634.28,
+  "e": 634.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "having",
+  "s": 634.5,
+  "e": 634.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 634.7,
+  "e": 635.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "much",
+  "s": 635.02,
+  "e": 635.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fun,",
+  "s": 635.24,
+  "e": 635.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time",
+  "s": 635.9,
+  "e": 636.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "goes",
+  "s": 636.08,
+  "e": 636.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 636.38,
+  "e": 636.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "too",
+  "s": 636.72,
+  "e": 637.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fast.",
+  "s": 637.02,
+  "e": 637.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 639.16,
+  "e": 639.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 639.58,
+  "e": 639.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 639.78,
+  "e": 639.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time",
+  "s": 639.92,
+  "e": 640.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann",
+  "s": 640.22,
+  "e": 640.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 640.48,
+  "e": 640.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "set",
+  "s": 640.66,
+  "e": 640.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 640.8,
+  "e": 641.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "getting",
+  "s": 641.02,
+  "e": 641.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "home.",
+  "s": 641.26,
+  "e": 641.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 641.66,
+  "e": 642.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "now,",
+  "s": 642.66,
+  "e": 643.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 643.36,
+  "e": 643.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night,",
+  "s": 643.48,
+  "e": 643.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 644.3,
+  "e": 644.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "end",
+  "s": 644.42,
+  "e": 644.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 644.74,
+  "e": 644.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 644.88,
+  "e": 645.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "perfect",
+  "s": 645.06,
+  "e": 645.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "evening.",
+  "s": 645.36,
+  "e": 645.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 647.22,
+  "e": 647.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "how",
+  "s": 647.86,
+  "e": 648.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 648.5,
+  "e": 648.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 648.74,
+  "e": 648.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "say",
+  "s": 648.96,
+  "e": 649.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 649.28,
+  "e": 649.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night?",
+  "s": 649.48,
+  "e": 649.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Perhaps...",
+  "s": 654.38,
+  "e": 655.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Don't",
+  "s": 655.02,
+  "e": 655.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "leave.",
+  "s": 655.58,
+  "e": 656.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What,",
+  "s": 660.08,
+  "e": 660.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann?",
+  "s": 660.66,
+  "e": 660.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Or",
+  "s": 673.52,
+  "e": 674.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 674.12,
+  "e": 674.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "could",
+  "s": 674.24,
+  "e": 674.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "go",
+  "s": 674.46,
+  "e": 674.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 674.68,
+  "e": 674.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "way.",
+  "s": 674.92,
+  "e": 675.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 680.28,
+  "e": 680.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 681.18,
+  "e": 681.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "long,",
+  "s": 681.34,
+  "e": 681.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ed.",
+  "s": 681.78,
+  "e": 682.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Just",
+  "s": 684.76,
+  "e": 685.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like",
+  "s": 685.36,
+  "e": 685.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that.",
+  "s": 685.68,
+  "e": 686.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "After",
+  "s": 686.98,
+  "e": 687.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all,",
+  "s": 687.28,
+  "e": 687.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 687.62,
+  "e": 687.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "girl",
+  "s": 687.7,
+  "e": 687.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "likes",
+  "s": 687.92,
+  "e": 688.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 688.16,
+  "e": 688.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 688.4,
+  "e": 688.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you've",
+  "s": 688.54,
+  "e": 688.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 688.78,
+  "e": 688.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 688.86,
+  "e": 689.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 689.02,
+  "e": 689.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time.",
+  "s": 689.16,
+  "e": 689.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 692.06,
+  "e": 692.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "let's",
+  "s": 692.66,
+  "e": 692.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "try",
+  "s": 692.96,
+  "e": 693.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "saying",
+  "s": 693.22,
+  "e": 693.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 693.72,
+  "e": 693.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night",
+  "s": 693.92,
+  "e": 694.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "again.",
+  "s": 694.16,
+  "e": 694.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "One",
+  "s": 695.5,
+  "e": 695.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "more",
+  "s": 695.64,
+  "e": 695.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "way.",
+  "s": 695.9,
+  "e": 696.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 698.28,
+  "e": 698.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 699.3,
+  "e": 699.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "getting",
+  "s": 699.66,
+  "e": 699.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "late.",
+  "s": 699.98,
+  "e": 700.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yes,",
+  "s": 700.4,
+  "e": 701.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 701.4,
+  "e": 701.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is.",
+  "s": 701.5,
+  "e": 701.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'd",
+  "s": 702.3,
+  "e": 702.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ask",
+  "s": 702.5,
+  "e": 702.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 702.68,
+  "e": 702.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 702.84,
+  "e": 703.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 703.0,
+  "e": 703.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 703.12,
+  "e": 703.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bite",
+  "s": 703.32,
+  "e": 703.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 703.32,
+  "e": 703.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "eat",
+  "s": 703.52,
+  "e": 703.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 703.6,
+  "e": 703.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 703.74,
+  "e": 703.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 703.84,
+  "e": 704.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 704.02,
+  "e": 704.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "late.",
+  "s": 704.28,
+  "e": 704.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Let's",
+  "s": 706.26,
+  "e": 706.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "plan",
+  "s": 706.54,
+  "e": 706.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 706.72,
+  "e": 706.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "get",
+  "s": 706.86,
+  "e": 706.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "home",
+  "s": 706.96,
+  "e": 707.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 707.14,
+  "e": 707.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time",
+  "s": 707.3,
+  "e": 707.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 707.52,
+  "e": 707.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 707.72,
+  "e": 707.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sandwich",
+  "s": 707.88,
+  "e": 708.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 708.18,
+  "e": 708.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "something",
+  "s": 708.34,
+  "e": 708.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "next",
+  "s": 708.7,
+  "e": 709.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time.",
+  "s": 709.02,
+  "e": 709.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Say,",
+  "s": 710.08,
+  "e": 710.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 710.48,
+  "e": 710.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sounds",
+  "s": 710.66,
+  "e": 711.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good.",
+  "s": 711.0,
+  "e": 711.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 711.72,
+  "e": 712.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "call",
+  "s": 712.08,
+  "e": 712.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 712.22,
+  "e": 712.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "next",
+  "s": 712.38,
+  "e": 712.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "week.",
+  "s": 712.6,
+  "e": 712.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Will?",
+  "s": 713.26,
+  "e": 713.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 715.06,
+  "e": 715.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thanks",
+  "s": 715.54,
+  "e": 716.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 716.02,
+  "e": 716.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "much.",
+  "s": 716.36,
+  "e": 716.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 717.0,
+  "e": 717.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 717.24,
+  "e": 717.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "loads",
+  "s": 717.44,
+  "e": 717.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 717.92,
+  "e": 718.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fun.",
+  "s": 718.18,
+  "e": 718.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 718.8,
+  "e": 718.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did",
+  "s": 718.96,
+  "e": 719.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I.",
+  "s": 719.16,
+  "e": 719.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Good",
+  "s": 719.96,
+  "e": 720.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night,",
+  "s": 720.14,
+  "e": 720.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Woody.",
+  "s": 720.72,
+  "e": 720.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Good",
+  "s": 721.24,
+  "e": 721.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "night,",
+  "s": 721.32,
+  "e": 721.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Ann.",
+  "s": 721.66,
+  "e": 721.66,
+  "speaker": "SPEAKER 1"
+ }
+]
