@@ -1,0 +1,664 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-1151.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1151/20091202a_08-1151.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 480.38,
+   "next": 481.9,
+   "speaker": "JUSTICE SCALIA",
+   "before": "that cannot be -- So what does the statute say about your right to have peaceful enjoyment of your land? Well, you can have quiet hot dog stands during the daytime.",
+   "pause": 1.52,
+   "loud_s": 0.95,
+   "mean_over": 17.0,
+   "peak_over": 23.9,
+   "size": "medium"
+  },
+  {
+   "t": 1188.96,
+   "next": 1188.96,
+   "speaker": "JUSTICE SCALIA",
+   "before": "that -- that the public can use, and that may wash away in 6 years anyway, and if they're lucky the State won't have enough money to put it back? Or --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1266.42,
+   "next": 1267.16,
+   "speaker": "JUSTICE SCALIA",
+   "before": "200-foot accreting beach. These property owners did not view that they were gaining anything. It may not change the property line, but all of your property might be under water --",
+   "pause": 0.74,
+   "loud_s": 0.05,
+   "mean_over": 9.7,
+   "peak_over": 12.3,
+   "size": "small"
+  },
+  {
+   "t": 1594.685,
+   "next": 1594.685,
+   "speaker": "MR. SAFRIET",
+   "before": "When I read it, it seemed to me to deal with reliction precisely. I do think that's true, because the majority in Sand Key said that it dealt with them.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1602.96,
+   "next": 1603.1,
+   "speaker": "MR. SAFRIET",
+   "before": "majority in Sand Key said that it dealt with them. If there are no further questions, I\u2019d like to reserve my time for rebuttal. A good lawyerly response. Thank you.",
+   "pause": 0.14,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1803.66,
+   "next": 1803.66,
+   "speaker": "MR. MAKAR",
+   "before": "avulsion, a hurricane may knock down their house. Does that mean the State could come in and knock down the house and say this is an artificial avulsion? No, absolutely --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2367.74,
+   "next": 2367.74,
+   "speaker": "JUSTICE SCALIA",
+   "before": "some other act, right? Well, if there was -- if there were some other act where the legislature passes a law -- Right. Well, it's the Spring Break Act of 2010, okay?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2557.38,
+   "next": 2560.92,
+   "speaker": "JUSTICE BREYER",
+   "before": "So it's not that it's a taking -- Absolutely. -- and you're compensating; it is a reason why this is a -- I am somewhat putting words in your mouth, but I mean --",
+   "pause": 3.54,
+   "loud_s": 3.4,
+   "mean_over": 29.4,
+   "peak_over": 36.2,
+   "size": "big"
+  },
+  {
+   "t": 2565.76,
+   "next": 2567.28,
+   "speaker": "JUSTICE SCALIA",
+   "before": "a reason why this is a -- I am somewhat putting words in your mouth, but I mean -- Well, certainly our position is that there's no -- You won't disagree with that.",
+   "pause": 1.52,
+   "loud_s": 1.35,
+   "mean_over": 31.5,
+   "peak_over": 36.2,
+   "size": "big"
+  },
+  {
+   "t": 2642.8,
+   "next": 2642.8,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "this case it won't make a difference, because it's so reasonable, it\u2019s -- there's not a taking. But what about -- what do you call those -- the spring fling, the spring break --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3604.34,
+   "next": 3605.12,
+   "speaker": "JUSTICE SCALIA",
+   "before": "sand. Oh, no, no. This is -- you can't. You can't. What if it's going the opposite way? What if it's -- if they built up sand? I mean -- It's rock. Yes.",
+   "pause": 0.78,
+   "loud_s": 0.05,
+   "mean_over": 8.0,
+   "peak_over": 15.3,
+   "size": "small"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -46.8,
+ "opening_start": 11.68,
+ "opening": [
+  [
+   11.68,
+   "MR. SAFRIET",
+   "Mr. Chief Justice, and may it please the Court: Today we ask this Court to expressly recognize that a State court decision, unpredictable in terms of relevant precedents, which redefines century-old property rights to no longer exist, violates the Fifth Amendment of the United States Constitution. The Florida Supreme Court suddenly and dramatically redefined littoral property rights, converting oceanfront property into oceanview property to avoid the finding of a taking. It did so in the context of a beach restoration project which could have been accomplished without taking any private property at all. Given this Court's jurisprudence that a State's legislative and executive branches cannot violate the Fifth Amendment, we see no reason why the judicial branch should be treated any differently."
+  ],
+  [
+   57.62,
+   "JUSTICE GINSBURG",
+   "I thought your basic position in the litigation in Florida was that the Florida legislation violated the takings protection, and so it's kind of strange to switch your target from the legislature, which enacted this measure, and then say, because the judiciary upheld it, the judiciary somehow is complicit in this violation by the legislature implemented by the administrative offices."
+  ],
+  [
+   96.22,
+   "MR. SAFRIET",
+   "That is correct, Your Honor. Below, the case was litigated as one of a taking by the legislature when it passed the Act. When it passed the Beach and Shore Preservation Act, it contained a provision within section 161.141, which is a savings clause, that said to the extent the beach restoration cannot be accomplished without taking property rights, the requesting authorities have to use eminent domain proceedings to take those rights. At the First District Court of Appeal, they agreed with us that the littoral rights were being taken by the Act of the legislature and that those had to be compensated for. When we arrived at the Florida Supreme Court, again, all of the parties were arguing those issues, whether there was a physical taking of these rights or a regulatory taking of these rights by the Act and whether the savings clause would apply. To everybody's shock, the Florida Supreme Court said: We're going to go back to step one and decide you don't have any littoral rights. The legislature didn't eliminate any protected littoral rights that you thought you once had for over a hundred years as the relevant precedents in common law indicate. So it was that decision of the Florida Supreme Court, that said you have -- no longer have property, that gives rise to the issue before this Court is, can the Florida Supreme Court redefine those 100-year-old rights to no longer exist?"
+  ],
+  [
+   172.92,
+   "JUSTICE GINSBURG",
+   "Applied in a new situation. It was never the kind of situation involved here with the beach restoration project. The -- the precedent did not involve the kind of situation that"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2009/08-1151",
+  "page_url": "https://www.oyez.org/cases/2009/08-1151",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 17, 2010",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23123",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1151/20100617o_08-1151.delivery.mp3",
+  "duration": 511.817256,
+  "mp3_bytes": 2152741,
+  "asr_elapsed_s": 294.7,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   1256,
+   1320,
+   1298
+  ],
+  "diffs": [
+   [
+    7.06,
+    "Incorporated v.",
+    "Inc. versus"
+   ],
+   [
+    51.9,
+    "",
+    "the"
+   ],
+   [
+    55.6,
+    "an",
+    "in"
+   ],
+   [
+    96.36,
+    "consist",
+    "consists"
+   ],
+   [
+    136.34,
+    "property. Respondents of",
+    "property.Respondents,"
+   ],
+   [
+    149.32,
+    "dried",
+    "dry"
+   ],
+   [
+    161.84,
+    "the",
+    "a"
+   ],
+   [
+    184.64,
+    "and",
+    "an"
+   ],
+   [
+    222.58,
+    "re",
+    "we"
+   ],
+   [
+    223.1,
+    "to",
+    ""
+   ],
+   [
+    235.36,
+    "Though",
+    "Well,"
+   ],
+   [
+    236.1,
+    "taking",
+    "thinking"
+   ],
+   [
+    246.98,
+    "have held",
+    "upheld"
+   ],
+   [
+    249.12,
+    "recharacterizes",
+    "recharacterize"
+   ],
+   [
+    281.64,
+    "recommend",
+    "recommends"
+   ],
+   [
+    294.56,
+    "sum,",
+    "some,"
+   ],
+   [
+    299.32,
+    "of",
+    "to"
+   ],
+   [
+    301.32,
+    "exists,",
+    "exist."
+   ],
+   [
+    323.26,
+    "lack",
+    "lacked"
+   ],
+   [
+    359.8,
+    "there is",
+    "there's"
+   ],
+   [
+    363.1,
+    "than",
+    "the"
+   ],
+   [
+    367.68,
+    "",
+    "Now"
+   ],
+   [
+    387.78,
+    "precedence, end quote.",
+    "precedents\u201d."
+   ],
+   [
+    427.18,
+    "unripe",
+    "un-right"
+   ],
+   [
+    436.82,
+    "jurisdictional, we deem",
+    "jurisdictionally deemed,"
+   ],
+   [
+    473.06,
+    "that",
+    "then"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 1320,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Scalia has the opinion of the Court in Case 08-1151, Stop the Beach Renourishment Incorporated v. The Florida Department of Environmental Protection. He has asked that I announce the opinion for him. In this case, on writ of certiorari from the Supreme Court of Florida, we deal with complicated facts and the summary that follows leaves out some minor details. Under Florida law, the State owns, in trust for the public, land permanently submerged beneath navigable waters and the land between the low tide line and the mean high water line. Thus, the mean high water line is the ordinary boundary between private beachfront or littoral property and State-owned land. Littoral owners have certain rights that include, as relevant here, the right to ownership of accretions to their littoral property. An accretion is an addition to shore property that occurs gradually and imperceptibly. An addition created by a sudden change, such as a hurricane, is called an avulsion and does not belong to the littoral owner. When an avulsion occurs, the seaward boundary of littoral property remains what it was, the mean high water line before the event. Thus, when an avulsion has added new land, the littoral owner no longer owns oceanfront, and any later accretions to the new land belong to the owner of the seabed, which is ordinarily the State. Florida's Beach and Shore Preservation Act establishes procedures for restoration projects that consist of depositing sand on eroded beaches. When such a project is undertaken, the Respondent Board of Trustees of the Internal Improvement Trust Fund, which holds title to the seabed, sets a fixed erosion control line to replace the fluctuating mean high water line as the boundary between littoral property and State property. Once the new line is recorded, the common law ceases to apply. Thereafter, when accretion moves the mean high water line seaward, the littoral property remains bounded by the permanent erosion control line and is thus no longer oceanfront property. Respondents of the city of Destin and Walton County sought permits to restore 6.9 miles of beach eroded by several hurricanes, adding about 75 feet of dried sand seaward of the mean high water line, which was to become fixed as the erosion control line. Petitioner, a nonprofit corporation formed by owners of oceanfront property bordering the project, brought an unsuccessful administrative challenge. Respondent, the Florida Department of Environmental Protection, approved the permits and this suit followed. The district court of appeal for the first district concluded that the department's order had eliminated the Petitioner member's right to"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Scalia has the opinion of the Court in Case 08-1151, Stop the Beach Renourishment Incorporated v. The Florida Department of Environmental Protection. He has asked that I announce the opinion for him. In this case, on writ of certiorari from the Supreme Court of Florida, we deal with complicated facts and the summary that follows leaves out some minor details. Under Florida law, the State owns, in trust for the public, land permanently submerged beneath navigable waters and the land between the low tide line and the mean high water line. Thus, the mean high water line is the ordinary boundary between private beachfront or littoral property and State-owned land. Littoral owners have certain rights that include, as relevant here, the right to ownership of accretions to their littoral property. An accretion is an addition to shore property that occurs gradually and imperceptibly. An addition created by a sudden change, such as a hurricane, is called an avulsion and does not belong to the littoral owner. When an avulsion occurs, the seaward boundary of littoral property remains what it was, the mean high water line before the event. Thus, when an avulsion has added new land, the littoral owner no longer owns oceanfront, and any later accretions to the new land belong to the owner of the seabed, which is ordinarily the State. Florida's Beach and Shore Preservation Act establishes procedures for restoration projects that consist of depositing sand on eroded beaches. When such a project is undertaken, the Respondent Board of Trustees of the Internal Improvement Trust Fund, which holds title to the seabed, sets a fixed erosion control line to replace the fluctuating mean high water line as the boundary between littoral property and State property. Once the new line is recorded, the common law ceases to apply. Thereafter, when accretion moves the mean high water line seaward, the littoral property remains bounded by the permanent erosion control line and is thus no longer oceanfront property. Respondents of the city of Destin and Walton County sought permits to restore 6.9 miles of beach eroded by several hurricanes, adding about 75 feet of dried sand seaward of the mean high water line, which was to become fixed as the erosion control line. Petitioner, a nonprofit corporation formed by owners of oceanfront property bordering the project, brought an unsuccessful administrative challenge. Respondent, the Florida Department of Environmental Protection, approved the permits and this suit followed. The district court of appeal for the first district concluded that the department's order had eliminated the Petitioner member's right to receive accretions to their property, thus affecting an uncompensated and unconstitutional taking. The court of appeal, therefore, set aside the order, remanded the proceeding and certified to the Florida Supreme Court the question whether the act unconstitutionally deprived Petitioner's members of littoral rights without just compensation. The State Supreme Court answered no and quashed the remand, concluding that the members did not own the property supposedly taken. Petitioner sought rehearing on the ground that the Florida Supreme Court's decision affected a taking of Petitioner's members' littoral rights contrary to the Fifth and Fourteenth Amendments. Rehearing was denied and re-granted to certiorari. I will describe first the holding of a plurality of the Court in an opinion by Justice Scalia, joined by me, Justice Thomas, and Justice Alito. Though the classic taking is a transfer of property to the State or to another private party by eminent domain, the takings clause applies to other State actions that achieve the same thing. Thus, we have held that it is a taking if the government recharacterizes as public property what was previously private property. The takings clause is not addressed to the action of a specific branch or branches. It is concerned simply with the act and not the governmental actor, nor shall private property be taken, is what it says. There is no textual justification for saying that the existence or the scope of a State's power to expropriate private property without just compensation varies according to the branch of government affecting the expropriation, nor does common sense recommend such a principle. It would be absurd to allow a State to do by judicial decree what the takings clause forbids it to do by legislative fiat, and our precedents provide no support for such a thing. In sum, if a legislature or a court declares that what was once an established right of private property no longer exists, it has taken that property no less than if the State had physically appropriated it or destroyed its value by regulation. The plurality opinion then rejects several arguments of Respondent's opposing the principle that there can be a judicial taking or adding to it conditions that would not apply to a legislative or executive taking. One is that the Federal courts lack the knowledge of State law required to decide whether a judicial decision that purports merely to clarify property rights has instead taken an established property right. But in non-takings context, Federal courts must often decide what State property rights exist, and indeed they must do so to resolve claims that legislative or executive action has affected a taking. Another argument is that we must not deprive common law judging of needed flexibility. But that argument has little appeal when directed against the enforcement of a constitutional guarantee adopted in an era when courts had no power to change the common law. And there is no apparent reason why judges need more flexibility to change than legislatures or executives. As described, the test we apply for a judicial taking is whether the decision eliminates an established property right. The Petitioner proposes instead an unpredictability test maintaining that a judicial taking consists of a decision that, quote, constitutes a sudden change in State law, unpredictable in terms of relevant precedence, end quote. We reject that. What counts is not whether there is precedent or warning for the allegedly confiscatory decision. Warning or not, what matters is whether the property right allegedly taken was established. The portions of the opinion I next describe are unanimous. They pertain to whether a taking has occurred and are joined by the four justices who find no need to decide whether there is such a thing as a judicial taking. At the outset, the city and county argue that Petitioner cannot state a cause of action for a taking because, though Petitioner's members own private property, Petitioner itself does not, and that the claim is unripe because Petitioner has not sought just compensation. Neither objection appeared in the briefs in opposition to the petition for writ of certiorari, and since neither is jurisdictional, we deem both waived. Petitioner argues that the Florida Supreme Court took its members' right to accretion by simply declaring that the right did not exist. We conclude, however, that there was no preexisting established right to accretion under the circumstances produced by Florida's Beach and Shore Preservation Act. The new land added to the shore would not come by way of accretion, that is gradually, but by way of avulsion, a sudden addition by dumping along the shore, sand dredged from farther out. Prior Florida cases suggest that the State has the right to fill in submerged land and that an avulsion created by the State is no different from any other avulsion. It cannot be said, therefore, that the Florida Supreme Court's decision deprived Petitioner's members of an established property right since they had no established right to additions by avulsion. The judgment of the Supreme Court of Florida is affirmed. Justice Kennedy has filed an opinion concurring in part and concurring in the judgment in which Justice Sotomayor has joined. Justice Breyer has filed an opinion concurring in part and concurring in the judgment in which Justice Ginsburg has joined. Justice Stevens took no part in the decision of the case."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Scalia has the opinion of the Court in Case 08-1151, Stop the Beach Renourishment Incorporated v. The Florida Department of Environmental Protection."
+   ],
+   [
+    11.0,
+    "CHIEF JUSTICE ROBERTS",
+    "He has asked that I announce the opinion for him."
+   ],
+   [
+    14.06,
+    "CHIEF JUSTICE ROBERTS",
+    "In this case, on writ of certiorari from the Supreme Court of Florida, we deal with complicated facts and the summary that follows leaves out some minor details."
+   ],
+   [
+    25.16,
+    "CHIEF JUSTICE ROBERTS",
+    "Under Florida law, the State owns, in trust for the public, land permanently submerged beneath navigable waters and the land between the low tide line and the mean high water line."
+   ],
+   [
+    38.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Thus, the mean high water line is the ordinary boundary between private beachfront or littoral property and State-owned land."
+   ],
+   [
+    46.5,
+    "CHIEF JUSTICE ROBERTS",
+    "Littoral owners have certain rights that include, as relevant here, the right to ownership of accretions to their littoral property."
+   ],
+   [
+    53.82,
+    "CHIEF JUSTICE ROBERTS",
+    "An accretion is an addition to shore property that occurs gradually and imperceptibly."
+   ],
+   [
+    60.54,
+    "CHIEF JUSTICE ROBERTS",
+    "An addition created by a sudden change, such as a hurricane, is called an avulsion and does not belong to the littoral owner."
+   ],
+   [
+    68.46,
+    "CHIEF JUSTICE ROBERTS",
+    "When an avulsion occurs, the seaward boundary of littoral property remains what it was, the mean high water line before the event."
+   ],
+   [
+    77.1,
+    "CHIEF JUSTICE ROBERTS",
+    "Thus, when an avulsion has added new land, the littoral owner no longer owns oceanfront, and any later accretions to the new land belong to the owner of the seabed, which is ordinarily the State."
+   ],
+   [
+    90.3,
+    "CHIEF JUSTICE ROBERTS",
+    "Florida's Beach and Shore Preservation Act establishes procedures for restoration projects that consist of depositing sand on eroded beaches."
+   ],
+   [
+    100.06,
+    "CHIEF JUSTICE ROBERTS",
+    "When such a project is undertaken, the Respondent Board of Trustees of the Internal Improvement Trust Fund, which holds title to the seabed, sets a fixed erosion control line to replace the fluctuating mean high water line as the boundary between littoral property and State property."
+   ],
+   [
+    120.02,
+    "CHIEF JUSTICE ROBERTS",
+    "Once the new line is recorded, the common law ceases to apply."
+   ],
+   [
+    125.2,
+    "CHIEF JUSTICE ROBERTS",
+    "Thereafter, when accretion moves the mean high water line seaward, the littoral property remains bounded by the permanent erosion control line and is thus no longer oceanfront property."
+   ],
+   [
+    138.52,
+    "CHIEF JUSTICE ROBERTS",
+    "Respondents of the city of Destin and Walton County sought permits to restore 6.9 miles of beach eroded by several hurricanes, adding about 75 feet of dried sand seaward of the mean high water line, which was to become fixed as the erosion control line."
+   ],
+   [
+    156.82,
+    "CHIEF JUSTICE ROBERTS",
+    "Petitioner, a nonprofit corporation formed by owners of oceanfront property bordering the project, brought an unsuccessful administrative challenge."
+   ],
+   [
+    166.56,
+    "CHIEF JUSTICE ROBERTS",
+    "Respondent, the Florida Department of Environmental Protection, approved the permits and this suit followed."
+   ],
+   [
+    172.8,
+    "CHIEF JUSTICE ROBERTS",
+    "The district court of appeal for the first district concluded that the department's order had eliminated the Petitioner member's right to receive accretions to their property, thus affecting an uncompensated and unconstitutional taking."
+   ],
+   [
+    187.6,
+    "CHIEF JUSTICE ROBERTS",
+    "The court of appeal, therefore, set aside the order, remanded the proceeding and certified to the Florida Supreme Court the question whether the act unconstitutionally deprived Petitioner's members of littoral rights without just compensation."
+   ],
+   [
+    202.8,
+    "CHIEF JUSTICE ROBERTS",
+    "The State Supreme Court answered no and quashed the remand, concluding that the members did not own the property supposedly taken."
+   ],
+   [
+    211.02,
+    "CHIEF JUSTICE ROBERTS",
+    "Petitioner sought rehearing on the ground that the Florida Supreme Court's decision affected a taking of Petitioner's members' littoral rights contrary to the Fifth and Fourteenth Amendments."
+   ],
+   [
+    220.98,
+    "CHIEF JUSTICE ROBERTS",
+    "Rehearing was denied and re-granted to certiorari."
+   ],
+   [
+    225.2,
+    "CHIEF JUSTICE ROBERTS",
+    "I will describe first the holding of a plurality of the Court in an opinion by Justice Scalia, joined by me, Justice Thomas, and Justice Alito."
+   ],
+   [
+    235.36,
+    "CHIEF JUSTICE ROBERTS",
+    "Though the classic taking is a transfer of property to the State or to another private party by eminent domain, the takings clause applies to other State actions that achieve the same thing."
+   ],
+   [
+    245.86,
+    "CHIEF JUSTICE ROBERTS",
+    "Thus, we have held that it is a taking if the government recharacterizes as public property what was previously private property."
+   ],
+   [
+    254.62,
+    "CHIEF JUSTICE ROBERTS",
+    "The takings clause is not addressed to the action of a specific branch or branches."
+   ],
+   [
+    259.2,
+    "CHIEF JUSTICE ROBERTS",
+    "It is concerned simply with the act and not the governmental actor, nor shall private property be taken, is what it says."
+   ],
+   [
+    267.02,
+    "CHIEF JUSTICE ROBERTS",
+    "There is no textual justification for saying that the existence or the scope of a State's power to expropriate private property without just compensation varies according to the branch of government affecting the expropriation, nor does common sense recommend such a principle."
+   ],
+   [
+    283.36,
+    "CHIEF JUSTICE ROBERTS",
+    "It would be absurd to allow a State to do by judicial decree what the takings clause forbids it to do by legislative fiat, and our precedents provide no support for such a thing."
+   ],
+   [
+    294.32,
+    "CHIEF JUSTICE ROBERTS",
+    "In sum, if a legislature or a court declares that what was once an established right of private property no longer exists, it has taken that property no less than if the State had physically appropriated it or destroyed its value by regulation."
+   ],
+   [
+    309.2,
+    "CHIEF JUSTICE ROBERTS",
+    "The plurality opinion then rejects several arguments of Respondent's opposing the principle that there can be a judicial taking or adding to it conditions that would not apply to a legislative or executive taking."
+   ],
+   [
+    321.86,
+    "CHIEF JUSTICE ROBERTS",
+    "One is that the Federal courts lack the knowledge of State law required to decide whether a judicial decision that purports merely to clarify property rights has instead taken an established property right."
+   ],
+   [
+    333.46,
+    "CHIEF JUSTICE ROBERTS",
+    "But in non-takings context, Federal courts must often decide what State property rights exist, and indeed they must do so to resolve claims that legislative or executive action has affected a taking."
+   ],
+   [
+    345.4,
+    "CHIEF JUSTICE ROBERTS",
+    "Another argument is that we must not deprive common law judging of needed flexibility."
+   ],
+   [
+    350.32,
+    "CHIEF JUSTICE ROBERTS",
+    "But that argument has little appeal when directed against the enforcement of a constitutional guarantee adopted in an era when courts had no power to change the common law."
+   ],
+   [
+    359.24,
+    "CHIEF JUSTICE ROBERTS",
+    "And there is no apparent reason why judges need more flexibility to change than legislatures or executives."
+   ],
+   [
+    367.68,
+    "CHIEF JUSTICE ROBERTS",
+    "As described, the test we apply for a judicial taking is whether the decision eliminates an established property right."
+   ],
+   [
+    375.4,
+    "CHIEF JUSTICE ROBERTS",
+    "The Petitioner proposes instead an unpredictability test maintaining that a judicial taking consists of a decision that, quote, constitutes a sudden change in State law, unpredictable in terms of relevant precedence, end quote."
+   ],
+   [
+    389.6,
+    "CHIEF JUSTICE ROBERTS",
+    "We reject that."
+   ],
+   [
+    390.96,
+    "CHIEF JUSTICE ROBERTS",
+    "What counts is not whether there is precedent or warning for the allegedly confiscatory decision."
+   ],
+   [
+    396.54,
+    "CHIEF JUSTICE ROBERTS",
+    "Warning or not, what matters is whether the property right allegedly taken was established."
+   ],
+   [
+    402.28,
+    "CHIEF JUSTICE ROBERTS",
+    "The portions of the opinion I next describe are unanimous."
+   ],
+   [
+    406.34,
+    "CHIEF JUSTICE ROBERTS",
+    "They pertain to whether a taking has occurred and are joined by the four justices who find no need to decide whether there is such a thing as a judicial taking."
+   ],
+   [
+    415.16,
+    "CHIEF JUSTICE ROBERTS",
+    "At the outset, the city and county argue that Petitioner cannot state a cause of action for a taking because, though Petitioner's members own private property, Petitioner itself does not, and that the claim is unripe because Petitioner has not sought just compensation."
+   ],
+   [
+    431.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Neither objection appeared in the briefs in opposition to the petition for writ of certiorari, and since neither is jurisdictional, we deem both waived."
+   ],
+   [
+    439.68,
+    "CHIEF JUSTICE ROBERTS",
+    "Petitioner argues that the Florida Supreme Court took its members' right to accretion by simply declaring that the right did not exist."
+   ],
+   [
+    446.8,
+    "CHIEF JUSTICE ROBERTS",
+    "We conclude, however, that there was no preexisting established right to accretion under the circumstances produced by Florida's Beach and Shore Preservation Act."
+   ],
+   [
+    456.18,
+    "CHIEF JUSTICE ROBERTS",
+    "The new land added to the shore would not come by way of accretion, that is gradually, but by way of avulsion, a sudden addition by dumping along the shore, sand dredged from farther out."
+   ],
+   [
+    467.98,
+    "CHIEF JUSTICE ROBERTS",
+    "Prior Florida cases suggest that the State has the right to fill in submerged land and that an avulsion created by the State is no different from any other avulsion."
+   ],
+   [
+    477.34,
+    "CHIEF JUSTICE ROBERTS",
+    "It cannot be said, therefore, that the Florida Supreme Court's decision deprived Petitioner's members of an established property right since they had no established right to additions by avulsion."
+   ],
+   [
+    490.04,
+    "CHIEF JUSTICE ROBERTS",
+    "The judgment of the Supreme Court of Florida is affirmed."
+   ],
+   [
+    493.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has filed an opinion concurring in part and concurring in the judgment in which Justice Sotomayor has joined."
+   ],
+   [
+    500.96,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Breyer has filed an opinion concurring in part and concurring in the judgment in which Justice Ginsburg has joined."
+   ],
+   [
+    507.76,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Stevens took no part in the decision of the case."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    511.1,
+    1315
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "08-1151",
+ "year": "2009",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2009/08-1151",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1151/20091202a_08-1151.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-1151.pdf",
+ "model": "medium.en",
+ "duration": 3782.687347,
+ "asr_elapsed_s": 2623.1,
+ "asr_words": 11213,
+ "official_words": 11559,
+ "matched": 10598,
+ "shared": 5,
+ "clamped": 0,
+ "trimmed": 18,
+ "rewindowed": 2,
+ "match_rate": 91.68613201834069,
+ "turns": 350,
+ "laugh_markers": 11,
+ "mp3_bytes": 30286859,
+ "pauses": 387,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": false,
+   "detail": "2 words longer than 3 s outside laugh positions",
+   "examples": [
+    [
+     "oceanography",
+     2648.5,
+     2651.82
+    ],
+    [
+     "what",
+     2669.1,
+     2673.3
+    ]
+   ],
+   "numbers": []
+  },
+  "short_words": 538,
+  "match_rate": {
+   "ok": true,
+   "detail": "91.69% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-10"
+}
