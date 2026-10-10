@@ -1,0 +1,716 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-1332.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1332/20100419a_08-1332.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 44.8,
+   "next": 46.62,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "Department in text messages on his department-issued pager in light of the operational realities of his workplace, which included the explicit no privacy in text messages policy. The written policy?",
+   "pause": 1.82,
+   "loud_s": 0.7,
+   "mean_over": 12.3,
+   "peak_over": 17.9,
+   "size": "medium"
+  },
+  {
+   "t": 886.12,
+   "next": 886.56,
+   "speaker": "JUSTICE SCALIA",
+   "before": "to them with e-mail, but that's just -- that's all in the record that suggests that. You know, if they were on duty 24/7, there weren't any off-duty messages, were there?",
+   "pause": 0.44,
+   "loud_s": 0.15,
+   "mean_over": 18.0,
+   "peak_over": 24.6,
+   "size": "small"
+  },
+  {
+   "t": 2079.44,
+   "next": 2079.44,
+   "speaker": "JUSTICE BREYER",
+   "before": "1,800 messages and I wanted to know which are personal and which are work-related, a good way to get at least a good first cut would be to read them.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2115.1,
+   "next": 2116.22,
+   "speaker": "JUSTICE BREYER",
+   "before": "my coworkers and their wives and me, which happened to be the case here. Right. So I guess if you had asked for consent, the officer would have said no.",
+   "pause": 1.12,
+   "loud_s": 0.0,
+   "mean_over": 6.0,
+   "peak_over": 9.0,
+   "size": "small"
+  },
+  {
+   "t": 2136.32,
+   "next": 2136.56,
+   "speaker": "MR. DAMMEIER",
+   "before": "have had the officers themselves count the messages. Well, the officer is going to say, hey, these are all big -- work-related. I\u2019ll tell you that. I only had two. Well --",
+   "pause": 0.24,
+   "loud_s": 0.1,
+   "mean_over": 19.3,
+   "peak_over": 20.4,
+   "size": "under speech"
+  },
+  {
+   "t": 2734.36,
+   "next": 2736.24,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "where it's coming from. And he's talking with a girlfriend, and he has a voice mail saying that your call is very important to us; we\u2019ll get back to you?",
+   "pause": 1.88,
+   "loud_s": 1.65,
+   "mean_over": 22.6,
+   "peak_over": 29.6,
+   "size": "big"
+  },
+  {
+   "t": 3034.7,
+   "next": 3035.92,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "be processing the delivery of this message. And -- Well, I didn't -- I wouldn't think that. I thought, you know, you push a button; it goes right to the other thing.",
+   "pause": 1.22,
+   "loud_s": 0.05,
+   "mean_over": 10.4,
+   "peak_over": 21.9,
+   "size": "small"
+  },
+  {
+   "t": 3038.78,
+   "next": 3041.62,
+   "speaker": "JUSTICE SCALIA",
+   "before": "I wouldn't think that. I thought, you know, you push a button; it goes right to the other thing. Well -- You mean it doesn't go right to the other thing?",
+   "pause": 2.84,
+   "loud_s": 2.7,
+   "mean_over": 29.4,
+   "peak_over": 35.7,
+   "size": "big"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -47.5,
+ "opening_start": 7.86,
+ "opening": [
+  [
+   7.86,
+   "MR. RICHLAND",
+   "Mr. Chief Justice, and may it please the Court: Under the less restrictive constitutional standards applied when government acts as employer, as opposed to sovereign, there was no Fourth Amendment violation here. First, Ontario Police Sergeant Jeff Quon had no reasonable expectation of privacy vis-\u00e0-vis the Ontario Police Department in text messages on his department-issued pager in light of the operational realities of his workplace, which included the explicit no privacy in text messages policy."
+  ],
+  [
+   43.96,
+   "CHIEF JUSTICE ROBERTS",
+   "The written policy? (Laughter.)"
+  ],
+  [
+   46.62,
+   "CHIEF JUSTICE ROBERTS",
+   "The whole -- the argument here, of course, is that that was modified by the instructions he got from the lieutenant. Do we follow the written policy or the policy they allegedly enforced in practice?"
+  ],
+  [
+   59.28,
+   "MR. RICHLAND",
+   "That is the argument, Mr. Chief Justice. But, in fact, there was no inconsistency between the no privacy in text messages aspect of the written policy and the oral information he was given. First of all, the written policy itself was broad enough to cover text messages. It stated, for example, at Appendix 152, that it applied to city-owned computers and all associated equipment. And again at 152: \"City-owned computer equipment, computer peripheral, city networks, the Internet, e-mail, or other city-related computer services.\" And, finally, the agreement to the policy was that it applied -- this is at Appendix 156 -- to city-owned computers and related equipment. So certainly the written policy itself was broad enough to cover text messaging pagers, but in addition to that, nothing in the oral statements made by Lieutenant Duke undermined the no-privacy aspect of the written policy."
+  ],
+  [
+   122.46,
+   "CHIEF JUSTICE ROBERTS",
+   "Well, we are dealing with Mr. Quon's reasonable expectations, right?"
+  ],
+  [
+   126.42,
+   "MR. RICHLAND",
+   "Yes, yes."
+  ],
+  [
+   126.62,
+   "CHIEF JUSTICE ROBERTS",
+   "And even with the written policy, he has the instructions -- everybody agrees -- you can use this pager for private communications."
+  ],
+  [
+   133.96,
+   "MR. RICHLAND",
+   "That\u2019s correct."
+  ],
+  [
+   135.14,
+   "CHIEF JUSTICE ROBERTS",
+   "We\u2019re not going to audit them. Right? That's what he said. He has to pay for them. Right? Now, most things, if you're paying for them, they\u2019re yours. And this -- it particularly covered messages off-duty. Now, can't you sort of put all those together and say that it would be reasonable for him to assume that private messages were his business? They said he can do it. They said, you\u2019ve got to pay for it. He used it off duty. They said they\u2019re not going to audit it."
+  ],
+  [
+   161.94,
+   "MR. RICHLAND",
+   "Not when he was told at the same time that these text messages were considered e-mail and could be audited, and that they were considered public records and could be audited at any time; that is, it has to do with a different aspect of what the policy -- the oral policy --"
+  ],
+  [
+   183.38,
+   "JUSTICE GINSBURG",
+   "In addition to -- that was said at the meeting -- and Lieutenant Duke,"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2009/08-1332",
+  "page_url": "https://www.oyez.org/cases/2009/08-1332",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 17, 2010",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23194",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1332/20100617o_08-1332.delivery.mp3",
+  "duration": 361.822,
+  "mp3_bytes": 1553784,
+  "asr_elapsed_s": 205.5,
+  "trimmed": 2,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   864,
+   913,
+   919
+  ],
+  "diffs": [
+   [
+    6.72,
+    "v. Kwan. Kennedy.",
+    "versus Quon."
+   ],
+   [
+    15.42,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    30.0,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    55.54,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    58.34,
+    "Lieutenant",
+    "Lt."
+   ],
+   [
+    62.52,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    68.96,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    71.92,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    72.66,
+    "reimbursed",
+    "reimburse"
+   ],
+   [
+    77.82,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    78.6,
+    "to",
+    "for"
+   ],
+   [
+    81.84,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    91.32,
+    "was",
+    ""
+   ],
+   [
+    98.04,
+    "Kwan's",
+    "Quon\u2019s"
+   ],
+   [
+    107.94,
+    "to",
+    "the"
+   ],
+   [
+    112.46,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    118.66,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    123.38,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    126.6,
+    "had",
+    "of course"
+   ],
+   [
+    130.36,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    139.76,
+    "",
+    "of --"
+   ],
+   [
+    141.72,
+    "Kwan's",
+    "Quon\u2019s"
+   ],
+   [
+    149.8,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    153.54,
+    "",
+    "and that the trans --"
+   ],
+   [
+    171.58,
+    "and",
+    "an"
+   ],
+   [
+    181.26,
+    "presidents",
+    "precedents"
+   ],
+   [
+    186.46,
+    "whether",
+    "weather"
+   ],
+   [
+    195.88,
+    "",
+    "and"
+   ],
+   [
+    239.48,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    249.56,
+    "Sharf",
+    "Scharf"
+   ],
+   [
+    250.7,
+    "and ordered",
+    "in order"
+   ],
+   [
+    281.96,
+    "Kwan's",
+    "Quon\u2019s"
+   ],
+   [
+    287.64,
+    "Kwan",
+    "Quon"
+   ],
+   [
+    296.68,
+    "that the",
+    "But if a"
+   ],
+   [
+    299.94,
+    "Kwan's",
+    "Quon's"
+   ],
+   [
+    312.72,
+    "Kwan's",
+    "Quon\u2019s"
+   ],
+   [
+    325.84,
+    "",
+    "one"
+   ],
+   [
+    329.82,
+    "post hoc",
+    "post-talk"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 913,
+  "opening": [
+   [
+    0.62,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has our opinion this morning in Case 08-1332, City of Ontario, California v. Kwan."
+   ],
+   [
+    8.14,
+    "JUSTICE KENNEDY",
+    "Kennedy. The City of Ontario is a political subdivision of the State of California. This case arose out of incidents when Jeff Kwan was employed by the Ontario Police Department. He was a police sergeant. He was also a member of the Special Weapons and Tactics Team. Those teams are commonly known as SWAT. The city issued pagers to Kwan and other SWAT team members, and these pagers could send and receive text messages. Under the city's service contract, each pager, and therefore each employee who had one, was allotted a limited number of characters sent or received each month. Use in excess of that amount would result in an additional fee. Within the first or second billing cycle, Kwan exceeded his monthly allotment. Lieutenant Duke was the officer in charge of the pagers. He reminded Kwan that under city policies, messages sent on the pagers were not private and could be audited. And Duke told Kwan that Duke could audit the messages. But he suggested that Kwan instead reimbursed the city for the entire overage fee to make an audit unnecessary. Kwan wrote a check to the city for the overage. Over the next few months, Kwan and other employees exceeded their character limits various times. Eventually, Duke informed the city, the chief of police, who was Chief Lloyd Scharf, that he was tired of being a bill collector. Chief Scharf decided to audit the messages on Kwan's pager as well as those of another employee who had exceeded his allowance in order to determine whether the existing character limits were too low and officers were having to pay for work-related messages. The audit revealed that Kwan sent numerous personal messages while on duty. Some were sexually explicit. Kwan was found to have violated department rules. Kwan and other respondents who were individuals who had corresponded with and communicated with Kwan on his pager filed suit. They alleged that the city, the department, and the Chief Scharf had violated their Fourth Amendment rights when reviewing the transcript and the text of Kwan's messages. The district court ruled for the defendants, but the United States Court of Appeals for the Ninth Circuit reversed. The panel concluded that Kwan had a reasonable expectation of privacy in the context of his messages and that the defendants had unreasonably violated that expectation by reviewing the transcript. We granted certiorari. The Fourth Amendment forbids unreasonable searches and seizures, and that provision guarantees the privacy, dignity, and security of persons against arbitrary and invasive acts by officers of the government. The Fourth Amendment applies when the government acts in its capacity as an employer."
+   ]
+  ],
+  "full_text": [
+   [
+    0.62,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has our opinion this morning in Case 08-1332, City of Ontario, California v. Kwan."
+   ],
+   [
+    8.14,
+    "JUSTICE KENNEDY",
+    "Kennedy. The City of Ontario is a political subdivision of the State of California. This case arose out of incidents when Jeff Kwan was employed by the Ontario Police Department. He was a police sergeant. He was also a member of the Special Weapons and Tactics Team. Those teams are commonly known as SWAT. The city issued pagers to Kwan and other SWAT team members, and these pagers could send and receive text messages. Under the city's service contract, each pager, and therefore each employee who had one, was allotted a limited number of characters sent or received each month. Use in excess of that amount would result in an additional fee. Within the first or second billing cycle, Kwan exceeded his monthly allotment. Lieutenant Duke was the officer in charge of the pagers. He reminded Kwan that under city policies, messages sent on the pagers were not private and could be audited. And Duke told Kwan that Duke could audit the messages. But he suggested that Kwan instead reimbursed the city for the entire overage fee to make an audit unnecessary. Kwan wrote a check to the city for the overage. Over the next few months, Kwan and other employees exceeded their character limits various times. Eventually, Duke informed the city, the chief of police, who was Chief Lloyd Scharf, that he was tired of being a bill collector. Chief Scharf decided to audit the messages on Kwan's pager as well as those of another employee who had exceeded his allowance in order to determine whether the existing character limits were too low and officers were having to pay for work-related messages. The audit revealed that Kwan sent numerous personal messages while on duty. Some were sexually explicit. Kwan was found to have violated department rules. Kwan and other respondents who were individuals who had corresponded with and communicated with Kwan on his pager filed suit. They alleged that the city, the department, and the Chief Scharf had violated their Fourth Amendment rights when reviewing the transcript and the text of Kwan's messages. The district court ruled for the defendants, but the United States Court of Appeals for the Ninth Circuit reversed. The panel concluded that Kwan had a reasonable expectation of privacy in the context of his messages and that the defendants had unreasonably violated that expectation by reviewing the transcript. We granted certiorari. The Fourth Amendment forbids unreasonable searches and seizures, and that provision guarantees the privacy, dignity, and security of persons against arbitrary and invasive acts by officers of the government. The Fourth Amendment applies when the government acts in its capacity as an employer. The Court's presidents have not definitively established how to determine when and whether an employee has a reasonable expectation of privacy in the workplace. Cell phone and text messages and their related communications are so pervasive that some persons may consider them to be essential means or necessary instruments for self-expression, even self-identification. That might strengthen the case for an expectation of privacy. On the other hand, one could counter that employees who need cell phones or similar devices for personal matters can purchase and pay for their own. And employer policies concerning communications will, of course, shape the reasonable expectations of their employees, especially to the extent that the employer policies are clearly communicated. We need not explore these matters further in this case, however. That is because even on the assumption that Kwan had a reasonable expectation of privacy in his text messages, the search was reasonable. The search was justified by a legitimate work-related rationale. Chief Sharf ordered the search and ordered to determine whether the character limit on the city's contract was sufficient to meet the city's needs. The Department had a legitimate interest in ensuring that employees were not being forced to pay out of their own pocket for work-related expenses or, on the other hand, that the city was not paying for extensive personal communications. As for the scope of the search, reviewing the transcripts was reasonable because it was an efficient and expedient way to determine whether Kwan's overages were the result of work-related messaging or personal use. The fact that Kwan likely had only a limited privacy expectation lessened the risk that the review would intrude on highly private details of his life, that the search happened to reveal intimate details of Kwan's life, does not make it unreasonable. In concluding that the search was unreasonable, the court of appeals pointed to ways that the search could have been conducted that would be less intrusive on Kwan's privacy. This approach was inconsistent with controlling precedents. This Court has repeatedly refused to declare that the only, that only the least intrusive search practicable can be reasonable under the Fourth Amendment. And that's because judges engaged in post hoc evaluations of government conduct can almost always imagine some alternative means by which the objectives of the government might have been accomplished. The analytic errors of the court of appeals in this case illustrate the necessity for this principle. The judgment of the court of appeals is reversed. The case is remanded for further proceedings consistent with the Court's opinion. The Court's judgment is unanimous. Justice Stevens has filed a concurring opinion. Justice Scalia has filed an opinion concurring in part and concurring in the judgment."
+   ]
+  ],
+  "sentences": [
+   [
+    0.62,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has our opinion this morning in Case 08-1332, City of Ontario, California v. Kwan."
+   ],
+   [
+    8.14,
+    "JUSTICE KENNEDY",
+    "Kennedy."
+   ],
+   [
+    8.7,
+    "JUSTICE KENNEDY",
+    "The City of Ontario is a political subdivision of the State of California."
+   ],
+   [
+    13.14,
+    "JUSTICE KENNEDY",
+    "This case arose out of incidents when Jeff Kwan was employed by the Ontario Police Department."
+   ],
+   [
+    19.74,
+    "JUSTICE KENNEDY",
+    "He was a police sergeant."
+   ],
+   [
+    22.02,
+    "JUSTICE KENNEDY",
+    "He was also a member of the Special Weapons and Tactics Team."
+   ],
+   [
+    25.44,
+    "JUSTICE KENNEDY",
+    "Those teams are commonly known as SWAT."
+   ],
+   [
+    27.68,
+    "JUSTICE KENNEDY",
+    "The city issued pagers to Kwan and other SWAT team members, and these pagers could send and receive text messages."
+   ],
+   [
+    36.98,
+    "JUSTICE KENNEDY",
+    "Under the city's service contract, each pager, and therefore each employee who had one, was allotted a limited number of characters sent or received each month."
+   ],
+   [
+    48.38,
+    "JUSTICE KENNEDY",
+    "Use in excess of that amount would result in an additional fee."
+   ],
+   [
+    53.36,
+    "JUSTICE KENNEDY",
+    "Within the first or second billing cycle, Kwan exceeded his monthly allotment."
+   ],
+   [
+    58.34,
+    "JUSTICE KENNEDY",
+    "Lieutenant Duke was the officer in charge of the pagers."
+   ],
+   [
+    61.94,
+    "JUSTICE KENNEDY",
+    "He reminded Kwan that under city policies, messages sent on the pagers were not private and could be audited."
+   ],
+   [
+    68.32,
+    "JUSTICE KENNEDY",
+    "And Duke told Kwan that Duke could audit the messages."
+   ],
+   [
+    70.74,
+    "JUSTICE KENNEDY",
+    "But he suggested that Kwan instead reimbursed the city for the entire overage fee to make an audit unnecessary."
+   ],
+   [
+    77.82,
+    "JUSTICE KENNEDY",
+    "Kwan wrote a check to the city for the overage."
+   ],
+   [
+    80.34,
+    "JUSTICE KENNEDY",
+    "Over the next few months, Kwan and other employees exceeded their character limits various times."
+   ],
+   [
+    86.56,
+    "JUSTICE KENNEDY",
+    "Eventually, Duke informed the city, the chief of police, who was Chief Lloyd Scharf, that he was tired of being a bill collector."
+   ],
+   [
+    95.9,
+    "JUSTICE KENNEDY",
+    "Chief Scharf decided to audit the messages on Kwan's pager as well as those of another employee who had exceeded his allowance in order to determine whether the existing character limits were too low and officers were having to pay for work-related messages."
+   ],
+   [
+    110.32,
+    "JUSTICE KENNEDY",
+    "The audit revealed that Kwan sent numerous personal messages while on duty."
+   ],
+   [
+    116.22,
+    "JUSTICE KENNEDY",
+    "Some were sexually explicit."
+   ],
+   [
+    118.66,
+    "JUSTICE KENNEDY",
+    "Kwan was found to have violated department rules."
+   ],
+   [
+    123.38,
+    "JUSTICE KENNEDY",
+    "Kwan and other respondents who were individuals who had corresponded with and communicated with Kwan on his pager filed suit."
+   ],
+   [
+    133.28,
+    "JUSTICE KENNEDY",
+    "They alleged that the city, the department, and the Chief Scharf had violated their Fourth Amendment rights when reviewing the transcript and the text of Kwan's messages."
+   ],
+   [
+    142.94,
+    "JUSTICE KENNEDY",
+    "The district court ruled for the defendants, but the United States Court of Appeals for the Ninth Circuit reversed."
+   ],
+   [
+    148.66,
+    "JUSTICE KENNEDY",
+    "The panel concluded that Kwan had a reasonable expectation of privacy in the context of his messages and that the defendants had unreasonably violated that expectation by reviewing the transcript."
+   ],
+   [
+    160.2,
+    "JUSTICE KENNEDY",
+    "We granted certiorari."
+   ],
+   [
+    162.16,
+    "JUSTICE KENNEDY",
+    "The Fourth Amendment forbids unreasonable searches and seizures, and that provision guarantees the privacy, dignity, and security of persons against arbitrary and invasive acts by officers of the government."
+   ],
+   [
+    175.1,
+    "JUSTICE KENNEDY",
+    "The Fourth Amendment applies when the government acts in its capacity as an employer."
+   ],
+   [
+    180.76,
+    "JUSTICE KENNEDY",
+    "The Court's presidents have not definitively established how to determine when and whether an employee has a reasonable expectation of privacy in the workplace."
+   ],
+   [
+    192.22,
+    "JUSTICE KENNEDY",
+    "Cell phone and text messages and their related communications are so pervasive that some persons may consider them to be essential means or necessary instruments for self-expression, even self-identification."
+   ],
+   [
+    208.24,
+    "JUSTICE KENNEDY",
+    "That might strengthen the case for an expectation of privacy."
+   ],
+   [
+    212.54,
+    "JUSTICE KENNEDY",
+    "On the other hand, one could counter that employees who need cell phones or similar devices for personal matters can purchase and pay for their own."
+   ],
+   [
+    221.48,
+    "JUSTICE KENNEDY",
+    "And employer policies concerning communications will, of course, shape the reasonable expectations of their employees, especially to the extent that the employer policies are clearly communicated."
+   ],
+   [
+    233.1,
+    "JUSTICE KENNEDY",
+    "We need not explore these matters further in this case, however."
+   ],
+   [
+    237.16,
+    "JUSTICE KENNEDY",
+    "That is because even on the assumption that Kwan had a reasonable expectation of privacy in his text messages, the search was reasonable."
+   ],
+   [
+    244.92,
+    "JUSTICE KENNEDY",
+    "The search was justified by a legitimate work-related rationale."
+   ],
+   [
+    249.4,
+    "JUSTICE KENNEDY",
+    "Chief Sharf ordered the search and ordered to determine whether the character limit on the city's contract was sufficient to meet the city's needs."
+   ],
+   [
+    257.66,
+    "JUSTICE KENNEDY",
+    "The Department had a legitimate interest in ensuring that employees were not being forced to pay out of their own pocket for work-related expenses or, on the other hand, that the city was not paying for extensive personal communications."
+   ],
+   [
+    271.12,
+    "JUSTICE KENNEDY",
+    "As for the scope of the search, reviewing the transcripts was reasonable because it was an efficient and expedient way to determine whether Kwan's overages were the result of work-related messaging or personal use."
+   ],
+   [
+    287.1,
+    "JUSTICE KENNEDY",
+    "The fact that Kwan likely had only a limited privacy expectation lessened the risk that the review would intrude on highly private details of his life, that the search happened to reveal intimate details of Kwan's life, does not make it unreasonable."
+   ],
+   [
+    303.36,
+    "JUSTICE KENNEDY",
+    "In concluding that the search was unreasonable, the court of appeals pointed to ways that the search could have been conducted that would be less intrusive on Kwan's privacy."
+   ],
+   [
+    314.42,
+    "JUSTICE KENNEDY",
+    "This approach was inconsistent with controlling precedents."
+   ],
+   [
+    318.48,
+    "JUSTICE KENNEDY",
+    "This Court has repeatedly refused to declare that the only, that only the least intrusive search practicable can be reasonable under the Fourth Amendment."
+   ],
+   [
+    326.94,
+    "JUSTICE KENNEDY",
+    "And that's because judges engaged in post hoc evaluations of government conduct can almost always imagine some alternative means by which the objectives of the government might have been accomplished."
+   ],
+   [
+    340.48,
+    "JUSTICE KENNEDY",
+    "The analytic errors of the court of appeals in this case illustrate the necessity for this principle."
+   ],
+   [
+    345.94,
+    "JUSTICE KENNEDY",
+    "The judgment of the court of appeals is reversed."
+   ],
+   [
+    348.4,
+    "JUSTICE KENNEDY",
+    "The case is remanded for further proceedings consistent with the Court's opinion."
+   ],
+   [
+    351.64,
+    "JUSTICE KENNEDY",
+    "The Court's judgment is unanimous."
+   ],
+   [
+    354.4,
+    "JUSTICE KENNEDY",
+    "Justice Stevens has filed a concurring opinion."
+   ],
+   [
+    357.12,
+    "JUSTICE KENNEDY",
+    "Justice Scalia has filed an opinion concurring in part and concurring in the judgment."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.62,
+    7.54,
+    16
+   ],
+   [
+    "JUSTICE KENNEDY",
+    8.14,
+    361.06,
+    890
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "08-1332",
+ "year": "2009",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2009/08-1332",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-1332/20100419a_08-1332.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-1332.pdf",
+ "model": "medium.en",
+ "duration": 3698.259592,
+ "asr_elapsed_s": 2453.3,
+ "asr_words": 10117,
+ "official_words": 10257,
+ "matched": 9571,
+ "shared": 2,
+ "clamped": 0,
+ "trimmed": 37,
+ "rewindowed": 0,
+ "match_rate": 93.31188456663742,
+ "turns": 303,
+ "laugh_markers": 8,
+ "mp3_bytes": 29611437,
+ "pauses": 445,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 373,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.31% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-10"
+}
