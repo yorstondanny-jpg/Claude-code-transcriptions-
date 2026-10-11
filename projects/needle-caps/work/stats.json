@@ -1,0 +1,347 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-661.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-661/20100113a_08-661.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 653.53,
+   "next": 653.53,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "a particular -- a single entity\u2019s articulation of rules. Well, Mr. Chief Justice, you are exactly right, and the real -- That you have been begging the question? Is that -- that part?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 911.61,
+   "next": 911.61,
+   "speaker": "JUSTICE BREYER",
+   "before": "you want the Patriots to sell T-shirts in competition with the Saints, or whoever. The Red Sox. All right. You see the point? The Red Sox -- I know baseball better.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 925.07,
+   "next": 926.11,
+   "speaker": "JUSTICE BREYER",
+   "before": "the Yankees; is that right? The ability to compete. Yes. Yes. Okay. I don't know a Red Sox fan who would take a Yankees sweatshirt if you gave it away.",
+   "pause": 1.04,
+   "loud_s": 0.9,
+   "mean_over": 26.9,
+   "peak_over": 30.7,
+   "size": "medium"
+  },
+  {
+   "t": 970.41,
+   "next": 972.61,
+   "speaker": "JUSTICE BREYER",
+   "before": "fan and easily be persuaded to be a Red Sox fan, but the person who is 3 years old can easily be persuaded. They have very small allowances, the 3-year-olds.",
+   "pause": 2.2,
+   "loud_s": 1.8,
+   "mean_over": 27.4,
+   "peak_over": 34.7,
+   "size": "big"
+  },
+  {
+   "t": 1049.11,
+   "next": 1049.11,
+   "speaker": "MR. NAGER",
+   "before": "that was the only issue. That is the only issue, Justice Scalia. Well, why am I worrying about this other stuff? Because counsel has an obligation to respond to questions.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1064.99,
+   "next": 1067.31,
+   "speaker": "JUSTICE BREYER",
+   "before": "blocker. -- to think about the case if I know what's going on. And I'm not certain this is irrelevant, but given Justice Scalia's persuasive remark, I will withdraw my question.",
+   "pause": 2.32,
+   "loud_s": 2.0,
+   "mean_over": 19.0,
+   "peak_over": 24.5,
+   "size": "medium"
+  },
+  {
+   "t": 2757.17,
+   "next": 2759.01,
+   "speaker": "JUSTICE BREYER",
+   "before": "talking about T-shirts and helmets, and I -- I thought it's the simplest thing in the world. You pick up the phone and say: Hello, Shanghai, do you have a helmet?",
+   "pause": 1.84,
+   "loud_s": 1.55,
+   "mean_over": 19.5,
+   "peak_over": 27.6,
+   "size": "medium"
+  },
+  {
+   "t": 4008.37,
+   "next": 4008.37,
+   "speaker": "JUSTICE SCALIA",
+   "before": "even ask the question whether under the rule of reason such a thing is reasonable or justified? Your Honor -- I thought I was reducing it to the absurd. But you --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -46.4,
+ "opening_start": 7.36,
+ "opening": [
+  [
+   7.36,
+   "MR. NAGER",
+   "Thank you, Mr. Chief Justice, and may it please the Court: In this case, the Court of Appeals for the Seventh Circuit held that an agreement of the 32 teams of the National Football League was immune from any scrutiny under section 1 of the Sherman Act on the ground that the agreement allegedly fails the plurality of actor requirement of this Court's jurisprudence. The 32 teams of the National Football League are separately owned and controlled profit-making enterprises. Under this Court's decision in NCAA, as well as the Court's more general joint venture jurisprudence, those clubs are entities whose distinct agreements are, indeed, subject to section 1 scrutiny. The fact of the matter is there is a long- standing consensus, judicial and legislative, that agreements among sports teams about whether and how they will participate in the marketplace is subject to scrutiny under the Sherman Act, section 1. The Court's decision in NCAA is most directly on point. In that case, the Court held that a policy of the NCAA that restricted the ability of member institutions of the NCAA to sell TV rights violated section 1. Just as with the NFL, the decisions of the NCAA were ultimately controlled by the vote of its members, and for that reason, the Court held that the NCAA policy was a horizontal restraint, and it --"
+  ],
+  [
+   94.453,
+   "JUSTICE SOTOMAYOR",
+   "But there was no joint venture with respect to the television rights, meaning there was no separate activity, other than the televising of the shows at issue. Here, the Solicitor General is saying there is a joint venture, and it has to do with the licensing of trademarks, with their quality control, et cetera. Isn't that a substantial difference?"
+  ],
+  [
+   120.03,
+   "MR. NAGER",
+   "No, I don't -- I don't think so, because what we\u2019re -- what we\u2019re asking about here is -- is the question of whether or not the agreement of the teams involves a plurality of actors. And just as in NCAA, the members' institutions -- because they controlled the operation of the NCAA and the policy that it was promulgating, there was a plurality of actors. So, too, here, the 32 teams of the National Football League have entered into an agreement and control the use, collectively, of the trademarks and logos of the individual teams. And for that reason, there is concerted activity that is involved. Justice Sotomayor, the point that you raise might be of -- a point of difference that the NFL could argue in the context of an ancillary restraint analysis, in the context of a rule of reason analysis, but it\u2019s not a point of distinction that they can argue properly in the context of the concerted conduct inquiry. The NCAA case simply applies the consistent teachings of this Court in cases like Sealy, BMI, and Copperweld,"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2009/08-661",
+  "page_url": "https://www.oyez.org/cases/2009/08-661",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 24, 2010",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/22420",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-661/20100524o_08-661.delivery.mp3",
+  "duration": 139.337256,
+  "mp3_bytes": 662821,
+  "asr_elapsed_s": 106.1,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   268,
+   273,
+   278
+  ],
+  "diffs": [
+   [
+    1.58,
+    "",
+    "in"
+   ],
+   [
+    13.86,
+    "",
+    "as to each"
+   ],
+   [
+    51.1,
+    "",
+    "a"
+   ],
+   [
+    118.4,
+    "v.",
+    "against"
+   ],
+   [
+    123.32,
+    "",
+    "an"
+   ],
+   [
+    130.9,
+    "have",
+    "had"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 273,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Stevens has our opinion this morning, case 08661, American Needle v. The National Football League."
+   ],
+   [
+    7.88,
+    "JUSTICE STEVENS",
+    "The Washington Redskins football team has its own trade name and trademarks as do each of the 31 other teams in the National Football League. Since 1963, however, all 32 teams have used a jointly owned corporation, National Football League Properties, NFLP, to market their intellectual property. For almost 40 years, NFLP granted non-exclusive licenses to a number of different vendors, one of which was the petitioner in this case, American Needle. In 2000, however, the teams authorized NFLP to grant exclusive licenses, which it did. Because they declined to renew petitioner's license, it brought this action against the teams and NFLP seeking treble damages under the Sherman Act. The district court granted summary judgment to the defendants, holding in effect that the defendants constituted a single economic enterprise incapable of conspiring with itself. The court of appeals affirmed. We granted certiorari and now reverse. We do not reach the question whether petitioner has alleged a violation of the Sherman Act, but we reject the argument that the 32 teams constitute a single entity for antitrust purposes. For reasons stated in an opinion filed with the clerk, we hold that their conduct must be judged under the rule of reason. Our opinion is unanimous. I also have the disposition to announce in number 086261 Robertson v. Watson. The writ of certiorari is dismissed as improvidently granted. The Chief Justice has written a dissent in which Justices Scalia, Kennedy, and Sotomayor have joined. Justice Sotomayor has also filed a brief dissenting statement that Justice Kennedy has joined."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Stevens has our opinion this morning, case 08661, American Needle v. The National Football League."
+   ],
+   [
+    7.88,
+    "JUSTICE STEVENS",
+    "The Washington Redskins football team has its own trade name and trademarks as do each of the 31 other teams in the National Football League. Since 1963, however, all 32 teams have used a jointly owned corporation, National Football League Properties, NFLP, to market their intellectual property. For almost 40 years, NFLP granted non-exclusive licenses to a number of different vendors, one of which was the petitioner in this case, American Needle. In 2000, however, the teams authorized NFLP to grant exclusive licenses, which it did. Because they declined to renew petitioner's license, it brought this action against the teams and NFLP seeking treble damages under the Sherman Act. The district court granted summary judgment to the defendants, holding in effect that the defendants constituted a single economic enterprise incapable of conspiring with itself. The court of appeals affirmed. We granted certiorari and now reverse. We do not reach the question whether petitioner has alleged a violation of the Sherman Act, but we reject the argument that the 32 teams constitute a single entity for antitrust purposes. For reasons stated in an opinion filed with the clerk, we hold that their conduct must be judged under the rule of reason. Our opinion is unanimous. I also have the disposition to announce in number 086261 Robertson v. Watson. The writ of certiorari is dismissed as improvidently granted. The Chief Justice has written a dissent in which Justices Scalia, Kennedy, and Sotomayor have joined. Justice Sotomayor has also filed a brief dissenting statement that Justice Kennedy has joined."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Stevens has our opinion this morning, case 08661, American Needle v. The National Football League."
+   ],
+   [
+    7.88,
+    "JUSTICE STEVENS",
+    "The Washington Redskins football team has its own trade name and trademarks as do each of the 31 other teams in the National Football League."
+   ],
+   [
+    21.06,
+    "JUSTICE STEVENS",
+    "Since 1963, however, all 32 teams have used a jointly owned corporation, National Football League Properties, NFLP, to market their intellectual property."
+   ],
+   [
+    35.22,
+    "JUSTICE STEVENS",
+    "For almost 40 years, NFLP granted non-exclusive licenses to a number of different vendors, one of which was the petitioner in this case, American Needle."
+   ],
+   [
+    47.96,
+    "JUSTICE STEVENS",
+    "In 2000, however, the teams authorized NFLP to grant exclusive licenses, which it did."
+   ],
+   [
+    55.62,
+    "JUSTICE STEVENS",
+    "Because they declined to renew petitioner's license, it brought this action against the teams and NFLP seeking treble damages under the Sherman Act."
+   ],
+   [
+    69.5,
+    "JUSTICE STEVENS",
+    "The district court granted summary judgment to the defendants, holding in effect that the defendants constituted a single economic enterprise incapable of conspiring with itself."
+   ],
+   [
+    82.6,
+    "JUSTICE STEVENS",
+    "The court of appeals affirmed."
+   ],
+   [
+    84.18,
+    "JUSTICE STEVENS",
+    "We granted certiorari and now reverse."
+   ],
+   [
+    88.56,
+    "JUSTICE STEVENS",
+    "We do not reach the question whether petitioner has alleged a violation of the Sherman Act, but we reject the argument that the 32 teams constitute a single entity for antitrust purposes."
+   ],
+   [
+    102.06,
+    "JUSTICE STEVENS",
+    "For reasons stated in an opinion filed with the clerk, we hold that their conduct must be judged under the rule of reason."
+   ],
+   [
+    109.86,
+    "JUSTICE STEVENS",
+    "Our opinion is unanimous."
+   ],
+   [
+    112.58,
+    "JUSTICE STEVENS",
+    "I also have the disposition to announce in number 086261 Robertson v. Watson."
+   ],
+   [
+    120.88,
+    "JUSTICE STEVENS",
+    "The writ of certiorari is dismissed as improvidently granted."
+   ],
+   [
+    125.56,
+    "JUSTICE STEVENS",
+    "The Chief Justice has written a dissent in which Justices Scalia, Kennedy, and Sotomayor have joined."
+   ],
+   [
+    132.46,
+    "JUSTICE STEVENS",
+    "Justice Sotomayor has also filed a brief dissenting statement that Justice Kennedy has joined."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.42,
+    16
+   ],
+   [
+    "JUSTICE STEVENS",
+    7.88,
+    138.4,
+    256
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "08-661",
+ "year": "2009",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2009/08-661",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2009/08-661/20100113a_08-661.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2009/08-661.pdf",
+ "model": "medium.en",
+ "duration": 4278.151837,
+ "asr_elapsed_s": 3601.9,
+ "asr_words": 11579,
+ "official_words": 11924,
+ "matched": 11060,
+ "shared": 6,
+ "clamped": 0,
+ "trimmed": 19,
+ "rewindowed": 2,
+ "match_rate": 92.75410935927542,
+ "turns": 261,
+ "laugh_markers": 8,
+ "mp3_bytes": 34250575,
+ "pauses": 404,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": false,
+   "detail": "1 words longer than 3 s outside laugh positions",
+   "examples": [
+    [
+     "know,",
+     4009.09,
+     4013.77
+    ]
+   ],
+   "numbers": []
+  },
+  "short_words": 470,
+  "match_rate": {
+   "ok": true,
+   "detail": "92.75% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-11"
+}
