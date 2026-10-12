@@ -1,0 +1,704 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1349.0,
+   "next": 1349.24,
+   "speaker": "MR. FISHER",
+   "before": "the amount of information looked at is equivalent to what somebody could have carried around in the old days. Can I say something? I'm going to say something first. Okay.",
+   "pause": 0.24,
+   "loud_s": 0.1,
+   "mean_over": 14.7,
+   "peak_over": 15.2,
+   "size": "under speech"
+  },
+  {
+   "t": 1861.6,
+   "next": 1862.88,
+   "speaker": "JUSTICE KAGAN",
+   "before": "but, in fact, most people now do carry their lives on cell phones, and that will only grow every single year as, you know, young people take over the world.",
+   "pause": 1.28,
+   "loud_s": 0.15,
+   "mean_over": 9.6,
+   "peak_over": 14.4,
+   "size": "small"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -42.4,
+ "opening_start": 14.44,
+ "opening": [
+  [
+   14.44,
+   "MR. FISHER",
+   "Mr. Chief Justice, and may it please the Court: This case involves applying the core protection of the Fourth Amendment to a new factual circumstance. It has always been the case that an occasion of an arrest did not give the police officers authority to search through the private papers and the drawers and bureaus and cabinets of somebody's house, and that protection should not evaporate more than 200 years after the founding because we have the technological development of smartphones that have resulted in people carrying that information in their pockets."
+  ],
+  [
+   44.8,
+   "JUSTICE KENNEDY",
+   "Just -- just to test the principle for why the police can search and seize some -- some objects. Consider a gun. The arrestee has a gun on his person and the police take the gun. Is part of the reason for that seizure to obtain evidence of the crime or is it just for the safety of the officer and the safety of the community?"
+  ],
+  [
+   70.58,
+   "MR. FISHER",
+   "Well, what this Court said in Robinson at Page 235 is the reason supporting the authority for a search incident to arrest are the two Chimel factors, which are gathering evidence to prevent its destruction, and officer's safety. Now --"
+  ],
+  [
+   86.42,
+   "JUSTICE KENNEDY",
+   "What about gathering evidence in order to make the case? For instance, with the gun, could they take fingerprints? The -- the gun is in the police station where the arrestee is being booked. A, could they take fingerprints? B, could they copy the serial number? C, could they see how many shells were left in the chamber? They obviously have to empty it for safety purposes. All for the purpose of building the case, of -- of obtaining evidence?"
+  ],
+  [
+   114.08,
+   "MR. FISHER",
+   "Yes, of course that's done every day. Once the gun is in the police -- the police department's lawful possession, I think Edwards says that they can do all that."
+  ],
+  [
+   121.92,
+   "JUSTICE KENNEDY",
+   "So -- so if -- if the proposition then, if the principle then is that some objects that are obtained from the arrestee can be examined in order to build the State's case, is that at least a beginning premise that we can accept in your case, although, obviously, there are problems of the extent and intrusiveness of the search that are -- are in your case, but not in the gun hypothetical."
+  ],
+  [
+   150.34,
+   "MR. FISHER",
+   "Well, Justice Kennedy, the Court has never described that as one of the things. If you want to think about this case the way you thought about the automobile search in Gant, it would be a beginning premise; but I think you're right, that even if that were a beginning premise, it would be only that, a beginning. In Footnote 9 in Edwards, this Court said that any search incident to arrest still has to satisfy the Fourth Amendment's general -- general reasonableness."
+  ],
+  [
+   172.9,
+   "JUSTICE KENNEDY",
+   "I think you're right that Gant is probably the best statement in support of the principle that I've -- I've suggested, and then you might say, well, that's limited to automobiles --"
+  ],
+  [
+   183.72,
+   "MR. FISHER",
+   "Right."
+  ],
+  [
+   183.84,
+   "JUSTICE KENNEDY",
+   "-- and then we're back where we started."
+  ],
+  [
+   185.22,
+   "MR. FISHER",
+   "Right. And there's important things to understand if you want to start thinking about Gant, because both in terms of its history and its modern application, it's dramatically"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2013/13-132",
+  "page_url": "https://www.oyez.org/cases/2013/13-132",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 25, 2014",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23524",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2013/13-132/20140625o_13-132.delivery.mp3",
+  "duration": 536.764,
+  "mp3_bytes": 2254576,
+  "asr_elapsed_s": 350.7,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   1420,
+   1462,
+   1452
+  ],
+  "diffs": [
+   [
+    7.76,
+    "v. Worry.",
+    "versus Wurie."
+   ],
+   [
+    31.02,
+    "worried",
+    "Wurie"
+   ],
+   [
+    35.8,
+    "searched",
+    "search"
+   ],
+   [
+    37.48,
+    "a",
+    "the"
+   ],
+   [
+    41.44,
+    "searched",
+    "search"
+   ],
+   [
+    46.58,
+    "a",
+    "the"
+   ],
+   [
+    61.94,
+    "Worry's",
+    "Wurie's"
+   ],
+   [
+    68.86,
+    "neither",
+    "either"
+   ],
+   [
+    79.36,
+    "",
+    "-- protects"
+   ],
+   [
+    83.14,
+    "end quote.",
+    ""
+   ],
+   [
+    96.72,
+    "a",
+    "the"
+   ],
+   [
+    133.2,
+    "v.",
+    "against"
+   ],
+   [
+    149.74,
+    "a",
+    "his"
+   ],
+   [
+    159.68,
+    "declined",
+    "decline"
+   ],
+   [
+    211.26,
+    "seized",
+    "ceased"
+   ],
+   [
+    273.82,
+    "text,",
+    "texts,"
+   ],
+   [
+    309.66,
+    "percent",
+    ""
+   ],
+   [
+    316.8,
+    "a",
+    "to"
+   ],
+   [
+    328.92,
+    "interests.",
+    "interest."
+   ],
+   [
+    359.3,
+    "a",
+    ""
+   ],
+   [
+    376.86,
+    "a",
+    "the"
+   ],
+   [
+    383.8,
+    "peek",
+    "peak"
+   ],
+   [
+    395.1,
+    "interests,",
+    "interest,"
+   ],
+   [
+    419.82,
+    "a",
+    "the"
+   ],
+   [
+    430.4,
+    "a",
+    ""
+   ],
+   [
+    514.02,
+    "seized",
+    "ceased"
+   ],
+   [
+    525.72,
+    "v. Worry",
+    "versus Wurie"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 1462,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have our opinion this morning in Case 13-132, Riley v. California, and 13-212, United States v. Worry. These are two separate cases, but we decide them in a single opinion. The question presented in both cases is whether police officers may search a cell phone without a warrant when they seize the phone from a person who has just been arrested. In each case, the relevant events began when the defendant was arrested. Riley, for possession of weapons, worried for a suspected drug deal. Incident to each arrest, police officers searched the defendant and seized a cell phone that he had in his possession. They then searched data on the cell phone, including photos and videos in one case and a contacts list in the other. The search of the cell phone gave the police information about other crimes that the defendant may have committed. Ultimately, information on Riley's cell phone led to attempted murder charges. Information on Worry's cell phone led to serious drug and weapons charges. What is important for our purposes is that in neither case did the police obtain a warrant before searching the defendant's cell phone. We hold today that they were required to do so. The Fourth Amendment protects against, quote, unreasonable searches and seizures, end quote. This Court has said that, as a general rule, a search for evidence of a crime requires a warrant in order to be reasonable. There are, however, some exceptions to that general rule, and a search can be reasonable even without a warrant if it falls within one of those exceptions. The exception at issue here is one for searches incident to arrest. When someone is lawfully arrested, the police may search him and the area immediately around him and inspect physical objects found on his person. We have said that such a search serves two important purposes, removing weapons that the arrestee might use against an officer and discovering evidence that the arrestee might conceal or destroy. In a case from 1973 called United States v. Robinson, this Court held that those two interests categorically justify a search of the person being arrested without the need for an assessment of the risks presented in any given case. As a result, the Court permitted a search of Robinson and of a cigarette pack found in his coat pocket, which turned out to contain heroin capsules. We do not disturb Robinson's holding today, but we declined to extend the search incident to arrest exception from a search of a physical item found on the arrestee to a search of the digital data on a cell phone in the arrestee's possession. In the case of the cell phone, the government's interest in an immediate warrantless search is significantly diminished and the individual's privacy interest is"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have our opinion this morning in Case 13-132, Riley v. California, and 13-212, United States v. Worry. These are two separate cases, but we decide them in a single opinion. The question presented in both cases is whether police officers may search a cell phone without a warrant when they seize the phone from a person who has just been arrested. In each case, the relevant events began when the defendant was arrested. Riley, for possession of weapons, worried for a suspected drug deal. Incident to each arrest, police officers searched the defendant and seized a cell phone that he had in his possession. They then searched data on the cell phone, including photos and videos in one case and a contacts list in the other. The search of the cell phone gave the police information about other crimes that the defendant may have committed. Ultimately, information on Riley's cell phone led to attempted murder charges. Information on Worry's cell phone led to serious drug and weapons charges. What is important for our purposes is that in neither case did the police obtain a warrant before searching the defendant's cell phone. We hold today that they were required to do so. The Fourth Amendment protects against, quote, unreasonable searches and seizures, end quote. This Court has said that, as a general rule, a search for evidence of a crime requires a warrant in order to be reasonable. There are, however, some exceptions to that general rule, and a search can be reasonable even without a warrant if it falls within one of those exceptions. The exception at issue here is one for searches incident to arrest. When someone is lawfully arrested, the police may search him and the area immediately around him and inspect physical objects found on his person. We have said that such a search serves two important purposes, removing weapons that the arrestee might use against an officer and discovering evidence that the arrestee might conceal or destroy. In a case from 1973 called United States v. Robinson, this Court held that those two interests categorically justify a search of the person being arrested without the need for an assessment of the risks presented in any given case. As a result, the Court permitted a search of Robinson and of a cigarette pack found in his coat pocket, which turned out to contain heroin capsules. We do not disturb Robinson's holding today, but we declined to extend the search incident to arrest exception from a search of a physical item found on the arrestee to a search of the digital data on a cell phone in the arrestee's possession. In the case of the cell phone, the government's interest in an immediate warrantless search is significantly diminished and the individual's privacy interest is dramatically expanded. On the government interest side, there are, as I've mentioned, two justifications for a search incident to arrest. Neither carries much weight when it comes to searches of cell phone data. First, our cases have talked about the risk that an arrestee will have a weapon that can harm officers. But the digital information stored on a phone does not itself pose any threat to police. Second, there is a risk that an arrestee will conceal or destroy evidence on his person. But once the police have seized a phone, the person being arrested can no longer delete evidence. It is true that data on the phone might be susceptible to other kinds of tampering unique to the digital world, such as remote wiping. We think, however, that these unique problems are insufficient to justify a general exception to the warrant requirement. Instead, they can be dealt with through law enforcement's own technological tools or through targeted responses to specific threats of data destruction. Now, when it comes to the individual's privacy interest on the other side of the balance, there really is no comparison between physical objects and the data on a modern cell phone. In 1973, when the Robinson case was decided, a search of an arrestee's person was likely to be only a minor intrusion beyond the arrest itself. After all, in the physical world, there is only so much private information that a person can or will carry in his pockets. Not so in today's digital world. Modern cell phones can hold millions of pages of text, thousands of pictures, hundreds of videos. Police can reconstruct much of your life by looking at hundreds of photos on your phone in a way they could never do by looking at a photo of one or two loved ones tucked in your wallet. And this dramatic difference in quantity cuts across a broad range of information. In the pre-digital world, no one would walk around with large numbers of photos, videos, messages, letters, notes, call records, receipts, bank statements, calendars, directions, maps, magazines, whatever, in their pockets. Yet that is what many of the more than 90 percent of American adults who own cell phones now do as a routine matter when they go about their day. And that's just a start. Modern cell phones not only hold vastly more information than could physically be carried before, they also contain whole new types of information that implicate significant privacy interests. An Internet browsing history on your phone will reveal what you're interested in and what you've been looking for. Routine location services on your phone will record where you've been for the past day, week, or month. Cell phones will also contain a record of who you've communicated with by phone, email, or text, including the content of many exchanges going back months. Then there are apps. The average smartphone user has 33 of them on his phone. There are over a million available in each of the major app stores. Do you follow Democratic or Republican news? Do you track particular medical symptoms? What are your hobbies? What have you purchased over the past six months? The apps on your phone can paint a detailed picture of who you are, all at the tap of a screen. Allowing a warrantless search of all this information is not just an incidental intrusion like a peek into a cigarette pack. It is a significant invasion of privacy going far beyond the arrest itself. Now, because cell phones implicate reduced government interest and heightened individual interests, we conclude that a warrantless cell phone search incident to arrest is unreasonable under the Fourth Amendment. Now, we cannot deny that this will have an impact on government's ability to combat crime. It is not only the law-abiding who have discovered the benefits of modern cell phones. Privacy comes at a cost. Our holding, of course, is not that police can never search the information stored on a cell phone. The rule is simply that police must get a warrant before they do so unless a different exception to the warrant requirement applies. Cell phones are a new phenomenon, but our interpretation of the Fourth Amendment today is inextricably linked to our history. The Fourth Amendment was the founding generation's response to the reviled general warrants and writs of assistance of the colonial era, which allowed British officers to rummage through homes in an unrestrained search for evidence of criminal activity. Opposition to such searches was, in fact, one of the driving forces behind the revolution itself. In 1761, the patriot James Otis delivered a speech in Boston denouncing the use of writs of assistance. A young John Adams was there, and he would later write that, quote, Every man of a crowded audience appeared to me to go away, as I did, ready to take arms against writs of assistance. According to Adams, Otis's speech was, quote, The first scene of the first act of opposition to the arbitrary claims of Great Britain. Then and there the child independence was born. Modern cell phones have developed into more than just another technological convenience. With all they contain and all they may reveal, they hold for many Americans the privacies of life. The fact that technology now allows an individual to carry such information in the palm of his hand does not make the information any less worthy of the protection for which the founders fought. Our answer to the question of what police must do before searching a cell phone seized incident to an arrest is accordingly simple, get a warrant. The judgment of the California Court of Appeal in Riley v. California is reversed. The judgment of the First Circuit in United States v. Worry is affirmed. All members of the Court agree with this disposition. Justice Alito has filed an opinion concurring in part and concurring in the judgment."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have our opinion this morning in Case 13-132, Riley v. California, and 13-212, United States v. Worry."
+   ],
+   [
+    9.06,
+    "CHIEF JUSTICE ROBERTS",
+    "These are two separate cases, but we decide them in a single opinion."
+   ],
+   [
+    13.46,
+    "CHIEF JUSTICE ROBERTS",
+    "The question presented in both cases is whether police officers may search a cell phone without a warrant when they seize the phone from a person who has just been arrested."
+   ],
+   [
+    24.38,
+    "CHIEF JUSTICE ROBERTS",
+    "In each case, the relevant events began when the defendant was arrested."
+   ],
+   [
+    28.18,
+    "CHIEF JUSTICE ROBERTS",
+    "Riley, for possession of weapons, worried for a suspected drug deal."
+   ],
+   [
+    33.64,
+    "CHIEF JUSTICE ROBERTS",
+    "Incident to each arrest, police officers searched the defendant and seized a cell phone that he had in his possession."
+   ],
+   [
+    40.54,
+    "CHIEF JUSTICE ROBERTS",
+    "They then searched data on the cell phone, including photos and videos in one case and a contacts list in the other."
+   ],
+   [
+    49.3,
+    "CHIEF JUSTICE ROBERTS",
+    "The search of the cell phone gave the police information about other crimes that the defendant may have committed."
+   ],
+   [
+    56.22,
+    "CHIEF JUSTICE ROBERTS",
+    "Ultimately, information on Riley's cell phone led to attempted murder charges."
+   ],
+   [
+    61.12,
+    "CHIEF JUSTICE ROBERTS",
+    "Information on Worry's cell phone led to serious drug and weapons charges."
+   ],
+   [
+    66.34,
+    "CHIEF JUSTICE ROBERTS",
+    "What is important for our purposes is that in neither case did the police obtain a warrant before searching the defendant's cell phone."
+   ],
+   [
+    74.02,
+    "CHIEF JUSTICE ROBERTS",
+    "We hold today that they were required to do so."
+   ],
+   [
+    78.1,
+    "CHIEF JUSTICE ROBERTS",
+    "The Fourth Amendment protects against, quote, unreasonable searches and seizures, end quote."
+   ],
+   [
+    84.34,
+    "CHIEF JUSTICE ROBERTS",
+    "This Court has said that, as a general rule, a search for evidence of a crime requires a warrant in order to be reasonable."
+   ],
+   [
+    93.02,
+    "CHIEF JUSTICE ROBERTS",
+    "There are, however, some exceptions to that general rule, and a search can be reasonable even without a warrant if it falls within one of those exceptions."
+   ],
+   [
+    101.88,
+    "CHIEF JUSTICE ROBERTS",
+    "The exception at issue here is one for searches incident to arrest."
+   ],
+   [
+    106.96,
+    "CHIEF JUSTICE ROBERTS",
+    "When someone is lawfully arrested, the police may search him and the area immediately around him and inspect physical objects found on his person."
+   ],
+   [
+    116.74,
+    "CHIEF JUSTICE ROBERTS",
+    "We have said that such a search serves two important purposes, removing weapons that the arrestee might use against an officer and discovering evidence that the arrestee might conceal or destroy."
+   ],
+   [
+    129.72,
+    "CHIEF JUSTICE ROBERTS",
+    "In a case from 1973 called United States v. Robinson, this Court held that those two interests categorically justify a search of the person being arrested without the need for an assessment of the risks presented in any given case."
+   ],
+   [
+    145.76,
+    "CHIEF JUSTICE ROBERTS",
+    "As a result, the Court permitted a search of Robinson and of a cigarette pack found in his coat pocket, which turned out to contain heroin capsules."
+   ],
+   [
+    156.02,
+    "CHIEF JUSTICE ROBERTS",
+    "We do not disturb Robinson's holding today, but we declined to extend the search incident to arrest exception from a search of a physical item found on the arrestee to a search of the digital data on a cell phone in the arrestee's possession."
+   ],
+   [
+    170.58,
+    "CHIEF JUSTICE ROBERTS",
+    "In the case of the cell phone, the government's interest in an immediate warrantless search is significantly diminished and the individual's privacy interest is dramatically expanded."
+   ],
+   [
+    182.34,
+    "CHIEF JUSTICE ROBERTS",
+    "On the government interest side, there are, as I've mentioned, two justifications for a search incident to arrest."
+   ],
+   [
+    188.72,
+    "CHIEF JUSTICE ROBERTS",
+    "Neither carries much weight when it comes to searches of cell phone data."
+   ],
+   [
+    193.0,
+    "CHIEF JUSTICE ROBERTS",
+    "First, our cases have talked about the risk that an arrestee will have a weapon that can harm officers."
+   ],
+   [
+    198.3,
+    "CHIEF JUSTICE ROBERTS",
+    "But the digital information stored on a phone does not itself pose any threat to police."
+   ],
+   [
+    204.64,
+    "CHIEF JUSTICE ROBERTS",
+    "Second, there is a risk that an arrestee will conceal or destroy evidence on his person."
+   ],
+   [
+    209.92,
+    "CHIEF JUSTICE ROBERTS",
+    "But once the police have seized a phone, the person being arrested can no longer delete evidence."
+   ],
+   [
+    216.3,
+    "CHIEF JUSTICE ROBERTS",
+    "It is true that data on the phone might be susceptible to other kinds of tampering unique to the digital world, such as remote wiping."
+   ],
+   [
+    224.36,
+    "CHIEF JUSTICE ROBERTS",
+    "We think, however, that these unique problems are insufficient to justify a general exception to the warrant requirement."
+   ],
+   [
+    231.7,
+    "CHIEF JUSTICE ROBERTS",
+    "Instead, they can be dealt with through law enforcement's own technological tools or through targeted responses to specific threats of data destruction."
+   ],
+   [
+    241.76,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, when it comes to the individual's privacy interest on the other side of the balance, there really is no comparison between physical objects and the data on a modern cell phone."
+   ],
+   [
+    251.42,
+    "CHIEF JUSTICE ROBERTS",
+    "In 1973, when the Robinson case was decided, a search of an arrestee's person was likely to be only a minor intrusion beyond the arrest itself."
+   ],
+   [
+    261.92,
+    "CHIEF JUSTICE ROBERTS",
+    "After all, in the physical world, there is only so much private information that a person can or will carry in his pockets."
+   ],
+   [
+    268.98,
+    "CHIEF JUSTICE ROBERTS",
+    "Not so in today's digital world."
+   ],
+   [
+    271.22,
+    "CHIEF JUSTICE ROBERTS",
+    "Modern cell phones can hold millions of pages of text, thousands of pictures, hundreds of videos."
+   ],
+   [
+    276.88,
+    "CHIEF JUSTICE ROBERTS",
+    "Police can reconstruct much of your life by looking at hundreds of photos on your phone in a way they could never do by looking at a photo of one or two loved ones tucked in your wallet."
+   ],
+   [
+    287.84,
+    "CHIEF JUSTICE ROBERTS",
+    "And this dramatic difference in quantity cuts across a broad range of information."
+   ],
+   [
+    293.56,
+    "CHIEF JUSTICE ROBERTS",
+    "In the pre-digital world, no one would walk around with large numbers of photos, videos, messages, letters, notes, call records, receipts, bank statements, calendars, directions, maps, magazines, whatever, in their pockets."
+   ],
+   [
+    307.14,
+    "CHIEF JUSTICE ROBERTS",
+    "Yet that is what many of the more than 90 percent of American adults who own cell phones now do as a routine matter when they go about their day."
+   ],
+   [
+    315.82,
+    "CHIEF JUSTICE ROBERTS",
+    "And that's just a start."
+   ],
+   [
+    317.96,
+    "CHIEF JUSTICE ROBERTS",
+    "Modern cell phones not only hold vastly more information than could physically be carried before, they also contain whole new types of information that implicate significant privacy interests."
+   ],
+   [
+    329.46,
+    "CHIEF JUSTICE ROBERTS",
+    "An Internet browsing history on your phone will reveal what you're interested in and what you've been looking for."
+   ],
+   [
+    336.14,
+    "CHIEF JUSTICE ROBERTS",
+    "Routine location services on your phone will record where you've been for the past day, week, or month."
+   ],
+   [
+    343.48,
+    "CHIEF JUSTICE ROBERTS",
+    "Cell phones will also contain a record of who you've communicated with by phone, email, or text, including the content of many exchanges going back months."
+   ],
+   [
+    353.86,
+    "CHIEF JUSTICE ROBERTS",
+    "Then there are apps."
+   ],
+   [
+    355.12,
+    "CHIEF JUSTICE ROBERTS",
+    "The average smartphone user has 33 of them on his phone."
+   ],
+   [
+    358.18,
+    "CHIEF JUSTICE ROBERTS",
+    "There are over a million available in each of the major app stores."
+   ],
+   [
+    362.68,
+    "CHIEF JUSTICE ROBERTS",
+    "Do you follow Democratic or Republican news?"
+   ],
+   [
+    365.46,
+    "CHIEF JUSTICE ROBERTS",
+    "Do you track particular medical symptoms?"
+   ],
+   [
+    367.82,
+    "CHIEF JUSTICE ROBERTS",
+    "What are your hobbies?"
+   ],
+   [
+    368.92,
+    "CHIEF JUSTICE ROBERTS",
+    "What have you purchased over the past six months?"
+   ],
+   [
+    371.64,
+    "CHIEF JUSTICE ROBERTS",
+    "The apps on your phone can paint a detailed picture of who you are, all at the tap of a screen."
+   ],
+   [
+    378.5,
+    "CHIEF JUSTICE ROBERTS",
+    "Allowing a warrantless search of all this information is not just an incidental intrusion like a peek into a cigarette pack."
+   ],
+   [
+    385.12,
+    "CHIEF JUSTICE ROBERTS",
+    "It is a significant invasion of privacy going far beyond the arrest itself."
+   ],
+   [
+    391.08,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, because cell phones implicate reduced government interest and heightened individual interests, we conclude that a warrantless cell phone search incident to arrest is unreasonable under the Fourth Amendment."
+   ],
+   [
+    403.08,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, we cannot deny that this will have an impact on government's ability to combat crime."
+   ],
+   [
+    407.78,
+    "CHIEF JUSTICE ROBERTS",
+    "It is not only the law-abiding who have discovered the benefits of modern cell phones."
+   ],
+   [
+    412.96,
+    "CHIEF JUSTICE ROBERTS",
+    "Privacy comes at a cost."
+   ],
+   [
+    415.56,
+    "CHIEF JUSTICE ROBERTS",
+    "Our holding, of course, is not that police can never search the information stored on a cell phone."
+   ],
+   [
+    420.58,
+    "CHIEF JUSTICE ROBERTS",
+    "The rule is simply that police must get a warrant before they do so unless a different exception to the warrant requirement applies."
+   ],
+   [
+    429.7,
+    "CHIEF JUSTICE ROBERTS",
+    "Cell phones are a new phenomenon, but our interpretation of the Fourth Amendment today is inextricably linked to our history."
+   ],
+   [
+    437.08,
+    "CHIEF JUSTICE ROBERTS",
+    "The Fourth Amendment was the founding generation's response to the reviled general warrants and writs of assistance of the colonial era, which allowed British officers to rummage through homes in an unrestrained search for evidence of criminal activity."
+   ],
+   [
+    450.8,
+    "CHIEF JUSTICE ROBERTS",
+    "Opposition to such searches was, in fact, one of the driving forces behind the revolution itself."
+   ],
+   [
+    456.16,
+    "CHIEF JUSTICE ROBERTS",
+    "In 1761, the patriot James Otis delivered a speech in Boston denouncing the use of writs of assistance."
+   ],
+   [
+    463.6,
+    "CHIEF JUSTICE ROBERTS",
+    "A young John Adams was there, and he would later write that, quote, Every man of a crowded audience appeared to me to go away, as I did, ready to take arms against writs of assistance."
+   ],
+   [
+    474.98,
+    "CHIEF JUSTICE ROBERTS",
+    "According to Adams, Otis's speech was, quote, The first scene of the first act of opposition to the arbitrary claims of Great Britain."
+   ],
+   [
+    483.24,
+    "CHIEF JUSTICE ROBERTS",
+    "Then and there the child independence was born."
+   ],
+   [
+    487.18,
+    "CHIEF JUSTICE ROBERTS",
+    "Modern cell phones have developed into more than just another technological convenience."
+   ],
+   [
+    492.02,
+    "CHIEF JUSTICE ROBERTS",
+    "With all they contain and all they may reveal, they hold for many Americans the privacies of life."
+   ],
+   [
+    498.6,
+    "CHIEF JUSTICE ROBERTS",
+    "The fact that technology now allows an individual to carry such information in the palm of his hand does not make the information any less worthy of the protection for which the founders fought."
+   ],
+   [
+    510.02,
+    "CHIEF JUSTICE ROBERTS",
+    "Our answer to the question of what police must do before searching a cell phone seized incident to an arrest is accordingly simple, get a warrant."
+   ],
+   [
+    518.5,
+    "CHIEF JUSTICE ROBERTS",
+    "The judgment of the California Court of Appeal in Riley v. California is reversed."
+   ],
+   [
+    522.94,
+    "CHIEF JUSTICE ROBERTS",
+    "The judgment of the First Circuit in United States v. Worry is affirmed."
+   ],
+   [
+    528.16,
+    "CHIEF JUSTICE ROBERTS",
+    "All members of the Court agree with this disposition."
+   ],
+   [
+    531.64,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has filed an opinion concurring in part and concurring in the judgment."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    535.98,
+    1458
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "13-132",
+ "year": "2013",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2013/13-132",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/13-132.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2013/13-132_bp7c.pdf",
+ "model": "medium.en",
+ "duration": 3681.776327,
+ "asr_elapsed_s": 2930.2,
+ "asr_words": 11130,
+ "official_words": 11284,
+ "matched": 10752,
+ "shared": 1,
+ "clamped": 0,
+ "trimmed": 23,
+ "rewindowed": 1,
+ "match_rate": 95.28535980148884,
+ "turns": 230,
+ "laugh_markers": 2,
+ "mp3_bytes": 29454463,
+ "pauses": 372,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 343,
+  "match_rate": {
+   "ok": true,
+   "detail": "95.29% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-12"
+}
