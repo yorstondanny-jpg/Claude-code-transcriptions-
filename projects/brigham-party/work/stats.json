@@ -1,0 +1,480 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-502.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-502/20060424a_05-502.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 268.16,
+   "next": 268.16,
+   "speaker": "JUSTICE SCALIA",
+   "before": "kill you in 2 minutes. Well, that -- that's -- Do you really want the policeman to say I got 2 minutes, you know, dial in and get a warrant? That's ridiculous.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1247.64,
+   "next": 1248.08,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "presented, unaware of the fact that that is not -- Oh, no. He knows. He knows. He heard this is what they do at the family reunion. They always reenact this.",
+   "pause": 0.44,
+   "loud_s": 0.0,
+   "mean_over": 8.4,
+   "peak_over": 10.1,
+   "size": "small"
+  },
+  {
+   "t": 2260.8,
+   "next": 2261.48,
+   "speaker": "JUSTICE SCALIA",
+   "before": "more likely to hear him if he opens the screen door and yells, police? Why doesn't that meet the requirement? I -- this -- why is the trial court obsessed with knocking?",
+   "pause": 0.68,
+   "loud_s": 0.0,
+   "mean_over": 4.0,
+   "peak_over": 8.3,
+   "size": "small"
+  },
+  {
+   "t": 2615.92,
+   "next": 2618.32,
+   "speaker": "JUSTICE SCALIA",
+   "before": "police -- And -- -- which he thought would be more effective than knocking on -- on the -- you know, the -- the edge of a screen door, which doesn't make a very good knock.",
+   "pause": 2.4,
+   "loud_s": 0.05,
+   "mean_over": 13.1,
+   "peak_over": 28.6,
+   "size": "small"
+  },
+  {
+   "t": 3116.44,
+   "next": 3122.34,
+   "speaker": "JUSTICE STEVENS",
+   "before": "But the defendants in this case were the adults inside the home. Oh, they charge that the adults were intoxicated. Yes. Well, that's a serious crime in Utah I guess.",
+   "pause": 5.9,
+   "loud_s": 5.7,
+   "mean_over": 23.1,
+   "peak_over": 32.2,
+   "size": "big"
+  },
+  {
+   "t": 3125.18,
+   "next": 3128.92,
+   "speaker": "MR. GRAY",
+   "before": "case were the adults inside the home. Oh, they charge that the adults were intoxicated. Yes. Well, that's a serious crime in Utah I guess. We anticipated that comment actually.",
+   "pause": 3.74,
+   "loud_s": 3.15,
+   "mean_over": 28.8,
+   "peak_over": 36.1,
+   "size": "big"
+  },
+  {
+   "t": 3129.6,
+   "next": 3129.6,
+   "speaker": "JUSTICE STEVENS",
+   "before": "the home. Oh, they charge that the adults were intoxicated. Yes. Well, that's a serious crime in Utah I guess. We anticipated that comment actually. And -- And what's your response?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -47.4,
+ "opening_start": 6.64,
+ "opening": [
+  [
+   6.64,
+   "MR. GRAY",
+   "Mr. Chief Justice, and may it please the Court: In cases involving safety exigencies, an officer's actions should be judged against a single objective standard of reasonableness, that is, whether the facts and circumstances known to the officers at the time of entry would warrant a reasonable person in believing that immediate intervention is needed to preserve the peace and protect others from harm. When officers have reason to believe that violence is imminent or ongoing, they meet that standard. In this case, the Brigham City officers responded to a complaint at 3:00 a.m. and, upon arriving, witnessed a violent and tumultuous struggle between four adults and a teenager. The officers -- when the juvenile threw a punch is when the officers acted and thereby prevented injury. This is exactly what we would expect officers to do."
+  ],
+  [
+   74.26,
+   "JUSTICE SCALIA",
+   "What were they doing in the yard anyway? This sort of occurred to me. They couldn't have seen that until they went into the fenced backyard violating the curtilage of the property. How -- was that justified?"
+  ],
+  [
+   88.84,
+   "MR. GRAY",
+   "Yes, it was justified. At that time what they heard from the curb side and then from the front was the same kind of violence going on. They heard that from -- from the time they arrived all the way. They -- they heard the thumping, the shouting, someone saying, get off me, stop, stop. And so what these officers were doing, in the course of that, is investigating that -- that, and it led them to the backyard. Now --"
+  ],
+  [
+   120.32,
+   "JUSTICE SCALIA",
+   "Is any less required to -- to go into the curtilage than is required to go into the house?"
+  ],
+  [
+   123.58,
+   "MR. GRAY",
+   "No."
+  ],
+  [
+   124.3,
+   "JUSTICE SCALIA",
+   "No. It's the same test?"
+  ],
+  [
+   125.88,
+   "MR. GRAY",
+   "Yes. And again, that was --"
+  ],
+  [
+   128.62,
+   "JUSTICE SCALIA",
+   "So you say that even if he didn't see him throw the punch and -- and draw blood, they could have gone in just because they heard somebody say, stop, stop, get off me?"
+  ],
+  [
+   138.26,
+   "MR. GRAY",
+   "It's our position that they could have, though that's a much closer case. In this case, the officers acted in a very guarded manner. I mean, they -- they proceeded and they investigated step by step and, in fact, did not enter until a punch was thrown and there was --"
+  ],
+  [
+   156.12,
+   "JUSTICE SOUTER",
+   "So what -- what you're saying is they've got to have a reasonable ground to take the first step. That may not be a reasonable ground to have taken the second step right then and there, but it's the same reasonableness standard."
+  ],
+  [
+   166.24,
+   "MR. GRAY",
+   "Yes, it is."
+  ],
+  [
+   167.02,
+   "JUSTICE SOUTER",
+   "That's -- that's --"
+  ],
+  [
+   167.38,
+   "MR. GRAY",
+   "Yes."
+  ],
+  [
+   168.02,
+   "JUSTICE GINSBURG",
+   "One thing that was left out of the succession of acts -- Utah provides for telephone warrants, and there was no attempt to do that. Once they checked to -- to determine that"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2005/05-502",
+  "page_url": "https://www.oyez.org/cases/2005/05-502",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 22, 2006",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/21310",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-502/20060522o_05-502.delivery.mp3",
+  "duration": 250.801756,
+  "mp3_bytes": 1091662,
+  "asr_elapsed_s": 141.6,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   606,
+   619,
+   614
+  ],
+  "diffs": [
+   [
+    4.5,
+    "v. Stewart.",
+    "versus Stuart."
+   ],
+   [
+    52.7,
+    "",
+    "\u2018Police\u2019,"
+   ],
+   [
+    156.86,
+    "claim",
+    "claimed"
+   ],
+   [
+    208.1,
+    "A",
+    ""
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 619,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion in 05-502, Brigham City v. Stewart. At about 3 o 'clock in the morning, four Brigham City, Utah, police officers responded to a call regarding a loud party at a residence. When they arrived at the house, they heard shouting from inside coming from the back of the house. They proceeded down the driveway to investigate. From the backyard, they could see into the home's kitchen through a screen door and windows. There was an altercation taking place. Four adults were trying to restrain a juvenile. The juvenile broke free and punched one of the adults in the face. The victim went to spit blood into a sink, while the other adults continued trying to subdue the juvenile. One of the officers opened the screen door and yelled in, But the ruckus from the fight was too loud. Nobody heard him. So he stepped into the kitchen and again cried out. As people gradually became aware that the police were on the scene, the altercation subsided. The officers then arrested several of the adults for disorderly conduct, intoxication, and contributing to the delinquency of a minor. The trial court excluded all evidence obtained after the officers entered the home on the ground that the officers' entry violated the Fourth Amendment. On appeal, the Supreme Court of Utah also concluded that the officers' entry was improper. The court said that the injury caused by the juvenile's punch was not serious enough to allow the officers to enter. This is because, the court said, it could not have led a reasonable officer to believe that an unconscious, semi-conscious, or missing person feared injured or dead was in the home. We granted review. The Fourth Amendment generally prohibits officers from entering a private home without a warrant, but there are certain exceptions. For example, officers may enter without a warrant to fight a fire, or when they are in pursuit of a fleeing felon. If the situation confronting officers is serious enough to make immediate entry reasonable, the Fourth Amendment will allow it. One such situation is the need to protect life or avoid imminent serious injury. The defendants in this case don't dispute this, but make two arguments why the officers still could not enter. First, they claim that the officers here were more interested in making arrests than in quelling violence. They want us to consider the officers' subjective motivation for entering the home. Our cases reject this approach. An action is reasonable under the Fourth Amendment as long as the circumstances viewed objectively justify the action. The"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion in 05-502, Brigham City v. Stewart. At about 3 o 'clock in the morning, four Brigham City, Utah, police officers responded to a call regarding a loud party at a residence. When they arrived at the house, they heard shouting from inside coming from the back of the house. They proceeded down the driveway to investigate. From the backyard, they could see into the home's kitchen through a screen door and windows. There was an altercation taking place. Four adults were trying to restrain a juvenile. The juvenile broke free and punched one of the adults in the face. The victim went to spit blood into a sink, while the other adults continued trying to subdue the juvenile. One of the officers opened the screen door and yelled in, But the ruckus from the fight was too loud. Nobody heard him. So he stepped into the kitchen and again cried out. As people gradually became aware that the police were on the scene, the altercation subsided. The officers then arrested several of the adults for disorderly conduct, intoxication, and contributing to the delinquency of a minor. The trial court excluded all evidence obtained after the officers entered the home on the ground that the officers' entry violated the Fourth Amendment. On appeal, the Supreme Court of Utah also concluded that the officers' entry was improper. The court said that the injury caused by the juvenile's punch was not serious enough to allow the officers to enter. This is because, the court said, it could not have led a reasonable officer to believe that an unconscious, semi-conscious, or missing person feared injured or dead was in the home. We granted review. The Fourth Amendment generally prohibits officers from entering a private home without a warrant, but there are certain exceptions. For example, officers may enter without a warrant to fight a fire, or when they are in pursuit of a fleeing felon. If the situation confronting officers is serious enough to make immediate entry reasonable, the Fourth Amendment will allow it. One such situation is the need to protect life or avoid imminent serious injury. The defendants in this case don't dispute this, but make two arguments why the officers still could not enter. First, they claim that the officers here were more interested in making arrests than in quelling violence. They want us to consider the officers' subjective motivation for entering the home. Our cases reject this approach. An action is reasonable under the Fourth Amendment as long as the circumstances viewed objectively justify the action. The defendants also argue that their conduct was not serious enough to justify the officers' entry. We think, however, that the officers had an objectively reasonable basis for believing both that the injured adult might need help and that the violence in the kitchen was just beginning. The Fourth Amendment did not require the officers to wait until another blow rendered someone unconscious or semiconscious or worse before entering. A police officer is not like a boxing referee who only steps in to stop a fight when it becomes too one-sided. The way the officers entered the home was also reasonable. After witnessing the punch, one of the officers opened the screen door and yelled in, police. When nobody heard him, he stepped into the kitchen and announced himself again. Given the noise and violence in the kitchen, there was no violation of the Fourth Amendment's knock-and-announce rule. For reasons stated more fully in an opinion filed this morning with the clerk, we therefore reverse the judgment of the Supreme Court of Utah. The decision is unanimous. Justice Stevens has filed a concurring opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion in 05-502, Brigham City v. Stewart."
+   ],
+   [
+    6.46,
+    "CHIEF JUSTICE ROBERTS",
+    "At about 3 o 'clock in the morning, four Brigham City, Utah, police officers responded to a call regarding a loud party at a residence."
+   ],
+   [
+    16.2,
+    "CHIEF JUSTICE ROBERTS",
+    "When they arrived at the house, they heard shouting from inside coming from the back of the house."
+   ],
+   [
+    21.38,
+    "CHIEF JUSTICE ROBERTS",
+    "They proceeded down the driveway to investigate."
+   ],
+   [
+    23.86,
+    "CHIEF JUSTICE ROBERTS",
+    "From the backyard, they could see into the home's kitchen through a screen door and windows."
+   ],
+   [
+    30.7,
+    "CHIEF JUSTICE ROBERTS",
+    "There was an altercation taking place."
+   ],
+   [
+    33.56,
+    "CHIEF JUSTICE ROBERTS",
+    "Four adults were trying to restrain a juvenile."
+   ],
+   [
+    37.5,
+    "CHIEF JUSTICE ROBERTS",
+    "The juvenile broke free and punched one of the adults in the face."
+   ],
+   [
+    41.12,
+    "CHIEF JUSTICE ROBERTS",
+    "The victim went to spit blood into a sink, while the other adults continued trying to subdue the juvenile."
+   ],
+   [
+    48.64,
+    "CHIEF JUSTICE ROBERTS",
+    "One of the officers opened the screen door and yelled in, But the ruckus from the fight was too loud."
+   ],
+   [
+    55.88,
+    "CHIEF JUSTICE ROBERTS",
+    "Nobody heard him."
+   ],
+   [
+    57.18,
+    "CHIEF JUSTICE ROBERTS",
+    "So he stepped into the kitchen and again cried out."
+   ],
+   [
+    60.8,
+    "CHIEF JUSTICE ROBERTS",
+    "As people gradually became aware that the police were on the scene, the altercation subsided."
+   ],
+   [
+    68.32,
+    "CHIEF JUSTICE ROBERTS",
+    "The officers then arrested several of the adults for disorderly conduct, intoxication, and contributing to the delinquency of a minor."
+   ],
+   [
+    77.16,
+    "CHIEF JUSTICE ROBERTS",
+    "The trial court excluded all evidence obtained after the officers entered the home on the ground that the officers' entry violated the Fourth Amendment."
+   ],
+   [
+    87.2,
+    "CHIEF JUSTICE ROBERTS",
+    "On appeal, the Supreme Court of Utah also concluded that the officers' entry was improper."
+   ],
+   [
+    94.4,
+    "CHIEF JUSTICE ROBERTS",
+    "The court said that the injury caused by the juvenile's punch was not serious enough to allow the officers to enter."
+   ],
+   [
+    102.1,
+    "CHIEF JUSTICE ROBERTS",
+    "This is because, the court said, it could not have led a reasonable officer to believe that an unconscious, semi-conscious, or missing person feared injured or dead was in the home."
+   ],
+   [
+    115.18,
+    "CHIEF JUSTICE ROBERTS",
+    "We granted review."
+   ],
+   [
+    117.96,
+    "CHIEF JUSTICE ROBERTS",
+    "The Fourth Amendment generally prohibits officers from entering a private home without a warrant, but there are certain exceptions."
+   ],
+   [
+    125.44,
+    "CHIEF JUSTICE ROBERTS",
+    "For example, officers may enter without a warrant to fight a fire, or when they are in pursuit of a fleeing felon."
+   ],
+   [
+    133.34,
+    "CHIEF JUSTICE ROBERTS",
+    "If the situation confronting officers is serious enough to make immediate entry reasonable, the Fourth Amendment will allow it."
+   ],
+   [
+    142.54,
+    "CHIEF JUSTICE ROBERTS",
+    "One such situation is the need to protect life or avoid imminent serious injury."
+   ],
+   [
+    148.92,
+    "CHIEF JUSTICE ROBERTS",
+    "The defendants in this case don't dispute this, but make two arguments why the officers still could not enter."
+   ],
+   [
+    155.66,
+    "CHIEF JUSTICE ROBERTS",
+    "First, they claim that the officers here were more interested in making arrests than in quelling violence."
+   ],
+   [
+    162.7,
+    "CHIEF JUSTICE ROBERTS",
+    "They want us to consider the officers' subjective motivation for entering the home."
+   ],
+   [
+    168.18,
+    "CHIEF JUSTICE ROBERTS",
+    "Our cases reject this approach."
+   ],
+   [
+    170.7,
+    "CHIEF JUSTICE ROBERTS",
+    "An action is reasonable under the Fourth Amendment as long as the circumstances viewed objectively justify the action."
+   ],
+   [
+    179.62,
+    "CHIEF JUSTICE ROBERTS",
+    "The defendants also argue that their conduct was not serious enough to justify the officers' entry."
+   ],
+   [
+    186.1,
+    "CHIEF JUSTICE ROBERTS",
+    "We think, however, that the officers had an objectively reasonable basis for believing both that the injured adult might need help and that the violence in the kitchen was just beginning."
+   ],
+   [
+    198.02,
+    "CHIEF JUSTICE ROBERTS",
+    "The Fourth Amendment did not require the officers to wait until another blow rendered someone unconscious or semiconscious or worse before entering."
+   ],
+   [
+    208.1,
+    "CHIEF JUSTICE ROBERTS",
+    "A police officer is not like a boxing referee who only steps in to stop a fight when it becomes too one-sided."
+   ],
+   [
+    215.76,
+    "CHIEF JUSTICE ROBERTS",
+    "The way the officers entered the home was also reasonable."
+   ],
+   [
+    219.58,
+    "CHIEF JUSTICE ROBERTS",
+    "After witnessing the punch, one of the officers opened the screen door and yelled in, police."
+   ],
+   [
+    224.82,
+    "CHIEF JUSTICE ROBERTS",
+    "When nobody heard him, he stepped into the kitchen and announced himself again."
+   ],
+   [
+    229.92,
+    "CHIEF JUSTICE ROBERTS",
+    "Given the noise and violence in the kitchen, there was no violation of the Fourth Amendment's knock-and-announce rule."
+   ],
+   [
+    237.2,
+    "CHIEF JUSTICE ROBERTS",
+    "For reasons stated more fully in an opinion filed this morning with the clerk, we therefore reverse the judgment of the Supreme Court of Utah."
+   ],
+   [
+    245.52,
+    "CHIEF JUSTICE ROBERTS",
+    "The decision is unanimous."
+   ],
+   [
+    247.46,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Stevens has filed a concurring opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    250.02,
+    614
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "05-502",
+ "year": "2005",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2005/05-502",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-502/20060424a_05-502.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-502.pdf",
+ "model": "medium.en",
+ "duration": 3314.546939,
+ "asr_elapsed_s": 2217.8,
+ "asr_words": 9199,
+ "official_words": 9408,
+ "matched": 8830,
+ "shared": 2,
+ "clamped": 0,
+ "trimmed": 24,
+ "rewindowed": 2,
+ "match_rate": 93.8562925170068,
+ "turns": 275,
+ "laugh_markers": 7,
+ "mp3_bytes": 26541736,
+ "pauses": 420,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": false,
+   "detail": "1 words longer than 3 s outside laugh positions",
+   "examples": [
+    [
+     "counterfeit",
+     608.0,
+     611.42
+    ]
+   ],
+   "numbers": []
+  },
+  "short_words": 348,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.86% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-12"
+}
