@@ -141,12 +141,10 @@ def run_asr(audio, model_name, cache, checkpoint_every=20):
     log(f"Loading {model_name}")
     model = WhisperModel(model_name, device="cpu", compute_type="int8")
     duration = audio_duration(audio)
-    if offset > 0:
-        pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{offset:.3f}", "-i", str(audio), "-ac", "1",
-                              "-ar", "16000", "-f", "s16le", "-"], capture_output=True, check=True).stdout
-        source = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
-    else:
-        source = str(audio)
+    # always decode with ffmpeg and hand Whisper an array: some PyAV versions break faster-whisper's own file decoding
+    pcm = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{offset:.3f}", "-i", str(audio), "-ac", "1",
+                          "-ar", "16000", "-f", "s16le", "-"], capture_output=True, check=True).stdout
+    source = np.frombuffer(pcm, dtype=np.int16).astype(np.float32) / 32768.0
     segments, info = model.transcribe(source, language="en", word_timestamps=True,
                                       vad_filter=False, beam_size=5)
     t0 = time.time()
