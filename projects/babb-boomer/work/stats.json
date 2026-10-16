@@ -1,0 +1,114 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 959.44,
+   "next": 959.58,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "in the course of the, you know, weeks' long process, you know, one comment about age, you know, the hiring person is younger, says, you know, \"OK Boomer,\" you know --",
+   "pause": 0.14,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1421.3,
+   "next": 1422.02,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "should attend to it. And -- and -- We couldn't agree -- we couldn't agree more. And I understand -- I know where you're going with that, and that's good, that's a good point --",
+   "pause": 0.72,
+   "loud_s": 0.5,
+   "mean_over": 13.6,
+   "peak_over": 15.5,
+   "size": "medium"
+  },
+  {
+   "t": 2324.5,
+   "next": 2325.62,
+   "speaker": "JUSTICE BREYER",
+   "before": "person thinks I see her result on this test. It's highly subjective. I'm not sure, but I certainly don't want people who are over the age of 82, et cetera.",
+   "pause": 1.12,
+   "loud_s": 1.0,
+   "mean_over": 30.8,
+   "peak_over": 37.7,
+   "size": "big"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -48.1,
+ "opening_start": 9.6,
+ "opening": [
+  [
+   9.6,
+   "MR. MARTINEZ",
+   "Mr. Chief Justice, and may it please the Court: Section 633a states that all federal personnel actions shall be made free from any discrimination based on age. Both parties agree that that language tracks the text and meaning of Title VII's identical federal sector provision covering race, sex, and religion. Together the two provisions bar discrimination not only in the ultimate outcome of a personnel decision but also in the process of making that decision. That's true regardless of whether the prohibited characteristic at issue is a but-for cause of the final decision. That's the rule that the MSPB and the EEOC have applied in countless cases for many years, but more importantly it flows directly from the statutory text. The phrase \"free from any discrimination\" governs how the decision shall be made. In other words, the process for making that decision. If that process uses age or race as a negative factor, it's not made free from any discrimination. Congress chose those words carefully rejecting the private sector language later addressed in Gross and Nassar. It did so in the unique federal sector context to create a remedy for violating constitutional equal protection rights. This Court has said that when a plaintiff is subjected to discrimination in the process of being considered for a government benefit, he necessarily suffers a redressable equal protection injury even if he can't prove he otherwise would have received a benefit. That same injury rule governs 633a and Title VII. That rule is fully consistent with common law principles and this Court's but-for causation analysis in other cases. The government, in this case, apparently believes it's perfectly lawful for federal agencies to apply younger-is-better or whiter-is-better hiring policies to individuals who can't prove that they would have been hired but for those policies. That's anti-textual and it's wrong. Decisions applying such blatantly discriminatory policies are obviously not made free from any discrimination. The government's theory contradicts the plain statutory language."
+  ],
+  [
+   138.46,
+   "JUSTICE KAVANAUGH",
+   "But you say that the but-for causation is not required for liability, but then at the relief stage, as I understand your briefs, you say that but-for causation is required for reinstatement or back pay. And where is that in the statutory text?"
+  ],
+  [
+   160.38,
+   "MR. MARTINEZ",
+   "So we would say that -- that at the -- at the remedial stage, ordinary remedial principles would apply, and those principles would require that the victim, the -- the plaintiff, be made whole for the violation. And under those ordinary principles that I think are undisputed on both sides, if the evidence shows that the -- the person, the plaintiff, couldn't -- wouldn't have gotten hired anyway, they shouldn't get remedies that are specifically and logically tied to that -- that thing that they -- they weren't -- wouldn't have been entitled to the in first place."
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2019/18-882",
+  "page_url": "https://www.oyez.org/cases/2019/18-882",
+  "found": false,
+  "count": 0
+ },
+ "case": "18-882",
+ "year": "2019",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2019/18-882",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/18-882.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2019/18-882_d1o2.pdf",
+ "model": "small.en",
+ "duration": 3560.904,
+ "asr_elapsed_s": 2099.6,
+ "asr_words": 10101,
+ "official_words": 10400,
+ "matched": 9770,
+ "shared": 4,
+ "clamped": 0,
+ "trimmed": 15,
+ "rewindowed": 0,
+ "match_rate": 93.9423076923077,
+ "turns": 275,
+ "laugh_markers": 3,
+ "mp3_bytes": 28487469,
+ "pauses": 453,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": [
+    [
+     "2302(b)(1)(B),",
+     1677.3,
+     1680.96
+    ]
+   ]
+  },
+  "short_words": 382,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.94% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-16"
+}
