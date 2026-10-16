@@ -1,0 +1,459 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1089.54,
+   "next": 1089.54,
+   "speaker": "JUSTICE BREYER",
+   "before": "Okay. Now suppose it's really weird. I mean, you want to say no exception at all? He says, my claim here is a Martian told me to do it. Okay?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2108.96,
+   "next": 2108.96,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "standard points to. But -- but what does even that mean? Clearly, there's a bona fide dispute when two parties are litigating all the way to the United States Supreme Court.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2184.12,
+   "next": 2184.24,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "answer the question presented -- Oh, no. -- and you give up and go back to the court of appeals on the first one? Absolutely not, Your Honor. I didn't think so.",
+   "pause": 0.12,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2526.6,
+   "next": 2526.6,
+   "speaker": "MR. GEYSER",
+   "before": "is doing. And we would warmly -- It's pretty theoretical. And that's an argument. We -- we would warmly invite a DIG if the Court would like to -- to DIG the case.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3192.81,
+   "next": 3192.81,
+   "speaker": "JUSTICE SOTOMAYOR",
+   "before": "saying that in this case it -- it is highly unlikely to have any effect on the ultimate outcome. Well, that's only because you intend to win all the other questions.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -51.2,
+ "opening_start": 8.08,
+ "opening": [
+  [
+   8.08,
+   "MR. SHANMUGAM",
+   "Thank you, Mr. Chief Justice, and may it please the Court: The Federal Arbitration Act requires courts to enforce arbitration agreements according to their terms. This case involves a straightforward application of that principle in the context of arbitrability, specifically where the parties have agreed to delegate to the arbitrator the authority to decide whether claims are subject to arbitration. Where the parties have so agreed, the Arbitration Act requires a court to honor that agreement. A court does not have the power to decide the issue of arbitrability for itself and to short-circuit the arbitrator's ability to do so."
+  ],
+  [
+   45.12,
+   "JUSTICE GINSBURG",
+   "Mr. Shanmugam, can we back up and have you explain why we even get to a question, the question presented, because Schein has no arbitration agreement with Archer, so how -- what is this agreement? It's not between Archer and Schein. How does Schein get to claim the benefit of an agreement Schein did not make?"
+  ],
+  [
+   74.38,
+   "MR. SHANMUGAM",
+   "Justice Ginsburg, there is a question in the case concerning non-parties. The agreements in question are agreements with some of the defendants, not all of them. And so, therefore, as to the non-signatory defendants, there is a question reserved by the court of appeals about the doctrine of equitable estoppel, and that would be an issue for the court of appeals to address on remand if this Court agrees with us on the question presented. That is obviously a discrete issue, not reached by the court of appeals in the decision below, and, again, an issue that would be open on remand. But, on the question presented, I think our submission is quite straightforward. The \"wholly groundless\" exception on which the court of appeals relied has no footing in the text of the Arbitration Act. Where the parties have agreed to delegate the issue of arbitrability to the arbitrator, the merits of that issue are for the arbitrator and wholly for the arbitrator to decide. Sections 2, 3, and 4 of the Arbitration Act all point in the same direction: Where you have a valid delegation, that is treated, as this Court has indicated, like an antecedent agreement to arbitrate, and all there is for a court to do is to determine, first, that that provision is itself valid and, second, to determine whether the opposing party is, in fact, resisting the enforcement of that provision."
+  ],
+  [
+   163.12,
+   "JUSTICE ALITO",
+   "How do we take this --"
+  ],
+  [
+   163.12,
+   "CHIEF JUSTICE ROBERTS",
+   "I'm not sure your answer to Justice Ginsburg is totally responsive. The -- the question of whether or not there is a valid arbitration agreement between the parties is antecedent to an order compelling arbitration. The court makes that decision. And I wonder why this isn't a -- a similar question. I mean, your friend on the other side makes the argument that, well, parties would not have agreed to"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2018/17-1272",
+  "page_url": "https://www.oyez.org/cases/2018/17-1272",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - January 08, 2019",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24868",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2018/17-1272/17-1272_20190108-opinion.delivery.mp3",
+  "duration": 320.809796,
+  "mp3_bytes": 1313117,
+  "asr_elapsed_s": 133.2,
+  "trimmed": 0,
+  "rewindowed": 1,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   750,
+   769,
+   771
+  ],
+  "diffs": [
+   [
+    5.96,
+    "and",
+    "&"
+   ],
+   [
+    12.36,
+    "a",
+    "the"
+   ],
+   [
+    135.26,
+    "court.",
+    "threshold issue of arbitrability. Just as"
+   ],
+   [
+    158.76,
+    "and",
+    "&"
+   ],
+   [
+    163.62,
+    "and",
+    "&"
+   ],
+   [
+    187.5,
+    "and",
+    "&"
+   ],
+   [
+    197.72,
+    "and",
+    "&"
+   ],
+   [
+    222.9,
+    "and",
+    "&"
+   ],
+   [
+    275.76,
+    "party's",
+    "parties'"
+   ],
+   [
+    306.77,
+    "and",
+    "&"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 769,
+  "opening": [
+   [
+    0.96,
+    "CHIEF JUSTICE ROBERTS",
+    "In case number 17-1272, Henry Schein v. Archer and White-Sales, Inc., Justice Kavanaugh has the opinion of the Court."
+   ],
+   [
+    12.04,
+    "JUSTICE KAVANAUGH",
+    "This is a case about arbitration. In 1925, Congress passed and President Coolidge signed the Federal Arbitration Act. Under the act, arbitration is a matter of contract, and courts must enforce arbitration contracts according to their terms. Applying the act, we have held that parties may agree to have an arbitrator decide not only the merits of a particular dispute, but also gateway questions of arbitrability, such as whether the parties' agreement covers a particular controversy. Even when the parties' contract delegates the threshold arbitrability question to an arbitrator, the Fifth Circuit, in this case, and some other courts of appeals, have determined that the court, rather than an arbitrator, should decide the threshold arbitrability question if, under the contract, the argument for arbitration is wholly groundless. Those courts have reasoned that the wholly groundless exception enables courts to block frivolous attempts to transfer disputes from the court system to arbitration. The question here is whether the wholly groundless exception is consistent with the text of the act and with our precedent. We conclude that it is not. We must interpret the act as written, and the act, in turn, requires that we interpret the contract as written. When the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract. In those circumstances, a court possesses no power to decide the arbitrability issue. That conclusion follows not only from the text of the act, but also from precedent. We have held that a court may not rule on the potential merits of the underlying claim that is assigned by contract to an arbitrator, even if the claim appears to the court to be frivolous. That principle applies with equal force to the court. A court may not decide a merits question that the parties have delegated to an arbitrator. A court may not decide an arbitrability question that the parties have delegated to an arbitrator. In an attempt to overcome the statutory text in this court's cases, the party opposing arbitration here, a business known as Archer and White, advances several arguments. In cases like this, as Archer and White sees it, the arbitrator will inevitably conclude that the dispute is not subject to arbitration, and then send the case back to the district court. So why waste the time and money? The short answer is that the act contains no wholly groundless exception, and we"
+   ]
+  ],
+  "full_text": [
+   [
+    0.96,
+    "CHIEF JUSTICE ROBERTS",
+    "In case number 17-1272, Henry Schein v. Archer and White-Sales, Inc., Justice Kavanaugh has the opinion of the Court."
+   ],
+   [
+    12.04,
+    "JUSTICE KAVANAUGH",
+    "This is a case about arbitration. In 1925, Congress passed and President Coolidge signed the Federal Arbitration Act. Under the act, arbitration is a matter of contract, and courts must enforce arbitration contracts according to their terms. Applying the act, we have held that parties may agree to have an arbitrator decide not only the merits of a particular dispute, but also gateway questions of arbitrability, such as whether the parties' agreement covers a particular controversy. Even when the parties' contract delegates the threshold arbitrability question to an arbitrator, the Fifth Circuit, in this case, and some other courts of appeals, have determined that the court, rather than an arbitrator, should decide the threshold arbitrability question if, under the contract, the argument for arbitration is wholly groundless. Those courts have reasoned that the wholly groundless exception enables courts to block frivolous attempts to transfer disputes from the court system to arbitration. The question here is whether the wholly groundless exception is consistent with the text of the act and with our precedent. We conclude that it is not. We must interpret the act as written, and the act, in turn, requires that we interpret the contract as written. When the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract. In those circumstances, a court possesses no power to decide the arbitrability issue. That conclusion follows not only from the text of the act, but also from precedent. We have held that a court may not rule on the potential merits of the underlying claim that is assigned by contract to an arbitrator, even if the claim appears to the court to be frivolous. That principle applies with equal force to the court. A court may not decide a merits question that the parties have delegated to an arbitrator. A court may not decide an arbitrability question that the parties have delegated to an arbitrator. In an attempt to overcome the statutory text in this court's cases, the party opposing arbitration here, a business known as Archer and White, advances several arguments. In cases like this, as Archer and White sees it, the arbitrator will inevitably conclude that the dispute is not subject to arbitration, and then send the case back to the district court. So why waste the time and money? The short answer is that the act contains no wholly groundless exception, and we may not engraft our own exceptions onto the statutory text. In addition, contrary to Archer and White's claim, it is doubtful that the wholly groundless exception would save time and money systemically, even if it might do so in some individual cases. Archer and White assumes that it is easy to tell when an argument for arbitration of a particular dispute is wholly groundless. We are dubious. The exception would inevitably spark collateral litigation over whether a seemingly unmeritorious argument for arbitration is wholly groundless as opposed to groundless. We see no reason to create such a time-consuming sideshow. Archer and White further assumes that an arbitrator would reject arbitration in those cases where a judge would conclude that the argument for arbitration is wholly groundless. Not always. After all, an arbitrator might hold a different view of the arbitrability issue than a court does, even if the court finds the answer obvious. It is not unheard of for one fair-minded adjudicator to think a decision is obvious in one direction, but for another fair-minded adjudicator to decide the matter the other way. In sum, we reject the wholly groundless exception. The exception confuses the question of who decides arbitrability with the separate question of who prevails on arbitrability. When the parties' contract delegates the arbitrability question to an arbitrator, the courts must respect the party's decision as embodied in the contract. We express no view about whether the contract at issue in this case, in fact, delegated the arbitrability question to an arbitrator. The Court of Appeals did not decide that issue. Under our cases, courts should not assume that the parties agreed to arbitrate arbitrability unless there is clear and unmistakable evidence that they did so. On remand, the Court of Appeals may address that issue in the first instance, as well as other arguments that Archer and White has properly preserved. The judgment of the Court of Appeals for the Fifth Circuit is vacated, and the case is remanded for further proceedings consistent with our opinion. Our opinion is unanimous."
+   ]
+  ],
+  "sentences": [
+   [
+    0.96,
+    "CHIEF JUSTICE ROBERTS",
+    "In case number 17-1272, Henry Schein v. Archer and White-Sales, Inc., Justice Kavanaugh has the opinion of the Court."
+   ],
+   [
+    12.04,
+    "JUSTICE KAVANAUGH",
+    "This is a case about arbitration."
+   ],
+   [
+    14.76,
+    "JUSTICE KAVANAUGH",
+    "In 1925, Congress passed and President Coolidge signed the Federal Arbitration Act."
+   ],
+   [
+    21.6,
+    "JUSTICE KAVANAUGH",
+    "Under the act, arbitration is a matter of contract, and courts must enforce arbitration contracts according to their terms."
+   ],
+   [
+    30.64,
+    "JUSTICE KAVANAUGH",
+    "Applying the act, we have held that parties may agree to have an arbitrator decide not only the merits of a particular dispute, but also gateway questions of arbitrability, such as whether the parties' agreement covers a particular controversy."
+   ],
+   [
+    48.04,
+    "JUSTICE KAVANAUGH",
+    "Even when the parties' contract delegates the threshold arbitrability question to an arbitrator, the Fifth Circuit, in this case, and some other courts of appeals, have determined that the court, rather than an arbitrator, should decide the threshold arbitrability question if, under the contract, the argument for arbitration is wholly groundless."
+   ],
+   [
+    70.26,
+    "JUSTICE KAVANAUGH",
+    "Those courts have reasoned that the wholly groundless exception enables courts to block frivolous attempts to transfer disputes from the court system to arbitration."
+   ],
+   [
+    82.06,
+    "JUSTICE KAVANAUGH",
+    "The question here is whether the wholly groundless exception is consistent with the text of the act and with our precedent."
+   ],
+   [
+    90.92,
+    "JUSTICE KAVANAUGH",
+    "We conclude that it is not."
+   ],
+   [
+    93.3,
+    "JUSTICE KAVANAUGH",
+    "We must interpret the act as written, and the act, in turn, requires that we interpret the contract as written."
+   ],
+   [
+    100.3,
+    "JUSTICE KAVANAUGH",
+    "When the parties' contract delegates the arbitrability question to an arbitrator, a court may not override the contract."
+   ],
+   [
+    108.76,
+    "JUSTICE KAVANAUGH",
+    "In those circumstances, a court possesses no power to decide the arbitrability issue."
+   ],
+   [
+    115.28,
+    "JUSTICE KAVANAUGH",
+    "That conclusion follows not only from the text of the act, but also from precedent."
+   ],
+   [
+    120.46,
+    "JUSTICE KAVANAUGH",
+    "We have held that a court may not rule on the potential merits of the underlying claim that is assigned by contract to an arbitrator, even if the claim appears to the court to be frivolous."
+   ],
+   [
+    131.86,
+    "JUSTICE KAVANAUGH",
+    "That principle applies with equal force to the court."
+   ],
+   [
+    138.56,
+    "JUSTICE KAVANAUGH",
+    "A court may not decide a merits question that the parties have delegated to an arbitrator."
+   ],
+   [
+    144.2,
+    "JUSTICE KAVANAUGH",
+    "A court may not decide an arbitrability question that the parties have delegated to an arbitrator."
+   ],
+   [
+    151.32,
+    "JUSTICE KAVANAUGH",
+    "In an attempt to overcome the statutory text in this court's cases, the party opposing arbitration here, a business known as Archer and White, advances several arguments."
+   ],
+   [
+    162.16,
+    "JUSTICE KAVANAUGH",
+    "In cases like this, as Archer and White sees it, the arbitrator will inevitably conclude that the dispute is not subject to arbitration, and then send the case back to the district court."
+   ],
+   [
+    172.98,
+    "JUSTICE KAVANAUGH",
+    "So why waste the time and money?"
+   ],
+   [
+    175.96,
+    "JUSTICE KAVANAUGH",
+    "The short answer is that the act contains no wholly groundless exception, and we may not engraft our own exceptions onto the statutory text."
+   ],
+   [
+    185.86,
+    "JUSTICE KAVANAUGH",
+    "In addition, contrary to Archer and White's claim, it is doubtful that the wholly groundless exception would save time and money systemically, even if it might do so in some individual cases."
+   ],
+   [
+    197.56,
+    "JUSTICE KAVANAUGH",
+    "Archer and White assumes that it is easy to tell when an argument for arbitration of a particular dispute is wholly groundless."
+   ],
+   [
+    205.56,
+    "JUSTICE KAVANAUGH",
+    "We are dubious."
+   ],
+   [
+    207.04,
+    "JUSTICE KAVANAUGH",
+    "The exception would inevitably spark collateral litigation over whether a seemingly unmeritorious argument for arbitration is wholly groundless as opposed to groundless."
+   ],
+   [
+    217.9,
+    "JUSTICE KAVANAUGH",
+    "We see no reason to create such a time-consuming sideshow."
+   ],
+   [
+    222.72,
+    "JUSTICE KAVANAUGH",
+    "Archer and White further assumes that an arbitrator would reject arbitration in those cases where a judge would conclude that the argument for arbitration is wholly groundless."
+   ],
+   [
+    233.18,
+    "JUSTICE KAVANAUGH",
+    "Not always."
+   ],
+   [
+    234.74,
+    "JUSTICE KAVANAUGH",
+    "After all, an arbitrator might hold a different view of the arbitrability issue than a court does, even if the court finds the answer obvious."
+   ],
+   [
+    244.0,
+    "JUSTICE KAVANAUGH",
+    "It is not unheard of for one fair-minded adjudicator to think a decision is obvious in one direction, but for another fair-minded adjudicator to decide the matter the other way."
+   ],
+   [
+    256.76,
+    "JUSTICE KAVANAUGH",
+    "In sum, we reject the wholly groundless exception."
+   ],
+   [
+    260.58,
+    "JUSTICE KAVANAUGH",
+    "The exception confuses the question of who decides arbitrability with the separate question of who prevails on arbitrability."
+   ],
+   [
+    269.24,
+    "JUSTICE KAVANAUGH",
+    "When the parties' contract delegates the arbitrability question to an arbitrator, the courts must respect the party's decision as embodied in the contract."
+   ],
+   [
+    279.42,
+    "JUSTICE KAVANAUGH",
+    "We express no view about whether the contract at issue in this case, in fact, delegated the arbitrability question to an arbitrator."
+   ],
+   [
+    287.4,
+    "JUSTICE KAVANAUGH",
+    "The Court of Appeals did not decide that issue."
+   ],
+   [
+    290.64,
+    "JUSTICE KAVANAUGH",
+    "Under our cases, courts should not assume that the parties agreed to arbitrate arbitrability unless there is clear and unmistakable evidence that they did so."
+   ],
+   [
+    300.33,
+    "JUSTICE KAVANAUGH",
+    "On remand, the Court of Appeals may address that issue in the first instance, as well as other arguments that Archer and White has properly preserved."
+   ],
+   [
+    309.31,
+    "JUSTICE KAVANAUGH",
+    "The judgment of the Court of Appeals for the Fifth Circuit is vacated, and the case is remanded for further proceedings consistent with our opinion."
+   ],
+   [
+    317.93,
+    "JUSTICE KAVANAUGH",
+    "Our opinion is unanimous."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.96,
+    10.46,
+    19
+   ],
+   [
+    "JUSTICE KAVANAUGH",
+    12.04,
+    319.21,
+    745
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": [
+    [
+     "court.",
+     135.26,
+     138.56
+    ]
+   ]
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "17-1272",
+ "year": "2018",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2018/17-1272",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/17-1272.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2018/17-1272_nd89.pdf",
+ "model": "small.en",
+ "duration": 3530.928,
+ "asr_elapsed_s": 3339.2,
+ "asr_words": 10193,
+ "official_words": 10504,
+ "matched": 9874,
+ "shared": 3,
+ "clamped": 0,
+ "trimmed": 25,
+ "rewindowed": 0,
+ "match_rate": 94.002284843869,
+ "turns": 262,
+ "laugh_markers": 5,
+ "mp3_bytes": 28247661,
+ "pauses": 366,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 333,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.00% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-16"
+}

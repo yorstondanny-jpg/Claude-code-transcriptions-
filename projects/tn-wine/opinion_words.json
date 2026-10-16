@@ -1,0 +1,7436 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 0.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Alito",
+  "s": 0.64,
+  "e": 1.02,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.02,
+  "e": 1.32,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "our",
+  "s": 1.32,
+  "e": 1.58,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.58,
+  "e": 1.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 1.8,
+  "e": 2.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Case",
+  "s": 2.14,
+  "e": 2.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "1896,",
+  "s": 2.26,
+  "e": 3.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Tennessee",
+  "s": 4.22,
+  "e": 4.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Wine",
+  "s": 4.52,
+  "e": 4.92,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 4.92,
+  "e": 5.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Spirits",
+  "s": 5.78,
+  "e": 5.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Retailers",
+  "s": 5.78,
+  "e": 6.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "v.",
+  "s": 6.6,
+  "e": 6.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Thomas.",
+  "s": 7.32,
+  "e": 7.34,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 8.22,
+  "e": 8.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "case",
+  "s": 8.38,
+  "e": 8.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "concerns",
+  "s": 8.64,
+  "e": 9.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 9.28,
+  "e": 9.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "constitutionality",
+  "s": 9.62,
+  "e": 10.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 10.68,
+  "e": 11.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 11.06,
+  "e": 11.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 11.24,
+  "e": 11.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 11.66,
+  "e": 11.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee",
+  "s": 11.92,
+  "e": 12.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "law",
+  "s": 12.34,
+  "e": 12.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 12.78,
+  "e": 13.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "imposes",
+  "s": 13.08,
+  "e": 13.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 13.6,
+  "e": 14.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "durational",
+  "s": 14.46,
+  "e": 15.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 15.1,
+  "e": 15.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 15.76,
+  "e": 16.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "on",
+  "s": 16.48,
+  "e": 17.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "all",
+  "s": 17.22,
+  "e": 17.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "applicants",
+  "s": 17.58,
+  "e": 18.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 18.16,
+  "e": 18.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 18.62,
+  "e": 19.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "license",
+  "s": 19.04,
+  "e": 19.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 19.4,
+  "e": 19.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "operate",
+  "s": 19.74,
+  "e": 20.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 20.18,
+  "e": 20.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "liquor",
+  "s": 20.4,
+  "e": 20.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "store.",
+  "s": 20.56,
+  "e": 20.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "The",
+  "s": 21.66,
+  "e": 21.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "particular",
+  "s": 21.84,
+  "e": 22.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 22.36,
+  "e": 23.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "at",
+  "s": 23.0,
+  "e": 23.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "issue",
+  "s": 23.4,
+  "e": 23.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 23.82,
+  "e": 24.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "part",
+  "s": 24.22,
+  "e": 24.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 24.52,
+  "e": 24.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 24.72,
+  "e": 24.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "set",
+  "s": 24.84,
+  "e": 25.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 25.18,
+  "e": 25.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "very",
+  "s": 25.58,
+  "e": 25.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "demanding",
+  "s": 25.9,
+  "e": 26.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 26.46,
+  "e": 27.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirements.",
+  "s": 27.14,
+  "e": 27.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "One",
+  "s": 28.42,
+  "e": 28.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 28.8,
+  "e": 29.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "precludes",
+  "s": 29.32,
+  "e": 29.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 29.96,
+  "e": 30.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "renewal",
+  "s": 30.2,
+  "e": 30.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 30.66,
+  "e": 30.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 30.94,
+  "e": 31.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "license",
+  "s": 31.08,
+  "e": 31.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "unless",
+  "s": 31.46,
+  "e": 31.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 31.84,
+  "e": 32.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "applicant",
+  "s": 32.06,
+  "e": 32.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has",
+  "s": 32.54,
+  "e": 33.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "resided",
+  "s": 33.18,
+  "e": 33.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 33.66,
+  "e": 34.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee",
+  "s": 34.1,
+  "e": 34.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 34.56,
+  "e": 34.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "10",
+  "s": 34.88,
+  "e": 35.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "consecutive",
+  "s": 35.22,
+  "e": 35.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "years.",
+  "s": 35.82,
+  "e": 36.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Another",
+  "s": 37.12,
+  "e": 37.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 37.4,
+  "e": 38.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provides",
+  "s": 38.0,
+  "e": 38.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 38.88,
+  "e": 39.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 39.38,
+  "e": 39.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "corporation",
+  "s": 39.58,
+  "e": 40.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "cannot",
+  "s": 40.04,
+  "e": 40.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "get",
+  "s": 40.64,
+  "e": 40.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 40.9,
+  "e": 41.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "license",
+  "s": 41.06,
+  "e": 41.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "unless",
+  "s": 41.48,
+  "e": 42.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "every",
+  "s": 42.04,
+  "e": 42.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "one",
+  "s": 42.48,
+  "e": 42.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 42.74,
+  "e": 42.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "its",
+  "s": 42.88,
+  "e": 43.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "stockholders",
+  "s": 43.04,
+  "e": 43.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 43.78,
+  "e": 44.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 44.14,
+  "e": 44.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee",
+  "s": 44.34,
+  "e": 44.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "resident.",
+  "s": 44.72,
+  "e": 45.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "The",
+  "s": 46.28,
+  "e": 46.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Court",
+  "s": 46.42,
+  "e": 46.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 46.52,
+  "e": 46.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Appeals",
+  "s": 46.66,
+  "e": 47.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 47.0,
+  "e": 47.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 47.46,
+  "e": 47.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Sixth",
+  "s": 47.7,
+  "e": 47.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Circuit",
+  "s": 47.9,
+  "e": 48.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "struck",
+  "s": 48.3,
+  "e": 48.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "down",
+  "s": 48.7,
+  "e": 49.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "those",
+  "s": 49.14,
+  "e": 49.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "two",
+  "s": 49.46,
+  "e": 49.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provisions",
+  "s": 49.78,
+  "e": 50.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "as",
+  "s": 50.3,
+  "e": 50.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "blatant",
+  "s": 50.74,
+  "e": 51.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "violations",
+  "s": 51.0,
+  "e": 51.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 51.78,
+  "e": 52.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 52.18,
+  "e": 52.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Commerce",
+  "s": 52.32,
+  "e": 52.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Clause,",
+  "s": 52.7,
+  "e": 53.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 53.48,
+  "e": 53.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "no",
+  "s": 53.54,
+  "e": 53.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "one",
+  "s": 53.76,
+  "e": 53.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "defends",
+  "s": 53.98,
+  "e": 54.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "them",
+  "s": 54.38,
+  "e": 54.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 54.72,
+  "e": 54.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 54.94,
+  "e": 55.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Court.",
+  "s": 55.18,
+  "e": 55.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "This",
+  "s": 55.48,
+  "e": 56.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "case",
+  "s": 56.26,
+  "e": 56.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "involves",
+  "s": 56.56,
+  "e": 57.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "another",
+  "s": 57.64,
+  "e": 58.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "part",
+  "s": 58.06,
+  "e": 58.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 58.42,
+  "e": 58.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 58.62,
+  "e": 58.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee",
+  "s": 58.66,
+  "e": 59.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "scheme,",
+  "s": 59.04,
+  "e": 59.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 59.86,
+  "e": 60.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 60.06,
+  "e": 60.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 60.46,
+  "e": 61.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requires",
+  "s": 61.14,
+  "e": 61.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "applicants",
+  "s": 61.66,
+  "e": 62.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 62.24,
+  "e": 62.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 62.68,
+  "e": 62.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "new",
+  "s": 62.94,
+  "e": 63.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "license",
+  "s": 63.22,
+  "e": 63.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 63.66,
+  "e": 64.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "show",
+  "s": 64.08,
+  "e": 64.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 64.36,
+  "e": 64.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "they",
+  "s": 64.6,
+  "e": 64.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "have",
+  "s": 64.78,
+  "e": 64.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "resided",
+  "s": 64.94,
+  "e": 65.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 65.36,
+  "e": 65.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 65.76,
+  "e": 65.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State",
+  "s": 65.92,
+  "e": 66.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 66.24,
+  "e": 66.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 66.86,
+  "e": 67.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "previous",
+  "s": 67.04,
+  "e": 67.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "two",
+  "s": 67.46,
+  "e": 67.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "years.",
+  "s": 67.78,
+  "e": 68.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "After",
+  "s": 68.92,
+  "e": 69.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 69.26,
+  "e": 69.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Attorney",
+  "s": 69.44,
+  "e": 69.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "General",
+  "s": 69.64,
+  "e": 70.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 70.04,
+  "e": 70.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee",
+  "s": 70.24,
+  "e": 70.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "advised",
+  "s": 70.8,
+  "e": 71.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 71.48,
+  "e": 71.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 71.94,
+  "e": 72.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 72.2,
+  "e": 72.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "unconstitutionally",
+  "s": 74.16,
+  "e": 75.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "discriminates",
+  "s": 75.0,
+  "e": 75.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "against",
+  "s": 75.8,
+  "e": 76.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "interstate",
+  "s": 76.3,
+  "e": 76.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "commerce,",
+  "s": 76.82,
+  "e": 77.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 78.02,
+  "e": 78.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State's",
+  "s": 78.12,
+  "e": 78.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcoholic",
+  "s": 78.56,
+  "e": 79.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "beverage",
+  "s": 79.12,
+  "e": 79.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "commission",
+  "s": 79.54,
+  "e": 80.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "stopped",
+  "s": 80.02,
+  "e": 80.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "enforcing",
+  "s": 80.68,
+  "e": 81.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it.",
+  "s": 81.16,
+  "e": 81.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "The",
+  "s": 81.9,
+  "e": 82.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Respondents",
+  "s": 82.26,
+  "e": 82.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 82.9,
+  "e": 83.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 83.14,
+  "e": 83.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "case,",
+  "s": 83.36,
+  "e": 83.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "neither",
+  "s": 83.84,
+  "e": 84.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 84.0,
+  "e": 84.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "which",
+  "s": 84.26,
+  "e": 84.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "satisfied",
+  "s": 84.48,
+  "e": 85.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 85.24,
+  "e": 85.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "two",
+  "s": 85.48,
+  "e": 85.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-year",
+  "s": 85.68,
+  "e": 85.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 85.84,
+  "e": 86.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement,",
+  "s": 86.36,
+  "e": 86.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "then",
+  "s": 87.1,
+  "e": 87.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "applied",
+  "s": 87.44,
+  "e": 87.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 87.94,
+  "e": 88.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "licenses.",
+  "s": 88.34,
+  "e": 88.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "In",
+  "s": 90.34,
+  "e": 90.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "response,",
+  "s": 90.6,
+  "e": 91.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Petitioner,",
+  "s": 91.42,
+  "e": 92.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "an",
+  "s": 92.42,
+  "e": 92.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "association",
+  "s": 92.5,
+  "e": 93.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 93.02,
+  "e": 93.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee",
+  "s": 93.68,
+  "e": 94.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "liquor",
+  "s": 94.08,
+  "e": 94.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "retailers,",
+  "s": 94.52,
+  "e": 95.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "threatened",
+  "s": 95.68,
+  "e": 95.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 95.88,
+  "e": 96.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "sue",
+  "s": 96.22,
+  "e": 96.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 96.4,
+  "e": 96.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State",
+  "s": 96.62,
+  "e": 96.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "if",
+  "s": 96.96,
+  "e": 97.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 97.44,
+  "e": 97.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "did",
+  "s": 97.58,
+  "e": 97.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 97.72,
+  "e": 98.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "enforce",
+  "s": 98.02,
+  "e": 98.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 98.46,
+  "e": 98.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirements",
+  "s": 98.76,
+  "e": 99.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "against",
+  "s": 99.32,
+  "e": 99.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Respondents,",
+  "s": 99.96,
+  "e": 100.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 100.92,
+  "e": 101.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 101.32,
+  "e": 101.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "litigation",
+  "s": 101.5,
+  "e": 101.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "follows.",
+  "s": 101.88,
+  "e": 102.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Now,",
+  "s": 103.62,
+  "e": 103.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "everyone",
+  "s": 103.84,
+  "e": 104.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "agrees",
+  "s": 104.24,
+  "e": 104.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 104.66,
+  "e": 105.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 105.12,
+  "e": 105.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State's",
+  "s": 105.38,
+  "e": 105.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "two",
+  "s": 105.76,
+  "e": 106.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-year",
+  "s": 106.08,
+  "e": 106.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 106.34,
+  "e": 107.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 107.04,
+  "e": 107.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "favors",
+  "s": 107.76,
+  "e": 108.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 108.2,
+  "e": 108.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "economic",
+  "s": 108.48,
+  "e": 109.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "interests",
+  "s": 109.04,
+  "e": 109.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 109.62,
+  "e": 110.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 110.0,
+  "e": 110.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-state",
+  "s": 110.2,
+  "e": 110.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residents",
+  "s": 110.52,
+  "e": 110.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 110.96,
+  "e": 111.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "citizens",
+  "s": 111.98,
+  "e": 112.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "over",
+  "s": 112.52,
+  "e": 112.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "their",
+  "s": 112.94,
+  "e": 113.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "out",
+  "s": 113.26,
+  "e": 113.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-of",
+  "s": 113.5,
+  "e": 113.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-state",
+  "s": 113.6,
+  "e": 113.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "counterparts.",
+  "s": 113.88,
+  "e": 114.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "And",
+  "s": 115.14,
+  "e": 115.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 115.28,
+  "e": 115.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 115.42,
+  "e": 115.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "reason,",
+  "s": 115.62,
+  "e": 116.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 116.22,
+  "e": 116.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 116.38,
+  "e": 116.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 116.78,
+  "e": 117.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "implicates",
+  "s": 117.58,
+  "e": 118.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 118.2,
+  "e": 118.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Federal",
+  "s": 118.48,
+  "e": 118.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Constitution's",
+  "s": 119.34,
+  "e": 119.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Commerce",
+  "s": 119.7,
+  "e": 120.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Clause,",
+  "s": 120.08,
+  "e": 120.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "which",
+  "s": 120.74,
+  "e": 121.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provides",
+  "s": 121.36,
+  "e": 121.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 121.78,
+  "e": 122.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Congress",
+  "s": 122.04,
+  "e": 122.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "shall",
+  "s": 122.4,
+  "e": 122.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "have",
+  "s": 122.92,
+  "e": 123.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 123.14,
+  "e": 123.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "power",
+  "s": 123.3,
+  "e": 123.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 123.54,
+  "e": 123.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "regulate",
+  "s": 123.76,
+  "e": 124.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "commerce",
+  "s": 124.2,
+  "e": 125.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "among",
+  "s": 125.32,
+  "e": 125.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 125.86,
+  "e": 126.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "several",
+  "s": 126.08,
+  "e": 126.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "States.",
+  "s": 126.4,
+  "e": 126.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Although",
+  "s": 127.78,
+  "e": 128.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 128.1,
+  "e": 128.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "clause",
+  "s": 128.32,
+  "e": 128.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 128.68,
+  "e": 129.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "framed",
+  "s": 129.26,
+  "e": 129.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "as",
+  "s": 129.72,
+  "e": 130.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 130.28,
+  "e": 130.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "positive",
+  "s": 130.48,
+  "e": 130.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "grant",
+  "s": 130.92,
+  "e": 131.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 131.28,
+  "e": 131.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "power",
+  "s": 131.52,
+  "e": 131.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 131.82,
+  "e": 132.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Congress,",
+  "s": 132.06,
+  "e": 132.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 133.02,
+  "e": 133.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Court",
+  "s": 133.32,
+  "e": 133.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has",
+  "s": 133.56,
+  "e": 133.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "long",
+  "s": 133.84,
+  "e": 134.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "held",
+  "s": 134.22,
+  "e": 134.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 134.62,
+  "e": 134.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 134.98,
+  "e": 135.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "also",
+  "s": 135.1,
+  "e": 135.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "prohibits",
+  "s": 135.5,
+  "e": 136.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State",
+  "s": 136.12,
+  "e": 136.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "laws",
+  "s": 136.54,
+  "e": 136.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 136.94,
+  "e": 137.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "unduly",
+  "s": 137.74,
+  "e": 138.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "restrict",
+  "s": 138.32,
+  "e": 138.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "interstate",
+  "s": 138.94,
+  "e": 139.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "commerce.",
+  "s": 139.58,
+  "e": 140.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "This",
+  "s": 140.82,
+  "e": 141.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "interpretation,",
+  "s": 141.12,
+  "e": 141.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "which",
+  "s": 142.2,
+  "e": 142.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 142.4,
+  "e": 142.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "generally",
+  "s": 142.6,
+  "e": 142.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "known",
+  "s": 142.94,
+  "e": 143.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "as",
+  "s": 143.38,
+  "e": 143.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 143.78,
+  "e": 143.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Dormant",
+  "s": 143.98,
+  "e": 144.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Commerce",
+  "s": 144.4,
+  "e": 144.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Clause,",
+  "s": 144.8,
+  "e": 145.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has",
+  "s": 145.48,
+  "e": 146.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "been",
+  "s": 146.04,
+  "e": 146.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 146.3,
+  "e": 146.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "subject",
+  "s": 146.56,
+  "e": 146.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 146.82,
+  "e": 147.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "thoughtful",
+  "s": 147.22,
+  "e": 147.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "criticisms",
+  "s": 147.68,
+  "e": 148.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "by",
+  "s": 148.32,
+  "e": 148.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "members",
+  "s": 148.74,
+  "e": 149.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 149.0,
+  "e": 149.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 149.34,
+  "e": 149.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Court",
+  "s": 149.58,
+  "e": 149.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 149.86,
+  "e": 150.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "recent",
+  "s": 150.14,
+  "e": 150.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "years.",
+  "s": 150.5,
+  "e": 150.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "But",
+  "s": 151.46,
+  "e": 151.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 151.82,
+  "e": 152.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "proposition",
+  "s": 152.02,
+  "e": 152.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 152.52,
+  "e": 152.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 152.86,
+  "e": 153.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Commerce",
+  "s": 153.02,
+  "e": 153.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Clause,",
+  "s": 153.34,
+  "e": 153.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "by",
+  "s": 153.94,
+  "e": 153.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "its",
+  "s": 153.94,
+  "e": 154.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "own",
+  "s": 154.14,
+  "e": 154.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "force,",
+  "s": 154.46,
+  "e": 154.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "restricts",
+  "s": 155.58,
+  "e": 155.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State",
+  "s": 155.58,
+  "e": 156.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "protectionism",
+  "s": 156.74,
+  "e": 157.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has",
+  "s": 157.1,
+  "e": 157.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "very",
+  "s": 157.7,
+  "e": 158.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "deep",
+  "s": 158.02,
+  "e": 158.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "roots",
+  "s": 158.3,
+  "e": 158.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 158.6,
+  "e": 158.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "go",
+  "s": 158.84,
+  "e": 159.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "back",
+  "s": 159.0,
+  "e": 159.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "as",
+  "s": 159.28,
+  "e": 159.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "far",
+  "s": 159.52,
+  "e": 159.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "as",
+  "s": 159.88,
+  "e": 160.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Chief",
+  "s": 160.2,
+  "e": 160.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Justice",
+  "s": 160.42,
+  "e": 160.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Marshall's",
+  "s": 160.84,
+  "e": 162.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "24",
+  "s": 162.48,
+  "e": 162.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "decision",
+  "s": 162.82,
+  "e": 163.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 163.46,
+  "e": 163.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Gibbons",
+  "s": 163.9,
+  "e": 164.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "v.",
+  "s": 164.24,
+  "e": 164.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Ogden.",
+  "s": 164.98,
+  "e": 165.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "And",
+  "s": 165.74,
+  "e": 165.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 165.96,
+  "e": 166.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 166.12,
+  "e": 166.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 166.24,
+  "e": 166.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "surprising.",
+  "s": 166.42,
+  "e": 166.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "One",
+  "s": 167.22,
+  "e": 167.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 167.32,
+  "e": 167.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 167.46,
+  "e": 167.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "main",
+  "s": 167.58,
+  "e": 167.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "reasons",
+  "s": 167.88,
+  "e": 168.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 168.42,
+  "e": 169.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "calling",
+  "s": 169.02,
+  "e": 169.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 169.66,
+  "e": 170.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Constitutional",
+  "s": 170.3,
+  "e": 170.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Convention",
+  "s": 170.88,
+  "e": 171.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 171.48,
+  "e": 171.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Philadelphia",
+  "s": 171.94,
+  "e": 172.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 172.42,
+  "e": 172.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "1787",
+  "s": 172.88,
+  "e": 174.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 174.14,
+  "e": 174.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 174.48,
+  "e": 174.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "remove",
+  "s": 174.74,
+  "e": 175.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 175.34,
+  "e": 176.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "trade",
+  "s": 176.0,
+  "e": 176.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "barriers",
+  "s": 176.34,
+  "e": 176.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 176.88,
+  "e": 177.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "had",
+  "s": 177.16,
+  "e": 177.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "been",
+  "s": 177.38,
+  "e": 177.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "erected",
+  "s": 177.6,
+  "e": 178.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "by",
+  "s": 178.1,
+  "e": 178.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 178.46,
+  "e": 178.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "States",
+  "s": 178.66,
+  "e": 178.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "during",
+  "s": 178.94,
+  "e": 179.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 179.44,
+  "e": 179.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Articles",
+  "s": 179.7,
+  "e": 180.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 180.1,
+  "e": 180.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Confederation.",
+  "s": 180.32,
+  "e": 180.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "And",
+  "s": 182.14,
+  "e": 182.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 182.36,
+  "e": 182.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "light",
+  "s": 182.5,
+  "e": 182.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 182.68,
+  "e": 182.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 182.82,
+  "e": 182.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "way,",
+  "s": 182.98,
+  "e": 183.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 183.26,
+  "e": 183.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Court",
+  "s": 183.46,
+  "e": 183.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has",
+  "s": 183.68,
+  "e": 184.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "interpreted",
+  "s": 184.24,
+  "e": 185.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "other",
+  "s": 185.24,
+  "e": 185.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provisions",
+  "s": 185.68,
+  "e": 186.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 186.2,
+  "e": 186.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 186.48,
+  "e": 186.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Constitution",
+  "s": 186.68,
+  "e": 187.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 187.28,
+  "e": 187.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "might",
+  "s": 187.68,
+  "e": 187.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "be",
+  "s": 187.94,
+  "e": 188.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "used",
+  "s": 188.26,
+  "e": 188.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 188.72,
+  "e": 189.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "attack",
+  "s": 189.26,
+  "e": 189.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "such",
+  "s": 189.6,
+  "e": 189.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "trade",
+  "s": 189.86,
+  "e": 190.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "barriers.",
+  "s": 190.24,
+  "e": 190.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "If",
+  "s": 190.98,
+  "e": 191.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "we",
+  "s": 191.16,
+  "e": 191.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "now",
+  "s": 191.34,
+  "e": 191.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "abandon",
+  "s": 191.6,
+  "e": 192.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 192.16,
+  "e": 192.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Dormant",
+  "s": 192.38,
+  "e": 192.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Commerce",
+  "s": 192.72,
+  "e": 193.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Clause",
+  "s": 193.12,
+  "e": 193.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "principle,",
+  "s": 193.36,
+  "e": 193.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 194.46,
+  "e": 194.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "result",
+  "s": 194.6,
+  "e": 194.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "would",
+  "s": 194.96,
+  "e": 195.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "be",
+  "s": 195.26,
+  "e": 195.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 195.56,
+  "e": 195.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Constitution",
+  "s": 195.82,
+  "e": 196.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 196.96,
+  "e": 197.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "would",
+  "s": 197.28,
+  "e": 197.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "be",
+  "s": 197.52,
+  "e": 197.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "unrecognizable",
+  "s": 197.7,
+  "e": 198.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 198.72,
+  "e": 199.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "those",
+  "s": 199.48,
+  "e": 199.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "who",
+  "s": 199.72,
+  "e": 199.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "convened",
+  "s": 199.92,
+  "e": 200.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 200.26,
+  "e": 200.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Philadelphia",
+  "s": 200.48,
+  "e": 200.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 200.96,
+  "e": 201.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 201.3,
+  "e": 201.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "summer",
+  "s": 201.4,
+  "e": 201.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 201.68,
+  "e": 201.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "1787.",
+  "s": 201.92,
+  "e": 203.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "And",
+  "s": 203.32,
+  "e": 203.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "we",
+  "s": 203.4,
+  "e": 203.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "therefore",
+  "s": 203.54,
+  "e": 203.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "reiterate",
+  "s": 203.92,
+  "e": 204.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 204.44,
+  "e": 204.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 204.72,
+  "e": 204.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Commerce",
+  "s": 204.9,
+  "e": 205.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Clause",
+  "s": 205.22,
+  "e": 205.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 205.6,
+  "e": 205.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "its",
+  "s": 205.92,
+  "e": 206.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "own",
+  "s": 206.1,
+  "e": 206.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "force",
+  "s": 206.42,
+  "e": 206.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "prohibits",
+  "s": 207.46,
+  "e": 207.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State",
+  "s": 207.78,
+  "e": 208.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "discrimination",
+  "s": 208.26,
+  "e": 208.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "against",
+  "s": 208.88,
+  "e": 209.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "out",
+  "s": 209.58,
+  "e": 209.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-of",
+  "s": 209.88,
+  "e": 210.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-State",
+  "s": 210.02,
+  "e": 210.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "economic",
+  "s": 210.28,
+  "e": 210.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "interests",
+  "s": 210.86,
+  "e": 211.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "except",
+  "s": 211.66,
+  "e": 212.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 212.44,
+  "e": 212.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "narrow",
+  "s": 212.82,
+  "e": 213.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "circumstances.",
+  "s": 213.12,
+  "e": 213.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "In",
+  "s": 214.92,
+  "e": 215.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 215.2,
+  "e": 215.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "case,",
+  "s": 215.38,
+  "e": 215.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "there",
+  "s": 215.66,
+  "e": 216.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 216.46,
+  "e": 216.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "no",
+  "s": 216.58,
+  "e": 216.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "question",
+  "s": 216.78,
+  "e": 217.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 217.12,
+  "e": 217.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 217.46,
+  "e": 217.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 217.6,
+  "e": 218.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 218.02,
+  "e": 218.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "discriminates",
+  "s": 218.78,
+  "e": 219.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "against",
+  "s": 219.52,
+  "e": 219.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "out",
+  "s": 219.9,
+  "e": 220.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-of",
+  "s": 220.22,
+  "e": 220.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-State",
+  "s": 220.36,
+  "e": 220.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "interests,",
+  "s": 220.62,
+  "e": 221.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 221.4,
+  "e": 221.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "therefore",
+  "s": 221.52,
+  "e": 221.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 221.94,
+  "e": 222.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "would",
+  "s": 222.58,
+  "e": 222.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "violate",
+  "s": 222.82,
+  "e": 223.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 223.38,
+  "e": 223.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Dormant",
+  "s": 223.6,
+  "e": 224.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Commerce",
+  "s": 224.04,
+  "e": 224.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Clause",
+  "s": 224.44,
+  "e": 224.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "if",
+  "s": 224.76,
+  "e": 225.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 225.42,
+  "e": 225.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "applied",
+  "s": 225.54,
+  "e": 225.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 225.96,
+  "e": 226.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "goods",
+  "s": 226.24,
+  "e": 226.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "other",
+  "s": 226.6,
+  "e": 226.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "than",
+  "s": 226.96,
+  "e": 227.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcohol.",
+  "s": 227.22,
+  "e": 227.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "But",
+  "s": 228.56,
+  "e": 228.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "because",
+  "s": 228.84,
+  "e": 229.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 229.08,
+  "e": 229.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 229.28,
+  "e": 229.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "concerns",
+  "s": 229.72,
+  "e": 230.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 230.38,
+  "e": 230.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "sale",
+  "s": 230.68,
+  "e": 230.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 230.9,
+  "e": 231.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcohol,",
+  "s": 231.12,
+  "e": 231.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 231.64,
+  "e": 231.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 231.88,
+  "e": 232.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "argued",
+  "s": 232.04,
+  "e": 232.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 232.4,
+  "e": 232.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 232.7,
+  "e": 232.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 232.9,
+  "e": 233.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 233.4,
+  "e": 233.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "shielded",
+  "s": 233.88,
+  "e": 234.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "by",
+  "s": 234.36,
+  "e": 234.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Section",
+  "s": 234.94,
+  "e": 235.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "2",
+  "s": 235.62,
+  "e": 236.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 236.2,
+  "e": 236.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 236.56,
+  "e": 236.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "21st",
+  "s": 236.72,
+  "e": 237.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Amendment.",
+  "s": 237.4,
+  "e": 237.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "And",
+  "s": 238.5,
+  "e": 238.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 238.78,
+  "e": 238.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "understand",
+  "s": 238.9,
+  "e": 239.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 239.28,
+  "e": 239.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision,",
+  "s": 239.56,
+  "e": 240.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 240.06,
+  "e": 240.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 240.3,
+  "e": 240.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "necessary",
+  "s": 240.48,
+  "e": 241.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 241.04,
+  "e": 241.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "recall",
+  "s": 241.5,
+  "e": 242.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 242.0,
+  "e": 242.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "bit",
+  "s": 242.5,
+  "e": 242.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 242.66,
+  "e": 242.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "history.",
+  "s": 242.82,
+  "e": 243.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "During",
+  "s": 244.12,
+  "e": 244.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 244.42,
+  "e": 244.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "19th",
+  "s": 244.58,
+  "e": 245.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "century,",
+  "s": 245.12,
+  "e": 245.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Americans",
+  "s": 245.68,
+  "e": 246.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "did",
+  "s": 246.08,
+  "e": 246.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 246.36,
+  "e": 246.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "lot",
+  "s": 246.56,
+  "e": 246.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 246.82,
+  "e": 247.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "very",
+  "s": 247.06,
+  "e": 247.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "heavy",
+  "s": 247.4,
+  "e": 247.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "drinking.",
+  "s": 247.72,
+  "e": 248.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "And",
+  "s": 248.5,
+  "e": 248.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 248.86,
+  "e": 249.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "States",
+  "s": 249.38,
+  "e": 249.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "enacted",
+  "s": 249.72,
+  "e": 250.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 250.28,
+  "e": 250.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "variety",
+  "s": 250.42,
+  "e": 250.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 250.8,
+  "e": 251.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "laws",
+  "s": 251.16,
+  "e": 251.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 251.48,
+  "e": 251.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "regulated,",
+  "s": 251.84,
+  "e": 252.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "or",
+  "s": 252.66,
+  "e": 252.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 252.86,
+  "e": 253.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "some",
+  "s": 253.0,
+  "e": 253.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "cases",
+  "s": 253.28,
+  "e": 253.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "totally",
+  "s": 253.7,
+  "e": 254.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "banned,",
+  "s": 254.14,
+  "e": 254.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 255.38,
+  "e": 255.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "importation,",
+  "s": 255.46,
+  "e": 256.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "production,",
+  "s": 256.48,
+  "e": 256.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "or",
+  "s": 257.28,
+  "e": 257.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "sale",
+  "s": 257.62,
+  "e": 258.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 258.0,
+  "e": 258.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcohol.",
+  "s": 258.3,
+  "e": 258.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Many",
+  "s": 259.62,
+  "e": 259.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 259.86,
+  "e": 260.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "these",
+  "s": 260.04,
+  "e": 260.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "laws",
+  "s": 260.18,
+  "e": 260.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "were",
+  "s": 260.44,
+  "e": 260.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "challenged",
+  "s": 260.72,
+  "e": 261.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 261.14,
+  "e": 261.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 261.46,
+  "e": 261.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Court",
+  "s": 261.66,
+  "e": 261.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "under",
+  "s": 261.94,
+  "e": 262.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "various",
+  "s": 262.3,
+  "e": 262.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provisions",
+  "s": 262.76,
+  "e": 263.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 263.28,
+  "e": 263.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 263.66,
+  "e": 263.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Constitution,",
+  "s": 263.92,
+  "e": 264.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 264.48,
+  "e": 265.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Congress",
+  "s": 265.32,
+  "e": 265.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "enacted",
+  "s": 265.78,
+  "e": 266.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "two",
+  "s": 266.28,
+  "e": 266.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "important",
+  "s": 266.7,
+  "e": 267.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "statutes",
+  "s": 267.32,
+  "e": 267.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 267.92,
+  "e": 268.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "were",
+  "s": 268.64,
+  "e": 268.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "designed",
+  "s": 268.84,
+  "e": 269.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 269.32,
+  "e": 269.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "permit",
+  "s": 269.62,
+  "e": 270.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "individual",
+  "s": 270.06,
+  "e": 270.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "States",
+  "s": 270.68,
+  "e": 271.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 271.18,
+  "e": 271.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "ban",
+  "s": 271.56,
+  "e": 271.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcohol",
+  "s": 271.8,
+  "e": 272.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "if",
+  "s": 272.46,
+  "e": 272.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "they",
+  "s": 272.9,
+  "e": 273.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "so",
+  "s": 273.12,
+  "e": 273.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "chose.",
+  "s": 273.42,
+  "e": 273.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "This",
+  "s": 274.52,
+  "e": 274.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "history",
+  "s": 274.84,
+  "e": 275.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 275.2,
+  "e": 275.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "recounted",
+  "s": 275.44,
+  "e": 275.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 275.86,
+  "e": 276.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "some",
+  "s": 276.44,
+  "e": 276.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "detail",
+  "s": 276.76,
+  "e": 277.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 277.22,
+  "e": 277.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 277.7,
+  "e": 277.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "opinion",
+  "s": 277.82,
+  "e": 278.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 278.14,
+  "e": 278.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 278.4,
+  "e": 278.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Court.",
+  "s": 278.62,
+  "e": 278.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "But",
+  "s": 278.92,
+  "e": 279.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 279.0,
+  "e": 279.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "make",
+  "s": 279.16,
+  "e": 279.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 279.34,
+  "e": 279.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "long",
+  "s": 279.5,
+  "e": 279.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "story",
+  "s": 279.72,
+  "e": 280.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "short,",
+  "s": 280.06,
+  "e": 280.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 281.02,
+  "e": 281.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "result",
+  "s": 281.24,
+  "e": 281.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 281.58,
+  "e": 281.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "basically",
+  "s": 281.8,
+  "e": 282.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this.",
+  "s": 282.38,
+  "e": 282.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "A",
+  "s": 282.94,
+  "e": 283.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State",
+  "s": 283.14,
+  "e": 283.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 283.58,
+  "e": 283.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 283.94,
+  "e": 284.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "exercise",
+  "s": 284.06,
+  "e": 284.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 284.66,
+  "e": 285.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "what",
+  "s": 285.36,
+  "e": 285.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 285.5,
+  "e": 285.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "known",
+  "s": 285.72,
+  "e": 285.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "as",
+  "s": 285.94,
+  "e": 286.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "its",
+  "s": 286.24,
+  "e": 286.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "police",
+  "s": 286.46,
+  "e": 286.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "power",
+  "s": 286.88,
+  "e": 287.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "could",
+  "s": 287.44,
+  "e": 288.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "regulate",
+  "s": 288.08,
+  "e": 288.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcohol",
+  "s": 288.7,
+  "e": 289.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "as",
+  "s": 289.38,
+  "e": 289.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 289.7,
+  "e": 289.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "saw",
+  "s": 289.86,
+  "e": 290.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "fit",
+  "s": 290.18,
+  "e": 290.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 290.46,
+  "e": 290.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 290.8,
+  "e": 290.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "purpose",
+  "s": 290.96,
+  "e": 291.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 291.22,
+  "e": 291.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "protecting",
+  "s": 291.5,
+  "e": 291.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "public",
+  "s": 291.98,
+  "e": 292.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "health",
+  "s": 292.4,
+  "e": 292.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 292.8,
+  "e": 293.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "welfare.",
+  "s": 293.1,
+  "e": 293.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "But",
+  "s": 293.58,
+  "e": 294.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "its",
+  "s": 294.38,
+  "e": 294.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "police",
+  "s": 294.58,
+  "e": 294.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "power",
+  "s": 294.94,
+  "e": 295.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "did",
+  "s": 295.4,
+  "e": 295.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 295.74,
+  "e": 296.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "allow",
+  "s": 296.06,
+  "e": 296.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 296.44,
+  "e": 296.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 296.66,
+  "e": 296.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "enact",
+  "s": 296.8,
+  "e": 297.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "laws",
+  "s": 297.1,
+  "e": 297.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 297.46,
+  "e": 297.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 297.86,
+  "e": 298.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "purpose",
+  "s": 298.04,
+  "e": 298.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 298.28,
+  "e": 298.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "giving",
+  "s": 298.58,
+  "e": 298.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "an",
+  "s": 298.84,
+  "e": 299.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "economic",
+  "s": 299.06,
+  "e": 299.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "advantage",
+  "s": 299.58,
+  "e": 300.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 300.16,
+  "e": 300.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "its",
+  "s": 300.78,
+  "e": 300.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "own",
+  "s": 300.96,
+  "e": 301.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residents.",
+  "s": 301.22,
+  "e": 301.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "That",
+  "s": 302.48,
+  "e": 302.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 302.68,
+  "e": 302.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "where",
+  "s": 302.84,
+  "e": 303.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "things",
+  "s": 303.04,
+  "e": 303.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "stood",
+  "s": 303.28,
+  "e": 303.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 303.7,
+  "e": 303.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "1919",
+  "s": 303.96,
+  "e": 304.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "when",
+  "s": 304.74,
+  "e": 305.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 305.34,
+  "e": 305.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "18th",
+  "s": 305.46,
+  "e": 306.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Amendment",
+  "s": 306.02,
+  "e": 306.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 306.12,
+  "e": 306.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "ratified,",
+  "s": 306.46,
+  "e": 307.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 307.04,
+  "e": 307.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 307.82,
+  "e": 307.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "importation,",
+  "s": 307.96,
+  "e": 308.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "production,",
+  "s": 308.86,
+  "e": 309.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 309.44,
+  "e": 309.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "sale",
+  "s": 309.6,
+  "e": 309.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 309.9,
+  "e": 310.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcohol",
+  "s": 310.14,
+  "e": 310.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 310.64,
+  "e": 310.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "prohibited",
+  "s": 310.94,
+  "e": 311.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "throughout",
+  "s": 311.4,
+  "e": 312.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 312.02,
+  "e": 312.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "country.",
+  "s": 312.26,
+  "e": 312.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "By",
+  "s": 313.28,
+  "e": 313.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "1933,",
+  "s": 313.46,
+  "e": 314.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 314.08,
+  "e": 314.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "country",
+  "s": 314.7,
+  "e": 314.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 314.98,
+  "e": 315.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "tired",
+  "s": 315.28,
+  "e": 315.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 315.66,
+  "e": 315.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 315.86,
+  "e": 316.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "experiment,",
+  "s": 316.02,
+  "e": 316.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 316.64,
+  "e": 317.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 317.4,
+  "e": 317.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "21st",
+  "s": 317.54,
+  "e": 318.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Amendment",
+  "s": 318.28,
+  "e": 318.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 318.6,
+  "e": 319.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "adopted.",
+  "s": 319.04,
+  "e": 319.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Section",
+  "s": 320.1,
+  "e": 320.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "1",
+  "s": 320.46,
+  "e": 321.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 321.04,
+  "e": 321.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 321.4,
+  "e": 321.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "21st",
+  "s": 321.52,
+  "e": 322.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Amendment",
+  "s": 322.18,
+  "e": 322.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "repealed",
+  "s": 322.54,
+  "e": 323.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 323.08,
+  "e": 323.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "18th",
+  "s": 323.36,
+  "e": 323.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Amendment",
+  "s": 323.9,
+  "e": 324.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 324.14,
+  "e": 324.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "therefore",
+  "s": 324.58,
+  "e": 325.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "ended",
+  "s": 325.0,
+  "e": 325.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "nationwide",
+  "s": 325.5,
+  "e": 326.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "prohibition.",
+  "s": 326.24,
+  "e": 326.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "But",
+  "s": 327.62,
+  "e": 327.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "some",
+  "s": 327.78,
+  "e": 328.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "States",
+  "s": 328.04,
+  "e": 328.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "continued",
+  "s": 328.34,
+  "e": 328.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 328.8,
+  "e": 329.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "believe",
+  "s": 329.1,
+  "e": 329.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 329.46,
+  "e": 329.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "prohibition",
+  "s": 329.8,
+  "e": 330.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "was",
+  "s": 330.24,
+  "e": 330.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "good",
+  "s": 330.64,
+  "e": 330.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 330.86,
+  "e": 331.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 331.12,
+  "e": 331.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "health",
+  "s": 331.26,
+  "e": 331.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 331.5,
+  "e": 331.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "safety",
+  "s": 331.74,
+  "e": 332.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 332.2,
+  "e": 332.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "their",
+  "s": 332.98,
+  "e": 333.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "people,",
+  "s": 333.16,
+  "e": 333.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 334.08,
+  "e": 334.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Section",
+  "s": 334.3,
+  "e": 334.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "2",
+  "s": 334.58,
+  "e": 335.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 335.1,
+  "e": 335.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 335.26,
+  "e": 335.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "21st",
+  "s": 335.38,
+  "e": 336.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Amendment",
+  "s": 336.02,
+  "e": 336.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "allowed",
+  "s": 336.32,
+  "e": 336.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "them",
+  "s": 336.82,
+  "e": 337.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 337.16,
+  "e": 337.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "remain",
+  "s": 337.44,
+  "e": 337.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "dry.",
+  "s": 337.86,
+  "e": 338.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "None",
+  "s": 338.9,
+  "e": 339.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 339.06,
+  "e": 339.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 339.22,
+  "e": 339.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 339.36,
+  "e": 339.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "disputed.",
+  "s": 339.58,
+  "e": 340.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "What",
+  "s": 340.5,
+  "e": 340.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 340.68,
+  "e": 340.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "disputed",
+  "s": 340.86,
+  "e": 341.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 341.4,
+  "e": 341.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "just",
+  "s": 341.76,
+  "e": 342.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "how",
+  "s": 342.06,
+  "e": 342.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "much",
+  "s": 342.32,
+  "e": 342.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "leeway",
+  "s": 342.6,
+  "e": 343.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Section",
+  "s": 343.18,
+  "e": 343.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "2",
+  "s": 343.88,
+  "e": 344.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "gives",
+  "s": 344.32,
+  "e": 344.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 344.62,
+  "e": 344.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "States,",
+  "s": 344.94,
+  "e": 345.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 345.74,
+  "e": 346.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 346.04,
+  "e": 346.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "particular,",
+  "s": 346.16,
+  "e": 346.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "does",
+  "s": 346.62,
+  "e": 347.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 347.0,
+  "e": 347.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "allow",
+  "s": 347.18,
+  "e": 347.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "them",
+  "s": 347.52,
+  "e": 347.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 347.76,
+  "e": 347.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "restrict",
+  "s": 347.96,
+  "e": 348.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcohol,",
+  "s": 348.38,
+  "e": 349.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 349.54,
+  "e": 349.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 349.78,
+  "e": 349.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "protect",
+  "s": 349.98,
+  "e": 350.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 350.32,
+  "e": 350.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "welfare",
+  "s": 350.54,
+  "e": 350.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 350.92,
+  "e": 351.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 351.18,
+  "e": 351.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "public,",
+  "s": 351.34,
+  "e": 351.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "but",
+  "s": 351.56,
+  "e": 351.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "solely",
+  "s": 351.84,
+  "e": 352.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "or",
+  "s": 352.26,
+  "e": 352.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "predominantly",
+  "s": 352.62,
+  "e": 353.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 353.16,
+  "e": 353.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 353.62,
+  "e": 353.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "purpose",
+  "s": 353.76,
+  "e": 354.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 354.12,
+  "e": 354.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "giving",
+  "s": 354.78,
+  "e": 355.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 355.08,
+  "e": 355.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-State",
+  "s": 355.32,
+  "e": 355.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "businesses",
+  "s": 355.6,
+  "e": 356.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "an",
+  "s": 356.04,
+  "e": 356.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "advantage",
+  "s": 356.4,
+  "e": 356.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "over",
+  "s": 356.86,
+  "e": 357.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "their",
+  "s": 357.34,
+  "e": 357.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "competition",
+  "s": 357.86,
+  "e": 358.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "from",
+  "s": 358.54,
+  "e": 358.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "out",
+  "s": 358.9,
+  "e": 359.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-of",
+  "s": 359.16,
+  "e": 359.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-State",
+  "s": 359.28,
+  "e": 359.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "counterparts.",
+  "s": 359.54,
+  "e": 360.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "We",
+  "s": 360.74,
+  "e": 361.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "conclude",
+  "s": 361.12,
+  "e": 361.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 361.5,
+  "e": 361.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 361.7,
+  "e": 361.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "does",
+  "s": 361.84,
+  "e": 362.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not.",
+  "s": 362.04,
+  "e": 362.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "As",
+  "s": 362.96,
+  "e": 363.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "we",
+  "s": 363.2,
+  "e": 363.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "have",
+  "s": 363.36,
+  "e": 363.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "said",
+  "s": 363.46,
+  "e": 363.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 363.76,
+  "e": 364.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "prior",
+  "s": 364.02,
+  "e": 364.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "cases,",
+  "s": 364.32,
+  "e": 364.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Section",
+  "s": 365.08,
+  "e": 365.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "2",
+  "s": 365.26,
+  "e": 365.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "basically",
+  "s": 365.76,
+  "e": 366.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "constitutionalizes",
+  "s": 367.05,
+  "e": 368.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 368.24,
+  "e": 368.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "authority",
+  "s": 368.5,
+  "e": 369.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 369.04,
+  "e": 369.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 369.54,
+  "e": 369.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "States",
+  "s": 369.72,
+  "e": 370.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "had",
+  "s": 370.0,
+  "e": 370.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "before",
+  "s": 370.4,
+  "e": 370.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "prohibition,",
+  "s": 370.9,
+  "e": 371.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 371.82,
+  "e": 372.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 372.28,
+  "e": 372.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "did",
+  "s": 372.52,
+  "e": 372.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 372.74,
+  "e": 372.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "include",
+  "s": 372.98,
+  "e": 373.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 373.44,
+  "e": 373.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "license",
+  "s": 373.66,
+  "e": 374.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 374.04,
+  "e": 374.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "enact",
+  "s": 374.38,
+  "e": 374.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "protectionist",
+  "s": 374.78,
+  "e": 375.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "laws.",
+  "s": 375.58,
+  "e": 375.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Once",
+  "s": 376.82,
+  "e": 377.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 377.04,
+  "e": 377.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 377.26,
+  "e": 377.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "recognized,",
+  "s": 377.42,
+  "e": 378.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 378.26,
+  "e": 378.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "becomes",
+  "s": 378.4,
+  "e": 378.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "clear",
+  "s": 378.74,
+  "e": 379.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 379.08,
+  "e": 379.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee's",
+  "s": 379.32,
+  "e": 379.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 379.88,
+  "e": 380.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 380.36,
+  "e": 380.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "cannot",
+  "s": 380.94,
+  "e": 381.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "be",
+  "s": 381.32,
+  "e": 381.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "sustained.",
+  "s": 381.56,
+  "e": 382.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "The",
+  "s": 382.76,
+  "e": 382.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 382.94,
+  "e": 383.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "discriminates",
+  "s": 383.36,
+  "e": 384.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "against",
+  "s": 384.14,
+  "e": 384.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "nonresidents",
+  "s": 384.5,
+  "e": 385.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 385.28,
+  "e": 385.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has,",
+  "s": 385.68,
+  "e": 386.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "at",
+  "s": 386.12,
+  "e": 386.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "best,",
+  "s": 386.26,
+  "e": 386.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 387.24,
+  "e": 387.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "highly",
+  "s": 387.38,
+  "e": 387.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "attenuated",
+  "s": 387.74,
+  "e": 388.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "relationship",
+  "s": 388.46,
+  "e": 389.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 389.06,
+  "e": 389.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "public",
+  "s": 389.52,
+  "e": 389.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "health",
+  "s": 389.78,
+  "e": 390.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "or",
+  "s": 390.26,
+  "e": 390.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "safety.",
+  "s": 390.74,
+  "e": 391.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "The",
+  "s": 392.52,
+  "e": 392.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Association",
+  "s": 392.82,
+  "e": 393.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 393.24,
+  "e": 393.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee",
+  "s": 393.58,
+  "e": 393.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Retailers",
+  "s": 393.98,
+  "e": 394.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "argues",
+  "s": 394.68,
+  "e": 394.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 394.9,
+  "e": 395.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 395.38,
+  "e": 395.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "provision",
+  "s": 395.54,
+  "e": 395.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "does",
+  "s": 395.94,
+  "e": 396.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "serve",
+  "s": 396.26,
+  "e": 396.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 396.62,
+  "e": 396.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "public",
+  "s": 396.82,
+  "e": 397.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "interest",
+  "s": 397.1,
+  "e": 397.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 397.44,
+  "e": 397.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "several",
+  "s": 397.68,
+  "e": 397.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "ways,",
+  "s": 397.98,
+  "e": 398.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "but",
+  "s": 398.8,
+  "e": 399.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "all",
+  "s": 399.28,
+  "e": 399.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 399.48,
+  "e": 399.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "these",
+  "s": 399.62,
+  "e": 399.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "arguments",
+  "s": 399.76,
+  "e": 400.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "are",
+  "s": 400.18,
+  "e": 400.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "weak.",
+  "s": 400.5,
+  "e": 400.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "I",
+  "s": 400.78,
+  "e": 401.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "will",
+  "s": 401.2,
+  "e": 401.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 401.32,
+  "e": 401.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "go",
+  "s": 401.5,
+  "e": 401.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "through",
+  "s": 401.72,
+  "e": 401.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "them",
+  "s": 401.98,
+  "e": 402.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "all",
+  "s": 402.16,
+  "e": 402.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "here,",
+  "s": 402.44,
+  "e": 402.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "but",
+  "s": 402.78,
+  "e": 403.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "I",
+  "s": 403.38,
+  "e": 403.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "will",
+  "s": 403.5,
+  "e": 403.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "mention",
+  "s": 403.72,
+  "e": 404.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "what",
+  "s": 404.1,
+  "e": 404.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "may",
+  "s": 404.36,
+  "e": 404.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "be",
+  "s": 404.6,
+  "e": 404.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 404.92,
+  "e": 405.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Association's",
+  "s": 405.08,
+  "e": 406.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "leading",
+  "s": 406.0,
+  "e": 406.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "argument,",
+  "s": 406.2,
+  "e": 406.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "namely",
+  "s": 407.26,
+  "e": 407.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 407.56,
+  "e": 407.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "liquor",
+  "s": 407.94,
+  "e": 408.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "store",
+  "s": 408.2,
+  "e": 408.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "owners",
+  "s": 408.64,
+  "e": 409.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "who",
+  "s": 409.02,
+  "e": 409.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "have",
+  "s": 409.32,
+  "e": 409.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "resided",
+  "s": 409.48,
+  "e": 409.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 409.94,
+  "e": 410.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Tennessee",
+  "s": 410.38,
+  "e": 410.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 410.74,
+  "e": 411.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 411.1,
+  "e": 411.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "past",
+  "s": 411.26,
+  "e": 411.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "two",
+  "s": 411.5,
+  "e": 411.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "years",
+  "s": 411.82,
+  "e": 412.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "are",
+  "s": 412.24,
+  "e": 412.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "more",
+  "s": 412.92,
+  "e": 413.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "likely",
+  "s": 413.18,
+  "e": 413.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "than",
+  "s": 413.68,
+  "e": 414.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "out",
+  "s": 414.16,
+  "e": 414.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-of",
+  "s": 414.4,
+  "e": 414.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-State",
+  "s": 414.54,
+  "e": 414.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "owners",
+  "s": 414.84,
+  "e": 415.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "or",
+  "s": 415.26,
+  "e": 415.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "newcomers",
+  "s": 415.8,
+  "e": 416.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 416.28,
+  "e": 416.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "know",
+  "s": 416.76,
+  "e": 417.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 417.08,
+  "e": 417.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "care",
+  "s": 417.72,
+  "e": 417.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "about",
+  "s": 417.98,
+  "e": 418.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 418.24,
+  "e": 418.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "communities",
+  "s": 418.44,
+  "e": 418.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 418.9,
+  "e": 419.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "their",
+  "s": 419.3,
+  "e": 419.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "stores",
+  "s": 419.5,
+  "e": 419.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "serve.",
+  "s": 419.98,
+  "e": 420.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "And",
+  "s": 421.28,
+  "e": 421.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "therefore,",
+  "s": 421.42,
+  "e": 421.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 421.82,
+  "e": 422.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 422.0,
+  "e": 422.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "suggested",
+  "s": 422.12,
+  "e": 422.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "they",
+  "s": 422.58,
+  "e": 422.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "may,",
+  "s": 422.88,
+  "e": 423.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "among",
+  "s": 423.32,
+  "e": 423.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "other",
+  "s": 423.44,
+  "e": 423.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "things,",
+  "s": 423.76,
+  "e": 424.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "refuse",
+  "s": 424.3,
+  "e": 424.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 424.56,
+  "e": 424.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "sell",
+  "s": 424.84,
+  "e": 425.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "too",
+  "s": 425.04,
+  "e": 425.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "much",
+  "s": 425.28,
+  "e": 425.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alcohol",
+  "s": 425.5,
+  "e": 426.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 426.9,
+  "e": 427.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 427.7,
+  "e": 428.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "person",
+  "s": 428.06,
+  "e": 428.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "who",
+  "s": 428.44,
+  "e": 428.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 428.78,
+  "e": 429.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "thought",
+  "s": 429.06,
+  "e": 429.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 429.34,
+  "e": 429.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "be",
+  "s": 429.54,
+  "e": 429.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "drinking",
+  "s": 429.72,
+  "e": 430.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "too",
+  "s": 430.08,
+  "e": 430.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "much",
+  "s": 430.4,
+  "e": 430.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "or",
+  "s": 430.76,
+  "e": 431.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 431.34,
+  "e": 431.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "person",
+  "s": 431.48,
+  "e": 431.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "who",
+  "s": 431.8,
+  "e": 432.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 432.12,
+  "e": 432.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "inebriated",
+  "s": 432.56,
+  "e": 433.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "at",
+  "s": 433.42,
+  "e": 433.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 433.64,
+  "e": 433.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "time",
+  "s": 433.8,
+  "e": 434.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "when",
+  "s": 434.06,
+  "e": 434.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 434.4,
+  "e": 434.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "purchase",
+  "s": 434.98,
+  "e": 435.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 435.26,
+  "e": 435.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "sought.",
+  "s": 435.74,
+  "e": 436.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "The",
+  "s": 436.62,
+  "e": 436.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "two",
+  "s": 436.84,
+  "e": 437.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-year",
+  "s": 437.0,
+  "e": 437.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 437.16,
+  "e": 437.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 437.68,
+  "e": 438.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 438.34,
+  "e": 438.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "very",
+  "s": 438.68,
+  "e": 439.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "poorly",
+  "s": 439.04,
+  "e": 439.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "designed",
+  "s": 439.46,
+  "e": 440.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 440.08,
+  "e": 440.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "achieve",
+  "s": 440.7,
+  "e": 441.06,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "this",
+  "s": 441.06,
+  "e": 441.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "end.",
+  "s": 441.36,
+  "e": 441.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "For",
+  "s": 442.16,
+  "e": 442.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "one",
+  "s": 442.3,
+  "e": 442.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "thing,",
+  "s": 442.48,
+  "e": 442.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 442.7,
+  "e": 442.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "applies",
+  "s": 442.8,
+  "e": 443.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 443.12,
+  "e": 443.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "those",
+  "s": 443.4,
+  "e": 443.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "who",
+  "s": 443.7,
+  "e": 444.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "hold",
+  "s": 444.22,
+  "e": 444.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 444.58,
+  "e": 444.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "license,",
+  "s": 444.76,
+  "e": 445.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 445.48,
+  "e": 445.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 445.94,
+  "e": 446.14,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "those",
+  "s": 446.14,
+  "e": 446.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "who",
+  "s": 446.36,
+  "e": 446.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "actually",
+  "s": 446.58,
+  "e": 447.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "make",
+  "s": 447.04,
+  "e": 447.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 447.36,
+  "e": 447.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "sales.",
+  "s": 447.56,
+  "e": 448.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "For",
+  "s": 448.68,
+  "e": 448.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "another,",
+  "s": 448.94,
+  "e": 449.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "it",
+  "s": 449.52,
+  "e": 449.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "simply",
+  "s": 449.66,
+  "e": 449.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requires",
+  "s": 449.92,
+  "e": 450.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residents",
+  "s": 450.58,
+  "e": 451.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "someplace",
+  "s": 451.12,
+  "e": 452.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 452.02,
+  "e": 452.46,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 452.46,
+  "e": 452.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State,",
+  "s": 452.66,
+  "e": 453.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 453.02,
+  "e": 453.4,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 453.4,
+  "e": 453.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 453.8,
+  "e": 453.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "community,",
+  "s": 453.94,
+  "e": 454.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 454.76,
+  "e": 455.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 455.18,
+  "e": 455.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "store",
+  "s": 455.38,
+  "e": 455.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "serves.",
+  "s": 455.78,
+  "e": 456.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "It",
+  "s": 457.06,
+  "e": 457.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 457.3,
+  "e": 457.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "fine",
+  "s": 457.48,
+  "e": 457.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "if",
+  "s": 457.92,
+  "e": 458.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 458.12,
+  "e": 458.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "applicant",
+  "s": 458.3,
+  "e": 458.7,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 458.7,
+  "e": 459.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 459.26,
+  "e": 459.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "license",
+  "s": 459.68,
+  "e": 459.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 459.96,
+  "e": 460.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "operate",
+  "s": 460.28,
+  "e": 460.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 460.8,
+  "e": 461.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "liquor",
+  "s": 461.04,
+  "e": 461.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "store",
+  "s": 461.16,
+  "e": 461.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 461.64,
+  "e": 462.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Memphis",
+  "s": 462.04,
+  "e": 462.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has",
+  "s": 462.42,
+  "e": 462.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "resided",
+  "s": 463.12,
+  "e": 463.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "for",
+  "s": 463.56,
+  "e": 463.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 463.86,
+  "e": 463.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "past",
+  "s": 463.98,
+  "e": 464.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "two",
+  "s": 464.22,
+  "e": 464.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "years",
+  "s": 464.5,
+  "e": 464.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 464.8,
+  "e": 465.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "continues",
+  "s": 465.12,
+  "e": 465.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 465.56,
+  "e": 465.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "live",
+  "s": 465.98,
+  "e": 466.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "at",
+  "s": 466.22,
+  "e": 466.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 466.74,
+  "e": 466.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "other",
+  "s": 466.9,
+  "e": 467.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "end",
+  "s": 467.12,
+  "e": 467.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 467.34,
+  "e": 467.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 467.5,
+  "e": 467.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State",
+  "s": 467.62,
+  "e": 467.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 467.94,
+  "e": 468.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Knoxville.",
+  "s": 468.22,
+  "e": 468.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "But",
+  "s": 469.4,
+  "e": 469.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "if",
+  "s": 469.5,
+  "e": 469.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 469.64,
+  "e": 469.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "applicant",
+  "s": 469.82,
+  "e": 470.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has",
+  "s": 470.26,
+  "e": 470.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "lived",
+  "s": 470.5,
+  "e": 470.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "just",
+  "s": 470.78,
+  "e": 471.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 471.1,
+  "e": 471.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "couple",
+  "s": 471.3,
+  "e": 471.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 471.52,
+  "e": 471.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "miles",
+  "s": 471.64,
+  "e": 471.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "away",
+  "s": 471.96,
+  "e": 472.48,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "on",
+  "s": 472.48,
+  "e": 473.1,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 473.1,
+  "e": 473.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Arkansas",
+  "s": 473.24,
+  "e": 473.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "side",
+  "s": 473.62,
+  "e": 474.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 474.2,
+  "e": 474.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 474.52,
+  "e": 474.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Mississippi",
+  "s": 474.68,
+  "e": 475.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "River,",
+  "s": 475.12,
+  "e": 475.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 475.6,
+  "e": 476.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 476.04,
+  "e": 476.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 476.28,
+  "e": 476.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "okay.",
+  "s": 476.54,
+  "e": 477.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "So",
+  "s": 477.6,
+  "e": 477.84,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 477.84,
+  "e": 477.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "argument",
+  "s": 477.98,
+  "e": 478.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 478.28,
+  "e": 478.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "hard",
+  "s": 478.76,
+  "e": 479.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 479.02,
+  "e": 479.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "credit.",
+  "s": 479.22,
+  "e": 479.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "And",
+  "s": 479.58,
+  "e": 480.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 480.02,
+  "e": 480.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "any",
+  "s": 480.2,
+  "e": 480.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "event,",
+  "s": 480.44,
+  "e": 480.72,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "there",
+  "s": 480.76,
+  "e": 480.92,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "are",
+  "s": 480.92,
+  "e": 481.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "numerous",
+  "s": 481.08,
+  "e": 481.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "alternatives",
+  "s": 481.5,
+  "e": 482.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 482.22,
+  "e": 482.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "better",
+  "s": 482.94,
+  "e": 483.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "serve",
+  "s": 483.22,
+  "e": 483.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 483.56,
+  "e": 483.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "State's",
+  "s": 483.78,
+  "e": 484.18,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "goal",
+  "s": 484.18,
+  "e": 484.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "without",
+  "s": 484.44,
+  "e": 485.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "discriminating",
+  "s": 485.12,
+  "e": 485.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "against",
+  "s": 485.58,
+  "e": 486.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "nonresidents.",
+  "s": 486.28,
+  "e": 486.94,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "For",
+  "s": 487.78,
+  "e": 487.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "these",
+  "s": 487.98,
+  "e": 488.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 488.16,
+  "e": 488.28,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "other",
+  "s": 488.28,
+  "e": 488.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "reasons",
+  "s": 488.42,
+  "e": 488.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "set",
+  "s": 488.82,
+  "e": 489.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "out",
+  "s": 489.26,
+  "e": 489.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 489.44,
+  "e": 489.58,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "our",
+  "s": 489.58,
+  "e": 489.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "opinion,",
+  "s": 489.82,
+  "e": 490.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "we",
+  "s": 490.32,
+  "e": 490.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "conclude",
+  "s": 490.52,
+  "e": 490.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 490.96,
+  "e": 491.44,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 491.44,
+  "e": 491.68,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "predominant",
+  "s": 491.68,
+  "e": 492.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "effect",
+  "s": 492.04,
+  "e": 492.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 492.5,
+  "e": 492.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 492.74,
+  "e": 492.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "residency",
+  "s": 492.88,
+  "e": 493.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 493.24,
+  "e": 494.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 494.0,
+  "e": 494.82,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "to",
+  "s": 494.82,
+  "e": 494.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "protect",
+  "s": 494.98,
+  "e": 495.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 495.32,
+  "e": 495.56,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "association's",
+  "s": 495.56,
+  "e": 496.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "members",
+  "s": 496.52,
+  "e": 496.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "from",
+  "s": 496.88,
+  "e": 497.52,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "out",
+  "s": 497.52,
+  "e": 497.76,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-of",
+  "s": 497.76,
+  "e": 497.88,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "-State",
+  "s": 497.88,
+  "e": 498.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "competition,",
+  "s": 498.12,
+  "e": 498.74,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 499.22,
+  "e": 499.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "we",
+  "s": 499.54,
+  "e": 499.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "therefore",
+  "s": 499.66,
+  "e": 499.9,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "hold",
+  "s": 499.9,
+  "e": 500.3,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "that",
+  "s": 500.3,
+  "e": 500.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 500.5,
+  "e": 500.64,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "requirement",
+  "s": 500.64,
+  "e": 501.08,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "violates",
+  "s": 501.08,
+  "e": 501.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 501.6,
+  "e": 501.86,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Commerce",
+  "s": 501.86,
+  "e": 502.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Clause",
+  "s": 502.16,
+  "e": 502.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "and",
+  "s": 502.42,
+  "e": 503.22,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 503.22,
+  "e": 503.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "not",
+  "s": 503.38,
+  "e": 503.6,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "saved",
+  "s": 503.6,
+  "e": 504.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "by",
+  "s": 504.0,
+  "e": 504.34,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 504.34,
+  "e": 504.5,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "21st",
+  "s": 504.5,
+  "e": 505.12,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Amendment.",
+  "s": 505.12,
+  "e": 505.42,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "The",
+  "s": 505.42,
+  "e": 506.26,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "judgment",
+  "s": 506.26,
+  "e": 506.54,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "of",
+  "s": 506.54,
+  "e": 507.0,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "the",
+  "s": 507.0,
+  "e": 507.2,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Sixth",
+  "s": 507.2,
+  "e": 507.36,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Circuit",
+  "s": 507.36,
+  "e": 507.8,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "is",
+  "s": 507.8,
+  "e": 508.16,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "affirmed.",
+  "s": 508.16,
+  "e": 508.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Justice",
+  "s": 509.42,
+  "e": 509.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Gorsuch",
+  "s": 509.66,
+  "e": 509.96,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "has",
+  "s": 509.96,
+  "e": 510.32,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "filed",
+  "s": 510.32,
+  "e": 510.66,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "a",
+  "s": 510.66,
+  "e": 510.98,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "descending",
+  "s": 510.98,
+  "e": 511.38,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "opinion",
+  "s": 511.38,
+  "e": 511.78,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "in",
+  "s": 511.78,
+  "e": 512.04,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "which",
+  "s": 512.04,
+  "e": 512.24,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Justice",
+  "s": 512.24,
+  "e": 512.62,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "Thomas",
+  "s": 512.62,
+  "e": 513.02,
+  "speaker": "JUSTICE ALITO"
+ },
+ {
+  "w": "joins.",
+  "s": 513.02,
+  "e": 513.42,
+  "speaker": "JUSTICE ALITO"
+ }
+]
