@@ -126,5 +126,5 @@ None of the reference video files themselves were downloaded: YouTube needs cook
 - test/72euS76olPM.mp4 (1080p), test/72euS76olPM.wav (48 kHz stereo PCM)
 - test/72euS76olPM.en.srt (YouTube auto captions), .clean.txt (deduped), .whisper.srt and .whisper_words.tsv (Whisper medium.en)
 - frames/contact_sheet.jpg (6x20, 1 fps), contact_sheet_part1/2.jpg, f_001-f_119.jpg, cuts.txt, cuts_0.1.txt, mouth strips
-- photos/ with licences.csv (Wikimedia Commons, free licences only)
+- photos/licences.csv: 3 Wikimedia Commons photos for each of the 11 named people (free licences only: CC0, CC BY, CC BY-SA), with licence, author, date and a direct 1600px download link. The images themselves aren't included: Commons rate-limited this environment (HTTP 429 on every request), so the picks were made from titles and descriptions and nobody has looked at them yet ("verified_by_eye" = no). Open the download links from a normal browser. The Maresca photos are from his Chelsea spell (2024 to 2025); nothing newer is on Commons. Iraola isn't needed because he doesn't appear as a character.
 - thumbs/ (6 video thumbnails, channel banner and avatar)
