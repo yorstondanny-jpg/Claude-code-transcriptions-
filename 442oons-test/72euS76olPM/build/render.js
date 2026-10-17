@@ -39,18 +39,18 @@ const SHOTS = [
     figure(ctx, C.GRAVENBERCH, P(POSES.stand, { head: { mouth: k > 0.6 ? 'grimace' : 'closed', look: [0.5, 0.4], brows: k > 0.6 ? 1 : 0 } }), { x: 1240, y: 680, s: 0.36 });
     const dx = 1600 - 420 * k, dy = 640 + 180 * k * k;
     figure(ctx, C.DOKU, { arms: { L: [-160, -170], R: [160, 175] }, legs: { L: [-10, 30], R: [10, -10] }, open: { L: true, R: true },
-      head: { mouth: 'o', brows: 1, look: [-0.6, 0] }, headRot: -20 }, { x: dx, y: dy, s: 0.34, rot: -70 - 20 * k });
+      head: { mouth: 'o', brows: 1, look: [-0.6, 0] }, headFollow: 0.7, headRot: 10 }, { x: dx, y: dy, s: 0.34, rot: -70 - 20 * k });
     if (k > 0.65) crash(ctx, 1150, 880, 70);
   }],
   // 2. slow motion: Doku crawls between the ref's and Gravenberch's legs ("Help!")
   [53.467, 56.4, (ctx, t) => {
     const u = (t - 53.467) / 2.9;
     stadium(ctx, { z: 1.5, boardY: -40, pan: 200, line: false });
-    figure(ctx, C.REF, POSES.stand, { x: 180, y: 520, s: 0.95 });
-    figure(ctx, C.GRAVENBERCH, POSES.stand, { x: 1780, y: 470, s: 0.95 });
+    figure(ctx, C.REF, POSES.stand, { x: 200, y: 330, s: 0.95 });
+    figure(ctx, C.GRAVENBERCH, POSES.stand, { x: 1760, y: 300, s: 0.95 });
     const reach = Math.sin(on2(t) * 5) * 8;
     figure(ctx, C.DOKU, { arms: { L: [-100 + reach, -60], R: [-70, -40 - reach] }, legs: { L: [12, 30], R: [20, 40] },
-      head: { mouth: mouth('DOKU', t), brows: 1, look: [-0.3, -0.5] }, headRot: 8 }, { x: 1140 - 80 * u, y: 880, s: 0.62, rot: -76 });
+      head: { mouth: mouth('DOKU', t), brows: 1, look: [-0.3, -0.5] }, headFollow: 0.55 }, { x: 1140 - 80 * u, y: 880, s: 0.62, rot: -76 });
     grey(ctx);
   }],
   // 3. slow motion, wide: the ref, Doku still crawling, Gravenberch with his hands up ("Tell my...")
@@ -60,15 +60,15 @@ const SHOTS = [
     figure(ctx, C.REF, P(POSES.stand, { head: { look: [0.6, 0.5] } }), { x: 380, y: 670, s: 0.37 });
     figure(ctx, C.GRAVENBERCH, P(POSES.handsUp, { head: { mouth: 'grimace', brows: 1, look: [-0.5, 0.4] } }), { x: 1450, y: 670, s: 0.37 });
     figure(ctx, C.DOKU, { arms: { L: [-100, -62], R: [-72, -40] }, legs: { L: [12, 30], R: [20, 40] },
-      head: { mouth: mouth('DOKU', t), brows: 1, look: [-0.2, -0.6] }, headRot: 8 }, { x: 900, y: 850, s: 0.3, rot: -76 });
+      head: { mouth: mouth('DOKU', t), brows: 1, look: [-0.2, -0.6] }, headFollow: 0.55 }, { x: 900, y: 850, s: 0.3, rot: -76 });
     grey(ctx);
   }],
   // 4. slow motion close: the ref holds out a Last Will and Testament ("mother! I love you!")
   [58.133, 60.867, (ctx, t) => {
     stadium(ctx, { z: 2.2, boardY: -260, pan: 900, line: false });
-    figure(ctx, C.REF, { arms: { L: [-10, -5], R: [40, 60] }, legs: { L: [-4, -2], R: [4, 2] }, hold: { R: 'will' } }, { x: 420, y: 260, s: 1.15 });
+    figure(ctx, C.REF, { arms: { L: [-10, -5], R: [30, 20] }, legs: { L: [-4, -2], R: [4, 2] }, hold: { R: 'will' } }, { x: 560, y: 420, s: 1.15 });
     figure(ctx, C.DOKU, { arms: { L: [-95, -40], R: [-60, -20] }, legs: { L: [12, 30], R: [20, 40] },
-      head: { mouth: mouth('DOKU', t), brows: 1, look: [-0.7, -0.6] }, headRot: 10 }, { x: 1500, y: 1060, s: 1.05, rot: -72 });
+      head: { mouth: mouth('DOKU', t), brows: 1, look: [-0.7, -0.6] }, headFollow: 0.5 }, { x: 1500, y: 1060, s: 1.05, rot: -72 });
     grey(ctx);
   }],
   // 5a. slow motion wide: Doku lies flat with the will beside him
@@ -79,7 +79,7 @@ const SHOTS = [
     figure(ctx, C.GRAVENBERCH, P(POSES.handsUp, { head: { mouth: 'grimace', brows: 1, look: [-0.5, 0.6] } }), { x: 1460, y: 670, s: 0.37 });
     ctx.save(); ctx.translate(700, 930); prop(ctx, 'will', [0, 0], 150, 3 / 0.3); ctx.restore();
     figure(ctx, C.DOKU, { arms: { L: [-178, -178], R: [-40, -10] }, legs: { L: [6, 12], R: [14, 20] },
-      head: { mouth: mouth('DOKU', t), blink: true }, headRot: 55 }, { x: 1010, y: 905, s: 0.29, rot: -88 });
+      head: { mouth: mouth('DOKU', t), blink: true }, headFollow: 0.75 }, { x: 1010, y: 905, s: 0.29, rot: -88 });
     grey(ctx);
   }],
   // 5b. colour again: Haaland runs in, pointing ("Born in...")
@@ -89,7 +89,7 @@ const SHOTS = [
     groundShadow(ctx, 900, 900, 80); groundShadow(ctx, 1500, 900, 80);
     figure(ctx, C.REF, P(POSES.stand, { head: { look: [-0.7, 0.2] } }), { x: 900, y: 670, s: 0.37 });
     figure(ctx, C.GRAVENBERCH, P(POSES.handsUp, { head: { mouth: 'grimace', brows: 1 } }), { x: 1500, y: 670, s: 0.37 });
-    figure(ctx, C.DOKU, { arms: { L: [-178, -178], R: [-40, -10] }, legs: { L: [6, 12], R: [14, 20] }, head: { blink: true }, headRot: 55 }, { x: 1180, y: 905, s: 0.29, rot: -88 });
+    figure(ctx, C.DOKU, { arms: { L: [-178, -178], R: [-40, -10] }, legs: { L: [6, 12], R: [14, 20] }, head: { blink: true }, headFollow: 0.75 }, { x: 1180, y: 905, s: 0.29, rot: -88 });
     const run = POSES.run(stride * 0.5);
     figure(ctx, C.HAALAND, Object.assign({}, run, { arms: { L: run.arms.L, R: u > 0.7 ? [95, 92] : run.arms.R }, head: { mouth: mouth('HAALAND', t), brows: -1, look: [0.8, 0] } }),
       { x: -150 + 650 * u, y: 660 - Math.abs(stride) * 12, s: 0.37 });
@@ -111,24 +111,24 @@ const SHOTS = [
     figure(ctx, C.REF, { arms: { L: [-14, -8], R: [60 + 90 * up, 90 + 85 * up] }, legs: { L: [-6, -2], R: [6, 2] }, hold: { R: card },
       head: { mouth: 'closed', look: [0.8, 0], whistle: true } }, { x: 760, y: 668, s: 0.38 });
     figure(ctx, C.GRAVENBERCH, P(POSES.handsUp, { head: { mouth: card === 'red' ? 'grimace' : 'open', brows: 1, look: [-0.7, 0] } }), { x: 1400, y: 668, s: 0.38 });
-    figure(ctx, C.DOKU, { arms: { L: [-178, -178], R: [-40, -10] }, legs: { L: [6, 12], R: [14, 20] }, head: { blink: true }, headRot: 55 }, { x: 1080, y: 905, s: 0.29, rot: -88 });
+    figure(ctx, C.DOKU, { arms: { L: [-178, -178], R: [-40, -10] }, legs: { L: [6, 12], R: [14, 20] }, head: { blink: true }, headFollow: 0.75 }, { x: 1080, y: 905, s: 0.29, rot: -88 });
   }],
   // 6c. wide: bananas out; the ref sings ("Born in Manchester!")
   [71.0, 74.733, (ctx, t) => {
     const wave = Math.sin(on2(t) * 6) * 18;
     stadium(ctx, { z: 0.72, boardY: 260, pan: 1500 });
     for (const x of [380, 760, 1400]) groundShadow(ctx, x, 900, 80);
-    figure(ctx, C.HAALAND, { arms: { L: [-14, -8], R: [160 + wave, 190 + wave] }, legs: { L: [-6, -2], R: [6, 2] }, hold: { R: 'banana' },
+    figure(ctx, C.HAALAND, { arms: { L: [-14, -8], R: [128 + wave, 168 + wave] }, legs: { L: [-6, -2], R: [6, 2] }, hold: { R: 'banana' },
       head: { mouth: 'smile', look: [0.6, -0.4] } }, { x: 380, y: 668, s: 0.38 });
     figure(ctx, C.REF, P(POSES.cardUp('red'), { head: { mouth: mouth('REF', t), look: [0.5, -0.3] } }), { x: 760, y: 668, s: 0.38 });
     figure(ctx, C.GRAVENBERCH, P(POSES.handsOnHead, { head: { mouth: 'grimace', brows: 1, look: [-0.6, 0] } }), { x: 1400, y: 668, s: 0.38 });
-    figure(ctx, C.DOKU, { arms: { L: [-178, -178], R: [-40, -10] }, legs: { L: [6, 12], R: [14, 20] }, head: { blink: true }, headRot: 55 }, { x: 1080, y: 905, s: 0.29, rot: -88 });
+    figure(ctx, C.DOKU, { arms: { L: [-178, -178], R: [-40, -10] }, legs: { L: [6, 12], R: [14, 20] }, head: { blink: true }, headFollow: 0.75 }, { x: 1080, y: 905, s: 0.29, rot: -88 });
   }],
   // 7. medium: banana, red card, Gravenberch in despair ("I was born...")
   [74.733, 77.167, (ctx, t) => {
     const wave = Math.sin(on2(t) * 6) * 18;
     stadium(ctx, { z: 1.2, boardY: 160, pan: 1900, line: false });
-    figure(ctx, C.HAALAND, { arms: { L: [-14, -8], R: [160 + wave, 190 + wave] }, legs: { L: [-6, -2], R: [6, 2] }, hold: { R: 'banana' }, head: { mouth: 'smile', look: [0.7, 0] } }, { x: 230, y: 760, s: 0.62 });
+    figure(ctx, C.HAALAND, { arms: { L: [-14, -8], R: [128 + wave, 168 + wave] }, legs: { L: [-6, -2], R: [6, 2] }, hold: { R: 'banana' }, head: { mouth: 'smile', look: [0.7, 0] } }, { x: 230, y: 760, s: 0.62 });
     figure(ctx, C.REF, P(POSES.cardUp('red'), { head: { mouth: mouth('REF', t), look: [0.4, -0.3] } }), { x: 900, y: 760, s: 0.62 });
     figure(ctx, C.GRAVENBERCH, P(POSES.handsOnHead, { head: { mouth: 'grimace', brows: 1, look: [-0.7, 0] } }), { x: 1520, y: 760, s: 0.62 });
   }],
@@ -141,8 +141,8 @@ const SHOTS = [
   // 9. close-up: Gravenberch can't believe it
   [79.267, 80.9, (ctx, t) => {
     stadium(ctx, { z: 3.0, boardY: 330, pan: 2600, line: false });
-    ctx.save(); ctx.translate(120, 120); prop(ctx, 'red', [0, 0], 190, 6); ctx.restore();
-    figure(ctx, C.GRAVENBERCH, P(POSES.stand, { head: { mouth: 'grimace', brows: 1, look: on2(t) > 80.1 ? [0, 0] : [-0.5, -0.2] } }), { x: 980, y: 1480, s: 1.6 });
+        figure(ctx, C.REF, { arms: { L: [-10, -5], R: [150, 172] }, legs: { L: [-4, -2], R: [4, 2] }, hold: { R: 'red' }, head: {} }, { x: -190, y: 1420, s: 1.5 });
+    figure(ctx, C.GRAVENBERCH, P(POSES.stand, { head: { mouth: 'grimace', brows: 1, look: on2(t) > 80.1 ? [0, 0] : [-0.5, -0.2] } }), { x: 1060, y: 1480, s: 1.6 });
   }],
 ];
 

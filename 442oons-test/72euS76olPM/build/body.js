@@ -56,8 +56,8 @@ function prop(ctx, kind, p, a, lw) {
     shape(ctx, b, { fill: '#ffe14d', lw, shadow: { cmds: [['M', -10, 20], ['C', -40, 90, -30, 200, 40, 280], ['C', 0, 210, -20, 100, 10, 20], ['Z']], color: '#f0c419' } });
     shape(ctx, blob([[-10, -18], [24, -16], [26, 8], [-14, 8]]), { fill: '#7a5a1c', lw });
   }
-  if (kind === 'will') {
-    ctx.rotate(0.12);
+  if (kind === 'will') {   // paper always reads upright, held by its top edge
+    ctx.rotate(a * D - Math.PI + 0.1); ctx.translate(-10, 20);
     shape(ctx, blob([[-70, -10], [70, -14], [74, 170], [-66, 176]], true, 0.04), { fill: '#fbfbf6', lw });
     ctx.fillStyle = '#222'; ctx.textAlign = 'center'; ctx.font = '24px "DejaVu Serif"';
     ['LAST WILL', 'AND', 'TESTAMENT'].forEach((t, i) => ctx.fillText(t, 2, 40 + i * 34));
@@ -144,7 +144,9 @@ function figure(ctx, who, pose, place) {
   // head: by default upright on screen even when the body is rotated
   const neck = [P.headDx || 0, -390];
   ctx.translate(neck[0], neck[1]);
-  ctx.rotate(-(rot) * D + (P.headRot || 0) * D);
+  // the head follows the body when it tilts (lying, crawling, diving) so it stays on the neck
+  const follow = P.headFollow != null ? P.headFollow : (Math.abs(rot) > 30 ? 0.8 : 0);
+  ctx.rotate(-(rot) * (1 - follow) * D + (P.headRot || 0) * D);
   ctx.translate(0, -158);
   const S = Object.assign({}, who, { lw, noNeck: true });
   ctx.scale(1.18, 1.18);

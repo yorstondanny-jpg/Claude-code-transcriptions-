@@ -15,8 +15,7 @@ const HAALAND = {
   neckW: 84, earW: 17,
   hairBack(ctx, S) {   // long hair, slicked back, falling behind the ears to the shoulders
     const c = '#e2bb62';
-    for (const side of [-1, 1]) shape(ctx, blob([[side * 70, -120], [side * 116, -70], [side * 126, 40], [side * 122, 120], [side * 98, 126], [side * 100, 30], [side * 86, -60]]), { fill: c, lw: S.lw });
-    for (const side of [-1, 1]) line(ctx, blob([[side * 112, -20], [side * 116, 50], [side * 114, 110]], false), S.lw * 0.5, '#b68a34');
+    for (const side of [-1, 1]) shape(ctx, blob([[side * 80, -120], [side * 112, -70], [side * 118, -10], [side * 112, 60], [side * 96, 74], [side * 100, 0], [side * 92, -60]]), { fill: c, lw: S.lw });
   },
   hairFront(ctx, S) {   // flat, wet look, combed straight back from a high hairline
     const c = '#efd083', d = '#d9b25a';
