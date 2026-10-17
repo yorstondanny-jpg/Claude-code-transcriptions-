@@ -7,6 +7,8 @@ Creator credit (from the description): Dean Stobbart does voices, scripts, direc
 
 How these notes were made: 1 fps contact sheets, 10 fps strips of mouths, pixel sampling on full-res frames, ffmpeg scene detection, YouTube auto-captions plus a Whisper medium.en transcript. Timings are from the video, measured, unless marked as a guess.
 
+Binaries (WAV, contact sheets, frames, thumbnails, banner) are on GitHub: https://github.com/yorstondanny-jpg/Claude-code-transcriptions-/tree/442oons-test-assets/442oons-test/72euS76olPM
+
 ## Characters on screen
 
 Confidence: "sure" = clear caricature and matches the real match; "likely" = fits the real match but the face alone isn't conclusive; "unknown" = couldn't name.
@@ -125,6 +127,6 @@ None of the reference video files themselves were downloaded: YouTube needs cook
 
 - test/72euS76olPM.mp4 (1080p), test/72euS76olPM.wav (48 kHz stereo PCM)
 - test/72euS76olPM.en.srt (YouTube auto captions), .clean.txt (deduped), .whisper.srt and .whisper_words.tsv (Whisper medium.en)
-- frames/contact_sheet.jpg (6x20, 1 fps), contact_sheet_part1/2.jpg, f_001-f_119.jpg, cuts.txt, cuts_0.1.txt, mouth strips
+- frames/contact_sheet.jpg (6x20, 1 fps), contact_sheet_part1/2.jpg, frames_1fps/f_001-f_119.jpg, cuts.txt, cuts_0.1.txt, mouth strips
 - photos/licences.csv: 3 Wikimedia Commons photos for each of the 11 named people (free licences only: CC0, CC BY, CC BY-SA), with licence, author, date and a direct 1600px download link. The images themselves aren't included: Commons rate-limited this environment (HTTP 429 on every request), so the picks were made from titles and descriptions and nobody has looked at them yet ("verified_by_eye" = no). Open the download links from a normal browser. The Maresca photos are from his Chelsea spell (2024 to 2025); nothing newer is on Commons. Iraola isn't needed because he doesn't appear as a character.
 - thumbs/ (6 video thumbnails, channel banner and avatar)
