@@ -1,0 +1,11 @@
+const { createCanvas } = require('canvas');
+const { figure, POSES } = require('./body');
+const C = require('./cast');
+const cv = createCanvas(1920, 1080), ctx = cv.getContext('2d');
+ctx.fillStyle = '#6de368'; ctx.fillRect(0, 0, 1920, 1080);
+figure(ctx, C.REF, Object.assign({}, POSES.cardUp('red'), { head: { mouth: 'sing' } }), { x: 250, y: 650, s: 0.42 });
+figure(ctx, C.GRAVENBERCH, Object.assign({}, POSES.handsUp, { head: { mouth: 'grimace', brows: 1 } }), { x: 650, y: 650, s: 0.42 });
+figure(ctx, C.HAALAND, Object.assign({}, POSES.banana, { head: { mouth: 'smile' } }), { x: 1050, y: 650, s: 0.42 });
+figure(ctx, C.GRAVENBERCH, Object.assign({}, POSES.handsOnHead, { head: { mouth: 'grimace', brows: 1 } }), { x: 1400, y: 650, s: 0.42 });
+figure(ctx, C.DOKU, Object.assign({}, POSES.stand, { head: { mouth: 'open' } }), { x: 1750, y: 650, s: 0.42 });
+require('fs').writeFileSync('posetest.png', cv.toBuffer('image/png'));
