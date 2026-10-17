@@ -1,0 +1,5174 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 1.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Scalia",
+  "s": 1.12,
+  "e": 1.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.5,
+  "e": 1.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1.8,
+  "e": 1.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.96,
+  "e": 2.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 2.22,
+  "e": 2.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 2.42,
+  "e": 2.54,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Court",
+  "s": 2.54,
+  "e": 2.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 2.76,
+  "e": 3.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "two",
+  "s": 3.0,
+  "e": 3.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cases",
+  "s": 3.18,
+  "e": 3.5,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 3.5,
+  "e": 3.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning.",
+  "s": 3.74,
+  "e": 4.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 6.04,
+  "e": 6.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "first",
+  "s": 6.04,
+  "e": 6.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 6.3,
+  "e": 6.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "these",
+  "s": 6.56,
+  "e": 6.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 6.86,
+  "e": 7.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Sandifer",
+  "s": 7.34,
+  "e": 8.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "v.",
+  "s": 8.84,
+  "e": 9.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "United",
+  "s": 9.44,
+  "e": 9.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "States",
+  "s": 9.68,
+  "e": 10.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Steel",
+  "s": 10.16,
+  "e": 10.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Corporation.",
+  "s": 10.5,
+  "e": 11.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "That",
+  "s": 12.68,
+  "e": 13.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 13.28,
+  "e": 13.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "here",
+  "s": 13.44,
+  "e": 13.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 13.74,
+  "e": 14.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "writ",
+  "s": 14.0,
+  "e": 14.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 14.16,
+  "e": 14.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "certiorari",
+  "s": 14.34,
+  "e": 14.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 14.94,
+  "e": 15.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 15.2,
+  "e": 15.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "United",
+  "s": 15.28,
+  "e": 15.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "States",
+  "s": 15.46,
+  "e": 15.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Court",
+  "s": 15.78,
+  "e": 15.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 15.98,
+  "e": 16.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Appeals",
+  "s": 16.1,
+  "e": 16.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for",
+  "s": 16.46,
+  "e": 17.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 17.24,
+  "e": 17.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Seventh",
+  "s": 17.4,
+  "e": 17.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Circuit.",
+  "s": 17.7,
+  "e": 18.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "It",
+  "s": 19.16,
+  "e": 19.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 19.34,
+  "e": 19.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "about",
+  "s": 19.48,
+  "e": 19.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "what",
+  "s": 19.86,
+  "e": 20.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 20.8,
+  "e": 21.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "called",
+  "s": 21.0,
+  "e": 21.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "in",
+  "s": 21.44,
+  "e": 21.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 21.7,
+  "e": 22.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "literature",
+  "s": 22.0,
+  "e": 24.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 24.08,
+  "e": 24.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "this",
+  "s": 24.42,
+  "e": 24.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "subject",
+  "s": 24.6,
+  "e": 25.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 25.08,
+  "e": 26.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 26.08,
+  "e": 26.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 26.46,
+  "e": 27.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 27.08,
+  "e": 28.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "good",
+  "s": 28.08,
+  "e": 28.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "old",
+  "s": 28.78,
+  "e": 29.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Anglo",
+  "s": 29.1,
+  "e": 29.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "-Saxon",
+  "s": 29.52,
+  "e": 30.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "words",
+  "s": 30.0,
+  "e": 30.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 30.26,
+  "e": 30.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "are",
+  "s": 30.52,
+  "e": 30.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 30.62,
+  "e": 30.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "much",
+  "s": 30.8,
+  "e": 31.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "used",
+  "s": 31.04,
+  "e": 31.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "anymore.",
+  "s": 31.34,
+  "e": 31.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Although",
+  "s": 32.56,
+  "e": 33.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "we",
+  "s": 33.16,
+  "e": 33.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "still",
+  "s": 33.38,
+  "e": 33.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "sing",
+  "s": 33.62,
+  "e": 33.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Don,",
+  "s": 33.98,
+  "e": 34.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "we",
+  "s": 34.58,
+  "e": 34.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "now",
+  "s": 34.64,
+  "e": 34.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "are",
+  "s": 34.88,
+  "e": 35.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gay",
+  "s": 35.16,
+  "e": 35.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "apparel",
+  "s": 35.4,
+  "e": 35.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "at",
+  "s": 35.8,
+  "e": 36.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Christmas,",
+  "s": 36.08,
+  "e": 36.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 36.6,
+  "e": 36.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "I",
+  "s": 36.88,
+  "e": 37.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "suppose",
+  "s": 37.6,
+  "e": 37.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "a",
+  "s": 37.98,
+  "e": 38.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "well",
+  "s": 38.2,
+  "e": 38.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "-bred",
+  "s": 38.4,
+  "e": 38.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gentleman",
+  "s": 38.66,
+  "e": 39.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "still",
+  "s": 39.06,
+  "e": 39.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffs",
+  "s": 39.56,
+  "e": 40.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "his",
+  "s": 40.14,
+  "e": 40.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "hat",
+  "s": 40.3,
+  "e": 40.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 40.66,
+  "e": 41.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "a",
+  "s": 41.56,
+  "e": 41.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "lady.",
+  "s": 41.72,
+  "e": 41.96,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "A",
+  "s": 43.42,
+  "e": 43.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "group",
+  "s": 43.66,
+  "e": 43.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 43.9,
+  "e": 44.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "steelworkers",
+  "s": 44.42,
+  "e": 44.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "sued",
+  "s": 44.86,
+  "e": 45.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "their",
+  "s": 45.44,
+  "e": 45.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "employer,",
+  "s": 45.72,
+  "e": 46.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "United",
+  "s": 46.44,
+  "e": 46.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "States",
+  "s": 46.68,
+  "e": 47.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Steel",
+  "s": 47.16,
+  "e": 47.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Corporation,",
+  "s": 47.46,
+  "e": 48.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "under",
+  "s": 48.08,
+  "e": 49.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 49.04,
+  "e": 49.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Fair",
+  "s": 49.22,
+  "e": 49.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Labor",
+  "s": 49.48,
+  "e": 49.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Standards",
+  "s": 49.78,
+  "e": 50.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Act",
+  "s": 50.28,
+  "e": 50.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 50.76,
+  "e": 50.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "1938.",
+  "s": 50.92,
+  "e": 51.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 52.58,
+  "e": 53.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workers",
+  "s": 53.34,
+  "e": 53.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "sought",
+  "s": 53.66,
+  "e": 54.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "back",
+  "s": 54.06,
+  "e": 54.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "pay",
+  "s": 54.38,
+  "e": 54.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for",
+  "s": 54.76,
+  "e": 55.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 55.44,
+  "e": 55.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent",
+  "s": 55.82,
+  "e": 56.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 56.24,
+  "e": 56.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 56.78,
+  "e": 57.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 57.1,
+  "e": 57.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "pieces",
+  "s": 57.6,
+  "e": 58.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 58.16,
+  "e": 58.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "protective",
+  "s": 58.58,
+  "e": 59.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gear.",
+  "s": 59.04,
+  "e": 59.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Because",
+  "s": 60.6,
+  "e": 60.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 60.98,
+  "e": 61.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 61.12,
+  "e": 61.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "number",
+  "s": 61.26,
+  "e": 61.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 61.4,
+  "e": 61.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workers",
+  "s": 61.66,
+  "e": 62.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "involved,",
+  "s": 62.02,
+  "e": 62.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "possibly",
+  "s": 62.88,
+  "e": 63.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "800",
+  "s": 63.3,
+  "e": 63.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "or",
+  "s": 63.82,
+  "e": 64.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "more,",
+  "s": 64.34,
+  "e": 64.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 65.74,
+  "e": 65.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "aggregate",
+  "s": 65.88,
+  "e": 66.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "amounts",
+  "s": 66.3,
+  "e": 66.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 66.84,
+  "e": 67.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 67.22,
+  "e": 67.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 67.5,
+  "e": 67.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "money",
+  "s": 67.66,
+  "e": 67.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "at",
+  "s": 67.86,
+  "e": 68.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "issue",
+  "s": 68.04,
+  "e": 68.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "are",
+  "s": 68.26,
+  "e": 68.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "substantial.",
+  "s": 68.56,
+  "e": 69.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "U",
+  "s": 70.62,
+  "e": 70.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": ".S.",
+  "s": 70.86,
+  "e": 71.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Steel",
+  "s": 71.08,
+  "e": 71.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "contends",
+  "s": 71.3,
+  "e": 71.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 71.86,
+  "e": 72.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "its",
+  "s": 72.16,
+  "e": 72.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "collective",
+  "s": 72.4,
+  "e": 72.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "bargaining",
+  "s": 72.94,
+  "e": 73.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "agreement",
+  "s": 73.6,
+  "e": 74.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "with",
+  "s": 74.24,
+  "e": 75.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 75.02,
+  "e": 75.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workers'",
+  "s": 75.18,
+  "e": 75.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "union",
+  "s": 75.5,
+  "e": 76.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "relieves",
+  "s": 76.04,
+  "e": 77.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "it",
+  "s": 77.16,
+  "e": 77.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 77.3,
+  "e": 77.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 77.6,
+  "e": 77.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "obligation",
+  "s": 77.74,
+  "e": 78.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 78.36,
+  "e": 79.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "pay",
+  "s": 79.54,
+  "e": 79.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for",
+  "s": 79.86,
+  "e": 80.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "this",
+  "s": 80.14,
+  "e": 80.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 80.36,
+  "e": 80.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 80.78,
+  "e": 80.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 80.94,
+  "e": 81.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time.",
+  "s": 81.34,
+  "e": 81.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 82.2,
+  "e": 82.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "union",
+  "s": 82.78,
+  "e": 83.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "thought",
+  "s": 83.1,
+  "e": 83.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 83.52,
+  "e": 84.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "they",
+  "s": 84.82,
+  "e": 85.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "would",
+  "s": 85.02,
+  "e": 85.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "prefer",
+  "s": 85.2,
+  "e": 85.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 85.56,
+  "e": 85.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "get",
+  "s": 85.74,
+  "e": 85.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "some",
+  "s": 85.9,
+  "e": 86.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "other",
+  "s": 86.2,
+  "e": 86.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "compensation",
+  "s": 86.44,
+  "e": 87.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "instead.",
+  "s": 87.12,
+  "e": 87.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Whether",
+  "s": 88.72,
+  "e": 89.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 89.04,
+  "e": 89.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "provision",
+  "s": 89.34,
+  "e": 89.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 89.82,
+  "e": 90.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 90.22,
+  "e": 90.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "collective",
+  "s": 90.4,
+  "e": 90.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "bargaining",
+  "s": 90.8,
+  "e": 91.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "agreement",
+  "s": 91.36,
+  "e": 91.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 91.86,
+  "e": 92.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "effective",
+  "s": 92.16,
+  "e": 92.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "depends",
+  "s": 92.82,
+  "e": 94.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 94.06,
+  "e": 94.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "29",
+  "s": 94.36,
+  "e": 94.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "U",
+  "s": 94.94,
+  "e": 95.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": ".S",
+  "s": 95.22,
+  "e": 95.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": ".C.",
+  "s": 95.4,
+  "e": 95.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Section",
+  "s": 95.76,
+  "e": 96.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "2030,",
+  "s": 96.12,
+  "e": 97.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "which",
+  "s": 98.58,
+  "e": 98.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "allows",
+  "s": 98.9,
+  "e": 99.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "unions",
+  "s": 99.52,
+  "e": 100.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 100.02,
+  "e": 100.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "bargain",
+  "s": 100.44,
+  "e": 100.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "over",
+  "s": 100.88,
+  "e": 101.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "whether",
+  "s": 101.38,
+  "e": 101.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "employers",
+  "s": 101.68,
+  "e": 102.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "must",
+  "s": 102.24,
+  "e": 102.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "pay",
+  "s": 102.54,
+  "e": 103.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for,",
+  "s": 103.02,
+  "e": 103.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "quote,",
+  "s": 104.38,
+  "e": 104.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 104.98,
+  "e": 105.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent",
+  "s": 105.28,
+  "e": 105.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "in",
+  "s": 105.72,
+  "e": 106.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 106.06,
+  "e": 106.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 106.54,
+  "e": 107.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "or",
+  "s": 107.08,
+  "e": 107.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "washing",
+  "s": 107.86,
+  "e": 108.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "at",
+  "s": 108.38,
+  "e": 108.96,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 108.96,
+  "e": 109.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "beginning",
+  "s": 109.1,
+  "e": 109.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "or",
+  "s": 109.42,
+  "e": 109.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "end",
+  "s": 109.88,
+  "e": 110.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 110.26,
+  "e": 110.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "each",
+  "s": 110.38,
+  "e": 110.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "work",
+  "s": 110.56,
+  "e": 111.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "day.",
+  "s": 111.58,
+  "e": 111.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 112.88,
+  "e": 113.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workers",
+  "s": 113.08,
+  "e": 113.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "argued",
+  "s": 113.36,
+  "e": 113.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 113.84,
+  "e": 114.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 114.08,
+  "e": 114.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 114.22,
+  "e": 114.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 114.52,
+  "e": 114.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 114.68,
+  "e": 115.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 115.08,
+  "e": 115.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "protective",
+  "s": 115.26,
+  "e": 115.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gear",
+  "s": 115.68,
+  "e": 116.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "does",
+  "s": 116.24,
+  "e": 116.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 116.84,
+  "e": 117.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "count",
+  "s": 117.14,
+  "e": 117.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "as",
+  "s": 117.48,
+  "e": 117.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 117.82,
+  "e": 118.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes.",
+  "s": 118.26,
+  "e": 118.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 119.76,
+  "e": 120.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "district",
+  "s": 120.16,
+  "e": 120.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "court",
+  "s": 120.52,
+  "e": 120.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "disagreed,",
+  "s": 120.82,
+  "e": 121.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "granting",
+  "s": 121.6,
+  "e": 121.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "summary",
+  "s": 121.86,
+  "e": 122.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "judgment",
+  "s": 122.32,
+  "e": 122.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 122.7,
+  "e": 122.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "U",
+  "s": 122.98,
+  "e": 123.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": ".S.",
+  "s": 123.12,
+  "e": 123.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Steel",
+  "s": 123.58,
+  "e": 123.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 123.62,
+  "e": 124.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 124.42,
+  "e": 124.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "7th",
+  "s": 124.6,
+  "e": 125.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Circuit",
+  "s": 125.04,
+  "e": 125.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "affirmed.",
+  "s": 125.22,
+  "e": 125.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "We",
+  "s": 126.42,
+  "e": 126.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "granted",
+  "s": 126.62,
+  "e": 126.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "certiorari",
+  "s": 126.92,
+  "e": 127.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 127.56,
+  "e": 127.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "determine",
+  "s": 127.86,
+  "e": 128.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 128.24,
+  "e": 128.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "meaning",
+  "s": 128.46,
+  "e": 128.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 128.66,
+  "e": 128.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 128.88,
+  "e": 129.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "phrase,",
+  "s": 129.02,
+  "e": 129.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 129.68,
+  "e": 129.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes.",
+  "s": 129.88,
+  "e": 130.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "And",
+  "s": 130.42,
+  "e": 131.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "today",
+  "s": 131.26,
+  "e": 131.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "we",
+  "s": 131.62,
+  "e": 131.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "affirm.",
+  "s": 131.84,
+  "e": 132.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 133.5,
+  "e": 133.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workers",
+  "s": 133.7,
+  "e": 134.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "argue",
+  "s": 134.0,
+  "e": 134.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 134.52,
+  "e": 135.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "protective",
+  "s": 135.1,
+  "e": 135.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothing",
+  "s": 135.72,
+  "e": 136.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 136.34,
+  "e": 136.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 136.7,
+  "e": 136.96,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes.",
+  "s": 136.96,
+  "e": 137.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "That",
+  "s": 138.24,
+  "e": 138.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "seems",
+  "s": 138.46,
+  "e": 138.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 138.72,
+  "e": 138.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "us",
+  "s": 138.98,
+  "e": 139.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "unsupported",
+  "s": 139.28,
+  "e": 140.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "by",
+  "s": 140.02,
+  "e": 140.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "both",
+  "s": 140.44,
+  "e": 140.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 140.8,
+  "e": 141.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "text",
+  "s": 141.0,
+  "e": 141.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 141.26,
+  "e": 141.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 141.48,
+  "e": 141.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "statute",
+  "s": 141.68,
+  "e": 142.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 142.14,
+  "e": 143.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "ordinary",
+  "s": 143.04,
+  "e": 143.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "logic.",
+  "s": 143.48,
+  "e": 143.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "We",
+  "s": 144.6,
+  "e": 144.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "give",
+  "s": 144.82,
+  "e": 144.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 144.98,
+  "e": 145.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "word",
+  "s": 145.14,
+  "e": 145.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 145.38,
+  "e": 145.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "its",
+  "s": 145.86,
+  "e": 146.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "common",
+  "s": 146.3,
+  "e": 146.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 146.72,
+  "e": 147.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "contemporary",
+  "s": 147.1,
+  "e": 147.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "meaning.",
+  "s": 147.8,
+  "e": 148.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Dictionaries",
+  "s": 148.92,
+  "e": 149.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "from",
+  "s": 149.38,
+  "e": 149.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 149.62,
+  "e": 149.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 149.78,
+  "e": 150.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 150.0,
+  "e": 150.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 150.2,
+  "e": 150.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "statute's",
+  "s": 150.38,
+  "e": 151.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "enactment",
+  "s": 151.08,
+  "e": 151.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "show",
+  "s": 151.56,
+  "e": 152.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 152.5,
+  "e": 152.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 152.74,
+  "e": 153.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "are",
+  "s": 153.18,
+  "e": 153.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "items",
+  "s": 153.8,
+  "e": 154.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 154.86,
+  "e": 155.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "are",
+  "s": 155.62,
+  "e": 155.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "both",
+  "s": 155.82,
+  "e": 156.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "designed",
+  "s": 156.08,
+  "e": 156.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 156.76,
+  "e": 157.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "used",
+  "s": 157.24,
+  "e": 157.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 157.68,
+  "e": 158.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "cover",
+  "s": 158.12,
+  "e": 158.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 158.38,
+  "e": 158.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "body",
+  "s": 158.56,
+  "e": 158.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 158.88,
+  "e": 159.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "are",
+  "s": 159.66,
+  "e": 159.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "commonly",
+  "s": 159.88,
+  "e": 160.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "regarded",
+  "s": 160.36,
+  "e": 161.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "as",
+  "s": 161.04,
+  "e": 161.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "articles",
+  "s": 161.54,
+  "e": 162.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 162.04,
+  "e": 162.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "dress.",
+  "s": 162.34,
+  "e": 162.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "While",
+  "s": 163.76,
+  "e": 164.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 164.1,
+  "e": 164.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "supporting",
+  "s": 164.34,
+  "e": 164.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 164.78,
+  "e": 165.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workers'",
+  "s": 165.0,
+  "e": 165.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "argument",
+  "s": 165.46,
+  "e": 165.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 165.82,
+  "e": 166.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "protective",
+  "s": 166.16,
+  "e": 166.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothing",
+  "s": 166.62,
+  "e": 167.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 167.38,
+  "e": 168.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "ipso",
+  "s": 168.2,
+  "e": 168.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "facto",
+  "s": 168.64,
+  "e": 169.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 169.02,
+  "e": 169.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes,",
+  "s": 169.38,
+  "e": 169.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "neither",
+  "s": 170.48,
+  "e": 170.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "does",
+  "s": 170.66,
+  "e": 170.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "this",
+  "s": 170.98,
+  "e": 171.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "definition",
+  "s": 171.26,
+  "e": 172.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "support",
+  "s": 172.06,
+  "e": 172.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 172.66,
+  "e": 172.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "construction",
+  "s": 172.92,
+  "e": 173.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "adopted",
+  "s": 173.36,
+  "e": 173.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "by",
+  "s": 173.94,
+  "e": 174.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "some",
+  "s": 174.3,
+  "e": 174.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "courts",
+  "s": 174.62,
+  "e": 175.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 175.02,
+  "e": 175.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "advocated",
+  "s": 175.84,
+  "e": 176.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "by",
+  "s": 176.34,
+  "e": 176.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "U",
+  "s": 176.64,
+  "e": 176.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": ".S.",
+  "s": 176.84,
+  "e": 177.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Steel",
+  "s": 177.04,
+  "e": 177.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "here,",
+  "s": 177.3,
+  "e": 177.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "which",
+  "s": 177.88,
+  "e": 178.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "says",
+  "s": 178.52,
+  "e": 178.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 178.82,
+  "e": 179.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 179.1,
+  "e": 179.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "consist",
+  "s": 179.54,
+  "e": 180.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 180.08,
+  "e": 180.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "everything",
+  "s": 180.38,
+  "e": 181.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 181.0,
+  "e": 181.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "a",
+  "s": 181.54,
+  "e": 181.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "person",
+  "s": 181.7,
+  "e": 181.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "wears.",
+  "s": 181.98,
+  "e": 182.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Our",
+  "s": 183.06,
+  "e": 183.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "interpretation",
+  "s": 183.72,
+  "e": 184.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "leaves",
+  "s": 184.32,
+  "e": 184.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "a",
+  "s": 184.9,
+  "e": 185.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "room",
+  "s": 185.1,
+  "e": 185.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for",
+  "s": 185.3,
+  "e": 185.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "distinguishing",
+  "s": 185.62,
+  "e": 186.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "between",
+  "s": 186.16,
+  "e": 186.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 186.8,
+  "e": 187.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 187.38,
+  "e": 188.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "wearable",
+  "s": 188.16,
+  "e": 188.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "items",
+  "s": 188.56,
+  "e": 189.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 189.24,
+  "e": 189.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "are",
+  "s": 189.46,
+  "e": 189.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 189.58,
+  "e": 189.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes,",
+  "s": 189.82,
+  "e": 190.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "such",
+  "s": 190.36,
+  "e": 190.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "as",
+  "s": 190.5,
+  "e": 190.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "certain",
+  "s": 190.94,
+  "e": 191.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "heavy",
+  "s": 191.52,
+  "e": 191.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "equipment",
+  "s": 191.84,
+  "e": 192.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 192.38,
+  "e": 192.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "devices.",
+  "s": 192.64,
+  "e": 193.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "So",
+  "s": 194.42,
+  "e": 194.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "much",
+  "s": 194.72,
+  "e": 194.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for",
+  "s": 194.88,
+  "e": 195.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes.",
+  "s": 195.14,
+  "e": 195.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "What",
+  "s": 196.46,
+  "e": 196.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "about",
+  "s": 196.64,
+  "e": 196.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 196.84,
+  "e": 197.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "statutory",
+  "s": 197.04,
+  "e": 197.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "phrase,",
+  "s": 197.46,
+  "e": 198.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 198.76,
+  "e": 198.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes?",
+  "s": 198.94,
+  "e": 199.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 200.44,
+  "e": 200.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workers",
+  "s": 200.76,
+  "e": 201.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "argue",
+  "s": 201.06,
+  "e": 201.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 201.48,
+  "e": 201.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 201.72,
+  "e": 201.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 201.92,
+  "e": 202.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 202.24,
+  "e": 202.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 202.42,
+  "e": 202.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 202.84,
+  "e": 203.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "protective",
+  "s": 203.02,
+  "e": 203.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gear",
+  "s": 203.5,
+  "e": 204.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "does",
+  "s": 204.02,
+  "e": 204.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 204.6,
+  "e": 204.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "qualify",
+  "s": 204.88,
+  "e": 205.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "as",
+  "s": 205.38,
+  "e": 205.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 205.66,
+  "e": 206.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 206.02,
+  "e": 206.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "because",
+  "s": 206.6,
+  "e": 207.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 207.44,
+  "e": 207.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gear",
+  "s": 207.66,
+  "e": 207.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 207.92,
+  "e": 208.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "often",
+  "s": 208.18,
+  "e": 208.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "put",
+  "s": 208.52,
+  "e": 208.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 208.78,
+  "e": 209.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "over",
+  "s": 209.12,
+  "e": 209.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "rather",
+  "s": 209.66,
+  "e": 210.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "than",
+  "s": 210.56,
+  "e": 210.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "substituted",
+  "s": 210.9,
+  "e": 211.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for",
+  "s": 211.52,
+  "e": 211.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "street",
+  "s": 211.98,
+  "e": 212.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes.",
+  "s": 212.46,
+  "e": 212.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "It",
+  "s": 213.9,
+  "e": 214.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 214.1,
+  "e": 214.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "true",
+  "s": 214.24,
+  "e": 214.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "enough",
+  "s": 214.44,
+  "e": 214.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 214.7,
+  "e": 214.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 214.92,
+  "e": 215.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "normal",
+  "s": 215.06,
+  "e": 215.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "meaning",
+  "s": 215.34,
+  "e": 215.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 215.58,
+  "e": 215.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 215.82,
+  "e": 216.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes,",
+  "s": 216.12,
+  "e": 216.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "like",
+  "s": 216.8,
+  "e": 217.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 217.04,
+  "e": 217.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "a",
+  "s": 217.9,
+  "e": 218.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "diaper",
+  "s": 218.12,
+  "e": 218.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "or",
+  "s": 218.42,
+  "e": 218.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 218.8,
+  "e": 219.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "a",
+  "s": 219.32,
+  "e": 219.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "tire,",
+  "s": 219.56,
+  "e": 220.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "ordinarily",
+  "s": 220.46,
+  "e": 221.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "connotes",
+  "s": 221.5,
+  "e": 222.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "substitution.",
+  "s": 222.22,
+  "e": 223.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "But",
+  "s": 224.38,
+  "e": 224.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 224.72,
+  "e": 225.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "can",
+  "s": 225.14,
+  "e": 225.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "connote",
+  "s": 225.62,
+  "e": 226.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "alteration,",
+  "s": 226.08,
+  "e": 226.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 226.72,
+  "e": 227.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 227.74,
+  "e": 227.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "broader",
+  "s": 227.9,
+  "e": 228.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "statutory",
+  "s": 228.22,
+  "e": 228.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "context",
+  "s": 228.82,
+  "e": 229.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "here",
+  "s": 229.58,
+  "e": 229.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "makes",
+  "s": 229.92,
+  "e": 230.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clear",
+  "s": 230.22,
+  "e": 230.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 230.62,
+  "e": 231.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "this",
+  "s": 231.28,
+  "e": 231.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "second",
+  "s": 231.52,
+  "e": 231.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "meaning",
+  "s": 231.92,
+  "e": 232.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "applies.",
+  "s": 232.3,
+  "e": 232.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Time",
+  "s": 233.6,
+  "e": 233.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent",
+  "s": 233.78,
+  "e": 234.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "in",
+  "s": 234.1,
+  "e": 234.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 234.32,
+  "e": 234.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 234.68,
+  "e": 235.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "includes",
+  "s": 235.1,
+  "e": 235.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 235.66,
+  "e": 236.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent",
+  "s": 236.38,
+  "e": 236.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "in",
+  "s": 236.82,
+  "e": 237.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "altering",
+  "s": 237.28,
+  "e": 237.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "dress.",
+  "s": 237.82,
+  "e": 238.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Turning",
+  "s": 239.1,
+  "e": 239.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 239.86,
+  "e": 240.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 240.14,
+  "e": 240.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "particulars",
+  "s": 240.26,
+  "e": 240.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 240.64,
+  "e": 240.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "this",
+  "s": 240.94,
+  "e": 241.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "case,",
+  "s": 241.1,
+  "e": 241.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 242.36,
+  "e": 242.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workers",
+  "s": 242.54,
+  "e": 242.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "have",
+  "s": 242.82,
+  "e": 243.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "pointed",
+  "s": 243.08,
+  "e": 243.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 243.32,
+  "e": 243.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "12",
+  "s": 243.6,
+  "e": 243.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "pieces",
+  "s": 243.94,
+  "e": 244.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 244.42,
+  "e": 244.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "protective",
+  "s": 244.64,
+  "e": 245.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gear,",
+  "s": 245.08,
+  "e": 245.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "nine",
+  "s": 246.44,
+  "e": 246.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 246.64,
+  "e": 246.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "which",
+  "s": 246.82,
+  "e": 247.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "easily",
+  "s": 247.14,
+  "e": 247.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "meet",
+  "s": 247.9,
+  "e": 248.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "this",
+  "s": 248.28,
+  "e": 248.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Court's",
+  "s": 248.52,
+  "e": 249.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "interpretation",
+  "s": 249.18,
+  "e": 249.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 249.64,
+  "e": 250.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes,",
+  "s": 250.22,
+  "e": 250.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "such",
+  "s": 251.24,
+  "e": 251.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "things",
+  "s": 251.48,
+  "e": 251.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "as",
+  "s": 251.86,
+  "e": 252.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "hoods",
+  "s": 253.1,
+  "e": 254.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 254.74,
+  "e": 254.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gloves,",
+  "s": 254.94,
+  "e": 255.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "so",
+  "s": 255.76,
+  "e": 256.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "forth.",
+  "s": 256.2,
+  "e": 256.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 257.24,
+  "e": 257.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "question",
+  "s": 257.56,
+  "e": 257.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "then",
+  "s": 257.94,
+  "e": 258.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "arises",
+  "s": 258.2,
+  "e": 258.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "whether",
+  "s": 258.74,
+  "e": 259.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 259.46,
+  "e": 259.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 259.78,
+  "e": 260.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "devoted",
+  "s": 260.14,
+  "e": 260.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 260.68,
+  "e": 261.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 261.08,
+  "e": 261.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 261.54,
+  "e": 261.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 261.86,
+  "e": 262.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "those",
+  "s": 262.38,
+  "e": 262.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "items",
+  "s": 262.98,
+  "e": 263.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "must",
+  "s": 263.6,
+  "e": 264.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "be",
+  "s": 264.38,
+  "e": 264.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent,",
+  "s": 264.68,
+  "e": 265.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "must",
+  "s": 265.34,
+  "e": 265.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "be",
+  "s": 265.5,
+  "e": 265.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "separated",
+  "s": 265.74,
+  "e": 266.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "from",
+  "s": 266.36,
+  "e": 267.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 267.08,
+  "e": 267.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 267.24,
+  "e": 267.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent",
+  "s": 267.52,
+  "e": 267.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 267.92,
+  "e": 269.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 269.08,
+  "e": 269.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 269.44,
+  "e": 269.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 269.6,
+  "e": 269.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 269.94,
+  "e": 270.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "remaining",
+  "s": 270.1,
+  "e": 270.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "three",
+  "s": 270.48,
+  "e": 270.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "items.",
+  "s": 270.94,
+  "e": 271.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 272.18,
+  "e": 272.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "court",
+  "s": 272.46,
+  "e": 272.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 272.62,
+  "e": 272.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "appeals",
+  "s": 272.76,
+  "e": 273.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "here,",
+  "s": 273.02,
+  "e": 273.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "like",
+  "s": 273.42,
+  "e": 273.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "other",
+  "s": 273.54,
+  "e": 273.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "courts",
+  "s": 273.78,
+  "e": 274.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 274.06,
+  "e": 274.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "appeals,",
+  "s": 274.22,
+  "e": 274.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "would",
+  "s": 274.66,
+  "e": 274.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "apply",
+  "s": 274.82,
+  "e": 275.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 275.2,
+  "e": 275.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "these",
+  "s": 275.4,
+  "e": 275.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "three",
+  "s": 275.62,
+  "e": 275.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "items",
+  "s": 275.92,
+  "e": 276.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 276.36,
+  "e": 276.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "maxim,",
+  "s": 276.94,
+  "e": 277.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "de",
+  "s": 277.58,
+  "e": 278.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "minimis",
+  "s": 278.1,
+  "e": 278.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "non",
+  "s": 278.62,
+  "e": 278.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "coratlex.",
+  "s": 278.88,
+  "e": 279.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 279.9,
+  "e": 280.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "law",
+  "s": 280.3,
+  "e": 280.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "does",
+  "s": 280.56,
+  "e": 280.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 280.86,
+  "e": 281.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "take",
+  "s": 281.12,
+  "e": 281.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "account",
+  "s": 281.38,
+  "e": 281.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 281.76,
+  "e": 281.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "trifles.",
+  "s": 281.98,
+  "e": 282.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "We",
+  "s": 283.46,
+  "e": 283.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "think",
+  "s": 283.74,
+  "e": 283.96,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 283.96,
+  "e": 284.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "maxim",
+  "s": 284.22,
+  "e": 284.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "ill",
+  "s": 284.68,
+  "e": 285.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "-suited",
+  "s": 285.04,
+  "e": 285.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 285.42,
+  "e": 285.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "this",
+  "s": 285.6,
+  "e": 285.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "statute,",
+  "s": 285.8,
+  "e": 286.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "which",
+  "s": 286.72,
+  "e": 287.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 287.04,
+  "e": 287.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "all",
+  "s": 287.16,
+  "e": 287.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "about",
+  "s": 287.38,
+  "e": 287.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "trifles.",
+  "s": 287.68,
+  "e": 288.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 288.81,
+  "e": 289.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "few",
+  "s": 289.1,
+  "e": 289.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "minutes",
+  "s": 289.34,
+  "e": 289.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "or",
+  "s": 289.64,
+  "e": 289.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "even",
+  "s": 289.88,
+  "e": 290.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "seconds",
+  "s": 290.14,
+  "e": 290.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent",
+  "s": 290.6,
+  "e": 291.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "putting",
+  "s": 291.02,
+  "e": 291.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 291.3,
+  "e": 291.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 291.62,
+  "e": 291.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "taking",
+  "s": 291.8,
+  "e": 292.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "off",
+  "s": 292.06,
+  "e": 292.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gloves",
+  "s": 292.42,
+  "e": 292.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "or",
+  "s": 292.84,
+  "e": 293.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "head",
+  "s": 293.48,
+  "e": 293.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gear,",
+  "s": 293.74,
+  "e": 293.96,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for",
+  "s": 294.08,
+  "e": 294.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "example.",
+  "s": 294.22,
+  "e": 294.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "There",
+  "s": 295.46,
+  "e": 295.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 295.62,
+  "e": 295.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "no",
+  "s": 295.74,
+  "e": 295.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "more",
+  "s": 295.9,
+  "e": 296.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "reason",
+  "s": 296.08,
+  "e": 296.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 296.34,
+  "e": 296.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "disregard",
+  "s": 296.6,
+  "e": 297.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 297.18,
+  "e": 297.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "brief",
+  "s": 297.46,
+  "e": 297.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 297.64,
+  "e": 297.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "devoted",
+  "s": 297.94,
+  "e": 298.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 298.32,
+  "e": 298.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 298.88,
+  "e": 299.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 299.22,
+  "e": 299.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 299.38,
+  "e": 299.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "one",
+  "s": 299.74,
+  "e": 299.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 299.94,
+  "e": 300.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 300.08,
+  "e": 300.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "last",
+  "s": 300.18,
+  "e": 300.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "three",
+  "s": 300.44,
+  "e": 300.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "items",
+  "s": 300.7,
+  "e": 301.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "here",
+  "s": 301.06,
+  "e": 301.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "than",
+  "s": 301.42,
+  "e": 301.96,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "there",
+  "s": 301.96,
+  "e": 302.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 302.12,
+  "e": 302.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 302.3,
+  "e": 302.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "regard",
+  "s": 302.48,
+  "e": 302.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 302.94,
+  "e": 303.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "brief",
+  "s": 303.22,
+  "e": 303.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 303.44,
+  "e": 303.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "devoted",
+  "s": 303.86,
+  "e": 304.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 304.48,
+  "e": 304.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 304.72,
+  "e": 305.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 305.06,
+  "e": 305.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 305.22,
+  "e": 305.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "one",
+  "s": 305.56,
+  "e": 305.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 305.74,
+  "e": 305.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 305.86,
+  "e": 305.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "other",
+  "s": 305.98,
+  "e": 306.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "nine.",
+  "s": 306.18,
+  "e": 306.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 307.3,
+  "e": 307.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "proper",
+  "s": 307.72,
+  "e": 308.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "approach",
+  "s": 308.04,
+  "e": 308.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "we",
+  "s": 308.56,
+  "e": 308.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "hold",
+  "s": 308.8,
+  "e": 309.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 309.18,
+  "e": 309.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 309.88,
+  "e": 310.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "ask",
+  "s": 310.14,
+  "e": 310.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "whether",
+  "s": 310.52,
+  "e": 310.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 310.88,
+  "e": 311.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "period",
+  "s": 311.42,
+  "e": 311.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "at",
+  "s": 311.78,
+  "e": 312.02,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "issue",
+  "s": 312.02,
+  "e": 312.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 312.36,
+  "e": 312.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 312.7,
+  "e": 312.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "whole",
+  "s": 312.86,
+  "e": 313.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "can",
+  "s": 313.16,
+  "e": 314.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "be",
+  "s": 314.12,
+  "e": 314.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "fairly",
+  "s": 314.3,
+  "e": 314.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "characterized",
+  "s": 314.7,
+  "e": 315.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "as",
+  "s": 315.48,
+  "e": 316.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 316.04,
+  "e": 316.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent",
+  "s": 316.36,
+  "e": 316.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "in",
+  "s": 316.68,
+  "e": 316.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 316.9,
+  "e": 317.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 317.28,
+  "e": 317.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "or",
+  "s": 317.68,
+  "e": 318.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "washing.",
+  "s": 318.2,
+  "e": 318.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "So",
+  "s": 319.4,
+  "e": 319.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "if",
+  "s": 319.7,
+  "e": 319.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "an",
+  "s": 319.92,
+  "e": 320.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "employee",
+  "s": 320.04,
+  "e": 320.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "devotes",
+  "s": 320.44,
+  "e": 320.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 320.86,
+  "e": 321.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "vast",
+  "s": 321.08,
+  "e": 321.38,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "majority",
+  "s": 321.38,
+  "e": 321.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 321.8,
+  "e": 322.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 322.12,
+  "e": 322.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 322.28,
+  "e": 322.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 322.54,
+  "e": 322.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "putting",
+  "s": 322.74,
+  "e": 322.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 322.98,
+  "e": 323.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 323.2,
+  "e": 323.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "off",
+  "s": 323.34,
+  "e": 323.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes,",
+  "s": 323.54,
+  "e": 323.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 324.26,
+  "e": 324.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "entire",
+  "s": 324.68,
+  "e": 325.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "period",
+  "s": 325.12,
+  "e": 325.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "qualifies.",
+  "s": 325.52,
+  "e": 326.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "But",
+  "s": 326.96,
+  "e": 327.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "if",
+  "s": 327.3,
+  "e": 327.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "he",
+  "s": 327.42,
+  "e": 327.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "devotes",
+  "s": 327.56,
+  "e": 327.96,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "it",
+  "s": 327.96,
+  "e": 328.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 328.12,
+  "e": 328.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "putting",
+  "s": 328.26,
+  "e": 328.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "on",
+  "s": 328.52,
+  "e": 328.78,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 328.78,
+  "e": 328.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "off",
+  "s": 328.9,
+  "e": 329.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "non",
+  "s": 329.14,
+  "e": 329.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "-close",
+  "s": 329.48,
+  "e": 329.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "items,",
+  "s": 329.76,
+  "e": 330.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "it",
+  "s": 330.52,
+  "e": 330.74,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "does",
+  "s": 330.74,
+  "e": 330.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not.",
+  "s": 330.9,
+  "e": 331.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "We",
+  "s": 331.86,
+  "e": 332.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "accept",
+  "s": 332.14,
+  "e": 332.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 332.42,
+  "e": 332.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "district",
+  "s": 332.62,
+  "e": 332.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "court's",
+  "s": 332.88,
+  "e": 333.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "factually",
+  "s": 333.36,
+  "e": 333.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "terminations",
+  "s": 333.76,
+  "e": 334.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 334.64,
+  "e": 335.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 335.28,
+  "e": 335.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 335.44,
+  "e": 335.7,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "spent",
+  "s": 335.7,
+  "e": 336.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 336.04,
+  "e": 336.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 336.4,
+  "e": 336.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 336.54,
+  "e": 336.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "two",
+  "s": 336.94,
+  "e": 337.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 337.2,
+  "e": 337.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 337.36,
+  "e": 337.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "three",
+  "s": 337.48,
+  "e": 337.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "nine",
+  "s": 337.68,
+  "e": 337.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "-close",
+  "s": 337.92,
+  "e": 338.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "items",
+  "s": 338.2,
+  "e": 338.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "here",
+  "s": 338.54,
+  "e": 338.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "was",
+  "s": 338.92,
+  "e": 339.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "negligible,",
+  "s": 339.52,
+  "e": 339.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 339.94,
+  "e": 341.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 341.06,
+  "e": 341.18,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 341.18,
+  "e": 341.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "time",
+  "s": 341.36,
+  "e": 341.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "devoted",
+  "s": 341.56,
+  "e": 341.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 341.88,
+  "e": 342.16,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 342.16,
+  "e": 342.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "final",
+  "s": 342.32,
+  "e": 342.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "item",
+  "s": 342.6,
+  "e": 343.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "does",
+  "s": 343.0,
+  "e": 343.68,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 343.68,
+  "e": 343.94,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "occur",
+  "s": 343.94,
+  "e": 344.28,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "at",
+  "s": 344.28,
+  "e": 344.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 344.48,
+  "e": 344.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "beginning",
+  "s": 344.62,
+  "e": 344.88,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "or",
+  "s": 344.88,
+  "e": 345.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "end",
+  "s": 345.14,
+  "e": 345.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 345.32,
+  "e": 345.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 345.44,
+  "e": 345.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workday,",
+  "s": 345.56,
+  "e": 346.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "but",
+  "s": 346.22,
+  "e": 346.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "rather",
+  "s": 346.98,
+  "e": 347.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "occurs",
+  "s": 347.64,
+  "e": 348.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "when",
+  "s": 348.6,
+  "e": 348.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 348.98,
+  "e": 349.32,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "worker",
+  "s": 349.32,
+  "e": 349.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "reports",
+  "s": 349.9,
+  "e": 350.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 350.66,
+  "e": 350.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "his",
+  "s": 350.92,
+  "e": 351.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "workstation",
+  "s": 351.08,
+  "e": 351.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 351.8,
+  "e": 352.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "thus",
+  "s": 352.62,
+  "e": 352.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "falls",
+  "s": 352.84,
+  "e": 353.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "outside",
+  "s": 353.22,
+  "e": 353.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 353.8,
+  "e": 354.04,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "scope",
+  "s": 354.04,
+  "e": 354.24,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 354.24,
+  "e": 354.42,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 354.42,
+  "e": 354.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "statute.",
+  "s": 354.58,
+  "e": 354.96,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "We",
+  "s": 355.52,
+  "e": 355.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "therefore",
+  "s": 355.66,
+  "e": 355.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "conclude",
+  "s": 355.98,
+  "e": 356.44,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 356.44,
+  "e": 356.64,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 356.64,
+  "e": 356.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "donning",
+  "s": 356.8,
+  "e": 357.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 357.08,
+  "e": 357.22,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "doffing",
+  "s": 357.22,
+  "e": 357.58,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 357.58,
+  "e": 357.72,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "protective",
+  "s": 357.72,
+  "e": 358.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "gear",
+  "s": 358.1,
+  "e": 358.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "in",
+  "s": 358.46,
+  "e": 358.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "this",
+  "s": 358.6,
+  "e": 358.8,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "case",
+  "s": 358.8,
+  "e": 359.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "counts",
+  "s": 359.1,
+  "e": 359.86,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "as",
+  "s": 359.86,
+  "e": 360.1,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "changing",
+  "s": 360.1,
+  "e": 360.46,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "clothes",
+  "s": 360.46,
+  "e": 360.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "and",
+  "s": 360.9,
+  "e": 361.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 361.48,
+  "e": 361.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "non",
+  "s": 361.66,
+  "e": 362.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "-compensable",
+  "s": 362.0,
+  "e": 362.54,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "by",
+  "s": 362.54,
+  "e": 362.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "operation",
+  "s": 362.9,
+  "e": 363.48,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 363.48,
+  "e": 363.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Section",
+  "s": 363.76,
+  "e": 364.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "2030.",
+  "s": 364.14,
+  "e": 365.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 366.38,
+  "e": 366.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "judgment",
+  "s": 366.66,
+  "e": 366.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 366.84,
+  "e": 367.08,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 367.08,
+  "e": 367.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "court",
+  "s": 367.2,
+  "e": 367.3,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "of",
+  "s": 367.3,
+  "e": 367.4,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "appeals",
+  "s": 367.4,
+  "e": 367.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "for",
+  "s": 367.66,
+  "e": 367.92,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "the",
+  "s": 367.92,
+  "e": 368.12,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Seventh",
+  "s": 368.12,
+  "e": 368.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Circuit",
+  "s": 368.82,
+  "e": 369.26,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 369.26,
+  "e": 369.56,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "affirmed.",
+  "s": 369.56,
+  "e": 369.98,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "The",
+  "s": 369.98,
+  "e": 370.62,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "court's",
+  "s": 370.62,
+  "e": 371.0,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "decision",
+  "s": 371.0,
+  "e": 371.36,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "is",
+  "s": 371.36,
+  "e": 371.66,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "unanimous,",
+  "s": 371.66,
+  "e": 372.14,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "except",
+  "s": 372.28,
+  "e": 372.6,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "that",
+  "s": 372.6,
+  "e": 372.82,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Justice",
+  "s": 372.82,
+  "e": 373.2,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "Sotomayor",
+  "s": 373.2,
+  "e": 373.9,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "does",
+  "s": 373.9,
+  "e": 374.5,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "not",
+  "s": 374.5,
+  "e": 374.76,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "join",
+  "s": 374.76,
+  "e": 375.06,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "as",
+  "s": 375.06,
+  "e": 375.34,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "to",
+  "s": 375.34,
+  "e": 375.52,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "footnote",
+  "s": 375.52,
+  "e": 375.84,
+  "speaker": "JUSTICE SCALIA"
+ },
+ {
+  "w": "7.",
+  "s": 375.84,
+  "e": 376.38,
+  "speaker": "JUSTICE SCALIA"
+ }
+]
