@@ -28,7 +28,7 @@ Time is the end of the word before the marker. The 25 official words before it f
 
 > said in Horne, it's different when you come in and you physically take the property. Well, it said it's different when it's raisins in Horne. **(Laughter.)**
 
-### 0:59:27.096 (3567.096 s), during JUSTICE GORSUCH's turn
+### 0:59:33.380 (3573.380 s), during JUSTICE GORSUCH's turn
 
 > Katyal? I think 1272 if I recall. '72, all right. Well, you know, a funny thing happened after that. It was called the Magna Carta. **(Laughter.)**
 
