@@ -1,0 +1,543 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 337.5,
+   "next": 337.5,
+   "speaker": "JUSTICE BREYER",
+   "before": "arrest report, Your Honor. So -- I mean, the -- I am told, perhaps I shouldn't take this into account, but compared to the Middle Ages with which I am more familiar --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1364.3,
+   "next": 1364.94,
+   "speaker": "JUSTICE KAGAN",
+   "before": "officers act in the future as well. And when looked at from the reasonable partygoer's view, there are these parties that, once long ago, I used to be invited to --",
+   "pause": 0.64,
+   "loud_s": 0.2,
+   "mean_over": 24.9,
+   "peak_over": 32.0,
+   "size": "small"
+  },
+  {
+   "t": 2956.64,
+   "next": 2956.64,
+   "speaker": "JUSTICE ALITO",
+   "before": "on the ground, they know their neighborhoods, and that kind of commonsense consideration should -- should play into account. Just out of curiosity, who is the bachelor at this bachelor party?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3012.54,
+   "next": 3012.54,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "that evidence came out at a trial, at the trial after summary judgment. Officer Campanale changed his story -- So Peaches is the host at a bachelor party. Is that it?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -51.4,
+ "opening_start": 7.94,
+ "opening": [
+  [
+   7.94,
+   "MR. KIM",
+   "Mr. Chief Justice, and may it please the Court: Probable cause is a practical standard, and thus it accounts for the practical limitations that officers face when making arrest decisions, including their inability to look directly into the minds of suspects offering innocent explanations for suspicious conduct. And so, in a case like this one, what the actus reus established and circumstantial evidence of mens rea that is strong or at least fair, arrest is reasonable, and hence constitutional, and more clearly qualified immunity applies. Let's turn to the totality of the circumstances and consider them from the correct perspective."
+  ],
+  [
+   46.64,
+   "JUSTICE GINSBURG",
+   "Mr. Kim, before you do that, could you clarify the other charges that are in this case, the one relating to disorderly conduct and negligent supervision? Where do they stand? And are they in any way affected by the argument you're making today?"
+  ],
+  [
+   65.26,
+   "MR. KIM",
+   "We do not pursue an argument that probable cause existed for disorderly conduct. As to negligent supervision, that common law claim fails if there was either probable cause or qualified immunity. That's where they stand, Your Honor. If I may turn back to the totality of the circumstances, my clients responded to neighbors' complaints about --"
+  ],
+  [
+   84.98,
+   "JUSTICE SOTOMAYOR",
+   "I'm sorry, I'm not sure I understood what you just said. Whether we hold on qualified immunity grounds or probable cause grounds, I don't think it affects those claims, does it?"
+  ],
+  [
+   97.08,
+   "MR. KIM",
+   "No, that's right, Your Honor."
+  ],
+  [
+   97.44,
+   "JUSTICE SOTOMAYOR",
+   "So why would our finding of probable cause affect it? I think those stand on their own, don't they?"
+  ],
+  [
+   103.84,
+   "MR. KIM",
+   "No, Your Honor, if -- if there was probable cause, the negligent supervision would fail as a matter of law. That was undisputed in the courts below, and it's undisputed in this Court."
+  ],
+  [
+   112.0,
+   "JUSTICE SOTOMAYOR",
+   "Well, we'll let your adversary answer that."
+  ],
+  [
+   114.38,
+   "MR. KIM",
+   "Thank you, Your Honor. So my clients responded to a neighbor's complaints about illegal activities in a house in their residential community that was supposed to be vacant. They found a group of late-night partiers, none of whom claimed any right over the home. The homeowner, Mr. Hughes, confirmed --"
+  ],
+  [
+   130.48,
+   "JUSTICE SOTOMAYOR",
+   "I'm sorry, why isn't there a right? Someone invites me into what they claim is their home or their place of living. Isn't that an invitation?"
+  ],
+  [
+   144.06,
+   "MR. KIM",
+   "Yes, there was a claim of invitation, Your Honor. I was referring to the absence of any claim of any property right over the home. But, yes, there was --"
+  ],
+  [
+   151.0,
+   "JUSTICE SOTOMAYOR",
+   "But I don't --"
+  ],
+  [
+   151.4,
+   "MR. KIM",
+   "-- a claim --"
+  ],
+  [
+   151.4,
+   "JUSTICE SOTOMAYOR",
+   "-- have a property right when I get invited into someone's home."
+  ],
+  [
+   154.3,
+   "MR. KIM",
+   "To be sure, Your Honor."
+  ],
+  [
+   154.9,
+   "JUSTICE SOTOMAYOR",
+   "I don't ask to look at their lease. I don't ask to -- for them to establish, to my satisfaction or anyone else's, their right to be there. I assume if they're there, they can invite me in."
+  ],
+  [
+   167.62,
+   "MR. KIM",
+   "Your Honor, we're not suggesting that there has to be some type of confirmation by any party guest of the inviter's right to invite. What we're saying instead is from the officer's perspective, looking at the totality of the circumstances, there was a fair probability that Respondents were trespassing either knowingly or negligently. This is not about"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2017/15-1485",
+  "page_url": "https://www.oyez.org/cases/2017/15-1485",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - January 22, 2018",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24722",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2017/15-1485/15-1485_20180122-opinion.delivery.mp3",
+  "duration": 282.253061,
+  "mp3_bytes": 1158890,
+  "asr_elapsed_s": 150.0,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   596,
+   622,
+   613
+  ],
+  "diffs": [
+   [
+    6.52,
+    "v. Westby,",
+    "versus Wesby"
+   ],
+   [
+    8.06,
+    "he's",
+    "he is"
+   ],
+   [
+    12.28,
+    "case",
+    ""
+   ],
+   [
+    20.58,
+    "2008, D .C.",
+    "2000 DC"
+   ],
+   [
+    90.52,
+    "renting",
+    "running"
+   ],
+   [
+    117.0,
+    "of the district",
+    ""
+   ],
+   [
+    189.46,
+    "lies",
+    "lie"
+   ],
+   [
+    190.48,
+    "a",
+    ""
+   ],
+   [
+    192.88,
+    "Peach's",
+    "Peaches'"
+   ],
+   [
+    211.02,
+    "a",
+    "the"
+   ],
+   [
+    232.08,
+    "precedence,",
+    "precedents"
+   ],
+   [
+    245.58,
+    "arrest",
+    "arrests"
+   ],
+   [
+    249.72,
+    "",
+    "a"
+   ],
+   [
+    257.24,
+    "a",
+    ""
+   ]
+  ],
+  "dropped": [
+   [
+    11.68,
+    12.28,
+    "Thomas, Jr."
+   ],
+   [
+    13.58,
+    13.72,
+    "a"
+   ]
+  ],
+  "redone": [],
+  "words": 622,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Thomas has our opinion today in Case 15-1485, District of Columbia v. Westby, and he's going to announce it himself. This case comes to us on"
+   ],
+   [
+    13.72,
+    "JUSTICE THOMAS",
+    "writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit. In 2008, D .C. police responded to a late-night complaint about loud music and illegal activities in a vacant house. Inside, they found utter bacchanalia. Strippers were giving lap dances in the living room. A naked woman and several men were in the bedroom with a bare mattress and open condoms. The house was largely unfurnished. Cups of alcohol were on the floor, and the officers smelled marijuana. Many partygoers scattered when they saw the uniformed officers, and some hid. The officers questioned everyone and got inconsistent stories. Two of the strippers said that the tenant, known only as Peaches, had given them permission to host a bachelor party in the house, but Peaches was nowhere to be found. When the officers eventually spoke to Peaches by phone, she was nervous, agitated, and evasive. She hung up on them several times. At first, Peaches claimed that she was renting the house and had given the partygoers permission to have the party, but she eventually admitted that that was a lie. The true owner confirmed that he had not given anyone permission to be there. The officer then arrested the partygoers for unlawful entry. The charges were eventually dropped. Several of the partygoers sued for false arrest. The district of the district court concluded that the officers lacked probable cause to arrest the partygoers for unlawful entry. It also determined that two of the officers were not entitled to qualified immunity, a divided panel of the D .C. Circuit affirmed. In an opinion filed with the clerk today, we reverse. We hold that the officers had probable cause to arrest the partygoers. Considering the totality of the circumstances, the officers made an entirely reasonable inference that the partygoers knew they did not have permission to be in the house. Because most homeowners do not live in barren houses where they invite people to have sex and do drugs, the officers could infer that the partygoers knew the party was not authorized. The officers also could infer that the partygoers knew they were not supposed to be in the house because they scattered and hid when the officers arrived."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Thomas has our opinion today in Case 15-1485, District of Columbia v. Westby, and he's going to announce it himself. This case comes to us on"
+   ],
+   [
+    13.72,
+    "JUSTICE THOMAS",
+    "writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit. In 2008, D .C. police responded to a late-night complaint about loud music and illegal activities in a vacant house. Inside, they found utter bacchanalia. Strippers were giving lap dances in the living room. A naked woman and several men were in the bedroom with a bare mattress and open condoms. The house was largely unfurnished. Cups of alcohol were on the floor, and the officers smelled marijuana. Many partygoers scattered when they saw the uniformed officers, and some hid. The officers questioned everyone and got inconsistent stories. Two of the strippers said that the tenant, known only as Peaches, had given them permission to host a bachelor party in the house, but Peaches was nowhere to be found. When the officers eventually spoke to Peaches by phone, she was nervous, agitated, and evasive. She hung up on them several times. At first, Peaches claimed that she was renting the house and had given the partygoers permission to have the party, but she eventually admitted that that was a lie. The true owner confirmed that he had not given anyone permission to be there. The officer then arrested the partygoers for unlawful entry. The charges were eventually dropped. Several of the partygoers sued for false arrest. The district of the district court concluded that the officers lacked probable cause to arrest the partygoers for unlawful entry. It also determined that two of the officers were not entitled to qualified immunity, a divided panel of the D .C. Circuit affirmed. In an opinion filed with the clerk today, we reverse. We hold that the officers had probable cause to arrest the partygoers. Considering the totality of the circumstances, the officers made an entirely reasonable inference that the partygoers knew they did not have permission to be in the house. Because most homeowners do not live in barren houses where they invite people to have sex and do drugs, the officers could infer that the partygoers knew the party was not authorized. The officers also could infer that the partygoers knew they were not supposed to be in the house because they scattered and hid when the officers arrived. The partygoers' vague and implausible answers to the officers' questions suggested that they were lying and that their lies suggested a guilty mind. And Peach's lying and evasive behavior gave the officers reason to discredit everything she said. In concluding that the officers lacked probable cause, the D .C. Circuit made two basic errors. First, it viewed each fact in isolation instead of as part of a totality. Second, it dismissed any fact that the partygoers could explain away, even though probable cause does not require officers to fully rule out a suspect's innocent explanations. We also hold that the officers were entitled to qualified immunity. Under this Court's precedence, officers are immune unless the unlawfulness of their conduct was clearly established. Given the legal landscape at the time, reasonable officers could have concluded that the law permitted the arrest here. There was no controlling case holding that bona fide belief of a right to enter defeats probable cause. That officers cannot infer a guilty state of mind based on conduct alone, or that officers must accept a suspect's innocent explanation at face value. For these reasons and others set forth in our opinion, we reverse the judgment of the D .C. Circuit. Justices Ginsburg and Sotomayor have each filed an opinion concurring in part and concurring in the judgment."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Thomas has our opinion today in Case 15-1485, District of Columbia v. Westby, and he's going to announce it himself."
+   ],
+   [
+    11.68,
+    "CHIEF JUSTICE ROBERTS",
+    "This case comes to us on writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit."
+   ],
+   [
+    19.98,
+    "JUSTICE THOMAS",
+    "In 2008, D .C."
+   ],
+   [
+    23.04,
+    "JUSTICE THOMAS",
+    "police responded to a late-night complaint about loud music and illegal activities in a vacant house."
+   ],
+   [
+    30.7,
+    "JUSTICE THOMAS",
+    "Inside, they found utter bacchanalia."
+   ],
+   [
+    34.4,
+    "JUSTICE THOMAS",
+    "Strippers were giving lap dances in the living room."
+   ],
+   [
+    37.64,
+    "JUSTICE THOMAS",
+    "A naked woman and several men were in the bedroom with a bare mattress and open condoms."
+   ],
+   [
+    44.34,
+    "JUSTICE THOMAS",
+    "The house was largely unfurnished."
+   ],
+   [
+    47.06,
+    "JUSTICE THOMAS",
+    "Cups of alcohol were on the floor, and the officers smelled marijuana."
+   ],
+   [
+    52.3,
+    "JUSTICE THOMAS",
+    "Many partygoers scattered when they saw the uniformed officers, and some hid."
+   ],
+   [
+    58.9,
+    "JUSTICE THOMAS",
+    "The officers questioned everyone and got inconsistent stories."
+   ],
+   [
+    64.22,
+    "JUSTICE THOMAS",
+    "Two of the strippers said that the tenant, known only as Peaches, had given them permission to host a bachelor party in the house, but Peaches was nowhere to be found."
+   ],
+   [
+    76.62,
+    "JUSTICE THOMAS",
+    "When the officers eventually spoke to Peaches by phone, she was nervous, agitated, and evasive."
+   ],
+   [
+    84.14,
+    "JUSTICE THOMAS",
+    "She hung up on them several times."
+   ],
+   [
+    87.9,
+    "JUSTICE THOMAS",
+    "At first, Peaches claimed that she was renting the house and had given the partygoers permission to have the party, but she eventually admitted that that was a lie."
+   ],
+   [
+    98.46,
+    "JUSTICE THOMAS",
+    "The true owner confirmed that he had not given anyone permission to be there."
+   ],
+   [
+    104.44,
+    "JUSTICE THOMAS",
+    "The officer then arrested the partygoers for unlawful entry."
+   ],
+   [
+    109.28,
+    "JUSTICE THOMAS",
+    "The charges were eventually dropped."
+   ],
+   [
+    112.42,
+    "JUSTICE THOMAS",
+    "Several of the partygoers sued for false arrest."
+   ],
+   [
+    116.28,
+    "JUSTICE THOMAS",
+    "The district of the district court concluded that the officers lacked probable cause to arrest the partygoers for unlawful entry."
+   ],
+   [
+    126.06,
+    "JUSTICE THOMAS",
+    "It also determined that two of the officers were not entitled to qualified immunity, a divided panel of the D .C."
+   ],
+   [
+    134.14,
+    "JUSTICE THOMAS",
+    "Circuit affirmed."
+   ],
+   [
+    136.02,
+    "JUSTICE THOMAS",
+    "In an opinion filed with the clerk today, we reverse."
+   ],
+   [
+    140.12,
+    "JUSTICE THOMAS",
+    "We hold that the officers had probable cause to arrest the partygoers."
+   ],
+   [
+    144.26,
+    "JUSTICE THOMAS",
+    "Considering the totality of the circumstances, the officers made an entirely reasonable inference that the partygoers knew they did not have permission to be in the house."
+   ],
+   [
+    157.16,
+    "JUSTICE THOMAS",
+    "Because most homeowners do not live in barren houses where they invite people to have sex and do drugs, the officers could infer that the partygoers knew the party was not authorized."
+   ],
+   [
+    170.52,
+    "JUSTICE THOMAS",
+    "The officers also could infer that the partygoers knew they were not supposed to be in the house because they scattered and hid when the officers arrived."
+   ],
+   [
+    181.36,
+    "JUSTICE THOMAS",
+    "The partygoers' vague and implausible answers to the officers' questions suggested that they were lying and that their lies suggested a guilty mind."
+   ],
+   [
+    192.16,
+    "JUSTICE THOMAS",
+    "And Peach's lying and evasive behavior gave the officers reason to discredit everything she said."
+   ],
+   [
+    198.94,
+    "JUSTICE THOMAS",
+    "In concluding that the officers lacked probable cause, the D .C."
+   ],
+   [
+    203.2,
+    "JUSTICE THOMAS",
+    "Circuit made two basic errors."
+   ],
+   [
+    205.36,
+    "JUSTICE THOMAS",
+    "First, it viewed each fact in isolation instead of as part of a totality."
+   ],
+   [
+    212.36,
+    "JUSTICE THOMAS",
+    "Second, it dismissed any fact that the partygoers could explain away, even though probable cause does not require officers to fully rule out a suspect's innocent explanations."
+   ],
+   [
+    226.1,
+    "JUSTICE THOMAS",
+    "We also hold that the officers were entitled to qualified immunity."
+   ],
+   [
+    230.24,
+    "JUSTICE THOMAS",
+    "Under this Court's precedence, officers are immune unless the unlawfulness of their conduct was clearly established."
+   ],
+   [
+    239.06,
+    "JUSTICE THOMAS",
+    "Given the legal landscape at the time, reasonable officers could have concluded that the law permitted the arrest here."
+   ],
+   [
+    247.06,
+    "JUSTICE THOMAS",
+    "There was no controlling case holding that bona fide belief of a right to enter defeats probable cause."
+   ],
+   [
+    254.88,
+    "JUSTICE THOMAS",
+    "That officers cannot infer a guilty state of mind based on conduct alone, or that officers must accept a suspect's innocent explanation at face value."
+   ],
+   [
+    267.88,
+    "JUSTICE THOMAS",
+    "For these reasons and others set forth in our opinion, we reverse the judgment of the D .C."
+   ],
+   [
+    273.4,
+    "JUSTICE THOMAS",
+    "Circuit."
+   ],
+   [
+    274.5,
+    "JUSTICE THOMAS",
+    "Justices Ginsburg and Sotomayor have each filed an opinion concurring in part and concurring in the judgment."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    13.58,
+    27
+   ],
+   [
+    "JUSTICE THOMAS",
+    13.72,
+    281.26,
+    593
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "15-1485",
+ "year": "2017",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2017/15-1485",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/15-1485.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/15-1485_gfbi.pdf",
+ "model": "medium.en",
+ "duration": 3348.432,
+ "asr_elapsed_s": 2386.2,
+ "asr_words": 9602,
+ "official_words": 9781,
+ "matched": 9354,
+ "shared": 2,
+ "clamped": 0,
+ "trimmed": 21,
+ "rewindowed": 0,
+ "match_rate": 95.63439321132809,
+ "turns": 237,
+ "laugh_markers": 4,
+ "mp3_bytes": 26787693,
+ "pauses": 368,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 277,
+  "match_rate": {
+   "ok": true,
+   "detail": "95.63% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-22"
+}
