@@ -1,0 +1,435 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1138.96,
+   "next": 1139.56,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "just the -- the seriousness of the claim should not affect whether there is, in fact, reasonable suspicion. You get an A for consistency. I'm -- I'm not sure about common sense.",
+   "pause": 0.6,
+   "loud_s": 0.45,
+   "mean_over": 16.3,
+   "peak_over": 19.0,
+   "size": "medium"
+  },
+  {
+   "t": 1409.42,
+   "next": 1409.96,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "More than that, I want you to say the Court shouldn't. Let the car go. Bye-bye, Los Angeles. In this case, your -- your grade for consistency depends on this answer.",
+   "pause": 0.54,
+   "loud_s": 0.2,
+   "mean_over": 15.0,
+   "peak_over": 21.8,
+   "size": "small"
+  },
+  {
+   "t": 1465.52,
+   "next": 1465.68,
+   "speaker": "JUSTICE BREYER",
+   "before": "But, Your Honor, the -- the idea of running off the road is concealed -- Even if the person weren't drunk, I think it's illegal to run someone else off the road.",
+   "pause": 0.16,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2021.84,
+   "next": 2024.66,
+   "speaker": "JUSTICE BREYER",
+   "before": "me some other instances where the courts have upheld, well, that's enough. Well, if a caller says -- I'm not saying common sense. I'm saying what the courts have held. Sorry.",
+   "pause": 2.82,
+   "loud_s": 2.0,
+   "mean_over": 25.5,
+   "peak_over": 37.1,
+   "size": "big"
+  },
+  {
+   "t": 2557.04,
+   "next": 2558.2,
+   "speaker": "JUSTICE SCALIA",
+   "before": "actions. And when you're dealing with reasonable suspicion -- What about cutting me off too quickly, you know? I think that -- Cuts right in front of me. Really ticks me off.",
+   "pause": 1.16,
+   "loud_s": 0.45,
+   "mean_over": 17.9,
+   "peak_over": 24.7,
+   "size": "medium"
+  },
+  {
+   "t": 2958.1,
+   "next": 2960.78,
+   "speaker": "JUSTICE SOTOMAYOR",
+   "before": "I think what you're saying to me, am I correct, that almost any moving violation counts? Changing a lane without a signal, which seems to be endemic in Washington, but --",
+   "pause": 2.68,
+   "loud_s": 0.7,
+   "mean_over": 17.5,
+   "peak_over": 28.1,
+   "size": "medium"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -48.8,
+ "opening_start": 6.48,
+ "opening": [
+  [
+   6.48,
+   "MR. KLEVEN",
+   "Mr. Chief Justice, and may it please the Court: In this case, the Court should hold that officers acting on anonymous tips must corroborate the tips' assertions of illegal conduct, as well as the identifying details before making a stop, whether that tip involves erratic driving, illegal gun possession, or any other allegation of misconduct. Now, the State proposes that the reasonable suspicion rule in-- established in Terry v. Ohio, which courts and law enforcement officials have been applying now for more than 40 years, should be altered so that, now, it applies as a sliding scale where the level of suspicion varies depending on the nature of the crime that an anonymous tipster claims someone has committed."
+  ],
+  [
+   53.12,
+   "CHIEF JUSTICE ROBERTS",
+   "So if the tip -- so if the tip is, is this car is driving by and throwing bombs out the window, okay, every -- you know, whatever, 500 yards, the police find the car, they have to wait until they see the person actually throw a bomb out the window themselves, before pulling them over?"
+  ],
+  [
+   70.88,
+   "MR. KLEVEN",
+   "Well, Your Honor, in terms of the reasonable suspicion, yes. If there -- if all they have is an anonymous tip and there is no -- they have no way of corroborating any of the -- any of the innocent details, except that they can identify the car, then, yes, under --"
+  ],
+  [
+   86.38,
+   "CHIEF JUSTICE ROBERTS",
+   "So your answer is yes, the car is going there, and he's throwing a bomb out, and it goes off, but he has to wait till he sees them throw out another bomb?"
+  ],
+  [
+   94.58,
+   "MR. KLEVEN",
+   "Your Honor, under the Florida-J.L., the Court has said that when they are looking -- when all that they are able to corroborate are obvious reasonably observable details, such as that, then there is no basis for the Court to go beyond that -- and"
+  ],
+  [
+   110.66,
+   "JUSTICE GINSBURG",
+   "I thought that -- that J.L. gave an example of an exception that the report is somebody is carrying a bomb?"
+  ],
+  [
+   121.38,
+   "MR. KLEVEN",
+   "Well, there is that exception, Your Honor. And in Florida-J.L, it said that it was not -- the Court said that it was not required on the facts of that case to speculate about a situation where such a serious danger --"
+  ],
+  [
+   134.08,
+   "JUSTICE SCALIA",
+   "Throwing bombs doesn't count, but carrying a bomb does, is that it? Were they throwing bombs that they weren't carrying?"
+  ],
+  [
+   142.06,
+   "MR. KLEVEN",
+   "Your Honor, that would not make a difference. However, in this case, in terms of adjusting the reasonable suspicion standard, the Court should not address that. The Court has never said --"
+  ],
+  [
+   152.36,
+   "JUSTICE ALITO",
+   "Excuse me. I'm sorry. Could I ask you what you mean by an \"anonymous tip\"? Suppose somebody calls up 911 and gives a name? Does that make it not an anonymous tip?"
+  ],
+  [
+   165.46,
+   "MR. KLEVEN",
+   "Your Honor, technically, it would not be, but in the circumstances here, I think it should be treated as an anonymous tip because, again, the name could be false when the tip first comes in. If it's corroborated in some way, then --"
+  ],
+  [
+   180.46,
+   "JUSTICE ALITO",
+   "Well, how would you corroborate it? Let's say the person calls up and gives a name and gives an address? So what would"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2013/12-9490",
+  "page_url": "https://www.oyez.org/cases/2013/12-9490",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - April 22, 2014",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23258",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2013/12-9490/20140422o_12-9490.delivery.mp3",
+  "duration": 171.049756,
+  "mp3_bytes": 790695,
+  "asr_elapsed_s": 73.6,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 2,
+  "oyez_agree": [
+   345,
+   362,
+   359
+  ],
+  "diffs": [
+   [
+    10.02,
+    "the",
+    "a"
+   ],
+   [
+    13.3,
+    "Appeal.",
+    "Appeals."
+   ],
+   [
+    37.58,
+    "that",
+    "it"
+   ],
+   [
+    49.52,
+    "a",
+    ""
+   ],
+   [
+    65.28,
+    "",
+    "it"
+   ],
+   [
+    70.86,
+    "argued",
+    "argue"
+   ],
+   [
+    82.98,
+    "that",
+    "an"
+   ],
+   [
+    86.94,
+    "the",
+    ""
+   ],
+   [
+    106.86,
+    "",
+    "the"
+   ],
+   [
+    110.48,
+    "events",
+    "event"
+   ],
+   [
+    116.58,
+    "used a",
+    "use the"
+   ],
+   [
+    131.36,
+    "suggests the",
+    "suggest to"
+   ],
+   [
+    142.42,
+    "an",
+    ""
+   ],
+   [
+    160.86,
+    "the",
+    ""
+   ]
+  ],
+  "dropped": [],
+  "redone": [
+   [
+    28.38,
+    "particular person to be authorized an",
+    "particularized and"
+   ]
+  ],
+  "words": 362,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Thomas has our opinion this morning in Case 12-9490, Navarette v. California."
+   ],
+   [
+    7.98,
+    "JUSTICE THOMAS",
+    "This case comes to us on the writ of certiorari to the California Court of Appeal. The Fourth Amendment permits brief investigative stops when an officer has a reasonable suspicion of criminal activity. Reasonable suspicion requires a particularized and objective basis for suspecting a particular person of criminal conduct. Our previous cases have recognized that under appropriate circumstances, anonymous tips can create reasonable suspicion. In this case, an anonymous 911 caller reported that a specific truck driving southbound on California Highway 1 had run the caller off the road. A California Highway Patrol officer located the truck, stopped it, and discovered 30 pounds of marijuana. Probably shouldn't carry around 30 pounds of marijuana. But Petitioners argued that there was no reasonable suspicion for the traffic stop. But the trial court denied Petitioners' motion to suppress, and California Court of Appeal affirmed. In that opinion, filed with the clerk today, we now affirm the judgment of the California Court of Appeal. We conclude that under the totality of circumstances in this case, the officer had reasonable suspicion that the driver of the truck was intoxicated. First, there were adequate reasons for an officer to believe the caller's account of being run off the road. The caller necessarily claimed eyewitness knowledge of the incident. The timeline of events suggested that the caller had little time to fabricate the report, and the caller used a 911 system which had several technological and regulatory features that deter false reports. The 911 call also created reasonable suspicion of drunk driving. Running another car off the road suggests the sort of impairment that characterizes drunk driving. That conduct bears too much resemblance to classic examples of drunk driving to be dismissed as an isolated recklessness. While there are other potential explanations for the reported behavior, we have consistently recognized that reasonable suspicion need not rule out innocent alternatives. For these reasons and others set forth in our opinion, we affirm the judgment of the California Court of Appeal. Justice Scalia has filed a dissenting opinion in which Justices Ginsburg, Sotomayor, and Kagan have joined."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Thomas has our opinion this morning in Case 12-9490, Navarette v. California."
+   ],
+   [
+    7.98,
+    "JUSTICE THOMAS",
+    "This case comes to us on the writ of certiorari to the California Court of Appeal. The Fourth Amendment permits brief investigative stops when an officer has a reasonable suspicion of criminal activity. Reasonable suspicion requires a particularized and objective basis for suspecting a particular person of criminal conduct. Our previous cases have recognized that under appropriate circumstances, anonymous tips can create reasonable suspicion. In this case, an anonymous 911 caller reported that a specific truck driving southbound on California Highway 1 had run the caller off the road. A California Highway Patrol officer located the truck, stopped it, and discovered 30 pounds of marijuana. Probably shouldn't carry around 30 pounds of marijuana. But Petitioners argued that there was no reasonable suspicion for the traffic stop. But the trial court denied Petitioners' motion to suppress, and California Court of Appeal affirmed. In that opinion, filed with the clerk today, we now affirm the judgment of the California Court of Appeal. We conclude that under the totality of circumstances in this case, the officer had reasonable suspicion that the driver of the truck was intoxicated. First, there were adequate reasons for an officer to believe the caller's account of being run off the road. The caller necessarily claimed eyewitness knowledge of the incident. The timeline of events suggested that the caller had little time to fabricate the report, and the caller used a 911 system which had several technological and regulatory features that deter false reports. The 911 call also created reasonable suspicion of drunk driving. Running another car off the road suggests the sort of impairment that characterizes drunk driving. That conduct bears too much resemblance to classic examples of drunk driving to be dismissed as an isolated recklessness. While there are other potential explanations for the reported behavior, we have consistently recognized that reasonable suspicion need not rule out innocent alternatives. For these reasons and others set forth in our opinion, we affirm the judgment of the California Court of Appeal. Justice Scalia has filed a dissenting opinion in which Justices Ginsburg, Sotomayor, and Kagan have joined."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Thomas has our opinion this morning in Case 12-9490, Navarette v. California."
+   ],
+   [
+    7.98,
+    "JUSTICE THOMAS",
+    "This case comes to us on the writ of certiorari to the California Court of Appeal."
+   ],
+   [
+    14.82,
+    "JUSTICE THOMAS",
+    "The Fourth Amendment permits brief investigative stops when an officer has a reasonable suspicion of criminal activity."
+   ],
+   [
+    25.94,
+    "JUSTICE THOMAS",
+    "Reasonable suspicion requires a particularized and objective basis for suspecting a particular person of criminal conduct."
+   ],
+   [
+    35.14,
+    "JUSTICE THOMAS",
+    "Our previous cases have recognized that under appropriate circumstances, anonymous tips can create reasonable suspicion."
+   ],
+   [
+    43.98,
+    "JUSTICE THOMAS",
+    "In this case, an anonymous 911 caller reported that a specific truck driving southbound on California Highway 1 had run the caller off the road."
+   ],
+   [
+    56.48,
+    "JUSTICE THOMAS",
+    "A California Highway Patrol officer located the truck, stopped it, and discovered 30 pounds of marijuana."
+   ],
+   [
+    64.98,
+    "JUSTICE THOMAS",
+    "Probably shouldn't carry around 30 pounds of marijuana."
+   ],
+   [
+    69.46,
+    "JUSTICE THOMAS",
+    "But Petitioners argued that there was no reasonable suspicion for the traffic stop."
+   ],
+   [
+    75.86,
+    "JUSTICE THOMAS",
+    "But the trial court denied Petitioners' motion to suppress, and California Court of Appeal affirmed."
+   ],
+   [
+    82.58,
+    "JUSTICE THOMAS",
+    "In that opinion, filed with the clerk today, we now affirm the judgment of the California Court of Appeal."
+   ],
+   [
+    89.22,
+    "JUSTICE THOMAS",
+    "We conclude that under the totality of circumstances in this case, the officer had reasonable suspicion that the driver of the truck was intoxicated."
+   ],
+   [
+    98.88,
+    "JUSTICE THOMAS",
+    "First, there were adequate reasons for an officer to believe the caller's account of being run off the road."
+   ],
+   [
+    104.92,
+    "JUSTICE THOMAS",
+    "The caller necessarily claimed eyewitness knowledge of the incident."
+   ],
+   [
+    108.88,
+    "JUSTICE THOMAS",
+    "The timeline of events suggested that the caller had little time to fabricate the report, and the caller used a 911 system which had several technological and regulatory features that deter false reports."
+   ],
+   [
+    124.0,
+    "JUSTICE THOMAS",
+    "The 911 call also created reasonable suspicion of drunk driving."
+   ],
+   [
+    129.72,
+    "JUSTICE THOMAS",
+    "Running another car off the road suggests the sort of impairment that characterizes drunk driving."
+   ],
+   [
+    135.08,
+    "JUSTICE THOMAS",
+    "That conduct bears too much resemblance to classic examples of drunk driving to be dismissed as an isolated recklessness."
+   ],
+   [
+    145.3,
+    "JUSTICE THOMAS",
+    "While there are other potential explanations for the reported behavior, we have consistently recognized that reasonable suspicion need not rule out innocent alternatives."
+   ],
+   [
+    156.26,
+    "JUSTICE THOMAS",
+    "For these reasons and others set forth in our opinion, we affirm the judgment of the California Court of Appeal."
+   ],
+   [
+    162.4,
+    "JUSTICE THOMAS",
+    "Justice Scalia has filed a dissenting opinion in which Justices Ginsburg, Sotomayor, and Kagan have joined."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.6,
+    13
+   ],
+   [
+    "JUSTICE THOMAS",
+    7.98,
+    170.22,
+    348
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "12-9490",
+ "year": "2013",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2013/12-9490",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/12-9490.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2013/12-9490_p8k0.pdf",
+ "model": "medium.en",
+ "duration": 3725.662041,
+ "asr_elapsed_s": 2682.4,
+ "asr_words": 11091,
+ "official_words": 11245,
+ "matched": 10625,
+ "shared": 7,
+ "clamped": 0,
+ "trimmed": 24,
+ "rewindowed": 2,
+ "match_rate": 94.48643841707425,
+ "turns": 291,
+ "laugh_markers": 6,
+ "mp3_bytes": 29805549,
+ "pauses": 406,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 374,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.49% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-23"
+}

@@ -1,0 +1,14 @@
+[
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 0.0,
+  "e": 6.6,
+  "text": "Justice Thomas has our opinion this morning in Case 12-9490, Navarette v. California."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 7.98,
+  "e": 170.22,
+  "text": "This case comes to us on the writ of certiorari to the California Court of Appeal. The Fourth Amendment permits brief investigative stops when an officer has a reasonable suspicion of criminal activity. Reasonable suspicion requires a particularized and objective basis for suspecting a particular person of criminal conduct. Our previous cases have recognized that under appropriate circumstances, anonymous tips can create reasonable suspicion. In this case, an anonymous 911 caller reported that a specific truck driving southbound on California Highway 1 had run the caller off the road. A California Highway Patrol officer located the truck, stopped it, and discovered 30 pounds of marijuana. Probably shouldn't carry around 30 pounds of marijuana. But Petitioners argued that there was no reasonable suspicion for the traffic stop. But the trial court denied Petitioners' motion to suppress, and California Court of Appeal affirmed. In that opinion, filed with the clerk today, we now affirm the judgment of the California Court of Appeal. We conclude that under the totality of circumstances in this case, the officer had reasonable suspicion that the driver of the truck was intoxicated. First, there were adequate reasons for an officer to believe the caller's account of being run off the road. The caller necessarily claimed eyewitness knowledge of the incident. The timeline of events suggested that the caller had little time to fabricate the report, and the caller used a 911 system which had several technological and regulatory features that deter false reports. The 911 call also created reasonable suspicion of drunk driving. Running another car off the road suggests the sort of impairment that characterizes drunk driving. That conduct bears too much resemblance to classic examples of drunk driving to be dismissed as an isolated recklessness. While there are other potential explanations for the reported behavior, we have consistently recognized that reasonable suspicion need not rule out innocent alternatives. For these reasons and others set forth in our opinion, we affirm the judgment of the California Court of Appeal. Justice Scalia has filed a dissenting opinion in which Justices Ginsburg, Sotomayor, and Kagan have joined."
+ }
+]
