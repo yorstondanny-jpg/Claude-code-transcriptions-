@@ -1,0 +1,955 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1971.21,
+   "next": 1971.47,
+   "speaker": "JUSTICE THOMAS",
+   "before": "is copyright. Yes. And I think that copyright's directly at issue in this case. The -- let's say that I'm both a Prince fan, which I was in the '80s, and --",
+   "pause": 0.26,
+   "loud_s": 0.0,
+   "mean_over": 10.2,
+   "peak_over": 11.8,
+   "size": "under speech"
+  },
+  {
+   "t": 1972.29,
+   "next": 1979.17,
+   "speaker": "JUSTICE KAGAN",
+   "before": "Yes. And I think that copyright's directly at issue in this case. The -- let's say that I'm both a Prince fan, which I was in the '80s, and -- No longer?",
+   "pause": 6.88,
+   "loud_s": 5.05,
+   "mean_over": 23.8,
+   "peak_over": 33.8,
+   "size": "big"
+  },
+  {
+   "t": 1980.01,
+   "next": 1980.01,
+   "speaker": "JUSTICE THOMAS",
+   "before": "And I think that copyright's directly at issue in this case. The -- let's say that I'm both a Prince fan, which I was in the '80s, and -- No longer? Well --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1984.25,
+   "next": 1986.05,
+   "speaker": "JUSTICE THOMAS",
+   "before": "directly at issue in this case. The -- let's say that I'm both a Prince fan, which I was in the '80s, and -- No longer? Well -- -- so only on Thursday nights.",
+   "pause": 1.8,
+   "loud_s": 1.65,
+   "mean_over": 26.7,
+   "peak_over": 31.9,
+   "size": "big"
+  },
+  {
+   "t": 2053.07,
+   "next": 2054.37,
+   "speaker": "JUSTICE THOMAS",
+   "before": "very unlikely if it was just one of you that -- that -- that anyone would see you. Oh, no, no. I -- I'm going to market it to all my Syracuse buddies.",
+   "pause": 1.3,
+   "loud_s": 1.15,
+   "mean_over": 26.6,
+   "peak_over": 33.3,
+   "size": "big"
+  },
+  {
+   "t": 2065.03,
+   "next": 2065.47,
+   "speaker": "JUSTICE THOMAS",
+   "before": "quite reasonably look at that and say that this is not the kind of -- of productive creativity promoting use that is -- is -- So, in other words, you would sue me?",
+   "pause": 0.44,
+   "loud_s": 0.3,
+   "mean_over": 31.2,
+   "peak_over": 33.1,
+   "size": "small"
+  },
+  {
+   "t": 2202.83,
+   "next": 2203.35,
+   "speaker": "JUSTICE SOTOMAYOR",
+   "before": "or message? Maybe. But I don't think that in that kind of hypothetical that that would win the day. Justice Sotomayor? I think my colleague, Justice Thomas, needs a lawyer.",
+   "pause": 0.52,
+   "loud_s": 0.0,
+   "mean_over": 0.5,
+   "peak_over": 3.1,
+   "size": "small"
+  },
+  {
+   "t": 2531.75,
+   "next": 2531.75,
+   "speaker": "MR. MARTINEZ",
+   "before": "meaning or message, but I would have to -- The movie? -- but I would probably have to learn more and read the books and see the movies to give you a --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3539.61,
+   "next": 3539.61,
+   "speaker": "MS. BLATT",
+   "before": "lithograph or any editing. I guarantee the air-brushed pictures of me look better than the real pictures of me, and they have a very different meaning and message to me.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3544.67,
+   "next": 3545.29,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "me, and they have a very different meaning and message to me. What do you think -- Well, I think that's not right. I mean, I think you would look at --",
+   "pause": 0.62,
+   "loud_s": 0.45,
+   "mean_over": 21.5,
+   "peak_over": 26.7,
+   "size": "medium"
+  },
+  {
+   "t": 3623.95,
+   "next": 3624.09,
+   "speaker": "MS. BLATT",
+   "before": "hypothetical. Everything he said about Warhol versus a Goldsmith is the same article you could have said about the audiences that want to watch \"Mork and Mindy\" versus \"Happy Days.\"",
+   "pause": 0.14,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 5499.59,
+   "next": 5499.59,
+   "speaker": "MS. DUBIN",
+   "before": "a yes or a no if I can get one out of you. Can I say to -- yes to part of your question and explain why? Is that 109 okay?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 5502.71,
+   "next": 5503.05,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "to -- yes to part of your question and explain why? Is that 109 okay? You -- you can do whatever you want. I was just hoping for a yes or no.",
+   "pause": 0.34,
+   "loud_s": 0.2,
+   "mean_over": 25.7,
+   "peak_over": 28.7,
+   "size": "small"
+  },
+  {
+   "t": 5685.17,
+   "next": 5685.17,
+   "speaker": "JUSTICE KAVANAUGH",
+   "before": "or you could say just essential, and I think that covers it. But I think the 113 best way to explain what the -- Okay. Those are going to be in --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 5707.83,
+   "next": 5708.73,
+   "speaker": "JUSTICE KAVANAUGH",
+   "before": "side wins? If you're going for the straightforward clarity of a one-word answer, I would say essential. The reason we use -- No, you can use multiple words. What's the formulation?",
+   "pause": 0.9,
+   "loud_s": 0.75,
+   "mean_over": 21.7,
+   "peak_over": 25.7,
+   "size": "medium"
+  },
+  {
+   "t": 5790.11,
+   "next": 5790.11,
+   "speaker": "JUSTICE BARRETT",
+   "before": "your considerations here is necessary or at least useful. That's how I would phrase it for your opinion. Very helpful, thank you. Justice Barrett? So you would leave out \"essential\"?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -45.8,
+ "opening_start": 10.2,
+ "opening": [
+  [
+   10.2,
+   "MR. MARTINEZ",
+   "Mr. Chief Justice, and may it please the Court: Both courts below agreed and Goldsmith doesn't dispute that Warhol's Prince Series can reasonably be perceived to convey a fundamentally different meaning or message from Goldsmith's photograph. The question in this case is whether that different meaning or message should play a role, any role, in the fair use analysis. Our answer is yes. Warhol's transformative meaning puts points on the board under Factor 1 of the four-factor balancing test. Goldsmith and the Second Circuit say no. Warhol's new meaning is categorically irrelevant and can't be considered as part of Factor 1 or any other factor. I want to emphasize three points. First, the precedent supports us. Campbell unambiguously requires an examination of meaning or message. Google reaffirms that test and cites Warhol's Soup Cans as a paradigmatic example of when it's satisfied. Goldsmith's test is at odds with both cases. Second, our approach, unlike Goldsmith's, maintains a balance between protecting artists' rights to monetize their works and encouraging new and important follow-on expression. We give follow-on artists credit for innovation at Factor 1 while recognizing that Factor 4 and the other factors will sometimes cut decisively the other way. Goldsmith's necessity test, by contrast, upends that balance. It banishes transformative meaning from the equation altogether, and by doing so, it violates 107's text, contradicts precedent, and undermines copyright's key goal, promoting creativity for the public good. Finally, the stakes for artistic expression in this case are high. A ruling for Goldsmith would strip protection not just from this Prince Series but from countless works of modern and contemporary art. It would make it illegal for artists, museums, galleries, and collectors to display, sell, profit from, maybe even possess a significant quantity of works. It would also chill the creation of new art by established and up-and-coming artists alike. These results are repugnant to copyright and to the First Amendment. You should reject them. We ask you to reaffirm Campbell and reverse the decision below."
+  ],
+  [
+   143.48,
+   "JUSTICE THOMAS",
+   "Could you give us an example of any follow-on work that fails your test?"
+  ],
+  [
+   149.78,
+   "MR. MARTINEZ",
+   "Sure. I think a classic example would be a -- a book-to-movie adaptation. I think that would be a follow-on work. It would be a derivative work. I think, if you -- if someone were to, you know, try to do that, I think that the -- the original creator, the author of the book, could very easily assert that that was not fair use and would have a -- a winning case under Factor 4 and probably also under Factor 1. And, certainly, that would be a -- a kind of classic example of a follow-on work that would not count."
+  ],
+  [
+   178.12,
+   "JUSTICE SOTOMAYOR",
+   "Why? I mean, derivative works are generally in a different medium, and almost all of them, even a dramatization on -- on theater or even"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2022/21-869",
+  "page_url": "https://www.oyez.org/cases/2022/21-869",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 18, 2023",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/25517",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2022/21-869/21-869_20230518-opinion.delivery.mp3",
+  "duration": 656.64,
+  "mp3_bytes": 13162496,
+  "asr_elapsed_s": 268.8,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   1290,
+   1365,
+   1370
+  ],
+  "diffs": [
+   [
+    2.94,
+    "201869,",
+    "21-869, Andy Warhol Foundation v. Goldsmith. Justice Sotomayor has the opinion of the Court today in 21-869,"
+   ],
+   [
+    37.78,
+    "is",
+    "was"
+   ],
+   [
+    61.88,
+    "Patty",
+    "Patti"
+   ],
+   [
+    74.94,
+    "artist's",
+    "artist"
+   ],
+   [
+    81.84,
+    "they used",
+    "the use"
+   ],
+   [
+    101.6,
+    "prints",
+    "Prince"
+   ],
+   [
+    136.16,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    137.52,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    147.66,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    152.0,
+    "A",
+    "It"
+   ],
+   [
+    152.88,
+    "Warhol's",
+    "Warhol"
+   ],
+   [
+    153.98,
+    "and",
+    "in"
+   ],
+   [
+    163.24,
+    "prints.",
+    "Prince."
+   ],
+   [
+    166.8,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    171.48,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    173.84,
+    "prints",
+    "Prince"
+   ],
+   [
+    189.84,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    194.0,
+    "recognized",
+    "recognize"
+   ],
+   [
+    198.32,
+    "prints,",
+    "prince,"
+   ],
+   [
+    201.46,
+    "the",
+    "to"
+   ],
+   [
+    203.52,
+    "does",
+    "is"
+   ],
+   [
+    204.08,
+    "alter it.",
+    "altered."
+   ],
+   [
+    233.56,
+    "uses",
+    "use is"
+   ],
+   [
+    235.6,
+    "close quote. Ways",
+    "weighs"
+   ],
+   [
+    238.22,
+    "Warhol",
+    "Warhol's"
+   ],
+   [
+    241.66,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    272.42,
+    "supplanting",
+    "some planting"
+   ],
+   [
+    275.0,
+    "adds",
+    "add"
+   ],
+   [
+    287.14,
+    "comping",
+    "copying"
+   ],
+   [
+    295.4,
+    "asks",
+    "asked"
+   ],
+   [
+    352.24,
+    "therefore,",
+    "there for"
+   ],
+   [
+    375.18,
+    "It",
+    ""
+   ],
+   [
+    383.2,
+    "copyright at",
+    "copyrighted"
+   ],
+   [
+    400.62,
+    "prints",
+    "Prince"
+   ],
+   [
+    401.36,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    410.48,
+    "print",
+    "Prince"
+   ],
+   [
+    420.02,
+    "prints",
+    "Prince"
+   ],
+   [
+    420.84,
+    "Conde",
+    "Cond\ufffd"
+   ],
+   [
+    422.64,
+    "share,",
+    ""
+   ],
+   [
+    429.46,
+    "prints",
+    "Prince"
+   ],
+   [
+    431.22,
+    "prints",
+    "Prince"
+   ],
+   [
+    433.56,
+    "prints.",
+    "Prince."
+   ],
+   [
+    455.04,
+    "is",
+    "weighs"
+   ],
+   [
+    497.28,
+    "A. Cuffe Rose",
+    "Acuff-Rose"
+   ],
+   [
+    502.94,
+    "Two",
+    "2"
+   ],
+   [
+    505.94,
+    "Orbison's",
+    "Orbison"
+   ],
+   [
+    509.28,
+    "Two",
+    "2"
+   ],
+   [
+    529.6,
+    "",
+    "for"
+   ],
+   [
+    534.62,
+    "Two",
+    "2"
+   ],
+   [
+    599.26,
+    "Rain",
+    "Reign"
+   ],
+   [
+    610.8,
+    "Alice's",
+    "Alice"
+   ],
+   [
+    635.52,
+    "uses",
+    "use is"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 1365,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Sotomayor has the"
+   ],
+   [
+    1.7,
+    "JUSTICE SOTOMAYOR",
+    "opinion of the court today in 201869, Andy Warhol Foundation v. Goldsmith. This copyright case involves not one but two artists. The first, Andy Warhol, is well known. Warhol's images of products like Campbell's soup cans and celebrities like Marilyn Monroe appear in museums around the world, at least to people close to my age. The second, Lynn Goldsmith, is less well known, but she too is successful in her field. Goldsmith is a professional photographer. She specializes in concert and portrait photography of rock and roll musicians, and she commonly licenses her photographs to magazines and other publications. Goldsmith has captured some of the 20th century's greatest rock stars, Bob Dylan, Mick Jagger, Patty Smith, Bruce Springsteen, and as relevant here, Prince. In 1984, Vanity Fair sought to license one of Goldsmith's copyright photographs of Prince to use as an artist's reference for an illustration in its magazine. Goldsmith agreed on the condition that they used be for one time only. Vanity Fair hired Andy Warhol as the artist to create the illustration. Warhol made a purple silk screen portrait of Prince using Goldsmith's photography, and Vanity Fair published the purple prints alongside an article about Prince. Vanity Fair credited Smith for the source photograph and paid her $400. Warhol, however, did not stop with the Vanity Fair illustration. He derived 15 additional works from Goldsmith's photograph, now known as the Prince Series. Goldsmith did not know about the Prince Series until decades later, when she saw an orange silk screen portrait of Prince on the cover of a magazine published by Conde Nast. Conde Nast's parent company is Vanity Fair. The year was 2016 and Prince had just died. Conde Nast wanted to publish a special tribute to the musician. A contacted Warhol's successor and interest, the Andy Warhol Foundation for the Visual Arts Inc., about the possibility of reusing Vanity Fair's purple prints. After the foundation informed Conde Nast about the other Prince Series images, however, Conde Nast opted to use orange prints instead. It paid the Warhol Foundation $10,000 to do so."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Sotomayor has the"
+   ],
+   [
+    1.7,
+    "JUSTICE SOTOMAYOR",
+    "opinion of the court today in 201869, Andy Warhol Foundation v. Goldsmith. This copyright case involves not one but two artists. The first, Andy Warhol, is well known. Warhol's images of products like Campbell's soup cans and celebrities like Marilyn Monroe appear in museums around the world, at least to people close to my age. The second, Lynn Goldsmith, is less well known, but she too is successful in her field. Goldsmith is a professional photographer. She specializes in concert and portrait photography of rock and roll musicians, and she commonly licenses her photographs to magazines and other publications. Goldsmith has captured some of the 20th century's greatest rock stars, Bob Dylan, Mick Jagger, Patty Smith, Bruce Springsteen, and as relevant here, Prince. In 1984, Vanity Fair sought to license one of Goldsmith's copyright photographs of Prince to use as an artist's reference for an illustration in its magazine. Goldsmith agreed on the condition that they used be for one time only. Vanity Fair hired Andy Warhol as the artist to create the illustration. Warhol made a purple silk screen portrait of Prince using Goldsmith's photography, and Vanity Fair published the purple prints alongside an article about Prince. Vanity Fair credited Smith for the source photograph and paid her $400. Warhol, however, did not stop with the Vanity Fair illustration. He derived 15 additional works from Goldsmith's photograph, now known as the Prince Series. Goldsmith did not know about the Prince Series until decades later, when she saw an orange silk screen portrait of Prince on the cover of a magazine published by Conde Nast. Conde Nast's parent company is Vanity Fair. The year was 2016 and Prince had just died. Conde Nast wanted to publish a special tribute to the musician. A contacted Warhol's successor and interest, the Andy Warhol Foundation for the Visual Arts Inc., about the possibility of reusing Vanity Fair's purple prints. After the foundation informed Conde Nast about the other Prince Series images, however, Conde Nast opted to use orange prints instead. It paid the Warhol Foundation $10,000 to do so. This time around, Goldsmith got nothing. Not a small share of that sum, not even a source credit. When she saw the cover of Conde Nast's special edition magazine, Goldsmith instantly recognized her photography. Orange prints like purple prints, crops, flattens, and colors the photograph, but otherwise does not alter it. Goldsmith notified the Warhol Foundation of her belief that it had infringed her copyright. The foundation then sued her for a declaratory judgment of non-infringement or in the alternative of fair use. The sole question in this court is whether the first of four statutory fair use factors quote, the purpose and character of the use, including whether such uses of a commercial nature, close quote. Ways in favor of the Warhol Foundation's recent commercial licensing to Conde Nast. On that narrow question and limited to that challenged use, the court agrees with the court below the Court of Appeals for the Second Circuit. The first factor favors Goldsmith, not the foundation. This court has previously defined the central question of the first factor to be quote, whether the new work merely supersedes the objects of the original creation, supplanting the original, or instead adds something new, with a further purpose or different character. A use that has a further purpose or different character is said to be transformative, but because most comping has some further purpose and many secondary works add something new, the first factor instead asks whether and to what extent the use at issue has a purpose or character distinct from the original. In other words, transformative is a matter of degree. This is important because the word transform, though not in the first fair use factor, appears elsewhere in the Copyright Act. The Act defines derivative works, which the copyright owner has the exclusive right to prepare, to include any other form in which a work may be, and I'm quoting, recast, transformed, or adapted. That is, the owner has a right to derivative transformation of her work. Such transformations may be substantial, like the adaptation of a book into a movie. The copyright statute and this court's cases illustrate two other points, therefore, about the first factor. First, the commercial nature of the use is relevant, though not dispositive. Second, the first factor considers the justification for the use. A secondary user must have a compelling reason to copy an original work, not merely to make it better. It must be doing something different. Turning to this case, fair use requires an analysis of the specific use of a copyright at work alleged to be infringing. Here, Goldsmith's photography has been used in multiple ways, but the only use that is alleged to be infringing is the Warhol Foundation's recent commercial licensing of orange prints to Conde Nast. Therefore, the court expresses no opinion as to the creation, display, or sale of any of the original print series' works. Goldsmith's original photography and the Warhol Foundation's use of that photograph in licensing orange prints to Conde Nast's share, the two share substantially the same purpose. Both are portraits of prints that have been used to depict prints in magazine stories about prints. Moreover, the Foundation's use of Goldsmith's photograph is of a commercial nature. Taken together, these two elements counsel against fair use, absent some other justification for copying. The Warhol Foundation argues that the purpose and character of its use of Goldsmith's photograph is in favor of fair use, because Warhol's image has a new meaning or message. Although new expression meaning or message, as reasonably can be perceived, may be relevant to whether a use has a sufficiently distinct purpose and character, it is not more, it is not, without more, dispositive of the first factor. That factor entails an objective inquiry into what use was made, what the user does with the original work, not into the subjective intent of the user or the subjective interpretation of a court. This court's decision in Campbell v. A. Cuffe Rose Music is instructive. In that case, a group named Two Live Crew created a rap version of Roy Orbison's song, Oh Pretty Woman. Two Live Crew's version of that song was created, and it involved substantial effort. It also transformed the original by adding new lyrics and music, in other words, new messages and aesthetics. But that was not enough for the first factor to weigh in favor of fair use. The court found it necessary to determine whether Two Live Crew's transformation rose to the level of parity, a fundamentally distinct purpose of commenting on the original or criticizing it. Moreover, parity, the court explained, must be able to conjure up the original, and so has a claim to fairness in borrowing from it. The Warhol Foundation does not have a similar claim to fairness in borrowing from Goldsmith's photograph. Copying might have been helpful to convey a different message. It often is, but that is not justification enough. Nor does it distinguish the foundation from a long list of would-be users, like a musician who finds it helpful to sample another artist's song to make his own, or a filmmaker or playwright who finds it helpful to adapt a novel rather than start from scratch. The fair factor would not favor a commercial remix of Prince's Purple Rain just because the remix added new expression or had a different aesthetic. A film or musical adaptation, like that of Alice's Walker's The Color Purple, might be highly creative, alter the meaning of a classic novel, and add something new and important. But that does not dispense with the need for licensing. For these and other reasons set forth in today's opinion, the court decides that the first factor, the purpose and character of the use, including whether such uses of a commercial nature favors Goldsmith. The judgment of the Court of Appeals for the Second Circuit is affirmed. Justice Gorsuch has filed a concurring opinion in which Justice Jackson joins. Justice Kagan has filed a dissenting opinion in which the Chief Justice joins."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Sotomayor has the opinion of the court today in 201869, Andy Warhol Foundation v. Goldsmith."
+   ],
+   [
+    12.26,
+    "JUSTICE SOTOMAYOR",
+    "This copyright case involves not one but two artists."
+   ],
+   [
+    17.94,
+    "JUSTICE SOTOMAYOR",
+    "The first, Andy Warhol, is well known."
+   ],
+   [
+    21.44,
+    "JUSTICE SOTOMAYOR",
+    "Warhol's images of products like Campbell's soup cans and celebrities like Marilyn Monroe appear in museums around the world, at least to people close to my age."
+   ],
+   [
+    33.12,
+    "JUSTICE SOTOMAYOR",
+    "The second, Lynn Goldsmith, is less well known, but she too is successful in her field."
+   ],
+   [
+    40.24,
+    "JUSTICE SOTOMAYOR",
+    "Goldsmith is a professional photographer."
+   ],
+   [
+    42.9,
+    "JUSTICE SOTOMAYOR",
+    "She specializes in concert and portrait photography of rock and roll musicians, and she commonly licenses her photographs to magazines and other publications."
+   ],
+   [
+    54.66,
+    "JUSTICE SOTOMAYOR",
+    "Goldsmith has captured some of the 20th century's greatest rock stars, Bob Dylan, Mick Jagger, Patty Smith, Bruce Springsteen, and as relevant here, Prince."
+   ],
+   [
+    67.16,
+    "JUSTICE SOTOMAYOR",
+    "In 1984, Vanity Fair sought to license one of Goldsmith's copyright photographs of Prince to use as an artist's reference for an illustration in its magazine."
+   ],
+   [
+    78.44,
+    "JUSTICE SOTOMAYOR",
+    "Goldsmith agreed on the condition that they used be for one time only."
+   ],
+   [
+    85.4,
+    "JUSTICE SOTOMAYOR",
+    "Vanity Fair hired Andy Warhol as the artist to create the illustration."
+   ],
+   [
+    91.28,
+    "JUSTICE SOTOMAYOR",
+    "Warhol made a purple silk screen portrait of Prince using Goldsmith's photography, and Vanity Fair published the purple prints alongside an article about Prince."
+   ],
+   [
+    105.32,
+    "JUSTICE SOTOMAYOR",
+    "Vanity Fair credited Smith for the source photograph and paid her $400."
+   ],
+   [
+    111.44,
+    "JUSTICE SOTOMAYOR",
+    "Warhol, however, did not stop with the Vanity Fair illustration."
+   ],
+   [
+    116.92,
+    "JUSTICE SOTOMAYOR",
+    "He derived 15 additional works from Goldsmith's photograph, now known as the Prince Series."
+   ],
+   [
+    124.92,
+    "JUSTICE SOTOMAYOR",
+    "Goldsmith did not know about the Prince Series until decades later, when she saw an orange silk screen portrait of Prince on the cover of a magazine published by Conde Nast."
+   ],
+   [
+    137.52,
+    "JUSTICE SOTOMAYOR",
+    "Conde Nast's parent company is Vanity Fair."
+   ],
+   [
+    143.1,
+    "JUSTICE SOTOMAYOR",
+    "The year was 2016 and Prince had just died."
+   ],
+   [
+    147.66,
+    "JUSTICE SOTOMAYOR",
+    "Conde Nast wanted to publish a special tribute to the musician."
+   ],
+   [
+    152.0,
+    "JUSTICE SOTOMAYOR",
+    "A contacted Warhol's successor and interest, the Andy Warhol Foundation for the Visual Arts Inc., about the possibility of reusing Vanity Fair's purple prints."
+   ],
+   [
+    164.92,
+    "JUSTICE SOTOMAYOR",
+    "After the foundation informed Conde Nast about the other Prince Series images, however, Conde Nast opted to use orange prints instead."
+   ],
+   [
+    175.7,
+    "JUSTICE SOTOMAYOR",
+    "It paid the Warhol Foundation $10,000 to do so."
+   ],
+   [
+    180.26,
+    "JUSTICE SOTOMAYOR",
+    "This time around, Goldsmith got nothing."
+   ],
+   [
+    183.06,
+    "JUSTICE SOTOMAYOR",
+    "Not a small share of that sum, not even a source credit."
+   ],
+   [
+    188.34,
+    "JUSTICE SOTOMAYOR",
+    "When she saw the cover of Conde Nast's special edition magazine, Goldsmith instantly recognized her photography."
+   ],
+   [
+    196.88,
+    "JUSTICE SOTOMAYOR",
+    "Orange prints like purple prints, crops, flattens, and colors the photograph, but otherwise does not alter it."
+   ],
+   [
+    205.9,
+    "JUSTICE SOTOMAYOR",
+    "Goldsmith notified the Warhol Foundation of her belief that it had infringed her copyright."
+   ],
+   [
+    211.36,
+    "JUSTICE SOTOMAYOR",
+    "The foundation then sued her for a declaratory judgment of non-infringement or in the alternative of fair use."
+   ],
+   [
+    222.54,
+    "JUSTICE SOTOMAYOR",
+    "The sole question in this court is whether the first of four statutory fair use factors quote, the purpose and character of the use, including whether such uses of a commercial nature, close quote."
+   ],
+   [
+    236.26,
+    "JUSTICE SOTOMAYOR",
+    "Ways in favor of the Warhol Foundation's recent commercial licensing to Conde Nast."
+   ],
+   [
+    243.18,
+    "JUSTICE SOTOMAYOR",
+    "On that narrow question and limited to that challenged use, the court agrees with the court below the Court of Appeals for the Second Circuit."
+   ],
+   [
+    253.4,
+    "JUSTICE SOTOMAYOR",
+    "The first factor favors Goldsmith, not the foundation."
+   ],
+   [
+    259.14,
+    "JUSTICE SOTOMAYOR",
+    "This court has previously defined the central question of the first factor to be quote, whether the new work merely supersedes the objects of the original creation, supplanting the original, or instead adds something new, with a further purpose or different character."
+   ],
+   [
+    280.02,
+    "JUSTICE SOTOMAYOR",
+    "A use that has a further purpose or different character is said to be transformative, but because most comping has some further purpose and many secondary works add something new, the first factor instead asks whether and to what extent the use at issue has a purpose or character distinct from the original."
+   ],
+   [
+    304.94,
+    "JUSTICE SOTOMAYOR",
+    "In other words, transformative is a matter of degree."
+   ],
+   [
+    309.36,
+    "JUSTICE SOTOMAYOR",
+    "This is important because the word transform, though not in the first fair use factor, appears elsewhere in the Copyright Act."
+   ],
+   [
+    319.02,
+    "JUSTICE SOTOMAYOR",
+    "The Act defines derivative works, which the copyright owner has the exclusive right to prepare, to include any other form in which a work may be, and I'm quoting, recast, transformed, or adapted."
+   ],
+   [
+    334.84,
+    "JUSTICE SOTOMAYOR",
+    "That is, the owner has a right to derivative transformation of her work."
+   ],
+   [
+    340.48,
+    "JUSTICE SOTOMAYOR",
+    "Such transformations may be substantial, like the adaptation of a book into a movie."
+   ],
+   [
+    346.92,
+    "JUSTICE SOTOMAYOR",
+    "The copyright statute and this court's cases illustrate two other points, therefore, about the first factor."
+   ],
+   [
+    355.2,
+    "JUSTICE SOTOMAYOR",
+    "First, the commercial nature of the use is relevant, though not dispositive."
+   ],
+   [
+    362.28,
+    "JUSTICE SOTOMAYOR",
+    "Second, the first factor considers the justification for the use."
+   ],
+   [
+    367.32,
+    "JUSTICE SOTOMAYOR",
+    "A secondary user must have a compelling reason to copy an original work, not merely to make it better."
+   ],
+   [
+    375.18,
+    "JUSTICE SOTOMAYOR",
+    "It must be doing something different."
+   ],
+   [
+    377.74,
+    "JUSTICE SOTOMAYOR",
+    "Turning to this case, fair use requires an analysis of the specific use of a copyright at work alleged to be infringing."
+   ],
+   [
+    386.94,
+    "JUSTICE SOTOMAYOR",
+    "Here, Goldsmith's photography has been used in multiple ways, but the only use that is alleged to be infringing is the Warhol Foundation's recent commercial licensing of orange prints to Conde Nast."
+   ],
+   [
+    403.06,
+    "JUSTICE SOTOMAYOR",
+    "Therefore, the court expresses no opinion as to the creation, display, or sale of any of the original print series' works."
+   ],
+   [
+    413.44,
+    "JUSTICE SOTOMAYOR",
+    "Goldsmith's original photography and the Warhol Foundation's use of that photograph in licensing orange prints to Conde Nast's share, the two share substantially the same purpose."
+   ],
+   [
+    428.1,
+    "JUSTICE SOTOMAYOR",
+    "Both are portraits of prints that have been used to depict prints in magazine stories about prints."
+   ],
+   [
+    434.7,
+    "JUSTICE SOTOMAYOR",
+    "Moreover, the Foundation's use of Goldsmith's photograph is of a commercial nature."
+   ],
+   [
+    440.64,
+    "JUSTICE SOTOMAYOR",
+    "Taken together, these two elements counsel against fair use, absent some other justification for copying."
+   ],
+   [
+    448.98,
+    "JUSTICE SOTOMAYOR",
+    "The Warhol Foundation argues that the purpose and character of its use of Goldsmith's photograph is in favor of fair use, because Warhol's image has a new meaning or message."
+   ],
+   [
+    462.2,
+    "JUSTICE SOTOMAYOR",
+    "Although new expression meaning or message, as reasonably can be perceived, may be relevant to whether a use has a sufficiently distinct purpose and character, it is not more, it is not, without more, dispositive of the first factor."
+   ],
+   [
+    478.58,
+    "JUSTICE SOTOMAYOR",
+    "That factor entails an objective inquiry into what use was made, what the user does with the original work, not into the subjective intent of the user or the subjective interpretation of a court."
+   ],
+   [
+    494.4,
+    "JUSTICE SOTOMAYOR",
+    "This court's decision in Campbell v. A."
+   ],
+   [
+    497.46,
+    "JUSTICE SOTOMAYOR",
+    "Cuffe Rose Music is instructive."
+   ],
+   [
+    500.58,
+    "JUSTICE SOTOMAYOR",
+    "In that case, a group named Two Live Crew created a rap version of Roy Orbison's song, Oh Pretty Woman."
+   ],
+   [
+    509.28,
+    "JUSTICE SOTOMAYOR",
+    "Two Live Crew's version of that song was created, and it involved substantial effort."
+   ],
+   [
+    516.46,
+    "JUSTICE SOTOMAYOR",
+    "It also transformed the original by adding new lyrics and music, in other words, new messages and aesthetics."
+   ],
+   [
+    525.52,
+    "JUSTICE SOTOMAYOR",
+    "But that was not enough for the first factor to weigh in favor of fair use."
+   ],
+   [
+    531.26,
+    "JUSTICE SOTOMAYOR",
+    "The court found it necessary to determine whether Two Live Crew's transformation rose to the level of parity, a fundamentally distinct purpose of commenting on the original or criticizing it."
+   ],
+   [
+    546.62,
+    "JUSTICE SOTOMAYOR",
+    "Moreover, parity, the court explained, must be able to conjure up the original, and so has a claim to fairness in borrowing from it."
+   ],
+   [
+    558.8,
+    "JUSTICE SOTOMAYOR",
+    "The Warhol Foundation does not have a similar claim to fairness in borrowing from Goldsmith's photograph."
+   ],
+   [
+    566.28,
+    "JUSTICE SOTOMAYOR",
+    "Copying might have been helpful to convey a different message."
+   ],
+   [
+    569.98,
+    "JUSTICE SOTOMAYOR",
+    "It often is, but that is not justification enough."
+   ],
+   [
+    574.38,
+    "JUSTICE SOTOMAYOR",
+    "Nor does it distinguish the foundation from a long list of would-be users, like a musician who finds it helpful to sample another artist's song to make his own, or a filmmaker or playwright who finds it helpful to adapt a novel rather than start from scratch."
+   ],
+   [
+    594.3,
+    "JUSTICE SOTOMAYOR",
+    "The fair factor would not favor a commercial remix of Prince's Purple Rain just because the remix added new expression or had a different aesthetic."
+   ],
+   [
+    605.42,
+    "JUSTICE SOTOMAYOR",
+    "A film or musical adaptation, like that of Alice's Walker's The Color Purple, might be highly creative, alter the meaning of a classic novel, and add something new and important."
+   ],
+   [
+    621.36,
+    "JUSTICE SOTOMAYOR",
+    "But that does not dispense with the need for licensing."
+   ],
+   [
+    625.34,
+    "JUSTICE SOTOMAYOR",
+    "For these and other reasons set forth in today's opinion, the court decides that the first factor, the purpose and character of the use, including whether such uses of a commercial nature favors Goldsmith."
+   ],
+   [
+    639.58,
+    "JUSTICE SOTOMAYOR",
+    "The judgment of the Court of Appeals for the Second Circuit is affirmed."
+   ],
+   [
+    644.0,
+    "JUSTICE SOTOMAYOR",
+    "Justice Gorsuch has filed a concurring opinion in which Justice Jackson joins."
+   ],
+   [
+    649.66,
+    "JUSTICE SOTOMAYOR",
+    "Justice Kagan has filed a dissenting opinion in which the Chief Justice joins."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    1.7,
+    4
+   ],
+   [
+    "JUSTICE SOTOMAYOR",
+    1.7,
+    655.0,
+    1358
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "21-869",
+ "year": "2022",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2022/21-869",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/21-869.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2022/21-869_986b.pdf",
+ "model": "small.en",
+ "duration": 6149.064,
+ "asr_elapsed_s": 3817.7,
+ "asr_words": 18966,
+ "official_words": 19768,
+ "matched": 18442,
+ "shared": 5,
+ "clamped": 0,
+ "trimmed": 24,
+ "rewindowed": 0,
+ "match_rate": 93.29218939700526,
+ "turns": 391,
+ "laugh_markers": 16,
+ "mp3_bytes": 49192749,
+ "pauses": 764,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": [
+    [
+     "117",
+     5830.67,
+     5833.87
+    ]
+   ]
+  },
+  "short_words": 813,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.29% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-24"
+}

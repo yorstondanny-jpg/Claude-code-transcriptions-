@@ -1,0 +1,241 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1860.16,
+   "next": 1860.16,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "somebody might see something on the internet would not satisfy any proximate cause standard. Well, but, I mean, let's say it's, you know, an influencer, what -- whatever that is, but --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2167.24,
+   "next": 2169.94,
+   "speaker": "JUSTICE ALITO",
+   "before": "U.S., we don't think the proximate cause link to the confusion in the United States would be happening. Well, what if they bought 50 and they didn't speak any German --",
+   "pause": 2.7,
+   "loud_s": 1.15,
+   "mean_over": 21.6,
+   "peak_over": 34.1,
+   "size": "big"
+  },
+  {
+   "t": 2965.4,
+   "next": 2967.0,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "outcome. Yes. It's just, instead of asking kind of a metaphysical question about a statutory -- a statute's focus, which seems to me to kind of call for a legislative s\u00e9ance --",
+   "pause": 1.6,
+   "loud_s": 0.85,
+   "mean_over": 24.8,
+   "peak_over": 33.7,
+   "size": "medium"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -44.2,
+ "opening_start": 14.54,
+ "opening": [
+  [
+   14.54,
+   "MR. WALKER",
+   "Mr. Chief Justice, and may it please the Court: The Lanham Act does not apply to Petitioners' use of trademarks in foreign countries because nothing in the Act provides the clear, affirmative, and unmistakable indication needed to overcome the presumption against extraterritoriality, especially as to foreign defendants, like Petitioners. The text of the statute never says it applies to uses of trademarks outside the United States. And it is a foundational principle of both U.S. and international trademark law, embodied in multiple treaties, that trademark protections are inherently territorial and do not extend beyond the borders of the country granting protection. Any argument that the Act extends -- departs from that longstanding principle would have to be based on especially compelling evidence. But, here, Hetronic International offers only the text definition of commerce, and this Court has repeatedly rejected the notion that commerce language is enough to extend the law to foreign conduct, even if that language otherwise invokes the full scope of a constitutional commerce power. International also invokes this Court's decision in Steele. But Steele, by its terms, addressed only the Act's application to U.S. citizens acting abroad. There is no reason to discard that self-imposed limit and extend Steele to reach foreign defendants like Petitioners. To the contrary, extending the Lanham Act's reach into foreign countries would create the very risk of international friction that this Court's current extraterritoriality doctrine seeks to avoid. That leads to the suggestion that imposing liability for foreign sales to foreign buyers by foreign companies somehow qualifies as a domestic application of the Act. But, as International itself concedes, applying U.S. law to conduct abroad based on effects in the United States is an extraterritorial application of the law. It is not a way of applying a nonextraterritorial law domestically. Both the text and the focus of the Lanham Act require a domestic use of the mark in commerce. Because Petitioners' foreign sales involve only uses outside the United States, they fall outside the Act's scope. I welcome the Court's questions."
+  ],
+  [
+   145.66,
+   "JUSTICE THOMAS",
+   "Could you imagine any set of circumstances where a sale that involves an international transaction could also involve conduct in the United States that violates the Lanham Act?"
+  ],
+  [
+   157.88,
+   "MR. WALKER",
+   "So I think one example here would be the -- the 202,000 euros worth of direct sales to U.S. customers. So those sales involved foreign buyers, the Petitioners, who were overseas at the time, but they were sold into the United States to foreign buyers. And I think, in that situation, the mark is being used on those goods in commerce within the territory of the United States. And so we have not disputed that that's permissible domestic application of the Lanham Act here."
+  ],
+  [
+   187.028,
+   "JUSTICE SOTOMAYOR",
+   "I don't understand what that difference is from the sales to people in foreign countries who designated the United States"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2022/21-1043",
+  "page_url": "https://www.oyez.org/cases/2022/21-1043",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 29, 2023",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/25519",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2022/21-1043/21-1043_20230629-opinion.delivery.mp3",
+  "duration": 63.576,
+  "mp3_bytes": 1301216,
+  "asr_elapsed_s": 21.2,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   121,
+   127,
+   128
+  ],
+  "diffs": [
+   [
+    9.92,
+    "Abatron versus",
+    "Abitron v."
+   ],
+   [
+    16.82,
+    "Lanamack",
+    "Lanham Act"
+   ],
+   [
+    40.2,
+    "10th",
+    "Tenth"
+   ],
+   [
+    47.68,
+    "remain",
+    "remand"
+   ],
+   [
+    51.68,
+    "a",
+    "the"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 127,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the court in two cases this morning. The first is"
+   ],
+   [
+    9.92,
+    "JUSTICE ALITO",
+    "Abatron versus Hetronic. Sections 32 and 43 of the Lanamack prohibit the unauthorized use in commerce of protected trademarks when the use is likely to cause confusion. After a trial, a company called Hetronic International received a large damages award on claims that five foreign entities infringed its trademark rights both domestically and globally. We granted certiorari to review the 10th Circuit's affirmance and based on the presumption against extraterritoriality, we now vacate the judgment and remain the case for further proceedings. Justice Jackson has filed a concurring opinion. Justice Sotomayor has filed an opinion concurring in the judgment which is joined by the Chief Justice, Justice Kagan and Justice Barrett."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the court in two cases this morning. The first is"
+   ],
+   [
+    9.92,
+    "JUSTICE ALITO",
+    "Abatron versus Hetronic. Sections 32 and 43 of the Lanamack prohibit the unauthorized use in commerce of protected trademarks when the use is likely to cause confusion. After a trial, a company called Hetronic International received a large damages award on claims that five foreign entities infringed its trademark rights both domestically and globally. We granted certiorari to review the 10th Circuit's affirmance and based on the presumption against extraterritoriality, we now vacate the judgment and remain the case for further proceedings. Justice Jackson has filed a concurring opinion. Justice Sotomayor has filed an opinion concurring in the judgment which is joined by the Chief Justice, Justice Kagan and Justice Barrett."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the court in two cases this morning."
+   ],
+   [
+    8.6,
+    "CHIEF JUSTICE ROBERTS",
+    "The first is Abatron versus Hetronic."
+   ],
+   [
+    13.56,
+    "JUSTICE ALITO",
+    "Sections 32 and 43 of the Lanamack prohibit the unauthorized use in commerce of protected trademarks when the use is likely to cause confusion."
+   ],
+   [
+    24.98,
+    "JUSTICE ALITO",
+    "After a trial, a company called Hetronic International received a large damages award on claims that five foreign entities infringed its trademark rights both domestically and globally."
+   ],
+   [
+    37.72,
+    "JUSTICE ALITO",
+    "We granted certiorari to review the 10th Circuit's affirmance and based on the presumption against extraterritoriality, we now vacate the judgment and remain the case for further proceedings."
+   ],
+   [
+    49.76,
+    "JUSTICE ALITO",
+    "Justice Jackson has filed a concurring opinion."
+   ],
+   [
+    53.0,
+    "JUSTICE ALITO",
+    "Justice Sotomayor has filed an opinion concurring in the judgment which is joined by the Chief Justice, Justice Kagan and Justice Barrett."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    9.92,
+    16
+   ],
+   [
+    "JUSTICE ALITO",
+    9.92,
+    62.44,
+    111
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "21-1043",
+ "year": "2022",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2022/21-1043",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/21-1043.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2022/21-1043_j4pf.pdf",
+ "model": "small.en",
+ "duration": 5234.28,
+ "asr_elapsed_s": 2879.7,
+ "asr_words": 14607,
+ "official_words": 15091,
+ "matched": 13998,
+ "shared": 12,
+ "clamped": 0,
+ "trimmed": 27,
+ "rewindowed": 0,
+ "match_rate": 92.75727254655092,
+ "turns": 287,
+ "laugh_markers": 3,
+ "mp3_bytes": 41874477,
+ "pauses": 626,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 511,
+  "match_rate": {
+   "ok": true,
+   "detail": "92.76% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-24"
+}
