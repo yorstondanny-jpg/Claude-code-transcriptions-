@@ -1,0 +1,3902 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 0.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Sotomayor",
+  "s": 0.56,
+  "e": 1.18,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.18,
+  "e": 1.44,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "our",
+  "s": 1.44,
+  "e": 1.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.6,
+  "e": 1.86,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 1.86,
+  "e": 2.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning",
+  "s": 2.1,
+  "e": 2.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 2.36,
+  "e": 2.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Case",
+  "s": 2.6,
+  "e": 2.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "09",
+  "s": 2.72,
+  "e": 3.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "-337,",
+  "s": 3.26,
+  "e": 4.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Kripski",
+  "s": 4.56,
+  "e": 4.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "v.",
+  "s": 4.94,
+  "e": 5.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Costa",
+  "s": 5.54,
+  "e": 5.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Crociare.",
+  "s": 5.9,
+  "e": 6.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Rule",
+  "s": 8.56,
+  "e": 9.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "15c",
+  "s": 9.28,
+  "e": 10.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 10.0,
+  "e": 10.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 10.26,
+  "e": 10.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Federal",
+  "s": 10.42,
+  "e": 10.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Rules",
+  "s": 10.72,
+  "e": 11.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 11.0,
+  "e": 11.24,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Civil",
+  "s": 11.24,
+  "e": 11.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Procedure",
+  "s": 11.52,
+  "e": 12.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "governs",
+  "s": 12.04,
+  "e": 12.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "when",
+  "s": 12.54,
+  "e": 12.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "an",
+  "s": 12.86,
+  "e": 13.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "amended",
+  "s": 13.0,
+  "e": 13.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "pleading,",
+  "s": 13.42,
+  "e": 13.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "quote,",
+  "s": 14.26,
+  "e": 14.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "relates",
+  "s": 14.76,
+  "e": 15.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "back,",
+  "s": 15.2,
+  "e": 15.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "close",
+  "s": 15.8,
+  "e": 15.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "quote,",
+  "s": 15.9,
+  "e": 16.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 16.44,
+  "e": 16.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 16.88,
+  "e": 17.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "date",
+  "s": 17.06,
+  "e": 17.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 17.28,
+  "e": 17.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 17.42,
+  "e": 17.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "timely",
+  "s": 17.68,
+  "e": 18.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "filed",
+  "s": 18.06,
+  "e": 18.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "original",
+  "s": 18.6,
+  "e": 19.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "pleading",
+  "s": 19.1,
+  "e": 19.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 19.9,
+  "e": 20.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "is",
+  "s": 20.26,
+  "e": 20.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "thus",
+  "s": 20.44,
+  "e": 20.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "itself",
+  "s": 20.78,
+  "e": 21.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "timely",
+  "s": 21.32,
+  "e": 22.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "even",
+  "s": 22.28,
+  "e": 22.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "though",
+  "s": 22.6,
+  "e": 22.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "it's",
+  "s": 22.88,
+  "e": 23.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "filed",
+  "s": 23.14,
+  "e": 23.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "outside",
+  "s": 23.46,
+  "e": 24.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "an",
+  "s": 24.02,
+  "e": 24.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "applicable",
+  "s": 24.38,
+  "e": 24.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "statute",
+  "s": 24.72,
+  "e": 25.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 25.32,
+  "e": 25.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "limitations,",
+  "s": 25.58,
+  "e": 26.34,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "where",
+  "s": 27.16,
+  "e": 27.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "an",
+  "s": 27.46,
+  "e": 27.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "amended",
+  "s": 27.66,
+  "e": 28.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "pleading",
+  "s": 28.06,
+  "e": 28.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "changes",
+  "s": 28.54,
+  "e": 29.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 29.02,
+  "e": 29.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Sotomayor.",
+  "s": 29.26,
+  "e": 29.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 30.0,
+  "e": 30.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party's",
+  "s": 30.28,
+  "e": 30.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "name,",
+  "s": 30.64,
+  "e": 30.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 31.46,
+  "e": 31.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "rule",
+  "s": 31.62,
+  "e": 31.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "requires,",
+  "s": 31.86,
+  "e": 32.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "among",
+  "s": 32.88,
+  "e": 33.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "other",
+  "s": 33.06,
+  "e": 33.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "things,",
+  "s": 33.4,
+  "e": 33.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 34.4,
+  "e": 34.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "within",
+  "s": 34.52,
+  "e": 34.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 34.8,
+  "e": 35.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "certain",
+  "s": 35.02,
+  "e": 35.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "time",
+  "s": 35.28,
+  "e": 35.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "period",
+  "s": 35.72,
+  "e": 36.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "after",
+  "s": 36.18,
+  "e": 36.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 36.58,
+  "e": 36.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "pleading",
+  "s": 36.78,
+  "e": 37.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 37.08,
+  "e": 37.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "filed,",
+  "s": 37.36,
+  "e": 37.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the,",
+  "s": 38.48,
+  "e": 38.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "quote,",
+  "s": 38.58,
+  "e": 38.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "''party",
+  "s": 39.38,
+  "e": 39.76,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 39.76,
+  "e": 39.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "be",
+  "s": 39.96,
+  "e": 40.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "brought",
+  "s": 40.12,
+  "e": 40.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 40.38,
+  "e": 40.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "by",
+  "s": 40.62,
+  "e": 40.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "amendment''",
+  "s": 40.86,
+  "e": 41.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "knew",
+  "s": 41.68,
+  "e": 41.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "or",
+  "s": 41.92,
+  "e": 42.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "should",
+  "s": 42.16,
+  "e": 42.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 42.44,
+  "e": 42.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "known",
+  "s": 42.74,
+  "e": 43.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 43.04,
+  "e": 43.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 43.32,
+  "e": 43.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "action",
+  "s": 43.5,
+  "e": 43.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "would",
+  "s": 43.86,
+  "e": 44.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 44.08,
+  "e": 44.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "been",
+  "s": 44.2,
+  "e": 44.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "brought",
+  "s": 44.36,
+  "e": 44.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "against",
+  "s": 44.66,
+  "e": 45.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "it,",
+  "s": 45.04,
+  "e": 45.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "but",
+  "s": 45.62,
+  "e": 45.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for",
+  "s": 45.94,
+  "e": 46.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 46.18,
+  "e": 46.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "mistake",
+  "s": 46.32,
+  "e": 46.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "concerning",
+  "s": 46.72,
+  "e": 47.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 47.52,
+  "e": 47.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "proper",
+  "s": 47.86,
+  "e": 48.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party's",
+  "s": 48.18,
+  "e": 48.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "In",
+  "s": 48.6,
+  "e": 49.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "this",
+  "s": 49.16,
+  "e": 49.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "case,",
+  "s": 50.65,
+  "e": 51.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 51.62,
+  "e": 51.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff,",
+  "s": 51.78,
+  "e": 52.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 52.42,
+  "e": 52.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "petitioner",
+  "s": 52.48,
+  "e": 52.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "here,",
+  "s": 52.88,
+  "e": 53.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 53.7,
+  "e": 53.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 53.88,
+  "e": 54.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "passenger",
+  "s": 54.12,
+  "e": 54.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 54.48,
+  "e": 54.76,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 54.76,
+  "e": 55.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "cruise",
+  "s": 55.04,
+  "e": 55.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "ship",
+  "s": 55.22,
+  "e": 56.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "when",
+  "s": 56.44,
+  "e": 56.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "she",
+  "s": 56.74,
+  "e": 56.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "tripped",
+  "s": 56.96,
+  "e": 57.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 57.28,
+  "e": 57.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "broke",
+  "s": 57.5,
+  "e": 57.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "her",
+  "s": 57.7,
+  "e": 58.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "leg.",
+  "s": 58.0,
+  "e": 58.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "To",
+  "s": 58.92,
+  "e": 59.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "recover",
+  "s": 59.12,
+  "e": 59.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for",
+  "s": 59.6,
+  "e": 59.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "her",
+  "s": 59.9,
+  "e": 60.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "injury,",
+  "s": 60.0,
+  "e": 60.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "she",
+  "s": 60.82,
+  "e": 60.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sued",
+  "s": 60.88,
+  "e": 61.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 61.16,
+  "e": 61.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "company",
+  "s": 61.42,
+  "e": 61.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "called",
+  "s": 61.78,
+  "e": 62.34,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa",
+  "s": 62.34,
+  "e": 62.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Cruz,",
+  "s": 62.74,
+  "e": 63.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "which",
+  "s": 63.38,
+  "e": 63.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "had",
+  "s": 63.86,
+  "e": 64.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "issued",
+  "s": 64.08,
+  "e": 64.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "her",
+  "s": 64.48,
+  "e": 64.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "ticket.",
+  "s": 64.74,
+  "e": 65.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa",
+  "s": 65.78,
+  "e": 66.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Cruz",
+  "s": 66.1,
+  "e": 66.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "responded",
+  "s": 66.58,
+  "e": 67.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 67.18,
+  "e": 67.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "she",
+  "s": 67.44,
+  "e": 67.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "should",
+  "s": 67.6,
+  "e": 67.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 67.82,
+  "e": 68.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sued",
+  "s": 68.06,
+  "e": 68.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 68.38,
+  "e": 68.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "related",
+  "s": 68.58,
+  "e": 68.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "company",
+  "s": 68.96,
+  "e": 69.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "called",
+  "s": 69.56,
+  "e": 70.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa.",
+  "s": 70.28,
+  "e": 70.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "I'm",
+  "s": 71.08,
+  "e": 71.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "going",
+  "s": 71.2,
+  "e": 71.34,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 71.34,
+  "e": 71.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "ask",
+  "s": 71.4,
+  "e": 71.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "my",
+  "s": 71.64,
+  "e": 71.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "colleague,",
+  "s": 71.84,
+  "e": 72.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Justice",
+  "s": 72.5,
+  "e": 72.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Scalia,",
+  "s": 72.66,
+  "e": 72.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 73.02,
+  "e": 73.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "say",
+  "s": 73.18,
+  "e": 73.34,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "it",
+  "s": 73.34,
+  "e": 73.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "right.",
+  "s": 73.52,
+  "e": 73.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Crociare.",
+  "s": 76.52,
+  "e": 77.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "I",
+  "s": 77.98,
+  "e": 78.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "want",
+  "s": 78.62,
+  "e": 78.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 78.8,
+  "e": 80.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "put",
+  "s": 80.12,
+  "e": 80.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 80.28,
+  "e": 80.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Spanish",
+  "s": 80.48,
+  "e": 80.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "accent",
+  "s": 80.94,
+  "e": 81.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 81.32,
+  "e": 81.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "it.",
+  "s": 81.66,
+  "e": 82.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Crociare",
+  "s": 84.0,
+  "e": 84.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "instead.",
+  "s": 84.64,
+  "e": 85.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "After",
+  "s": 85.16,
+  "e": 85.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 85.78,
+  "e": 86.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "statute",
+  "s": 86.04,
+  "e": 86.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 86.32,
+  "e": 86.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "limitations",
+  "s": 86.58,
+  "e": 87.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "had",
+  "s": 87.18,
+  "e": 87.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "expired,",
+  "s": 87.44,
+  "e": 88.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "she",
+  "s": 88.52,
+  "e": 88.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "amended",
+  "s": 88.78,
+  "e": 89.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "her",
+  "s": 89.2,
+  "e": 89.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "complaint",
+  "s": 89.52,
+  "e": 90.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 90.02,
+  "e": 90.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "add",
+  "s": 90.42,
+  "e": 90.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa",
+  "s": 90.74,
+  "e": 91.24,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Crociare,",
+  "s": 91.24,
+  "e": 91.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "but",
+  "s": 92.34,
+  "e": 92.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 92.54,
+  "e": 92.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "district",
+  "s": 92.78,
+  "e": 93.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "court",
+  "s": 93.1,
+  "e": 93.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "held",
+  "s": 93.42,
+  "e": 93.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 93.82,
+  "e": 94.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "her",
+  "s": 94.06,
+  "e": 94.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "complaint",
+  "s": 94.3,
+  "e": 94.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "did",
+  "s": 94.78,
+  "e": 95.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 95.08,
+  "e": 95.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "relate",
+  "s": 95.3,
+  "e": 95.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "back",
+  "s": 95.7,
+  "e": 96.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "because",
+  "s": 96.1,
+  "e": 96.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "she",
+  "s": 96.78,
+  "e": 97.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "had",
+  "s": 97.0,
+  "e": 97.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "chosen",
+  "s": 97.22,
+  "e": 97.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 97.72,
+  "e": 98.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sue",
+  "s": 98.14,
+  "e": 98.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa",
+  "s": 98.46,
+  "e": 99.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Cruz",
+  "s": 99.08,
+  "e": 99.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "instead",
+  "s": 99.58,
+  "e": 100.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 100.42,
+  "e": 100.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa",
+  "s": 100.62,
+  "e": 101.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Crociare",
+  "s": 101.02,
+  "e": 101.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 101.6,
+  "e": 101.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "thus",
+  "s": 101.96,
+  "e": 102.24,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "had",
+  "s": 102.24,
+  "e": 102.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 102.5,
+  "e": 102.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "made",
+  "s": 102.78,
+  "e": 103.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a,",
+  "s": 103.28,
+  "e": 103.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "quote,",
+  "s": 104.0,
+  "e": 104.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "mistake",
+  "s": 104.08,
+  "e": 104.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "concerning",
+  "s": 104.6,
+  "e": 105.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 105.42,
+  "e": 106.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party,",
+  "s": 106.18,
+  "e": 106.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 106.88,
+  "e": 107.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "proper",
+  "s": 107.06,
+  "e": 107.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party's",
+  "s": 107.44,
+  "e": 108.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "identity.",
+  "s": 108.02,
+  "e": 108.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "The",
+  "s": 109.46,
+  "e": 109.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "court",
+  "s": 109.74,
+  "e": 109.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 109.9,
+  "e": 110.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "appeals",
+  "s": 110.1,
+  "e": 110.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "affirmed",
+  "s": 110.5,
+  "e": 111.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 111.04,
+  "e": 111.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "two",
+  "s": 111.28,
+  "e": 111.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "grounds.",
+  "s": 111.58,
+  "e": 112.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "It",
+  "s": 112.06,
+  "e": 112.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "first",
+  "s": 112.68,
+  "e": 113.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "held",
+  "s": 113.02,
+  "e": 113.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 113.38,
+  "e": 113.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Rule",
+  "s": 113.68,
+  "e": 113.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "15c",
+  "s": 113.86,
+  "e": 114.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 114.66,
+  "e": 114.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 114.98,
+  "e": 115.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "satisfied",
+  "s": 115.3,
+  "e": 116.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "because",
+  "s": 116.04,
+  "e": 116.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 116.8,
+  "e": 117.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff",
+  "s": 117.1,
+  "e": 117.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "knew",
+  "s": 117.36,
+  "e": 117.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "or",
+  "s": 117.74,
+  "e": 118.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "should",
+  "s": 118.1,
+  "e": 118.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 118.36,
+  "e": 118.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "known",
+  "s": 118.52,
+  "e": 118.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 118.88,
+  "e": 119.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 119.16,
+  "e": 119.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "proper",
+  "s": 119.4,
+  "e": 119.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "defendant",
+  "s": 119.72,
+  "e": 120.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "before",
+  "s": 120.26,
+  "e": 120.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "filing",
+  "s": 120.74,
+  "e": 121.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "her",
+  "s": 121.2,
+  "e": 121.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "original",
+  "s": 121.48,
+  "e": 121.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "complaint.",
+  "s": 121.88,
+  "e": 122.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "The",
+  "s": 123.14,
+  "e": 123.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "court",
+  "s": 123.42,
+  "e": 123.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "also",
+  "s": 123.7,
+  "e": 124.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "held",
+  "s": 124.28,
+  "e": 124.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 124.68,
+  "e": 124.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "relation",
+  "s": 124.98,
+  "e": 125.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "back",
+  "s": 125.44,
+  "e": 125.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 125.82,
+  "e": 126.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 126.06,
+  "e": 126.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "appropriate",
+  "s": 126.32,
+  "e": 126.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "because",
+  "s": 126.92,
+  "e": 127.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 127.72,
+  "e": 128.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff",
+  "s": 128.0,
+  "e": 128.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "had",
+  "s": 128.28,
+  "e": 128.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "unduly",
+  "s": 128.66,
+  "e": 129.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "delayed",
+  "s": 129.36,
+  "e": 129.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 129.9,
+  "e": 130.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "seeking",
+  "s": 130.14,
+  "e": 130.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 130.44,
+  "e": 130.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "amend.",
+  "s": 130.78,
+  "e": 131.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "We",
+  "s": 132.1,
+  "e": 132.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "hold",
+  "s": 132.38,
+  "e": 132.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 132.74,
+  "e": 133.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "neither",
+  "s": 133.0,
+  "e": 133.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 133.3,
+  "e": 133.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "these",
+  "s": 133.56,
+  "e": 133.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "reasons",
+  "s": 133.74,
+  "e": 134.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 134.16,
+  "e": 134.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 134.4,
+  "e": 134.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "proper",
+  "s": 134.64,
+  "e": 134.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "ground",
+  "s": 134.92,
+  "e": 135.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 135.22,
+  "e": 135.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "which",
+  "s": 135.46,
+  "e": 135.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 135.7,
+  "e": 135.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "deny",
+  "s": 135.92,
+  "e": 136.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "relation",
+  "s": 136.32,
+  "e": 136.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "back.",
+  "s": 136.9,
+  "e": 137.34,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Relation",
+  "s": 138.0,
+  "e": 138.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "back",
+  "s": 138.6,
+  "e": 139.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "under",
+  "s": 139.0,
+  "e": 139.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Rule",
+  "s": 139.32,
+  "e": 139.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "15c",
+  "s": 139.6,
+  "e": 140.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "depends",
+  "s": 140.48,
+  "e": 141.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 141.06,
+  "e": 141.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "what",
+  "s": 141.36,
+  "e": 141.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 141.56,
+  "e": 141.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party",
+  "s": 141.88,
+  "e": 142.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 142.06,
+  "e": 142.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "be",
+  "s": 142.3,
+  "e": 142.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "added",
+  "s": 142.56,
+  "e": 142.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "knew",
+  "s": 142.82,
+  "e": 143.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "or",
+  "s": 143.18,
+  "e": 143.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "should",
+  "s": 143.54,
+  "e": 143.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 143.82,
+  "e": 144.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "known,",
+  "s": 144.08,
+  "e": 144.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 144.98,
+  "e": 145.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 145.4,
+  "e": 145.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 145.7,
+  "e": 145.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "amending",
+  "s": 145.9,
+  "e": 146.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party's",
+  "s": 146.36,
+  "e": 147.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "knowledge",
+  "s": 147.02,
+  "e": 147.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "or",
+  "s": 147.38,
+  "e": 147.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "timeliness",
+  "s": 147.82,
+  "e": 148.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 148.5,
+  "e": 148.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "amending.",
+  "s": 148.82,
+  "e": 149.24,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "This",
+  "s": 149.9,
+  "e": 150.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "is",
+  "s": 150.32,
+  "e": 150.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "clear",
+  "s": 150.62,
+  "e": 150.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "from",
+  "s": 150.88,
+  "e": 151.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 151.14,
+  "e": 151.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "text",
+  "s": 151.36,
+  "e": 151.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 151.56,
+  "e": 151.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 151.74,
+  "e": 151.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "rule,",
+  "s": 151.9,
+  "e": 152.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "which",
+  "s": 152.36,
+  "e": 152.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "focuses",
+  "s": 152.84,
+  "e": 153.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 153.32,
+  "e": 153.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "what",
+  "s": 153.64,
+  "e": 153.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 153.82,
+  "e": 154.02,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party",
+  "s": 154.02,
+  "e": 154.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 154.32,
+  "e": 154.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "be",
+  "s": 154.58,
+  "e": 154.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "added",
+  "s": 154.84,
+  "e": 155.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "knew",
+  "s": 155.16,
+  "e": 155.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "or",
+  "s": 155.48,
+  "e": 155.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "should",
+  "s": 155.62,
+  "e": 155.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 155.78,
+  "e": 155.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "known.",
+  "s": 155.96,
+  "e": 156.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Moreover,",
+  "s": 156.9,
+  "e": 157.24,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 157.54,
+  "e": 157.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 157.64,
+  "e": 157.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff",
+  "s": 157.88,
+  "e": 158.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "knows",
+  "s": 158.12,
+  "e": 158.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 158.58,
+  "e": 158.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 158.84,
+  "e": 159.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party's",
+  "s": 159.06,
+  "e": 159.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "existence",
+  "s": 159.46,
+  "e": 159.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "does",
+  "s": 159.96,
+  "e": 160.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 160.4,
+  "e": 160.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "preclude",
+  "s": 160.62,
+  "e": 161.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "her",
+  "s": 161.12,
+  "e": 161.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "from",
+  "s": 161.32,
+  "e": 161.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "making",
+  "s": 161.56,
+  "e": 161.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 161.82,
+  "e": 162.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "mistake",
+  "s": 162.04,
+  "e": 162.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "with",
+  "s": 162.58,
+  "e": 163.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "respect",
+  "s": 163.18,
+  "e": 163.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 163.6,
+  "e": 163.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 163.86,
+  "e": 164.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party's",
+  "s": 164.08,
+  "e": 164.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "identity.",
+  "s": 164.46,
+  "e": 165.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Making",
+  "s": 165.04,
+  "e": 166.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 166.28,
+  "e": 166.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "deliberate",
+  "s": 166.54,
+  "e": 166.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "choice",
+  "s": 166.96,
+  "e": 167.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 167.38,
+  "e": 167.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sue",
+  "s": 167.68,
+  "e": 167.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "one",
+  "s": 167.88,
+  "e": 168.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party",
+  "s": 168.22,
+  "e": 168.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "instead",
+  "s": 168.6,
+  "e": 168.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 168.96,
+  "e": 169.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "another",
+  "s": 169.18,
+  "e": 169.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "while",
+  "s": 169.64,
+  "e": 170.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "fully",
+  "s": 170.26,
+  "e": 170.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "understanding",
+  "s": 170.78,
+  "e": 171.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 171.64,
+  "e": 172.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "factual",
+  "s": 172.0,
+  "e": 172.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 172.46,
+  "e": 172.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "legal",
+  "s": 172.78,
+  "e": 173.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "difference",
+  "s": 173.06,
+  "e": 173.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "between",
+  "s": 173.52,
+  "e": 174.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 174.1,
+  "e": 174.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "two",
+  "s": 174.36,
+  "e": 174.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "parties",
+  "s": 174.68,
+  "e": 175.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "is",
+  "s": 175.18,
+  "e": 175.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 175.82,
+  "e": 176.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "antithesis",
+  "s": 176.06,
+  "e": 176.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 176.68,
+  "e": 177.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "making",
+  "s": 177.0,
+  "e": 177.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 177.28,
+  "e": 177.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "mistake",
+  "s": 177.5,
+  "e": 177.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "concerning",
+  "s": 177.98,
+  "e": 178.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 178.52,
+  "e": 178.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "proper",
+  "s": 178.8,
+  "e": 179.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party's",
+  "s": 179.14,
+  "e": 179.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "identity.",
+  "s": 179.68,
+  "e": 180.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "However,",
+  "s": 180.98,
+  "e": 181.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 181.9,
+  "e": 182.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff",
+  "s": 182.12,
+  "e": 182.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "may",
+  "s": 182.4,
+  "e": 182.76,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "choose",
+  "s": 182.76,
+  "e": 182.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 182.98,
+  "e": 183.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sue",
+  "s": 183.26,
+  "e": 183.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "one",
+  "s": 183.48,
+  "e": 183.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "defendant",
+  "s": 183.94,
+  "e": 184.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "over",
+  "s": 184.42,
+  "e": 184.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "another",
+  "s": 184.9,
+  "e": 185.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "based",
+  "s": 185.3,
+  "e": 186.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 186.18,
+  "e": 186.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 186.48,
+  "e": 186.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "misunderstanding",
+  "s": 186.64,
+  "e": 187.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "about",
+  "s": 187.38,
+  "e": 187.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "their",
+  "s": 187.98,
+  "e": 188.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "identities.",
+  "s": 188.26,
+  "e": 189.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "That",
+  "s": 189.26,
+  "e": 190.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "kind",
+  "s": 190.28,
+  "e": 190.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 190.98,
+  "e": 191.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "deliberate",
+  "s": 191.38,
+  "e": 192.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "but",
+  "s": 192.0,
+  "e": 192.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "mistaken",
+  "s": 192.4,
+  "e": 193.0,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "choice",
+  "s": 193.0,
+  "e": 193.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "should",
+  "s": 193.48,
+  "e": 193.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 193.8,
+  "e": 194.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "foreclose",
+  "s": 194.08,
+  "e": 194.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 194.78,
+  "e": 195.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "finding",
+  "s": 195.12,
+  "e": 195.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 195.5,
+  "e": 196.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Rule",
+  "s": 196.14,
+  "e": 196.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "15c",
+  "s": 196.38,
+  "e": 197.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "has",
+  "s": 197.28,
+  "e": 197.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "been",
+  "s": 197.62,
+  "e": 197.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "satisfied.",
+  "s": 197.84,
+  "e": 198.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Similarly,",
+  "s": 199.46,
+  "e": 199.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "there",
+  "s": 200.16,
+  "e": 200.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "is",
+  "s": 200.28,
+  "e": 200.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "no",
+  "s": 200.44,
+  "e": 200.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "support",
+  "s": 200.64,
+  "e": 201.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 201.06,
+  "e": 201.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 201.22,
+  "e": 201.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "rule",
+  "s": 201.4,
+  "e": 201.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for",
+  "s": 201.6,
+  "e": 201.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 201.84,
+  "e": 201.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "conclusion",
+  "s": 201.98,
+  "e": 202.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 202.46,
+  "e": 202.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 202.68,
+  "e": 202.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff's",
+  "s": 202.92,
+  "e": 203.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "dilatory",
+  "s": 203.36,
+  "e": 203.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "conduct",
+  "s": 203.82,
+  "e": 204.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "can",
+  "s": 204.38,
+  "e": 204.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "justify",
+  "s": 204.68,
+  "e": 205.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 205.22,
+  "e": 205.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "denial",
+  "s": 205.54,
+  "e": 205.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 205.9,
+  "e": 206.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "relation",
+  "s": 206.16,
+  "e": 206.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "back",
+  "s": 206.62,
+  "e": 207.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "under",
+  "s": 207.06,
+  "e": 207.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Rule",
+  "s": 207.4,
+  "e": 207.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "15c.",
+  "s": 207.66,
+  "e": 208.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "The",
+  "s": 209.2,
+  "e": 209.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "rule",
+  "s": 209.5,
+  "e": 209.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sets",
+  "s": 209.7,
+  "e": 210.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "forth",
+  "s": 210.06,
+  "e": 210.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "an",
+  "s": 210.4,
+  "e": 210.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "exclusive",
+  "s": 210.66,
+  "e": 211.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "list",
+  "s": 211.2,
+  "e": 211.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 211.58,
+  "e": 211.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "requirements",
+  "s": 211.78,
+  "e": 212.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 212.38,
+  "e": 213.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 213.14,
+  "e": 213.36,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff's",
+  "s": 213.36,
+  "e": 213.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "diligence",
+  "s": 213.9,
+  "e": 214.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "is",
+  "s": 214.22,
+  "e": 214.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 214.62,
+  "e": 214.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "among",
+  "s": 214.78,
+  "e": 215.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "them.",
+  "s": 215.08,
+  "e": 215.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Under",
+  "s": 215.96,
+  "e": 216.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "these",
+  "s": 216.72,
+  "e": 217.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "principles,",
+  "s": 217.06,
+  "e": 217.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 218.24,
+  "e": 218.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "clerk",
+  "s": 218.38,
+  "e": 218.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "below",
+  "s": 218.72,
+  "e": 219.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "erred",
+  "s": 219.26,
+  "e": 219.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 219.8,
+  "e": 219.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "denying",
+  "s": 219.96,
+  "e": 220.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "relation",
+  "s": 220.42,
+  "e": 220.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "back.",
+  "s": 220.98,
+  "e": 221.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "The",
+  "s": 223.12,
+  "e": 223.34,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff's",
+  "s": 223.34,
+  "e": 223.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "original",
+  "s": 223.84,
+  "e": 224.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "complaint",
+  "s": 224.32,
+  "e": 224.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "explained",
+  "s": 224.86,
+  "e": 225.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 225.42,
+  "e": 225.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "she",
+  "s": 225.7,
+  "e": 225.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "meant",
+  "s": 225.84,
+  "e": 226.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 226.04,
+  "e": 226.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sue",
+  "s": 226.32,
+  "e": 226.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 226.56,
+  "e": 226.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "company",
+  "s": 226.84,
+  "e": 227.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that,",
+  "s": 227.2,
+  "e": 227.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "quote,",
+  "s": 227.62,
+  "e": 227.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "owned,",
+  "s": 228.08,
+  "e": 228.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "operated,",
+  "s": 228.9,
+  "e": 229.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "managed,",
+  "s": 229.58,
+  "e": 229.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "supervised",
+  "s": 230.08,
+  "e": 230.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 230.48,
+  "e": 230.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "controlled",
+  "s": 230.84,
+  "e": 231.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 231.32,
+  "e": 231.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "ship",
+  "s": 231.58,
+  "e": 231.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 231.82,
+  "e": 232.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "which",
+  "s": 232.06,
+  "e": 232.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "she",
+  "s": 232.22,
+  "e": 232.42,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 232.42,
+  "e": 232.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "injured.",
+  "s": 232.6,
+  "e": 232.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "That",
+  "s": 233.64,
+  "e": 234.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "complaint",
+  "s": 234.08,
+  "e": 234.84,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "also",
+  "s": 234.84,
+  "e": 235.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "indicated,",
+  "s": 235.38,
+  "e": 236.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "mistakenly,",
+  "s": 236.38,
+  "e": 236.88,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 237.54,
+  "e": 237.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa",
+  "s": 237.74,
+  "e": 238.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Cruz",
+  "s": 238.08,
+  "e": 238.6,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "performed",
+  "s": 238.6,
+  "e": 239.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "these",
+  "s": 239.2,
+  "e": 239.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "roles.",
+  "s": 239.52,
+  "e": 239.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Because",
+  "s": 240.56,
+  "e": 241.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa",
+  "s": 241.16,
+  "e": 241.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Crocere",
+  "s": 241.72,
+  "e": 242.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "had",
+  "s": 242.26,
+  "e": 242.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "constructive",
+  "s": 242.52,
+  "e": 243.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "knowledge",
+  "s": 243.26,
+  "e": 243.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 243.64,
+  "e": 243.9,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 243.9,
+  "e": 244.06,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "complaint",
+  "s": 244.06,
+  "e": 244.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "within",
+  "s": 244.54,
+  "e": 245.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 245.28,
+  "e": 245.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "time",
+  "s": 245.66,
+  "e": 245.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "period",
+  "s": 245.92,
+  "e": 246.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "specified",
+  "s": 246.44,
+  "e": 247.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "by",
+  "s": 247.08,
+  "e": 247.5,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 247.5,
+  "e": 247.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "rule,",
+  "s": 247.7,
+  "e": 247.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "it",
+  "s": 248.44,
+  "e": 248.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "should",
+  "s": 248.64,
+  "e": 248.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 248.94,
+  "e": 249.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "known",
+  "s": 249.18,
+  "e": 249.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 249.48,
+  "e": 249.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "it",
+  "s": 249.66,
+  "e": 249.76,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 249.76,
+  "e": 249.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 249.92,
+  "e": 250.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "named",
+  "s": 250.14,
+  "e": 250.48,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "as",
+  "s": 250.48,
+  "e": 250.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 250.7,
+  "e": 250.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "defendant",
+  "s": 250.92,
+  "e": 251.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 251.26,
+  "e": 251.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 251.52,
+  "e": 251.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "complaint",
+  "s": 251.74,
+  "e": 252.34,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "only",
+  "s": 252.34,
+  "e": 253.22,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "because",
+  "s": 253.22,
+  "e": 253.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 253.7,
+  "e": 253.94,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 253.94,
+  "e": 254.18,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "plaintiff's",
+  "s": 254.18,
+  "e": 254.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "misunderstanding",
+  "s": 254.7,
+  "e": 255.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "about",
+  "s": 256.2,
+  "e": 256.58,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "which",
+  "s": 256.58,
+  "e": 256.98,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Costa",
+  "s": 256.98,
+  "e": 257.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "entity",
+  "s": 257.54,
+  "e": 258.2,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 258.2,
+  "e": 258.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 258.52,
+  "e": 258.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "charge",
+  "s": 258.82,
+  "e": 259.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 259.04,
+  "e": 259.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 259.32,
+  "e": 259.56,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "ship.",
+  "s": 259.56,
+  "e": 259.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Clearly,",
+  "s": 260.52,
+  "e": 260.96,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "quote,",
+  "s": 261.5,
+  "e": 261.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 261.54,
+  "e": 261.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "mistake",
+  "s": 261.8,
+  "e": 262.24,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "concerning",
+  "s": 262.24,
+  "e": 262.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 262.86,
+  "e": 263.16,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "proper",
+  "s": 263.16,
+  "e": 263.52,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "party's",
+  "s": 263.52,
+  "e": 264.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "identity.",
+  "s": 264.08,
+  "e": 264.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Accordingly,",
+  "s": 265.34,
+  "e": 265.82,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "we",
+  "s": 266.1,
+  "e": 266.26,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "reverse",
+  "s": 266.26,
+  "e": 266.68,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 266.68,
+  "e": 267.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "judgment",
+  "s": 267.08,
+  "e": 267.34,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 267.34,
+  "e": 267.54,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 267.54,
+  "e": 267.74,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "court",
+  "s": 267.74,
+  "e": 267.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "of",
+  "s": 267.86,
+  "e": 268.04,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "appeals",
+  "s": 268.04,
+  "e": 268.46,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for",
+  "s": 268.46,
+  "e": 268.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 268.66,
+  "e": 268.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Eleventh",
+  "s": 268.86,
+  "e": 269.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Circuit",
+  "s": 269.14,
+  "e": 269.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 269.64,
+  "e": 270.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "remand",
+  "s": 270.28,
+  "e": 270.66,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 270.66,
+  "e": 270.86,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "case",
+  "s": 270.86,
+  "e": 271.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for",
+  "s": 271.12,
+  "e": 271.38,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "further",
+  "s": 271.38,
+  "e": 271.62,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "proceedings",
+  "s": 271.62,
+  "e": 272.28,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "consistent",
+  "s": 272.28,
+  "e": 272.8,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "with",
+  "s": 272.8,
+  "e": 273.1,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "this",
+  "s": 273.1,
+  "e": 273.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "opinion.",
+  "s": 273.3,
+  "e": 273.78,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Justice",
+  "s": 274.42,
+  "e": 274.7,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Scalia",
+  "s": 274.7,
+  "e": 275.08,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "has",
+  "s": 275.08,
+  "e": 275.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "filed",
+  "s": 275.4,
+  "e": 275.72,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "an",
+  "s": 275.72,
+  "e": 275.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "opinion",
+  "s": 275.92,
+  "e": 276.32,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "concurring",
+  "s": 276.32,
+  "e": 276.92,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 276.92,
+  "e": 277.12,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "part",
+  "s": 277.12,
+  "e": 277.4,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 277.4,
+  "e": 277.64,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "concurring",
+  "s": 277.64,
+  "e": 278.14,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "in",
+  "s": 278.14,
+  "e": 278.3,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 278.3,
+  "e": 278.44,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "judgment.",
+  "s": 278.44,
+  "e": 278.76,
+  "speaker": "JUSTICE SOTOMAYOR"
+ }
+]
