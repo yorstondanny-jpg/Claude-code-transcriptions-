@@ -1,0 +1,3716 @@
+[
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 0.0,
+  "e": 6.64,
+  "text": "We will hear argument first this morning in Case 23-108, Snyder versus United States. Ms. Blatt."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 7.68,
+  "e": 133.74,
+  "text": "Mr. Chief Justice, and may it please the Court: Section 666 applies to 19 million state, local, and tribal officials and anyone else whose employer receives federal benefits, including 14 million Medicare-funded healthcare workers. Congress did not plausibly subject all of these people to 10 years in prison just for accepting gifts, especially when federal officials face only two years for accepting gifts under 201(c). 666 punishes corruptly receiving anything of value intending to be influenced or rewarded. \"Corruptly [...] intending to be influenced\" covers classic bribes, where officials get upfront payments in exchange for official conduct, while \"corruptly [...] intending to be rewarded\" covers bribes paid after the fact and to officials who aren't actually influenced. The government argues \"corruptly\" under 666 means wrongful, immoral, depraved, or evil. But the government tried this case and countless others on the theory that \"corruptly\" just meant knowingly. Regardless, the government's new definition is implausible and stunningly vague. No gratuity statute -- that's none whatsoever -- uses the word \"corruptly\" and for good reason. The government can't tell you what gifts are corrupts -- are corrupt. What gift is too much for the doctor who saves your life? Is pornography an immoral gift? The federalism and due process implications of the government's view are gobsmacking. All states prohibit bribery, but localities and states take an -- infinite approaches to gifts and outside compensation. Affirmance would let federal prosecutors second-guess all of these judgments. Meanwhile, state and local officials will have no way of knowing what gift would subject them to 10 years in prison. Remember, extensive guidance tells federal employees that accepting anything over $20 is a crime. It would be downright Kafkaesque to subject state and local officials to a standardless and severe regime where federal interests are at their weakest. I welcome questions."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 134.38,
+  "e": 147.76,
+  "text": "Ms. Blatt, if I find a lost pet and return it to the owner and the owner's grateful and gives me $10, that's a reward, right, even though nothing else happened in advance between the owner and -- and me?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 149.1,
+  "e": 225.0,
+  "text": "So, yes, divorced from, you know, a crime that makes it a corrupt -- corruptly giving something of value intending to be rewarded, the word \"reward,\" just divorced from text of a statute, context, common sense at least in this case, sure, \"reward\" can mean both a bribery and -- a quid pro quo bribery and a gratuity. And we think it's very significant in all the statutes that use \"reward\" to mean gratuities, they're vastly different in four respects here. They all say, when \"reward\" is used to mean gratuities -- these are cited at page 31 of our brief. They make clear that no quid pro quo payment is required. They say you can't receive any authorized fee or compensation. Also, there are 13 gratuity statutes identified in the brief. Virtually all of them have no express mens rea whatsoever. They have vastly lower penalties. And they almost exclusively apply to federal officials. And I think that just highlights that gratuity statutes are generally prophylactic rules where the government has a direct interest. And at least here, to use \"corruptly\" in a gratuity statute would make this statute a unicorn. It literally has no accepted meaning. It doesn't exist in any other statute. I don't think anyone knows what a corrupt gratuity is."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 225.3,
+  "e": 245.6,
+  "text": "But if -- if -- I -- I -- I would think that demanding mens rea would cut against you. In other words, if you add in demanding mens rea to the statute, one will have less fear that the statute is going to be applied in an overbroad way. So you're using that on your side, but I would think that it's really the government's argument."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 246.36,
+  "e": 252.42,
+  "text": "No. Government -- mens rea can't help you if it's standardless and has no -- no meaning and just leaves it up to a jury and, I guess, federal prosecutors."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 252.88,
+  "e": 262.26,
+  "text": "So your view is dependent on the vagueness of the standard? If we just knew that it was a serious, a demanding mens rea standard, then it would cut for the government?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 262.54,
+  "e": 295.4,
+  "text": "No, it's not just that it's vague. It's also unheard of and ahistorical. And I just don't think the government's story holds up. The government's story is, hey, in 1986, we had this gratuity language and we add the word \"corruptly.\" But that, of course, is not true. You had a statute that was identical to Section 201(c) that was a gratuity statute. And the government -- the Congress did not just sneak in the word \"corrupt.\" They deleted that statute in toto, hook, line, and sinker, and added \"corruptly [...] intending to be influenced, rewarded\" in a way that looks much more like the 201(b) bribery statute."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 295.58,
+  "e": 319.36,
+  "text": "I'm sorry, I thought the original 666 covered gratuities, and what Congress then did is, instead of copying the bribery statute, 201(a), it decided to copy the gratuity statute, 201(c). So, if they intended bribery, why didn't they just copy the statute that meant bribery?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 319.76,
+  "e": 330.46,
+  "text": "So, in 1984, the statute read you can't give or accept anything for or because official conduct. And that is the gratuity statute. That language got deleted in toto."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 330.66,
+  "e": 338.66,
+  "text": "Well, but that's the point. Why not borrow then the language from 201(a) -- the -- from 201(b) -- I'm sorry -- instead --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 338.66,
+  "e": 339.04,
+  "text": "201(b)."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 339.04,
+  "e": 340.8,
+  "text": "-- (b) instead of (c). I said (a), but I meant (b)."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 340.8,
+  "e": 349.64,
+  "text": "And our point is it looks a lot like, more 201(b), which is -- has the \"corruptly [...] intending to be influenced.\" And I just don't think the story is that adding --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 349.64,
+  "e": 354.52,
+  "text": "But they had that language, but they chose something broader and different. And so I don't understand."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 354.9,
+  "e": 371.6,
+  "text": "I don't think it's broader at all, and let me see if I can be clear on this. 201(b) is very different. The Court in McDonnell had said you can actually be convicted if you don't have any intent to be influenced under bribery. But, under this statute, 666, the government has --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 371.6,
+  "e": 375.78,
+  "text": "They didn't have McDonnell in front of them, so I don't know what that has to do with anything."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 375.78,
+  "e": 375.78,
+  "text": "Well, let me -- let --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 375.78,
+  "e": 386.36,
+  "text": "They -- they had clear bribery language in 201(b), and, instead, they chose something closer to the gratuity language of 201(c)."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 386.36,
+  "e": 392.147,
+  "text": "So it doesn't look anything like 201(c) and every -- nor any other gratuity statute in the U.S. Code, and --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 392.147,
+  "e": 394.86,
+  "text": "All right. Can I go to the disparity that you were talking about?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 395.55,
+  "e": 396.0,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 396.4,
+  "e": 412.02,
+  "text": "666, when it was clearly a gratuity, had 10-year statute -- penalty. So it was always disparate from other statutes involving federal officers. So what do I take from that?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 412.02,
+  "e": 412.46,
+  "text": "Well --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 412.46,
+  "e": 420.56,
+  "text": "Meaning you say that Congress couldn't have intended to treat state from federal officials differently. But it always did."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 420.56,
+  "e": 421.0,
+  "text": "Well, all --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 421.0,
+  "e": 422.86,
+  "text": "It did before it amended 666."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 423.8,
+  "e": 491.24,
+  "text": "I wouldn't consider two years always. It was a short-lived statute that was immediately deleted. So -- and I don't even know if the government had any prosecutions. But if I could just finish my answer on what I don't think the government has a response to, if a jury finds that a official was not influenced because he would have taken the same vote anyway, the jury has to acquit if the statute had just said \"intending to be influenced.\" And so \"intending to be [...] rewarded\" is absolutely critical in this statute, and that is not the case of the federal bribery statute. This statute actually requires either an intent to be influenced or an intent to be rewarded. The other thing I can say about the disparate penalties is that no other statute in the U.S. Code puts gratuity on par with bribery. And the government's -- under the government's view, you'd never ever have to either charge, much less prove, an intent to influence because, under their view, any payment that is an intent to reward under their reading renders any need to prove intent to influence completely superfluous, irrelevant, and unnecessary. And that is an outlier in -- in history and in the U.S. Code."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 491.24,
+  "e": 492.1,
+  "text": "Can I ask you --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 492.1,
+  "e": 492.315,
+  "text": "But --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 492.315,
+  "e": 492.96,
+  "text": "-- why -- oh, sorry."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 492.96,
+  "e": 493.82,
+  "text": "I'm sorry, go ahead."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 493.82,
+  "e": 499.26,
+  "text": "Why do you keep saying that this doesn't look like anything else? I'm looking at 215."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 499.26,
+  "e": 500.34,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 500.34,
+  "e": 528.1,
+  "text": "And it uses almost exactly the same language. It has \"corrupt,\" \"corruptly.\" It has giving, offering, promising \"anything of value to [a] [...] person with [the] intent to influence or reward.\" When I look at the legislative history of 215, it says -- or 666 says that it's modeled off of 215. And 215's legislative history says it includes gratuities. So I'm just trying to understand what you mean about this not looking like anything else."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 528.28,
+  "e": 593.8,
+  "text": "Of course. Let me take on Section -- Section 215. So, you're -- you're right, the -- the -- the wording is quite identical, and the only court to address the issue has held 215 is a bribery statute. But, on the legislative history, to be sure, a footnote in the legislative history of Section 215 mentions that that statute applies to gratuity. But, if we're going to rely on legislative history, I'll take the footnote in the legislative history of Section 666 itself. When it references the Section 215 statute, it only refers to bribery. But now we're really going to be worrying over footnotes in legislative history, I'll -- I'll take ours. But the -- the other thing I would say about 215, which is extraordinary, is that there is a provision, I think it's 215(d), that says -- orders federal agencies to give guidance. So every federal agency has issued extensive guidance to bank officials. There's massive guidance, of course, to federal officials. There is no such guidance, and had the government issued guidance, it would just make the federalism implications all the more bizarre. So bank officials are told here's what you can and cannot do, and there's no --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 594.04,
+  "e": 599.66,
+  "text": "And are they told you can -- you can accept gratuities in the 215 context?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 599.66,
+  "e": 607.28,
+  "text": "The -- the guidelines which were promulgated after Section 666 was passed, but, again, I --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 607.52,
+  "e": 608.6,
+  "text": "No, I'm sorry, what's the answer to --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 608.6,
+  "e": 608.9,
+  "text": "The guidelines do --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 608.9,
+  "e": 609.74,
+  "text": "-- can they accept --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 610.12,
+  "e": 613.06,
+  "text": "-- the guidelines do assume that 215 applies to gratuities."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 613.06,
+  "e": 613.18,
+  "text": "Okay. And the --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 613.18,
+  "e": 614.14,
+  "text": "And that is the government's --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 614.14,
+  "e": 617.16,
+  "text": "-- the language is identical to 666, correct?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 617.16,
+  "e": 653.22,
+  "text": "Correct. But the only court -- no court has held that Section 215 applies to gratuities. It's got a 30-year sentence. And even if you did think it did, I would say the title at least mentions gifts. The legislative history says it means gifts. And there is a provision for guidance. None of those three things are true under Section 666. The title says bribery. The legislative history only mentions bribery. And there's no guidance. And it is truly unthinkable -- unthinkable that officials would not know what type of -- of -- of gift is corrupt. They -- even a gift basket, I don't know where on the Harry & David menu the gift becomes corrupt. It --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 653.22,
+  "e": 654.92,
+  "text": "Well, that's -- go ahead."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 654.92,
+  "e": 657.36,
+  "text": "It ends at 319, it starts at 1999."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 658.04,
+  "e": 676.0,
+  "text": "Ms. Blatt, can I ask you, so you're referencing some of the horribles, and your brief points out, you know, the Harry & David gift baskets, the -- the -- the tip, the gift card to your garbage collector, that sort of thing. Can you point to any actual prosecutions or convictions even that have pursued those kinds of --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 676.0,
+  "e": 676.7,
+  "text": "Just -- just two --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 676.7,
+  "e": 676.7,
+  "text": "-- troubling charges?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 676.7,
+  "e": 697.36,
+  "text": "-- in our reply brief. And I don't know if they reached a conviction. But somebody was charged for soliciting donations to a sports league, and then another defendant was charged for having -- having plaques and luncheon for female judges, and that was considered it. But this Court -- I mean, there's just legions of cases that say you're not going to interpret a statute with crazy breadth on the trust me assumption of federal prosecutors."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 697.36,
+  "e": 697.48,
+  "text": "Doesn't the --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 697.9,
+  "e": 698.56,
+  "text": "And what about -- oh."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 698.56,
+  "e": 698.92,
+  "text": "I'm sorry."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 699.54,
+  "e": 718.06,
+  "text": "Just one other question. So, you know, federalism breadth aside, you also point out that for private entities that take federal funds -- and this would also channel into them -- apart from the pandemic money, are there other reasons to think that federal funds would pull private entities into this?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 718.4,
+  "e": 726.9,
+  "text": "Yes. You held in Fischer that it covers Medicare, which is one of the largest industries in this country. It covers every nurse, doctor, orderly, anyone in the hospital."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 726.9,
+  "e": 727.62,
+  "text": "But restaurants and some of the -- yes, hospitals, of course."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 727.62,
+  "e": 737.48,
+  "text": "It covers any grantee, and I think we gave in the brief, I literally Googled government grantees, and there's just tons and tons, Lockheed, lobster --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 737.48,
+  "e": 747.32,
+  "text": "I'm sorry, doesn't the nexus requirement get rid of most of this? The tax collector, the person who just says thank you generally."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 747.32,
+  "e": 747.89,
+  "text": "I -- I don't --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 747.89,
+  "e": 762.04,
+  "text": "The -- the nexus requirement says that the gratuity must be \"in connection with any business, transaction, or series of transactions\" of a covered -- covered entity \"involving anything of value of [$]5,000 or more.\""
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 762.04,
+  "e": 762.54,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 762.54,
+  "e": 768.26,
+  "text": "The trash collectors, not having anything to do with 5,000 or the contract itself."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 768.46,
+  "e": 775.7,
+  "text": "The doctor who removes your wart, fine. But the doctor who takes your gallbladder out or does your face, like my plastic surgeon, no, that's worth over 5,000. (Laughter.)"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 775.7,
+  "e": 777.76,
+  "text": "Well, no, seriously --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 777.76,
+  "e": 778.2,
+  "text": "I -- I -- I -- I --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 778.2,
+  "e": 787.48,
+  "text": "-- I'm not even joking. Snow removal is worth over 5,000. Writing a letter for your kid to get into college, that's priceless. There are -- I could go on and on and on. The --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 787.48,
+  "e": 789.94,
+  "text": "But it still has to have a nexus to that contract."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 790.08,
+  "e": 793.94,
+  "text": "Yes, and people give gifts all the time to nurses after an operation. That is a crime."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 793.94,
+  "e": 794.109,
+  "text": "Do -- do you think --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 794.109,
+  "e": 794.321,
+  "text": "I -- I -- I -- I'm sorry."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 794.321,
+  "e": 794.491,
+  "text": "Go ahead. Go ahead."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 794.491,
+  "e": 812.8,
+  "text": "You sure? Okay. I -- I had thought that the government had actually pursued prosecutions below on the theory that the $5,000 in connection with the business requirement could be satisfied by pointing, for example, to a police officer's salary was more than $5,000."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 812.9,
+  "e": 828.4,
+  "text": "The government took an outrageous view expansively, which is why they used 666 over 201, because they didn't think it had to be linked to an official action. But they did fancy footwork in their brief and says no, no, we won't do that anymore, so we'll keep it closer to 201. But, no, they've -- that's why they love 666."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 828.4,
+  "e": 833.58,
+  "text": "I thought there was, in fact, an affirmed conviction in the Seventh Circuit in United States versus Robinson along just that point."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 833.6,
+  "e": 853.927,
+  "text": "You can ask them, because I think they're a little cagey on how much they will give on what a business or transaction is. But, even assuming it's tight, it doesn't take that much to do snow removal that's worth over 5,000 or the police officer who helps your -- you know, find your kid who's kidnapped. This is like -- government officials and healthcare workers do stuff worth over $5,000 --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 853.927,
+  "e": 854.3,
+  "text": "Can I --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 854.3,
+  "e": 856.86,
+  "text": "-- every day, every second, every minute."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 856.86,
+  "e": 857.4,
+  "text": "Can I ask --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 857.4,
+  "e": 857.58,
+  "text": "These --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 857.58,
+  "e": 858.3,
+  "text": "No, your turn now."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 858.3,
+  "e": 859.02,
+  "text": "Go ahead. Go ahead."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 859.02,
+  "e": 859.38,
+  "text": "No, please."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 859.38,
+  "e": 902.56,
+  "text": "Do you think that the horribles also apply to the bribery side of the statute? I mean, what strikes me about this statute is the number of people that it covers. But you can imagine all of your horribles being done on the bribery side. You know, I give the orthodontist for my kids hockey tickets so that -- and we kind of -- it is a quid pro quo so that, you know, my kid gets the best appointment or something like that. I mean, you can imagine a whole lot of cases where, even though there's an explicit bribe, it also seems like, really, we're criminalizing that? So I'm -- I'm just wondering whether the horribles only apply to gratuities, as opposed to there are horribles in this statute because of the kinds of people it applies to."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 902.58,
+  "e": 956.38,
+  "text": "No, they -- no, I disagree, Justice Kagan, for this reason. Under Section 201, there's a 15-year sentence for bribery. Government hates to have to prove a quid pro quo. And there's a two-year sentence for gratuity, where it's really easy to get a water bottle plus a mug and it's over $20. There's vast, vast difference. The government -- if it's that no big deal, let the government just prove quid pro quo. Just let them. It's -- it's much more damaging. The government has a direct interest. If you have to prove there was an influence on your official conduct, at least the government says it impacts the federal program. Here, they have six different ways where they're defining \"corrupt:\" if it's not benign, if it was against the employer's rules, if it's against common sense rules, if you're conscious of wrongdoing, which I had no idea what it means, if it could skew your official decisionmaking. It is very different to say -- and I do think the fact that all states prohibit bribery cold and not all states -- some employers in some localities allow gifts."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 956.38,
+  "e": 957.22,
+  "text": "But, Ms. --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 957.22,
+  "e": 957.8,
+  "text": "They just do --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 957.8,
+  "e": 957.8,
+  "text": "How would you --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 957.8,
+  "e": 958.66,
+  "text": "-- because they're not corrupt --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 958.66,
+  "e": 959.5,
+  "text": "How would you --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 959.5,
+  "e": 960.64,
+  "text": "-- unless it's prophylactic."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 960.64,
+  "e": 965.42,
+  "text": "Sorry. How would you define \"corruptly\" if you had to in this particular provision?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 965.9,
+  "e": 980.32,
+  "text": "Well, we would win if it was defined under half of it violated your employer rules, common sense ethical rules, or consciousness of wrongdoing. I don't know what \"benign\" means. I don't know what \"immoral\" means. I mean, the government says we waived, but they don't tell us what we should have --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 980.32,
+  "e": 980.42,
+  "text": "Now --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 980.42,
+  "e": 983.32,
+  "text": "-- what we should have asked for. They never spelled out what that instruction would look like."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 983.32,
+  "e": 983.36,
+  "text": "-- I -- I -- I --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 983.36,
+  "e": 983.387,
+  "text": "Well, just --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 983.387,
+  "e": 983.44,
+  "text": "No, I'm sorry, please."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 983.44,
+  "e": 992.48,
+  "text": "Just on that, I thought you did ask for jury instructions that would make clear that an after-the-action agreement --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 992.48,
+  "e": 994.04,
+  "text": "A hundred percent."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 994.04,
+  "e": 995.83,
+  "text": "-- would require acquittal."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 995.83,
+  "e": 1036.72,
+  "text": "JA-18 objects to the definition of \"corruptly\" on JA-28 by saying, very clearly laying out the sine qua non of bribery is that quid pro quo payment and the jury would have to convict if it only found a gratuity. What the government is trying to say is that we should have said something other than the way the government's prosecuted every other 666 case on just a knowing theory, and they've said six different ways what that would look like. And if you charge -- again, I'm sure you will ask them what the jury should be charged what common sense ethical rules are. I mean, the restaurant example alone, I don't know where it's -- I'm pretty sure Chipotle would be okay, Inn at Little Washington wouldn't, but ask them about The Cheesecake Factory. (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1038.82,
+  "e": 1042.38,
+  "text": "Well, I'm not going to ask them about The Cheesecake Factory. Somebody else may."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1042.38,
+  "e": 1042.78,
+  "text": "Okay."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1042.78,
+  "e": 1046.0,
+  "text": "But -- but I'm going to ask you a little bit more about \"corruptly\" --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1046.0,
+  "e": 1046.46,
+  "text": "Okay."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1046.46,
+  "e": 1062.86,
+  "text": "-- and -- and the mens rea that you think it should import here, putting aside the jury instructions and the debate over forfeiture. You mentioned consciousness of wrongdoing, which the Court mentioned also in Arthur Andersen if I recall."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1062.86,
+  "e": 1064.06,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1064.06,
+  "e": 1070.64,
+  "text": "And that -- that suggests, I -- I think, that you have to know that it's unlawful. It's one of those rare statutes --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1070.64,
+  "e": 1070.64,
+  "text": "And willful."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1070.64,
+  "e": 1076.42,
+  "text": "-- where perhaps ignorance of the law is a defense, if you will. What do you think of that?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1076.42,
+  "e": 1099.72,
+  "text": "So, no, that's some other case. \"Corruptly\" has a very, very specific definition with bribery. It cannot possibly mean one thing for bribery and something else in this statute. It clearly means quid pro quo. \"Bribery\" has always had both common law, historic, 201. \"Corruptly\" means quid pro quo in this context. I think, when you have Arthur Andersen, official proceedings, document destruction, what have you, \"corruptly\" can mean all kinds of things."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1099.72,
+  "e": 1139.66,
+  "text": "Ms. Blatt, it makes no sense what you're saying to me. Here's a case in which someone is -- that's the allegation -- demanding money, gets it basically for no services, spends his time giving two or three different reasons and services that he performed, which he didn't, and there's a series of meetings or phone calls, texts, et cetera, before the second contract is awarded between these people. At some point, can't a jury see that as a demand for payment for services?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1139.66,
+  "e": 1140.64,
+  "text": "Well --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1140.64,
+  "e": 1147.14,
+  "text": "And you're giving no definition that would cover that kind of behavior."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1147.5,
+  "e": 1148.38,
+  "text": "So, first of all --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1148.38,
+  "e": 1160.48,
+  "text": "I -- I think that's different than the situation the Chief posited. I find someone's wallet and I tell them: I'm not giving it up to you unless I get a tip."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1160.48,
+  "e": 1161.0,
+  "text": "Yeah. So --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1161.0,
+  "e": 1162.98,
+  "text": "I want half the money in the wallet. Right?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1162.98,
+  "e": 1181.814,
+  "text": "-- it's none of the federal government's business if a local official is doing nothing wrong with state and local laws and complied with all local laws. Most of their brief has nothing to do with their theory. Their brief is somehow there was improper steering by his buddy, who's now the -- the head of sanitation and trash, which is a little bit ironic. But their theory is of a --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1181.814,
+  "e": 1181.866,
+  "text": "But you -- you --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1181.866,
+  "e": 1181.9,
+  "text": "Their -- the --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1181.9,
+  "e": 1193.56,
+  "text": "-- you are suggesting that the federal government can't say there is something wrong with demanding payment after the fact for an official act."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1193.56,
+  "e": 1200.04,
+  "text": "That -- the --- the -- the government has not -- sorry. Congress has not criminalized gratuity against state, local, and tribal officials."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1200.04,
+  "e": 1201.2,
+  "text": "You are --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1201.2,
+  "e": 1201.2,
+  "text": "Absolutely."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1201.2,
+  "e": 1201.8,
+  "text": "Answer my question, yes or no?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1201.8,
+  "e": 1202.66,
+  "text": "Yes, that's not a crime."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1203.02,
+  "e": 1203.82,
+  "text": "It's not a crime --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1203.86,
+  "e": 1204.6,
+  "text": "Not a federal crime."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1204.6,
+  "e": 1204.92,
+  "text": "But I --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1204.92,
+  "e": 1212.98,
+  "text": "-- for state officials to run around the country with respect to federal contracts and say: I voted for X, now pay me?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1213.34,
+  "e": 1215.32,
+  "text": "It's not a federal contract, but if there's bribery --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1215.32,
+  "e": 1216.84,
+  "text": "For -- I'm sorry -- a state contract."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1216.84,
+  "e": 1226.2,
+  "text": "If -- if the government thinks there was a quid pro quo, which they did here, they did allege and try to argue to the jury there was bribery, but you're making it a case where --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1226.24,
+  "e": 1242.32,
+  "text": "No, I'm -- I'm making a -- I'm asking a simple question. It's all right according to you or it's wrong for federal law to attempt to take the situation which is alleged here that demanding payment for official acts --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1242.32,
+  "e": 1242.32,
+  "text": "Well, I --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1242.32,
+  "e": 1243.18,
+  "text": "-- is wrong?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1243.3,
+  "e": 1253.44,
+  "text": "So you keep saying demanding. If he had asked for to go fund -- to please give me my go fund money for my kid's cancer surgery, I think, in your view, that's a crime. And I'm saying Congress could not have possibly intended --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1253.44,
+  "e": 1253.44,
+  "text": "Well, I'm not sure what --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1253.44,
+  "e": 1255.3,
+  "text": "-- to put that official in 10 years."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1255.3,
+  "e": 1255.5,
+  "text": "Well, is it -- I mean, is the --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1255.5,
+  "e": 1256.82,
+  "text": "But that's the problem with your example."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1257.14,
+  "e": 1264.34,
+  "text": "-- is the question whether it would be wrong for Congress to criminalize that or whether, in fact, Congress has criminalized it?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1264.98,
+  "e": 1266.14,
+  "text": "Yes. It's the latter."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1266.7,
+  "e": 1268.38,
+  "text": "It's the latter. So, okay."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1268.46,
+  "e": 1302.72,
+  "text": "And why doesn't the language cover -- I mean, I understand you -- we've -- we're all thinking about this in terms of gratuities, and that opens the door to all of the, you know, relatively benign examples that you bring up, you know, when someone's just sort of showing thanks for doing services. But the statute does not use the word \"gratuities.\" In fact, the statute uses terminology that's very similar to what Justice Sotomayor just said, right? \"Someone who corruptly solicits or demands\" -- and I'm skipping here -- \"anything of value [...], intending to be rewarded.\""
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1303.44,
+  "e": 1303.46,
+  "text": "And the --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1303.46,
+  "e": 1308.12,
+  "text": "And that -- and those are the facts that the government is at least alleging in this case."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1308.56,
+  "e": 1313.5,
+  "text": "And -- and \"corruptly\" is -- is completely a foreign concept to \"gratuity,\" and it's very familiar --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1313.5,
+  "e": 1314.12,
+  "text": "No, but I'm not --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1314.12,
+  "e": 1314.12,
+  "text": "-- to bribery."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1314.12,
+  "e": 1326.64,
+  "text": "Set aside \"gratuity.\" I'm just looking at the statute. Why is -- aren't the facts that the government alleges here fitting entirely with the statement, the text of this statute?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1326.88,
+  "e": 1330.42,
+  "text": "Because the plain language of \"reward\" can mean bribes, and it has -- it has been used that --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1330.42,
+  "e": 1337.22,
+  "text": "And it can't mean after the fact seeking a payment in -- for something that you've done officially?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1337.48,
+  "e": 1353.2,
+  "text": "\"Rewarding\" can plainly mean bribes to officials who aren't actually influenced. You give me money and either you're never going to take the vote or you couldn't take it anyway. It also applies to after-the-fact payments. And if I can just say one other thing because you say on reward about \"corrupt,\" a thousand dollar bottle of wine."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1353.2,
+  "e": 1354.05,
+  "text": "No, but that's a gratuity."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1354.05,
+  "e": 1354.9,
+  "text": "A $2,000 bottle of wine."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1354.9,
+  "e": 1360.78,
+  "text": "But -- but I guess, if the person is demanding it as a result of something that they've done --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1360.96,
+  "e": 1361.0,
+  "text": "It applies to givers --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1361.0,
+  "e": 1362.2,
+  "text": "-- it would be the same scenario."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1362.2,
+  "e": 1369.34,
+  "text": "-- equally. It's the same statute that applies to the givers. So you and anyone else in this room who gives an expensive bottle of wine to a nurse in connection with --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1370.9,
+  "e": 1370.9,
+  "text": "Is she demanding it?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1370.9,
+  "e": 1370.9,
+  "text": "-- a $5,000 surgery --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1370.9,
+  "e": 1375.1,
+  "text": "Is she demanding it for having done something in -- to me or in my family?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1375.24,
+  "e": 1424.48,
+  "text": "You have to divorce 601 -- the giver to the taker. I mean, yeah, the -- the -- the giver to the taker. It's the exact same wording. It applies to anyone who gives with an intent to reward. That's the plain language. And I think, in your view, you'd have to draw a line between the two-buck chuck at Trader Joe's and the wine that goes up to 500,000. And I don't know where the government's line is. There is no drop-down menu on Amazon for mens rea. People -- there's just not a -- there's -- there is no gratuity -- there are 13 gratuity statutes. None of them are like this. They have no mens rea because they're just prophylactic bright-line rules, you can't get that compensation, which is why that is the federal rule. You get even a dollar, it is a crime regardless of mens rea. And there are 11,000 pages of guidance to make sure that when you're a federal employee you don't go to jail for two years. I don't know what every single person --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1424.48,
+  "e": 1432.88,
+  "text": "So what is \"rewarded\" doing in this statute? Because, basically, you've defined it as bribery. And we have \"intending to in\" -- \"to be influenced.\" So what is the work of \"rewarded\"?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1433.64,
+  "e": 1458.92,
+  "text": "Two critical things. And the government has a response -- it's not a good one -- on one of them. They have no response to my first point. It takes the issue of timing and causation off the table, and where they don't have a response is on causation. The statute, if it just said \"intending to be influenced,\" a jury would have to acquit if the jury found the person wasn't influenced. Like a gun -- I don't know, take a pro-gun or an anti-gun person who says --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1458.92,
+  "e": 1464.68,
+  "text": "I don't understand that. It says \"intending to be influenced.\" It has -- it doesn't say you have to actually have been influenced. So --"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1464.68,
+  "e": 1465.32,
+  "text": "Well --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1465.32,
+  "e": 1469.9,
+  "text": "-- I mean, isn't a bribery you're intended to -- you're intending to be influenced? Okay."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1470.22,
+  "e": 1514.0,
+  "text": "No, if the jury -- if he says, I wasn't influenced, I would have taken the vote anyway, the jury would have to acquit. I wasn't influenced. I didn't even intend to be influenced because I told my God, my wife, and my son that I was going to vote that way anyway. I had no intent to be influenced. And on -- our second one is after the fact. Now I agree you could stretch the English language, but I just think it refers to more naturally an upfront payment is -- before the vote is an intent to be influenced and I'll do it, and then after the vote is taken just more naturally refers to reward, which is what the Fifth and First Circuit found, was that it totally takes timing off the table. And so \"corrupt\" is doing all the work of quid pro quo. And \"intending to influence\" and \"rewarded\" is doing the work on either the timing of the payment or the -- the way you intend it."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1514.42,
+  "e": 1520.04,
+  "text": "Thank you, counsel. Justice Alito, anything further? Justice Kagan? Justice Gorsuch?"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1522.34,
+  "e": 1537.14,
+  "text": "I know we discussed this in Sabri, but I'm just curious, your thoughts on, I guess, what Justice Alito framed as the first question. What are the limits to what Congress can do to federalize state substantive criminal law here?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1537.14,
+  "e": 1595.16,
+  "text": "Yeah. So Sabri is definitely in the context of bribery, and so the question would be if the section -- sorry -- the 1984 version just criminalized gratuities and said for or because of official act 10-year penalty, and you would have to -- that -- there, you would meet, I think, the Spending Clause clear statement and the clear statement under Bass to upset the federal/state balance, and you have a pure Sabri question. I mean, it's tough. I think what the government would say, the only thing they intimated in their brief is that sometimes the gift could be so bad, I don't know, a Ferrari, that it might skew your official decisionmaking. And the problem with that is they don't have an answer, what about the toy Ferrari? I mean, so they still have the vagueness problem, but I think their argument would be, although it's way less, it's certainly much weaker than bribery. I think their skewing is the way they would get around the sort of, I guess, whatever you call it, Spending Clause authority or Article I authority. But it was bribery. It was definitely bribery was at issue --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1595.16,
+  "e": 1595.16,
+  "text": "In Sabri."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1595.16,
+  "e": 1601.22,
+  "text": "-- with the campaign finance and with the connection with the federal program, was clearly a bribery quid pro quo."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1601.38,
+  "e": 1610.08,
+  "text": "And, here, we have a very different scenario with gratuities. And did Congress really -- did it clearly mean to displace all state law?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1610.22,
+  "e": 1612.36,
+  "text": "It's clear it's not clear to me."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1612.36,
+  "e": 1613.0,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1613.0,
+  "e": 1618.04,
+  "text": "Not when it's -- this looks nothing like any other gratuity statute in history or on the books today."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1618.38,
+  "e": 1618.66,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1619.62,
+  "e": 1620.22,
+  "text": "Justice Kavanaugh?"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 1621.28,
+  "e": 1634.96,
+  "text": "You've suggested a few times that state and local governments regulate gratuities of state and local officials. Can you give us some more color on that? Is there a disparity? You know, some jurisdictions will say up to $50, others up to $100?"
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1634.96,
+  "e": 1679.3,
+  "text": "Yeah, it's infinite. Some of them will say, even if you do it, give the -- give the gift back. They don't put you in jail for 10 years. I mean, the -- the government -- I mean, yeah, no, there's an infinite. Here, it was not even alleged that -- Portage and Indiana have extensive ethical rules. There's no allegation that the Petitioner did anything in violation of those rules. And although the federal government has its own, every employer has different rules. Even in the banking context, DOJ is supposed to work with the bank and make sure that, you know, it's copacetic, and even then, DOJ says, we may second-guess the banking rules if we find them unreasonable, but they're supposed to at least work out ahead of time, but there's just -- there's a lot of cities and there's a lot of states, and I don't think most states even have gratuity laws."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 1679.94,
+  "e": 1680.08,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1680.18,
+  "e": 1681.98,
+  "text": "So they're just making something a crime that's not."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1681.98,
+  "e": 1684.04,
+  "text": "Justice Jackson?"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1684.36,
+  "e": 1725.247,
+  "text": "Yeah. So, if you're right and there's a distinction between bribes and gratuities in the way that you're positing it, I -- I guess we'd have a statute in which Congress is intending to prohibit an official from going to a company ahead of time and saying: Pay me $15,000 and I will steer the garbage truck contracts to your company. But Congress would not have intended to prohibit that same official from steering the garbage truck contracts to the company and after the fact going to them and saying: Okay, give me $15,000."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1725.247,
+  "e": 1725.78,
+  "text": "Yeah. And --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1726.36,
+  "e": 1734.82,
+  "text": "And I guess I don't understand how you have a statute that is rationally drawing a distinction between those two scenarios."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 1735.24,
+  "e": 1802.66,
+  "text": "Oh, Sun-Diamond, Justice Scalia goes on and on and on, like his -- one of his favorite cases ever, he just goes on and on about the big difference between a bribery, that's where you pay the money in exchange, and a gratuity, that the action is taken is after the fact. 201 made that distinction. And so the other thing I would say -- and you can ask the government -- the government's position does not depend on steering. This could have been the best garbage track -- garbage truck contract in the history of the planet but didn't like the $10,000 or didn't like the type of gift. They ask -- they say it's okay to give coffee and doughnuts to the police who work around the clock. Well, what about the police who coerced a confession? Is that corrupt? Same gift, same donut. The government's theory to the jury has nothing to do with the steering. It's just they want to do that to make, you know, the -- the client look bad. It is simply you got something of value after the fact because it related to official conduct, which it doesn't depend on any misconduct at all by the official. And, again, Sun-Diamond is literally all about the difference, and even in Sun-Diamond, this Court went crazy to make sure federal officials were protected because two years was too long for federal officials to go to jail for a gratuity."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1804.2,
+  "e": 1807.78,
+  "text": "Thank you, counsel. Ms. Sinzdak."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 1808.18,
+  "e": 1970.92,
+  "text": "Mr. Chief Justice, and may it please the Court: The federal government needs to ensure the money it appropriates to local governments for public benefits is allocated in a way that maximizes the benefits to its citizens, not the rewards for local officials. Congress therefore enacted Section 666 to bar officials from corruptly accepting payments with the intent to be influenced or rewarded in connection with their official duties. Petitioner ask -- asks this Court to weaken Section 666's protection for the public fisc by holding that a person does not violate Section 666 when he corruptly solicits a payment with the intent to be rewarded unless he has also agreed to accept the reward beforehand. But that requirement of a beforehand- agreement finds no basis in the statutory text. The plain meaning of \"reward\" readily covers a payment given in return for an official action or decision that is already complete. So a police chief who sends his officers to foil a burglary at a store and then demands the store owner pay him $10,000 for his officers' work, he acts with the intent to be rewarded. A safety inspector who issues a building permit for a dangerous project and then solicits a $30,000 payment acts with the intent to be rewarded. And a mayor who steers a contract for a particular business and then asks that business to pay him $13,000 for the contract acts with the intent to be rewarded, whether or not the contractor agreed to give him the reward before the contract closed. Petitioner's argument to the contrary ignores both the plain meaning of the term \"rewarded\" and the statutory history. In 1984, Congress enacted a flat bar on the acceptance of bribes and gratuities. It was modeled directly on the one in Section 201(c) that applies to federal employees. In 1986, Congress narrowed that bar to carve out a subset of only the most culpable gratuities by adding a corruptly mens rea and an express exception for bona fide salary and benefits paid in the ordinary course of business. Now Congress's textual fix worked. Petitioners haven't pointed to any real-world examples of Section 666 prosecutions for the sort of innocuous gift-giving activity that occurs in the ordinary course of business, and I'm happy to explain why the -- the two examples in their reply brief really just aren't what they are describing. But the Court should therefore reject Petitioner's invitation to artificially narrow the reach of Section 666. I welcome the Court's questions."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1971.64,
+  "e": 1985.3,
+  "text": "Counsel, under -- your theory, there are two offenses in 666, the gratuity and the bribery. And a gratuity is really just a bribery without a quid pro quo, right?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 1985.8,
+  "e": 2005.66,
+  "text": "So, first of all, there's a single offense, corruptly accepting a payment, and then there are two means of committing that offense, either intending to be influenced or intending to be rewarded. So it's -- it's one offense, the corrupt acceptance, and then two different means. And, you're right, there -- there -- they overlap a lot of times when you're accepting a payment."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2005.88,
+  "e": 2015.34,
+  "text": "Well, I don't know if they overlap. It seems one is a lesser included offense than the other, right? Gratuity -- why isn't the bribery thing just surplusage?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2015.34,
+  "e": 2015.485,
+  "text": "No --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2015.485,
+  "e": 2023.06,
+  "text": "You -- you can -- you just show a gratuity and, as they say, it's just kind of bribery without the quid pro quo. That's all you need to show."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2023.06,
+  "e": 2076.16,
+  "text": "No, there are going to be situations where somebody is going to accept a payment intending to be influenced without intending to be rewarded. So that's going to happen. When somebody accepts a bribe and says: Yes, this -- this $10,000, it's going to influence me in making this decision, but I haven't made up my mind yet, and maybe they turn to someone else and say, hey, you know, somebody else gave me $10,000 to influence me, sure, you know, $20,000 might push me in another direction. At that point, the -- he -- the person gets $20,000 and does what the second person wanted. Now, in the second situation, I think that is somebody who's both intending to be influenced and intending to be rewarded because they're going to do something for that $20,000. But, in the first situation, there is nothing to be rewarded. So they aren't going to -- so they are intending to be influenced, but they haven't made a decision. They haven't taken an act. So they aren't intending to be rewarded."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2076.16,
+  "e": 2079.84,
+  "text": "But, no, that's a strange hypothetical, right? It doesn't really happen in the real world."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2080.14,
+  "e": 2080.82,
+  "text": "I'm not sure that's --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2080.82,
+  "e": 2089.4,
+  "text": "I mean, I guess what I'm suggesting is that you have to work pretty darn hard to get out of the problem that the Chief Justice suggested."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2090.12,
+  "e": 2149.84,
+  "text": "No, I -- I don't think so for two reasons. First of all, I don't think it's so farfetched to imagine a mayor who says kind of, you know, I -- I'm taking bids on the contract and, hey, it sure would help if you put a payment, you know -- you know, you offered me something too, and then I think you are going to have a few different payments happening with the intent to be influenced but not rewarded. But the second point is that I think this lesser included offense comes from the relationship between 201(b), which covers bribery for federal officials, and 201(c), which covers gratuities. And the 201(c) offense is a broader offense. It's the for or because of language. There's no corruptly mens rea. There's no express exception for bona fide comp -- salary and compensation. So, there, I think it -- it actually can be described as a lesser included offense. But, here, it's not that all gratuities are covered within the rewarded because, of course, the other restrictions within Section 666 still apply. So it has to be accepted corruptly, and we have the exception for --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2149.84,
+  "e": 2152.06,
+  "text": "What -- what is -- keep going, sorry. What --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2152.06,
+  "e": 2154.1,
+  "text": "Oh, no, I was just going to say the exception for bona fide salary."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2154.36,
+  "e": 2157.04,
+  "text": "Well, I think the problem you have is what does \"corruptly\" mean."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2157.68,
+  "e": 2165.5,
+  "text": "So I think Arthur Andersen decide -- described \"corruptly.\" It said it has to be corrupt, so that means wrongful or evil or immoral. And there has --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2165.5,
+  "e": 2177.98,
+  "text": "So does a $100 Starbuck gift certificate as a thank you to the city council-person who -- for working on a new zoning reg, is that corrupt or not?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2178.44,
+  "e": 2181.44,
+  "text": "So, no, and let me tell you exactly why. I think that the reason --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2181.44,
+  "e": 2182.62,
+  "text": "How about a $500 one?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2182.76,
+  "e": 2214.2,
+  "text": "So I think it would be helpful to set out what the guidelines are going to be here because, when there's a corruptly mens rea, what you -- you usually see in the jury instructions, sometimes it says consciousness of wrongdoing, so you have to know that what you're doing is wrong, but sometimes what the jury instructions do is isolate what is actually wrongful, what is obviously wrongful about this conduct. So I think, when we're talking about corruptly in connection with rewards, you have to isolate what's wrongful, and what's wrongful is when it appears that the government is for sale. What's wrongful -- so -- so here are three specific --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2214.2,
+  "e": 2214.2,
+  "text": "Well, you're change --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2214.2,
+  "e": 2214.2,
+  "text": "Counsel, under --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2214.2,
+  "e": 2236.66,
+  "text": "-- you're changing the hypothetical. The -- the hypothetical is the action's taken and a citizen gives a thank you, and it could be a gift card to Starbucks or it could be tickets to a concert or game and just drops it off to the person, thank you for all your hard work on this issue, appreciate you."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2237.14,
+  "e": 2246.952,
+  "text": "So I do not want to get away from \"corruptly.\" I also want to point out that, of course, there's other limitations within the statute. So, if the -- the business or transaction that's being rewarded isn't worth at least $5,000 --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2246.952,
+  "e": 2247.768,
+  "text": "I understand that."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2247.768,
+  "e": 2248.68,
+  "text": "-- you're not going to get there."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2248.68,
+  "e": 2248.973,
+  "text": "Assume it --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2248.973,
+  "e": 2259.38,
+  "text": "Okay. I just want to make sure because I do think, for example, in Sun-Diamond, Justice Scalia said that requiring this connection with a particular act is going to eliminate innocuous gift-giving for federal officials --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2259.54,
+  "e": 2260.6,
+  "text": "But you can't --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2260.6,
+  "e": 2260.6,
+  "text": "-- who don't have --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2260.6,
+  "e": 2278.36,
+  "text": "I'm going to press on this. What is innocuous and what is not? And, just as important, how is the official supposed to know ahead of time, oh, the $100 gift certificate's okay, but the larger one's not, or the set of books or the framed photo --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2278.68,
+  "e": 2279.1,
+  "text": "So, again --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2279.1,
+  "e": 2279.58,
+  "text": "-- or --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2279.58,
+  "e": 2289.28,
+  "text": "-- I think there are three circumstances where the official is going to know that what he's doing is obviously wrongful. The first one is where he took the public act with the intent to be rewarded."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2289.28,
+  "e": 2289.658,
+  "text": "No, no, no."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2289.658,
+  "e": 2290.287,
+  "text": "Assume -- assume that's not the --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2290.287,
+  "e": 2290.916,
+  "text": "You're collapsing two different things."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2290.916,
+  "e": 2291.419,
+  "text": "Well, I can't just --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2291.419,
+  "e": 2292.3,
+  "text": "Counsel, you're collapsing two different things there."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2292.3,
+  "e": 2295.34,
+  "text": "That's not my hypothetical."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2295.34,
+  "e": 2295.9,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2295.9,
+  "e": 2303.28,
+  "text": "My hypothetical is the person, the official knew nothing about the potential for the gratuity after the fact."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2303.52,
+  "e": 2307.14,
+  "text": "So that's going to make it harder for the government to prove corruptly, but there are two other circumstances --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2307.56,
+  "e": 2307.82,
+  "text": "Why? Why?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2308.2,
+  "e": 2317.4,
+  "text": "Because corrupt -- because \"corruptly\" has to get at what's obviously wrongful in the statute, which is where you are performing public acts for private gain. So, if that's --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2317.64,
+  "e": 2318.68,
+  "text": "Counsel, I'm sorry to interrupt --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2318.68,
+  "e": 2318.88,
+  "text": "But that's a bribe."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2318.88,
+  "e": 2333.66,
+  "text": "-- but I am going to interrupt there because I think the questions and the ones I'm interested in have to do with mens rea on \"corruptly.\" And I think that's what Justice Kavanaugh is getting at. So put aside the actus reus for a moment. You say \"corruptly\" carries with it some mens rea."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2333.66,
+  "e": 2334.46,
+  "text": "Absolutely."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2334.46,
+  "e": 2334.94,
+  "text": "What is it?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2335.26,
+  "e": 2336.16,
+  "text": "Consciousness of wrongdoing."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2336.4,
+  "e": 2340.54,
+  "text": "So you think the defendant has to know that what he is doing is unlawful?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2341.24,
+  "e": 2343.18,
+  "text": "Oh -- or wrongful. He -- he doesn't have --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2343.18,
+  "e": 2343.18,
+  "text": "Unlawful or --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2343.18,
+  "e": 2344.36,
+  "text": "-- to know about the specific -- well, he does not --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2344.36,
+  "e": 2344.84,
+  "text": "-- wrongful?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2345.28,
+  "e": 2346.56,
+  "text": "Or wrongful, inherently wrongful. That's correct."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2346.56,
+  "e": 2347.8,
+  "text": "Where does that -- where does that come from?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2348.06,
+  "e": 2349.46,
+  "text": "That comes from Arthur Andersen. So --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2350.04,
+  "e": 2365.38,
+  "text": "Well, the consciousness of wrongdoing usually means that I know. I mean, wrongdoing is defined by law usually, right? But you're saying -- you're saying no, it doesn't -- he doesn't have to know that it's unlawful. He has to know that it is unlawful or -- fill in the blank."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2366.2,
+  "e": 2378.3,
+  "text": "Wrongful. And I think sometimes actually -- so unlawful is usually, you're right, going to get you there. And, here, I think we have someone who did everything he could to hide that he was getting this money and said that it was a consulting fee. So you have a lot of evidence of consciousness --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2378.3,
+  "e": 2381.4,
+  "text": "How do you know it's wrongful if it's -- if it's perfectly legal?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2381.4,
+  "e": 2383.24,
+  "text": "Well, so it is -- it was not perfectly --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2383.24,
+  "e": 2392.62,
+  "text": "I mean, is it a sin? Are we now talking about something that, you know -- you know, something that would be a -- a -- a venial sin, or does it have to be a mortal one?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2393.08,
+  "e": 2403.2,
+  "text": "I want to ground us in the facts of this case. So I think it's important here to establish that the Indiana code actually bars giving a gratuity to a public official. The Indiana --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2403.36,
+  "e": 2404.8,
+  "text": "I'm not asking about Indiana."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2404.8,
+  "e": 2405.08,
+  "text": "-- Portage -- okay. No, I -- hear that."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2405.08,
+  "e": 2414.9,
+  "text": "I'm asking about what the government's position is on \"corruptly\" and mens rea, and you say it has to be unlawful or wrongful. And wrongful in what sense?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2415.88,
+  "e": 2423.36,
+  "text": "So, again, I think what we're talking about here is wrongful in the sense that Arthur Andersen said evil, corrupt, immoral. And sometimes that's when --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2423.36,
+  "e": 2423.56,
+  "text": "Immoral?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2424.74,
+  "e": 2426.3,
+  "text": "That is what this Court said in Arthur Andersen."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2426.3,
+  "e": 2434.46,
+  "text": "So a gift of pornography, as -- as -- as your counsel -- friend on the other side pointed out in her opening, is -- is -- would that count in the government's view?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2434.46,
+  "e": 2451.48,
+  "text": "It needs to be wrongful in the way -- in the way that the statute is targeting. So, here, again, what the statute is targeting, the obviously wrongful conduct that the statute is targeting is taking public acts for private gain. So where, again -- and I'm just going to give you the three circumstances."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2451.48,
+  "e": 2473.24,
+  "text": "That -- that defeats your whole theory -- I'm sorry -- because, if the public act was done, completed, I've done -- we're done with the new zoning reg, we're done with the new school board decision, and then the gratuity, the gift, the thank you arrives, you're still going to prosecute those cases as corrupt under your theory of what \"corruptly\" means, correct?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2473.46,
+  "e": 2475.2,
+  "text": "Where one of three circumstances is met."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2475.2,
+  "e": 2479.06,
+  "text": "So that means where you haven't taken the public action for private gain."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2479.32,
+  "e": 2497.22,
+  "text": "No. I think that's where the -- the -- the problem is coming in. So, here, for example, imagine that the official just knows that the Buha brothers, they pay big rewards to people who give them contracts. So what he decides to do is award the contract to the Buha brothers. Afterwards, he's going to ask for the payment. That is corrupt. He took --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2497.22,
+  "e": 2506.2,
+  "text": "The facts of this case are great in that sense for you to respond to the question, but there are 19 million employees who are going to --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2506.2,
+  "e": 2506.2,
+  "text": "And what I'm saying --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2506.2,
+  "e": 2508.24,
+  "text": "-- wonder about the thank yous."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2508.24,
+  "e": 2518.74,
+  "text": "-- for all of those employees, the government is going to have to peruse -- pardon me -- to prove corruption. So, if they can't prove that the person actually did -- and let me get out the other two because there are two others."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2518.74,
+  "e": 2519.24,
+  "text": "I will."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2519.24,
+  "e": 2549.44,
+  "text": "If it can't prove that the person actually took the act intending to be rewarded, which gives you corruptly, they can also sometimes prove that by taking this payment, let's say it's $100,000 for having won a case, in the future, the person is going to be try -- trying to win cases to get the money rather than for -- in the interests of the public. And then there's also going to be -- with certain payments, it's just going to be clear that if the public official takes this, it's going to look like the government is for sale, and that's because the --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2549.44,
+  "e": 2549.875,
+  "text": "Well, every time --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2549.875,
+  "e": 2550.165,
+  "text": "How else --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2550.165,
+  "e": 2550.455,
+  "text": "Does this --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2550.455,
+  "e": 2551.18,
+  "text": "-- every time you -- go ahead."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2551.18,
+  "e": 2554.32,
+  "text": "Does this provision apply to campaign contributions?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2556.32,
+  "e": 2568.423,
+  "text": "Section 666 applies to campaign contributions. Under McCormick, there needs to be a quid pro quo in the campaign context, so -- pardon me -- in the campaign contribution context. So the government does not prosecute where there is --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2568.423,
+  "e": 2568.762,
+  "text": "So where do you get --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2568.762,
+  "e": 2569.1,
+  "text": "-- a bona fide campaign contribution."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2569.1,
+  "e": 2571.8,
+  "text": "-- how does that fit into the statutory language?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2571.8,
+  "e": 2589.34,
+  "text": "So what we've taken it is there would be an as-applied constitutional objection if we were trying to prosecute a -- campaign contributions on a -- sorry -- bona fide campaign contributions on a pure gratuities theory. And -- and, sorry, if I could just get -- get back again to --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2589.34,
+  "e": 2618.06,
+  "text": "Well, how -- how -- how about this? I mean, this statute applies to more than government officials. It applies to pretty much every hospital. It applies to pretty much every university. So let's say billionaire patient comes to a hospital and gets extra special treatment. He gets appointments when nobody else would get it. He gets surgery scheduled when nobody else would. And -- and it's all done because everybody knows he's a billionaire patient, and they're hoping that he'll give an eight-figure gift to the hospital. How about that? Does that fit?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2618.64,
+  "e": 2629.2,
+  "text": "So it needs to be -- we walk through the statutory requirements. The pay -- they -- there needs to be the acceptance or the solicitation of money in connection with particular business or transactions."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2629.2,
+  "e": 2632.86,
+  "text": "Well, they're definitely going to accept the eight-figure gift when it comes. (Laughter.)"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2632.88,
+  "e": 2636.66,
+  "text": "Oh, sorry. Are you talking about the -- they're -- on the promise of this eight-figure gift?"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2637.24,
+  "e": 2651.6,
+  "text": "No. I'm just saying they treat him really super nicely because they are very hopeful and -- that -- that he's going to recompense them for all the special consideration that they've given. Does that fit or does it not fit?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2651.74,
+  "e": 2656.36,
+  "text": "So it -- the government is going to have to prove that accepting that -- that reward would be corrupt and that the --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2656.36,
+  "e": 2656.36,
+  "text": "Well, a lot of people --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2656.36,
+  "e": 2658.12,
+  "text": "-- hospital understands that it's corrupt."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2658.14,
+  "e": 2671.52,
+  "text": "-- a lot of people do not think it's good to give super-rich people better healthcare than not-so-super-rich people. So I could see a jury saying that's pretty immoral, but probably every hospital in America does it."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2671.68,
+  "e": 2681.16,
+  "text": "Well, the hospital has to have consciousness of wrongdoing. So it's what the hospital thinks that matters there, right? The hospital has to understand that in accepting that money, they're -- they are committing wrongdoing. And -- and so --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2681.16,
+  "e": 2719.06,
+  "text": "Well, but there's a jury that's going to decide whether they're committing wrongdoing or not, and a jury might say that sounds pretty corrupt. And all I'm suggesting is that given that this -- that this statute applies not just to government officials but to pretty much, like, every important institution in America, I mean, that seems quite extraordinary that when you do stuff hoping, thinking it might earn you a -- a big gift, even if it's just for the institution, not to put in your own pocket, that -- that that would land you 10 years in prison?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2719.4,
+  "e": 2785.94,
+  "text": "Let me say -- respond to that in two ways. First of all, under Section 201(c), the federal government officials are undisputedly bound by these sorts of requirements with no corruptly mens rea. And in -- in -- in Sun-Diamond, this Court said that requiring a tight connection between the reward and specific -- and a specific official acts or, here, you would say specific business or -- business or transactions worth more than $5,000, that was going to eliminate many, many of these cases. And I don't think that we -- we haven't -- again, Petitioner isn't here pointing to a mountain of cases where this has gone horribly astray. So Section 201(c) does it for government officials without the \"corruptly.\" I'd also note -- and I think you were pointing this out earlier with the -- in the colloquy with Petitioner -- that it's not going to get us out of this problem to just graft on an a -- atextual beforehand agreement because all that has to happen is that that rich -- that rich patient says to the doctors and nurses, hey, if you treat me well, there's -- there's going to be a nice big gift for the hospital at the end. And -- and then the -- the beforehand agreement requirement just isn't going to do anything."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2786.3,
+  "e": 2786.92,
+  "text": "Counsel, you said --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2786.92,
+  "e": 2788.013,
+  "text": "So I think that's why -- yes."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2788.013,
+  "e": 2804.06,
+  "text": "-- you said the -- your friend on the other side hasn't pointed to a lot of examples in the real world. But we've had several cases where we've made the very clear point that we don't rely on the good faith of the prosecutors in deciding cases like this."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2804.4,
+  "e": 2830.347,
+  "text": "That's right. And in 1986, neither did Congress with respect to local and public officials. That's why it added the corruptly mens rea, which has to be proved to a jury, and that's why Congress added an express exception for bona fide salary for compensation in the ordinary course of business. So Congress really did confront all of the concerns that I think the Court is -- is reflecting today, and it said we recognize we do not want to just cover innocuous gift-giving activity."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2830.347,
+  "e": 2845.28,
+  "text": "And what is the -- what is your answer to Justice Kagan's hypothetical? That's a question that would be submitted to the jury, and the jury would have to decide whether the donor acted wrongfully and the hospital acted wrongfully, right?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2845.52,
+  "e": 2860.92,
+  "text": "They would have to prove that the -- the hospital understood that it was wrongful to accept that payment. Now, again, that's going to be the case. If the donor -- under Petitioner's theory, that's the case if the donor is telling the hospital when he goes in for the surgery --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2861.0,
+  "e": 2861.9,
+  "text": "No, no, no, no --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2861.9,
+  "e": 2861.9,
+  "text": "-- which I think he's going to."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2861.9,
+  "e": 2867.16,
+  "text": "-- no, no, no, don't turn it into a bribe. It's a gratuity. It's after the fact. There's no agreement."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2867.16,
+  "e": 2867.85,
+  "text": "Well, no. I --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2867.85,
+  "e": 2871.8,
+  "text": "But -- so it would be whether the hospital knew that it was wrongful?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2871.8,
+  "e": 2872.268,
+  "text": "So, yes, that's --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2872.268,
+  "e": 2887.68,
+  "text": "I mean, suppose there are in -- internal emails and one -- you know, one official says, you know, we really should be treating -- shouldn't be giving such special treatment to billionaires and another email says, you know, get real, we need money, and et cetera, et cetera."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2887.76,
+  "e": 2906.9,
+  "text": "At the end of the day, Congress is entitled to draw the statutes and to make the bars the way it wants to. The reason, though, that I was pushing back and giving you the bribery hypothetical is that I really do think that what I'm hearing today is there are some payments that just aren't or some gifts that just aren't corrupt, and that's going to be true whether you're pursuing a bribery prosecution --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2906.9,
+  "e": 2943.28,
+  "text": "And how does -- counsel, how -- how does anyone in the real world know the line? Put aside billionaires and hospitals. Deal with small gifts with teachers, doctors, police officers, all the time. And one could make an argument if it -- if -- if consciousness of wrongdoing doesn't mean consciousness of illegality, awareness of illegality, if it means something more abstract than that, how does this statute give fair notice to anyone in the world as to -- and I hate to do it, but I'm going to -- the difference between the Cheese Factory and --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2943.28,
+  "e": 2943.397,
+  "text": "Cheesecake. (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2943.397,
+  "e": 2943.747,
+  "text": "-- and -- and -- and --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 2943.747,
+  "e": 2944.151,
+  "text": "Inn at Little Washington."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2944.151,
+  "e": 2946.78,
+  "text": "-- and the Inn at Little Washington. Thank you, thank you. How does anyone know?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2946.78,
+  "e": 2953.02,
+  "text": "Well, again, Justice Gorsuch, I do not mean to suggest that if you are aware that you are violating the law, that's not going to establish consciousness of wrongdoing."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2953.04,
+  "e": 2955.7,
+  "text": "No. No, no. Counsel, put that aside. We all --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2955.7,
+  "e": 2955.87,
+  "text": "Okay."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2955.87,
+  "e": 2992.62,
+  "text": "You've -- you've rejected that as the definition of consciousness of wrongdoing. You say it includes consciousness of either illegality, which I would have thought might mean -- mean wrongdoing, but I'm wrong. It can mean something more than that. It can mean a venial sin, it can mean a mortal sin. How does -- how does somebody who accepts The Cheesecake Factory know a trip to The Cheesecake Factory for nice treatment at the hospital, for treating my child well in school, for an arrest made, how does that person know whether that falls on the -- what you call the wrongfulness side of the equation or not?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 2992.8,
+  "e": 2996.283,
+  "text": "Well, certainly, they can look at ethical guideline -- guidance and -- guidelines as they were for the City of Portage."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2996.283,
+  "e": 3000.36,
+  "text": "How about looking at state law? Counsel, how about, like, looking at state law as --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3000.36,
+  "e": 3001.72,
+  "text": "They could -- they could do that as well."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3001.72,
+  "e": 3004.06,
+  "text": "Yeah. And let's say it's all legal under state law. And you would -- and --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3004.06,
+  "e": 3008.08,
+  "text": "If it's all legal under state law, the government is not going to be able to prove consciousness of wrongdoing."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3008.32,
+  "e": 3009.7,
+  "text": "Why -- why not?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3009.7,
+  "e": 3009.913,
+  "text": "I think -- I think that where we've come --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3009.913,
+  "e": 3009.94,
+  "text": "Why?"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3009.94,
+  "e": 3010.62,
+  "text": "Why not? We're going to have --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3010.62,
+  "e": 3010.62,
+  "text": "Because I think --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3010.62,
+  "e": 3011.48,
+  "text": "Counsel, please."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3011.48,
+  "e": 3012.08,
+  "text": "Sure."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3012.08,
+  "e": 3019.34,
+  "text": "We're going to have internal emails just like Justice Alito posited. Some people say, oh, I wouldn't go to The Cheesecake Factory, that would look bad -- (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3020.74,
+  "e": 3032.86,
+  "text": "-- you know, or maybe you should go to The Cheesecake Factory but not Little -- Inn at Little Washington. A lot of nice places to me. But you're going to have evidence and you could prove it, and a jury might well convict."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3033.34,
+  "e": 3039.06,
+  "text": "Sure, and that's why the act also has to be wrongful. This is actually a protection, Justice Gorsuch, so I think that maybe we're talking a little bit at cross-purposes --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3039.06,
+  "e": 3039.58,
+  "text": "Well, can I ask --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3039.58,
+  "e": 3057.673,
+  "text": "-- because what I'm trying to say here is that the government has to show that it's wrongful and the person's aware that it's wrongful. So, if it's lawful under state law, then the -- the -- the defendant is going to be able to come in and say, no, look, this is lawful under state law. So it wasn't wrongful. The state obviously didn't think it was wrongful. And, by the way, I had no idea --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3057.673,
+  "e": 3057.84,
+  "text": "But you're going to --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3057.84,
+  "e": 3059.12,
+  "text": "Is that an automatic rule?"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3059.12,
+  "e": 3059.42,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3059.42,
+  "e": 3069.92,
+  "text": "Is that an automatic rule that -- is that a safe harbor? If it's lawful under state law or local law, then you cannot be federally prosecuted for the gratuity under this statute?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3070.26,
+  "e": 3075.1,
+  "text": "If it -- if it's lawful under the governing rules that apply to the person?"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3075.1,
+  "e": 3079.62,
+  "text": "In other words, it's not made unlawful. If it's not made unlawful --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3079.62,
+  "e": 3080.1,
+  "text": "I mean, I --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3080.22,
+  "e": 3091.18,
+  "text": "-- let me finish -- by the relevant state law or local law, is that an automatic -- automatic safe harbor such that the federal government cannot prosecute under this statute?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3091.18,
+  "e": 3111.22,
+  "text": "Yes, but, I -- you know, I have to just for the sake of the public integrity unit say that if a city mayor decided to change all the ethics rules to allow him to take billions of dollars in -- in connection with contracting, then I don't think he could get it in. But, otherwise, yes, we're not -- so, again, this is what I'm trying to say. The consciousness of wrongdoing isn't a trap for the --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3111.22,
+  "e": 3111.22,
+  "text": "Should there be a --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3111.22,
+  "e": 3111.22,
+  "text": "But say a --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3111.22,
+  "e": 3112.84,
+  "text": "-- unwary. It's to help the unwary."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3112.86,
+  "e": 3119.46,
+  "text": "-- a little town has no rules about gratuities, so you can't prosecute anybody in that town under 666?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3119.46,
+  "e": 3125.48,
+  "text": "No. So, first of all, there would be state rules. Absolutely, there's going to be state rules. I took just --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3125.48,
+  "e": 3141.24,
+  "text": "All right. There's no applicable -- the state has left the -- the regulation of gratuities to the municipalities. And a particular town has got 3,000 people, 2,000 people, 1,000 people. It has no rules about the gratuities that police officers can accept."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3141.86,
+  "e": 3154.04,
+  "text": "Look, if the police officer can come forward and say, I just had no idea this was wrongful because there were no applicable rules, there was no applicable state law, then the government isn't going to be able to prove consciousness of wrongdoing."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3154.04,
+  "e": 3156.64,
+  "text": "Then -- the question was whether that's an automatic rule."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3156.64,
+  "e": 3157.16,
+  "text": "No, no --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3157.16,
+  "e": 3162.2,
+  "text": "And, first, you said it was, and now -- an automatic safe harbor. Now I think you're saying it's not."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3162.22,
+  "e": 3179.08,
+  "text": "No, I disagree. Let me distinguish between two things. One is a case where there are ethics rules that say this is permissible, okay? If there are ethics rules that say this is permissible, if there are state laws that say this kind of gratuity is permissible, that is a safe -- safe harbor, other than --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3179.08,
+  "e": 3179.48,
+  "text": "I -- I --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3179.48,
+  "e": 3179.48,
+  "text": "Usually --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3179.48,
+  "e": 3181.62,
+  "text": "-- changed the language of the --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3181.62,
+  "e": 3181.62,
+  "text": "Okay. Maybe I didn't hear that."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3181.62,
+  "e": 3187.5,
+  "text": "-- question then to say also what if it's just, to Justice Alito's point, not made unlawful?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3187.5,
+  "e": 3190.52,
+  "text": "Ah, ah, ah, ah. I see. Okay. So I think there --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3190.7,
+  "e": 3192.28,
+  "text": "What's the answer there? Is that a safe harbor?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3192.52,
+  "e": 3197.02,
+  "text": "It's not necessarily a safe harbor if it's obviously wrongful conduct, but I will say it does not mean --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3197.02,
+  "e": 3198.2,
+  "text": "What is obviously wrongful?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3198.44,
+  "e": 3198.96,
+  "text": "So, yes."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 3199.34,
+  "e": 3199.99,
+  "text": "Isn't -- counsel, isn't --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 3199.99,
+  "e": 3207.8,
+  "text": "And what's the jury instruction -- what -- maybe this is a good way to say it. What is the exact wording of the jury instruction on \"corruptly\" in your view?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3208.54,
+  "e": 3251.48,
+  "text": "So I think there's two different options. One is to isolate what is obviously wrongful in the particular case. That's what happened here, right? So, in this case -- and let me -- I think this is a helpful way of seeing how it played out. Petitioner was not saying: Oh, it's -- I -- I didn't know it was wrongful to take a $13,000 payment. What -- what Petitioner was saying is: Oh, I wasn't taking a $13,000 reward, I was actually taking consulting fees. So the jury instructions here said: What the jury has to find is that the Petitioner understood that this was a reward. So that's what separated the wrongful from the innocent conduct. So that's one way of doing jury instructions, to look at a particular case and just say: Okay, what would make accepting $8 million for a hospital patient --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3251.6,
+  "e": 3265.52,
+  "text": "Well, I don't think that -- I don't think that gets you very far from the things where people have been talking about, understood that this was a reward. I mean, they understand that the, you know, plate of cookies or whatever is a reward."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3265.52,
+  "e": 3265.58,
+  "text": "So --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3265.58,
+  "e": 3270.4,
+  "text": "But that doesn't mean that they should be -- be facing the criminal exposure we're talking about."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3270.84,
+  "e": 3293.04,
+  "text": "Yes. Pardon me. And we're not saying that if the government was somehow prosecuting a plate of cookies, this instruction would be sufficient. What I'm saying is that in most cases, there's actually no dispute about whether it would be wrongful to accept thousands of dollars in return for having done some official act. The dispute is about, well, was it? Was it a reward for doing that specific official act or was it something else entirely?"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3293.3,
+  "e": 3294.33,
+  "text": "Well, you say that it --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 3294.33,
+  "e": 3294.44,
+  "text": "Well --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3294.56,
+  "e": 3299.94,
+  "text": "-- you say that it doesn't -- you know, that it's -- the government's not going to go after you for the plate of cookies."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3300.26,
+  "e": 3300.58,
+  "text": "That's right."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3300.84,
+  "e": 3306.38,
+  "text": "But, I mean, you know, Al Capone went to jail for tax fraud, right, not for killing however many people."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3306.38,
+  "e": 3306.78,
+  "text": "That's right."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3306.78,
+  "e": 3318.02,
+  "text": "And, you know, you were careful to make sure you weren't stepping on the toes of the public integrity unit, but I suspect they have a different perspective on a lot of these things than others might."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3318.02,
+  "e": 3323.1,
+  "text": "No, no, in -- in terms of whether the reward needs to be --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3323.1,
+  "e": 3335.78,
+  "text": "Whether they can go after something that other people might regard as really sort of normal type of let's say gratuity, you know, whether it's a Christmas gift for the -- for the trash collectors or something like that."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3335.8,
+  "e": 3344.9,
+  "text": "No, I disagree. And they certainly couldn't in the Seventh Circuit if you look at 41A, the -- the Seventh Circuit said that accepting something corruptly is knowing that it's forbidden so that this is already --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 3344.9,
+  "e": 3345.56,
+  "text": "So, counsel, isn't --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3345.56,
+  "e": 3346.44,
+  "text": "-- in the Seventh Circuit --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 3346.44,
+  "e": 3351.48,
+  "text": "-- isn't -- isn't that really the answer to Justice Kagan's hypothetical that sort of got -- got us down this road?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3351.48,
+  "e": 3351.64,
+  "text": "It did."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 3351.64,
+  "e": 3439.28,
+  "text": "In other words, to the extent that we have an ordinary practice of, you know, unfortunate as it may be, you know, high-profile, special, you know, people, billionaires who come to hospitals and it's sort of understood generally that the development office is going to be notified and afterwards that person might, in fact, be asked to give a donation to the hospital that treated him so well, et cetera. That's sort of standard practice. So, in a situation like that, I would think the government's position is that is not wrongful from the standpoint of corruption. We could not prove consciousness of wrongdoing related to anybody who's doing that sort of thing precisely because it's standard practice. But, when you have a situation like this one, where it's not standard practice for a garbage -- a contract to be given to a particular company and then the company that received that contract to pay out money, $13,000 for the officials who were involved, that doesn't happen very often. And so, when we're in that world, then perhaps we do have a dispute about whether or not there was wrongful behavior, consciousness of wrongdoing, et cetera. But that's what separates all these other standard practice, the cookies, the gift cards, the whatever, that's normal practice, as opposed to --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 3439.28,
+  "e": 3474.0,
+  "text": "Unless it's a corrupt -- what if -- what if it's a corrupt, like -- sorry to pick, you know, on Illinois or Chicago, but what if you're talking about some sort of local unit or a corrupt hospital where that actually is kind of corrupt practice that everyone would agree would be wrongdoing? Not the donation to the hospital. Talk about something that's more unsavory. Maybe these rewards are just kind of accepted in this small town, and -- and, you know, you can't use that guideline then that Justice Jackson is talking about about what's standard because graft could be standard or gratuities could be standard even in unsavory cases."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3474.0,
+  "e": 3491.96,
+  "text": "So the government has the burden of proof. They need to prove that somebody acted corruptly with consciousness of wrongdoing. I certainly agree with Justice Jackson that if a person knows that this kind of behavior is happening all the time, that's the evidence they're going to put in to make it a very difficult for the government to meet their burden of proof. I take your point --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3491.96,
+  "e": 3491.96,
+  "text": "Counselor, can I --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3491.96,
+  "e": 3494.62,
+  "text": "-- that the government might say, well, this is an obviously corrupt --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3494.62,
+  "e": 3494.84,
+  "text": "Counsel?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3494.84,
+  "e": 3496.64,
+  "text": "-- hospital, here's all the other evidence of that."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3496.64,
+  "e": 3500.4,
+  "text": "Counsel, my head is spinning."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3500.4,
+  "e": 3502.0,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3502.66,
+  "e": 3590.98,
+  "text": "I see the questions before us as twofold. Does the language of -- of this 201(c) include a gratuity? It's very hard for me to think otherwise because the language is pretty clear. So, if it's clear that it includes gratuity, a lot of these questions have to do with what kind of gratuity, and that's where I think my colleagues are focused on what does the word \"corruptly\" mean. And you are fighting their suggestion that if you limit it to accepting rewards that are unlawful -- I -- I think Justice Gorsuch said, \"unlawful\" defined how? He would say under state law, I think. I don't want to be putting words into his mouth, but I think he would say unlawful by state law. But you want to broaden it. You want to say by ethical rules. But assume we -- we put that aside. Can you live with yes, it includes gratuities but only if you define \"corruptly\" as being unlawful, the way that Andersen suggested that went a little more broadly?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3590.98,
+  "e": 3615.68,
+  "text": "With -- with the understanding of -- of unlawfulness, yes, absolutely. And let me answer that directly. Let me also say that I -- I -- I take your point, \"rewarded\" -- I think the reason we're talking about \"corruptly\" is because \"rewarded\" just very clearly does cover after-the-fact payments. There is no beforehand-agreement requirement. And I think that to the extent there's a dispute about exactly how you would define \"corruptly,\" that isn't before the Court because they did not object to the definition of \"corruptly.\""
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3615.68,
+  "e": 3637.66,
+  "text": "I understand it's not before the Court, but it really is because, if -- if we -- if it's not defined that way, I think there's a sense of then \"gratuity\" has no meaning, that anyone that could -- it would be so vague that it would be impossible."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3638.44,
+  "e": 3643.94,
+  "text": "It would just be the provision that applies to federal officials in Section 201(c), which doesn't have the corruptly mens rea."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3644.28,
+  "e": 3644.3,
+  "text": "Yes."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3644.48,
+  "e": 3644.68,
+  "text": "That's right."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3645.02,
+  "e": 3645.02,
+  "text": "Obviously."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3645.54,
+  "e": 3647.04,
+  "text": "Thank you, counsel. Justice Alito?"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3648.06,
+  "e": 3666.16,
+  "text": "Well, I'm not sure I understood your most recent colloquy with Justice Sotomayor. You said that it would be -- that \"corruptly\" should or could reasonably be interpreted to mean unlawful under state law? Is that what you said?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3666.68,
+  "e": 3677.5,
+  "text": "I said -- I think she asked whether we could live with a -- a -- a definition, and I said that understanding that it was unlawful is a definition I think that certainly would be preferable to carving out gratuities from the statute altogether."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3678.34,
+  "e": 3686.14,
+  "text": "So, if something is not unlawful under state law, then it cannot be prosecuted as a gratuity under 666?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3686.46,
+  "e": 3691.92,
+  "text": "If the person -- the person needs to understand that what they're doing is wrongful. I mean, this is why we do think it means more than --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3691.92,
+  "e": 3693.32,
+  "text": "And that's a -- it's really a simple --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3693.32,
+  "e": 3693.32,
+  "text": "Yeah, I mean, absolutely, because --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3693.32,
+  "e": 3694.42,
+  "text": "Counsel, really --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3694.42,
+  "e": 3694.54,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3694.54,
+  "e": 3695.6,
+  "text": "-- it's a simple question."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3695.96,
+  "e": 3697.184,
+  "text": "Okay. Let me just be clear."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3697.184,
+  "e": 3698.16,
+  "text": "It's a yes-or-no question."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3698.3,
+  "e": 3698.78,
+  "text": "Let me be clear. I can live --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3698.78,
+  "e": 3700.24,
+  "text": "I just want to understand your position."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3700.52,
+  "e": 3745.9,
+  "text": "Yes. Absolutely. I can live with, as I said to Justice Sotomayor, that narrow definition. I do not think it is correct. So that's the distinction that I am trying to draw. But, if the Court is intent on saying we have this statute that Congress wrote that says you can't accept a payment intending to be rewarded, but it has to be corrupt. If the Court thinks that what Congress wrote is not good enough, it's not protective enough of city officials and we need to graft a limit on, I would certainly rather you graft on a limit that is still going to catch people who are, like Petitioner, taking large sums of money after they awarded a contract with every intent to get that -- large sums of money. I would certainly rather you accept -- leave some room for that as opposed to carving it out entirely."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3747.08,
+  "e": 3766.26,
+  "text": "Okay. And to -- just to summarize so I understand where you are, you think that \"corruptly\" means moral -- immoral or wrongful, and it requires knowing, the person must know that what is being done is immoral or wrongful?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3766.58,
+  "e": 3771.18,
+  "text": "Know that it's forbidden. Again, I'm just -- to be honest, I'm quoting Arthur Andersen. So I think, if you're looking for --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3771.18,
+  "e": 3771.18,
+  "text": "Just tell me what --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3771.18,
+  "e": 3772.4,
+  "text": "-- my definition of \"corruptly\" --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3772.4,
+  "e": 3772.42,
+  "text": "Just tell me --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3772.42,
+  "e": 3772.48,
+  "text": "Sure."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3772.48,
+  "e": 3773.74,
+  "text": "-- what the definition is."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3773.74,
+  "e": 3783.9,
+  "text": "So what Arthur Andersen said is that \"corrupt\" needs to be wrongful, evil, immoral, and a consciousness of wrongdoing. So that's it. That's what we're looking at."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3785.22,
+  "e": 3795.3,
+  "text": "Okay. And where does -- where would one look to find the rules of wrongfulness and immorality that would be applied in that situation?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3795.78,
+  "e": 3814.24,
+  "text": "Well, again, I think that the criminal laws are a great place to look, so where the conduct is obviously unlawful. You can also look at ethical codes and regulations if you're not sure whether something is obviously wrongful. None of this was litigated in this case because, again, there was no dispute that accepting a $13,000 payment for having granted a contract was wrongful, which I think was what he was doing."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3814.24,
+  "e": 3833.46,
+  "text": "I -- I -- we -- I think we understand that. But we didn't really take this case just to decide whether this case was correctly -- this particular case was correctly decided. We took it to explore the meaning of this provision. Was the jury instruction here on \"corruptly\" correct?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3834.14,
+  "e": 3859.43,
+  "text": "It was in the circumstances of this case because there was no dispute about whether accepting a reward was wrongful. But, Justice Alia, that's what -- sorry, pardon me. Justice Alito, that is precisely what I'm -- I'm trying to say. You do have to look at the circumstances because you have to isolate what was wrongful. And, here, there was no dispute that taking $13,000 as a payment for having granted a contract was wrongful. That's why Petitioner didn't object to the jury instructions."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3859.43,
+  "e": 3863.84,
+  "text": "Is -- is this the standard instruction that the government has requested --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3863.84,
+  "e": 3863.84,
+  "text": "In the Seventh --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3863.84,
+  "e": 3867.16,
+  "text": "-- in 666 gratuity cases?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3867.86,
+  "e": 3890.96,
+  "text": "In the Seventh Circuit, this comes from the model jury instructions. I would say that in -- in the prosecutions that I have seen, there just hasn't really been room to argue that the person -- that the -- the acceptance of the payment wasn't wrongful because what the government has been prosecuting is taking money and then doing everything that you can to cover up the fact that you took the money as a reward. And, there, it's pretty easy to show consciousness of wrongdoing, right?"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3890.96,
+  "e": 3891.24,
+  "text": "But I --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3891.24,
+  "e": 3902.72,
+  "text": "I think what you're all talking about is these fringe cases where, oh, it's not really clear because the person actually took it openly and notoriously. That's going to make it really hard for the government to show consciousness of wrongdoing if it's had --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3902.72,
+  "e": 3911.86,
+  "text": "If we looked at the jury instructions in 50 666 gratuity cases, what would we find on the question of \"corruptly\"?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3911.86,
+  "e": 3912.2,
+  "text": "So --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3912.2,
+  "e": 3936.06,
+  "text": "What would -- what would the jury be told? Here, what the jury was told is -- am I right, page 28 of the Joint Appendix -- a person acts corruptly when he acts with the understanding that something of value is to be offered or given to reward or influence. So, as to gratuity, to reward in connection with his official duties. I mean, all that has to be -- the person has to -- to know is that this is a reward."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3936.06,
+  "e": 3936.92,
+  "text": "In this --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3936.92,
+  "e": 3939.94,
+  "text": "It doesn't have to be immoral, wrongful, or anything else."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3940.86,
+  "e": 3944.56,
+  "text": "Again, that's -- in the circumstances of this case, there was no dispute."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3944.7,
+  "e": 3945.04,
+  "text": "I -- I --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3945.04,
+  "e": 3945.04,
+  "text": "So I take your point."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3945.04,
+  "e": 3950.96,
+  "text": "-- I -- I understand that. I understand that. I -- I'm not -- I don't want to talk about the circumstances of this case."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3950.96,
+  "e": 3951.32,
+  "text": "I know."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3951.32,
+  "e": 3967.88,
+  "text": "I want to talk about what the law means and what the government's position has been on the issue of \"corruptly\" in other cases. Is this standard or, if we look at the others outside of the Seventh Circuit, the \"corruptly\" is defined as immoral or wrongful?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 3968.02,
+  "e": 4035.26,
+  "text": "So the Second Circuit, I believe, has instructions that ask about a wrongful purpose. And, of course, if the -- if the defendant thinks, look, I didn't know what -- that taking this reward was wrong, then he can ask for an instruction saying, I had no -- asking the jury to decide whether he understood that the -- taking the reward was wrong. So there can be that express request. And -- and -- and this is just -- I'm -- I'm just sort of taking a page from Arthur Andersen on all of this. \"Corruptly\" is, I admit, a relatively unique -- or a unique mens rea, but it's one with a rich historical pedigree. So it's not that the government is making up some new limit. It's not that Congress in 1986, when it was trying to -- to eliminate innocuous gratuities, was doing something wild and crazy by saying, you know, we're going to use the corruptly mens rea because that is going to get -- make sure that when people don't understand that what they're doing is wrongful, that when they're engaged in what everyone would reasonably think or at least, you know, that somebody would reasonably think was just innocuous conduct, then they're not going to be prosecutable because the government just isn't going to be able to show that that was corruptly."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4035.58,
+  "e": 4036.02,
+  "text": "Counsel --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4036.02,
+  "e": 4038.2,
+  "text": "I'm sorry. Are you done?"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 4038.2,
+  "e": 4063.48,
+  "text": "Well, I am concerned about the breadth of -- the breadth of your interpretation, and it all seems to -- to rest on the understanding of \"corruptly.\" The person who gives a reward simply because that person is grateful may not know what the ethics rules are with respect to the recipient of this reward. So is that a defense?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4064.96,
+  "e": 4087.58,
+  "text": "Certainly, the -- that -- that person could ask for a jury instruction saying they need to -- they -- there needs to be consciousness of wrongdoing, so they need to have understood that what they were doing was wrongful. These are sort of obscure ethics rules, they didn't know -- you know, the person could say, I didn't know about them. These are obscure ethics rules. How would anybody know, you know, $25, $50? And, yes, then they're entitled to a jury instruction saying no, there had to be a consciousness of wrongdoing."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 4087.64,
+  "e": 4134.46,
+  "text": "I mean, we can think of lots of different hypotheticals, and there are a lot in the briefs and a lot have occurred. I'll just give you one more and then I'll stop. So the owner of a -- of a car dealership gets money under -- during -- as a result of COVID, enough money to -- to qualify, and the owner is thankful to a firefighter for saving the life of his daughter, and so, when that firefighter comes in to -- his car breaks down and wants a new car, but at that time, people are lined up, the cars are in short supply, and the -- the dealer says, okay, well, you know what, for you, I'll put you at the top of the list, is that a -- is that a violation?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4134.9,
+  "e": 4144.74,
+  "text": "If he does not have a consciousness of wrongdoing, that if he does not understand that what he is doing is wrong, I don't think the government -- no, there's not going to be a conviction for that. Again, the -- the corruptly --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 4144.74,
+  "e": 4148.34,
+  "text": "There's not going to be a conviction because the jury is going to be sympathetic to this fellow?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4148.56,
+  "e": 4191.9,
+  "text": "No, because it's not going to fulfill the corruptly mens rea. Again, I want to be clear because I think we get -- keep losing sight of this. Section 201(c) bars for federal officials just accepting gratuities, and it has no corruptly mens rea. The corruptly mens rea is a break. It's a break that Congress put in as an extra help to make sure that people who are bound by Section 666 aren't going to be prosecuted for all of this innocuous conduct. So I think this idea that by putting in something to protect -- an extra protection for Section 66 -- people covered by Section 666, you could somehow render all the coverage of -- of gratuities totally vague and unclear, I mean, that just can't be right."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4192.54,
+  "e": 4194.46,
+  "text": "Thank you. Thank you, counsel. Justice Sotomayor?"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4195.06,
+  "e": 4236.34,
+  "text": "Counsel, you answered Justice Alito by saying the instruction here was correct. But I'm reading the Seventh Circuit opinion at page 580, and the court is talking about that it's recognizing the disparate penalties for gratuities between federal and state officers, and the difference is mitigated -- this is the court's words -- by the additional requirement in Section 666 that the reward be paid or received corruptly. And it defined \"corruptly,\" i.e., with the knowledge that giving or receiving the award -- reward is forbidden."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4236.66,
+  "e": 4237.04,
+  "text": "That's right."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4237.54,
+  "e": 4239.68,
+  "text": "All right. But that wasn't part of the charge here."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4240.08,
+  "e": 4243.355,
+  "text": "At 41A? No, because, again, the Petitioner was not -- was not arguing."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4243.355,
+  "e": 4249.04,
+  "text": "So -- so the charge wasn't correct. It just was not the -- any error was not preserved to be --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4249.04,
+  "e": 4251.66,
+  "text": "I mean, that's an issue that could be dealt with on remand. But what I would say -- yes. Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4251.66,
+  "e": 4253.52,
+  "text": "I understand. Just answer my question."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4253.52,
+  "e": 4253.52,
+  "text": "Yes, I am. So --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4253.52,
+  "e": 4256.04,
+  "text": "All right. Now stop, okay?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4256.04,
+  "e": 4256.04,
+  "text": "Okay."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4260.1,
+  "e": 4276.84,
+  "text": "Assuming if you go back below, if we say that -- I'm not saying we're going to say it -- that it doesn't -- that 666 doesn't cover any kind of gratuity, what happens? Is this a reversal or a vacate and remand?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4277.72,
+  "e": 4280.98,
+  "text": "It's a vacate and remand because the government was pursuing a bribery theory."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4281.47,
+  "e": 4282.04,
+  "text": "As well?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4282.04,
+  "e": 4282.76,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4282.76,
+  "e": 4287.74,
+  "text": "And so it was -- we don't know what the acquittal went to, whether it went --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4287.74,
+  "e": 4287.74,
+  "text": "Well --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4287.74,
+  "e": 4289.64,
+  "text": "-- to the bribery or to the reward?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4289.64,
+  "e": 4292.3,
+  "text": "So -- pardon me. It's a -- it's a single offense, the corrupt --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4292.3,
+  "e": 4292.3,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4292.3,
+  "e": 4304.46,
+  "text": "-- acceptance offense, that can be committed through intending to be influenced or rewarded. Now the -- the district court actually found that there was sufficient evidence to convict purely on the -- on the quid pro quo gratuity theory."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4304.46,
+  "e": 4305.68,
+  "text": "I remember that, yes."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4305.68,
+  "e": 4305.795,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4305.795,
+  "e": 4305.91,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4305.91,
+  "e": 4306.025,
+  "text": "So --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4306.025,
+  "e": 4310.26,
+  "text": "So -- and if I don't disagree with that, then is there a retrial?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4311.3,
+  "e": 4317.54,
+  "text": "No, we think that there would be because the evidence was sufficient to convict on the -- on the -- on the bribery."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4317.86,
+  "e": 4318.12,
+  "text": "That was --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4318.12,
+  "e": 4318.76,
+  "text": "But, again, that's something for remand."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 4318.76,
+  "e": 4319.46,
+  "text": "All right. Thank you, counsel."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4320.62,
+  "e": 4320.71,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4320.71,
+  "e": 4321.1,
+  "text": "Justice Kagan?"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4321.8,
+  "e": 4324.0,
+  "text": "I think I've got your view of \"corruptly.\""
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4324.0,
+  "e": 4324.28,
+  "text": "I'm glad."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4324.28,
+  "e": 4342.78,
+  "text": "But, if you put that aside, are there any safe harbors in this statute -- and just like if you would list for me the safe harbors that the government thinks exists either on the face of this statute or in the way you're prosecuting this statute, just give me a list."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4342.78,
+  "e": 4353.98,
+  "text": "Sure. So the -- the safe harbors that come from the text, so this is in a sort of trust us argument. There's the that it has to be in connection with business and -- or transactions worth $5,000."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4353.98,
+  "e": 4354.62,
+  "text": "Got it, five -- $5,000."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4354.62,
+  "e": 4361.2,
+  "text": "Right. That's the Sun-Diamond, there has to be the nexus, that's going to kick out a whole bunch of innocuous conduct, more even than --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4361.2,
+  "e": 4362.24,
+  "text": "Just -- just list them."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4362.32,
+  "e": 4375.26,
+  "text": "Just list them? Okay. So the corruptly mens rea, the nexus requirement, the $5,000 floor, and the express exception for bona fide salary and compensation in the ordinary course of business."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4375.4,
+  "e": 4375.86,
+  "text": "Anything else?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4376.42,
+  "e": 4385.68,
+  "text": "That's -- that's all -- well, and pardon me, and then the First Amendment protection that says that under McCormick we understand that to mean that there really has to be an express quid pro quo when we're dealing with a bona fide campaign contribution."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4385.98,
+  "e": 4396.12,
+  "text": "Nothing else that the government can say we realize that this doesn't appear on the text of the -- in the text of the statute on, you know, like you just read it, but we never prosecute X, Y, or Z?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4396.12,
+  "e": 4398.86,
+  "text": "I mean, you -- you've told me to sort of set aside \"corruptly.\""
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4398.86,
+  "e": 4398.86,
+  "text": "Yes, set aside."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4398.86,
+  "e": 4490.92,
+  "text": "And I think that's where a lot of that comes in. But, for example, the government does not prosecute pure charitable contributions. Sometimes charitable contributions are used as a funnel, so it's just sort of like you pay into the charity and then that goes right into the person's pocket, but the government doesn't -- doesn't prosecute these -- the -- the just a pure charitable contribution. If you actually look at the facts of the cases that they're citing, I think one of them is from the Local 150, that's the Donegal prosecution, there's actually thousands and thousands of dollars and -- of payments of all different kinds. That's actually on -- on Westlaw. You can look at the facts. They're quite dramatic. So that's not just pure charitable contributions. Similarly, I think they refer to a building inspector case. In that case, somebody was giving -- the building inspector was giving permits and then -- and then getting, again, large amounts of money from developers having given them that -- the permit, so I think we had 30 -- a $240,000 loan, $30,000 the person just got to keep scot-free. So -- so I -- I guess I'm kind of trying to give you a picture of the sort of prosecutions, which I -- I -- I guess I'm -- I'm -- I'm not kind of including in here the kind of apple for teacher and the like, you know, the hypotheticals that you see in Petitioner's brief. They're just not even on the radar in terms -- of the government. So I think those are just what we're looking for is, again, corrupt acceptance of a payment with the intent to be rewarded in connection with business or transactions worth at least $5,000. And when we're talking about all these hypotheticals, they just in the government's view, I think in any court's view, in any jury's view, they just don't fall into that."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4491.2,
+  "e": 4491.68,
+  "text": "Okay. Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4492.52,
+  "e": 4493.06,
+  "text": "Justice Gorsuch?"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4493.94,
+  "e": 4524.98,
+  "text": "Counsel, you in your brief make the point that we have to interpret \"rewarded\" your way rather than your friend's way because, otherwise, we're going to have a superfluity problem. In a case we're going to hear in a couple of days, the government makes the opposite argument and says that -- I think it says overlap is not uncommon in criminal statutes, and, therefore, we -- superfluity doesn't come into play. Which is it?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4525.82,
+  "e": 4531.66,
+  "text": "So I think that, certainly, sometimes there is superfluity in a statute. There's belt and suspenders."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4531.66,
+  "e": 4531.86,
+  "text": "Yes."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4531.86,
+  "e": 4533.74,
+  "text": "The reason not here, Justice Gorsuch --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4533.74,
+  "e": 4536.98,
+  "text": "Yeah. Why -- why -- why -- why does it matter here, but it doesn't two days from now?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4537.3,
+  "e": 4541.0,
+  "text": "So the reason that it matters in this case -- and I can't, of course, speak for other cases -- but the reason it matters --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4541.0,
+  "e": 4541.12,
+  "text": "Well, is --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4541.12,
+  "e": 4545.48,
+  "text": "-- to this case is that, well, because I'm here about this case. So the reason is that --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4545.48,
+  "e": 4550.46,
+  "text": "You represent the government of the United States, which I would hope would take consistent positions across cases."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4550.46,
+  "e": 4550.8,
+  "text": "We -- and we --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4551.98,
+  "e": 4552.4,
+  "text": "So, counsel --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4552.4,
+  "e": 4553.22,
+  "text": "Let me explain to you why we are."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4553.4,
+  "e": 4553.86,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4554.92,
+  "e": 4587.72,
+  "text": "So Congress added the term -- it added \"intended to be influenced or rewarded\" in 1986, so there, adding the \"rewarded\" to what would otherwise have been language closely top -- closely tracking Section 201(b), they clearly were trying to add something to cover more, to cover additional material. So, there, when we have Section 201(b), which would be the example of what you would do if you wanted to cover only the type of quid pro quo bribery that Petitioner is talking about, they had that, but they didn't just take 201(b) and plop it into Section 666."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4588.12,
+  "e": 4588.34,
+  "text": "I got it."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4588.34,
+  "e": 4589.44,
+  "text": "Instead, they added \"rewarded.\""
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4589.44,
+  "e": 4601.2,
+  "text": "Counsel, I -- I got it. I got it, okay? And earlier this term the government argued that it would defy common sense for Congress not to have required more serious sentences for more serious crimes in Pulsifer."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4601.2,
+  "e": 4602.36,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4602.36,
+  "e": 4620.0,
+  "text": "And that -- that -- that argument prevailed. Here, you're suggesting that it makes sense for the more serious offense of bribery and the less -- lesser offense of receiving a gratuity to receive the same punishment. Can you -- can you reconcile that one for me?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4620.0,
+  "e": 4637.8,
+  "text": "Of -- of course, the government looks first to the text, and we know that the text here says that the 10-year penalty it did in 1984 when Petitioner acknowledges that it undisputedly covered gratuities. But I -- I can give you a historical reason why I think we have that, you know, the two years under 1962 and the -- and the 10-year maximum --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4637.8,
+  "e": 4653.66,
+  "text": "That -- that wasn't -- that wasn't my question. Why would -- why would both bribery and receipt of a gratuity have the same 10-year sentence here and we should ignore that, but we were supposed to take cognizance of that kind of issue just last month?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4654.32,
+  "e": 4688.38,
+  "text": "Because Section 666 was enacted as part of the 1984 Crime Control Act, which also enacted the sentencing guidelines. And so Congress was moving from a situation where, as it had in 201, it was specifying specific sentences for specific law -- for specific types of breaking of a law. So there's 201(b). It had the two-year maximum for that. In 1984, Congress is doing sentencing guidelines, so it's saying we're going to have, you know, a maximum, but we're not going to worry about that because we're going to have mandatory guidelines that are going to take care of this. And then, in fact, if you look, Section 666 is listed both --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4688.38,
+  "e": 4688.98,
+  "text": "Well, the mandatory --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4688.98,
+  "e": 4688.98,
+  "text": "-- under the gratuities guidelines --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4688.98,
+  "e": 4694.2,
+  "text": "-- guidelines argument was the same point that was made in Pulsifer, and you -- you said that wasn't enough there."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4694.44,
+  "e": 4710.26,
+  "text": "So just -- just to finish my point, if you look at the guidelines, the -- there is a gratuity guideline that 100 applies to Section 666. There is a bribery guideline that applies to Section 666. Under the gratuity guidelines, people are not getting more than two-year sentences. And Petitioner hasn't pointed to anywhere that has happened."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4710.72,
+  "e": 4730.28,
+  "text": "Okay. Last one. And it -- this is circling back to Justice Kagan. And, again, put aside the -- the question about \"corruptly.\" It seems to me that -- that the major safeguard that you pointed to in that discussion was the $5,000 threshold. Is that right? The $10,000 threshold and the $5,000 threshold?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4730.42,
+  "e": 4732.9,
+  "text": "I think the bona fide salary exception is pretty important."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4732.9,
+  "e": 4767.08,
+  "text": "Okay. Okay, got that. Okay. With respect to those thresholds, the government seems to have argued that they're satisfied pretty easily. In connection with business of an organization, the government's argued that we can take account of the salary of police officers, which are obviously more than $5,000. So, because a police department receives $10,000 and the police officer makes 101 more than $5,000, any gift of any value would seem to qualify. What am I missing there?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4767.4,
+  "e": 4774.528,
+  "text": "No, that's not quite right. So I think you're talking about the case in which there was a -- a drug dealer who was giving, I think $1,000 --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4774.528,
+  "e": 4774.96,
+  "text": "No, I'm not talking --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4775.14,
+  "e": 4776.5,
+  "text": "I mean, that is the -- the case in which the -- yes."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4776.5,
+  "e": 4778.44,
+  "text": "That's the case where the Seventh Circuit said that --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4778.44,
+  "e": 4778.92,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4778.92,
+  "e": 4781.7,
+  "text": "-- $5,000 was satisfied by the police officer's salary."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4781.7,
+  "e": 4782.12,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4782.12,
+  "e": 4782.6,
+  "text": "That's true."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4782.94,
+  "e": 4791.6,
+  "text": "And the reason was because they were counting up how many salary hours the police officers would have spent, and they were evaluating that. So it wasn't just kind of like a police officer makes more than $5,000."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4791.82,
+  "e": 4806.94,
+  "text": "So anytime an employee at a hospital does more than $5,000 102 worth of work on behalf of a patient, or a teacher spends more than $5,000 worth of time with a student, then that -- that -- that threshold would be satisfied in the government's view?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4807.22,
+  "e": 4811.24,
+  "text": "Where the specific transaction and business is worth more than $5,000, yes."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4811.48,
+  "e": 4812.26,
+  "text": "Okay. Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4813.0,
+  "e": 4813.72,
+  "text": "Justice Kavanaugh?"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4813.72,
+  "e": 4895.62,
+  "text": "You -- you've said several times, I think, that some gratuities, some thank yous should be proscribed either because of the appearance problem they present, government officials getting payments like that, or because they're suggestive of something more nefarious that might also be going on with respect to the government official. And, you know, I -- I -- there's widespread agreement on that, I think, and I certainly do as well agree on that. I think there are two issues here you need to deal with, though, and I'm going to come back to them. One is we're talking about state and 103 local officials who might have different state and local rules than what the federal government's going to come in and superimpose on them. The second issue is the word \"corruptly.\" And you said, I think, that the word \"corruptly\" was a break on an otherwise broad statute and so it's a good thing here, right? And I accept that, but the problem is the word \"corruptly\" then creates enormous uncertainty and vagueness about where the line is drawn. And so, when you have state and local officials who have one set of rules they think they're following, coupled with a vague federal line that they have no idea where that's drawn, and it's up to 10 years in prison, that's a problem."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4895.94,
+  "e": 4910.42,
+  "text": "So I think, to -- to -- to alleviate that concern, it is consciousness of wrongdoing. So, if there's uncertainty -- if there's uncertainty about whether accepting that reward is wrongful, the government isn't going to be able to prove that the person had this consciousness of wrongdoing. So I think --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4910.42,
+  "e": 4937.26,
+  "text": "Well, you nicely anticipated my next question, which is to drill 104 down again, and you did with Justice Sotomayor, on \"wrongful,\" and Justice Gorsuch as well. I think it's your backup position. I think you said you could live with it. But I'm going to make sure I've got it. An instruction that says you're -- you're only guilty under this statute, paraphrasing, if you -- if the conduct was unlawful under state or local law?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4937.7,
+  "e": 4938.46,
+  "text": "Can I live with that?"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4938.74,
+  "e": 4938.99,
+  "text": "Are you okay with that?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4938.99,
+  "e": 4945.02,
+  "text": "Over -- over cutting out gratuities entirely? I mean, yes, I'm going to take the -- the -- the narrower statutory surgery."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4945.6,
+  "e": 4950.96,
+  "text": "And knew that it was unlawful? Because you've said consciousness of wrongdoing."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4950.96,
+  "e": 4951.34,
+  "text": "Yes."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4951.34,
+  "e": 4966.0,
+  "text": "So consciousness of illegality. In other words, this statute would be narrowed to a situation where it was unlawful under state or local law and you knew it was unlawful under state or local law to take that gratuity. That's your -- I mean -- 105"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4966.0,
+  "e": 4967.0,
+  "text": "Yes. Yes."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4967.22,
+  "e": 4969.06,
+  "text": "-- that's better from your perspective than --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4969.06,
+  "e": 4983.16,
+  "text": "That's absolutely better. I think it might be worse for some defendants where the state or local law has some ticky-tacky requirement that they just couldn't possibly have known was -- was really wrongful. So I think this is actually less protective in some ways, but I'm certainly willing to live with it."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4983.48,
+  "e": 4987.1,
+  "text": "Well, that may indicate that even the backup position's no good. But that's a --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4987.1,
+  "e": 4988.5,
+  "text": "No, I don't -- I don't think so."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4988.5,
+  "e": 4990.42,
+  "text": "-- you're arguing against yourself there a little."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 4990.78,
+  "e": 5003.36,
+  "text": "No, I -- I don't think so. Again, the very worst is -- I -- I think what you could be saying is that, you know, we know that gratuities are barred under Section 201(c) with no corruptly mens rea. I mean, if you think that \"corruptly\" just can't be --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 5003.36,
+  "e": 5003.36,
+  "text": "But I'm going to 106 -- can I just --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5003.36,
+  "e": 5003.9,
+  "text": "-- adding anything --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 5003.9,
+  "e": 5004.2,
+  "text": "-- can I just stop you there?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5004.2,
+  "e": 5005.82,
+  "text": "-- then we just go to Section 201(c)."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 5006.12,
+  "e": 5024.5,
+  "text": "That lends to the clarity point, and it's clear there. But, here, when you put \"corruptly\" in, now you don't know where the line is. You don't know if the concert tickets, the game tickets, the gift card to Starbucks, whatever, where is the line, and so there's vagueness. That creates the problem that there is here."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5024.5,
+  "e": 5025.64,
+  "text": "No, I -- I disagree."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 5025.64,
+  "e": 5037.96,
+  "text": "And you -- and you say -- this is my last question. You said these fringe cases as compared to this case. I -- I think the \"fringe cases\" are the everyday concern."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5038.76,
+  "e": 5054.92,
+  "text": "Again, there's a requirement of consciousness of wrongdoing. So, if the person couldn't know that this behavior was wrongful because it was unclear, because there are some line-drawing difficulties, 107 because some people think this is wrong and some people think it's right, then the government isn't going to be able to meet its burden of proof."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 5055.22,
+  "e": 5055.7,
+  "text": "Well, that's --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5055.7,
+  "e": 5056.0,
+  "text": "So it's not introducing vagueness."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 5056.0,
+  "e": 5077.16,
+  "text": "You're -- you're sitting in a criminal courtroom after, you know, you're a -- you're a regular, you know, police officer or a local official, you've depleted your money, you've -- to defend yourself, you're -- you've lost your job because you're prosecuted, and it's like, oh, well, the good news is they won't be able to meet my -- the burden of proof because some people thought it was okay to do this?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5077.42,
+  "e": 5100.16,
+  "text": "No. I mean, prosecutors have a responsibility not to bring prosecutions that don't meet the statute. And what I'm saying is that the statute prevents that kind of prosecution. So it's a -- it's a -- it's a -- it's what Congress said, we don't want to reach innocuous conduct. We want to make sure. We were going to put in a mens rea that makes sure 108 that you understand that what you're doing is wrongful and you do it anyway. That's the nature of this mens rea. It's a break."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 5101.16,
+  "e": 5101.44,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 5102.14,
+  "e": 5102.38,
+  "text": "Justice Barrett?"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5102.76,
+  "e": 5149.96,
+  "text": "Okay. So I'm increasingly worried about the scope of the government's position. I -- I'd like you to tell me how your backup position that you were just talking about with Justice Kavanaugh works for the private university or the private hospital employee that Justice Kagan was pointing out satisfies the grant amount. And I'll say, you know, as Justice Gorsuch pointed out, I don't think that the nexus requirements or the $5,000 requirement does a whole lot of work and, you know, for the surgery, the employee's time, or the police officer's time working your case or the professor's time spending like -- trust me, tutoring is expensive. I've paid a lot of tutoring bills. You know, the -- the professor is spending all this extra time, you know, out -- outside of class. 109 So if state and local laws -- I mean, I assume you're encompassing ethics rules for state and local government employees in your answer to Justice Kavanaugh?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5150.74,
+  "e": 5151.08,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5151.08,
+  "e": 5155.38,
+  "text": "So how does that cash out for the private people?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5155.76,
+  "e": 5160.74,
+  "text": "So, if it's acceptable under those rules, I think it's a safe harbor, is what we've been discussing."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5161.02,
+  "e": 5172.4,
+  "text": "Right, but I'm saying that these ethics rules aren't going to apply in the private context to the car dealer, the private university, the private hospital that's swept in because of the federal funds."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5172.54,
+  "e": 5183.64,
+  "text": "Oh, I -- I don't think that's really necessarily true. I think many entities, like hospitals, research institutions, the entities that are actually being covered here, they do have ethics rules, so there is going to be something to look at. But also that they can certainly --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5183.96,
+  "e": 5188.32,
+  "text": "But not the state and -- I -- I -- I guess let me just, like, pin you down. I'm not saying that they won't have 110 ethics rules."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5188.32,
+  "e": 5188.56,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5188.56,
+  "e": 5192.42,
+  "text": "The hospitals, the universities, et cetera, they're going to have ethics rules. I don't know about the car dealerships. (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5193.52,
+  "e": 5206.96,
+  "text": "But what I'm saying is, if local -- state and local government rules don't apply to them, where do you look for your backup position? Is it like, you know, the university ethics rules, the hospital ethics rules?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5207.64,
+  "e": 5239.72,
+  "text": "I -- I think where -- where I look is whether they had, you know -- I think the easiest thing is whether there would be concrete evidence that this was wrongful. So, yes, if their entity's rules barred the thing, then I think that's going to be pretty good evidence. If it's unclear, though, Justice Barrett, I just want to again tell you that there has to be a consciousness of wrongdoing. So, if there just was nowhere they could look and there was no way for them to know that 111 taking the, you know, cashmere blanket for the tutoring was wrongful, then the government can't show consciousness of wrongdoing and it can't prosecute in that case."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5240.96,
+  "e": 5249.9,
+  "text": "Can't show it? So -- but -- but -- but you're kind of sliding, I guess, into the not backup position but the immoral or this is unsavory or this is wrong?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5250.14,
+  "e": 5275.92,
+  "text": "No, they need to show that the person understood that what they were doing was wrongful. So, if they -- the government cannot show that what the person under -- that the person understood what they were doing was wrongful, was against the law is the easiest way to show that, but if they don't have any laws to point to, if they don't -- just don't have any -- anything that they can point to, then they're not going to be able to prove that the person would know, would understand that what they're doing is wrongful."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5276.26,
+  "e": 5291.32,
+  "text": "But, under your first order position, there wouldn't be anything to point to, right, because I thought your first order position -- like your backup is if it's proscribed by law. But I thought your first 112 order position was if it's wrong, if it's immoral, if people would know this is corrupt."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5291.8,
+  "e": 5304.9,
+  "text": "So our -- our position is just -- just -- let me be clear, it's that the act has to be wrongful and the person has to have consciousness of wrongdoing. That requirement of consciousness of wrongdoing, we recognize that. That's not a backup position. That's a first order."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5304.9,
+  "e": 5305.52,
+  "text": "No, no. I know. I know."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5305.52,
+  "e": 5305.6,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5305.6,
+  "e": 5316.36,
+  "text": "But I'm saying, like, you said if the person doesn't have any place to look to know that it's wrongful, and I'm saying that I thought your first order position was that they don't have a specific place to look because you should know it's immoral, you should know it's wrong."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5316.44,
+  "e": 5375.32,
+  "text": "I -- I think that the government can certainly -- I think it's going -- the government has to say this is something that is so obviously wrongful that everyone would know. And I would say that in the 113 circumstances you're pointing to, the government isn't going to take that position. They're not going to be able to say that just because -- you know, that -- it has to be obviously wrongful because what they're saying is we don't have evidence to demonstrate that this specific person knew that what they were doing was wrongful. But this is something that is just so obviously inherently unlawful or unwrong -- sorry, not unlawful, I don't want to confuse things -- inherently wrongful that the person would be bound to know. And I agree with you that when it's something that is either permitted by ethics rules or it's just never governed by ethics rules, this isn't something that people even think about in the ethics world maybe because cookies are just so, you know, obvious, then there's just -- the government -- that -- that -- there isn't going to be that consciousness of wrongdoing. The government isn't going to be able to show and they're not -- and -- and, therefore, the statute does not cover that -- 114 that person because they do not understand that it is wrongful."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 5376.62,
+  "e": 5377.32,
+  "text": "Justice Jackson?"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5377.32,
+  "e": 5440.16,
+  "text": "So I guess I'm just totally confused in a lot of ways because I -- I had understood this case to be about a totally different part of the statute. I -- so -- I -- and by what I mean is that suddenly it seems as though it's becoming a vehicle to investigate the corruptly solicits or demands element as opposed to the influenced or rewarded element. And I read the question presented to be about reward, like what does reward mean. You know, the -- the Petitioner's statement of the question presented is whether 666 criminalizes gratuities without any quid pro quo agreement to take those actions. So I thought we were looking at reward and determining whether or not you needed a quid pro quo. But it sounds like there's a lot of concern about the \"corruptly\" element. So can I ask you, do we need to take a position on \"corruptly\" here to rule in your favor on the question presented in this case? 115"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5440.16,
+  "e": 5448.8,
+  "text": "No. To rule in our favor, you just have to look and say that \"rewarded\" obviously encompasses rewards that are accepted without a beforehand agreement."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5449.24,
+  "e": 5483.64,
+  "text": "All right. And if we were going to think about \"corruptly,\" I guess I'm trying to understand how this case on these facts even really presents that issue. I mean, I understand all of these hypotheticals about the blankets and the Starbucks and the -- you know, the -- the -- the gray areas around where people could say is this person really acting corruptly. But was there a dispute in this case that it was corrupt for this official to -- if he was taking a reward, to receive the $13,000 under these circumstances?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5484.32,
+  "e": 5499.8,
+  "text": "No. And that's generally the way these cases go. It's not someone saying I took a reward, but I thought it wasn't wrongful, so it's not someone disputing the consciousness of wrongdoing point. It's someone saying I wasn't taking a reward, I was taking something for being friends."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5499.8,
+  "e": 5500.36,
+  "text": "And that's -- so 116 that's --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5500.36,
+  "e": 5500.36,
+  "text": "I was taking something for --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5500.36,
+  "e": 5500.36,
+  "text": "-- how --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5500.36,
+  "e": 5500.36,
+  "text": "-- compensation, that's right."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5500.36,
+  "e": 5502.68,
+  "text": "That's how that came up here."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5502.68,
+  "e": 5502.82,
+  "text": "Exactly."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5502.82,
+  "e": 5517.58,
+  "text": "So that's why in response to Justice Sotomayor this wasn't a question that was put to the jury about -- like, this is why it's not in the jury instructions, this question of what is the definition of \"corruptly,\" because he essentially conceded that element for the purpose of this case?"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5517.58,
+  "e": 5545.76,
+  "text": "Right. He did not challenge the jury instructions on \"corruptly,\" even though the district -- the district court had already rejected the request to narrow the statute to gratuities, so it's not true that he didn't protest the \"corruptly\" definition because he was trying to get to -- to get at it a different way, right? The -- the district court had already 117 said gratuities are going to come in. He doesn't contest the \"corruptly\" jury instruction here because he wasn't saying it's rightful to accept the payment."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5545.76,
+  "e": 5548.84,
+  "text": "Right. He wasn't in the gray area scenario where people could say --"
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5548.84,
+  "e": 5548.94,
+  "text": "Exactly."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5548.94,
+  "e": 5595.94,
+  "text": "-- well, I thought this was right. He wasn't doing that. All right. So final question. With respect to the question I asked Ms. Blatt, if we hold constant the \"corruptly\" aspect of this, the demand aspect of this, we assume that's all met and now we're really just focusing on reward, \"intended to be influenced or rewarded,\" could -- can you articulate why Congress would not have wanted \"rewarded\" to include these gratuities? In other words, it seems as though that element is equating bribes, quid pro quo bribes, with rewards, what I'm thinking of as gratuities in this context. If we agree with Petitioner, it sounds as though there -- Congress would have wanted to prohibit one and not the other, and I can't 118 figure out why that would be."
+ },
+ {
+  "speaker": "MS. SINZDAK",
+  "s": 5595.94,
+  "e": 5656.12,
+  "text": "I -- I can't either because, again, gratuities have long been recognized to be as corrupt as rewards in many circumstances. We have the bar on gratuities in our Constitution itself. We have Blackstone saying that the acceptance of gratuities is -- is -- is -- is corrupt and that, you know, the Romans were wrong to permit it. We have Congress barring not just bribery but also the -- the acceptance of gratuities without the corruptly mens rea in Section 201. So there's just no reason. And -- and that's not because Congress was, like, an overly -- overly moral being in this respect. It's because it's the same harm. If there's a beforehand agreement in this case, it doesn't change anything because it's crystal-clear that what the -- the Petitioner was doing was taking a public act intending to get that reward. And -- and whether there's a beforehand agreement or not, the harm is, instead of doing the public act for the public good, he's doing the public act for his own -- 119 to line his own pockets."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5656.38,
+  "e": 5656.7,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 5657.26,
+  "e": 5658.04,
+  "text": "Thank you, counsel."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 5659.22,
+  "e": 5660.06,
+  "text": "Rebuttal, Ms. Blatt."
+ },
+ {
+  "speaker": "MS. BLATT",
+  "s": 5661.12,
+  "e": 5915.8,
+  "text": "Thank you, Mr. Chief Justice. I mean, at least we should get a 9-0 remand because everything that we heard today was not charged to the jury. It is truly, as a former government lawyer, baffling how someone could just say that it was not contested, that this was wrongful. No citation. Of course, it was contested. The whole argument was this was a legitimate consulting agreement because local officials don't make any money. And just because the government says it at argument doesn't make it true, especially when they don't have a citation. There was no jury instruction. And then, at times, I feel like we're in a Senate room drafting language. 120 She literally said, here's what the guidelines are going to look like going forward. What we're going to do is we're going to isolate wrongfulness, we're going to talk about if it appears for public sale and on and on and on, and then she said \"consciousness of wrongdoing\" 36 times. \"Consciousness of wrongdoing\" has never appeared, and here's where, if we're going to look at text, guess what, \"corruptly\" applies to bribery. It has to mean the same thing. Corruptly as a consciousness of wrongdoing has never been the mens rea for bribery. And so now every single prosecution for bribery, I guess a defendant is entitled to an instruction, \"I didn't know what I was doing was wrongful. I didn't know it was unlawful. My hospital said I could do this.\" No. She wants a separate rule for \"corruptly.\" And to say that it's not part of the case is absurd. \"Corruptly\" means quid pro quo. Intending to be influenced and intending to be rewarded are parts of that quid pro quo. The other thing I just want to get to, and Justice Kavanaugh got on this, there is a 121 statute that she -- the -- the statute applies to accepting. It also applies to anyone who gives. That's 666(a)(2). So 300 million Americans are covered by this. Anyone who gives a gift commits a crime if it's corrupt. Now that consciousness of wrongdoing has to apply to the person who goes to the car dealership or to the billionaire or the poor person who wants to give a toy -- a toy truck. And then she said, well, I guess it's standard practice and you have to ask for it and be for sale. You see something, you say, you know, I like your water bottle, it's got that, you know, nice little Apple logo. Here, take it. Gratuity, you just give your job away for sale. You literally said, you know, you want it, you can have it, or they asked for it. I mean, this is -- this is preposterous that this would go into inherently wrongful. I still can't figure out what about escort services. That seems not standard practice to give that to your university admissions. But maybe a plaque would be? Or maybe a crystal -- a crystal would be. There's just -- there's literally no guidance here. 122 And the real irony is at least the banking officials would have more guidance. This is just kind of made up as -- as like it sounds like in moot court they worked this out because it would sound good. The stuff on the lesser included and greater -- greater included was gibberish. It is a -- recognized in government manuals that this is a greater included offense. And she said, well, it only applies to \"demand.\" But the statute says \"demand or agrees to accept.\" So, if you agree to accept something, you don't have to demand. That's clearly a bribery. There is no set of circumstances where, if you've proved -- proved a reward, you would ever need to prove a bribery. And that's why the government manual says go for -- go for broke, go for both. All you need to do is prove one, and you'll at least get, at least in the federal officials, a two-year conviction. Here, you get a 10-year conviction. The government sought six years here. We showed examples where they've -- they prosecuted for four years. And the other thing in terms of the 123 line-drawing, I don't know why \"can I get a ride in the Uber\" would not count because that's asking for, you know, part of -- part of a -- a value. And this definition of consciousness of wrongdoing, I don't think it gives anybody any guidance whatsoever about what happens day in and day out. So at least we get a remand. And -- and, Justice Sotomayor, on the harmless error under Nader, I'm not sure why she said evidence sufficiency. The standard is beyond a reasonable doubt. They'd have to show the jury instruction, and so there would have to be overwhelming evidence of bribery. And so that would have to be worked on a remand. But none of this was in the jury instruction. It was adequately yelling to the -- the top of the roof that this could only apply to gratuity, i.e., gratuities were not wrongful. Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 5916.18,
+  "e": 5918.18,
+  "text": "Thank you, counsel. The case is submitted."
+ }
+]

@@ -1,0 +1,579 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 775.7,
+   "next": 775.7,
+   "speaker": "MS. BLATT",
+   "before": "contract itself. The doctor who removes your wart, fine. But the doctor who takes your gallbladder out or does your face, like my plastic surgeon, no, that's worth over 5,000.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1036.72,
+   "next": 1038.82,
+   "speaker": "MS. BLATT",
+   "before": "I mean, the restaurant example alone, I don't know where it's -- I'm pretty sure Chipotle would be okay, Inn at Little Washington wouldn't, but ask them about The Cheesecake Factory.",
+   "pause": 2.1,
+   "loud_s": 1.25,
+   "mean_over": 22.7,
+   "peak_over": 33.5,
+   "size": "big"
+  },
+  {
+   "t": 2632.86,
+   "next": 2632.88,
+   "speaker": "JUSTICE KAGAN",
+   "before": "there needs to be the acceptance or the solicitation of money in connection with particular business or transactions. Well, they're definitely going to accept the eight-figure gift when it comes.",
+   "pause": 0.02,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2943.397,
+   "next": 2943.397,
+   "speaker": "JUSTICE ALITO",
+   "before": "this statute give fair notice to anyone in the world as to -- and I hate to do it, but I'm going to -- the difference between the Cheese Factory and -- Cheesecake.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3019.34,
+   "next": 3020.74,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "think -- Counsel, please. Sure. We're going to have internal emails just like Justice Alito posited. Some people say, oh, I wouldn't go to The Cheesecake Factory, that would look bad --",
+   "pause": 1.4,
+   "loud_s": 1.05,
+   "mean_over": 27.1,
+   "peak_over": 33.7,
+   "size": "big"
+  },
+  {
+   "t": 5192.42,
+   "next": 5193.52,
+   "speaker": "JUSTICE BARRETT",
+   "before": "I'm not saying that they won't have 110 ethics rules. Mm-hmm. The hospitals, the universities, et cetera, they're going to have ethics rules. I don't know about the car dealerships.",
+   "pause": 1.1,
+   "loud_s": 0.45,
+   "mean_over": 23.0,
+   "peak_over": 29.8,
+   "size": "medium"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -43.2,
+ "opening_start": 7.68,
+ "opening": [
+  [
+   7.68,
+   "MS. BLATT",
+   "Mr. Chief Justice, and may it please the Court: Section 666 applies to 19 million state, local, and tribal officials and anyone else whose employer receives federal benefits, including 14 million Medicare-funded healthcare workers. Congress did not plausibly subject all of these people to 10 years in prison just for accepting gifts, especially when federal officials face only two years for accepting gifts under 201(c). 666 punishes corruptly receiving anything of value intending to be influenced or rewarded. \"Corruptly [...] intending to be influenced\" covers classic bribes, where officials get upfront payments in exchange for official conduct, while \"corruptly [...] intending to be rewarded\" covers bribes paid after the fact and to officials who aren't actually influenced. The government argues \"corruptly\" under 666 means wrongful, immoral, depraved, or evil. But the government tried this case and countless others on the theory that \"corruptly\" just meant knowingly. Regardless, the government's new definition is implausible and stunningly vague. No gratuity statute -- that's none whatsoever -- uses the word \"corruptly\" and for good reason. The government can't tell you what gifts are corrupts -- are corrupt. What gift is too much for the doctor who saves your life? Is pornography an immoral gift? The federalism and due process implications of the government's view are gobsmacking. All states prohibit bribery, but localities and states take an -- infinite approaches to gifts and outside compensation. Affirmance would let federal prosecutors second-guess all of these judgments. Meanwhile, state and local officials will have no way of knowing what gift would subject them to 10 years in prison. Remember, extensive guidance tells federal employees that accepting anything over $20 is a crime. It would be downright Kafkaesque to subject state and local officials to a standardless and severe regime where federal interests are at their weakest. I welcome questions."
+  ],
+  [
+   134.38,
+   "CHIEF JUSTICE ROBERTS",
+   "Ms. Blatt, if I find a lost pet and return it to the owner and the owner's grateful and gives me $10, that's a reward, right, even though nothing else happened in advance between the owner and -- and me?"
+  ],
+  [
+   149.1,
+   "MS. BLATT",
+   "So, yes, divorced from, you know, a crime that makes it a corrupt -- corruptly giving something of value intending to be rewarded, the word \"reward,\" just divorced from text of a statute, context, common sense at least in this case, sure, \"reward\" can mean both a bribery and -- a quid pro quo bribery and a gratuity. And we think it's very significant in all the statutes that use \"reward\" to mean gratuities, they're vastly different in four respects here. They all say, when \"reward\" is used to mean gratuities -- these are cited at page 31 of our brief. They make clear that no quid pro quo payment is"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2023/23-108",
+  "page_url": "https://www.oyez.org/cases/2023/23-108",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 26, 2024",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/25712",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2023/23-108%20/23-108_20240626-opinion.delivery.mp3",
+  "duration": 496.44,
+  "mp3_bytes": 9958496,
+  "asr_elapsed_s": 124.7,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   1126,
+   1142,
+   1140
+  ],
+  "diffs": [
+   [
+    3.42,
+    "",
+    "in"
+   ],
+   [
+    5.24,
+    "vs.",
+    "versus"
+   ],
+   [
+    87.56,
+    "7th",
+    "Seventh"
+   ],
+   [
+    210.74,
+    "reached",
+    "reach"
+   ],
+   [
+    245.6,
+    "in",
+    "and"
+   ],
+   [
+    274.68,
+    "Congress's",
+    "Congress\u2019"
+   ],
+   [
+    336.7,
+    "lines",
+    "line"
+   ],
+   [
+    345.12,
+    "Diff",
+    ""
+   ],
+   [
+    364.18,
+    "",
+    "a"
+   ],
+   [
+    405.38,
+    "axe",
+    "ax"
+   ],
+   [
+    409.46,
+    "latter.",
+    "ladder."
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 1142,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kavanaugh has the opinion of the court this morning, case 23108, Snyder vs. United States."
+   ],
+   [
+    7.88,
+    "JUSTICE KAVANAUGH",
+    "In 2013, the city of Portage, Indiana awarded two contracts to a local truck company, Great Lakes Peterbilt, to purchase trash trucks. James Snyder was the mayor of Portage. Now, like many jurisdictions around the country, neither Indiana nor Portage apparently prohibited local officials from obtaining outside employment. And Snyder was a contractor for Great Lakes Peterbilt, the truck company that had provided the trash trucks to Portage, and he performed, he said, consulting services for the company. In 2014, Great Lakes Peterbilt cut a $13,000 check to Snyder. Snyder said that the payment was for his consulting services, but the federal government charged and a federal jury convicted Snyder of accepting an illegal gratuity for the trash truck contract in violation of Section 666 of Title 18. The district court sentenced Snyder to one year and nine months in prison. On appeal, Snyder argued that as a matter of law, Section 666 criminalizes only bribes for future official acts, not gratuities for past acts. The U .S. Court of Appeals for the 7th Circuit disagreed based on that court's precedent interpreting the law to cover both bribes and gratuities. So the Court of Appeals affirmed Snyder's conviction. In light of disagreement in the Courts of Appeals about whether Section 666 covers only bribes or covers both bribes and gratuities, we granted review. We now reverse. All agree that Section 666 prohibits state and local officials from accepting bribes that are promised or given before the official act. Those bribes are punishable by up to 10 years imprisonment. The question, however, is whether this law also makes it a crime for state and local officials to accept gratuities. For example, gift cards, lunches, plaques, books, framed photos, or the like that may be given as a token of appreciation after the official act. Some gratuities can be problematic. Others are commonplace and might be innocuous. A family gives a holiday tip to the mail carrier. Parents send an end-of-the-year gift basket to their child's public school teacher. A college dean gives a college sweatshirt to a city council member who comes to speak at an event. A state legislator's neighbor drops off a gift card to congratulate her for her work on a new law. We conclude that Section 666 does not cover gratuities. There are 19 million state and local officials around the country."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kavanaugh has the opinion of the court this morning, case 23108, Snyder vs. United States."
+   ],
+   [
+    7.88,
+    "JUSTICE KAVANAUGH",
+    "In 2013, the city of Portage, Indiana awarded two contracts to a local truck company, Great Lakes Peterbilt, to purchase trash trucks. James Snyder was the mayor of Portage. Now, like many jurisdictions around the country, neither Indiana nor Portage apparently prohibited local officials from obtaining outside employment. And Snyder was a contractor for Great Lakes Peterbilt, the truck company that had provided the trash trucks to Portage, and he performed, he said, consulting services for the company. In 2014, Great Lakes Peterbilt cut a $13,000 check to Snyder. Snyder said that the payment was for his consulting services, but the federal government charged and a federal jury convicted Snyder of accepting an illegal gratuity for the trash truck contract in violation of Section 666 of Title 18. The district court sentenced Snyder to one year and nine months in prison. On appeal, Snyder argued that as a matter of law, Section 666 criminalizes only bribes for future official acts, not gratuities for past acts. The U .S. Court of Appeals for the 7th Circuit disagreed based on that court's precedent interpreting the law to cover both bribes and gratuities. So the Court of Appeals affirmed Snyder's conviction. In light of disagreement in the Courts of Appeals about whether Section 666 covers only bribes or covers both bribes and gratuities, we granted review. We now reverse. All agree that Section 666 prohibits state and local officials from accepting bribes that are promised or given before the official act. Those bribes are punishable by up to 10 years imprisonment. The question, however, is whether this law also makes it a crime for state and local officials to accept gratuities. For example, gift cards, lunches, plaques, books, framed photos, or the like that may be given as a token of appreciation after the official act. Some gratuities can be problematic. Others are commonplace and might be innocuous. A family gives a holiday tip to the mail carrier. Parents send an end-of-the-year gift basket to their child's public school teacher. A college dean gives a college sweatshirt to a city council member who comes to speak at an event. A state legislator's neighbor drops off a gift card to congratulate her for her work on a new law. We conclude that Section 666 does not cover gratuities. There are 19 million state and local officials around the country. Some of them are part-time and have other employment. Importantly, state and local governments often regulate the gifts that state and local officials may accept. So gifts to those officials are already regulated to the degree that state and local governments think appropriate. Section 666 does not supplement those state and local rules by subjecting state and local officials to up to 10 years in federal prison for accepting even commonplace gratuities. Now, we reached that conclusion for several reasons taken together, including the statutory text, the statutory history, federalism, and fair notice. First, in 1986, when enacting this statute, Congress modeled the text of Section 666 for state and local officials on the bribery provision for federal officials, not on the differently worded gratuities provision for federal official. The statutory text, therefore, strongly suggests that Section 666 is a bribery statute. Second, in reinforcing that, is the statutory history. In 1984, when first enacting a prior version of this statute for state and local officials, Congress did borrow language from the gratuity statute for federal officials. But just two years later, in 1986, Congress overhauled the statute, eliminated the gratuities language, and instead enacted the current language that resembles the bribery provision for federal officials. We must respect Congress's choice in 1986. Third is federalism. As I mentioned, state and local governments have made carefully calibrated policy decisions about the gifts that state and local officials may accept. Those policies would be largely overridden if we were to accept the federal government's interpretation. Reading Section 666 to create a federal prohibition on gratuities would suddenly subject 19 million state and local officials to a new and different regulatory regime for gratuities. Fourth is fair notice. The government's interpretation of the statute would create traps for unwary state and local officials. Now, the government says that the statute does not cover innocuous or obviously benign gratuities and would only cover wrongful gratuities. But the flaw in the government's approach, and it's a very serious real world problem, is that the government does not identify any remotely clear lines separating an innocuous or obviously benign gratuity from a criminal gratuity. Is a $100 Dunkin' Diff Donuts gift card for a trash collector wrongful, a $200 Nike gift card for a county commissioner? Could students take their college professor out to Chipotle for an end-of-term celebration? And if so, would it somehow become criminal if it's a steak dinner or to treat her to a Hoosiers or fever game? The government offers no clear rules, so how are state legislators, city council members, school board officials, building code inspectors, probation officers, human resource directors, police officers, and the entire army of 19 million state and local officials to know what is acceptable and what is criminalized by the federal government. They can't, and that is a major problem with construing Section 666 to cover gratuities. In past cases, when construing a statute like this, this court has emphasized that a statute in this field that can linguistically be interpreted to be either a meat axe or a scalpel should reasonably be taken to be the latter. So it is here. In sum, a state or local official can violate Section 666 when he accepts an upfront payment for a future official act or agrees to a future reward for a future official act. In other words, a bribe. But a state or local official does not violate this law if the official has taken the official act before any gratuity is agreed to, much less given. To be clear, a gratuity offered and accepted after the official act may be unethical or illegal under state or local laws. But the gratuity does not violate Section 666. Section 666 is a vitally important statute, but its focus is targeted. It prescribes bribes to state and local officials while allowing state and local governments to regulate gratuities to state and local officials. Congress can always change the law if it wishes to do so, but since 1986, it has not, presumably because Congress understands that state and local governments often carefully regulate gratuities to state and local officials. We reverse the judgment of the Court of Appeals. Justice Gorsuch has filed a concurring opinion. Justice Jackson has filed a dissenting opinion, which justices Sotomayor and Kagan have joined."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kavanaugh has the opinion of the court this morning, case 23108, Snyder vs. United States."
+   ],
+   [
+    7.88,
+    "JUSTICE KAVANAUGH",
+    "In 2013, the city of Portage, Indiana awarded two contracts to a local truck company, Great Lakes Peterbilt, to purchase trash trucks."
+   ],
+   [
+    19.3,
+    "JUSTICE KAVANAUGH",
+    "James Snyder was the mayor of Portage."
+   ],
+   [
+    22.38,
+    "JUSTICE KAVANAUGH",
+    "Now, like many jurisdictions around the country, neither Indiana nor Portage apparently prohibited local officials from obtaining outside employment."
+   ],
+   [
+    33.06,
+    "JUSTICE KAVANAUGH",
+    "And Snyder was a contractor for Great Lakes Peterbilt, the truck company that had provided the trash trucks to Portage, and he performed, he said, consulting services for the company."
+   ],
+   [
+    44.98,
+    "JUSTICE KAVANAUGH",
+    "In 2014, Great Lakes Peterbilt cut a $13,000 check to Snyder."
+   ],
+   [
+    50.7,
+    "JUSTICE KAVANAUGH",
+    "Snyder said that the payment was for his consulting services, but the federal government charged and a federal jury convicted Snyder of accepting an illegal gratuity for the trash truck contract in violation of Section 666 of Title 18."
+   ],
+   [
+    69.06,
+    "JUSTICE KAVANAUGH",
+    "The district court sentenced Snyder to one year and nine months in prison."
+   ],
+   [
+    73.92,
+    "JUSTICE KAVANAUGH",
+    "On appeal, Snyder argued that as a matter of law, Section 666 criminalizes only bribes for future official acts, not gratuities for past acts."
+   ],
+   [
+    85.84,
+    "JUSTICE KAVANAUGH",
+    "The U .S."
+   ],
+   [
+    86.58,
+    "JUSTICE KAVANAUGH",
+    "Court of Appeals for the 7th Circuit disagreed based on that court's precedent interpreting the law to cover both bribes and gratuities."
+   ],
+   [
+    94.86,
+    "JUSTICE KAVANAUGH",
+    "So the Court of Appeals affirmed Snyder's conviction."
+   ],
+   [
+    98.9,
+    "JUSTICE KAVANAUGH",
+    "In light of disagreement in the Courts of Appeals about whether Section 666 covers only bribes or covers both bribes and gratuities, we granted review."
+   ],
+   [
+    109.06,
+    "JUSTICE KAVANAUGH",
+    "We now reverse."
+   ],
+   [
+    111.96,
+    "JUSTICE KAVANAUGH",
+    "All agree that Section 666 prohibits state and local officials from accepting bribes that are promised or given before the official act."
+   ],
+   [
+    121.04,
+    "JUSTICE KAVANAUGH",
+    "Those bribes are punishable by up to 10 years imprisonment."
+   ],
+   [
+    125.42,
+    "JUSTICE KAVANAUGH",
+    "The question, however, is whether this law also makes it a crime for state and local officials to accept gratuities."
+   ],
+   [
+    132.39,
+    "JUSTICE KAVANAUGH",
+    "For example, gift cards, lunches, plaques, books, framed photos, or the like that may be given as a token of appreciation after the official act."
+   ],
+   [
+    144.28,
+    "JUSTICE KAVANAUGH",
+    "Some gratuities can be problematic."
+   ],
+   [
+    147.18,
+    "JUSTICE KAVANAUGH",
+    "Others are commonplace and might be innocuous."
+   ],
+   [
+    150.2,
+    "JUSTICE KAVANAUGH",
+    "A family gives a holiday tip to the mail carrier."
+   ],
+   [
+    154.08,
+    "JUSTICE KAVANAUGH",
+    "Parents send an end-of-the-year gift basket to their child's public school teacher."
+   ],
+   [
+    158.4,
+    "JUSTICE KAVANAUGH",
+    "A college dean gives a college sweatshirt to a city council member who comes to speak at an event."
+   ],
+   [
+    164.64,
+    "JUSTICE KAVANAUGH",
+    "A state legislator's neighbor drops off a gift card to congratulate her for her work on a new law."
+   ],
+   [
+    171.2,
+    "JUSTICE KAVANAUGH",
+    "We conclude that Section 666 does not cover gratuities."
+   ],
+   [
+    175.98,
+    "JUSTICE KAVANAUGH",
+    "There are 19 million state and local officials around the country."
+   ],
+   [
+    180.26,
+    "JUSTICE KAVANAUGH",
+    "Some of them are part-time and have other employment."
+   ],
+   [
+    184.12,
+    "JUSTICE KAVANAUGH",
+    "Importantly, state and local governments often regulate the gifts that state and local officials may accept."
+   ],
+   [
+    191.24,
+    "JUSTICE KAVANAUGH",
+    "So gifts to those officials are already regulated to the degree that state and local governments think appropriate."
+   ],
+   [
+    198.5,
+    "JUSTICE KAVANAUGH",
+    "Section 666 does not supplement those state and local rules by subjecting state and local officials to up to 10 years in federal prison for accepting even commonplace gratuities."
+   ],
+   [
+    209.48,
+    "JUSTICE KAVANAUGH",
+    "Now, we reached that conclusion for several reasons taken together, including the statutory text, the statutory history, federalism, and fair notice."
+   ],
+   [
+    220.88,
+    "JUSTICE KAVANAUGH",
+    "First, in 1986, when enacting this statute, Congress modeled the text of Section 666 for state and local officials on the bribery provision for federal officials, not on the differently worded gratuities provision for federal official."
+   ],
+   [
+    237.1,
+    "JUSTICE KAVANAUGH",
+    "The statutory text, therefore, strongly suggests that Section 666 is a bribery statute."
+   ],
+   [
+    244.94,
+    "JUSTICE KAVANAUGH",
+    "Second, in reinforcing that, is the statutory history."
+   ],
+   [
+    249.0,
+    "JUSTICE KAVANAUGH",
+    "In 1984, when first enacting a prior version of this statute for state and local officials, Congress did borrow language from the gratuity statute for federal officials."
+   ],
+   [
+    259.88,
+    "JUSTICE KAVANAUGH",
+    "But just two years later, in 1986, Congress overhauled the statute, eliminated the gratuities language, and instead enacted the current language that resembles the bribery provision for federal officials."
+   ],
+   [
+    273.54,
+    "JUSTICE KAVANAUGH",
+    "We must respect Congress's choice in 1986."
+   ],
+   [
+    277.92,
+    "JUSTICE KAVANAUGH",
+    "Third is federalism."
+   ],
+   [
+    279.94,
+    "JUSTICE KAVANAUGH",
+    "As I mentioned, state and local governments have made carefully calibrated policy decisions about the gifts that state and local officials may accept."
+   ],
+   [
+    288.88,
+    "JUSTICE KAVANAUGH",
+    "Those policies would be largely overridden if we were to accept the federal government's interpretation."
+   ],
+   [
+    295.08,
+    "JUSTICE KAVANAUGH",
+    "Reading Section 666 to create a federal prohibition on gratuities would suddenly subject 19 million state and local officials to a new and different regulatory regime for gratuities."
+   ],
+   [
+    308.44,
+    "JUSTICE KAVANAUGH",
+    "Fourth is fair notice."
+   ],
+   [
+    310.76,
+    "JUSTICE KAVANAUGH",
+    "The government's interpretation of the statute would create traps for unwary state and local officials."
+   ],
+   [
+    317.58,
+    "JUSTICE KAVANAUGH",
+    "Now, the government says that the statute does not cover innocuous or obviously benign gratuities and would only cover wrongful gratuities."
+   ],
+   [
+    327.52,
+    "JUSTICE KAVANAUGH",
+    "But the flaw in the government's approach, and it's a very serious real world problem, is that the government does not identify any remotely clear lines separating an innocuous or obviously benign gratuity from a criminal gratuity."
+   ],
+   [
+    343.34,
+    "JUSTICE KAVANAUGH",
+    "Is a $100 Dunkin' Diff Donuts gift card for a trash collector wrongful, a $200 Nike gift card for a county commissioner?"
+   ],
+   [
+    353.08,
+    "JUSTICE KAVANAUGH",
+    "Could students take their college professor out to Chipotle for an end-of-term celebration?"
+   ],
+   [
+    358.64,
+    "JUSTICE KAVANAUGH",
+    "And if so, would it somehow become criminal if it's a steak dinner or to treat her to a Hoosiers or fever game?"
+   ],
+   [
+    365.46,
+    "JUSTICE KAVANAUGH",
+    "The government offers no clear rules, so how are state legislators, city council members, school board officials, building code inspectors, probation officers, human resource directors, police officers, and the entire army of 19 million state and local officials to know what is acceptable and what is criminalized by the federal government."
+   ],
+   [
+    387.72,
+    "JUSTICE KAVANAUGH",
+    "They can't, and that is a major problem with construing Section 666 to cover gratuities."
+   ],
+   [
+    394.62,
+    "JUSTICE KAVANAUGH",
+    "In past cases, when construing a statute like this, this court has emphasized that a statute in this field that can linguistically be interpreted to be either a meat axe or a scalpel should reasonably be taken to be the latter."
+   ],
+   [
+    410.78,
+    "JUSTICE KAVANAUGH",
+    "So it is here."
+   ],
+   [
+    412.52,
+    "JUSTICE KAVANAUGH",
+    "In sum, a state or local official can violate Section 666 when he accepts an upfront payment for a future official act or agrees to a future reward for a future official act."
+   ],
+   [
+    425.32,
+    "JUSTICE KAVANAUGH",
+    "In other words, a bribe."
+   ],
+   [
+    427.48,
+    "JUSTICE KAVANAUGH",
+    "But a state or local official does not violate this law if the official has taken the official act before any gratuity is agreed to, much less given."
+   ],
+   [
+    437.5,
+    "JUSTICE KAVANAUGH",
+    "To be clear, a gratuity offered and accepted after the official act may be unethical or illegal under state or local laws."
+   ],
+   [
+    447.6,
+    "JUSTICE KAVANAUGH",
+    "But the gratuity does not violate Section 666."
+   ],
+   [
+    452.18,
+    "JUSTICE KAVANAUGH",
+    "Section 666 is a vitally important statute, but its focus is targeted."
+   ],
+   [
+    457.54,
+    "JUSTICE KAVANAUGH",
+    "It prescribes bribes to state and local officials while allowing state and local governments to regulate gratuities to state and local officials."
+   ],
+   [
+    466.78,
+    "JUSTICE KAVANAUGH",
+    "Congress can always change the law if it wishes to do so, but since 1986, it has not, presumably because Congress understands that state and local governments often carefully regulate gratuities to state and local officials."
+   ],
+   [
+    482.46,
+    "JUSTICE KAVANAUGH",
+    "We reverse the judgment of the Court of Appeals."
+   ],
+   [
+    485.68,
+    "JUSTICE KAVANAUGH",
+    "Justice Gorsuch has filed a concurring opinion."
+   ],
+   [
+    489.38,
+    "JUSTICE KAVANAUGH",
+    "Justice Jackson has filed a dissenting opinion, which justices Sotomayor and Kagan have joined."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.64,
+    16
+   ],
+   [
+    "JUSTICE KAVANAUGH",
+    7.88,
+    495.52,
+    1119
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "23-108",
+ "year": "2023",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-108",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-108.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2023/23-108_o7jp.pdf",
+ "model": "small.en",
+ "duration": 5918.64,
+ "asr_elapsed_s": 1875.0,
+ "asr_words": 17252,
+ "official_words": 18291,
+ "matched": 16731,
+ "shared": 15,
+ "clamped": 0,
+ "trimmed": 24,
+ "rewindowed": 3,
+ "match_rate": 91.47121535181236,
+ "turns": 619,
+ "laugh_markers": 6,
+ "mp3_bytes": 47349357,
+ "pauses": 687,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 848,
+  "match_rate": {
+   "ok": true,
+   "detail": "91.47% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-26"
+}

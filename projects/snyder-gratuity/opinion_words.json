@@ -1,0 +1,6854 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 1.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Kavanaugh",
+  "s": 1.04,
+  "e": 1.46,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.46,
+  "e": 1.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1.78,
+  "e": 1.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.96,
+  "e": 2.22,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 2.22,
+  "e": 2.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 2.42,
+  "e": 2.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "court",
+  "s": 2.52,
+  "e": 2.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 2.7,
+  "e": 2.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning,",
+  "s": 2.9,
+  "e": 3.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "case",
+  "s": 3.42,
+  "e": 3.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "23108,",
+  "s": 3.48,
+  "e": 4.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Snyder",
+  "s": 5.12,
+  "e": 5.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "vs.",
+  "s": 5.24,
+  "e": 5.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "United",
+  "s": 6.1,
+  "e": 6.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "States.",
+  "s": 6.14,
+  "e": 6.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "In",
+  "s": 7.88,
+  "e": 8.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "2013,",
+  "s": 8.1,
+  "e": 9.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 9.66,
+  "e": 9.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "city",
+  "s": 9.66,
+  "e": 9.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 9.96,
+  "e": 10.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Portage,",
+  "s": 10.2,
+  "e": 10.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Indiana",
+  "s": 11.3,
+  "e": 11.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "awarded",
+  "s": 11.3,
+  "e": 11.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "two",
+  "s": 11.9,
+  "e": 12.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "contracts",
+  "s": 12.24,
+  "e": 12.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 12.92,
+  "e": 13.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 13.32,
+  "e": 13.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 13.44,
+  "e": 13.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "truck",
+  "s": 13.78,
+  "e": 14.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "company,",
+  "s": 14.16,
+  "e": 14.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Great",
+  "s": 15.0,
+  "e": 15.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Lakes",
+  "s": 15.16,
+  "e": 15.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Peterbilt,",
+  "s": 15.56,
+  "e": 16.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 16.36,
+  "e": 16.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "purchase",
+  "s": 16.66,
+  "e": 17.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "trash",
+  "s": 17.04,
+  "e": 17.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "trucks.",
+  "s": 17.46,
+  "e": 18.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "James",
+  "s": 19.3,
+  "e": 19.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Snyder",
+  "s": 19.5,
+  "e": 19.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "was",
+  "s": 19.92,
+  "e": 20.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 20.32,
+  "e": 20.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "mayor",
+  "s": 20.56,
+  "e": 20.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 20.76,
+  "e": 21.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Portage.",
+  "s": 21.06,
+  "e": 21.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Now,",
+  "s": 22.38,
+  "e": 22.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "like",
+  "s": 22.58,
+  "e": 22.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "many",
+  "s": 22.74,
+  "e": 23.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "jurisdictions",
+  "s": 23.08,
+  "e": 23.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "around",
+  "s": 23.66,
+  "e": 24.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 24.18,
+  "e": 24.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "country,",
+  "s": 24.36,
+  "e": 24.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "neither",
+  "s": 25.7,
+  "e": 25.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Indiana",
+  "s": 25.86,
+  "e": 26.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "nor",
+  "s": 26.4,
+  "e": 26.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Portage",
+  "s": 26.76,
+  "e": 27.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "apparently",
+  "s": 27.46,
+  "e": 28.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "prohibited",
+  "s": 28.1,
+  "e": 28.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 28.78,
+  "e": 29.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 29.12,
+  "e": 29.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "from",
+  "s": 29.72,
+  "e": 30.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "obtaining",
+  "s": 30.04,
+  "e": 30.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "outside",
+  "s": 30.58,
+  "e": 31.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "employment.",
+  "s": 31.38,
+  "e": 32.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "And",
+  "s": 33.06,
+  "e": 33.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Snyder",
+  "s": 33.14,
+  "e": 33.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "was",
+  "s": 33.44,
+  "e": 33.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 33.8,
+  "e": 33.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "contractor",
+  "s": 33.98,
+  "e": 34.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 34.5,
+  "e": 34.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Great",
+  "s": 34.9,
+  "e": 35.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Lakes",
+  "s": 35.14,
+  "e": 35.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Peterbilt,",
+  "s": 35.42,
+  "e": 35.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 36.26,
+  "e": 36.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "truck",
+  "s": 36.36,
+  "e": 36.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "company",
+  "s": 36.62,
+  "e": 37.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 37.06,
+  "e": 37.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "had",
+  "s": 37.34,
+  "e": 37.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "provided",
+  "s": 37.48,
+  "e": 37.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 37.88,
+  "e": 38.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "trash",
+  "s": 38.12,
+  "e": 38.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "trucks",
+  "s": 38.4,
+  "e": 38.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 38.88,
+  "e": 39.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Portage,",
+  "s": 39.1,
+  "e": 39.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 40.12,
+  "e": 40.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "he",
+  "s": 40.42,
+  "e": 40.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "performed,",
+  "s": 40.58,
+  "e": 41.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "he",
+  "s": 41.22,
+  "e": 41.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "said,",
+  "s": 41.44,
+  "e": 41.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "consulting",
+  "s": 42.42,
+  "e": 42.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "services",
+  "s": 42.42,
+  "e": 43.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 43.0,
+  "e": 43.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 43.4,
+  "e": 43.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "company.",
+  "s": 43.58,
+  "e": 43.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "In",
+  "s": 44.98,
+  "e": 45.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "2014,",
+  "s": 45.14,
+  "e": 45.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Great",
+  "s": 46.38,
+  "e": 46.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Lakes",
+  "s": 46.46,
+  "e": 46.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Peterbilt",
+  "s": 46.74,
+  "e": 47.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "cut",
+  "s": 47.26,
+  "e": 47.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 47.58,
+  "e": 47.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "$13",
+  "s": 47.72,
+  "e": 48.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": ",000",
+  "s": 48.12,
+  "e": 48.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "check",
+  "s": 48.76,
+  "e": 49.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 49.18,
+  "e": 49.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Snyder.",
+  "s": 49.5,
+  "e": 49.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Snyder",
+  "s": 50.7,
+  "e": 51.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "said",
+  "s": 51.1,
+  "e": 51.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 51.46,
+  "e": 51.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 51.64,
+  "e": 51.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "payment",
+  "s": 51.78,
+  "e": 52.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "was",
+  "s": 52.02,
+  "e": 52.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 52.28,
+  "e": 52.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "his",
+  "s": 52.48,
+  "e": 52.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "consulting",
+  "s": 52.62,
+  "e": 53.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "services,",
+  "s": 53.14,
+  "e": 53.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "but",
+  "s": 54.32,
+  "e": 54.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 54.74,
+  "e": 54.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 54.9,
+  "e": 55.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "government",
+  "s": 55.16,
+  "e": 55.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "charged",
+  "s": 55.52,
+  "e": 56.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 56.0,
+  "e": 56.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 56.54,
+  "e": 56.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 56.68,
+  "e": 56.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "jury",
+  "s": 56.96,
+  "e": 57.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "convicted",
+  "s": 57.56,
+  "e": 58.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Snyder",
+  "s": 58.26,
+  "e": 58.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 58.64,
+  "e": 58.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accepting",
+  "s": 58.98,
+  "e": 59.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "an",
+  "s": 59.52,
+  "e": 59.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "illegal",
+  "s": 59.88,
+  "e": 60.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuity",
+  "s": 60.36,
+  "e": 61.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 61.14,
+  "e": 61.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 61.5,
+  "e": 61.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "trash",
+  "s": 61.66,
+  "e": 61.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "truck",
+  "s": 61.98,
+  "e": 62.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "contract",
+  "s": 62.3,
+  "e": 62.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 62.96,
+  "e": 63.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "violation",
+  "s": 63.76,
+  "e": 64.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 64.24,
+  "e": 64.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 64.86,
+  "e": 65.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 65.22,
+  "e": 65.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 65.94,
+  "e": 67.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Title",
+  "s": 67.24,
+  "e": 67.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "18.",
+  "s": 67.56,
+  "e": 68.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "The",
+  "s": 69.06,
+  "e": 69.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "district",
+  "s": 69.3,
+  "e": 69.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "court",
+  "s": 69.58,
+  "e": 69.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "sentenced",
+  "s": 69.9,
+  "e": 70.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Snyder",
+  "s": 70.3,
+  "e": 70.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 70.68,
+  "e": 70.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "one",
+  "s": 70.92,
+  "e": 71.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "year",
+  "s": 71.1,
+  "e": 71.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 71.38,
+  "e": 71.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "nine",
+  "s": 71.62,
+  "e": 71.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "months",
+  "s": 71.86,
+  "e": 72.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 72.18,
+  "e": 72.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "prison.",
+  "s": 72.38,
+  "e": 72.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "On",
+  "s": 73.92,
+  "e": 74.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "appeal,",
+  "s": 74.18,
+  "e": 74.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Snyder",
+  "s": 75.04,
+  "e": 75.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "argued",
+  "s": 75.14,
+  "e": 75.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 75.64,
+  "e": 75.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "as",
+  "s": 75.86,
+  "e": 76.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 76.0,
+  "e": 76.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "matter",
+  "s": 76.12,
+  "e": 76.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 76.36,
+  "e": 76.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "law,",
+  "s": 76.56,
+  "e": 76.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 77.16,
+  "e": 77.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 77.38,
+  "e": 78.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "criminalizes",
+  "s": 78.18,
+  "e": 79.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "only",
+  "s": 79.42,
+  "e": 79.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribes",
+  "s": 79.82,
+  "e": 80.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 80.44,
+  "e": 81.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "future",
+  "s": 81.06,
+  "e": 81.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 81.5,
+  "e": 81.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "acts,",
+  "s": 81.96,
+  "e": 82.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not",
+  "s": 82.84,
+  "e": 83.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities",
+  "s": 83.16,
+  "e": 83.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 83.96,
+  "e": 84.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "past",
+  "s": 84.28,
+  "e": 84.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "acts.",
+  "s": 84.62,
+  "e": 85.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "The",
+  "s": 85.84,
+  "e": 86.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "U",
+  "s": 86.1,
+  "e": 86.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": ".S.",
+  "s": 86.22,
+  "e": 86.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Court",
+  "s": 86.58,
+  "e": 86.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 86.66,
+  "e": 86.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Appeals",
+  "s": 86.78,
+  "e": 87.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 87.18,
+  "e": 87.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 87.44,
+  "e": 87.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "7th",
+  "s": 87.56,
+  "e": 87.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Circuit",
+  "s": 87.96,
+  "e": 88.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "disagreed",
+  "s": 88.14,
+  "e": 88.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "based",
+  "s": 88.78,
+  "e": 89.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "on",
+  "s": 89.22,
+  "e": 89.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 89.44,
+  "e": 89.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "court's",
+  "s": 89.66,
+  "e": 90.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "precedent",
+  "s": 90.1,
+  "e": 90.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "interpreting",
+  "s": 90.56,
+  "e": 91.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 91.46,
+  "e": 91.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "law",
+  "s": 91.8,
+  "e": 92.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 92.04,
+  "e": 92.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "cover",
+  "s": 92.24,
+  "e": 92.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "both",
+  "s": 92.48,
+  "e": 92.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribes",
+  "s": 92.86,
+  "e": 93.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 93.42,
+  "e": 93.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities.",
+  "s": 93.9,
+  "e": 94.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "So",
+  "s": 94.86,
+  "e": 95.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 95.38,
+  "e": 95.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Court",
+  "s": 95.5,
+  "e": 95.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 95.7,
+  "e": 95.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Appeals",
+  "s": 95.82,
+  "e": 96.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "affirmed",
+  "s": 96.2,
+  "e": 96.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Snyder's",
+  "s": 96.82,
+  "e": 97.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "conviction.",
+  "s": 97.52,
+  "e": 97.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "In",
+  "s": 98.9,
+  "e": 99.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "light",
+  "s": 99.2,
+  "e": 99.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 99.42,
+  "e": 99.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "disagreement",
+  "s": 99.58,
+  "e": 100.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 100.22,
+  "e": 100.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 100.56,
+  "e": 100.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Courts",
+  "s": 100.68,
+  "e": 100.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 100.84,
+  "e": 101.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Appeals",
+  "s": 101.06,
+  "e": 101.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "about",
+  "s": 101.42,
+  "e": 101.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "whether",
+  "s": 101.78,
+  "e": 102.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 102.18,
+  "e": 102.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 102.48,
+  "e": 103.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "covers",
+  "s": 103.2,
+  "e": 104.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "only",
+  "s": 104.0,
+  "e": 104.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribes",
+  "s": 104.38,
+  "e": 104.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 104.86,
+  "e": 105.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "covers",
+  "s": 105.6,
+  "e": 106.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "both",
+  "s": 106.02,
+  "e": 106.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribes",
+  "s": 106.28,
+  "e": 106.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 106.76,
+  "e": 107.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities,",
+  "s": 107.04,
+  "e": 107.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "we",
+  "s": 107.78,
+  "e": 108.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "granted",
+  "s": 108.1,
+  "e": 108.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "review.",
+  "s": 108.5,
+  "e": 109.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "We",
+  "s": 109.06,
+  "e": 109.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "now",
+  "s": 109.7,
+  "e": 110.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "reverse.",
+  "s": 110.34,
+  "e": 110.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "All",
+  "s": 111.96,
+  "e": 112.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "agree",
+  "s": 112.26,
+  "e": 112.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 112.76,
+  "e": 113.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 113.1,
+  "e": 113.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 113.4,
+  "e": 114.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "prohibits",
+  "s": 114.02,
+  "e": 114.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 114.8,
+  "e": 115.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 115.18,
+  "e": 115.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 115.32,
+  "e": 115.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 115.56,
+  "e": 116.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "from",
+  "s": 116.06,
+  "e": 116.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accepting",
+  "s": 116.34,
+  "e": 116.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribes",
+  "s": 116.9,
+  "e": 117.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 117.44,
+  "e": 117.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "are",
+  "s": 117.72,
+  "e": 117.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "promised",
+  "s": 117.84,
+  "e": 118.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 118.28,
+  "e": 118.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "given",
+  "s": 118.52,
+  "e": 118.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "before",
+  "s": 118.86,
+  "e": 119.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 119.42,
+  "e": 119.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 119.66,
+  "e": 120.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "act.",
+  "s": 120.06,
+  "e": 120.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Those",
+  "s": 121.04,
+  "e": 121.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribes",
+  "s": 121.36,
+  "e": 121.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "are",
+  "s": 121.84,
+  "e": 122.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "punishable",
+  "s": 122.08,
+  "e": 122.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "by",
+  "s": 122.52,
+  "e": 122.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "up",
+  "s": 122.86,
+  "e": 122.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 122.96,
+  "e": 123.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "10",
+  "s": 123.18,
+  "e": 123.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "years",
+  "s": 123.4,
+  "e": 123.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "imprisonment.",
+  "s": 123.74,
+  "e": 124.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "The",
+  "s": 125.42,
+  "e": 125.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "question,",
+  "s": 125.64,
+  "e": 126.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "however,",
+  "s": 126.16,
+  "e": 126.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 126.5,
+  "e": 126.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "whether",
+  "s": 126.8,
+  "e": 127.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "this",
+  "s": 127.0,
+  "e": 127.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "law",
+  "s": 127.3,
+  "e": 127.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "also",
+  "s": 127.64,
+  "e": 128.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "makes",
+  "s": 128.16,
+  "e": 128.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "it",
+  "s": 128.48,
+  "e": 128.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 128.68,
+  "e": 128.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "crime",
+  "s": 128.74,
+  "e": 129.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 129.08,
+  "e": 129.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 129.36,
+  "e": 129.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 129.7,
+  "e": 129.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 129.86,
+  "e": 130.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 130.12,
+  "e": 130.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 130.62,
+  "e": 130.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accept",
+  "s": 130.92,
+  "e": 131.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities.",
+  "s": 131.26,
+  "e": 131.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "For",
+  "s": 132.39,
+  "e": 132.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "example,",
+  "s": 132.7,
+  "e": 133.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gift",
+  "s": 133.58,
+  "e": 133.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "cards,",
+  "s": 133.72,
+  "e": 134.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "lunches,",
+  "s": 134.42,
+  "e": 134.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "plaques,",
+  "s": 135.08,
+  "e": 135.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "books,",
+  "s": 135.86,
+  "e": 136.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "framed",
+  "s": 136.78,
+  "e": 137.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "photos,",
+  "s": 137.02,
+  "e": 137.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 137.82,
+  "e": 137.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 137.94,
+  "e": 138.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "like",
+  "s": 138.04,
+  "e": 138.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 138.42,
+  "e": 139.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "may",
+  "s": 139.08,
+  "e": 139.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 139.3,
+  "e": 139.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "given",
+  "s": 139.5,
+  "e": 139.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "as",
+  "s": 139.78,
+  "e": 140.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 140.0,
+  "e": 140.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "token",
+  "s": 140.18,
+  "e": 140.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 140.44,
+  "e": 140.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "appreciation",
+  "s": 140.74,
+  "e": 141.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "after",
+  "s": 141.36,
+  "e": 142.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 142.34,
+  "e": 142.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 142.62,
+  "e": 143.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "act.",
+  "s": 143.0,
+  "e": 143.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Some",
+  "s": 144.28,
+  "e": 144.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities",
+  "s": 144.62,
+  "e": 145.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "can",
+  "s": 145.16,
+  "e": 145.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 145.46,
+  "e": 145.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "problematic.",
+  "s": 145.66,
+  "e": 146.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Others",
+  "s": 147.18,
+  "e": 147.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "are",
+  "s": 147.5,
+  "e": 147.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "commonplace",
+  "s": 147.76,
+  "e": 148.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 148.32,
+  "e": 148.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "might",
+  "s": 148.68,
+  "e": 148.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 148.86,
+  "e": 149.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "innocuous.",
+  "s": 149.04,
+  "e": 149.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "A",
+  "s": 150.2,
+  "e": 150.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "family",
+  "s": 150.48,
+  "e": 150.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gives",
+  "s": 150.76,
+  "e": 151.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 151.14,
+  "e": 151.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "holiday",
+  "s": 151.34,
+  "e": 151.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "tip",
+  "s": 151.68,
+  "e": 152.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 152.04,
+  "e": 152.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 152.32,
+  "e": 152.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "mail",
+  "s": 152.44,
+  "e": 152.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "carrier.",
+  "s": 152.66,
+  "e": 153.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Parents",
+  "s": 154.08,
+  "e": 154.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "send",
+  "s": 154.08,
+  "e": 154.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "an",
+  "s": 154.38,
+  "e": 154.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "end",
+  "s": 154.56,
+  "e": 154.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "-of",
+  "s": 154.82,
+  "e": 154.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "-the",
+  "s": 154.94,
+  "e": 155.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "-year",
+  "s": 155.12,
+  "e": 155.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gift",
+  "s": 155.3,
+  "e": 155.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "basket",
+  "s": 155.56,
+  "e": 156.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 156.04,
+  "e": 156.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "their",
+  "s": 156.28,
+  "e": 156.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "child's",
+  "s": 156.42,
+  "e": 156.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "public",
+  "s": 156.94,
+  "e": 157.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "school",
+  "s": 157.14,
+  "e": 157.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "teacher.",
+  "s": 157.5,
+  "e": 157.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "A",
+  "s": 158.4,
+  "e": 158.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "college",
+  "s": 158.7,
+  "e": 159.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "dean",
+  "s": 159.08,
+  "e": 159.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gives",
+  "s": 159.44,
+  "e": 159.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 159.78,
+  "e": 159.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "college",
+  "s": 159.98,
+  "e": 160.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "sweatshirt",
+  "s": 160.26,
+  "e": 160.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 160.78,
+  "e": 160.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 160.98,
+  "e": 161.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "city",
+  "s": 161.12,
+  "e": 161.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "council",
+  "s": 161.3,
+  "e": 161.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "member",
+  "s": 161.68,
+  "e": 162.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "who",
+  "s": 162.06,
+  "e": 162.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "comes",
+  "s": 162.24,
+  "e": 162.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 162.46,
+  "e": 162.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "speak",
+  "s": 162.7,
+  "e": 163.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "at",
+  "s": 163.02,
+  "e": 163.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "an",
+  "s": 163.3,
+  "e": 163.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "event.",
+  "s": 163.46,
+  "e": 163.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "A",
+  "s": 164.64,
+  "e": 164.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 164.8,
+  "e": 165.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "legislator's",
+  "s": 165.04,
+  "e": 165.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "neighbor",
+  "s": 165.88,
+  "e": 166.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "drops",
+  "s": 166.06,
+  "e": 166.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "off",
+  "s": 166.52,
+  "e": 166.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 166.82,
+  "e": 166.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gift",
+  "s": 166.98,
+  "e": 167.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "card",
+  "s": 167.16,
+  "e": 167.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 167.44,
+  "e": 167.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "congratulate",
+  "s": 167.66,
+  "e": 168.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "her",
+  "s": 168.16,
+  "e": 168.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 168.54,
+  "e": 168.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "her",
+  "s": 168.78,
+  "e": 169.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "work",
+  "s": 169.0,
+  "e": 169.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "on",
+  "s": 169.3,
+  "e": 169.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 169.54,
+  "e": 169.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "new",
+  "s": 169.66,
+  "e": 169.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "law.",
+  "s": 169.84,
+  "e": 170.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "We",
+  "s": 171.2,
+  "e": 171.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "conclude",
+  "s": 171.54,
+  "e": 172.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 172.04,
+  "e": 172.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 172.36,
+  "e": 172.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 172.64,
+  "e": 173.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "does",
+  "s": 173.24,
+  "e": 173.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not",
+  "s": 173.82,
+  "e": 174.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "cover",
+  "s": 174.08,
+  "e": 174.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities.",
+  "s": 174.5,
+  "e": 175.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "There",
+  "s": 175.98,
+  "e": 176.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "are",
+  "s": 176.22,
+  "e": 176.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "19",
+  "s": 176.38,
+  "e": 176.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "million",
+  "s": 176.8,
+  "e": 177.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 177.28,
+  "e": 177.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 177.66,
+  "e": 177.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 177.78,
+  "e": 178.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 178.02,
+  "e": 178.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "around",
+  "s": 178.48,
+  "e": 178.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 178.9,
+  "e": 179.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "country.",
+  "s": 179.08,
+  "e": 179.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Some",
+  "s": 180.26,
+  "e": 180.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 180.56,
+  "e": 180.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "them",
+  "s": 180.7,
+  "e": 180.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "are",
+  "s": 180.84,
+  "e": 181.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "part",
+  "s": 181.04,
+  "e": 181.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "-time",
+  "s": 181.24,
+  "e": 181.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 181.62,
+  "e": 181.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "have",
+  "s": 181.8,
+  "e": 182.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "other",
+  "s": 182.04,
+  "e": 182.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "employment.",
+  "s": 182.32,
+  "e": 182.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Importantly,",
+  "s": 184.12,
+  "e": 184.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 185.16,
+  "e": 185.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 185.3,
+  "e": 185.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 185.46,
+  "e": 185.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "governments",
+  "s": 185.76,
+  "e": 186.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "often",
+  "s": 186.36,
+  "e": 186.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "regulate",
+  "s": 186.9,
+  "e": 187.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 187.46,
+  "e": 187.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gifts",
+  "s": 187.72,
+  "e": 187.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 187.98,
+  "e": 188.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 188.26,
+  "e": 188.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 188.54,
+  "e": 188.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 188.72,
+  "e": 188.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 188.98,
+  "e": 189.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "may",
+  "s": 189.5,
+  "e": 189.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accept.",
+  "s": 189.8,
+  "e": 190.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "So",
+  "s": 191.24,
+  "e": 191.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gifts",
+  "s": 191.26,
+  "e": 191.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 191.54,
+  "e": 191.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "those",
+  "s": 191.8,
+  "e": 192.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 192.0,
+  "e": 192.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "are",
+  "s": 192.46,
+  "e": 192.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "already",
+  "s": 192.86,
+  "e": 193.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "regulated",
+  "s": 193.38,
+  "e": 194.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 194.04,
+  "e": 194.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 194.4,
+  "e": 194.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "degree",
+  "s": 194.54,
+  "e": 194.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 194.94,
+  "e": 195.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 195.22,
+  "e": 195.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 195.56,
+  "e": 195.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 195.72,
+  "e": 196.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "governments",
+  "s": 196.0,
+  "e": 196.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "think",
+  "s": 196.48,
+  "e": 196.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "appropriate.",
+  "s": 196.78,
+  "e": 197.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 198.5,
+  "e": 198.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 198.68,
+  "e": 199.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "does",
+  "s": 199.18,
+  "e": 199.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not",
+  "s": 199.86,
+  "e": 200.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "supplement",
+  "s": 200.06,
+  "e": 200.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "those",
+  "s": 200.7,
+  "e": 201.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 201.02,
+  "e": 201.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 201.34,
+  "e": 201.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 201.46,
+  "e": 201.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "rules",
+  "s": 201.7,
+  "e": 202.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "by",
+  "s": 202.22,
+  "e": 202.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "subjecting",
+  "s": 202.46,
+  "e": 203.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 203.16,
+  "e": 203.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 203.48,
+  "e": 203.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 203.64,
+  "e": 203.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 203.88,
+  "e": 204.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 204.36,
+  "e": 204.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "up",
+  "s": 204.62,
+  "e": 204.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 204.78,
+  "e": 204.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "10",
+  "s": 204.98,
+  "e": 205.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "years",
+  "s": 205.18,
+  "e": 205.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 205.46,
+  "e": 205.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 205.72,
+  "e": 205.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "prison",
+  "s": 205.96,
+  "e": 206.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 206.48,
+  "e": 207.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accepting",
+  "s": 207.2,
+  "e": 207.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "even",
+  "s": 207.68,
+  "e": 208.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "commonplace",
+  "s": 208.04,
+  "e": 208.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities.",
+  "s": 208.74,
+  "e": 209.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Now,",
+  "s": 209.48,
+  "e": 210.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "we",
+  "s": 210.52,
+  "e": 210.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "reached",
+  "s": 210.74,
+  "e": 210.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 210.98,
+  "e": 212.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "conclusion",
+  "s": 212.24,
+  "e": 212.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 212.58,
+  "e": 212.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "several",
+  "s": 212.94,
+  "e": 213.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "reasons",
+  "s": 213.28,
+  "e": 213.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "taken",
+  "s": 213.72,
+  "e": 214.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "together,",
+  "s": 214.06,
+  "e": 214.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "including",
+  "s": 214.68,
+  "e": 215.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 215.04,
+  "e": 215.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statutory",
+  "s": 215.36,
+  "e": 215.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "text,",
+  "s": 215.7,
+  "e": 216.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 216.9,
+  "e": 217.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statutory",
+  "s": 217.06,
+  "e": 217.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "history,",
+  "s": 217.36,
+  "e": 217.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federalism,",
+  "s": 218.16,
+  "e": 218.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 219.26,
+  "e": 219.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "fair",
+  "s": 219.46,
+  "e": 219.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "notice.",
+  "s": 219.7,
+  "e": 220.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "First,",
+  "s": 220.88,
+  "e": 221.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 221.54,
+  "e": 221.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "1986,",
+  "s": 221.58,
+  "e": 222.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "when",
+  "s": 222.4,
+  "e": 222.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "enacting",
+  "s": 222.68,
+  "e": 223.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "this",
+  "s": 223.3,
+  "e": 223.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute,",
+  "s": 223.48,
+  "e": 223.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Congress",
+  "s": 224.56,
+  "e": 224.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "modeled",
+  "s": 224.56,
+  "e": 225.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 225.0,
+  "e": 225.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "text",
+  "s": 225.32,
+  "e": 225.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 225.64,
+  "e": 225.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 225.88,
+  "e": 226.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 226.22,
+  "e": 226.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 226.8,
+  "e": 227.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 227.86,
+  "e": 228.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 228.18,
+  "e": 228.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 228.32,
+  "e": 228.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 228.62,
+  "e": 229.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "on",
+  "s": 229.24,
+  "e": 230.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 230.02,
+  "e": 230.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribery",
+  "s": 230.2,
+  "e": 230.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "provision",
+  "s": 230.6,
+  "e": 231.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 231.26,
+  "e": 231.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 231.58,
+  "e": 231.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials,",
+  "s": 231.92,
+  "e": 232.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not",
+  "s": 232.78,
+  "e": 233.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "on",
+  "s": 233.22,
+  "e": 233.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 233.5,
+  "e": 233.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "differently",
+  "s": 233.66,
+  "e": 234.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "worded",
+  "s": 234.12,
+  "e": 234.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities",
+  "s": 234.68,
+  "e": 235.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "provision",
+  "s": 235.24,
+  "e": 235.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 235.72,
+  "e": 236.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 236.06,
+  "e": 236.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official.",
+  "s": 236.38,
+  "e": 236.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "The",
+  "s": 237.1,
+  "e": 237.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statutory",
+  "s": 237.48,
+  "e": 238.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "text,",
+  "s": 238.04,
+  "e": 238.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "therefore,",
+  "s": 238.62,
+  "e": 238.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "strongly",
+  "s": 239.46,
+  "e": 239.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "suggests",
+  "s": 239.52,
+  "e": 240.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 240.76,
+  "e": 241.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 241.5,
+  "e": 241.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 241.5,
+  "e": 242.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 242.42,
+  "e": 243.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 243.16,
+  "e": 243.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribery",
+  "s": 243.32,
+  "e": 243.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute.",
+  "s": 243.62,
+  "e": 244.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Second,",
+  "s": 244.94,
+  "e": 245.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 245.6,
+  "e": 245.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "reinforcing",
+  "s": 245.68,
+  "e": 246.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that,",
+  "s": 246.26,
+  "e": 246.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 246.8,
+  "e": 246.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 246.98,
+  "e": 247.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statutory",
+  "s": 247.16,
+  "e": 247.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "history.",
+  "s": 247.6,
+  "e": 248.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "In",
+  "s": 249.0,
+  "e": 249.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "1984,",
+  "s": 249.24,
+  "e": 249.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "when",
+  "s": 250.12,
+  "e": 250.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "first",
+  "s": 250.32,
+  "e": 250.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "enacting",
+  "s": 250.7,
+  "e": 251.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 251.4,
+  "e": 251.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "prior",
+  "s": 251.58,
+  "e": 252.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "version",
+  "s": 252.02,
+  "e": 252.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 252.46,
+  "e": 252.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "this",
+  "s": 252.64,
+  "e": 252.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute",
+  "s": 252.84,
+  "e": 253.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 253.3,
+  "e": 253.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 253.52,
+  "e": 253.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 253.8,
+  "e": 253.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 253.92,
+  "e": 254.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials,",
+  "s": 254.1,
+  "e": 254.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Congress",
+  "s": 255.14,
+  "e": 255.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "did",
+  "s": 255.34,
+  "e": 255.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "borrow",
+  "s": 255.72,
+  "e": 256.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "language",
+  "s": 256.1,
+  "e": 256.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "from",
+  "s": 256.46,
+  "e": 256.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 256.8,
+  "e": 256.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuity",
+  "s": 256.96,
+  "e": 257.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute",
+  "s": 257.4,
+  "e": 258.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 258.02,
+  "e": 258.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 258.46,
+  "e": 258.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials.",
+  "s": 258.78,
+  "e": 259.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "But",
+  "s": 259.88,
+  "e": 260.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "just",
+  "s": 260.12,
+  "e": 260.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "two",
+  "s": 260.32,
+  "e": 260.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "years",
+  "s": 260.6,
+  "e": 260.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "later,",
+  "s": 260.86,
+  "e": 261.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 261.34,
+  "e": 261.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "1986,",
+  "s": 261.38,
+  "e": 262.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Congress",
+  "s": 262.8,
+  "e": 263.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "overhauled",
+  "s": 263.3,
+  "e": 264.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 264.02,
+  "e": 264.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute,",
+  "s": 264.12,
+  "e": 264.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "eliminated",
+  "s": 264.62,
+  "e": 265.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 265.58,
+  "e": 265.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities",
+  "s": 265.86,
+  "e": 266.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "language,",
+  "s": 266.36,
+  "e": 266.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 267.64,
+  "e": 267.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "instead",
+  "s": 267.64,
+  "e": 268.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "enacted",
+  "s": 268.32,
+  "e": 268.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 268.88,
+  "e": 269.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "current",
+  "s": 269.08,
+  "e": 269.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "language",
+  "s": 269.4,
+  "e": 269.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 269.84,
+  "e": 270.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "resembles",
+  "s": 270.14,
+  "e": 270.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 270.66,
+  "e": 270.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribery",
+  "s": 270.94,
+  "e": 271.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "provision",
+  "s": 271.26,
+  "e": 271.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 271.84,
+  "e": 272.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 272.14,
+  "e": 272.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials.",
+  "s": 272.44,
+  "e": 272.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "We",
+  "s": 273.54,
+  "e": 273.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "must",
+  "s": 273.88,
+  "e": 274.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "respect",
+  "s": 274.06,
+  "e": 274.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Congress's",
+  "s": 274.68,
+  "e": 275.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "choice",
+  "s": 275.32,
+  "e": 275.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 275.64,
+  "e": 275.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "1986.",
+  "s": 275.9,
+  "e": 276.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Third",
+  "s": 277.92,
+  "e": 278.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 278.2,
+  "e": 278.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federalism.",
+  "s": 278.44,
+  "e": 279.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "As",
+  "s": 279.94,
+  "e": 280.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "I",
+  "s": 280.16,
+  "e": 280.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "mentioned,",
+  "s": 280.32,
+  "e": 280.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 281.06,
+  "e": 281.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 281.14,
+  "e": 281.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 281.3,
+  "e": 281.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "governments",
+  "s": 281.58,
+  "e": 282.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "have",
+  "s": 282.12,
+  "e": 282.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "made",
+  "s": 282.44,
+  "e": 282.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "carefully",
+  "s": 282.68,
+  "e": 283.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "calibrated",
+  "s": 283.2,
+  "e": 283.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "policy",
+  "s": 283.92,
+  "e": 284.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "decisions",
+  "s": 284.48,
+  "e": 285.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "about",
+  "s": 285.12,
+  "e": 285.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 285.44,
+  "e": 285.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gifts",
+  "s": 285.66,
+  "e": 285.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 285.96,
+  "e": 286.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 286.22,
+  "e": 286.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 286.5,
+  "e": 286.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 286.66,
+  "e": 286.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 286.9,
+  "e": 287.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "may",
+  "s": 287.4,
+  "e": 287.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accept.",
+  "s": 287.7,
+  "e": 288.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Those",
+  "s": 288.88,
+  "e": 289.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "policies",
+  "s": 289.22,
+  "e": 289.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "would",
+  "s": 289.8,
+  "e": 290.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 290.06,
+  "e": 290.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "largely",
+  "s": 290.22,
+  "e": 290.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "overridden",
+  "s": 290.68,
+  "e": 291.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "if",
+  "s": 291.38,
+  "e": 291.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "we",
+  "s": 291.64,
+  "e": 291.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "were",
+  "s": 291.82,
+  "e": 291.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 291.94,
+  "e": 292.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accept",
+  "s": 292.08,
+  "e": 292.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 292.4,
+  "e": 292.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 292.72,
+  "e": 292.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "government's",
+  "s": 292.92,
+  "e": 293.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "interpretation.",
+  "s": 293.44,
+  "e": 294.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Reading",
+  "s": 295.08,
+  "e": 295.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 295.68,
+  "e": 296.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 296.04,
+  "e": 296.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 296.72,
+  "e": 297.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "create",
+  "s": 297.32,
+  "e": 297.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 297.56,
+  "e": 297.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 297.78,
+  "e": 298.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "prohibition",
+  "s": 298.1,
+  "e": 298.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "on",
+  "s": 298.78,
+  "e": 298.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities",
+  "s": 298.98,
+  "e": 299.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "would",
+  "s": 299.58,
+  "e": 300.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "suddenly",
+  "s": 300.3,
+  "e": 300.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "subject",
+  "s": 300.72,
+  "e": 301.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "19",
+  "s": 301.14,
+  "e": 301.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "million",
+  "s": 301.74,
+  "e": 302.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 302.08,
+  "e": 302.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 302.48,
+  "e": 302.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 302.64,
+  "e": 302.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 302.88,
+  "e": 303.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 303.32,
+  "e": 303.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 303.66,
+  "e": 303.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "new",
+  "s": 303.84,
+  "e": 304.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 304.2,
+  "e": 304.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "different",
+  "s": 304.48,
+  "e": 304.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "regulatory",
+  "s": 304.98,
+  "e": 305.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "regime",
+  "s": 305.7,
+  "e": 306.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 306.22,
+  "e": 306.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities.",
+  "s": 306.52,
+  "e": 307.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Fourth",
+  "s": 308.44,
+  "e": 308.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 308.8,
+  "e": 309.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "fair",
+  "s": 309.06,
+  "e": 309.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "notice.",
+  "s": 309.32,
+  "e": 309.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "The",
+  "s": 310.76,
+  "e": 311.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "government's",
+  "s": 311.0,
+  "e": 311.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "interpretation",
+  "s": 311.5,
+  "e": 312.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 312.12,
+  "e": 312.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 312.4,
+  "e": 312.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute",
+  "s": 312.52,
+  "e": 312.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "would",
+  "s": 312.88,
+  "e": 313.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "create",
+  "s": 313.24,
+  "e": 313.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "traps",
+  "s": 313.74,
+  "e": 314.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 314.24,
+  "e": 314.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "unwary",
+  "s": 314.6,
+  "e": 315.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 315.16,
+  "e": 315.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 315.58,
+  "e": 315.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 315.74,
+  "e": 315.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials.",
+  "s": 315.98,
+  "e": 316.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Now,",
+  "s": 317.58,
+  "e": 317.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 317.78,
+  "e": 317.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "government",
+  "s": 317.88,
+  "e": 318.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "says",
+  "s": 318.12,
+  "e": 318.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 318.54,
+  "e": 318.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 318.84,
+  "e": 318.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute",
+  "s": 318.94,
+  "e": 319.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "does",
+  "s": 319.54,
+  "e": 320.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not",
+  "s": 320.14,
+  "e": 320.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "cover",
+  "s": 320.42,
+  "e": 320.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "innocuous",
+  "s": 320.8,
+  "e": 321.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 321.6,
+  "e": 321.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "obviously",
+  "s": 321.98,
+  "e": 322.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "benign",
+  "s": 322.5,
+  "e": 323.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities",
+  "s": 323.24,
+  "e": 323.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 323.94,
+  "e": 324.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "would",
+  "s": 324.68,
+  "e": 324.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "only",
+  "s": 324.8,
+  "e": 325.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "cover",
+  "s": 325.18,
+  "e": 325.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "wrongful",
+  "s": 325.58,
+  "e": 326.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities.",
+  "s": 326.12,
+  "e": 326.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "But",
+  "s": 327.52,
+  "e": 327.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 327.8,
+  "e": 327.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "flaw",
+  "s": 327.96,
+  "e": 328.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 328.28,
+  "e": 328.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 328.44,
+  "e": 328.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "government's",
+  "s": 328.56,
+  "e": 329.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "approach,",
+  "s": 329.0,
+  "e": 329.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 329.92,
+  "e": 330.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "it's",
+  "s": 330.14,
+  "e": 330.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 330.3,
+  "e": 330.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "very",
+  "s": 330.44,
+  "e": 330.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "serious",
+  "s": 330.74,
+  "e": 331.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "real",
+  "s": 331.3,
+  "e": 331.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "world",
+  "s": 331.7,
+  "e": 332.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "problem,",
+  "s": 332.1,
+  "e": 332.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 332.9,
+  "e": 333.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 333.48,
+  "e": 333.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 333.64,
+  "e": 333.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "government",
+  "s": 333.8,
+  "e": 334.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "does",
+  "s": 334.06,
+  "e": 334.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not",
+  "s": 334.44,
+  "e": 334.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "identify",
+  "s": 334.8,
+  "e": 335.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "any",
+  "s": 335.5,
+  "e": 335.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "remotely",
+  "s": 335.82,
+  "e": 336.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "clear",
+  "s": 336.28,
+  "e": 336.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "lines",
+  "s": 336.7,
+  "e": 337.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "separating",
+  "s": 337.18,
+  "e": 337.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "an",
+  "s": 337.76,
+  "e": 338.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "innocuous",
+  "s": 338.16,
+  "e": 338.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 338.8,
+  "e": 339.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "obviously",
+  "s": 339.08,
+  "e": 339.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "benign",
+  "s": 339.6,
+  "e": 340.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuity",
+  "s": 340.26,
+  "e": 340.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "from",
+  "s": 340.9,
+  "e": 341.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 341.52,
+  "e": 341.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "criminal",
+  "s": 341.74,
+  "e": 342.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuity.",
+  "s": 342.1,
+  "e": 342.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Is",
+  "s": 343.34,
+  "e": 343.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 343.72,
+  "e": 343.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "$100",
+  "s": 343.84,
+  "e": 344.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Dunkin'",
+  "s": 344.18,
+  "e": 345.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Diff",
+  "s": 345.12,
+  "e": 345.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Donuts",
+  "s": 345.32,
+  "e": 346.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gift",
+  "s": 346.08,
+  "e": 346.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "card",
+  "s": 346.3,
+  "e": 346.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 346.64,
+  "e": 346.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 346.9,
+  "e": 347.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "trash",
+  "s": 347.1,
+  "e": 347.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "collector",
+  "s": 347.34,
+  "e": 347.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "wrongful,",
+  "s": 347.84,
+  "e": 348.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 348.92,
+  "e": 349.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "$200",
+  "s": 349.14,
+  "e": 349.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Nike",
+  "s": 349.66,
+  "e": 350.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gift",
+  "s": 350.52,
+  "e": 350.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "card",
+  "s": 350.86,
+  "e": 351.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 351.12,
+  "e": 351.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 351.32,
+  "e": 351.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "county",
+  "s": 351.44,
+  "e": 351.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "commissioner?",
+  "s": 351.74,
+  "e": 352.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Could",
+  "s": 353.08,
+  "e": 353.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "students",
+  "s": 353.2,
+  "e": 353.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "take",
+  "s": 353.64,
+  "e": 353.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "their",
+  "s": 353.92,
+  "e": 354.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "college",
+  "s": 354.18,
+  "e": 354.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "professor",
+  "s": 354.72,
+  "e": 355.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "out",
+  "s": 355.14,
+  "e": 355.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 355.46,
+  "e": 355.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Chipotle",
+  "s": 355.68,
+  "e": 356.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 356.16,
+  "e": 356.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "an",
+  "s": 356.5,
+  "e": 356.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "end",
+  "s": 356.62,
+  "e": 356.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "-of",
+  "s": 356.76,
+  "e": 356.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "-term",
+  "s": 356.9,
+  "e": 357.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "celebration?",
+  "s": 357.14,
+  "e": 357.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "And",
+  "s": 358.64,
+  "e": 358.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "if",
+  "s": 358.74,
+  "e": 358.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "so,",
+  "s": 358.84,
+  "e": 359.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "would",
+  "s": 359.28,
+  "e": 359.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "it",
+  "s": 359.36,
+  "e": 359.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "somehow",
+  "s": 359.46,
+  "e": 359.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "become",
+  "s": 359.84,
+  "e": 360.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "criminal",
+  "s": 360.2,
+  "e": 360.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "if",
+  "s": 360.66,
+  "e": 360.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "it's",
+  "s": 360.9,
+  "e": 361.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 361.08,
+  "e": 361.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "steak",
+  "s": 361.18,
+  "e": 361.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "dinner",
+  "s": 361.46,
+  "e": 361.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 361.82,
+  "e": 362.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 362.54,
+  "e": 362.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "treat",
+  "s": 362.68,
+  "e": 362.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "her",
+  "s": 362.94,
+  "e": 363.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 363.08,
+  "e": 363.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 363.22,
+  "e": 363.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Hoosiers",
+  "s": 363.4,
+  "e": 363.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 363.82,
+  "e": 364.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "fever",
+  "s": 364.18,
+  "e": 364.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "game?",
+  "s": 364.52,
+  "e": 364.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "The",
+  "s": 365.46,
+  "e": 365.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "government",
+  "s": 365.76,
+  "e": 366.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "offers",
+  "s": 366.02,
+  "e": 366.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "no",
+  "s": 366.74,
+  "e": 367.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "clear",
+  "s": 367.08,
+  "e": 367.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "rules,",
+  "s": 367.48,
+  "e": 367.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "so",
+  "s": 368.38,
+  "e": 368.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "how",
+  "s": 368.68,
+  "e": 368.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "are",
+  "s": 368.96,
+  "e": 369.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 369.22,
+  "e": 369.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "legislators,",
+  "s": 369.56,
+  "e": 370.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "city",
+  "s": 370.68,
+  "e": 370.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "council",
+  "s": 370.8,
+  "e": 371.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "members,",
+  "s": 371.16,
+  "e": 371.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "school",
+  "s": 371.86,
+  "e": 372.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "board",
+  "s": 372.02,
+  "e": 372.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials,",
+  "s": 372.26,
+  "e": 372.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "building",
+  "s": 373.28,
+  "e": 373.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "code",
+  "s": 373.5,
+  "e": 373.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "inspectors,",
+  "s": 373.88,
+  "e": 374.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "probation",
+  "s": 374.56,
+  "e": 375.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officers,",
+  "s": 375.08,
+  "e": 375.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "human",
+  "s": 376.32,
+  "e": 376.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "resource",
+  "s": 376.5,
+  "e": 377.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "directors,",
+  "s": 377.04,
+  "e": 377.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "police",
+  "s": 377.82,
+  "e": 378.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officers,",
+  "s": 378.02,
+  "e": 378.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 379.06,
+  "e": 379.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 379.18,
+  "e": 379.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "entire",
+  "s": 379.3,
+  "e": 379.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "army",
+  "s": 379.74,
+  "e": 380.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 380.2,
+  "e": 380.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "19",
+  "s": 380.44,
+  "e": 380.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "million",
+  "s": 380.88,
+  "e": 381.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 381.3,
+  "e": 381.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 381.68,
+  "e": 381.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 381.8,
+  "e": 382.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 382.02,
+  "e": 382.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 382.5,
+  "e": 383.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "know",
+  "s": 383.1,
+  "e": 383.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "what",
+  "s": 383.38,
+  "e": 383.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 383.64,
+  "e": 383.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "acceptable",
+  "s": 383.78,
+  "e": 384.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 384.32,
+  "e": 384.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "what",
+  "s": 384.96,
+  "e": 385.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 385.14,
+  "e": 385.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "criminalized",
+  "s": 385.3,
+  "e": 385.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "by",
+  "s": 385.98,
+  "e": 386.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 386.16,
+  "e": 386.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "federal",
+  "s": 386.32,
+  "e": 386.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "government.",
+  "s": 386.58,
+  "e": 387.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "They",
+  "s": 387.72,
+  "e": 388.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "can't,",
+  "s": 388.0,
+  "e": 388.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 388.78,
+  "e": 389.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 389.12,
+  "e": 389.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 389.26,
+  "e": 389.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 389.4,
+  "e": 389.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "major",
+  "s": 389.54,
+  "e": 389.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "problem",
+  "s": 389.8,
+  "e": 390.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "with",
+  "s": 390.26,
+  "e": 390.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "construing",
+  "s": 390.54,
+  "e": 391.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 391.22,
+  "e": 391.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 391.62,
+  "e": 392.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 392.22,
+  "e": 392.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "cover",
+  "s": 392.84,
+  "e": 393.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities.",
+  "s": 393.12,
+  "e": 393.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "In",
+  "s": 394.62,
+  "e": 394.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "past",
+  "s": 394.9,
+  "e": 395.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "cases,",
+  "s": 395.2,
+  "e": 395.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "when",
+  "s": 395.8,
+  "e": 395.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "construing",
+  "s": 395.98,
+  "e": 396.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 396.52,
+  "e": 396.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute",
+  "s": 396.66,
+  "e": 397.0,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "like",
+  "s": 397.0,
+  "e": 397.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "this,",
+  "s": 397.3,
+  "e": 397.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "this",
+  "s": 398.0,
+  "e": 398.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "court",
+  "s": 398.3,
+  "e": 398.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "has",
+  "s": 398.56,
+  "e": 398.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "emphasized",
+  "s": 398.86,
+  "e": 399.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 399.5,
+  "e": 400.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 400.18,
+  "e": 400.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute",
+  "s": 400.7,
+  "e": 401.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "in",
+  "s": 401.24,
+  "e": 401.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "this",
+  "s": 401.48,
+  "e": 401.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "field",
+  "s": 401.64,
+  "e": 402.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 402.02,
+  "e": 402.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "can",
+  "s": 402.28,
+  "e": 402.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "linguistically",
+  "s": 402.52,
+  "e": 403.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 403.34,
+  "e": 403.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "interpreted",
+  "s": 403.7,
+  "e": 404.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 404.16,
+  "e": 404.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 404.46,
+  "e": 404.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "either",
+  "s": 404.7,
+  "e": 404.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 404.94,
+  "e": 405.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "meat",
+  "s": 405.2,
+  "e": 405.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "axe",
+  "s": 405.38,
+  "e": 405.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 405.72,
+  "e": 406.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 406.28,
+  "e": 406.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "scalpel",
+  "s": 406.42,
+  "e": 407.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "should",
+  "s": 407.08,
+  "e": 407.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "reasonably",
+  "s": 407.64,
+  "e": 408.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 408.2,
+  "e": 408.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "taken",
+  "s": 408.72,
+  "e": 408.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 408.98,
+  "e": 409.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 409.2,
+  "e": 409.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 409.34,
+  "e": 409.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "latter.",
+  "s": 409.46,
+  "e": 409.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "So",
+  "s": 410.78,
+  "e": 411.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "it",
+  "s": 411.04,
+  "e": 411.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 411.16,
+  "e": 411.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "here.",
+  "s": 411.36,
+  "e": 411.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "In",
+  "s": 412.52,
+  "e": 412.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "sum,",
+  "s": 412.72,
+  "e": 413.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 413.16,
+  "e": 413.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 413.22,
+  "e": 413.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 413.46,
+  "e": 413.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 413.58,
+  "e": 413.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 413.82,
+  "e": 414.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "can",
+  "s": 414.26,
+  "e": 414.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "violate",
+  "s": 414.54,
+  "e": 415.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 415.06,
+  "e": 415.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 415.48,
+  "e": 416.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "when",
+  "s": 416.08,
+  "e": 416.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "he",
+  "s": 416.74,
+  "e": 416.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accepts",
+  "s": 416.94,
+  "e": 417.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "an",
+  "s": 417.32,
+  "e": 417.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "upfront",
+  "s": 417.56,
+  "e": 418.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "payment",
+  "s": 418.02,
+  "e": 418.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 418.98,
+  "e": 419.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 419.3,
+  "e": 419.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "future",
+  "s": 419.5,
+  "e": 419.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 419.86,
+  "e": 420.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "act",
+  "s": 420.64,
+  "e": 421.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 421.06,
+  "e": 421.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "agrees",
+  "s": 421.72,
+  "e": 422.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 422.1,
+  "e": 422.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 422.44,
+  "e": 422.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "future",
+  "s": 422.64,
+  "e": 423.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "reward",
+  "s": 423.06,
+  "e": 423.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "for",
+  "s": 423.58,
+  "e": 423.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 423.92,
+  "e": 424.06,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "future",
+  "s": 424.06,
+  "e": 424.32,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 424.32,
+  "e": 424.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "act.",
+  "s": 424.68,
+  "e": 425.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "In",
+  "s": 425.32,
+  "e": 425.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "other",
+  "s": 425.5,
+  "e": 425.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "words,",
+  "s": 425.7,
+  "e": 426.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 426.26,
+  "e": 426.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribe.",
+  "s": 426.4,
+  "e": 426.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "But",
+  "s": 427.48,
+  "e": 427.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 427.76,
+  "e": 427.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 427.86,
+  "e": 428.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 428.1,
+  "e": 428.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 428.24,
+  "e": 428.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 428.5,
+  "e": 428.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "does",
+  "s": 428.88,
+  "e": 429.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not",
+  "s": 429.18,
+  "e": 429.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "violate",
+  "s": 429.5,
+  "e": 429.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "this",
+  "s": 429.92,
+  "e": 430.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "law",
+  "s": 430.24,
+  "e": 430.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "if",
+  "s": 430.56,
+  "e": 430.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 430.82,
+  "e": 431.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 431.14,
+  "e": 431.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "has",
+  "s": 431.76,
+  "e": 431.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "taken",
+  "s": 431.96,
+  "e": 432.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 432.26,
+  "e": 432.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 432.48,
+  "e": 432.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "act",
+  "s": 432.82,
+  "e": 433.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "before",
+  "s": 433.16,
+  "e": 433.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "any",
+  "s": 433.86,
+  "e": 434.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuity",
+  "s": 434.16,
+  "e": 434.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 434.72,
+  "e": 434.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "agreed",
+  "s": 434.94,
+  "e": 435.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to,",
+  "s": 435.28,
+  "e": 435.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "much",
+  "s": 435.86,
+  "e": 436.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "less",
+  "s": 436.02,
+  "e": 436.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "given.",
+  "s": 436.26,
+  "e": 436.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "To",
+  "s": 437.5,
+  "e": 437.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 437.68,
+  "e": 437.86,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "clear,",
+  "s": 437.86,
+  "e": 438.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 438.66,
+  "e": 438.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuity",
+  "s": 438.74,
+  "e": 439.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "offered",
+  "s": 439.26,
+  "e": 439.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 439.72,
+  "e": 439.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "accepted",
+  "s": 439.98,
+  "e": 440.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "after",
+  "s": 440.46,
+  "e": 440.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 440.88,
+  "e": 441.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "official",
+  "s": 441.1,
+  "e": 441.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "act",
+  "s": 441.42,
+  "e": 441.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "may",
+  "s": 441.68,
+  "e": 442.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "be",
+  "s": 442.22,
+  "e": 442.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "unethical",
+  "s": 442.44,
+  "e": 442.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 442.94,
+  "e": 444.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "illegal",
+  "s": 444.04,
+  "e": 444.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "under",
+  "s": 444.6,
+  "e": 445.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 445.48,
+  "e": 445.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "or",
+  "s": 445.84,
+  "e": 446.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 446.1,
+  "e": 446.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "laws.",
+  "s": 446.46,
+  "e": 446.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "But",
+  "s": 447.6,
+  "e": 447.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 447.92,
+  "e": 448.04,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuity",
+  "s": 448.04,
+  "e": 448.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "does",
+  "s": 448.54,
+  "e": 448.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not",
+  "s": 448.8,
+  "e": 449.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "violate",
+  "s": 449.08,
+  "e": 449.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 449.66,
+  "e": 450.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666.",
+  "s": 450.44,
+  "e": 451.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Section",
+  "s": 452.18,
+  "e": 452.6,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "666",
+  "s": 452.6,
+  "e": 453.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 453.14,
+  "e": 453.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 453.74,
+  "e": 453.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "vitally",
+  "s": 453.8,
+  "e": 454.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "important",
+  "s": 454.26,
+  "e": 454.74,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "statute,",
+  "s": 454.74,
+  "e": 455.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "but",
+  "s": 455.38,
+  "e": 456.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "its",
+  "s": 456.14,
+  "e": 456.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "focus",
+  "s": 456.3,
+  "e": 456.58,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "is",
+  "s": 456.58,
+  "e": 456.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "targeted.",
+  "s": 456.88,
+  "e": 457.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "It",
+  "s": 457.54,
+  "e": 457.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "prescribes",
+  "s": 457.9,
+  "e": 458.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "bribes",
+  "s": 458.72,
+  "e": 459.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 459.3,
+  "e": 459.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 459.62,
+  "e": 459.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 459.84,
+  "e": 459.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 459.96,
+  "e": 460.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials",
+  "s": 460.12,
+  "e": 460.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "while",
+  "s": 460.7,
+  "e": 461.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "allowing",
+  "s": 461.38,
+  "e": 461.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 461.96,
+  "e": 462.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 462.34,
+  "e": 462.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 462.48,
+  "e": 462.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "governments",
+  "s": 462.78,
+  "e": 463.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 463.24,
+  "e": 463.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "regulate",
+  "s": 463.52,
+  "e": 463.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities",
+  "s": 463.94,
+  "e": 464.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 464.64,
+  "e": 464.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 464.92,
+  "e": 465.16,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 465.16,
+  "e": 465.3,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 465.3,
+  "e": 465.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials.",
+  "s": 465.5,
+  "e": 465.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Congress",
+  "s": 466.78,
+  "e": 467.22,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "can",
+  "s": 467.22,
+  "e": 467.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "always",
+  "s": 467.46,
+  "e": 467.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "change",
+  "s": 467.72,
+  "e": 468.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 468.14,
+  "e": 468.4,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "law",
+  "s": 468.4,
+  "e": 468.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "if",
+  "s": 468.68,
+  "e": 468.84,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "it",
+  "s": 468.84,
+  "e": 468.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "wishes",
+  "s": 468.98,
+  "e": 469.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 469.18,
+  "e": 469.44,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "do",
+  "s": 469.44,
+  "e": 469.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "so,",
+  "s": 469.62,
+  "e": 469.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "but",
+  "s": 470.06,
+  "e": 470.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "since",
+  "s": 470.66,
+  "e": 470.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "1986,",
+  "s": 470.9,
+  "e": 471.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "it",
+  "s": 472.24,
+  "e": 472.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "has",
+  "s": 472.28,
+  "e": 472.5,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "not,",
+  "s": 472.5,
+  "e": 472.94,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "presumably",
+  "s": 473.42,
+  "e": 473.92,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "because",
+  "s": 473.92,
+  "e": 474.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Congress",
+  "s": 474.54,
+  "e": 475.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "understands",
+  "s": 475.02,
+  "e": 475.68,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "that",
+  "s": 475.68,
+  "e": 476.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 476.34,
+  "e": 476.66,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 476.66,
+  "e": 476.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 476.82,
+  "e": 477.12,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "governments",
+  "s": 477.12,
+  "e": 477.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "often",
+  "s": 477.62,
+  "e": 478.14,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "carefully",
+  "s": 478.14,
+  "e": 478.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "regulate",
+  "s": 478.76,
+  "e": 479.34,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "gratuities",
+  "s": 479.34,
+  "e": 479.98,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "to",
+  "s": 479.98,
+  "e": 480.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "state",
+  "s": 480.54,
+  "e": 480.82,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 480.82,
+  "e": 480.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "local",
+  "s": 480.96,
+  "e": 481.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "officials.",
+  "s": 481.24,
+  "e": 481.76,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "We",
+  "s": 482.46,
+  "e": 482.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "reverse",
+  "s": 482.88,
+  "e": 483.24,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 483.24,
+  "e": 483.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "judgment",
+  "s": 483.56,
+  "e": 483.9,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 483.9,
+  "e": 484.26,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "the",
+  "s": 484.26,
+  "e": 484.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Court",
+  "s": 484.42,
+  "e": 484.56,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "of",
+  "s": 484.56,
+  "e": 484.7,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Appeals.",
+  "s": 484.7,
+  "e": 485.08,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Justice",
+  "s": 485.68,
+  "e": 486.28,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Gorsuch",
+  "s": 486.28,
+  "e": 486.72,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "has",
+  "s": 486.72,
+  "e": 487.1,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "filed",
+  "s": 487.1,
+  "e": 487.38,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 487.38,
+  "e": 487.54,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "concurring",
+  "s": 487.54,
+  "e": 488.02,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "opinion.",
+  "s": 488.02,
+  "e": 488.48,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Justice",
+  "s": 489.38,
+  "e": 489.62,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Jackson",
+  "s": 489.62,
+  "e": 490.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "has",
+  "s": 490.18,
+  "e": 490.36,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "filed",
+  "s": 490.36,
+  "e": 490.64,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "a",
+  "s": 490.64,
+  "e": 490.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "dissenting",
+  "s": 490.78,
+  "e": 491.18,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "opinion,",
+  "s": 491.18,
+  "e": 491.78,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "which",
+  "s": 492.28,
+  "e": 492.46,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "justices",
+  "s": 492.46,
+  "e": 492.88,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Sotomayor",
+  "s": 492.88,
+  "e": 493.96,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "and",
+  "s": 493.96,
+  "e": 494.42,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "Kagan",
+  "s": 494.42,
+  "e": 494.8,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "have",
+  "s": 494.8,
+  "e": 495.2,
+  "speaker": "JUSTICE KAVANAUGH"
+ },
+ {
+  "w": "joined.",
+  "s": 495.2,
+  "e": 495.52,
+  "speaker": "JUSTICE KAVANAUGH"
+ }
+]
