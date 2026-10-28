@@ -1,0 +1,3152 @@
+[
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 0.0,
+  "e": 8.24,
+  "text": "We will hear argument this morning in Case 25-95, Pung versus Isabella County. Mr. Ellison."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 8.24,
+  "e": 110.32,
+  "text": "Mr. Chief Justice, and may it please the Court: The Fifth Amendment requires just compensation be measured by the value of what's taken. The Sixth Circuit's categorical rule reducing just compensation to surplus auction proceeds in all instances was wrong. This Court has repeatedly confirmed that when the government takes property, the constitutional calculus begins with its fair market value. That is measured from the time of the take. The error here is clear. The Pung home was worth $194,400. The tax debt was roughly $2200. Just compensation meant returning remaining equity. The lower courts erred when holding that the later auction price of just $76,000, less the debt, was categorically the only just compensation owed. But this Court said it directly in Jacobs. An owner is owed just compensation, not inadequate compensation. Following Tyler, there are no windfalls to the government. This case now asks the Court to confirm the other half, that the Constitution likewise forbids confiscatory losses when being -- when being imposed upon a former owner. Federal courts should consider all relevant market -- evidence of market value and determine whether just compensation has, in fact, been paid. In addition to the Fifth Amendment, the Eighth Amendment's Excessive Fines Clause provides a backstop as well. Taking a six-figure home to punish over a small four-figure tax constitutes a fine and was sufficiently alleged to be grossly disproportionate to get past the initial pleading stage. The judgment below should be reversed, and I welcome the Court's questions."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 110.32,
+  "e": 121.28,
+  "text": "What do you do with the fact that the English and American legal traditions seem to permit these sorts of foreclosures?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 121.28,
+  "e": 165.56,
+  "text": "So the -- the fact that the -- our history allows for these types of foreclosures is only one half of the equation. The other half of the equation historically is that protections have been built in, for example -- one of many, for example, is personalty has to be taken before real -- the real property, for example. This process that Isabella County undertook lacked that second half of that historical tradition. Yes, surplus is the ultimate outcome if, in fact, the auction resulted in a fair market value. But, when it doesn't result in a fair market value, historically, courts have been allowed to challenge inequity, to set aside the foreclosure itself, or to otherwise award damages or compensation in those particular circumstances."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 165.56,
+  "e": 174.46,
+  "text": "I'm sorry, where in your brief did you show -- where in your merits brief did you point to that history?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 174.46,
+  "e": 175.5,
+  "text": "That history --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 175.5,
+  "e": 217.44,
+  "text": "I -- I know that there have been cases that talk about the fairness of an auction and that certain rules were set up to ensure fairness, that it had to be an open bidding system, et cetera, and those -- when those were set aside, there's a measure of compensation that's different than the proceeds. But I think what Justice Thomas is saying, there is a long, long history of tax foreclosures, of bankruptcy foreclosures. We've even had a case on that where the issue is whether the proceeds from that foreclosure have to be fair market value, and we've said no."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 217.44,
+  "e": 228.31,
+  "text": "So, respectfully, that -- the --- the Court -- the last word on this has been BFP, which was done specifically in a bankruptcy context of reasonably equivalent value. To answer your --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 228.31,
+  "e": 231.28,
+  "text": "No, I've asked you a different question. Show me cases --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 231.28,
+  "e": 232.51,
+  "text": "We --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 232.51,
+  "e": 244.34,
+  "text": "-- that don't involve the unfairness of an auction where the courts have given damages greater than the auction price."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 244.34,
+  "e": 252.66,
+  "text": "We would point this Court -- we would point you to Griffin and -- and Ballentyne on this matter that have suggested that when a --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 252.66,
+  "e": 269.46,
+  "text": "Suggested. Give me a holding from a court in our 250-year history where we have said that the measure of damages on a tax foreclosure is fair market value, not the auction price."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 269.46,
+  "e": 282.53,
+  "text": "The -- there has not been that specific holding in this Court's history, but there has been the history of, like, parallel circumstance foreclosures or mortgage foreclosures in other circumstances, where the typical market allows --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 282.53,
+  "e": 299.18,
+  "text": "And Justice Scalia said the auction price. You couldn't make it the fair market value because this is not a fair market value sale. An auction is a different, forced sale, and so it will yield a different measure."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 299.18,
+  "e": 317.84,
+  "text": "The -- we would point this Court to Virginia Electric that says that any depreciation in the value of the process itself has to be a burden to the government and it is their responsibility to suffer that loss. The time of the take is very important to establishing what the value of that property is."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 317.84,
+  "e": 318.72,
+  "text": "What if it were --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 318.72,
+  "e": 318.72,
+  "text": "Counsel --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 318.72,
+  "e": 355.9,
+  "text": "-- a completely fair process, whatever -- however many weeks, months, you think notice has to be out there so everybody gets to it, easy to visit the -- all these things, and you still came out with a price that was below what, for example, the house would sell on the open market because many people don't want to go and get a -- you know, at a tax foreclosure system or whatever? In other words, if you're satisfied with the fairness of the process and it comes out with something below what you think is fair market value, is that just too bad?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 355.9,
+  "e": 378.4,
+  "text": "The answer is that the Fifth Amendment guarantees just compensation; it doesn't guarantee the outcome of an auction. And I would point this Court to the Lawton decision that says that when a former property owner affirms the selling of the property, they're entitled to \"at least\" -- and that's, I think, a very important two words -- at least the surplus proceeds. This case is distinguishable because --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 378.4,
+  "e": 412.2,
+  "text": "Well, I know this case is distinguishable, but if -- I think the Solicitor General's position is that you look to the fairness of the process. And what would satisfy you with respect to the fairness? I mean, the -- the -- just compensation is not out there in -- you know, if it's a period at which there's a great depression or whatever, it may not seem fair to you that you have to sell the house for a fraction of the value it was worth before, but what would they have to do to satisfy you that it was a fair process?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 412.2,
+  "e": 435.56,
+  "text": "In most instances, with well-developed, well-designed foreclosure systems, which we would point to, for example, many of the examples in the National Association of Realtors' amicus brief, if those systems are designed to actually get the reasonable fair market value at the time, you're going to have very few cases in which this type of discrepancy, the delta between the actual known value of the property and the auction price, is fair."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 435.56,
+  "e": 459.92,
+  "text": "Well, I guess that's what I'm trying to figure out. The -- the known value of the property, there's not -- we don't know what it is. One way to find out is have a fair sale in an open market. So what's wrong with -- with that? I mean, I know you can object to saying, well, there wasn't enough whatever, there wasn't enough time or -- but what would it take for you to say that was a fair process, even if it comes out with a number that is unsatisfactory to you?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 459.92,
+  "e": 488.78,
+  "text": "The -- the out -- the -- the -- the -- what we would seek is that an auction process is simply one piece of evidence that's overall -- in the overall scheme of possible evidence that competing parties could -- could submit to the court to determine what is, in fact, the fair market value. An auction -- in this case, for example, we say the auction price didn't result in the fair market value, and we offered contrary evidence. Courts of this country routinely and regularly figure out and decide what is a fair market value in all sorts of contexts, be it --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 488.78,
+  "e": 556.04,
+  "text": "But, Mr. Ellison, I -- I guess I thought from reading your briefs -- and tell me if I'm wrong -- that you had agreed that, in general, foreclosure sales do not produce a fair market value price. In other words, just the fact that, even with a -- a very fair auction system, just the fact that a property is being offered for sale in those circumstances means that there's going to be a depressed price. And I think that we -- this Court has recognized that in the past. And I suppose what -- I -- I think I'm -- I'm -- I'm looking for the same kind of answer that the -- the -- that the Chief Justice is. If the auction is fair and it nonetheless produces a -- a depressed price, you know, a price that's lower than the price that you would have gotten two years earlier had there not been a foreclosure, are -- are -- are -- I mean, are you contesting that as an empirical matter? Are you saying that even if it's true as an empirical matter, you're still entitled to the free market value?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 556.04,
+  "e": 587.86,
+  "text": "I think what I'm -- what we're taking is a more nuanced half step from that position. Our position is that we as a property owner should be able to challenge if, in fact, the auction price reached that fair market value. Some auctions will reach fair market value as a matter of course. Some, like in this instance, did not. And we should be able to present the evidence to say that the outcome, even if it's a fair auction, did not result in just -- in a fair market value, which in turn would not translate into just compensation for what was taken."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 587.86,
+  "e": 588.76,
+  "text": "Mr. Ellison --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 588.76,
+  "e": 589.65,
+  "text": "Counsel --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 589.65,
+  "e": 606.26,
+  "text": "-- assuming for the sake of argument that your client got notice of the foreclosure, were there not steps that your client could have taken to prevent landing in -- in the predicament where your client found himself?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 606.26,
+  "e": 606.26,
+  "text": "The --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 606.26,
+  "e": 617.92,
+  "text": "If they had 200 -- $190,000 equity in this house, could your client -- couldn't your client have gotten a loan using that as collateral, paid the taxes, and there never would have been a sale?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 617.92,
+  "e": 653.19,
+  "text": "In -- in reality is that many times the -- the foreclosure process itself does prevent practically individuals from going out and being able to dispose of that property on the terms that they themselves would do because we've crossed over into the foreclosure process. This mission -- this process that we're talking about today is a bit -- is a bit unique in that the fore -- the actual taking of the property starts before the foreclosure process, before actually taking title, and the moment -- and our position is is that the taking of the title itself is what starts that process, and that's the value that it should be on that particular day."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 653.19,
+  "e": 666.62,
+  "text": "Could you -- could you spell out for me step by step what you think the county was obligated to do? So they foreclose. All right. Step number 1, they foreclose. They -- and then what?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 666.62,
+  "e": 676.48,
+  "text": "At that point, there -- there would be what's called a forfeiture, which is a unique aspect of Michigan law. There's a forfeiture. Then there's a foreclosure where they assume and take title, complete title, to the property."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 676.48,
+  "e": 684.1,
+  "text": "Okay. So they have title to the property. And then they pay you the -- what you say is the fair market value of the property?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 684.1,
+  "e": 699.66,
+  "text": "At that point, the government has two paths in Michigan. One is they can go down and -- another property -- another government can purchase that property for its fair market value, the actual known fair market value, or it goes to an auction process. Our position is is that when it went to the auction --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 699.66,
+  "e": 703.56,
+  "text": "Okay. So then they pay you the fair market value. Is that right? That's what you want?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 703.56,
+  "e": 706.96,
+  "text": "If it went to the government side, yes. If the government purchased it, correct."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 706.96,
+  "e": 718.8,
+  "text": "And then the county has an inventory of unoccupied houses and it has to sell those houses on the open market?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 718.8,
+  "e": 724.86,
+  "text": "It would sell them on -- at an auction process, yes. Where we think that the Court or where we --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 724.86,
+  "e": 726.0,
+  "text": "On an auction process?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 726.0,
+  "e": 729.76,
+  "text": "They -- they decided to use an auction process. They're not required to use an auction process."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 729.76,
+  "e": 733.02,
+  "text": "Well, do you think this auction process produces the fair market value?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 733.02,
+  "e": 735.48,
+  "text": "This one does not. In all instances, no."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 735.48,
+  "e": 740.4,
+  "text": "Well, do you think an auction process generally produces the fair market value?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 740.4,
+  "e": 740.8,
+  "text": "I think it --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 740.8,
+  "e": 742.8,
+  "text": "Houses are not usually sold by auction."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 742.8,
+  "e": 752.327,
+  "text": "They can be -- I think it can reach auction value. Speaking from someone -- from my own anecdotal evidence of my work in Michigan, auctions can reach fair market value. But it didn't here."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 752.327,
+  "e": 762.88,
+  "text": "But what if it doesn't, okay? If they use the auction -- that -- if they use a -- a fair auction process, that's it, they're okay, even if it doesn't yield fair market value, what you say is fair market value?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 762.88,
+  "e": 764.66,
+  "text": "No, no. And that's where I was going to just lead to."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 764.66,
+  "e": 765.52,
+  "text": "No? Okay."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 765.52,
+  "e": 793.62,
+  "text": "This is where the shortcoming is in Michigan's system, is, in most typical foreclosure systems, there's a -- a sales confirmation, a review process that's done by the court to confirm that -- it's usually called a confirmation sale. At that point -- for example, North Carolina is a good example of this. You can go -- the former owner can go back and point out either the unfairness of the sale or the inadequacy of the price and say: Don't confirm this sale because it doesn't reach fair market value in these circumstances."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 793.62,
+  "e": 794.86,
+  "text": "Okay. And then what happens?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 794.86,
+  "e": 799.0,
+  "text": "At that point, the court reviews the competing evidence that's between the various parties."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 799.0,
+  "e": 801.52,
+  "text": "And the court -- the court decides what the fair market value is?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 801.52,
+  "e": 802.06,
+  "text": "That is correct."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 802.06,
+  "e": 803.52,
+  "text": "You get the fair market value?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 803.52,
+  "e": 804.28,
+  "text": "That is correct."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 804.28,
+  "e": 806.9,
+  "text": "And then the county has to try to sell the house?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 806.9,
+  "e": 807.92,
+  "text": "That's correct."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 807.92,
+  "e": 817.54,
+  "text": "And what if they -- they try to sell it on the open market and they -- they can't get what was estimated to be the fair market value?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 817.54,
+  "e": 823.44,
+  "text": "Then the Fifth Amendment requires that they pay the -- the difference on this being the just compensation that's owed."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 823.44,
+  "e": 834.28,
+  "text": "And all -- during all this time, they've got this inventory of unoccupied houses, they have to maintain them, they have to make sure they're not vandalized, they have to maintain insurance on these properties?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 834.78,
+  "e": 852.39,
+  "text": "By the government deciding to collect as a -- as a debt collection practice, deciding to use in rem civil forfeiture as a basis to collect on the debt rather than, for example, suing or going after personal property, going after bank accounts, that's the obligation that they assume in those response -- in that particular circumstance, yes."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 852.39,
+  "e": 863.8,
+  "text": "Counsel, what's your best evidence that historically, the kind of procedure you're describing from North Carolina was used? Because it seems to me the historical evidence shows that you're entitled to the surplus of the proceeds from the auction."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 863.8,
+  "e": 883.94,
+  "text": "We -- the -- the examples are not as many as I would like them to be, but the reality is we would look to Ballentyne and -- and Graffam as the two types of examples to show that when a sale doesn't reach the ultimate result or -- or a level of unfairness is included in that sales process, that there can be a challenge before the sale is, in fact, confirmed by the court."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 883.94,
+  "e": 887.02,
+  "text": "Did you argue below that the process was in any way unfair?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 887.02,
+  "e": 890.16,
+  "text": "We didn't. We were precluded from that at the 12(b)(6) stage."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 890.16,
+  "e": 901.08,
+  "text": "You mentioned to Justice Thomas that you think it's -- and -- and -- and you kind of get at this in your reply brief -- that historically, the government had to go after personal property before going after real property."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 901.08,
+  "e": 901.54,
+  "text": "That is different."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 901.54,
+  "e": 903.6,
+  "text": "Did you make that argument before the Sixth Circuit?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 903.6,
+  "e": 912.2,
+  "text": "Before the Sixth Circuit? No, because the ruling of the court below, both the trial court and the Sixth Circuit, is that surplus was categorically the only measure of damages."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 912.2,
+  "e": 923.46,
+  "text": "Well, it seems to me that -- why would we get into that? It -- it seems to me pretty -- a dangerous road to go down for us to say that those things would be constitutionally required when they were neither pressed nor passed upon below."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 923.46,
+  "e": 942.38,
+  "text": "We would -- we would advocate that simply the rule that was developed by the Sixth Circuit below that said surplus is categorically fair market -- fair market value is, in fact, too narrow of a rule and that the Sixth Circuit can deal with these types of -- what sort of processes and procedures could be built into this to establish a fair process going forward."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 942.38,
+  "e": 942.98,
+  "text": "That --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 942.98,
+  "e": 942.98,
+  "text": "Can I --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 942.98,
+  "e": 992.4,
+  "text": "-- that seems to square with what the Solicitor General suggests on page 26 of its brief, where, in disagreement with you, it suggests that auctions can sometimes be fine, but you have a right to challenge the procedures. It observes that that is not the basis on which the courts below proceeded. I agree, looking at the Sixth Circuit in particular, they relied on BFP and the categorical rule and didn't get into this. And so the Solicitor General suggests we should vacate and remand to allow those arguments to proceed. I don't see how we could affirm if -- if those arguments were not passed -- passed upon below, and there might be an argument that personal property has to come first. But I just want your thoughts on that."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 992.4,
+  "e": 1015.86,
+  "text": "So we -- we share some overlap with the government's position in that reversal and remand should be appropriate in this because the narrow rule the Sixth Circuit adopted of categorical surplus proceeds always equals fair market value, one type of challenge could be a fairness challenge as to the sales process, but that's not the only challenge."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1015.86,
+  "e": 1018.96,
+  "text": "Right. No, I understand you think there are more challenges available, but --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1018.96,
+  "e": 1019.46,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1019.46,
+  "e": 1023.76,
+  "text": "-- the government agrees at least a fairness or procedural challenge is available."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1023.76,
+  "e": 1024.36,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1024.36,
+  "e": 1026.92,
+  "text": "But that wasn't considered by the Sixth Circuit."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1026.92,
+  "e": 1033.82,
+  "text": "We would agree with that position, but we would take it one step further and say but the fairness of the auction is not the only consideration that --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1033.82,
+  "e": 1049.44,
+  "text": "If -- if you were given that kind of remand opportunity, and now I'm talking just about the fairness of the auction, so put aside whatever other thoughts you might have about things you would like to be entitled to, but just the fairness of the auction, would you have objections on that score?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1049.44,
+  "e": 1053.52,
+  "text": "We would have objections on that score, but those were not developed on this record given the --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1053.52,
+  "e": 1054.8,
+  "text": "What -- what are those objections?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1054.8,
+  "e": 1076.84,
+  "text": "For example, Michigan's system, for example, is -- at an auction, you have to -- the buyer of that process can't do an inspection of the property, can't go through the property. You have to show up, for example, with cash on hand two hours after the sale price itself. This needlessly depresses the market price because it increases risk in that market, which then depresses the price of the property itself."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1076.84,
+  "e": 1083.28,
+  "text": "And that's something that has not been developed, so we would just remand and let the courts below deal with that?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1083.28,
+  "e": 1097.94,
+  "text": "Correct. And we think that both the sale process itself would be one theory that could be challenged. That's not our only theory that we would challenge. We think inadequacy of price, combined with many of these unfair factors, could then result in a --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1097.94,
+  "e": 1101.08,
+  "text": "Would -- would you also make the argument about the personal property having to come first?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1101.08,
+  "e": 1125.04,
+  "text": "We would challenge -- I mean, the other part to this would be the challenge would be is that Michigan's system -- Michigan's very unique because it only took surplus proceeds responsibility. It didn't take the back-end responsibility, the -- the Ballentyne-style responsibilities of being able to challenge within the system itself, which is why we're in federal court with 1983 as a supplement -- a supplemental-type action to fix that shortcoming."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1125.04,
+  "e": 1125.04,
+  "text": "Can I ask you about --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1125.04,
+  "e": 1125.82,
+  "text": "I'm sorry. You -- you --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1125.82,
+  "e": 1137.12,
+  "text": "Is that a yes? Is that -- is that a yes, that you would -- if I might just finish -- that -- that you would -- before taking the property, one process that they need to consider is taking personal property first?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1137.12,
+  "e": 1138.0,
+  "text": "The answer is yes."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1138.0,
+  "e": 1138.09,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1138.09,
+  "e": 1138.62,
+  "text": "The answer is yes."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1138.62,
+  "e": 1139.04,
+  "text": "All right. Thank you."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1139.04,
+  "e": 1175.64,
+  "text": "Can -- can -- can I just follow up on that? Because I'm wondering whether or not that kind of concern doesn't ring more in, like, a due process claim rather than just compensation because, to the extent you're arguing about or your claim is that they needed to do other steps before they took the property, I didn't understand the -- the -- the Takings Clause to be concerned about pre-takings deprivation, that the Takings Clause was just about just compensation. And so wouldn't -- wouldn't you be needing to bring kind of a due process-type claim if you're complaining about the personal property aspect of this?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1175.64,
+  "e": 1187.96,
+  "text": "We -- we would acknowledge that due process comes awful close in the -- in the just compensation world, but the question that's being challenged here is does the result of this foreclosure process result in just compensation."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1187.96,
+  "e": 1194.9,
+  "text": "Yes. No, I know that, but I'm saying, to the extent, in the context of just compensation, we're now thinking just for the moment --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1194.9,
+  "e": 1194.9,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1194.9,
+  "e": 1205.5,
+  "text": "-- about what happened before this taking, I wonder whether just compensation is the right analytical framework to evaluate that. It doesn't seem to me to be -- and I know you're not making that argument --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1205.5,
+  "e": 1205.5,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1205.5,
+  "e": 1217.7,
+  "text": "-- here, but I'm just sort of responding to the thought that if there is some sort of problem with what the government was supposed to do before the taking, we should not be thinking of that as a just compensation issue."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1217.7,
+  "e": 1222.06,
+  "text": "It is possible that a just -- a due process aspect of this can --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1222.06,
+  "e": 1332.06,
+  "text": "All right. On the -- on the just compensation issue, I guess the thing that I'm really, really struggling with is the notion that just compensation is necessarily always tied to the fair market value. And you've said it many times, but I'm wondering if it doesn't also have to account for the circumstances under which this sale is taking place. So we have your client, Mr. Pung, who had this house, but he also didn't pay his taxes. And kind of going with what Justice Alito was saying, piggybacking on it, I suppose there are things he could have done to cover his tax bill. So the government is coming in at the beginning to foreclose on this house for the payment of his debt. Given that circumstance, I guess I don't understand why your argument doesn't kind of turn the government into Mr. Pung's real estate agent with some sort of fiduciary duty to maximize the -- the value of this asset. The government's only real interest in this is covering its tax liability. And if Mr. Pung wanted to get the maximum value of the house for -- to cover that debt, he could have sold it himself and gotten the fair market value on the day that you say, you know, the government came, I think, to -- to foreclose on it. So having chosen not to do that, forcing the government to sell his house, I guess I'm worried about suggesting that he can come back after the fact and say, no, you didn't do enough to get the maximum price. All they have to do is just give them -- give him the excess of what they sell it for, and that should be the end of it, I think, conceptually. So tell me why I'm wrong about that."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1332.06,
+  "e": 1334.78,
+  "text": "So I'm going to take a half step back and then a full step forward --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1334.78,
+  "e": 1334.78,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1334.78,
+  "e": 1350.84,
+  "text": "-- to say that what the Fifth Amendment requires to reach just compensation if you're going to trigger this process, because there's no obligation to do a tax foreclosure in the -- this is voluntary on the part of the government itself."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1350.84,
+  "e": 1354.14,
+  "text": "But only insofar as they're responding to his delinquency."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1354.14,
+  "e": 1354.455,
+  "text": "I under --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1354.455,
+  "e": 1388.86,
+  "text": "So their -- their -- his delinquency is the beginning. Like, you -- you haven't really focused on that, but the first thing is, Mr. Pung, pay your taxes. And when he doesn't, the government has several options to try to figure out what to do. One of them is, okay, you have this other property, whether it's real property or personal property. We are going to foreclose on it. If Mr. Pung says, please don't because my house is worth a hundred thousand dollars and, if you put it into a tax sale, it's only going to get $70,000, he can sell the house and get the hundred thousand dollars and pay the tax bill. The government doesn't care about that."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1388.86,
+  "e": 1389.34,
+  "text": "But if --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1389.34,
+  "e": 1390.58,
+  "text": "And why didn't he do that?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1390.58,
+  "e": 1395.94,
+  "text": "But -- well, first of all, he didn't do that because he didn't owe the tax, which has been one of the underlying aspects of this, that --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1395.94,
+  "e": 1396.86,
+  "text": "Well, we have to assume that --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1396.86,
+  "e": 1396.86,
+  "text": "But -- but --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1396.86,
+  "e": 1398.24,
+  "text": "-- for the purpose of this, right?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1398.24,
+  "e": 1414.46,
+  "text": "But -- I would agree. But the point I guess I would come back to at the start of your question on this would be -- is that in a tax foreclosure due -- or, excuse me, takings context, the obligation of the government under Cherokee Nation is to have reasonable, certain, and adequate provisions to reach just compensation."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1414.46,
+  "e": 1448.72,
+  "text": "Right. And the just compensation is the difference between what the government sold his -- was forced to sell his house at on the tax sale and what it owed -- what he owed in taxes. So they gave it back to him, right? They sold it for $70,000 or whatever it was, gave it back to him, and I would think they're done. You're saying they had an obligation to not sell it for the 70 or to reach into the public fisc and pay the difference between the 70 and what it would have sold in a fair market scenario, and I don't understand where that comes from."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1448.98,
+  "e": 1455.36,
+  "text": "Where it comes from is the obligation that if you're taking property, which is -- here, the property interest is not the auction proceeds."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1455.36,
+  "e": 1455.36,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1455.36,
+  "e": 1458.96,
+  "text": "The property interest here is the value of the equity that was taken."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1458.96,
+  "e": 1479.1,
+  "text": "One last time. They're not taking property like a person who -- like a government who wants to build a railroad. You know, the government wants to have a -- a sidewalk or a park. They're taking property because he didn't pay his taxes. And so, to me, that context makes the just compensation analysis different."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1479.1,
+  "e": 1481.8,
+  "text": "Respectfully, I would say that the --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1481.8,
+  "e": 1482.24,
+  "text": "You disagree?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1482.24,
+  "e": 1482.92,
+  "text": "I disagree."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1482.92,
+  "e": 1482.92,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1482.92,
+  "e": 1490.54,
+  "text": "And I would -- I guess I would finish by saying that takings law doesn't turn on moral fault. And -- and the reality is is the -- the balance --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1490.54,
+  "e": 1492.74,
+  "text": "But I thought we were doing just compensation."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1492.74,
+  "e": 1493.24,
+  "text": "Well, but --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 1493.24,
+  "e": 1494.78,
+  "text": "There is equity in this, right?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1494.78,
+  "e": 1508.38,
+  "text": "But the -- but the balance of the fairness was decided at the adoption of the Fifth Amendment. The tradeoffs between the government and the citizen was already weighed and -- and the obligation was put on the government by putting fair -- just compensation obligations on the government itself."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1508.38,
+  "e": 1513.78,
+  "text": "Thank you, counsel. Justice Thomas, anything further? Justice Alito?"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1513.78,
+  "e": 1571.0,
+  "text": "Let me come back to the point that Justice Jackson was just making. Typically, if a property owner doesn't pay real estate taxes, the jurisdiction will send a notice and say you've got -- you didn't pay your taxes, and maybe they'll send several, and they'll -- they'll warn, you know, if you don't pay your taxes, we can foreclose on your property and sell it at a tax sale. Now, before any of that occurs, I still don't understand why the taxpayer cannot -- a taxpayer who's in a situation like your client, and, again, assuming there was proper notice here, take steps to prevent a tax sale from taking place. If you've got $190,000 of equity in a house and you owe $2,000 in taxes, can you not get a loan using your equity as collateral?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1571.0,
+  "e": 1591.1,
+  "text": "It -- it is difficult to do that. There is off-ramps that -- that individuals can try to do. In fact, Mr. Pung tried to do that in this case at -- at numerous parts with interactions with the tribunal, with the Tax Tribunal, and -- and things of that nature. To answer your question is there are steps they can take, but if they cross that Rubicon, if the government takes that property --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1591.1,
+  "e": 1594.86,
+  "text": "Yeah, but, before the government takes the property, there are steps that can be taken."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1594.86,
+  "e": 1597.6,
+  "text": "But, if those steps aren't taken for whatever reason --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1597.6,
+  "e": 1613.18,
+  "text": "Well -- well, if the taxpayer doesn't take them for whatever reason the taxpayer has, then perhaps one shouldn't feel so sorry for the taxpayer when the tax sale occurs. There are a lot of outfits that will buy houses sight unseen for cash."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1613.55,
+  "e": 1615.84,
+  "text": "I guess --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1615.84,
+  "e": 1617.1,
+  "text": "Isn't that another option?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1617.1,
+  "e": 1642.98,
+  "text": "I don't think that's another option because, you know, Mr. Pung didn't want to leave his home. The ability -- this is the home that he wanted his -- his nephew's son and his family to be able to have and retain. The idea that we'd vacate from the family home because of a tax that's being challenged in this aspect strikes me as not -- as being kind of counterbalanced to the equity that we shouldn't be forced to sell something that we shouldn't necessarily --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1642.98,
+  "e": 1656.36,
+  "text": "Well, on that, I mean, that's another argument about whether monetary compensation is always sufficient to constitute just compensation when there's an emotional attachment to a house, which is a serious thing. But that's not the issue here."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1656.36,
+  "e": 1676.71,
+  "text": "Well, but the issue is here ultimately -- is that there is a piece of property that has been uncontested by the government to be worth, you know, approximately $200,000. Once the government has decided that it's going to take more property than what the actual value of the debt actually is, that's what triggers the takings obligation. And if it's not a takings obligation, of course, we've also argued it's an excessive fine."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1676.71,
+  "e": 1683.42,
+  "text": "What is the -- what sorts of personal property do you think the government has to go after first before it goes after the -- the house?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1683.42,
+  "e": 1690.12,
+  "text": "Well, in this case, with a tax debt of about 2200 bucks, it could have been the Peloton bike that was in the house."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1690.12,
+  "e": 1694.84,
+  "text": "You think a Peloton bike today is worth $2,000? (Laughter.)"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1694.84,
+  "e": 1696.46,
+  "text": "Well --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1696.46,
+  "e": 1704.72,
+  "text": "If you go on Facebook Marketplace and you try to sell a Peloton bike today for $2,000, I don't think you're going to be very successful."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1704.72,
+  "e": 1704.72,
+  "text": "Tradition --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1704.72,
+  "e": 1707.86,
+  "text": "How are they going to know that he has a Peloton bike?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1707.86,
+  "e": 1717.304,
+  "text": "Traditionally -- joking aside, traditionally, there are a lot -- there are a lot of different options. There's bank accounts, there's personal property, the vehicle, there's lots of other --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1717.304,
+  "e": 1727.3,
+  "text": "All right. There are vehicles -- there are vehicles and bank accounts. Maybe they can find out about that. Other personal property, how are they going to know what he has? I mean, do they have a right to go in the house and inspect everything --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1727.3,
+  "e": 1727.3,
+  "text": "The govern --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1727.3,
+  "e": 1733.88,
+  "text": "-- and see whether there's a, you know, a valuable gigantic TV that might be sold?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1733.88,
+  "e": 1743.46,
+  "text": "When -- when the government is acting in a debt collector capacity, this was what -- and when I'm not paid a debt, that's the obligation I have when I'm collecting on a debt from someone that hasn't paid. The government is no different."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1743.46,
+  "e": 1767.66,
+  "text": "If we start to -- to set out all sorts of rules for these tax sales to make them fair, how many years and how many cases do you think it's going to take to flesh out all of these details without any historical support for the procedures that you seem to think are required?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1767.66,
+  "e": 1795.32,
+  "text": "We think that the -- that the government has excellent models that are already in place that they could utilize. For example, Michigan's mortgage foreclosure process is well-established, over a hundred years. It's already a known market. It's already a known process. They could adopt that on its own and -- and would have the back-end protections that are necessary so that fair market value is reached in all circumstances, whether it's an auction or a post-auction shortcoming."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1795.32,
+  "e": 1796.92,
+  "text": "All right. Thank you. I appreciate it."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1796.92,
+  "e": 1797.28,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1797.28,
+  "e": 1798.38,
+  "text": "Justice Sotomayor?"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1801.45,
+  "e": 1813.16,
+  "text": "I -- I think your fallback position or your main position is just compensation under the Constitution requires fair market value?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1813.16,
+  "e": 1813.98,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1813.98,
+  "e": 1846.12,
+  "text": "If I disagree with that and I believe just compensation should be defined the way Justice Scalia did in BDP, which is what's reasonable under the circumstances, and I believe that a fair -- that a valid auction is a reasonable compensation, you lose on your main argument, correct?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1847.35,
+  "e": 1851.94,
+  "text": "We would -- we would -- if -- if you do not believe that fair market value is the standard, correct."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1851.94,
+  "e": 1879.32,
+  "text": "And so, if we believe that a valid auction -- and by valid, it has to be fair, it has to be permitted. I don't know about the personal property issue at all. I haven't looked into it. It hasn't been briefed, and it's a very bad place for us to make such a huge decision. That would be up to the court below, correct?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1879.32,
+  "e": 1879.86,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1879.86,
+  "e": 1915.36,
+  "text": "All right. Now, with respect to fairness, Justice Alito asked are there -- or said are we going to have to wait for every court to decide what's fair, or is there a standard of fairness that we can look to. Not a particular Michigan, but provide me with a case that talks about what a fair auction for a tax fail -- a tax sale would be."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1915.36,
+  "e": 1930.04,
+  "text": "We would point you to three cases, in fact. One would be Slater versus Maxwell, which provides that tax foreclosures have to be provided for with entire fairness, and that's the -- the trigger word from there, that they have --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1930.04,
+  "e": 1938.78,
+  "text": "I'm not asking you for words. I'm asking you to point me to cases that set forth the parameters of what that fairness would look like."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 1938.78,
+  "e": 1951.94,
+  "text": "That's the high -- that's -- Slater is the high water mark of tax foreclosure we would point to. As a practical multiple-factor aspect, we would point to Ballentyne and Graffam, this Court's prior decisions, which we've -- we have briefed."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1951.94,
+  "e": 1953.733,
+  "text": "Okay. Thank you, counsel."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1953.733,
+  "e": 1954.16,
+  "text": "Justice Kagan?"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1954.16,
+  "e": 2015.82,
+  "text": "Mr. Ellison, wouldn't your primary position effectively stop states from using foreclosure scale -- sales? Because I'm just thinking that if you accept the proposition -- I guess I am going to ask you to accept the foreclose -- the proposition that foreclosure sales usually depress prices so that they're lower than the fair market value. If I'm -- if I have to give you the fair market value, you, the homeowner, aren't I -- am I not going to lose money if I'm the state on every -- on -- on every transaction like this? I mean, let's take a -- an example. Suppose you don't have this mismatch that you have here between the very small debt and the -- suppose you have a hundred thousand dollar debt, right, and a foreclosure sale is going to get you $110,000, and then the state takes the hundred thousand dollars that it's owed and it gives you the $10,000 back, right?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2015.82,
+  "e": 2015.82,
+  "text": "Okay."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2015.82,
+  "e": 2025.28,
+  "text": "But then, if you say: Well, no, the fair market value was really $150,000, so I'm entitled to $50,000 back, right?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2025.28,
+  "e": 2025.72,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2025.72,
+  "e": 2035.92,
+  "text": "Well, that's just going to cut into what the state gets to take and it's going to mean that the state doesn't get the debt satisfied."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2037.45,
+  "e": 2050.5,
+  "text": "So my response is that the Fifth Amendment requires just compensation. And -- and somewhat -- what seems to be baked into some questions today has been whether this is best compensation, but assuming your hypothetical, where the --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2050.5,
+  "e": 2066.96,
+  "text": "Well, I'm just saying that the state is never going to get satisfied in the -- in the -- in that situation where a foreclosure sale will lead to less than the fair market value, so the state is going to say: Well, we can't use foreclosure sales anymore to satisfy debt obligations."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2066.96,
+  "e": 2080.06,
+  "text": "I would agree they can't use this style of tax foreclosure sale. There are plenty of tax foreclosure sale systems in place that can reach just compensation or even the -- the best compensation in the foreclosure circumstances."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2080.06,
+  "e": 2085.56,
+  "text": "What you're saying is that there are plenty of foreclosure sale systems that can reach fair market value?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2085.56,
+  "e": 2086.12,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2086.12,
+  "e": 2102.96,
+  "text": "Yeah. And I -- I guess -- I -- I -- I guess I think how could that possibly be? I mean, if you're selling a house on foreclosure in an auction, you're just not going to get the fair market value as if that house had never been foreclosed on and you were selling it in an open market."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2102.96,
+  "e": 2152.38,
+  "text": "But acknowledging the -- the -- the assumption you want me to make, which is the fact that the foreclosure itself can depress the price, it can't depress the price, I think, this far. Now it could be a factor. It could be a piece of evidence. And we could offer contrary evidence to say, even in this foreclosure-type environment, the price that it was actually sold for was not good enough. And this is our -- this is our Graffam/Ballentyne challenge that's there that says, in this circumstance, the particular system that the government's created in this particular type of auction sale unreasonably and unfairly depresses the price too far because we've got this counter-evidence, whether it's market appraisals, professional evidence, you know, information -- even the government's own assessments about those values are can say what you got at the auction is not enough in that circumstance --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2152.38,
+  "e": 2152.9,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2152.9,
+  "e": 2153.82,
+  "text": "-- for that system."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2153.82,
+  "e": 2155.36,
+  "text": "Justice Gorsuch?"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2155.36,
+  "e": 2178.4,
+  "text": "Is there something incongruous about the fact that when your property is taken by the government for -- to -- to enhance it in a way that's going to increase its value radically -- I take a house, I'm going to put a skyscraper on it, I'm going to rezone it -- that the property owner doesn't get the upside?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2178.4,
+  "e": 2178.94,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2178.94,
+  "e": 2183.36,
+  "text": "But, here, we're debating about how much of the downside they're going to get."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2183.36,
+  "e": 2224.88,
+  "text": "Correct. And I would go as far as to say that the government -- this Court has always said the government does get the upside. It's well-established takings law. The problem that I see here is is that even if this is not a takings -- if we -- if we take it out of the takings context and we put it in the excessive fines, what we have here is a government that says, for a very small debt, we are going to take and destroy vast majorities of the equity that's valued at the time that we took title to the property itself. So, even if the takings part of this doesn't provide the answer, the excessive fines in particular circumstances, which where the delta is so high here, can provide alternate relief."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2224.88,
+  "e": 2243.02,
+  "text": "And then I -- I -- I do want to understand just a little bit better this principal residence exemption, the -- the -- that -- that led to this tax, this $2200 or whatever it is. You won in front of an ALJ who said that the family doesn't have to pay this."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2243.02,
+  "e": 2243.36,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2243.36,
+  "e": 2251.24,
+  "text": "The county then went ahead and assessed it anyway and used that as the basis for this foreclosure."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2251.24,
+  "e": 2251.98,
+  "text": "Correct. So --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2253.5,
+  "e": 2254.46,
+  "text": "How did that happen?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2254.46,
+  "e": 2259.48,
+  "text": "I don't think you have a long enough afternoon to explain the story of what happened here. (Laughter.)"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2259.48,
+  "e": 2267.14,
+  "text": "But the very short version of it is is that the PRE credit was determined by -- in Michigan, we have a Tax Tribunal that determines this."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2267.14,
+  "e": 2269.32,
+  "text": "Yeah. No, I -- I've read -- I've read the briefs."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2269.32,
+  "e": 2269.32,
+  "text": "Yeah, yeah."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2269.32,
+  "e": 2279.12,
+  "text": "I got that. I'm just curious, why -- why would the county pursue a $2200 debt that their own ALJ said wasn't owed to this extreme?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2279.12,
+  "e": 2301.82,
+  "text": "We can't figure that answer out. We don't believe it's due. And the reality is is, by the time the tax assessor actually informed Mr. Pung that the price was actually -- that she had put the PRE credit -- had taken it way, denied it once again, the time -- the very limited 35-day window in which a Michigan taxpayer can activate the process of the tribunal, to go back again --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2301.82,
+  "e": 2302.78,
+  "text": "After he's already won."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2302.78,
+  "e": 2303.58,
+  "text": "Had already gone."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2303.58,
+  "e": 2303.92,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2303.92,
+  "e": 2315.58,
+  "text": "And so we're in a weird circumstance here where the tax is legally technically owed but actually isn't owed in these circumstances. And it's -- it's a -- it's a terrible position to be in for a homeowner who's trying to keep their home."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2315.58,
+  "e": 2317.94,
+  "text": "Yeah, if you want to talk about what's just."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2317.94,
+  "e": 2327.14,
+  "text": "I think it's an important -- we've been talking about the equities on the government's side. I think the fact the tax isn't owed is a major equity on the govern -- or on the property owner's side in this circumstance."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2327.14,
+  "e": 2328.52,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2328.52,
+  "e": 2329.84,
+  "text": "Justice Kavanaugh?"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2329.84,
+  "e": 2350.0,
+  "text": "On the possibility of remand for consideration of fair process, the Solicitor General says, as part of that, the courts below could consider whether and to what extent Petitioner has preserved the issue. If he has, he'll bear the -- bear the burden of showing that the sale was not conducted fairly. Do you agree with that?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2350.0,
+  "e": 2359.62,
+  "text": "We believe that's the first correct step that -- at least one theory that can be challenged, but it's not the only theory that could be challenged on a -- on a remand."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2359.62,
+  "e": 2361.34,
+  "text": "What are the other theories?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2361.34,
+  "e": 2372.84,
+  "text": "Well, the other theory is inadequacy of price, combined to this as well, so -- because you could have a sales auction or a sales auction that is entirely fair but still doesn't reach just compensation."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2372.84,
+  "e": 2383.24,
+  "text": "But do you agree you would have to show that you preserved the issue and that you would bear the burden of showing that the sale was not conducted fairly?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2383.24,
+  "e": 2388.644,
+  "text": "As someone who represents property owners, we always want to put the burden on the government whenever we can. This Court has not --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2388.644,
+  "e": 2389.86,
+  "text": "That's why I'm asking the question. Do you --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2389.86,
+  "e": 2392.48,
+  "text": "The Court has not spoken to that answer yet at least as I can see."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2392.48,
+  "e": 2394.9,
+  "text": "Okay. So you don't -- you don't necessarily agree, is what --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2394.9,
+  "e": 2394.9,
+  "text": "We don't --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2394.9,
+  "e": 2429.88,
+  "text": "That's fine. That's fine. I just wanted to clarify what you thought about that. And then, secondly, Justice Sotomayor a few times has brought up Justice Scalia's opinion in BFP, and that does speak, as you know, very generally and broadly at the end about foreclosure redefines the market, and given that altered reality, the only legitimate evidence of the property's value at the time it is sold is the foreclosure sale price itself. And I just want to hear your succinct response to BFP and how you distinguish not only the holding but the reasoning and rationale of BFP."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2429.88,
+  "e": 2436.2,
+  "text": "Of course, the first answer, of course, is always to point to Footnote 3 in -- in BFP and say, in the -- in the Constitution --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2436.2,
+  "e": 2444.98,
+  "text": "Which is a standard footnote, but -- that we use, but -- but the question is the rationale and why it wouldn't apply more -- more generally."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2444.98,
+  "e": 2509.76,
+  "text": "Because, in the bankruptcy context -- well, two -- two answers to that question. One is, in the bankruptcy context, Congress has given separate authority to reallocate the burdens of debt between private debtor and creditor in those circumstances. So this is an Article I, Section 8 question. We're not here on Article I, Section 8. We're here with the government with a takings-style claim. So we think that easily distinguishes in that aspect. Importantly, BFP on the facts itself -- and I won't get into it in tremendous detail -- but the foreclosure occurred pre-bankruptcy. In California, at the time that that foreclosure occurred, they had a challenge process that they could have challenged the unfairness of the foreclosure before it went into the bankruptcy process. And the property owner didn't opt to utilize that process, presumably thinking that the price got fair. And, apparently, the bankruptcy attorney thought differently once they got in there. So, in addition to the -- just we're in different constitutional worlds, I think the facts that led up to the foreclosure and how the question was framed before this Court got there in two totally different paths and are not -- are not congruous."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 2509.76,
+  "e": 2510.76,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2510.76,
+  "e": 2511.64,
+  "text": "Justice Barrett?"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 2511.64,
+  "e": 2528.18,
+  "text": "So, counsel, I -- I want to echo what Justice Gorsuch said. I mean, it seems like there was some real unfairness to your client. I mean, frankly, reading the briefs, it sounds to me like the tax assessor was like Inspector Javert, but it was even worse because Jean Valjean hadn't stolen the bread. I mean, you didn't even -- (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 2528.42,
+  "e": 2566.22,
+  "text": "-- you didn't even owe the tax, and it's this small tax and -- and the big -- you know, the big loss of the family home and -- and of the money. So it -- it does seem that there's some unfairness there. But I'm struggling to see how it fits into the takings framework. Can you tell me of a case that we have that treats the foreclosure of a house as a taking? I mean, Tyler treats the pocketing of the surplus as a taking, but I'm not aware of a case -- I just don't know if it fits this framework. I'm not aware of a case of ours that says that when the government forecloses on the house, as opposed to when it pockets the money, it's -- it's taken the house."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2566.22,
+  "e": 2594.3,
+  "text": "The best I can point this Court to is Tyler. And I think Tyler was specifically written with the words about value as opposed to surplus proceeds if we look at the -- many of the passages in Tyler itself. What's important, I think, is that historically, under the common law, under debt collection schemes that are developed by states, there's always a back-end protection on the former property owner. There's a sales confirmation. There's a review process. There's a challenge. So we knew --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 2594.3,
+  "e": 2609.54,
+  "text": "But none of that -- none of that answers whether it's a taking. And -- okay, well, let me ask you this question. You say that it should be fair market value. You also say the taking happens when the government forecloses on the property as opposed to when it sells the property at auction?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2609.54,
+  "e": 2610.7,
+  "text": "In this circumstance, yes."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 2610.7,
+  "e": 2614.06,
+  "text": "Which is the right date for gauging the fair market value --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2614.06,
+  "e": 2614.34,
+  "text": "When they --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 2614.34,
+  "e": 2615.42,
+  "text": "-- if there's a gap of a year?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2615.42,
+  "e": 2623.0,
+  "text": "They -- when they take title. When they assume full and complete title, that is the taking because the govern -- the person is dispossessed of the ownership of that property at that point."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 2623.0,
+  "e": 2627.6,
+  "text": "So the -- the property falls in value, and that's the government's risk?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2627.6,
+  "e": 2640.72,
+  "text": "It is, but it's also the government's benefit if it goes up in value, as Justice Gorsuch points out as well. It's -- it's the time -- it's always -- this Court has always said we measure precisely at the time of the take, is what the value of that property is."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 2640.72,
+  "e": 2658.86,
+  "text": "Okay. So let's say I don't think Tyler settles the question whether the foreclosure is a taking, that I think Tyler leaves open and might treat just the pocketing of the surplus as the taking. Why couldn't I view the foreclosure of the house as just an exercise of the taxing power and not a taking?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2658.86,
+  "e": 2704.48,
+  "text": "Because the government is taking more property than necessary to fulfill the debt because, at that point, they're no longer a debt collector anymore. When they've taken that much property over the debt itself, they've become a confiscatory government now as opposed to a debt collector. When -- when a -- if a client doesn't pay my bill, I don't get to go seize their whole entire house. I can only collect on the piece of the debt that I'm entitled to do so. The government has different powers. They can act as a super debt collector, and they're utilizing their takings power to be able to take more property than necessary. And when you trigger that taking obligation, here -- again, what's taken is not the surplus; it's the equity that's in the home at the time of the taking -- that's what triggers the obligation to pay just compensation because the Fifth Amendment requires it."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2704.48,
+  "e": 2706.08,
+  "text": "Justice Jackson?"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2706.08,
+  "e": 2728.68,
+  "text": "Can I just get clarity on the tax-isn't-owed scenario in this situation? I mean, ordinarily, in the tax system, if you have -- if you're contesting that you owe the taxes, you pay them and then you go through some sort of process to get refunded by the government. So is that not the case here?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2728.68,
+  "e": 2732.64,
+  "text": "This is a -- I have to acknowledge this is a unique case in that --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2732.64,
+  "e": 2732.64,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2732.64,
+  "e": 2738.58,
+  "text": "-- the tax isn't owed. This is the worst of all examples of government -- I think government run amok on --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2738.58,
+  "e": 2754.04,
+  "text": "But the government says it's owed. That's why they're foreclosing on your house. So the dispute is, I guess, over whether it's owed. And the question is whether it can be collected before that dispute is resolved. And in other tax schemes, it can be, the --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2754.04,
+  "e": 2754.52,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2754.52,
+  "e": 2754.96,
+  "text": "Right."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2754.96,
+  "e": 2754.96,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2754.96,
+  "e": 2757.02,
+  "text": "So why can't it be here?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2757.02,
+  "e": 2761.32,
+  "text": "Because Michigan has this very unique system, the PRE, as I was engaging --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2761.32,
+  "e": 2761.32,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2761.32,
+  "e": 2773.48,
+  "text": "-- with Justice Gorsuch. The PRE has this very narrow 35-day appellate window that when the assessor says, I'm taking away the PRE credit, you have 35 days, even if you know it or don't know it --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2773.48,
+  "e": 2773.48,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2773.48,
+  "e": 2781.72,
+  "text": "-- if you don't trigger the Tax Tribunal's review in that, you're barred from challenging that tax from being -- whether it's owed or not owed in that circumstance."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2781.72,
+  "e": 2787.94,
+  "text": "And you couldn't bring some sort of, under Michigan law, a collateral attack on the fairness of that process?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2787.94,
+  "e": 2789.02,
+  "text": "That is correct. And I have --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2789.02,
+  "e": 2789.46,
+  "text": "That has not been -- yeah."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2789.46,
+  "e": 2805.24,
+  "text": "And I have certainly tried as part of the federal case here to bring that fact, detail in, but as the Sixth Circuit and the trial court both below said, is we don't consider any of the factors outside of surplus as categorically fair market value. And they went no further than that in any further analysis."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2805.24,
+  "e": 2879.24,
+  "text": "All right. One -- one final question with respect to Justice Alito's type analysis. I mean, I do understand the concept of we have a fairness problem because this is a really small debt and a lot of equity in the house. But, to the extent that the homeowner has notice that the government is intending to use this particular tool to recover its debt, I wonder if the fairness questions that you are raising don't get resolved because the notice gives the homeowner a chance to prevent that terrible outcome. It -- I hear you if there's no notice, there's no opportunity, there's no chance for Mr. Pung to run in and pay the $2,000 so the government doesn't steal his -- steal, from his perspective, his family home. But, when the government says clearly, this is how we intend to solve the problem of you not paying your taxes, why isn't it incumbent as a matter of justice for the taxpayer, if they want to avoid the thing the government is threatening, to just pay the taxes in some other way?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2879.24,
+  "e": 2894.66,
+  "text": "I -- I believe, if Mr. Pung knew he was going to be at the United States Supreme Court arguing about $2200, he would have paid that many years ago, but the answer to your question is is that at the point when the government takes more property than necessary --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2894.66,
+  "e": 2898.84,
+  "text": "I'm before that point. I'm before the taking. I'm at the government threatening --"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2898.84,
+  "e": 2899.16,
+  "text": "Threatening."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2899.16,
+  "e": 2966.7,
+  "text": "-- to take your house. And when they do that, the question is what comes next as a matter of fairness and traditional tax policy, et cetera. And the reason why I keep getting hung up on your ultimate this-is-so-unfair point is because I see a very clear opportunity for the taxpayer, who, by the way, is the original problem because he hasn't paid the tax, to solve the problem. And when the government just follows through with what it said it was going to do because it's owed this money in its view, I don't understand how the taxpayer gets to say it's unfair that the government didn't do all I think it should have done to get my house valued at the highest possible price. And, in fact, if they put it in a tax auction, which is just standard, they've got to actually go and pay me the difference. That seems like real unfairness the other way to the, like, rest of the American people, that we are paying you because you didn't pay your taxes and the government had to foreclose on your house."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2966.7,
+  "e": 2996.9,
+  "text": "The best answer I can give you is governments have a lot of tools in their tool chest to collect debts. They can use lawsuits. They can use, you know, the Peloton bike example I was using earlier. They have a lot of tools in their tool chest. If they're going to utilize a process that captures way more property value than what the tax debt is, the Takings Clause does not have a moral fault. The Takings Clause has balanced those interests already and has put that burden onto the government."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 2996.9,
+  "e": 2997.78,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2997.78,
+  "e": 2999.02,
+  "text": "Thank you, counsel."
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 2999.02,
+  "e": 2999.76,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3007.02,
+  "e": 3007.88,
+  "text": "Mr. Liu."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3008.4,
+  "e": 3067.06,
+  "text": "Mr. Chief Justice, and may it please the Court: In Tyler, this Court looked to history and tradition to conclude that a taxpayer is entitled to just compensation when his home is sold for more than he owes. The same history establishes what compensation is just. As long as the sale is conducted fairly, just compensation is the surplus proceeds. According to Petitioner, compensation should instead reflect a property's fair market value. But, as this Court recognized in BFP, foreclosed property is simply worth less. Petitioner's approach would defy that reality and spell the end of tax sales in this country. As for the Excessive Fines Clause, it's simply not implicated here. Any taking that's justly compensated for can't be a fine, can't be punishment, and can't be excessive. I welcome the Court's questions."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 3067.06,
+  "e": 3093.9,
+  "text": "Mr. Liu, you seem to put a lot of weight on fairness of the process. How do we determine that? Do we look at history and tradition? Do we look at, as Petitioner argues, at least as a part of this the end result, whether or not the price is a fair market value? The -- what should be our gauge for that?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3093.9,
+  "e": 3183.0,
+  "text": "I do think we look to history and tradition to determine what a fair sale looks like. I would -- I think some helpful guideposts are the Cooley treatise, starting at page 334, that goes through the historical practices of jurisdictions at the time. I think the federal government's 1812 statute is also a helpful guidepost. And I think, if you look at those guideposts, there are basically three minimum ingredients of a fair sale. One is public notice, notice that contains the time and date of the sale, a description of the property. The second is that there must be a public auction. It can't be a secret sale. It can't be a private sale. And the third ingredient is that the auction must be competitive. There must be an opportunity for bidding and sale to the highest bidder. And, of course, you can also look to history and tradition to also figure out what is the amount of the tax debt that can be subtracted from the sale proceeds to yield the sur -- the surplus proceeds. But do I think the inadequacy of the price bears on that? I'm not going to dispute that a truly grossly inadequate price should cause a court to look more closely at the procedures. But the fact that the -- the price is inadequate is not alone enough to justify setting aside the sale, and -- and -- and it never has been for -- for the centuries that tax sales have been conducted."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 3183.0,
+  "e": 3194.34,
+  "text": "Has the taxing authority and power of the government superseded that of the constitutional right to private property?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3195.3,
+  "e": 3219.38,
+  "text": "No. I don't -- I mean, if I'm hearing the question correctly, no. The -- the -- the government's authority to foreclose on property doesn't supersede any -- any private property rights. I think the taking -- what the Taking Clause reflects is a really important guarantee of what happens when the government does take property, and it's the guarantee of just compensation. That's -- that's the balance the founders struck."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 3219.38,
+  "e": 3225.98,
+  "text": "Are there more protections in mortgage foreclosures, for example, than there are in tax foreclosures?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3226.95,
+  "e": 3256.62,
+  "text": "There -- there may well be. You know, if you -- if you -- to contrast some of the cases my friend cited, he cited Graffam and Ballentyne, I mean, those -- those were not tax sale cases. They did mention this concept of gross inadequacy of price. If you look at the Court's on-point opinion on tax sales, which is Slater versus Maxwell, the Court rejects the notion that tax sales could be challenged based on a mere inadequacy of price. So --"
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 3256.62,
+  "e": 3258.86,
+  "text": "That's not what I'm -- I'm not talking about that."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3258.86,
+  "e": 3258.86,
+  "text": "Okay."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 3258.86,
+  "e": 3272.24,
+  "text": "The -- it seems as though, when we talk about such things as mortgage foreclosures, which we, of course, know are contractual, but there are all sorts of built-in protections --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3272.24,
+  "e": 3273.02,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 3273.02,
+  "e": 3282.84,
+  "text": "-- for the homeowner. Are there similar built-in protections for the taxpayer in tax foreclosures?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3282.84,
+  "e": 3301.96,
+  "text": "I think there are, but I don't think they're constitutionalized by the Takings Clause. I think federal and state statutes have long proven perfectly capable of protecting the process and exempting certain property from levy in the tax sale context, and so they've provided the protections that may exist outside."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 3301.96,
+  "e": 3325.08,
+  "text": "I think my point is rather that you're looking at a contract, a private contract when you're looking at mortgage and there are these built-in protections. You're looking at a constitutional right as -- with respect to private property as it relates to the government. It seems as though that if you're looking at protections, they should be at least similar."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3325.08,
+  "e": 3345.52,
+  "text": "Yes. And -- and if you -- I think it's a pretty good sign that the -- the -- the tax sale procedures are constitutional in that they provide -- the -- the -- the tax sales that are conducted by governments look very much like the private mortgage foreclosure sales that banks and private lenders --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3345.52,
+  "e": 3346.04,
+  "text": "Mr. Liu --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3346.04,
+  "e": 3346.88,
+  "text": "-- conduct."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3346.88,
+  "e": 3351.28,
+  "text": "-- you -- you -- you say that we should vacate and remand, correct?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3351.28,
+  "e": 3351.68,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3351.68,
+  "e": 3365.16,
+  "text": "So we can't -- we can't affirm because none of these arguments about history were developed in the Sixth Circuit. They just went off on the idea of a foreclosure sale's automatically good enough. And -- and you don't support that view?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3365.16,
+  "e": 3365.84,
+  "text": "Correct."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3365.84,
+  "e": 3365.84,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3365.84,
+  "e": 3372.36,
+  "text": "We think the right way to go is vacate and remand for consideration of any arguments that have been preserved as to the process."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3372.36,
+  "e": 3379.66,
+  "text": "And it really would be any arguments about what history and tradition might require in your view that we -- that they should consider, that are preserved?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3379.66,
+  "e": 3381.86,
+  "text": "Exactly. So long as they're preserved --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3381.86,
+  "e": 3381.86,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3381.86,
+  "e": 3383.28,
+  "text": "-- all of those arguments can be considered."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3383.28,
+  "e": 3393.58,
+  "text": "So -- so, for example, you know, Cooley also says, don't take more property than you need to, right? That's another rule that might be -- a court might want to look at?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3393.58,
+  "e": 3395.82,
+  "text": "That is certainly fair game on remand."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3395.82,
+  "e": 3401.8,
+  "text": "And they say, you know, if you get -- if you can take the Peloton rather than the whole house, you should take the Peloton. I mean --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3401.8,
+  "e": 3403.7,
+  "text": "If it's preserved, that could be considered too."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3403.7,
+  "e": 3405.66,
+  "text": "All right. All right. Thank you."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 3405.66,
+  "e": 3411.92,
+  "text": "Do you have a position on whether those things are required? You're just saying, if they're preserved, they can be litigated below. Do you think they are required?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3411.92,
+  "e": 3422.24,
+  "text": "I don't think they're required by the Takings Clause. To take the personal property hypo, there's no need for such a rule that says the government needs to exhaust the personal property."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3422.24,
+  "e": 3436.0,
+  "text": "Well, if you want to play with history, if you want to invoke history, you've got to -- you can't -- you can't cherry-pick it, Mr. Liu. And, you know, the history there is pretty clear that, you know, Cooley's -- Cooley's -- if you invoke Cooley, you -- you -- you've got to eat your Cooley, it seems to me. (Laughter.)"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3436.0,
+  "e": 3440.6,
+  "text": "Yeah. So I -- I read Cooley differently. I -- I -- I know -- I know that that's --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3440.6,
+  "e": 3446.98,
+  "text": "Okay. All right. That's fair. But you -- you would accept that you have to deal with the whole of the history, you don't get to cherry-pick here?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3446.98,
+  "e": 3454.62,
+  "text": "Oh, of course. And -- and that passage from Cooley is a rule about divisible property. What it says is, when property is divisible --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 3454.62,
+  "e": 3454.62,
+  "text": "Sure."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3454.62,
+  "e": 3469.27,
+  "text": "-- that the government shouldn't take more of the parts than it needs to. Now, here, the property was indivisible and everyone agrees that it was necessary to take the whole property. You couldn't take just the backyard or just the front yard, and so that rule is simply inapplicable."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 3469.27,
+  "e": 3478.1,
+  "text": "Well, how about, Mr. Liu, that -- a rule that would say there's the house, but there was also a car, and the car could have satisfied the $2,000 debt?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3478.1,
+  "e": 3525.8,
+  "text": "We don't think the Takings Clause constitutionalizes that rule. We think the Takings Clause doesn't address the antecedent question of what property can be taken for public use. Gather -- rather, it addresses the -- the -- the subsequent question of, if you take property for public use, what is the just compensation. But I -- I just want to address the merits of this personal property exhaustion rule. There's no need for such a rule because, if the taxpayer wants to sell his Peloton bike to satisfy his tax debt, he is free to do so any day of the week. In fact, our foreclosing on it would make it more difficult for him to sell it. So, if, indeed, Mr. Pung thinks the way to satisfy my tax debt is to sell my Peloton bike, there's no need for a rule that forces him to do that. And --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3525.8,
+  "e": 3528.56,
+  "text": "Well, what if the only thing he has to sell is his house?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3528.56,
+  "e": 3532.28,
+  "text": "If the only thing that he has to sell --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3532.28,
+  "e": 3533.86,
+  "text": "Does he -- he doesn't have to do that, does he?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3533.86,
+  "e": 3547.35,
+  "text": "Well, he -- he -- he can sell his house and he's free to do so to -- to pay the price. If it's a situation where there's a financial hardship or it's --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3547.54,
+  "e": 3549.8,
+  "text": "If -- well, what do you mean if there's a financial hardship?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3549.8,
+  "e": 3550.6,
+  "text": "Well, in Michigan --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3550.6,
+  "e": 3552.78,
+  "text": "It's usually not a defense to paying your taxes."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3552.78,
+  "e": 3567.18,
+  "text": "No, but in Michigan and -- and -- and in many other jurisdictions, taxpayers who truly are unable to afford their taxes are given installment plans, offers in compromise. They're -- they're -- they're given --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3567.18,
+  "e": 3567.18,
+  "text": "What if the --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3567.18,
+  "e": 3568.38,
+  "text": "-- opportunities to --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3568.38,
+  "e": 3569.36,
+  "text": "Oh, sorry, go ahead."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3569.36,
+  "e": 3586.6,
+  "text": "Well, they're just given opportunities to -- to find a way to pay their taxes. And -- and one of -- one of them is, indeed, to ask the -- in the case of the IRS, to discharge the house from the federal lien so that the taxpayer can sell it. And what happens at closing in that open market sale --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3586.6,
+  "e": 3586.6,
+  "text": "Well --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3586.6,
+  "e": 3588.7,
+  "text": "-- is they simply cut a check to the IRS."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3588.7,
+  "e": 3592.4,
+  "text": "Well, what if the validity of the tax assessment is still under challenge?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3593.8,
+  "e": 3612.58,
+  "text": "So, if -- if it's still under challenge, under the IRS rules, we cannot levy on the house, so that challenge can go forward. I think what's unusual about this case is that instead of paying the tax and then challenging it, Mr. Pung just -- just wanted to litigate all the way through without paying the tax at all."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3612.58,
+  "e": 3616.52,
+  "text": "Thank you. Justice Thomas? Justice Alito?"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 3616.95,
+  "e": 3695.98,
+  "text": "There are some suggestions in the many briefs that have been filed in this case, although not in Petitioner's brief, about specific things that could be done to make the process fairer. For example, one of the briefs points to statutes that have been enacted in Oregon, Maine, and Massachusetts, and they say that under those statutes, the -- the jurisdiction that is attempting to collect the taxes must first list the property for sale at market value via real estate brokers or real estate agents, and then, if the realtor listing is unable to proceed, then a public auction is allowed where the minimum strike price at auction is two-thirds of the fair market value, et cetera, et cetera. So some of those things seem like possibly good reforms that would make the process fairer, but what concerns me is getting into the determination of which -- the details of this scheme that are minimally necessary to comply with the Takings Clause."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3695.98,
+  "e": 3725.24,
+  "text": "We -- we share that concern as well, Justice Alito, and that's why, at the outset, in response to Justice Thomas's questions, I provided a few things that we think provide the constitutional floor. But, above that floor, I think states have leeway to adopt other procedures that -- that, in their view, may or may not close the gap between the for-sale price and the fair market value. But it -- it -- it's up to them to adopt those."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3726.52,
+  "e": 3727.6,
+  "text": "Justice Sotomayor?"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3727.6,
+  "e": 3777.54,
+  "text": "That's the problem, Mr. Liu, because you get into a situation like this one that Justice Barrett very eloquently described as feeling like fundamentally unfair. They're fighting over a $2400 tax debt that at least two courts said wasn't owed, and yet they plowed ahead and got a -- a price half the amount of the value of the property that was flipped for the value of the property. At some point, doesn't the Constitution have something to say under the rubric of what a just compensation is? I mean, is it just to give the state that much leeway?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3777.54,
+  "e": 3778.44,
+  "text": "I think the --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3778.44,
+  "e": 3780.88,
+  "text": "Shouldn't the minimum require a little bit more?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3780.88,
+  "e": 3785.87,
+  "text": "I don't think the Takings Clause speaks to those issues. I mean, to the extent the --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3785.87,
+  "e": 3786.32,
+  "text": "So what would?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3787.04,
+  "e": 3801.7,
+  "text": "Well, I think these sorts of issues about when a foreclosure is appropriate have typically been the province of federal and state statutes, and those statutes have proven perfectly competent in addressing those issues --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3801.7,
+  "e": 3802.18,
+  "text": "Not here."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3802.18,
+  "e": 3802.84,
+  "text": "-- for centuries."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3802.84,
+  "e": 3804.74,
+  "text": "Not here. That's the claim. Not --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3804.74,
+  "e": 3820.48,
+  "text": "Well, I think the -- what the facts of this -- this case show is that Mr. Pung was given notice of the delinquency. I mean, he face-to-face was told by the township assessor that he owed the tax."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3820.48,
+  "e": 3824.12,
+  "text": "And he went to tax court, and the tax court said no, you don't."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3824.12,
+  "e": 3824.32,
+  "text": "That --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3824.32,
+  "e": 3829.18,
+  "text": "And he presented the government with that notice, and the government said bye."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3829.18,
+  "e": 3847.7,
+  "text": "Right. And -- and I think this is a -- an unusual feature of this case, that while Mr. Pung did appeal the denial of the principal residence exception as to certain years, he didn't appeal that denial as to the year at issue here. I don't know what explains that choice, but it is what --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3847.7,
+  "e": 3847.7,
+  "text": "All right."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3847.7,
+  "e": 3847.7,
+  "text": "-- creates this case."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3847.7,
+  "e": 3859.3,
+  "text": "I have one final question. Given the three minimums of fairness, are you saying those are the only ones, or are you leaving open the door that there are potentially others?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3859.3,
+  "e": 3908.88,
+  "text": "We are leaving open the door that there are others. I think, as -- as has been mentioned this morning, this is not an issue that has been the focus of the briefing. So one of the reasons we think a remand is appropriate is for any preserved issues like this to be addressed. The reason why I say it's not an exhaustive list is because, while there are certain procedures that you can point to that will provide fair procedures, there's any number of things a state could put on top that would actually make those -- you know, undercut those same procedures. So I -- I don't think it's -- it's -- it's as simple as going through and saying there's X, Y, and Z. I think you need a catch-all that's something like: And a state can't do anything else to kind of undercut all -- all the procedures on that list."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3908.88,
+  "e": 3909.08,
+  "text": "So --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3911.48,
+  "e": 3912.747,
+  "text": "Justice -- oh."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3912.747,
+  "e": 3926.62,
+  "text": "-- the other side is saying you can't do anything that undercuts fair market value. That -- that's how they would answer that question. And so how should we answer it if not that way?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3926.62,
+  "e": 3941.58,
+  "text": "Right. And -- and I -- I -- I don't think the mere fact that a -- a procedure is or is not going to have an effect on fair market value can be enough to decide whether it's okay or not."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3941.58,
+  "e": 3943.02,
+  "text": "But should it be a factor?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3944.35,
+  "e": 3948.84,
+  "text": "Whether -- whether the -- the procedure undercuts fair market value?"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3948.84,
+  "e": 3949.7,
+  "text": "In some --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3949.7,
+  "e": 3950.26,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3951.5,
+  "e": 3954.12,
+  "text": "-- not rational way, right? I don't know what else."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3954.12,
+  "e": 3966.96,
+  "text": "I think -- I think the guide -- I think the guide has to be history and tradition. I -- I -- I think that provides the most principled way to decide which procedures are required and which are not."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 3966.96,
+  "e": 3968.42,
+  "text": "All right. Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3968.42,
+  "e": 3968.84,
+  "text": "Justice Kagan?"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 3968.84,
+  "e": 3983.22,
+  "text": "Just as an empirical matter, Mr. Liu, do you think that Justice Scalia was right when he said the thing that Justice Kavanaugh read, that foreclosure sales just produce not as much money as the fair market value would?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 3983.22,
+  "e": 4000.3,
+  "text": "Yes. We think it's just a bad -- a matter of basic economics. It's been proven true through histories -- centuries of experience with tax foreclosure sales. And Petitioner indeed acknowledges on page 20 of his brief that forced sales inherently lead to lower prices."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4000.3,
+  "e": 4006.48,
+  "text": "So what would it mean if we said that the measure was fair market value with respect to foreclosure sales?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4006.48,
+  "e": 4044.16,
+  "text": "It would spell the end of tax sales in America. Every tax sale is necessarily going to yield less than fair market value. If the government is nevertheless required to reimburse the taxpayer -- taxpayer as if the sale yielded fair market value, then every tax sale is going to end up costing the government money, and it won't be long before governments simply stop conducting tax sales altogether. And at the end of the day, who does this hurt? It hurts other taxpayers who are actually paying their taxes because the shortfall has to come from real taxpayers."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 4044.16,
+  "e": 4045.66,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4045.66,
+  "e": 4046.42,
+  "text": "Justice Gorsuch?"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4046.42,
+  "e": 4075.54,
+  "text": "In -- in that analysis, I'm sure there are a lot of careful economic work done that probably quantifies the delta between fair market value and -- and what a -- a good auction price after foreclosure looks like. Would that be relevant consideration in this process that would happen on remand, the evidence about what, in fact, a good process tends to yield?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4075.54,
+  "e": 4082.0,
+  "text": "I think that sort of analysis can be an indicator."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4082.0,
+  "e": 4082.58,
+  "text": "Right."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4082.58,
+  "e": 4102.9,
+  "text": "It can be a reason to look more closely at the process. After all, I think the historical guarantees of notice and publicity and -- and competition are there to make sure -- when you don't have those, what happens is that the price goes down. So, conversely, if you see a very, very, very low price --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4102.9,
+  "e": 4103.5,
+  "text": "Like, here --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4103.5,
+  "e": 4104.6,
+  "text": "-- you might wonder about the -- about the proceeding."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4104.6,
+  "e": 4115.92,
+  "text": "-- we have, basically, a third of the market value was realized. Would that be good reason for a judge to be pretty skeptical that the procedures were -- were fair?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4115.92,
+  "e": 4123.38,
+  "text": "I think pretty skeptical is too strong. I think it is reason to look at the procedures and to scrutinize them."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4123.38,
+  "e": 4139.14,
+  "text": "I suspect it's a great deal lower. I don't know. I haven't done -- looked, and maybe you have and you can tell me, but I suspect one-third or approximately is a good deal lower than a fair process tends to yield compared to fair market value."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4139.14,
+  "e": 4153.52,
+  "text": "It's hard to generalize because I -- I -- in response to Justice Alito's question, I -- I do think it's true that states have some leeway in the types of procedures they adopt, so there's going to be state variation."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4153.52,
+  "e": 4165.64,
+  "text": "Sure. A lot of people may just let the whole thing go to seed, not take care of it, not keep it up, and -- and realize as little as possible, not -- not notify anybody about it."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4165.64,
+  "e": 4165.64,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4165.64,
+  "e": 4167.82,
+  "text": "Others might actually care --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4167.82,
+  "e": 4167.82,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4167.82,
+  "e": 4169.58,
+  "text": "-- you know, and -- and take care."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4169.58,
+  "e": 4176.98,
+  "text": "I -- I can -- I can tell you the IRS estimates a forced sale like this to result in 60 percent --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4176.98,
+  "e": 4177.78,
+  "text": "Sixty percent."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4177.78,
+  "e": 4180.7,
+  "text": "-- of what the -- what the \"fair market value\" --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4180.7,
+  "e": 4181.72,
+  "text": "Thank you. It was very helpful."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4181.72,
+  "e": 4181.72,
+  "text": "-- whatever those be."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4181.72,
+  "e": 4182.88,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4182.88,
+  "e": 4184.06,
+  "text": "Justice Kavanaugh?"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4184.06,
+  "e": 4191.24,
+  "text": "Do you think our opinion in this case should talk about the procedures at all or any of this?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4191.24,
+  "e": 4213.24,
+  "text": "No. I think it's enough for this Court in this case to simply articulate the correct principle, which is, as long as the sale is fairly conducted, the surplus proceeds represent just compensation. And fleshing out what a -- a fair sale looks like can be left for remand or for another case if the issue isn't preserved in this one."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4213.24,
+  "e": 4218.14,
+  "text": "So we shouldn't even say the guideposts that you mentioned in response to Justice Thomas?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4218.14,
+  "e": 4232.66,
+  "text": "We're -- we're -- we're not urging you to do so. We -- we -- we acknowledge that the precise guideposts have not been the subject of adversarial briefing. It's not that I don't believe that they are the correct guideposts, but there just hasn't been --"
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4232.66,
+  "e": 4234.22,
+  "text": "We could make a mistake, as your point --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4234.22,
+  "e": 4245.22,
+  "text": "There -- yeah. There just hasn't been the airing of -- of what those procedures are that I think would -- would warrant this Court getting that granular about -- about what the Constitution requires."
+ },
+ {
+  "speaker": "JUSTICE KAVANAUGH",
+  "s": 4245.22,
+  "e": 4246.7,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4247.5,
+  "e": 4275.1,
+  "text": "Mr. Liu, I just want to ask you about the right analytical framework as we think about the opinion. This is an unusual case, and as I was kind of going back and forth with your friend, we don't have a case saying that the Takings Clause applies in this context. And I don't think Tyler quite does say that the foreclosure itself is the taking. You've briefed it as if it is a Takings Clause issue as opposed to an exercise of the taxing power. Why did you make that choice and, conceptually, when does the taking happen?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4275.1,
+  "e": 4303.6,
+  "text": "So we don't think every foreclosure is necessarily a taking. We think it's going to depend on whether there is excess value in the equity of the home that exceeds the tax debt. But, as to when the taking occurs, if there is excess value above the tax debt, we do think the taking occurs at the time the house is foreclosed upon, not at the time of sale, which could be a different time period."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4303.6,
+  "e": 4312.16,
+  "text": "But you might not know if there's extra value in the house because, if the government is saying so long as the sale is fairly -- I mean, here, there was a huge difference --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4312.16,
+  "e": 4312.16,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4312.16,
+  "e": 4325.64,
+  "text": "-- between the debt and the value of the house. Let's say it's a lot closer. Let's say the debt was, you know, $90,000 and you don't know how much the house is going to get at auction. So then did you take the house at foreclosure?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4325.64,
+  "e": 4388.68,
+  "text": "It's true, I -- I -- without doing the sort of sale analysis, you might not know. But that's also true even to a larger extent under Petitioner's test because their test is hypothesizing a fair market sale and then reasoning from that that there is excess value. All I'm saying is what you would hypothesize at that moment is just a different kind of sale. You would hypothesize a distressed -- a distressed property sale, and if -- if your hypothesis is that that would result in more than the tax debt, then I -- I think you have a good indication that there is a taking at that moment. Now, of course, the -- the actual sale that happens is going to confirm exactly what the surplus proceeds are, but I don't -- I don't think there's any real analytical problem in thinking that the taking occurs at the time of foreclosure. But I should also add that timing is going to be dependent on the laws of the jurisdiction. So here in Michigan, the judgment of foreclosure --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4388.68,
+  "e": 4389.8,
+  "text": "There was a gap."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4389.8,
+  "e": 4429.42,
+  "text": "-- there was a gap, and then the sale happened. Under the federal scheme, the taxpayer's right of redemption goes beyond the sale. The -- the taxpayer has until 180 days after the sale to say that he wants to redeem the property and take it back. We would say, under the federal scheme, there's no transfer of title and, therefore, no taking until that right of redemption expires. And that -- that's traditionally how, I think, courts have understood the property rights here. The transfer of title is -- coincides with the expiration of the right of redemption."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4429.42,
+  "e": 4447.32,
+  "text": "So the right of redemption is where you -- the expiration of the right of redemption, it's not quite -- I mean, let's see. I'm not an expert in foreclosure by any stretch, so I don't know how all these steps work. But, if I'm understanding you correctly, it's not really at the moment of foreclosure because the right of redemption might expire at a time later than that."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4447.32,
+  "e": 4457.7,
+  "text": "Exactly, exactly. And -- and, technically, under Michigan law, I think there's still -- you have until the following March 31st or 21 days after a contested foreclosure."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4457.7,
+  "e": 4467.64,
+  "text": "So you're not really pegging it to when the government exerts control over the property. You're pegging it to when the property owner has lost any ability himself to control the property?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4467.64,
+  "e": 4467.96,
+  "text": "Correct. Correct."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4467.96,
+  "e": 4472.9,
+  "text": "Okay. Well, then that would be different. When we started talking and I said foreclosure --"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4472.9,
+  "e": 4473.14,
+  "text": "Ah, okay."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4473.14,
+  "e": 4476.24,
+  "text": "-- you -- you are saying, analytically, I should be thinking of this differently?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4476.24,
+  "e": 4476.94,
+  "text": "You're -- you're right."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4476.94,
+  "e": 4476.94,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4476.94,
+  "e": 4491.7,
+  "text": "I was -- I was using foreclosure as a -- as a sort of shorthand for the transfer of title. But you're right. As a technical matter, the judgment of foreclosure doesn't necessarily coincide with that transfer of title, but I think it's the transfer of title --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4491.7,
+  "e": 4491.7,
+  "text": "Transfer of title that matters."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4491.7,
+  "e": 4492.82,
+  "text": "-- that -- that is key."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4492.82,
+  "e": 4492.82,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4492.82,
+  "e": 4495.08,
+  "text": "And -- and that may vary depending on the jurisdiction."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 4495.08,
+  "e": 4497.54,
+  "text": "Okay. That's helpful. Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4497.54,
+  "e": 4498.12,
+  "text": "Justice Jackson?"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 4498.12,
+  "e": 4613.58,
+  "text": "Really quickly, do you -- do you have any reaction to the thought that all of the fairness questions that are coming up in this case could actually be taken care of in the due process realm? So what I mean is that we have this form -- the fairness questions about whether the government should have taken personal property -- Michigan government, personal property before the house. That's one set of issues. Whether the Michigan government conducted a fair auction, you all are accounting for that in the context of the just compensation evaluation, but I suppose you could say just compensation is the amount that is generated at auction minus the tax bill, which is what we're calling the excess proceeds. To the extent that your argument is that they didn't do enough with respect to the auction, what you're really complaining about is what Michigan law says about the process. And -- and we have a whole set of cases and ways to evaluate whether, as a constitutional matter, the government is giving you adequate process. So it takes care, I think, of, like, some of the concerns about, well, how do we do this in figuring out whether it's fair enough. We -- we have a rubric when we look at federal and state laws and they're giving process to people in a context, we say, as a constitutional matter, is this procedure comporting with due process? So -- so what is your reaction to treating it like that, in which case we would affirm because the Sixth Circuit is doing the takings part of this, just compensation equals excess proceeds, and leave open the idea that there could be another lawsuit by this very plaintiff claiming a due process problem?"
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4613.58,
+  "e": 4622.2,
+  "text": "I don't think we have any real objection to putting the fairness of the sale under the heading of procedural due process."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 4622.2,
+  "e": 4622.66,
+  "text": "Yes."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4622.66,
+  "e": 4640.16,
+  "text": "I think what matters most to us is -- is getting the contours of that rule right, and I think whether it's viewed as procedural due process or a function of the just compensation clause, it's still going to look at the same legal materials. It's still going to look to the -- the nation's history and tradition."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 4640.16,
+  "e": 4657.46,
+  "text": "Sure. Absolutely. But it just helps that we already have a way of thinking about whether state laws are giving people adequate process. It seems like, you know, to -- to kind of import that here seems to be difficult, and that's what a lot of people are reacting to."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4657.46,
+  "e": 4672.14,
+  "text": "Well, I guess all I would say is there's, I think, a common-sense intuition that if a sale is rigged or there's collusion in a sale, that what results from that sale isn't really just compensation."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 4672.14,
+  "e": 4686.6,
+  "text": "Sure. But the -- the state law is doing that. And we can evaluate whether the state law's process is generating artificially unfair depressed auction prices under the rubric of are they giving you adequate process."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4686.6,
+  "e": 4695.08,
+  "text": "That's right. And the -- and the -- the -- the thing -- the only thing I would really push back on, though, is the idea that some of these other rules --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 4695.08,
+  "e": 4695.08,
+  "text": "Mm-hmm."
+ },
+ {
+  "speaker": "MR. LIU",
+  "s": 4695.08,
+  "e": 4707.5,
+  "text": "-- about the -- the government's authority to foreclose and what it can foreclose on, I don't think there's a home for those rules under the rubric of -- I think it would have to be substantive due process."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 4707.5,
+  "e": 4709.2,
+  "text": "Fine. Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 4709.2,
+  "e": 4715.74,
+  "text": "Thank you, counsel. Mr. Nelson."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 4715.74,
+  "e": 4834.84,
+  "text": "Mr. Chief Justice, and may it please the Court: The Petitioner's Takings Clause question here has morphed from just whether fair market value is the only measure of just compensation into questions regarding whether the Takings Clause requires the government to execute against certain property before others when collecting a debt and whether the Takings Clause dictates the procedures for government auctions of foreclosed property. Only the first of these questions was actually preserved and addressed below and challenged in the district court. The Sixth Circuit here correctly applied historic practice, this Court's precedents, and economic reality to determine that surplus proceeds less the -- from an auction sale, less the tax debt that's owed establishes just compensation. Property sold under a compelled -- on -- in a compelled market, under compelled market conditions, is worth what the market pays for it under those conditions and not what the property would be worth in an idealized private sale. By contrast, Petitioner's fair market value theory has no foothold in historic practice, this Court's precedents, or economic reality. Even though the government has been selling properties at auction and returning the overplus for centuries, not a single case has ever suggested that the surplus proceeds are equal to the property's fair market value less the debt. Moreover, the prop -- the Petitioner's fair market value approach assumes market conditions that simply don't exist after a foreclosure because of the property owner's decisions not to pay the tax, not to sell the property, not to obtain a statutory deferral, and not to exercise the right of redemption. The Takings Clause does not require compensation to the owner for owner-created reductions to the property value. That would be unjust to the government and to the public. I welcome the Court's questions."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 4834.84,
+  "e": 4840.26,
+  "text": "What was the assessed value on which the tax was imposed?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 4840.26,
+  "e": 4845.52,
+  "text": "The assessed value here was approximately $194,000."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 4845.52,
+  "e": 4852.56,
+  "text": "Can Petitioner use that as a basis for its disagreement with the foreclosed sale value?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 4852.56,
+  "e": 4890.8,
+  "text": "Justice Thomas, we do not believe so because the -- if the measure of the property's value is at the time of the taking, it's either -- if the taking is the surplus proceeds, then the amount of the surplus proceeds is what's taken. If the property value is the equitable interest in the property at the time that the right of redemption expired, the property was no longer worth the -- the assessed value under the market -- under market conditions because the property was in foreclosure and the right of redemption had not been exercised such that the value of the equitable interest in the property had diminished to a forced-sale value, which we believe is the teaching from BFP."
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 4890.8,
+  "e": 4898.14,
+  "text": "So it -- the value decreased approximately $120,000 in that short period?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 4898.14,
+  "e": 4926.087,
+  "text": "We believe that the property -- yes, the property decreased in value by -- by a very significant amount between the time of the assessment and the time of the foreclosure -- or, excuse me, the -- the expiration of the right of redemption because of the non-payment of the tax. No reasonable buyer out in the market would acquire the property at the moment of foreclose -- of the -- of the taking here for the $194,000 because --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4926.087,
+  "e": 4941.0,
+  "text": "Except for someone did shortly after the auction buy the property for the prior $194,000. Doesn't that give rise to some reason to be concerned about the procedures that your client used?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 4941.0,
+  "e": 4983.8,
+  "text": "No, Your Honor. The -- the procedures here have been the historic process that have been used since the beginning of the republic. But, with regard to the particular $195,000 subsequent sale price, what we have is right now a discussion of the assessed value of the property on the open market and a later sale of the property more than a year after the property was purchased from auction, also on the open market, and not a -- a sale within the confines of a forced sale with regard to the property. At the time of the foreclosure, there was no longer an open market for the property. We could not -- there was not an unlimited time to purchase the property, and there was not the opportunity for there just to be a willing -- a willing seller."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 4983.8,
+  "e": 5016.84,
+  "text": "I am curious just -- I know this is a bit of a side show, for which I apologize, but I am curious about how come the assessor charged that tax again and disregarded the ALJ's at least oral indications that -- that it was not owed, and how come nobody over the many years between there and here said, hey, wait a minute, what are we doing over a $2,000 tax bill?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5016.84,
+  "e": 5041.82,
+  "text": "So, Justice Gorsuch, there are -- there are a couple of wrinkles that occurred in this process. Number one, the decision with regard to the personal residence exemption was made by the township assessor, not the county. So the township assessor disallows the personal residence exemption. The property tax remains unpaid. The property tax is delinquent. So the property gets turned over to the county treasurer for the collection of the tax. But --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5041.82,
+  "e": 5055.38,
+  "text": "I understand that there are a lot of bureaucracies involved and that the right hand's not always talking to the left hand. I appreciate that. We've all been -- we've all encountered that phenomenon. (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5055.38,
+  "e": 5104.02,
+  "text": "But what is curious to me is we're sitting in the Supreme Court of the United States many years -- no one -- I mean, at some point, the right hand recognizes, ah, there's a left hand over here, and at some point, a lawyer gets involved and advises the left hand of the right hand. And I'm not criticizing anyone. Don't get me wrong. I'm just curious how a $2,000 erroneously applied, it seems, $2,000 tax bill led to -- to taking someone's home, a sale for a third of what it's worth, and -- and then very promptly the whole value is -- is secured again by the person who collected it out of bankruptcy -- out of -- out of the foreclosure. It's a striking set of facts. How did it happen?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5104.02,
+  "e": 5143.42,
+  "text": "So the -- the township assessor, I don't know what the township assessor's reasoning was. It may well be -- there's two requirements with regard to the -- the principal residence exemption. There must both be -- the person who's entitled to it must both be the owner of the property and be using the property as their principal residence. There may have been a question with regard to whether it was being used as a principal residence at the time. That is not in the record. With regard to after the property is turned over now to the county, who is the -- the -- the Respondent here, when it's turned over to the county, the county has no authority to say now this tax should not have been paid unless what happens is --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5143.42,
+  "e": 5143.94,
+  "text": "Oh, goodness."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5143.94,
+  "e": 5145.44,
+  "text": "-- the -- well, unless --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5145.44,
+  "e": 5147.82,
+  "text": "Really? I mean, nobody can say, hey, there was a mistake?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5147.82,
+  "e": 5149.08,
+  "text": "Well, the opportunity --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5149.08,
+  "e": 5158.68,
+  "text": "I have to -- I have to foreclose on someone's home for a tax bill I now know is false, but I -- I -- I -- you know, I -- I'm forced to do it?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5158.68,
+  "e": 5186.9,
+  "text": "So, Your -- Your Honor, the Petitioner here had the opportunity to come to the show-cause hearing or the foreclosure hearing in -- the show-cause hearing with the treasurer or the foreclosure hearing with the court and say this tax was never properly assessed. At that time, there is an opportunity to -- to say the tax is not properly assessed, we're going to go ahead and reverse this -- this whole process, and we're in the clear. But that didn't happen."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5186.9,
+  "e": 5192.1,
+  "text": "Is this always how the county does it? I mean, if the tax bill were a hundred bucks, you would still take a house?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5193.85,
+  "e": 5212.0,
+  "text": "The -- typically, there -- there's -- if the property tax bill is a hundred dollars, that means the assessed value of the property is very -- is very small. So, yes, there are instances where there are very small assessed value -- or very small tax bills with properties that also have lower assessed values."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 5212.0,
+  "e": 5226.98,
+  "text": "I find it strange here that every other tax year was paid. Don't you think by the time of the sale that the county would have said, wait a minute, every other tax bill has been paid, something went awry here?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5228.3,
+  "e": 5243.86,
+  "text": "I think there -- they were well aware of what went awry, that there was something that had gone awry in -- in the situation, and the particular issue that had gone awry is the tax bill that had been -- that 100 had not been challenged, had not been paid, even though the others --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 5243.86,
+  "e": 5306.02,
+  "text": "Had been challenged -- well, I -- I do have a question. Mr. Liu's answer raised it in my mind. It's one thing to say that an auction price reflects the just compensation when it's close to or at the time of the taking. But, once you separate out the point of just compensation, which is when you've taken it, which you seem to agree, is the time you took title and let's assume Mr. Liu's answer and no redemption -- and redemption rights have expired, what permits you to hold onto that property until it secures the lowest value? Meaning I can assume that just compensation is just as an auction price if the auction is close to the taking. But, if it's not, how do I make that leap?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5306.02,
+  "e": 5326.18,
+  "text": "So two responses to your question, Justice Sotomayor. First, with regard to the -- the timing here, the timing here was somewhat unusual because the actual foreclosure was challenged and so there was a multi-year -- there was multi-year litigation 101 all the way through the Michigan Supreme Court with regard to the underlying foreclosure. So the foreclosure was --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 5326.18,
+  "e": 5329.92,
+  "text": "I will put that the foreclosure, the taking is when that finishes, okay?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5329.92,
+  "e": 5354.08,
+  "text": "So -- so, when the foreclosure judgment was reinstated, there was a period of time for redemption and there was not enough time to notice the property for the next regularly scheduled auction for these properties. So the county -- the counties hold two auctions for these properties, one in July -- one in July or August and then one typically in September or October. That is the normal process."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 5354.08,
+  "e": 5373.34,
+  "text": "Do you know what the historical practice was on this issue? Was the historical practice more that what happens in federal lien law, or is this a new creation by states that they foreclose, keep the property as long as they want, and sell it when they want to?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5373.34,
+  "e": 5386.36,
+  "text": "No, Your Honor. I don't 102 believe there's any -- any -- anything that I've seen with regard to specifically how long after the -- the foreclosure occurs that the auction sale must happen. But this is --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 5386.36,
+  "e": 5392.28,
+  "text": "That's one of the things that hasn't been briefed, but it is an -- an important question in my own mind. All right. Thank you."
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5392.28,
+  "e": 5435.3,
+  "text": "Well, Mr. Liu seemed to suggest that -- and -- and -- and maybe I misunderstood him -- but that if the taking occurred when the right of redemption expired, that that would be the relevant moment for valuing the property because that's how the Fifth Amendment works. And, you know, as applied to the states too, that when the property is taken, that's when we value it. So kind of picking up on what Justice Sotomayor is saying, I had understood Mr. Liu's answer to be consistent because he was saying, well, we -- we -- you would kind of make that judgment about what it would get at auction at the time the right of redemption expired. But I understood you to be telling 103 Justice Sotomayor something different, which is don't worry about that date, we still treat it as being worth whatever the auction yielded, even if it's a year later."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5435.3,
+  "e": 5495.02,
+  "text": "Justice Barrett, no, you're -- no. The -- I'm sorry if I -- I created some confusion. If the -- if the fore -- if the taking is at the time the right of redemption expires, and that's not true as a matter of Michigan law, so I want to come back to that, but with regard to -- if that's what the taking is, then, yes, the valuation is as of that date. And the auction is, as in BFP -- as BFP suggested, the best evidence of that, if there is a significant delay, that might be something that -- that would call into question whether the -- whether the valuation -- whether the surplus proceeds that are generated are the accurate reflection. Here, there's a -- a reason for the delay, but with going back to some of the questions you were asking earlier of brother counsel, under Michigan law, under the Rafaeli decision, the taking is -- is deemed not to 104 have occurred until the surplus proceeds are generated. And so, as you were indicating earlier, there's an exercise --"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 5495.02,
+  "e": 5499.48,
+  "text": "Well, doesn't -- don't we get to just say that? I mean, when a taking happens is a question of federal law."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5499.48,
+  "e": 5527.015,
+  "text": "The -- when a taking happens is a matter of federal law. The definition of the property interest is typically a question of state law, and as long as they're not defining away a preexisting property interest, state law -- my reading of this Court's jurisprudence is that state law would then govern. Here, the Michigan Supreme Court has said it is the withholding -- it is the right to the overplus when the overplus is generated that is the -- that is the relevant time to assess the taking."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5527.015,
+  "e": 5535.16,
+  "text": "See, I can see that as an argument about measure, but I don't see how that's an argument about what the taking is for purposes of federal law."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5535.16,
+  "e": 5535.36,
+  "text": "So --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5536.72,
+  "e": 5549.06,
+  "text": "I would have thought 105 that when I lose all the bundle of sticks in my property and the state takes them, that's a taking for the -- for -- for the purposes of the U.S. Constitution, whatever Michigan might say."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5549.06,
+  "e": 5561.86,
+  "text": "And that is consistent with the Sixth Circuit's decision in Hall. There, it would be the equitable interest in the property as distressed by the fact that the property is in foreclosure and there's -- the right of redemption has not been exercised."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5561.86,
+  "e": 5564.66,
+  "text": "Once -- once title has passed -- I mean, would you agree --"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5564.66,
+  "e": 5564.66,
+  "text": "Sure."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5564.66,
+  "e": 5572.88,
+  "text": "-- that once title passes to the -- to the county, to the state, that that is the -- the date of the taking for purposes of the federal Constitution?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5572.88,
+  "e": 5579.14,
+  "text": "Because I'm betwixt and between the state law and the federal law, we don't take a position as to --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5579.14,
+  "e": 5579.14,
+  "text": "You don't?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5579.14,
+  "e": 5583.62,
+  "text": "-- which of the specific, which -- but the result of them we believe is the same. 106"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5583.62,
+  "e": 5587.94,
+  "text": "I understand that you think all roads lead to Rome and we win. I got -- I appreciate that. (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5587.94,
+  "e": 5598.06,
+  "text": "I appreciate that. But -- but, for our purposes, if we're considering a remand, that's another issue that I guess you don't have a position on, so it would have to be explored?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5598.06,
+  "e": 5614.04,
+  "text": "Well, the Sixth Circuit has operated under the -- operated under the view after Hall that the interest that's being taken is the equitable interest in the property, the value -- the -- the value -- the distressed value of the property less the -- the unpaid taxes."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5614.04,
+  "e": 5621.1,
+  "text": "And that might be wrong, though, is what we're exploring here. It might be that the taking is the taking of the house in the foreclosure --"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5621.1,
+  "e": 5622.76,
+  "text": "Well, this Court --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5622.76,
+  "e": 5628.64,
+  "text": "-- when fee simple passes from taxpayer to sovereign."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5628.64,
+  "e": 5638.4,
+  "text": "So no, Your Honor. We disagree with that because the payment of the 107 tax itself is not a taking. So, if the value of the property at the time --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5638.4,
+  "e": 5652.62,
+  "text": "Well, I understand that. But you're -- you're -- you're resisting -- or I thought you weren't taking a position. And I guess I'm wondering which it is. But isn't there at least a colorable argument that a taking occurs when you take title to my house?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5653.7,
+  "e": 5656.02,
+  "text": "Yes, Your Honor, there's a colorable argument that --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5656.02,
+  "e": 5657.52,
+  "text": "All right. Thank -- thank you."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5657.52,
+  "e": 5657.63,
+  "text": "Yeah."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 5657.63,
+  "e": 5659.44,
+  "text": "Then we don't need to go further, I don't think."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5659.44,
+  "e": 5679.64,
+  "text": "But -- but can I just ask you that -- to follow up on that, isn't the relevance of determining whether a taking has occurred just to get us to the point of determining what is owed to the taxpayer? In other words, it's not like a free-floating question of -- you -- you don't dispute that a taking happened here in the sense that, right? 108"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5679.64,
+  "e": 5682.52,
+  "text": "No. After Tyler, I -- I would be -- it would be foolish for me to contest that."
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5682.52,
+  "e": 5733.0,
+  "text": "Okay. So you don't dispute that there's a taking. So, to me, it's -- it's not so much when that taking occurred except insofar as we think that when it occurred relates to when it should have been valued or what its value is. So at the bottom line of all of it is what is actually the value of the taking that occurred? And so, I mean, I suppose you could say we reach all the way back to the point at which, you know, they first noticed him that he was -- had his house foreclosed or when the title passed or all of those pieces. But there's also the argument, which is what the Sixth Circuit determined, that it is at the point in which the government sells the property, recovers its tax amount, and gives the person back the excess."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5733.0,
+  "e": 5734.4,
+  "text": "The -- the --"
+ },
+ {
+  "speaker": "JUSTICE JACKSON",
+  "s": 5734.4,
+  "e": 5747.5,
+  "text": "Not so much the taking but that that's -- that's the value of what has occurred as a result of the taking. 109 That is the just compensation that is owed to the person in light of this taking that everybody agrees happened."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5747.5,
+  "e": 5750.14,
+  "text": "Yes, Your Honor, we agree."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 5750.14,
+  "e": 5763.7,
+  "text": "Mr. Nelson, did you have a back half of your answer to Justice Gorsuch's question? He asked whether there was a taking when the foreclosure occurred, and you said there is a colorable argument. Is there a but to that?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5763.7,
+  "e": 5807.46,
+  "text": "There's a colorable argument that -- so the -- the question was, I -- I -- I believe, there's a colorable argument that there's -- that there's a taking when title passes. The -- the but I would add is the question is title passes -- what portion of the bundle of sticks is actually being taken? Because, if the property is worth, for example, the same as or less than the tax that's owed and the property is foreclosed upon, the -- the property is received in payment of the tax and there is no taking at all. 110 So the interest that's being taken if at the time of the -- the right of redemption expires would be the equitable interest. And I don't believe that there's actually a difference between the Respondent and the Petitioner on that point. It's not the entire home."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 5807.46,
+  "e": 5821.54,
+  "text": "And -- and when you said the taking, whatever it is, occurs at the -- when the title passes, which is, I think, the same thing that Mr. Liu said, that might be different than when the foreclosure occurs, is that correct?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5821.54,
+  "e": 5838.493,
+  "text": "The title will not fully pass until the right of redemption expires. So the -- the right of redemption here expired 21 days after the foreclosure judgment was reinstated. Typically, that occurs under Michigan law on March 31st of each tax year. With --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 5838.493,
+  "e": 5838.72,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5838.72,
+  "e": 5927.98,
+  "text": "Thank you. With regard to some of the -- some of the discussion with regard to the -- the issues, there was a question with regard to 111 safety valves that Mr. Liu indicated. For the purposes -- for the Court's purposes, I would point the Court to Sections, Michigan compiled law Section 211.78h, 78k, and 78q for the purposes of identifying how Michigan law, like -- like the law of most states, provides for ways for property owners to avoid foreclosure where they -- where they are unable to pay or there are issues with regard to disability that would prevent them from paying. With regard to the -- the question -- there was a statement with regard to the federal government about what the IRS anticipates receiving from a forced sale. The IRS typically only forecloses on properties that they believe will sell. The states, when they are foreclosing on properties where there is no -- where the taxes -- where taxes are delinquent, there is no such selective process. They simply foreclose on all of those properties. Some of them are un-buildable lots. Some of them are -- suffer from environmental contamination. Some of them are blighted. And they -- they do not have an anticipation of sale. 112 So, typically, we would anticipate that the sale of -- that -- that auction sales of tax-foreclosed properties would be at a lower rate than IRS foreclosures."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 5927.98,
+  "e": 5930.16,
+  "text": "Thank you, counsel. Justice Thomas?"
+ },
+ {
+  "speaker": "JUSTICE THOMAS",
+  "s": 5931.4,
+  "e": 5940.46,
+  "text": "When you say that -- when you said earlier that your process is similar to historic process, what do you mean by that?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 5940.46,
+  "e": 5983.94,
+  "text": "I mean that historically, the states have used the foreclosure process, followed by an auction, to recover unpaid -- unpaid and delinquent property taxes. Some of those -- and there are a variety of -- of intermediate processes that court -- that states have adopted that are in the historic record. We do believe that the Cooley treatise sets forth a fairly wide range of what those practices are. But the overall foreclosure, auction sale, and return of the surplus proceeds process that this Court identified in Tyler is consistent with what Michigan is now doing and 113 the effect of what has happened in this case."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 5983.94,
+  "e": 5988.14,
+  "text": "Justice Alito? Justice Sotomayor?"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 5988.14,
+  "e": 6003.3,
+  "text": "You said that the foreclosure judgment expired on March 31st, 2018. They -- the auction took place a year and a half -- year and a quarter later, July 16th, 2019?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 6004.8,
+  "e": 6024.34,
+  "text": "So the -- the foreclosure judgment was reinstated on June 12, 2018. The right of redemption expired on July 3 of 2018. And because there was not an opportunity to notice -- to get the property into the notice package with regard to the next auction, the county --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 6024.34,
+  "e": 6025.26,
+  "text": "It went a year."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 6025.26,
+  "e": 6026.56,
+  "text": "-- waited a year, yes."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 6026.56,
+  "e": 6039.66,
+  "text": "So how do I deal with the fiction that the auction price could be just compensation for a taking that occurred a year earlier?"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 6039.66,
+  "e": 6040.68,
+  "text": "Had --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 6040.68,
+  "e": 6045.82,
+  "text": "I mean, the market could have crashed. Anything could have happened. How do I deal with that fiction? 114"
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 6045.82,
+  "e": 6053.36,
+  "text": "So, inevitably, there's going to be some lag between a foreclosure and an auction, and just as --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 6053.36,
+  "e": 6071.56,
+  "text": "No, not inevitably. The federal government and -- I don't know what the historical practice was. I suspect it was that title passed when the auction or redemption was after -- I mean, there were a lot of things at the founding, I don't know what they are, to avoid that."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 6071.56,
+  "e": 6101.92,
+  "text": "There are -- there are ways to avoid it. If there is a specific concern with regard to events that occurred between the time of the -- of the taking and the auction, those would be a basis for challenging whether just -- whether the auction reflects or establishes just compensation. Those challenges were not raised here. There was no challenge to the adequacy of the surplus proceeds based on the time between when the foreclosure judgment was reinstated and the right of redemption expired and when the auction occurred here."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 6101.92,
+  "e": 6103.22,
+  "text": "Okay. Thank you, counsel. 115"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 6103.22,
+  "e": 6108.8,
+  "text": "Justice Kagan? Justice Gorsuch? Justice Kavanaugh? Justice Barrett, anything further?"
+ },
+ {
+  "speaker": "JUSTICE BARRETT",
+  "s": 6108.8,
+  "e": 6109.14,
+  "text": "No."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 6109.14,
+  "e": 6111.34,
+  "text": "Justice Jackson? Thank you, counsel."
+ },
+ {
+  "speaker": "MR. NELSON",
+  "s": 6111.34,
+  "e": 6112.36,
+  "text": "Thank you."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 6112.36,
+  "e": 6113.7,
+  "text": "Rebuttal, Mr. Ellison?"
+ },
+ {
+  "speaker": "MR. ELLISON",
+  "s": 6114.9,
+  "e": 6268.62,
+  "text": "We welcome our brother's concession here that there has been a taking in this case. That was contrary to their position, of course, in the trial court below. We welcome that concession, and we think it narrows the scope of this case because now we're only talking about valuation at this point. I would point this Court to Virginia Electric and Kirby Forest that says that when there is a -- when there is a process that is under -- being undertaken for takings, the 116 depreciation of the value caused by the taking itself or, in Kirby Forest, the prospective taking that's about to occur, that obligation, that loss, is borne by the government, not by the former property owner. And I would point this Court to those cases. I would also have to disagree with my brother counsel that -- that there was no -- that there was a redemption right below. There was an attempt to redeem, and it was denied. I think that's somewhat a side issue on this part, but the reality is is that the government was not going to give back this property despite all the efforts of the Pung family. And it's been a frustrating -- I've been the trial attorney since the very beginning on this. It has been a frustrating, awful case to try to tell someone they're going to lose their family home and there's nothing you can do to get the government to stop them from doing that. So I know that's kind of beyond the scope today slightly as to the issue of the taking evaluation that we've narrowed this case down to, but the Pung family is here today and they are devastated by the loss of 117 this family home. And what they want is is the justice that, hopefully, the Just Compensation Clause should provide for us in these circumstances. I would -- I would finally just like to finally just say is -- is that the arguments of brother counsel was surplus proceeds is the end all, be all. And I think we -- at least I take from the questions today that that can't possibly be the rule in these circumstances. But what he's not engaging on -- and I -- I believe, Justice Gorsuch, you talked -- you -- you referenced it with Mr. Liu -- is -- is you got to take the bitter with the sweet. If you're going to take the benefits of tax foreclosure and you're going to take more property than necessary, you've got to also take the historical practices of the limitations on there, and if you're going to act in -- in furtherance or beyond those historical limitations, whether it's taking the Peloton bike or limiting yourself or -- or all the limits that are traditionally there for normal debt collection practices, you also have to take all of those as well historically to 118 benefit from that. And if you're not going to take those, you're no longer a debt collector; you're now a confiscatory government, and you're responsible under the Takings Clause. Thank you very much."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 6268.62,
+  "e": 6270.92,
+  "text": "Thank you, counsel. The case is submitted."
+ }
+]

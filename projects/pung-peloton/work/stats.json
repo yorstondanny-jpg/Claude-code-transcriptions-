@@ -1,0 +1,156 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1694.84,
+   "next": 1694.84,
+   "speaker": "JUSTICE ALITO",
+   "before": "case, with a tax debt of about 2200 bucks, it could have been the Peloton bike that was in the house. You think a Peloton bike today is worth $2,000?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2259.48,
+   "next": 2259.48,
+   "speaker": "MR. ELLISON",
+   "before": "that as the basis for this foreclosure. Correct. So -- How did that happen? I don't think you have a long enough afternoon to explain the story of what happened here.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2528.18,
+   "next": 2528.42,
+   "speaker": "JUSTICE BARRETT",
+   "before": "briefs, it sounds to me like the tax assessor was like Inspector Javert, but it was even worse because Jean Valjean hadn't stolen the bread. I mean, you didn't even --",
+   "pause": 0.24,
+   "loud_s": 0.1,
+   "mean_over": 34.9,
+   "peak_over": 36.7,
+   "size": "under speech"
+  },
+  {
+   "t": 3436.0,
+   "next": 3436.0,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "And, you know, the history there is pretty clear that, you know, Cooley's -- Cooley's -- if you invoke Cooley, you -- you -- you've got to eat your Cooley, it seems to me.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 5055.38,
+   "next": 5055.38,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "there are a lot of bureaucracies involved and that the right hand's not always talking to the left hand. I appreciate that. We've all been -- we've all encountered that phenomenon.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 5587.94,
+   "next": 5587.94,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "which -- but the result of them we believe is the same. 106 I understand that you think all roads lead to Rome and we win. I got -- I appreciate that.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -49.6,
+ "opening_start": 8.24,
+ "opening": [
+  [
+   8.24,
+   "MR. ELLISON",
+   "Mr. Chief Justice, and may it please the Court: The Fifth Amendment requires just compensation be measured by the value of what's taken. The Sixth Circuit's categorical rule reducing just compensation to surplus auction proceeds in all instances was wrong. This Court has repeatedly confirmed that when the government takes property, the constitutional calculus begins with its fair market value. That is measured from the time of the take. The error here is clear. The Pung home was worth $194,400. The tax debt was roughly $2200. Just compensation meant returning remaining equity. The lower courts erred when holding that the later auction price of just $76,000, less the debt, was categorically the only just compensation owed. But this Court said it directly in Jacobs. An owner is owed just compensation, not inadequate compensation. Following Tyler, there are no windfalls to the government. This case now asks the Court to confirm the other half, that the Constitution likewise forbids confiscatory losses when being -- when being imposed upon a former owner. Federal courts should consider all relevant market -- evidence of market value and determine whether just compensation has, in fact, been paid. In addition to the Fifth Amendment, the Eighth Amendment's Excessive Fines Clause provides a backstop as well. Taking a six-figure home to punish over a small four-figure tax constitutes a fine and was sufficiently alleged to be grossly disproportionate to get past the initial pleading stage. The judgment below should be reversed, and I welcome the Court's questions."
+  ],
+  [
+   110.32,
+   "JUSTICE THOMAS",
+   "What do you do with the fact that the English and American legal traditions seem to permit these sorts of foreclosures?"
+  ],
+  [
+   121.28,
+   "MR. ELLISON",
+   "So the -- the fact that the -- our history allows for these types of foreclosures is only one half of the equation. The other half of the equation historically is that protections have been built in, for example -- one of many, for example, is personalty has to be taken before real -- the real property, for example. This process that Isabella County undertook lacked that second half of that historical tradition. Yes, surplus is the ultimate outcome if, in fact, the auction resulted in a fair market value. But, when it doesn't result in a fair market value, historically, courts have been allowed to challenge inequity, to set aside the foreclosure itself, or to otherwise award damages or compensation in those particular circumstances."
+  ],
+  [
+   165.56,
+   "JUSTICE SOTOMAYOR",
+   "I'm sorry, where in your brief did you show -- where in your merits brief did you point to that history?"
+  ],
+  [
+   174.46,
+   "MR. ELLISON",
+   "That history --"
+  ],
+  [
+   175.5,
+   "JUSTICE SOTOMAYOR",
+   "I -- I know that there have been cases that talk about the fairness of an auction and that certain rules were set up to ensure fairness, that it had to be an"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2025/25-95",
+  "page_url": "https://www.oyez.org/cases/2025/25-95",
+  "found": false,
+  "count": 0
+ },
+ "case": "25-95",
+ "year": "2025",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-95",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-95.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2025/25-95_32q3.pdf",
+ "model": "small.en",
+ "duration": 6271.704,
+ "asr_elapsed_s": 2357.1,
+ "asr_words": 17404,
+ "official_words": 17782,
+ "matched": 16672,
+ "shared": 13,
+ "clamped": 0,
+ "trimmed": 85,
+ "rewindowed": 1,
+ "match_rate": 93.7577325385221,
+ "turns": 525,
+ "laugh_markers": 6,
+ "mp3_bytes": 50173869,
+ "pauses": 138,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 457,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.76% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-28"
+}
