@@ -1,0 +1,552 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 308.22,
+   "next": 309.86,
+   "speaker": "JUSTICE BREYER",
+   "before": "mean, do they have to go to the Department of Transportation? Boston couldn't function. I know that they do tow cars. I don't know that firsthand, but I've seen it.",
+   "pause": 1.64,
+   "loud_s": 1.5,
+   "mean_over": 23.3,
+   "peak_over": 29.1,
+   "size": "big"
+  },
+  {
+   "t": 457.94,
+   "next": 460.06,
+   "speaker": "JUSTICE SCALIA",
+   "before": "him $100. And he tows the vehicle, puts it in my garage and says, give me the $100. And I say, ha, ha, I'm not going to give you $100.",
+   "pause": 2.12,
+   "loud_s": 1.65,
+   "mean_over": 19.6,
+   "peak_over": 27.7,
+   "size": "medium"
+  },
+  {
+   "t": 1276.31,
+   "next": 1281.17,
+   "speaker": "JUSTICE SCALIA",
+   "before": "to eat those words, they were wrong, or -- or somehow you don't come within them? Respectfully, Justice Scalia, I think those words came from your dissent in that case. Ah.",
+   "pause": 4.86,
+   "loud_s": 4.2,
+   "mean_over": 26.9,
+   "peak_over": 36.5,
+   "size": "big"
+  },
+  {
+   "t": 1282.37,
+   "next": 1285.9,
+   "speaker": "JUSTICE SCALIA",
+   "before": "words, they were wrong, or -- or somehow you don't come within them? Respectfully, Justice Scalia, I think those words came from your dissent in that case. Ah. I forgot that.",
+   "pause": 3.53,
+   "loud_s": 3.35,
+   "mean_over": 29.1,
+   "peak_over": 36.4,
+   "size": "big"
+  },
+  {
+   "t": 1288.18,
+   "next": 1288.18,
+   "speaker": "JUSTICE SCALIA",
+   "before": "don't come within them? Respectfully, Justice Scalia, I think those words came from your dissent in that case. Ah. I forgot that. So you say they were wrong, you say?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2459.2,
+   "next": 2460.1,
+   "speaker": "JUSTICE SCALIA",
+   "before": "its -- its apparent meaning, \"related to,\" and we finally concluded you can't do that. So what do you want us to make up? What kind of a limitation do you --",
+   "pause": 0.9,
+   "loud_s": 0.75,
+   "mean_over": 22.4,
+   "peak_over": 26.9,
+   "size": "medium"
+  },
+  {
+   "t": 3118.91,
+   "next": 3119.55,
+   "speaker": "JUSTICE BREYER",
+   "before": "we have two choices. In Morales, since I can mock my own opinions, I wrote at the end, \"it's not -- when it's too tenuous, remote or peripheral.\" That's singularly unhelpful.",
+   "pause": 0.64,
+   "loud_s": 0.1,
+   "mean_over": 12.4,
+   "peak_over": 19.4,
+   "size": "small"
+  },
+  {
+   "t": 3122.91,
+   "next": 3122.91,
+   "speaker": "JUSTICE SCALIA",
+   "before": "my own opinions, I wrote at the end, \"it's not -- when it's too tenuous, remote or peripheral.\" That's singularly unhelpful. It seems to -- there -- I thought so at the time.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3270.71,
+   "next": 3272.23,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "where the States were trying to use specific guidelines. Well, why doesn't this one really whack them, though? It's treble damages and all that. You can answer my question, yes.",
+   "pause": 1.52,
+   "loud_s": 1.35,
+   "mean_over": 30.2,
+   "peak_over": 37.5,
+   "size": "big"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -47.9,
+ "opening_start": 9.96,
+ "opening": [
+  [
+   9.96,
+   "MR. BOUFFARD",
+   "Mr. Chief Justice, and may it please the Court: The issue in this case is whether Section 14501 of the United States Transportation Code expressly preempts the Respondent's State law consumer protection in tort claims for damages against a tow trucker who towed his vehicle lawfully and then, several months later, disposed of the vehicle after the fees for towing and storage had not been paid. Both of these claims are preempted because they are directed at the conduct -- the type of conduct that tow truck companies all over this country every day engage in, in dealing with a particular type of tow that's referred to in the business as nonconsensual tows."
+  ],
+  [
+   64.9,
+   "JUSTICE GINSBURG",
+   "Mr. Bouffard, this law, this New Hampshire law, it regulates storage. Is this a law that applies only to the towing companies who tow the automobile and then store it, or does the law apply, say, to a garage, say, someone brings a car to a garage for repairs, and does this storage law regulate garage operations as well as towing operations?"
+  ],
+  [
+   99.56,
+   "MR. BOUFFARD",
+   "Justice Ginsburg, this law regulates abandoned motor vehicles. It's an abandoned motor vehicle law."
+  ],
+  [
+   105.56,
+   "JUSTICE GINSBURG",
+   "So -- so it would apply to a garage operator."
+  ],
+  [
+   108.32,
+   "MR. BOUFFARD",
+   "Well, if a garage operator came into possession of an abandoned motor vehicle, then I suppose it would. If -- if you look at the -- at the title to this subchapter of this New Hampshire statute, the title is abandoned vehicles, Your Honor."
+  ],
+  [
+   121.173,
+   "JUSTICE GINSBURG",
+   "Yes, but what made it abandoned was that they tried to locate the owner, couldn't and so -- this same thing could happen with a garage owner as happened to the towing truck. So there's nothing peculiar about being in the towing business that makes this storage application -- storage statute apply."
+  ],
+  [
+   142.66,
+   "MR. BOUFFARD",
+   "Well, let me be clear about this statute, Your Honor. It's an abandoned vehicle statute, and what's really important to understand with this case is that none of the Plaintiff's claims rely on this abandoned vehicle statute. The Plaintiff has pled in his complaint a couple of allegations of violations of this abandoned vehicle law, but the substantive rights that were sued upon by the Plaintiff in this case do not live in the abandoned motor vehicle law. The substantive rights that were sued upon by the Plaintiff live in the State's consumer protection law, which is a separate New Hampshire statute, unrelated to the abandoned vehicle law. And"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2012/12-52",
+  "page_url": "https://www.oyez.org/cases/2012/12-52",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 13, 2013",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/22097",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2012/12-52/20130513o_12-52.delivery.mp3",
+  "duration": 331.6505,
+  "mp3_bytes": 1433098,
+  "asr_elapsed_s": 105.1,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   610,
+   643,
+   640
+  ],
+  "diffs": [
+   [
+    0.0,
+    "Mr.",
+    "Justice"
+   ],
+   [
+    4.8,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    28.8,
+    "bars",
+    "bar"
+   ],
+   [
+    81.36,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    88.64,
+    "an",
+    "and"
+   ],
+   [
+    89.5,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    116.52,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    118.64,
+    "for",
+    "of"
+   ],
+   [
+    128.22,
+    "scheduled",
+    "schedule of"
+   ],
+   [
+    131.64,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    140.84,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    147.9,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    155.06,
+    "Dan City's",
+    "Dan's City"
+   ],
+   [
+    162.62,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    178.6,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    229.98,
+    "regress",
+    "redress"
+   ],
+   [
+    230.94,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    236.92,
+    "showing,",
+    "towing"
+   ],
+   [
+    243.98,
+    "it",
+    "he"
+   ],
+   [
+    263.76,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    283.36,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    298.28,
+    "Dan",
+    "Dan's"
+   ],
+   [
+    322.48,
+    "Congress's",
+    "Congress'"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 643,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Mr. Ginsburg has our opinion this morning in Case 1252, Dan City Used Cars v. Pelkey. This case"
+   ],
+   [
+    10.78,
+    "JUSTICE GINSBURG",
+    "concerns the preemptive scope of the Federal Aviation Administration Authorization Act of 1994, its acronym, F4A, an act about motor carriers, not airplanes. The F4A bars State laws related to a price, route, or service of any motor carrier with respect to the transportation of property. The question presented is whether that provision precludes State law claims stemming from the storage and disposal of towed vehicles. We hold it does not. Respondent Robert Pelkey owned a Honda Civic, which he parked in the lot of his apartment complex. Tenants were required to remove their cars in the event of a snowstorm, so the snow could be cleared. When it snowed heavily in February 2007 and Pelkey failed to remove his car, his landlord engaged Dan City Used Cars to tow and store the Honda. At the time, an unknown to Dan City, Pelkey was suffering from a grave medical condition. Soon thereafter, he had surgery, suffered a heart attack, and remained hospitalized for two months. New Hampshire's abandoned motor vehicle law allows storage companies to dispose of unclaimed cars if efforts to locate and notify the owner fail. Relying on that law, Dan City set an auction date for Pelkey's car. Pelkey learned of the upcoming auction upon his discharge from the hospital. Two days prior to the scheduled auction, Pelkey's attorney notified Dan City that Pelkey wished to reclaim the car and would pay charges due for towing and storage. Dan City nevertheless proceeded on its disposal course. Attracting no bidders at the auction, Dan City traded the car away. Receiving no proceeds from the sale, Pelkey sued Dan City's in New Hampshire State Court. He alleged that in selling his Honda, Dan City failed to meet requirements of New Hampshire's abandoned vehicle law. Consequently, Pelkey sought damages under New Hampshire's Consumer Protection Act and common law. The trial court granted summary judgment to Dan City, holding"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Mr. Ginsburg has our opinion this morning in Case 1252, Dan City Used Cars v. Pelkey. This case"
+   ],
+   [
+    10.78,
+    "JUSTICE GINSBURG",
+    "concerns the preemptive scope of the Federal Aviation Administration Authorization Act of 1994, its acronym, F4A, an act about motor carriers, not airplanes. The F4A bars State laws related to a price, route, or service of any motor carrier with respect to the transportation of property. The question presented is whether that provision precludes State law claims stemming from the storage and disposal of towed vehicles. We hold it does not. Respondent Robert Pelkey owned a Honda Civic, which he parked in the lot of his apartment complex. Tenants were required to remove their cars in the event of a snowstorm, so the snow could be cleared. When it snowed heavily in February 2007 and Pelkey failed to remove his car, his landlord engaged Dan City Used Cars to tow and store the Honda. At the time, an unknown to Dan City, Pelkey was suffering from a grave medical condition. Soon thereafter, he had surgery, suffered a heart attack, and remained hospitalized for two months. New Hampshire's abandoned motor vehicle law allows storage companies to dispose of unclaimed cars if efforts to locate and notify the owner fail. Relying on that law, Dan City set an auction date for Pelkey's car. Pelkey learned of the upcoming auction upon his discharge from the hospital. Two days prior to the scheduled auction, Pelkey's attorney notified Dan City that Pelkey wished to reclaim the car and would pay charges due for towing and storage. Dan City nevertheless proceeded on its disposal course. Attracting no bidders at the auction, Dan City traded the car away. Receiving no proceeds from the sale, Pelkey sued Dan City's in New Hampshire State Court. He alleged that in selling his Honda, Dan City failed to meet requirements of New Hampshire's abandoned vehicle law. Consequently, Pelkey sought damages under New Hampshire's Consumer Protection Act and common law. The trial court granted summary judgment to Dan City, holding that Pelkey's claims were preempted by the F-4A, but the New Hampshire Supreme Court reversed that judgment. The F-4A does not preempt Pelkey's suit the higher court held because his claims did not relate to the transportation of property or to a motor carrier's service. We affirm the judgment of the New Hampshire Supreme Court. The F-4A, as I said a moment ago, preempts State laws related to a price, route, or service of any motor carrier with respect to the transportation of property. Pelkey's claims are not preempted because they do not concern the transportation of property. He seeks regress for Dan City's disposal of his vehicle after transportation, by showing, had ended. Pelkey raises no objection to the manner in which his car was moved, nor does it question the price of the tow. He seeks compensation only for what happened once the car ceased moving and was stored. Furthermore, Pelkey's claims are unrelated to the service a motor carrier offers its customers. The transportation service Dan City provided was the removal of Pelkey's car from his landlord's parking lot. That service, which did involve the movement of property, ended months before the conduct of which Pelkey complains. We note the one-way street on which Dan City seeks to travel. The towing company relies on New Hampshire's abandoned vehicle law to justify selling the Honda, yet it would stop Pelkey from invoking that very same law to demand Dan City's compliance with owner protective provisions of the law. We note finally that via the F4A, Congress sought to prevent States from impeding the free flow of trade and transportation in interstate commerce. State law claims concerning the disposal of stored vehicles are a long distance from Congress's driving concern. This Court's decision affirming the New Hampshire Supreme Court's judgment is unanimous."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Mr. Ginsburg has our opinion this morning in Case 1252, Dan City Used Cars v. Pelkey."
+   ],
+   [
+    9.76,
+    "CHIEF JUSTICE ROBERTS",
+    "This case concerns the preemptive scope of the Federal Aviation Administration Authorization Act of 1994, its acronym, F4A, an act about motor carriers, not airplanes."
+   ],
+   [
+    27.1,
+    "JUSTICE GINSBURG",
+    "The F4A bars State laws related to a price, route, or service of any motor carrier with respect to the transportation of property."
+   ],
+   [
+    40.2,
+    "JUSTICE GINSBURG",
+    "The question presented is whether that provision precludes State law claims stemming from the storage and disposal of towed vehicles."
+   ],
+   [
+    52.32,
+    "JUSTICE GINSBURG",
+    "We hold it does not."
+   ],
+   [
+    55.04,
+    "JUSTICE GINSBURG",
+    "Respondent Robert Pelkey owned a Honda Civic, which he parked in the lot of his apartment complex."
+   ],
+   [
+    64.36,
+    "JUSTICE GINSBURG",
+    "Tenants were required to remove their cars in the event of a snowstorm, so the snow could be cleared."
+   ],
+   [
+    72.4,
+    "JUSTICE GINSBURG",
+    "When it snowed heavily in February 2007 and Pelkey failed to remove his car, his landlord engaged Dan City Used Cars to tow and store the Honda."
+   ],
+   [
+    87.6,
+    "JUSTICE GINSBURG",
+    "At the time, an unknown to Dan City, Pelkey was suffering from a grave medical condition."
+   ],
+   [
+    94.4,
+    "JUSTICE GINSBURG",
+    "Soon thereafter, he had surgery, suffered a heart attack, and remained hospitalized for two months."
+   ],
+   [
+    101.74,
+    "JUSTICE GINSBURG",
+    "New Hampshire's abandoned motor vehicle law allows storage companies to dispose of unclaimed cars if efforts to locate and notify the owner fail."
+   ],
+   [
+    115.18,
+    "JUSTICE GINSBURG",
+    "Relying on that law, Dan City set an auction date for Pelkey's car."
+   ],
+   [
+    121.22,
+    "JUSTICE GINSBURG",
+    "Pelkey learned of the upcoming auction upon his discharge from the hospital."
+   ],
+   [
+    126.74,
+    "JUSTICE GINSBURG",
+    "Two days prior to the scheduled auction, Pelkey's attorney notified Dan City that Pelkey wished to reclaim the car and would pay charges due for towing and storage."
+   ],
+   [
+    140.84,
+    "JUSTICE GINSBURG",
+    "Dan City nevertheless proceeded on its disposal course."
+   ],
+   [
+    145.78,
+    "JUSTICE GINSBURG",
+    "Attracting no bidders at the auction, Dan City traded the car away."
+   ],
+   [
+    151.4,
+    "JUSTICE GINSBURG",
+    "Receiving no proceeds from the sale, Pelkey sued Dan City's in New Hampshire State Court."
+   ],
+   [
+    159.74,
+    "JUSTICE GINSBURG",
+    "He alleged that in selling his Honda, Dan City failed to meet requirements of New Hampshire's abandoned vehicle law."
+   ],
+   [
+    169.5,
+    "JUSTICE GINSBURG",
+    "Consequently, Pelkey sought damages under New Hampshire's Consumer Protection Act and common law."
+   ],
+   [
+    176.16,
+    "JUSTICE GINSBURG",
+    "The trial court granted summary judgment to Dan City, holding that Pelkey's claims were preempted by the F-4A, but the New Hampshire Supreme Court reversed that judgment."
+   ],
+   [
+    188.62,
+    "JUSTICE GINSBURG",
+    "The F-4A does not preempt Pelkey's suit the higher court held because his claims did not relate to the transportation of property or to a motor carrier's service."
+   ],
+   [
+    203.42,
+    "JUSTICE GINSBURG",
+    "We affirm the judgment of the New Hampshire Supreme Court."
+   ],
+   [
+    207.54,
+    "JUSTICE GINSBURG",
+    "The F-4A, as I said a moment ago, preempts State laws related to a price, route, or service of any motor carrier with respect to the transportation of property."
+   ],
+   [
+    222.42,
+    "JUSTICE GINSBURG",
+    "Pelkey's claims are not preempted because they do not concern the transportation of property."
+   ],
+   [
+    229.64,
+    "JUSTICE GINSBURG",
+    "He seeks regress for Dan City's disposal of his vehicle after transportation, by showing, had ended."
+   ],
+   [
+    239.02,
+    "JUSTICE GINSBURG",
+    "Pelkey raises no objection to the manner in which his car was moved, nor does it question the price of the tow."
+   ],
+   [
+    246.44,
+    "JUSTICE GINSBURG",
+    "He seeks compensation only for what happened once the car ceased moving and was stored."
+   ],
+   [
+    255.92,
+    "JUSTICE GINSBURG",
+    "Furthermore, Pelkey's claims are unrelated to the service a motor carrier offers its customers."
+   ],
+   [
+    262.18,
+    "JUSTICE GINSBURG",
+    "The transportation service Dan City provided was the removal of Pelkey's car from his landlord's parking lot."
+   ],
+   [
+    269.96,
+    "JUSTICE GINSBURG",
+    "That service, which did involve the movement of property, ended months before the conduct of which Pelkey complains."
+   ],
+   [
+    280.92,
+    "JUSTICE GINSBURG",
+    "We note the one-way street on which Dan City seeks to travel."
+   ],
+   [
+    285.78,
+    "JUSTICE GINSBURG",
+    "The towing company relies on New Hampshire's abandoned vehicle law to justify selling the Honda, yet it would stop Pelkey from invoking that very same law to demand Dan City's compliance with owner protective provisions of the law."
+   ],
+   [
+    304.38,
+    "JUSTICE GINSBURG",
+    "We note finally that via the F4A, Congress sought to prevent States from impeding the free flow of trade and transportation in interstate commerce."
+   ],
+   [
+    315.96,
+    "JUSTICE GINSBURG",
+    "State law claims concerning the disposal of stored vehicles are a long distance from Congress's driving concern."
+   ],
+   [
+    324.46,
+    "JUSTICE GINSBURG",
+    "This Court's decision affirming the New Hampshire Supreme Court's judgment is unanimous."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    10.78,
+    18
+   ],
+   [
+    "JUSTICE GINSBURG",
+    10.78,
+    330.56,
+    621
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "12-52",
+ "year": "2012",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2012/12-52",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/12-52.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2012/12-52_d1oe.pdf",
+ "model": "small.en",
+ "duration": 3559.157551,
+ "asr_elapsed_s": 1389.2,
+ "asr_words": 9171,
+ "official_words": 9336,
+ "matched": 8861,
+ "shared": 6,
+ "clamped": 0,
+ "trimmed": 36,
+ "rewindowed": 1,
+ "match_rate": 94.9121679520137,
+ "turns": 176,
+ "laugh_markers": 9,
+ "mp3_bytes": 28473513,
+ "pauses": 466,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 226,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.91% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-28"
+}
