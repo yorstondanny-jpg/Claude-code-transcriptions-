@@ -1,0 +1,350 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 2300.973,
+   "next": 2300.973,
+   "speaker": "JUSTICE BREYER",
+   "before": "ended up on his side. Now, that's a little complicated, but that's where I am at the moment. What do you want to say? A lot, Your Honor. All right.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2725.79,
+   "next": 2726.61,
+   "speaker": "JUSTICE ALITO",
+   "before": "not be sufficient to fulfill that obligation and then specifies a secondary source. I mean, if my -- if my wife gives me a carrot for dinner to satisfy my hunger --",
+   "pause": 0.82,
+   "loud_s": 0.7,
+   "mean_over": 25.7,
+   "peak_over": 33.5,
+   "size": "medium"
+  },
+  {
+   "t": 2743.65,
+   "next": 2743.65,
+   "speaker": "MR. LEGNER",
+   "before": "lots of other stuff so that I won't be hungry anymore, I don't know -- does that make the carrot sufficient to satisfy my hunger? No, Your Honor. In -- in that --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2753.71,
+   "next": 2755.41,
+   "speaker": "JUSTICE BREYER",
+   "before": "-- it would probably, you know, be an instance of discretion to -- Suppose she knows -- suppose she knows that he is going to eat that delicious turkey sandwich in the refrigerator.",
+   "pause": 1.7,
+   "loud_s": 1.55,
+   "mean_over": 29.7,
+   "peak_over": 37.5,
+   "size": "big"
+  },
+  {
+   "t": 2759.83,
+   "next": 2762.61,
+   "speaker": "JUSTICE BREYER",
+   "before": "knows that he is going to eat that delicious turkey sandwich in the refrigerator. Now -- now the carrots are just enough to fill up that little hole that will remain.",
+   "pause": 2.78,
+   "loud_s": 2.4,
+   "mean_over": 26.7,
+   "peak_over": 32.9,
+   "size": "big"
+  },
+  {
+   "t": 2766.61,
+   "next": 2766.61,
+   "speaker": "MR. LEGNER",
+   "before": "that delicious turkey sandwich in the refrigerator. Now -- now the carrots are just enough to fill up that little hole that will remain. But -- but -- true, but in that circumstance --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2787.25,
+   "next": 2789.93,
+   "speaker": "JUSTICE SOTOMAYOR",
+   "before": "if that is ultimately not sufficient, they can -- But that's not. It's up to 25 percent. They didn't say 25 percent. Well, for instance -- Twenty-five percent of what she cooks.",
+   "pause": 2.68,
+   "loud_s": 1.8,
+   "mean_over": 27.5,
+   "peak_over": 35.6,
+   "size": "big"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -52.6,
+ "opening_start": 10.04,
+ "opening": [
+  [
+   10.04,
+   "MR. BANNER",
+   "Mr. Chief Justice, and may it please the Court: When a prisoner wins a civil rights case and he's awarded damages and he's awarded attorney's fees, the prisoner himself has to pay part of the fees out of the damages judgment. The statute at issue in this case specifies the size of the prisoner's share. This is what the statute says: \"A portion of the judgment (not to exceed 25 percent) shall be applied to satisfy the amount of attorney's fees.\" In the 20-plus years since the statute was enacted, virtually all the district courts have interpreted it literally. They identify an appropriate portion of the judgment, not exceeding 25 percent, and they deduct that amount from the attorney fee award payable by the defendant. In our case, the Seventh Circuit read the statute differently to mean that attorney's fees must be taken out of the damages first, up to 25 percent of the damages, so that the defendant is only liable for any fees left over. But the statute does not say that. All it says is that the portion of the judgment -- is that a portion of the judgment no greater than 25 percent must be allocated to fees. Respondents mistakenly suggest that Congress's use of the word \"satisfy\" indicates that the plaintiff has to pay the largest possible share of the fees in all cases. But that can't be right because the statute itself says what share the plaintiff has to pay: a portion of the judgment, not exceeding 25 percent. The rest of the attorney's fee award in excess of the plaintiff's share is payable by the defendant, up to the statutory cap of 150 percent of the damages. There's nothing in the statute --"
+  ],
+  [
+   111.46,
+   "JUSTICE SOTOMAYOR",
+   "Your adversary points to a number of statutes that use the verb \"to satisfy\" -- or I guess not the verb, but the proposition \"to satisfy\" -- to refer to the complete fulfillment of an obligation. How do you distinguish those examples?"
+  ],
+  [
+   130.44,
+   "MR. BANNER",
+   "The word \"satisfy\" often means the complete fulfillment of an obligation, but in this statute, it can't mean that because the statute makes clear that the plaintiff doesn't have to completely fulfill the obligation to pay attorney's fees. The statute says exactly how much."
+  ],
+  [
+   146.26,
+   "JUSTICE KENNEDY",
+   "Well, it's sensible to have a cap. It's just a cap."
+  ],
+  [
+   149.26,
+   "MR. BANNER",
+   "Well, exactly. It's a cap. It's a 25 percent cap. That's right. It's -- it's -- the statute says that the plaintiff's share of the attorney's fees is 25 percent or less of the judgment."
+  ],
+  [
+   161.3,
+   "CHIEF JUSTICE ROBERTS",
+   "Well, but you start with the notion of satisfaction; in other words, satisfying a debt. I mean, if you owe somebody $100 and you give them 50, that person isn't going to say, well, you've satisfied your obligation."
+  ],
+  [
+   171.74,
+   "MR. BANNER",
+   "No, that's right. And so the -- the -- the word \"satisfy\" standing alone sometimes often does mean complete payment, but that would make nonsense of the text of this statute. The text of this statute makes clear that the plaintiff doesn't have to pay the attorney's fees completely."
+  ],
+  [
+   187.06,
+   "CHIEF JUSTICE ROBERTS",
+   "No, no, I understand the point."
+  ],
+  [
+   187.94,
+   "MR. BANNER",
+   "Yeah."
+  ],
+  [
+   187.94,
+   "CHIEF JUSTICE ROBERTS",
+   "But I'm just suggesting that that's not certainly"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2017/16-1067",
+  "page_url": "https://www.oyez.org/cases/2017/16-1067",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - February 21, 2018",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24697",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2017/16-1067/16-1067_20180221-opinion.delivery.mp3",
+  "duration": 118.465306,
+  "mp3_bytes": 503739,
+  "asr_elapsed_s": 136.7,
+  "trimmed": 0,
+  "rewindowed": 1,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   280,
+   288,
+   290
+  ],
+  "diffs": [
+   [
+    56.84,
+    "Circuit",
+    "Circuit's interpretation"
+   ],
+   [
+    58.82,
+    "no context.",
+    "the better of the text."
+   ],
+   [
+    67.82,
+    "word",
+    "words"
+   ],
+   [
+    91.38,
+    "the",
+    "that"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 288,
+  "opening": [
+   [
+    2.04,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Gorsuch has our opinion this morning in Case 16-1067, Murphy v. Smith."
+   ],
+   [
+    9.4,
+    "JUSTICE GORSUCH",
+    "This case comes to us from the United States Court of Appeals for the Seventh Circuit. When a prisoner wins a civil rights suit and is awarded attorney's fees, a Federal statute says that, quote, a portion of the judgment not to exceed 25 percent shall be applied to satisfy the amount of attorney's fees awarded. We took this case to resolve a split of authority about how much of the judgment must be so applied. Some circuits have said that district courts have discretion to select the amount a prisoner must pay out of the judgment to his lawyer. By contrast, the Seventh Circuit held that the district court must apply as much of the judgment as necessary, subject to the 25 percent cap, to satisfy the fee award. We think the Seventh Circuit has no context. The statute is phrased in mandatory terms. It says, shall be applied, not may, and it uses no word suggesting discretion. The text also specifies the purpose the district court must pursue when apportioning fees to satisfy the attorney's fee award. And the word satisfy, especially when used in the context of a financial obligation, usually means full payment. Putting these textual clues together, we think the statute tells us the district court must try to fully discharge the fee award from the prisoner's judgment, subject to the 25 percent cap. As our opinion explains, the broader statutory context and our precedent also confirm this result. The judgment of the court of appeals for the Seventh Circuit is therefore affirmed. Justice Sotomayor has filed a dissenting opinion in which Justices Ginsburg, Breyer, and Kagan have joined."
+   ]
+  ],
+  "full_text": [
+   [
+    2.04,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Gorsuch has our opinion this morning in Case 16-1067, Murphy v. Smith."
+   ],
+   [
+    9.4,
+    "JUSTICE GORSUCH",
+    "This case comes to us from the United States Court of Appeals for the Seventh Circuit. When a prisoner wins a civil rights suit and is awarded attorney's fees, a Federal statute says that, quote, a portion of the judgment not to exceed 25 percent shall be applied to satisfy the amount of attorney's fees awarded. We took this case to resolve a split of authority about how much of the judgment must be so applied. Some circuits have said that district courts have discretion to select the amount a prisoner must pay out of the judgment to his lawyer. By contrast, the Seventh Circuit held that the district court must apply as much of the judgment as necessary, subject to the 25 percent cap, to satisfy the fee award. We think the Seventh Circuit has no context. The statute is phrased in mandatory terms. It says, shall be applied, not may, and it uses no word suggesting discretion. The text also specifies the purpose the district court must pursue when apportioning fees to satisfy the attorney's fee award. And the word satisfy, especially when used in the context of a financial obligation, usually means full payment. Putting these textual clues together, we think the statute tells us the district court must try to fully discharge the fee award from the prisoner's judgment, subject to the 25 percent cap. As our opinion explains, the broader statutory context and our precedent also confirm this result. The judgment of the court of appeals for the Seventh Circuit is therefore affirmed. Justice Sotomayor has filed a dissenting opinion in which Justices Ginsburg, Breyer, and Kagan have joined."
+   ]
+  ],
+  "sentences": [
+   [
+    2.04,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Gorsuch has our opinion this morning in Case 16-1067, Murphy v. Smith."
+   ],
+   [
+    9.4,
+    "JUSTICE GORSUCH",
+    "This case comes to us from the United States Court of Appeals for the Seventh Circuit."
+   ],
+   [
+    14.26,
+    "JUSTICE GORSUCH",
+    "When a prisoner wins a civil rights suit and is awarded attorney's fees, a Federal statute says that, quote, a portion of the judgment not to exceed 25 percent shall be applied to satisfy the amount of attorney's fees awarded."
+   ],
+   [
+    28.82,
+    "JUSTICE GORSUCH",
+    "We took this case to resolve a split of authority about how much of the judgment must be so applied."
+   ],
+   [
+    35.84,
+    "JUSTICE GORSUCH",
+    "Some circuits have said that district courts have discretion to select the amount a prisoner must pay out of the judgment to his lawyer."
+   ],
+   [
+    43.02,
+    "JUSTICE GORSUCH",
+    "By contrast, the Seventh Circuit held that the district court must apply as much of the judgment as necessary, subject to the 25 percent cap, to satisfy the fee award."
+   ],
+   [
+    55.06,
+    "JUSTICE GORSUCH",
+    "We think the Seventh Circuit has no context."
+   ],
+   [
+    61.06,
+    "JUSTICE GORSUCH",
+    "The statute is phrased in mandatory terms."
+   ],
+   [
+    63.84,
+    "JUSTICE GORSUCH",
+    "It says, shall be applied, not may, and it uses no word suggesting discretion."
+   ],
+   [
+    70.36,
+    "JUSTICE GORSUCH",
+    "The text also specifies the purpose the district court must pursue when apportioning fees to satisfy the attorney's fee award."
+   ],
+   [
+    79.88,
+    "JUSTICE GORSUCH",
+    "And the word satisfy, especially when used in the context of a financial obligation, usually means full payment."
+   ],
+   [
+    87.3,
+    "JUSTICE GORSUCH",
+    "Putting these textual clues together, we think the statute tells us the district court must try to fully discharge the fee award from the prisoner's judgment, subject to the 25 percent cap."
+   ],
+   [
+    100.66,
+    "JUSTICE GORSUCH",
+    "As our opinion explains, the broader statutory context and our precedent also confirm this result."
+   ],
+   [
+    108.02,
+    "JUSTICE GORSUCH",
+    "The judgment of the court of appeals for the Seventh Circuit is therefore affirmed."
+   ],
+   [
+    112.18,
+    "JUSTICE GORSUCH",
+    "Justice Sotomayor has filed a dissenting opinion in which Justices Ginsburg, Breyer, and Kagan have joined."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    2.04,
+    8.02,
+    13
+   ],
+   [
+    "JUSTICE GORSUCH",
+    9.4,
+    117.7,
+    274
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "16-1067",
+ "year": "2017",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2017/16-1067",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/16-1067.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/16-1067_m6hn.pdf",
+ "model": "medium.en",
+ "duration": 3183.432,
+ "asr_elapsed_s": 4960.1,
+ "asr_words": 8270,
+ "official_words": 8477,
+ "matched": 8001,
+ "shared": 5,
+ "clamped": 0,
+ "trimmed": 21,
+ "rewindowed": 0,
+ "match_rate": 94.3848059454996,
+ "turns": 257,
+ "laugh_markers": 7,
+ "mp3_bytes": 25467693,
+ "pauses": 337,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 299,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.38% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-29"
+}

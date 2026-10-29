@@ -1,0 +1,14 @@
+[
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 2.04,
+  "e": 8.02,
+  "text": "Justice Gorsuch has our opinion this morning in Case 16-1067, Murphy v. Smith."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 9.4,
+  "e": 117.7,
+  "text": "This case comes to us from the United States Court of Appeals for the Seventh Circuit. When a prisoner wins a civil rights suit and is awarded attorney's fees, a Federal statute says that, quote, a portion of the judgment not to exceed 25 percent shall be applied to satisfy the amount of attorney's fees awarded. We took this case to resolve a split of authority about how much of the judgment must be so applied. Some circuits have said that district courts have discretion to select the amount a prisoner must pay out of the judgment to his lawyer. By contrast, the Seventh Circuit held that the district court must apply as much of the judgment as necessary, subject to the 25 percent cap, to satisfy the fee award. We think the Seventh Circuit has no context. The statute is phrased in mandatory terms. It says, shall be applied, not may, and it uses no word suggesting discretion. The text also specifies the purpose the district court must pursue when apportioning fees to satisfy the attorney's fee award. And the word satisfy, especially when used in the context of a financial obligation, usually means full payment. Putting these textual clues together, we think the statute tells us the district court must try to fully discharge the fee award from the prisoner's judgment, subject to the 25 percent cap. As our opinion explains, the broader statutory context and our precedent also confirm this result. The judgment of the court of appeals for the Seventh Circuit is therefore affirmed. Justice Sotomayor has filed a dissenting opinion in which Justices Ginsburg, Breyer, and Kagan have joined."
+ }
+]

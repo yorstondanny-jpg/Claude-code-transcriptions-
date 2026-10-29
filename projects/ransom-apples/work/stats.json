@@ -1,0 +1,404 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 298.94,
+   "next": 300.44,
+   "speaker": "JUSTICE SCALIA",
+   "before": "you're getting the credit for is simply -- is simply false. You don't do that under either side's interpretation, right? Again, I would perhaps -- I'm trying to help you, Mr. Burke.",
+   "pause": 1.5,
+   "loud_s": 1.35,
+   "mean_over": 26.0,
+   "peak_over": 33.4,
+   "size": "big"
+  },
+  {
+   "t": 548.96,
+   "next": 548.96,
+   "speaker": "JUSTICE BREYER",
+   "before": "dozen apples every month, and they cost you $48 extra. You're not going to say the ownership costs refer to the apples, even if you decorate the car with them.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -48.5,
+ "opening_start": 12.22,
+ "opening": [
+  [
+   12.22,
+   "MR. BURKE",
+   "Thank you, Mr. Chief Justice, and may it please the Court: In 2005, Congress passed the Bankruptcy Act. It made a policy decision to limit judicial discretion on a case-by-case basis in the area of reasonable and necessary expenses. It did so by creating a formula that entailed an aggregate set amount of expenses for an individual. Now, Congress could have created this from scratch. It could have used an arbitrary figure. But instead, there were figures that the IRS already had, based on Census Bureau statistics, that said nationwide, in a certain area, an individual would spend this much a month on average. In the case of Mr. Ransom, that's approximately 2500 a month. Forgetting about how it's divided up, if I had 100 people come in and answer the following five questions the same way Mr. Ransom did, and that's age, location, household size, gross income, and if you have a vehicle, how many, they would all get a $2500 standard aggregate deduction, which works out to $150,000 over a 5-year period. Now, the crux of this is whether or not courts are allowed to dig in and cut out pieces of the standard aggregate amount."
+  ],
+  [
+   105.48,
+   "JUSTICE ALITO",
+   "Why is that the crux of it? Congress made reference to the local standards, right?"
+  ],
+  [
+   111.04,
+   "MR. BURKE",
+   "Yes."
+  ],
+  [
+   111.3,
+   "JUSTICE ALITO",
+   "And were the -- was the commentary in the Collection Financial Standards in existence at the time when Congress enacted this provision?"
+  ],
+  [
+   123.18,
+   "MR. BURKE",
+   "There was a Collection Financial Analysis that was in place, and it was noted in 1998 as a prior version of the bill that ultimately wasn't passed."
+  ],
+  [
+   133.92,
+   "JUSTICE ALITO",
+   "And that explains what the IRS understands the local standards to mean; isn't that right?"
+  ],
+  [
+   139.56,
+   "MR. BURKE",
+   "I would disagree with that. I would say -- well, it would -- it would explain what the IRS means, but that's where I would end it, because the IRS standards are used to collect taxes. They are discretionary. They --"
+  ],
+  [
+   154.9,
+   "JUSTICE ALITO",
+   "Well, I understand that, but Congress decided to make reference to the local standards in this bankruptcy provision, didn't it?"
+  ],
+  [
+   161.84,
+   "MR. BURKE",
+   "Standards."
+  ],
+  [
+   162.76,
+   "JUSTICE ALITO",
+   "Yes."
+  ],
+  [
+   163.94,
+   "MR. BURKE",
+   "It didn't go beyond that."
+  ],
+  [
+   164.2,
+   "JUSTICE ALITO",
+   "And this -- and at the time when it did that, there was official IRS commentary regarding the meaning of those standards, correct?"
+  ],
+  [
+   173.5,
+   "MR. BURKE",
+   "For the IRS to use in collecting taxes."
+  ],
+  [
+   175.58,
+   "JUSTICE ALITO",
+   "And your argument is that Congress intended to adopt the standards promulgated by the IRS, but not the IRS's interpretation of the standards."
+  ],
+  [
+   186.34,
+   "MR. BURKE",
+   "Correct, not their methodology or interpretation."
+  ],
+  [
+   188.62,
+   "JUSTICE GINSBURG",
+   "Doesn't the chart say \"ownership"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2010/09-907",
+  "page_url": "https://www.oyez.org/cases/2010/09-907",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - January 11, 2011",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23197",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2010/09-907/20110111o_09-907.delivery.mp3",
+  "duration": 283.925,
+  "mp3_bytes": 1241172,
+  "asr_elapsed_s": 140.6,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   603,
+   632,
+   619
+  ],
+  "diffs": [
+   [
+    60.4,
+    "amount",
+    "amounts"
+   ],
+   [
+    110.6,
+    "claimed",
+    "claims"
+   ],
+   [
+    127.76,
+    "would have",
+    "would've"
+   ],
+   [
+    173.62,
+    "reach",
+    "reached"
+   ],
+   [
+    180.92,
+    "and I'm quoting here,",
+    ""
+   ],
+   [
+    190.52,
+    "a",
+    "the"
+   ],
+   [
+    235.2,
+    "make",
+    "made"
+   ],
+   [
+    244.88,
+    "Congress's",
+    "Congress'"
+   ],
+   [
+    264.3,
+    "deduct",
+    "deducts"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 632,
+  "opening": [
+   [
+    0.84,
+    "JUSTICE KAGAN",
+    "This case is about the proper interpretation of the Bankruptcy Code. In what's called Chapter 13 Bankruptcy, a person can get relief from all his debts in exchange for an agreement, an agreement to repay his creditors a certain amount of his future income for the next several years. The Bankruptcy Code instructs a person in this situation how to calculate the exact amount that he has to repay his creditors. The Code says to that person, first you take your current income, then you deduct certain defined living expenses. Those defined expenses, the Bankruptcy Code says, are set amounts, not necessarily your actual expenses, but set amounts that the IRS decides are reasonable for various necessary things, like housing or transportation or food. You deduct those expenses from your income, and what's left over is the amount that you are required to repay creditors. Now, the issue in this case is whether the Bankruptcy Code allows a debtor who's making this calculation to deduct an expense that he simply does not have. The expense at issue is for car ownership. The IRS, and again, that's the agency that's authorized to set these reasonable expenses, the IRS says that the average loan or lease payment for a car nationwide is $471 a month. And so the IRS says that's the amount that a person typically can deduct in Chapter 13 Bankruptcy. That's the amount of the car ownership deduction. The petitioner here, whose name is Jason Ransom, he claimed this deduction even though he owned his car free and clear, and he didn't, in fact, make any loan or lease payments on this car. And claiming this deduction allowed him to shield about $28,000 that he otherwise would have had to pay his creditors over the life of his Bankruptcy plan. And he took the car ownership deduction in addition to claiming another deduction that the IRS sets for car operating costs, like fuel and insurance and repairs. So one of his creditors, perhaps not surprisingly, objected. That creditor said that Mr. Ransom wasn't eligible to claim the car ownership deduction because he didn't, in fact, incur any car ownership costs. Today, we hold that this was a valid objection, that Mr. Ransom was not entitled to this deduction under the Bankruptcy Code. We reach this conclusion by looking closely at the language of the statute. The statute authorizes a debtor to deduct,"
+   ]
+  ],
+  "full_text": [
+   [
+    0.84,
+    "JUSTICE KAGAN",
+    "This case is about the proper interpretation of the Bankruptcy Code. In what's called Chapter 13 Bankruptcy, a person can get relief from all his debts in exchange for an agreement, an agreement to repay his creditors a certain amount of his future income for the next several years. The Bankruptcy Code instructs a person in this situation how to calculate the exact amount that he has to repay his creditors. The Code says to that person, first you take your current income, then you deduct certain defined living expenses. Those defined expenses, the Bankruptcy Code says, are set amounts, not necessarily your actual expenses, but set amounts that the IRS decides are reasonable for various necessary things, like housing or transportation or food. You deduct those expenses from your income, and what's left over is the amount that you are required to repay creditors. Now, the issue in this case is whether the Bankruptcy Code allows a debtor who's making this calculation to deduct an expense that he simply does not have. The expense at issue is for car ownership. The IRS, and again, that's the agency that's authorized to set these reasonable expenses, the IRS says that the average loan or lease payment for a car nationwide is $471 a month. And so the IRS says that's the amount that a person typically can deduct in Chapter 13 Bankruptcy. That's the amount of the car ownership deduction. The petitioner here, whose name is Jason Ransom, he claimed this deduction even though he owned his car free and clear, and he didn't, in fact, make any loan or lease payments on this car. And claiming this deduction allowed him to shield about $28,000 that he otherwise would have had to pay his creditors over the life of his Bankruptcy plan. And he took the car ownership deduction in addition to claiming another deduction that the IRS sets for car operating costs, like fuel and insurance and repairs. So one of his creditors, perhaps not surprisingly, objected. That creditor said that Mr. Ransom wasn't eligible to claim the car ownership deduction because he didn't, in fact, incur any car ownership costs. Today, we hold that this was a valid objection, that Mr. Ransom was not entitled to this deduction under the Bankruptcy Code. We reach this conclusion by looking closely at the language of the statute. The statute authorizes a debtor to deduct, and I'm quoting here, his applicable monthly expense amounts that are set by the IRS. Applicable, if you go and you look it up in a dictionary, means appropriate or relevant or fit. And we conclude that when the statute says applicable expense amounts, what the statute means is the expense amounts or deductions, that's another word for it, the deductions that are appropriate for that debtor. And the deductions that are appropriate for that debtor are the ones that correspond to his own financial circumstances. So a person who doesn't have any car ownership expenses can't take a deduction for car ownership. We also think that this understanding of the statutory language accords with the context and purpose of the statute. Other provisions of the statute make clear that Congress intended the deductions to approximate the debtor's reasonable expenditures on basic necessities. And Congress's essential purpose in enacting this part of the Code was to ensure that debtors who can pay creditors do pay them. So once again, we think this means that a person like Mr. Ransom, who doesn't have any car ownership expenses, shouldn't be able to deduct them when calculating how much he has available to repay creditors. We therefore affirm the judgment of the court of appeals for the Ninth Circuit, which previously disapproved this deduction. Justice Scalia has filed a dissenting opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.84,
+    "JUSTICE KAGAN",
+    "This case is about the proper interpretation of the Bankruptcy Code."
+   ],
+   [
+    5.56,
+    "JUSTICE KAGAN",
+    "In what's called Chapter 13 Bankruptcy, a person can get relief from all his debts in exchange for an agreement, an agreement to repay his creditors a certain amount of his future income for the next several years."
+   ],
+   [
+    20.2,
+    "JUSTICE KAGAN",
+    "The Bankruptcy Code instructs a person in this situation how to calculate the exact amount that he has to repay his creditors."
+   ],
+   [
+    28.54,
+    "JUSTICE KAGAN",
+    "The Code says to that person, first you take your current income, then you deduct certain defined living expenses."
+   ],
+   [
+    38.1,
+    "JUSTICE KAGAN",
+    "Those defined expenses, the Bankruptcy Code says, are set amounts, not necessarily your actual expenses, but set amounts that the IRS decides are reasonable for various necessary things, like housing or transportation or food."
+   ],
+   [
+    55.24,
+    "JUSTICE KAGAN",
+    "You deduct those expenses from your income, and what's left over is the amount that you are required to repay creditors."
+   ],
+   [
+    64.58,
+    "JUSTICE KAGAN",
+    "Now, the issue in this case is whether the Bankruptcy Code allows a debtor who's making this calculation to deduct an expense that he simply does not have."
+   ],
+   [
+    75.7,
+    "JUSTICE KAGAN",
+    "The expense at issue is for car ownership."
+   ],
+   [
+    78.62,
+    "JUSTICE KAGAN",
+    "The IRS, and again, that's the agency that's authorized to set these reasonable expenses, the IRS says that the average loan or lease payment for a car nationwide is $471 a month."
+   ],
+   [
+    94.56,
+    "JUSTICE KAGAN",
+    "And so the IRS says that's the amount that a person typically can deduct in Chapter 13 Bankruptcy."
+   ],
+   [
+    103.32,
+    "JUSTICE KAGAN",
+    "That's the amount of the car ownership deduction."
+   ],
+   [
+    106.72,
+    "JUSTICE KAGAN",
+    "The petitioner here, whose name is Jason Ransom, he claimed this deduction even though he owned his car free and clear, and he didn't, in fact, make any loan or lease payments on this car."
+   ],
+   [
+    121.46,
+    "JUSTICE KAGAN",
+    "And claiming this deduction allowed him to shield about $28,000 that he otherwise would have had to pay his creditors over the life of his Bankruptcy plan."
+   ],
+   [
+    132.66,
+    "JUSTICE KAGAN",
+    "And he took the car ownership deduction in addition to claiming another deduction that the IRS sets for car operating costs, like fuel and insurance and repairs."
+   ],
+   [
+    146.18,
+    "JUSTICE KAGAN",
+    "So one of his creditors, perhaps not surprisingly, objected."
+   ],
+   [
+    150.7,
+    "JUSTICE KAGAN",
+    "That creditor said that Mr. Ransom wasn't eligible to claim the car ownership deduction because he didn't, in fact, incur any car ownership costs."
+   ],
+   [
+    162.48,
+    "JUSTICE KAGAN",
+    "Today, we hold that this was a valid objection, that Mr. Ransom was not entitled to this deduction under the Bankruptcy Code."
+   ],
+   [
+    173.36,
+    "JUSTICE KAGAN",
+    "We reach this conclusion by looking closely at the language of the statute."
+   ],
+   [
+    178.18,
+    "JUSTICE KAGAN",
+    "The statute authorizes a debtor to deduct, and I'm quoting here, his applicable monthly expense amounts that are set by the IRS."
+   ],
+   [
+    188.32,
+    "JUSTICE KAGAN",
+    "Applicable, if you go and you look it up in a dictionary, means appropriate or relevant or fit."
+   ],
+   [
+    195.24,
+    "JUSTICE KAGAN",
+    "And we conclude that when the statute says applicable expense amounts, what the statute means is the expense amounts or deductions, that's another word for it, the deductions that are appropriate for that debtor."
+   ],
+   [
+    209.22,
+    "JUSTICE KAGAN",
+    "And the deductions that are appropriate for that debtor are the ones that correspond to his own financial circumstances."
+   ],
+   [
+    217.9,
+    "JUSTICE KAGAN",
+    "So a person who doesn't have any car ownership expenses can't take a deduction for car ownership."
+   ],
+   [
+    226.2,
+    "JUSTICE KAGAN",
+    "We also think that this understanding of the statutory language accords with the context and purpose of the statute."
+   ],
+   [
+    233.66,
+    "JUSTICE KAGAN",
+    "Other provisions of the statute make clear that Congress intended the deductions to approximate the debtor's reasonable expenditures on basic necessities."
+   ],
+   [
+    244.36,
+    "JUSTICE KAGAN",
+    "And Congress's essential purpose in enacting this part of the Code was to ensure that debtors who can pay creditors do pay them."
+   ],
+   [
+    254.26,
+    "JUSTICE KAGAN",
+    "So once again, we think this means that a person like Mr. Ransom, who doesn't have any car ownership expenses, shouldn't be able to deduct them when calculating how much he has available to repay creditors."
+   ],
+   [
+    271.04,
+    "JUSTICE KAGAN",
+    "We therefore affirm the judgment of the court of appeals for the Ninth Circuit, which previously disapproved this deduction."
+   ],
+   [
+    280.96,
+    "JUSTICE KAGAN",
+    "Justice Scalia has filed a dissenting opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "JUSTICE KAGAN",
+    0.84,
+    283.26,
+    631
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "09-907",
+ "year": "2010",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2010/09-907",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/09-907.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2010/09-907.pdf",
+ "model": "small.en",
+ "duration": 3533.557551,
+ "asr_elapsed_s": 2231.8,
+ "asr_words": 9930,
+ "official_words": 10030,
+ "matched": 9492,
+ "shared": 4,
+ "clamped": 0,
+ "trimmed": 27,
+ "rewindowed": 0,
+ "match_rate": 94.63609172482552,
+ "turns": 273,
+ "laugh_markers": 2,
+ "mp3_bytes": 28268713,
+ "pauses": 456,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 219,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.64% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-29"
+}

@@ -1,0 +1,86 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1046.1,
+   "next": 1046.96,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "enforce the award. Congress did not repeat that language in Section 9 or in Section 10. So you could call them an arbitration rat or a judicial lion, I suppose.",
+   "pause": 0.86,
+   "loud_s": 0.75,
+   "mean_over": 26.7,
+   "peak_over": 31.0,
+   "size": "medium"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -42.0,
+ "opening_start": 7.92,
+ "opening": [
+  [
+   7.92,
+   "MR. GEYSER",
+   "Thank you, Mr. Chief Justice, and may it please the Court: The question presented is whether Vaden's look-through approach applies to applications to enforce or vacate an arbitration award under Sections 9 and 10 of the Federal Arbitration Act. The answer is controlled by the FAA's plain text, and the competing statutory arguments are not close. The look-through approach is no ordinary jurisdictional doctrine. It is an express textual departure from the well-pleaded complaint rule. This textual exception is found solely in Section 4. It applies exclusively to petitions under that single section. Congress did not repeat this unique language anywhere else in the Act. In fact, there's not a single textual hint in any other section that a look-through analysis is allowed or appropriate. Yet, according to Respondents, the look-through approach somehow applies to every section of the FAA instead of the single section where it actually appears. Respondents' theory fails on every conceivable level. For over a century now, the well-pleaded complaint rule has governed the exercise of jurisdiction in federal courts. That's the rule that applies unless Congress says otherwise. And Congress said otherwise in Section 4 alone. Congress did not isolate the look-through clause in Section 4 because it wanted it applied in other sections where it was excluded. Nor did Congress endorse Respondents' notion of an upside-down default rule, where courts ignore the face of the well-pleaded filing and instead look to a nonexistent, phantom pleading that never appears in any court. Respondents' theory would require overturning bedrock jurisdictional doctrine and abandoning this Court's fidelity to the statutory text. There is simply no basis for saying the look-through approach applies in Sections 9 and 10 without judicially rewriting the statute or rendering Section 4's express look-through clause wholly superfluous. I welcome the Court's questions."
+  ],
+  [
+   126.36,
+   "JUSTICE THOMAS",
+   "Counsel, we have said or suggested from time to time that the FAA doesn't provide federal question jurisdiction. So how do you square that with the notion that Section 4, Section 8, provide such jurisdiction?"
+  ],
+  [
+   144.56,
+   "MR. GEYSER",
+   "Well, I think the best reading of this Court's cases is it was referring generally to the idea that when an action arises under federal law, then the federal law itself provides jurisdiction. The Court wasn't parsing the individual sections of the Act and saying whether there's a specific independent grant of jurisdiction. But, ultimately, I don't think it matters because there are only two ways to read Section 4. We read Section 4 as providing jurisdiction. But the alternative is to read Section 4 as providing an instruction to courts on how to exercise jurisdiction under sections like 1331 and 1332, and that instruction says you can look through to the underlying dispute. Now that's the departure from the well-pleaded complaint rule that traditionally governs every"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2021/20-1143",
+  "page_url": "https://www.oyez.org/cases/2021/20-1143",
+  "found": false,
+  "count": 0
+ },
+ "case": "20-1143",
+ "year": "2021",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2021/20-1143",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/20-1143.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2021/20-1143_bqmc.pdf",
+ "model": "medium.en",
+ "duration": 3104.952,
+ "asr_elapsed_s": 5426.3,
+ "asr_words": 9355,
+ "official_words": 9576,
+ "matched": 8978,
+ "shared": 3,
+ "clamped": 0,
+ "trimmed": 8,
+ "rewindowed": 0,
+ "match_rate": 93.75522138680033,
+ "turns": 125,
+ "laugh_markers": 1,
+ "mp3_bytes": 24839853,
+ "pauses": 289,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 240,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.76% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-29"
+}
