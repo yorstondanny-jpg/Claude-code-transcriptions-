@@ -1,0 +1,3956 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 0.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Souter",
+  "s": 0.68,
+  "e": 1.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "has",
+  "s": 1.06,
+  "e": 1.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 1.3,
+  "e": 1.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "opinion",
+  "s": 1.52,
+  "e": 1.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 1.94,
+  "e": 2.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "number",
+  "s": 2.52,
+  "e": 2.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "04",
+  "s": 2.9,
+  "e": 3.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "-1067,",
+  "s": 3.62,
+  "e": 4.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Georgia",
+  "s": 5.04,
+  "e": 5.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "v.",
+  "s": 5.3,
+  "e": 5.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Randolph.",
+  "s": 6.08,
+  "e": 6.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "This",
+  "s": 10.94,
+  "e": 11.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "case",
+  "s": 11.58,
+  "e": 11.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "comes",
+  "s": 11.82,
+  "e": 12.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 12.14,
+  "e": 12.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "us",
+  "s": 12.38,
+  "e": 12.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "on",
+  "s": 12.56,
+  "e": 12.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "writ",
+  "s": 12.8,
+  "e": 12.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 12.96,
+  "e": 13.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "certiorari",
+  "s": 13.1,
+  "e": 13.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 13.64,
+  "e": 13.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 13.84,
+  "e": 13.98,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Supreme",
+  "s": 13.98,
+  "e": 14.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Court",
+  "s": 14.28,
+  "e": 14.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 14.58,
+  "e": 14.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Georgia.",
+  "s": 14.72,
+  "e": 15.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "The",
+  "s": 16.8,
+  "e": 16.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "police",
+  "s": 16.82,
+  "e": 17.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "responded",
+  "s": 17.06,
+  "e": 17.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 17.62,
+  "e": 18.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 18.04,
+  "e": 18.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "call",
+  "s": 18.22,
+  "e": 18.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 18.54,
+  "e": 18.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "go",
+  "s": 18.76,
+  "e": 19.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 19.0,
+  "e": 19.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 19.22,
+  "e": 19.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "go",
+  "s": 19.36,
+  "e": 20.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 20.24,
+  "e": 20.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 20.38,
+  "e": 20.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "home",
+  "s": 20.5,
+  "e": 20.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 20.74,
+  "e": 21.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Scott",
+  "s": 21.02,
+  "e": 21.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "and",
+  "s": 21.38,
+  "e": 21.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Janet",
+  "s": 21.8,
+  "e": 22.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Randolph,",
+  "s": 22.14,
+  "e": 22.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "where",
+  "s": 23.7,
+  "e": 23.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Janet",
+  "s": 23.76,
+  "e": 24.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "told",
+  "s": 24.1,
+  "e": 24.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 24.46,
+  "e": 24.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "police",
+  "s": 24.68,
+  "e": 25.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 25.04,
+  "e": 25.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "there",
+  "s": 25.84,
+  "e": 26.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "was",
+  "s": 26.02,
+  "e": 26.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "evidence",
+  "s": 26.14,
+  "e": 26.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 26.48,
+  "e": 26.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Scott's",
+  "s": 26.7,
+  "e": 27.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "drug",
+  "s": 27.16,
+  "e": 27.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "use",
+  "s": 27.36,
+  "e": 27.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "inside.",
+  "s": 27.76,
+  "e": 28.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Scott",
+  "s": 29.24,
+  "e": 29.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "refused",
+  "s": 29.6,
+  "e": 30.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "permission",
+  "s": 30.0,
+  "e": 30.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 30.46,
+  "e": 30.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "search",
+  "s": 30.7,
+  "e": 30.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 30.92,
+  "e": 31.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "house,",
+  "s": 31.18,
+  "e": 31.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "but",
+  "s": 31.78,
+  "e": 32.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Janet",
+  "s": 32.0,
+  "e": 32.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consented.",
+  "s": 32.28,
+  "e": 32.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "She",
+  "s": 33.84,
+  "e": 34.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "led",
+  "s": 34.02,
+  "e": 34.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "an",
+  "s": 34.2,
+  "e": 34.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "officer",
+  "s": 34.42,
+  "e": 34.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 34.7,
+  "e": 35.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 35.02,
+  "e": 35.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "bedroom",
+  "s": 35.16,
+  "e": 35.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "where",
+  "s": 35.48,
+  "e": 35.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "he",
+  "s": 35.84,
+  "e": 36.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "observed",
+  "s": 36.06,
+  "e": 36.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 36.5,
+  "e": 36.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "straw",
+  "s": 36.78,
+  "e": 37.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "with",
+  "s": 37.1,
+  "e": 37.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "powdery",
+  "s": 37.56,
+  "e": 38.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "residue",
+  "s": 38.14,
+  "e": 38.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "he",
+  "s": 38.58,
+  "e": 38.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "suspected",
+  "s": 38.88,
+  "e": 39.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "was",
+  "s": 39.3,
+  "e": 39.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "cocaine.",
+  "s": 39.64,
+  "e": 40.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "The",
+  "s": 41.06,
+  "e": 41.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "officer",
+  "s": 41.32,
+  "e": 41.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "collected",
+  "s": 41.72,
+  "e": 42.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 42.18,
+  "e": 42.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "straw.",
+  "s": 42.48,
+  "e": 42.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Scott",
+  "s": 43.52,
+  "e": 43.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "was",
+  "s": 43.72,
+  "e": 43.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "later",
+  "s": 43.96,
+  "e": 44.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "convicted",
+  "s": 44.26,
+  "e": 44.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 44.68,
+  "e": 45.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "possession",
+  "s": 45.0,
+  "e": 45.44,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 45.44,
+  "e": 45.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "cocaine",
+  "s": 45.7,
+  "e": 46.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "after",
+  "s": 46.22,
+  "e": 47.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "his",
+  "s": 47.16,
+  "e": 47.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "motion",
+  "s": 47.36,
+  "e": 47.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 47.66,
+  "e": 47.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "suppress",
+  "s": 47.9,
+  "e": 48.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 48.28,
+  "e": 48.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "evidence",
+  "s": 48.56,
+  "e": 48.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "was",
+  "s": 48.88,
+  "e": 49.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "denied.",
+  "s": 49.36,
+  "e": 49.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "The",
+  "s": 50.62,
+  "e": 50.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Supreme",
+  "s": 50.88,
+  "e": 51.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Court",
+  "s": 51.16,
+  "e": 51.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 51.42,
+  "e": 51.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Georgia",
+  "s": 51.52,
+  "e": 51.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "held",
+  "s": 51.92,
+  "e": 52.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 52.26,
+  "e": 52.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 52.48,
+  "e": 52.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "evidence",
+  "s": 52.58,
+  "e": 52.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "had",
+  "s": 52.88,
+  "e": 53.12,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "been",
+  "s": 53.12,
+  "e": 53.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "illegally",
+  "s": 53.26,
+  "e": 53.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "seized",
+  "s": 53.62,
+  "e": 54.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "and",
+  "s": 54.28,
+  "e": 54.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "should",
+  "s": 54.58,
+  "e": 54.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "have",
+  "s": 54.8,
+  "e": 54.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "been",
+  "s": 54.9,
+  "e": 55.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "suppressed.",
+  "s": 55.1,
+  "e": 55.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "We",
+  "s": 56.8,
+  "e": 56.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "granted",
+  "s": 56.96,
+  "e": 57.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "certiorari",
+  "s": 57.28,
+  "e": 57.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 57.96,
+  "e": 58.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "resolve",
+  "s": 58.2,
+  "e": 58.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 58.58,
+  "e": 58.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "split",
+  "s": 58.8,
+  "e": 59.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 59.04,
+  "e": 59.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "authority",
+  "s": 59.18,
+  "e": 59.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "on",
+  "s": 59.68,
+  "e": 59.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "whether",
+  "s": 59.96,
+  "e": 60.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 60.2,
+  "e": 60.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "physically",
+  "s": 60.5,
+  "e": 60.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "present",
+  "s": 60.84,
+  "e": 61.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "cooccupant's",
+  "s": 61.54,
+  "e": 62.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "stated",
+  "s": 62.68,
+  "e": 62.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "refusal",
+  "s": 62.92,
+  "e": 63.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 63.52,
+  "e": 63.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "permit",
+  "s": 63.9,
+  "e": 64.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "entry",
+  "s": 64.22,
+  "e": 64.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "renders",
+  "s": 64.94,
+  "e": 65.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 65.92,
+  "e": 66.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "warrantless",
+  "s": 66.2,
+  "e": 66.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "search",
+  "s": 66.82,
+  "e": 67.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "invalid",
+  "s": 67.08,
+  "e": 67.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "as",
+  "s": 67.58,
+  "e": 67.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 67.86,
+  "e": 68.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "him,",
+  "s": 68.08,
+  "e": 68.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "despite",
+  "s": 68.98,
+  "e": 69.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 69.52,
+  "e": 69.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "cooccupant's",
+  "s": 69.8,
+  "e": 71.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consent.",
+  "s": 71.04,
+  "e": 71.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "We",
+  "s": 72.68,
+  "e": 73.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "hold",
+  "s": 73.32,
+  "e": 73.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 73.84,
+  "e": 74.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 74.1,
+  "e": 74.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "cooccupant's",
+  "s": 74.36,
+  "e": 75.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "refusal",
+  "s": 75.3,
+  "e": 75.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 75.64,
+  "e": 76.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "effective,",
+  "s": 76.02,
+  "e": 76.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "and",
+  "s": 76.54,
+  "e": 77.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "so",
+  "s": 77.3,
+  "e": 77.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "affirm",
+  "s": 77.66,
+  "e": 78.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 78.18,
+  "e": 78.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Supreme",
+  "s": 78.46,
+  "e": 78.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Court",
+  "s": 78.76,
+  "e": 79.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 79.06,
+  "e": 79.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Georgia.",
+  "s": 79.24,
+  "e": 79.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "In",
+  "s": 80.82,
+  "e": 80.98,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 80.98,
+  "e": 81.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "United",
+  "s": 81.04,
+  "e": 81.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "States",
+  "s": 81.26,
+  "e": 81.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "v.",
+  "s": 81.64,
+  "e": 81.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Matlock,",
+  "s": 82.12,
+  "e": 82.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "we",
+  "s": 82.54,
+  "e": 82.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "held",
+  "s": 82.68,
+  "e": 83.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 83.0,
+  "e": 83.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 83.18,
+  "e": 83.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consent",
+  "s": 83.36,
+  "e": 83.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 83.74,
+  "e": 83.98,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "search",
+  "s": 83.98,
+  "e": 84.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "by",
+  "s": 84.28,
+  "e": 84.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "one",
+  "s": 84.54,
+  "e": 84.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "who",
+  "s": 84.82,
+  "e": 85.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "possesses",
+  "s": 85.02,
+  "e": 85.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "common",
+  "s": 85.4,
+  "e": 85.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "authority",
+  "s": 85.86,
+  "e": 86.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "over",
+  "s": 86.46,
+  "e": 86.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "premises",
+  "s": 86.74,
+  "e": 87.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 87.22,
+  "e": 87.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "valid",
+  "s": 87.6,
+  "e": 88.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "as",
+  "s": 88.0,
+  "e": 88.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "against",
+  "s": 88.48,
+  "e": 88.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "an",
+  "s": 88.84,
+  "e": 89.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "absent,",
+  "s": 89.5,
+  "e": 90.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "non",
+  "s": 90.62,
+  "e": 90.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "-consenting",
+  "s": 90.72,
+  "e": 91.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "person",
+  "s": 91.26,
+  "e": 91.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "with",
+  "s": 91.82,
+  "e": 92.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "whom",
+  "s": 92.6,
+  "e": 92.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 92.86,
+  "e": 93.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "authority",
+  "s": 93.16,
+  "e": 93.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 93.6,
+  "e": 94.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "shared.",
+  "s": 94.1,
+  "e": 94.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "We",
+  "s": 95.38,
+  "e": 95.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "explained",
+  "s": 95.76,
+  "e": 96.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "there",
+  "s": 96.2,
+  "e": 96.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 96.54,
+  "e": 96.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 96.9,
+  "e": 97.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "common",
+  "s": 97.2,
+  "e": 97.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "authority",
+  "s": 97.82,
+  "e": 98.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 98.64,
+  "e": 99.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "not",
+  "s": 99.7,
+  "e": 99.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "synonymous",
+  "s": 99.9,
+  "e": 100.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "with",
+  "s": 100.46,
+  "e": 100.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 100.74,
+  "e": 100.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "property",
+  "s": 100.9,
+  "e": 101.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "interest,",
+  "s": 101.28,
+  "e": 101.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "but",
+  "s": 102.26,
+  "e": 102.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "instead",
+  "s": 102.5,
+  "e": 102.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 102.96,
+  "e": 103.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 103.28,
+  "e": 103.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "significant",
+  "s": 103.48,
+  "e": 103.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "part",
+  "s": 103.94,
+  "e": 104.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 104.56,
+  "e": 105.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "function",
+  "s": 105.26,
+  "e": 105.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 105.5,
+  "e": 105.98,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "commonly",
+  "s": 105.98,
+  "e": 106.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "held",
+  "s": 106.62,
+  "e": 106.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "understandings",
+  "s": 106.92,
+  "e": 107.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "about",
+  "s": 107.8,
+  "e": 108.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 108.06,
+  "e": 108.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "authority",
+  "s": 108.28,
+  "e": 108.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 108.78,
+  "e": 109.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "co",
+  "s": 109.02,
+  "e": 109.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "-inhabitants",
+  "s": 109.36,
+  "e": 110.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "may",
+  "s": 110.68,
+  "e": 110.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "exercise",
+  "s": 110.88,
+  "e": 111.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 111.42,
+  "e": 111.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "ways",
+  "s": 111.78,
+  "e": 112.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 112.06,
+  "e": 112.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "affect",
+  "s": 112.26,
+  "e": 112.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "each",
+  "s": 112.56,
+  "e": 112.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "other's",
+  "s": 112.84,
+  "e": 113.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "interests.",
+  "s": 113.32,
+  "e": 113.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "It",
+  "s": 114.48,
+  "e": 115.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 115.08,
+  "e": 115.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "fair",
+  "s": 115.2,
+  "e": 115.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 115.38,
+  "e": 115.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "say",
+  "s": 115.56,
+  "e": 115.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 115.8,
+  "e": 116.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 116.02,
+  "e": 116.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "caller",
+  "s": 116.22,
+  "e": 116.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "standing",
+  "s": 116.42,
+  "e": 116.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "at",
+  "s": 116.94,
+  "e": 117.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 117.28,
+  "e": 117.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "door",
+  "s": 117.52,
+  "e": 118.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 118.02,
+  "e": 118.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 118.24,
+  "e": 118.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "shared",
+  "s": 118.46,
+  "e": 118.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "premises",
+  "s": 118.92,
+  "e": 119.44,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "would",
+  "s": 119.44,
+  "e": 119.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "typically",
+  "s": 119.76,
+  "e": 120.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "not",
+  "s": 120.4,
+  "e": 120.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "go",
+  "s": 120.86,
+  "e": 121.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "inside,",
+  "s": 121.16,
+  "e": 121.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "despite",
+  "s": 121.94,
+  "e": 122.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "one",
+  "s": 122.24,
+  "e": 122.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "cooccupant's",
+  "s": 122.58,
+  "e": 123.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "invitation,",
+  "s": 123.46,
+  "e": 123.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "if",
+  "s": 124.08,
+  "e": 124.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 124.26,
+  "e": 124.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "other",
+  "s": 124.4,
+  "e": 124.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "occupants",
+  "s": 124.64,
+  "e": 125.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "stood",
+  "s": 125.08,
+  "e": 125.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "there",
+  "s": 125.38,
+  "e": 125.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "saying,",
+  "s": 125.64,
+  "e": 125.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "stay",
+  "s": 126.22,
+  "e": 126.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "out.",
+  "s": 126.24,
+  "e": 126.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "The",
+  "s": 127.64,
+  "e": 127.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "visitor's",
+  "s": 127.84,
+  "e": 128.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "reticence",
+  "s": 128.28,
+  "e": 128.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "would",
+  "s": 128.76,
+  "e": 128.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "reflect",
+  "s": 128.94,
+  "e": 129.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 129.34,
+  "e": 129.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "common",
+  "s": 129.56,
+  "e": 129.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "understanding",
+  "s": 129.86,
+  "e": 130.44,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 130.44,
+  "e": 130.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "one",
+  "s": 130.82,
+  "e": 131.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "co",
+  "s": 131.1,
+  "e": 131.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "-tenant",
+  "s": 131.36,
+  "e": 131.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "generally",
+  "s": 131.74,
+  "e": 132.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "has",
+  "s": 132.1,
+  "e": 132.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "no",
+  "s": 132.4,
+  "e": 132.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "right",
+  "s": 132.62,
+  "e": 132.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 132.88,
+  "e": 133.12,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "prevail",
+  "s": 133.12,
+  "e": 133.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "over",
+  "s": 133.48,
+  "e": 133.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 133.84,
+  "e": 134.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "express",
+  "s": 134.02,
+  "e": 134.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "wishes",
+  "s": 134.5,
+  "e": 134.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 134.86,
+  "e": 135.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "another",
+  "s": 135.08,
+  "e": 135.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 135.4,
+  "e": 136.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "understanding",
+  "s": 136.28,
+  "e": 136.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "which",
+  "s": 136.82,
+  "e": 137.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 137.16,
+  "e": 137.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 137.36,
+  "e": 137.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "fact",
+  "s": 137.52,
+  "e": 137.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "borne",
+  "s": 137.8,
+  "e": 138.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "out",
+  "s": 138.1,
+  "e": 138.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 138.34,
+  "e": 138.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "property",
+  "s": 138.54,
+  "e": 138.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "law.",
+  "s": 138.94,
+  "e": 139.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Since",
+  "s": 140.24,
+  "e": 140.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 140.48,
+  "e": 140.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "co",
+  "s": 140.68,
+  "e": 140.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "-tenant",
+  "s": 140.92,
+  "e": 141.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "wishing",
+  "s": 141.26,
+  "e": 141.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 141.52,
+  "e": 141.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "open",
+  "s": 141.82,
+  "e": 142.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 142.14,
+  "e": 142.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "door",
+  "s": 142.24,
+  "e": 142.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 142.52,
+  "e": 142.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 142.68,
+  "e": 142.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "third",
+  "s": 142.8,
+  "e": 143.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "party",
+  "s": 143.0,
+  "e": 143.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "thus",
+  "s": 143.46,
+  "e": 143.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "has",
+  "s": 143.68,
+  "e": 143.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "no",
+  "s": 143.9,
+  "e": 144.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "recognized",
+  "s": 144.14,
+  "e": 144.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "authority",
+  "s": 144.72,
+  "e": 145.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 145.24,
+  "e": 145.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "law",
+  "s": 145.72,
+  "e": 146.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "or",
+  "s": 146.04,
+  "e": 146.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "social",
+  "s": 146.28,
+  "e": 146.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "practice",
+  "s": 146.6,
+  "e": 147.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 147.16,
+  "e": 147.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "prevail",
+  "s": 147.46,
+  "e": 147.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "over",
+  "s": 147.82,
+  "e": 148.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 148.7,
+  "e": 148.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "present",
+  "s": 148.94,
+  "e": 149.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "and",
+  "s": 149.2,
+  "e": 149.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "objecting",
+  "s": 149.48,
+  "e": 150.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "co",
+  "s": 150.18,
+  "e": 150.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "-tenant,",
+  "s": 150.38,
+  "e": 151.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "his",
+  "s": 151.64,
+  "e": 151.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "disputed",
+  "s": 151.84,
+  "e": 152.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "invitation",
+  "s": 152.28,
+  "e": 152.98,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "without",
+  "s": 152.98,
+  "e": 153.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "more",
+  "s": 153.4,
+  "e": 153.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "gives",
+  "s": 153.82,
+  "e": 154.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 154.08,
+  "e": 154.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "police",
+  "s": 154.26,
+  "e": 154.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "officer",
+  "s": 154.48,
+  "e": 155.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "no",
+  "s": 155.0,
+  "e": 155.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "better",
+  "s": 155.2,
+  "e": 155.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "claim",
+  "s": 155.46,
+  "e": 155.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 155.84,
+  "e": 156.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "reasonableness",
+  "s": 156.02,
+  "e": 156.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 156.7,
+  "e": 156.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "entering",
+  "s": 156.86,
+  "e": 157.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "than",
+  "s": 157.26,
+  "e": 157.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 157.66,
+  "e": 157.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "officer",
+  "s": 157.78,
+  "e": 158.12,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "would",
+  "s": 158.12,
+  "e": 158.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "have",
+  "s": 158.36,
+  "e": 158.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "had",
+  "s": 158.48,
+  "e": 158.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 158.72,
+  "e": 158.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 158.84,
+  "e": 158.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "absence",
+  "s": 158.94,
+  "e": 159.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 159.3,
+  "e": 159.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "any",
+  "s": 159.54,
+  "e": 159.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consent",
+  "s": 159.78,
+  "e": 160.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "at",
+  "s": 160.18,
+  "e": 160.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "all.",
+  "s": 160.32,
+  "e": 160.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Accordingly,",
+  "s": 162.24,
+  "e": 162.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 162.86,
+  "e": 163.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 163.1,
+  "e": 163.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "balancing",
+  "s": 163.36,
+  "e": 164.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 164.46,
+  "e": 164.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "compelling",
+  "s": 164.82,
+  "e": 165.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 165.26,
+  "e": 165.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "competing",
+  "s": 165.58,
+  "e": 166.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "individual",
+  "s": 166.26,
+  "e": 167.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "and",
+  "s": 167.02,
+  "e": 167.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "government",
+  "s": 167.46,
+  "e": 167.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "interests",
+  "s": 167.84,
+  "e": 168.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "entailed",
+  "s": 168.36,
+  "e": 168.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "by",
+  "s": 168.96,
+  "e": 169.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 169.74,
+  "e": 169.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "bar",
+  "s": 169.94,
+  "e": 170.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 170.26,
+  "e": 170.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "unreasonable",
+  "s": 170.5,
+  "e": 171.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "searches,",
+  "s": 171.02,
+  "e": 171.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "disputed",
+  "s": 172.52,
+  "e": 172.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "permission",
+  "s": 172.82,
+  "e": 173.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 173.56,
+  "e": 173.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "no",
+  "s": 173.78,
+  "e": 174.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "match",
+  "s": 174.0,
+  "e": 174.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 174.4,
+  "e": 174.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 174.96,
+  "e": 175.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "objecting",
+  "s": 175.08,
+  "e": 175.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "individual's",
+  "s": 175.62,
+  "e": 176.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "claim",
+  "s": 176.38,
+  "e": 176.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 176.7,
+  "e": 176.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 176.94,
+  "e": 177.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "centuries",
+  "s": 177.08,
+  "e": 177.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "-old",
+  "s": 177.36,
+  "e": 177.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "principle",
+  "s": 177.76,
+  "e": 178.12,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 178.12,
+  "e": 178.44,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "respect",
+  "s": 178.44,
+  "e": 178.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 178.8,
+  "e": 179.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 179.08,
+  "e": 179.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "inviolability",
+  "s": 179.2,
+  "e": 180.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 180.02,
+  "e": 180.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 180.22,
+  "e": 180.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "home.",
+  "s": 180.34,
+  "e": 180.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "It",
+  "s": 181.7,
+  "e": 181.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 181.88,
+  "e": 182.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "true",
+  "s": 182.0,
+  "e": 182.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 182.28,
+  "e": 182.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 182.52,
+  "e": 182.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consenting",
+  "s": 182.68,
+  "e": 183.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "tenant",
+  "s": 183.18,
+  "e": 183.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "may",
+  "s": 183.48,
+  "e": 183.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "have",
+  "s": 183.82,
+  "e": 184.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "an",
+  "s": 184.02,
+  "e": 184.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "interest",
+  "s": 184.18,
+  "e": 184.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 184.54,
+  "e": 184.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "bringing",
+  "s": 184.84,
+  "e": 185.12,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "criminal",
+  "s": 185.12,
+  "e": 185.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "activity",
+  "s": 185.62,
+  "e": 186.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 186.14,
+  "e": 186.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "light",
+  "s": 186.32,
+  "e": 186.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "and",
+  "s": 186.58,
+  "e": 187.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 187.96,
+  "e": 188.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "deflecting",
+  "s": 188.14,
+  "e": 188.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "suspicion",
+  "s": 188.82,
+  "e": 189.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "from",
+  "s": 189.34,
+  "e": 189.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "himself,",
+  "s": 189.82,
+  "e": 190.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "but",
+  "s": 191.08,
+  "e": 191.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "he",
+  "s": 191.32,
+  "e": 191.44,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "may",
+  "s": 191.44,
+  "e": 191.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "aid",
+  "s": 191.64,
+  "e": 191.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "police",
+  "s": 191.88,
+  "e": 192.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 192.2,
+  "e": 192.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "ways",
+  "s": 192.48,
+  "e": 192.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "other",
+  "s": 192.84,
+  "e": 193.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "than",
+  "s": 193.26,
+  "e": 193.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "giving",
+  "s": 193.5,
+  "e": 193.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "them",
+  "s": 193.68,
+  "e": 193.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "entry.",
+  "s": 193.96,
+  "e": 194.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "He",
+  "s": 194.38,
+  "e": 194.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "may",
+  "s": 194.88,
+  "e": 195.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "retrieve",
+  "s": 195.06,
+  "e": 195.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "evidence",
+  "s": 195.48,
+  "e": 195.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 195.94,
+  "e": 196.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 196.2,
+  "e": 196.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "police,",
+  "s": 196.34,
+  "e": 196.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 196.68,
+  "e": 196.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "example,",
+  "s": 196.8,
+  "e": 197.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "and",
+  "s": 197.66,
+  "e": 198.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 198.0,
+  "e": 198.12,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "information",
+  "s": 198.12,
+  "e": 198.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "he",
+  "s": 198.56,
+  "e": 198.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "provides",
+  "s": 198.9,
+  "e": 199.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "may",
+  "s": 199.38,
+  "e": 199.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "be",
+  "s": 199.6,
+  "e": 199.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "used",
+  "s": 199.76,
+  "e": 200.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "by",
+  "s": 200.04,
+  "e": 200.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "police",
+  "s": 200.3,
+  "e": 200.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 200.6,
+  "e": 200.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "getting",
+  "s": 200.8,
+  "e": 201.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 201.02,
+  "e": 201.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "warrant.",
+  "s": 201.22,
+  "e": 201.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "And",
+  "s": 202.38,
+  "e": 202.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "if",
+  "s": 202.58,
+  "e": 202.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "it",
+  "s": 202.72,
+  "e": 202.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "appears",
+  "s": 202.84,
+  "e": 203.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 203.18,
+  "e": 203.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 203.46,
+  "e": 203.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consenting",
+  "s": 203.64,
+  "e": 204.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "co",
+  "s": 204.2,
+  "e": 204.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "-tenant",
+  "s": 204.4,
+  "e": 204.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "is",
+  "s": 204.78,
+  "e": 204.96,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 204.96,
+  "e": 205.12,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "victim",
+  "s": 205.12,
+  "e": 205.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 205.36,
+  "e": 205.62,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "domestic",
+  "s": 205.62,
+  "e": 206.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "violence,",
+  "s": 206.04,
+  "e": 206.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 206.72,
+  "e": 206.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "police",
+  "s": 206.82,
+  "e": 207.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "may",
+  "s": 207.06,
+  "e": 207.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "enter",
+  "s": 207.32,
+  "e": 207.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "not",
+  "s": 207.64,
+  "e": 208.22,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 208.22,
+  "e": 208.44,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 208.44,
+  "e": 208.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "purpose",
+  "s": 208.56,
+  "e": 208.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 208.84,
+  "e": 209.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "conducting",
+  "s": 209.04,
+  "e": 209.46,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 209.46,
+  "e": 209.64,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "search,",
+  "s": 209.64,
+  "e": 209.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "but",
+  "s": 209.88,
+  "e": 210.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 210.14,
+  "e": 210.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 210.3,
+  "e": 210.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "purpose",
+  "s": 210.42,
+  "e": 210.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 210.7,
+  "e": 210.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "providing",
+  "s": 210.94,
+  "e": 211.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "protection.",
+  "s": 211.36,
+  "e": 211.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Nothing",
+  "s": 213.12,
+  "e": 213.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 213.5,
+  "e": 213.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "social",
+  "s": 213.78,
+  "e": 214.18,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "custom",
+  "s": 214.18,
+  "e": 214.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "or",
+  "s": 214.7,
+  "e": 215.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "its",
+  "s": 215.1,
+  "e": 215.28,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "reflection",
+  "s": 215.28,
+  "e": 215.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 215.72,
+  "e": 216.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "private",
+  "s": 216.0,
+  "e": 216.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "law",
+  "s": 216.4,
+  "e": 216.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "argues",
+  "s": 216.9,
+  "e": 217.94,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 217.94,
+  "e": 218.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "placing",
+  "s": 218.24,
+  "e": 218.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 218.6,
+  "e": 218.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "higher",
+  "s": 218.86,
+  "e": 219.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "value",
+  "s": 219.16,
+  "e": 219.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "on",
+  "s": 219.74,
+  "e": 220.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "delving",
+  "s": 220.02,
+  "e": 220.44,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "into",
+  "s": 220.44,
+  "e": 220.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "private",
+  "s": 220.74,
+  "e": 221.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "premises",
+  "s": 221.3,
+  "e": 221.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 221.84,
+  "e": 222.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "search",
+  "s": 222.14,
+  "e": 222.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 222.34,
+  "e": 222.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "evidence",
+  "s": 222.58,
+  "e": 223.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "than",
+  "s": 223.04,
+  "e": 223.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "on",
+  "s": 223.92,
+  "e": 224.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "requiring",
+  "s": 224.1,
+  "e": 224.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "clear",
+  "s": 224.66,
+  "e": 225.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "justification",
+  "s": 225.08,
+  "e": 225.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "before",
+  "s": 225.76,
+  "e": 226.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 226.38,
+  "e": 226.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "government",
+  "s": 226.58,
+  "e": 226.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "searches",
+  "s": 226.88,
+  "e": 227.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "private",
+  "s": 227.48,
+  "e": 227.98,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "living",
+  "s": 227.98,
+  "e": 228.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "quarters",
+  "s": 228.32,
+  "e": 228.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "over",
+  "s": 228.7,
+  "e": 229.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 229.08,
+  "e": 229.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "resident's",
+  "s": 229.3,
+  "e": 229.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "objection.",
+  "s": 229.8,
+  "e": 230.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "We",
+  "s": 231.34,
+  "e": 231.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "therefore",
+  "s": 231.42,
+  "e": 231.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "hold",
+  "s": 231.76,
+  "e": 232.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "that",
+  "s": 232.24,
+  "e": 232.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 232.42,
+  "e": 232.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "warrantless",
+  "s": 232.54,
+  "e": 233.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "search",
+  "s": 233.02,
+  "e": 233.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "for",
+  "s": 233.3,
+  "e": 233.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "evidence",
+  "s": 233.58,
+  "e": 234.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 234.04,
+  "e": 234.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 234.52,
+  "e": 234.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "shared",
+  "s": 234.66,
+  "e": 235.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "dwelling",
+  "s": 235.0,
+  "e": 235.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "over",
+  "s": 236.04,
+  "e": 236.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 236.42,
+  "e": 236.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "express",
+  "s": 236.6,
+  "e": 237.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "refusal",
+  "s": 237.02,
+  "e": 237.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 237.56,
+  "e": 237.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consent",
+  "s": 237.9,
+  "e": 238.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "by",
+  "s": 238.32,
+  "e": 238.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 238.66,
+  "e": 238.82,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "physically",
+  "s": 238.82,
+  "e": 239.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "present",
+  "s": 239.1,
+  "e": 239.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "resident",
+  "s": 239.6,
+  "e": 240.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "cannot",
+  "s": 240.2,
+  "e": 241.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "be",
+  "s": 241.14,
+  "e": 241.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "justified",
+  "s": 241.48,
+  "e": 242.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "as",
+  "s": 242.06,
+  "e": 242.38,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "reasonable",
+  "s": 242.38,
+  "e": 242.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "as",
+  "s": 242.76,
+  "e": 243.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 243.08,
+  "e": 243.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "him",
+  "s": 243.26,
+  "e": 243.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "on",
+  "s": 243.5,
+  "e": 243.74,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 243.74,
+  "e": 243.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "basis",
+  "s": 243.86,
+  "e": 244.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 244.14,
+  "e": 244.4,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consent",
+  "s": 244.4,
+  "e": 244.84,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "given",
+  "s": 244.84,
+  "e": 245.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "to",
+  "s": 245.14,
+  "e": 245.3,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 245.3,
+  "e": 245.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "police",
+  "s": 245.42,
+  "e": 245.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "by",
+  "s": 245.66,
+  "e": 246.02,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "another",
+  "s": 246.02,
+  "e": 246.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "resident.",
+  "s": 246.42,
+  "e": 246.88,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Justice",
+  "s": 247.98,
+  "e": 248.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Stevens",
+  "s": 248.34,
+  "e": 248.76,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "has",
+  "s": 248.76,
+  "e": 249.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "filed",
+  "s": 249.04,
+  "e": 249.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 249.34,
+  "e": 249.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "concurring",
+  "s": 249.56,
+  "e": 249.98,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "opinion.",
+  "s": 249.98,
+  "e": 250.42,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Justice",
+  "s": 250.42,
+  "e": 251.16,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Breyer",
+  "s": 251.16,
+  "e": 251.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "has",
+  "s": 251.68,
+  "e": 251.9,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "filed",
+  "s": 251.9,
+  "e": 252.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 252.26,
+  "e": 252.6,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "concurring",
+  "s": 252.6,
+  "e": 253.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "opinion.",
+  "s": 253.06,
+  "e": 253.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "The",
+  "s": 254.68,
+  "e": 254.86,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Chief",
+  "s": 254.86,
+  "e": 255.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Justice",
+  "s": 255.06,
+  "e": 255.44,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "has",
+  "s": 255.44,
+  "e": 255.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "filed",
+  "s": 255.7,
+  "e": 256.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 256.0,
+  "e": 256.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "dissenting",
+  "s": 256.24,
+  "e": 256.58,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "opinion",
+  "s": 256.58,
+  "e": 257.1,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 257.1,
+  "e": 257.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "which",
+  "s": 257.32,
+  "e": 257.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Justice",
+  "s": 257.52,
+  "e": 257.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Scalia",
+  "s": 257.92,
+  "e": 258.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "joins.",
+  "s": 258.26,
+  "e": 258.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Justice",
+  "s": 259.88,
+  "e": 260.06,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Scalia",
+  "s": 260.06,
+  "e": 260.5,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "has",
+  "s": 260.5,
+  "e": 260.78,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "filed",
+  "s": 260.78,
+  "e": 261.12,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 261.12,
+  "e": 261.32,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "dissenting",
+  "s": 261.32,
+  "e": 261.66,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "opinion.",
+  "s": 261.66,
+  "e": 262.2,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "And",
+  "s": 263.52,
+  "e": 263.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Justice",
+  "s": 263.8,
+  "e": 264.14,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Thomas",
+  "s": 264.14,
+  "e": 264.48,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "has",
+  "s": 264.48,
+  "e": 264.72,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "filed",
+  "s": 264.72,
+  "e": 265.08,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "a",
+  "s": 265.08,
+  "e": 265.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "dissenting",
+  "s": 265.24,
+  "e": 265.56,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "opinion.",
+  "s": 265.56,
+  "e": 266.04,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Justice",
+  "s": 267.08,
+  "e": 267.34,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "Alito",
+  "s": 267.34,
+  "e": 267.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "took",
+  "s": 267.7,
+  "e": 268.0,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "no",
+  "s": 268.0,
+  "e": 268.24,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "part",
+  "s": 268.24,
+  "e": 268.54,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "in",
+  "s": 268.54,
+  "e": 268.7,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "the",
+  "s": 268.7,
+  "e": 268.8,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "consideration",
+  "s": 268.8,
+  "e": 269.36,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "or",
+  "s": 269.36,
+  "e": 269.92,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "decision",
+  "s": 269.92,
+  "e": 270.26,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "of",
+  "s": 270.26,
+  "e": 270.52,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "this",
+  "s": 270.52,
+  "e": 270.68,
+  "speaker": "JUSTICE SOUTER"
+ },
+ {
+  "w": "case.",
+  "s": 270.68,
+  "e": 270.9,
+  "speaker": "JUSTICE SOUTER"
+ }
+]

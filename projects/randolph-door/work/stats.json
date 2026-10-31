@@ -1,0 +1,495 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-1067.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1067/20051108a_04-1067.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1228.2,
+   "next": 1228.8,
+   "speaker": "JUSTICE STEVENS",
+   "before": "what happens, I imagine that it would make a difference if the person who wants to -- who was invited in by the wife, is larger or smaller than the husband.",
+   "pause": 0.6,
+   "loud_s": 0.05,
+   "mean_over": 6.1,
+   "peak_over": 14.1,
+   "size": "small"
+  },
+  {
+   "t": 1233.24,
+   "next": 1233.24,
+   "speaker": "JUSTICE STEVENS",
+   "before": "in by the wife, is larger or smaller than the husband. And I think he probably would not go in if he thought he was a -- could not do so --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2016.54,
+   "next": 2016.66,
+   "speaker": "MR. GOLDSTEIN",
+   "before": "right to keep the policeman out than she has to have the policeman in? I think everybody makes their -- And vice versa. Yes. I think that -- Right. -- that's the point --",
+   "pause": 0.12,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2763.84,
+   "next": 2763.84,
+   "speaker": "JUSTICE BREYER",
+   "before": "don't know what I'd do. If I imagine myself in a normal social situation, I think probably, if I am the typical person, which may or may not be, I --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3114.32,
+   "next": 3114.32,
+   "speaker": "JUSTICE SOUTER",
+   "before": "Souter, let me return -- I want to make sure I -- But the -- I -- you assume we got -- there goes the -- that -- there goes any bright line administrable rule, I guess.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3287.3,
+   "next": 3288.56,
+   "speaker": "JUSTICE GINSBURG",
+   "before": "I -- what the Courts of Appeals have confronted repeatedly, and uniformly agree -- and it's in our brief -- is that children satisfy the Matlock and Rodriguez -- So -- -- standard. -- would a mother-in-law.",
+   "pause": 1.26,
+   "loud_s": 0.05,
+   "mean_over": 4.5,
+   "peak_over": 13.6,
+   "size": "small"
+  },
+  {
+   "t": 3398.48,
+   "next": 3399.08,
+   "speaker": "JUSTICE BREYER",
+   "before": "and get a warrant, which will define -- Was there anybody in that case who -- since I wrote it, I guess I'm supposed to know it in detail, but I don't --",
+   "pause": 0.6,
+   "loud_s": 0.25,
+   "mean_over": 14.1,
+   "peak_over": 17.6,
+   "size": "small"
+  },
+  {
+   "t": 3406.94,
+   "next": 3406.94,
+   "speaker": "JUSTICE BREYER",
+   "before": "There was nobody giving consent, was there? Oh, Justice -- Was there? Justice Breyer -- I'll go back and read it. -- she said, \"I think you should\" -- she said -- I'll reread it.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -48.3,
+ "opening_start": 6.12,
+ "opening": [
+  [
+   6.12,
+   "MS. SMITH",
+   "Mr. Chief Justice, and may it please the Court: The question presented in this case is whether one occupant can give law enforcement valid consent to search the common areas of a premises shared with another, even though another occupant is present and objects to the search. The State of Georgia submits that the answer to this case is a resounding yes. It is reasonable to recognize that a person who satisfies Matlock's definition of common authority -- that is, a definition that is not based upon property-law concepts, but one who has mutual use of property by virtue of having joint access or control for most purposes -- can give consent for a search of that premises, in his or her own right."
+  ],
+  [
+   53.32,
+   "JUSTICE O'CONNOR",
+   "Do we look to what is socially acceptable? Is there some language to that effect in some of our cases?"
+  ],
+  [
+   60.28,
+   "MS. SMITH",
+   "There has been some of that in some of the prior cases, Your Honor, that you do look to social norms. You've also said --"
+  ],
+  [
+   66.5,
+   "JUSTICE O'CONNOR",
+   "Do you think it is the norm that, if there are co-inhabitants of a house or apartment, that it's okay to let a stranger in, against the express wishes of your spouse or co- inhabitant?"
+  ],
+  [
+   85.76,
+   "MS. SMITH",
+   "I think that is --"
+  ],
+  [
+   86.64,
+   "JUSTICE O'CONNOR",
+   "You think that's socially acceptable?"
+  ],
+  [
+   88.1,
+   "MS. SMITH",
+   "I think it is -- I think it is common, Your Honor. As much as one would like to think --"
+  ],
+  [
+   92.58,
+   "JUSTICE O'CONNOR",
+   "Well, it might be common, but I'm not sure that's an acceptable kind of performance."
+  ],
+  [
+   99.3,
+   "MS. SMITH",
+   "Well, I think, Your Honor, we have what we have called either adduced expectation of privacy or a limited expectation of privacy or what we called a shared expectation of privacy, by making the decision, long before police appear at the door, to share this premises with someone. And by --"
+  ],
+  [
+   117.272,
+   "JUSTICE O'CONNOR",
+   "What --"
+  ],
+  [
+   117.388,
+   "MS. SMITH",
+   "-- that decision --"
+  ],
+  [
+   117.62,
+   "JUSTICE O'CONNOR",
+   "-- what if the spouse had put a sign up, \"No police allowed here\"?"
+  ],
+  [
+   122.26,
+   "MS. SMITH",
+   "I don't think that, even as -- in -- one could ensure that the spouse would honor the other person's wishes. I think this case is here to give some substance to the recognition in Matlock of the ability of the cotenant to consent, in his or her own right."
+  ],
+  [
+   141.9,
+   "JUSTICE KENNEDY",
+   "What --"
+  ],
+  [
+   141.9,
+   "JUSTICE SOUTER",
+   "Is --"
+  ],
+  [
+   141.9,
+   "JUSTICE KENNEDY",
+   "What about the extent of the search? Can the wife say, \"It's okay for you to come in, and you can look in my husband's top drawer\"?"
+  ],
+  [
+   149.04,
+   "MS. SMITH",
+   "I think, Your Honor, that would be a question of fact, under the circumstances, to see whether the husband has exhibited some exclusive use of that drawer or whether the facts would demonstrate that she puts socks in there for him, she puts --"
+  ],
+  [
+   164.44,
+   "JUSTICE KENNEDY",
+   "I mean, how does the --"
+  ],
+  [
+   164.44,
+   "MS. SMITH",
+   "-- notes in there --"
+  ],
+  [
+   165.14,
+   "JUSTICE KENNEDY",
+   "-- how does the policeman --"
+  ],
+  [
+   165.14,
+   "MS. SMITH",
+   "-- for him --"
+  ],
+  [
+   165.82,
+   "JUSTICE KENNEDY",
+   "-- so, how is the policeman supposed to know that?"
+  ],
+  [
+   167.4,
+   "MS. SMITH",
+   "Well, I think -- looking -- we measure what is reasonable on the part of the police by looking to what they know. And Rodriguez made very clear, one does -- a policeman doesn't simply accept every invitation to enter. If there's some ambiguity or some uncertainty, the policeman has a duty to"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2005/04-1067",
+  "page_url": "https://www.oyez.org/cases/2005/04-1067",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - March 22, 2006",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/21475",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1067/20060322o_04-1067.delivery.mp3",
+  "duration": 271.6735,
+  "mp3_bytes": 1175453,
+  "asr_elapsed_s": 94.6,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   631,
+   659,
+   644
+  ],
+  "diffs": [
+   [
+    2.52,
+    "number 04 -1067,",
+    "No. 04-1067,"
+   ],
+   [
+    16.8,
+    "The",
+    ""
+   ],
+   [
+    18.76,
+    "go to a",
+    ""
+   ],
+   [
+    58.58,
+    "a",
+    "the"
+   ],
+   [
+    80.98,
+    "the",
+    ""
+   ],
+   [
+    124.64,
+    "occupants",
+    "occupant"
+   ],
+   [
+    135.4,
+    "in",
+    "an"
+   ],
+   [
+    164.82,
+    "compelling in",
+    ""
+   ],
+   [
+    234.52,
+    "the",
+    "a"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 659,
+  "opening": [
+   [
+    0.0,
+    "JUSTICE SOUTER",
+    "Justice Souter has the opinion in number 04-1067, Georgia v. Randolph. This case comes to us on writ of certiorari to the Supreme Court of Georgia. The police responded to a call to go to a go to the home of Scott and Janet Randolph, where Janet told the police that there was evidence of Scott's drug use inside. Scott refused permission to search the house, but Janet consented. She led an officer to a bedroom where he observed a straw with powdery residue he suspected was cocaine. The officer collected the straw. Scott was later convicted of possession of cocaine after his motion to suppress that evidence was denied. The Supreme Court of Georgia held that the evidence had been illegally seized and should have been suppressed. We granted certiorari to resolve a split of authority on whether a physically present cooccupant's stated refusal to permit entry renders a warrantless search invalid as to him, despite a cooccupant's consent. We hold that the cooccupant's refusal is effective, and so affirm the Supreme Court of Georgia. In the United States v. Matlock, we held that a consent to search by one who possesses common authority over premises is valid as against an absent, non-consenting person with whom that authority is shared. We explained there that the common authority is not synonymous with a property interest, but instead is in significant part a function of commonly held understandings about the authority that co-inhabitants may exercise in ways that affect each other's interests. It is fair to say that a caller standing at the door of a shared premises would typically not go inside, despite one cooccupant's invitation, if the other occupants stood there saying, stay out. The visitor's reticence would reflect the common understanding that one co-tenant generally has no right to prevail over the express wishes of another in understanding which is in fact borne out in property law. Since the co-tenant wishing to open the door to a third party thus has no recognized authority in law or social practice to prevail over a present and objecting co-tenant, his disputed invitation without more gives a police officer no better claim to reasonableness in entering than the officer would have had in the absence of any consent at all. Accordingly, in the balancing of compelling in competing individual and government interests entailed by the bar to unreasonable searches, disputed permission is no match for the objecting individual's claim to the centuries-old principle of respect for the inviolability"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "JUSTICE SOUTER",
+    "Justice Souter has the opinion in number 04-1067, Georgia v. Randolph. This case comes to us on writ of certiorari to the Supreme Court of Georgia. The police responded to a call to go to a go to the home of Scott and Janet Randolph, where Janet told the police that there was evidence of Scott's drug use inside. Scott refused permission to search the house, but Janet consented. She led an officer to a bedroom where he observed a straw with powdery residue he suspected was cocaine. The officer collected the straw. Scott was later convicted of possession of cocaine after his motion to suppress that evidence was denied. The Supreme Court of Georgia held that the evidence had been illegally seized and should have been suppressed. We granted certiorari to resolve a split of authority on whether a physically present cooccupant's stated refusal to permit entry renders a warrantless search invalid as to him, despite a cooccupant's consent. We hold that the cooccupant's refusal is effective, and so affirm the Supreme Court of Georgia. In the United States v. Matlock, we held that a consent to search by one who possesses common authority over premises is valid as against an absent, non-consenting person with whom that authority is shared. We explained there that the common authority is not synonymous with a property interest, but instead is in significant part a function of commonly held understandings about the authority that co-inhabitants may exercise in ways that affect each other's interests. It is fair to say that a caller standing at the door of a shared premises would typically not go inside, despite one cooccupant's invitation, if the other occupants stood there saying, stay out. The visitor's reticence would reflect the common understanding that one co-tenant generally has no right to prevail over the express wishes of another in understanding which is in fact borne out in property law. Since the co-tenant wishing to open the door to a third party thus has no recognized authority in law or social practice to prevail over a present and objecting co-tenant, his disputed invitation without more gives a police officer no better claim to reasonableness in entering than the officer would have had in the absence of any consent at all. Accordingly, in the balancing of compelling in competing individual and government interests entailed by the bar to unreasonable searches, disputed permission is no match for the objecting individual's claim to the centuries-old principle of respect for the inviolability of the home. It is true that the consenting tenant may have an interest in bringing criminal activity to light and in deflecting suspicion from himself, but he may aid police in ways other than giving them entry. He may retrieve evidence for the police, for example, and the information he provides may be used by police in getting a warrant. And if it appears that the consenting co-tenant is the victim of domestic violence, the police may enter not for the purpose of conducting a search, but for the purpose of providing protection. Nothing in social custom or its reflection in private law argues for placing a higher value on delving into private premises to search for evidence than on requiring clear justification before the government searches private living quarters over a resident's objection. We therefore hold that a warrantless search for evidence in the shared dwelling over the express refusal of consent by a physically present resident cannot be justified as reasonable as to him on the basis of consent given to the police by another resident. Justice Stevens has filed a concurring opinion. Justice Breyer has filed a concurring opinion. The Chief Justice has filed a dissenting opinion in which Justice Scalia joins. Justice Scalia has filed a dissenting opinion. And Justice Thomas has filed a dissenting opinion. Justice Alito took no part in the consideration or decision of this case."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "JUSTICE SOUTER",
+    "Justice Souter has the opinion in number 04-1067, Georgia v. Randolph."
+   ],
+   [
+    10.94,
+    "JUSTICE SOUTER",
+    "This case comes to us on writ of certiorari to the Supreme Court of Georgia."
+   ],
+   [
+    16.8,
+    "JUSTICE SOUTER",
+    "The police responded to a call to go to a go to the home of Scott and Janet Randolph, where Janet told the police that there was evidence of Scott's drug use inside."
+   ],
+   [
+    29.24,
+    "JUSTICE SOUTER",
+    "Scott refused permission to search the house, but Janet consented."
+   ],
+   [
+    33.84,
+    "JUSTICE SOUTER",
+    "She led an officer to a bedroom where he observed a straw with powdery residue he suspected was cocaine."
+   ],
+   [
+    41.06,
+    "JUSTICE SOUTER",
+    "The officer collected the straw."
+   ],
+   [
+    43.52,
+    "JUSTICE SOUTER",
+    "Scott was later convicted of possession of cocaine after his motion to suppress that evidence was denied."
+   ],
+   [
+    50.62,
+    "JUSTICE SOUTER",
+    "The Supreme Court of Georgia held that the evidence had been illegally seized and should have been suppressed."
+   ],
+   [
+    56.8,
+    "JUSTICE SOUTER",
+    "We granted certiorari to resolve a split of authority on whether a physically present cooccupant's stated refusal to permit entry renders a warrantless search invalid as to him, despite a cooccupant's consent."
+   ],
+   [
+    72.68,
+    "JUSTICE SOUTER",
+    "We hold that the cooccupant's refusal is effective, and so affirm the Supreme Court of Georgia."
+   ],
+   [
+    80.82,
+    "JUSTICE SOUTER",
+    "In the United States v. Matlock, we held that a consent to search by one who possesses common authority over premises is valid as against an absent, non-consenting person with whom that authority is shared."
+   ],
+   [
+    95.38,
+    "JUSTICE SOUTER",
+    "We explained there that the common authority is not synonymous with a property interest, but instead is in significant part a function of commonly held understandings about the authority that co-inhabitants may exercise in ways that affect each other's interests."
+   ],
+   [
+    114.48,
+    "JUSTICE SOUTER",
+    "It is fair to say that a caller standing at the door of a shared premises would typically not go inside, despite one cooccupant's invitation, if the other occupants stood there saying, stay out."
+   ],
+   [
+    127.64,
+    "JUSTICE SOUTER",
+    "The visitor's reticence would reflect the common understanding that one co-tenant generally has no right to prevail over the express wishes of another in understanding which is in fact borne out in property law."
+   ],
+   [
+    140.24,
+    "JUSTICE SOUTER",
+    "Since the co-tenant wishing to open the door to a third party thus has no recognized authority in law or social practice to prevail over a present and objecting co-tenant, his disputed invitation without more gives a police officer no better claim to reasonableness in entering than the officer would have had in the absence of any consent at all."
+   ],
+   [
+    162.24,
+    "JUSTICE SOUTER",
+    "Accordingly, in the balancing of compelling in competing individual and government interests entailed by the bar to unreasonable searches, disputed permission is no match for the objecting individual's claim to the centuries-old principle of respect for the inviolability of the home."
+   ],
+   [
+    181.7,
+    "JUSTICE SOUTER",
+    "It is true that the consenting tenant may have an interest in bringing criminal activity to light and in deflecting suspicion from himself, but he may aid police in ways other than giving them entry."
+   ],
+   [
+    194.38,
+    "JUSTICE SOUTER",
+    "He may retrieve evidence for the police, for example, and the information he provides may be used by police in getting a warrant."
+   ],
+   [
+    202.38,
+    "JUSTICE SOUTER",
+    "And if it appears that the consenting co-tenant is the victim of domestic violence, the police may enter not for the purpose of conducting a search, but for the purpose of providing protection."
+   ],
+   [
+    213.12,
+    "JUSTICE SOUTER",
+    "Nothing in social custom or its reflection in private law argues for placing a higher value on delving into private premises to search for evidence than on requiring clear justification before the government searches private living quarters over a resident's objection."
+   ],
+   [
+    231.34,
+    "JUSTICE SOUTER",
+    "We therefore hold that a warrantless search for evidence in the shared dwelling over the express refusal of consent by a physically present resident cannot be justified as reasonable as to him on the basis of consent given to the police by another resident."
+   ],
+   [
+    247.98,
+    "JUSTICE SOUTER",
+    "Justice Stevens has filed a concurring opinion."
+   ],
+   [
+    250.42,
+    "JUSTICE SOUTER",
+    "Justice Breyer has filed a concurring opinion."
+   ],
+   [
+    254.68,
+    "JUSTICE SOUTER",
+    "The Chief Justice has filed a dissenting opinion in which Justice Scalia joins."
+   ],
+   [
+    259.88,
+    "JUSTICE SOUTER",
+    "Justice Scalia has filed a dissenting opinion."
+   ],
+   [
+    263.52,
+    "JUSTICE SOUTER",
+    "And Justice Thomas has filed a dissenting opinion."
+   ],
+   [
+    267.08,
+    "JUSTICE SOUTER",
+    "Justice Alito took no part in the consideration or decision of this case."
+   ]
+  ],
+  "lines": [
+   [
+    "JUSTICE SOUTER",
+    0.0,
+    270.9,
+    651
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "04-1067",
+ "year": "2005",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2005/04-1067",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/04-1067/20051108a_04-1067.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/04-1067.pdf",
+ "model": "small.en",
+ "duration": 3460.362449,
+ "asr_elapsed_s": 1645.7,
+ "asr_words": 10312,
+ "official_words": 10530,
+ "matched": 9949,
+ "shared": 1,
+ "clamped": 0,
+ "trimmed": 12,
+ "rewindowed": 1,
+ "match_rate": 94.48243114909782,
+ "turns": 334,
+ "laugh_markers": 8,
+ "mp3_bytes": 27708260,
+ "pauses": 356,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 308,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.48% (threshold 85%)"
+  }
+ },
+ "generated": "2026-10-31"
+}
