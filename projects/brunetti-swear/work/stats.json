@@ -1,0 +1,465 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1018.82,
+   "next": 1020.32,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "in order to determine is that mark intended -- will it be -- I don't want to -- I don't want to go through the examples. I really don't want to do that.",
+   "pause": 1.5,
+   "loud_s": 0.75,
+   "mean_over": 28.4,
+   "peak_over": 39.9,
+   "size": "medium"
+  },
+  {
+   "t": 2315.1,
+   "next": 2315.1,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "and say, well, look at that, and then, you know, they're going to see the little trademark thing and say, well, it's registered trademark. Well, they won't say that, but --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -50.0,
+ "opening_start": 6.58,
+ "opening": [
+  [
+   6.58,
+   "MR. STEWART",
+   "Thank you, Mr. Chief Justice, and may it please the Court: The Lanham Act's ban on federal registration of scandalous trademarks is not a restriction on speech but a valid condition on participation in a federal program. On its face, and as applied here, the provision is -- is viewpoint-neutral. The scandalous marks provision is one of many content-based criteria for federal trademark registration, and consideration of a mark's content is essential --"
+  ],
+  [
+   31.88,
+   "JUSTICE SOTOMAYOR",
+   "Could you please tell me how you're defining \"scandalous mark\"? From your brief, I thought you were giving it a different definition than has been used by the agency for a while."
+  ],
+  [
+   43.4,
+   "MR. STEWART",
+   "Well, the -- the term -- the adjectives that have sometimes been used as synonyms for \"scandalous\" by the agency are terms like \"shocking,\" \"disgraceful,\" \"offensive,\" and \"disreputable.\" I think one --"
+  ],
+  [
+   54.9,
+   "JUSTICE SOTOMAYOR",
+   "Well, if you use all those adjectives, you run head-on to Tam."
+  ],
+  [
+   59.12,
+   "MR. STEWART",
+   "I think one sense in which we have -- the -- I think this has always been at the core of the prohibition, but I think Tam has led us to focus more on limiting the scope of those adjectives. That is, on their face, those adjectives could encompass material that is offensive or shocking because of the outrageous views that it expresses. And we know from Tam that that's --"
+  ],
+  [
+   81.86,
+   "JUSTICE SOTOMAYOR",
+   "But that's viewpoint discrimination."
+  ],
+  [
+   81.86,
+   "MR. STEWART",
+   "That's viewpoint discrimination. It's not a valid basis for denial of federal registration of a trademark. So I think it has always been the PTO's focus, but, from here on, I believe it will be the exclusive focus on marks that are shocking, offensive -- or offensive because of the mode of expression, not because of the ideas --"
+  ],
+  [
+   99.46,
+   "JUSTICE GINSBURG",
+   "How is -- how is that determined, that a substantial composite of the general public would find the -- the mark shocking or offensive? I mean, if -- considering what's involved in this case, if you were to take a -- a composite of, say, 20-year-olds, do you think that that answer would be they would find it shocking?"
+  ],
+  [
+   123.54,
+   "MR. STEWART",
+   "I -- I think not -- I think there are certainly some segments of society that are more likely to find particular marks shocking than others. I -- the -- the PTO, it -- its initial determination was that this mark would be perceived by a substantial segment of the public as the equivalent of the profane past participle form of a well-known word of profanity and perhaps the paradigmatic word of profanity in our language."
+  ],
+  [
+   152.2,
+   "JUSTICE SOTOMAYOR",
+   "So why are you using a subjective standard? Why not just something like obscene, vulgar, even profane? But, once you get to shockingly offensive, you get to viewpoint. One way or another, it's always subjective. I -- I -- I -- I can deal with a limiting principle that has its own substance, like obscenity."
+  ],
+  [
+   178.62,
+   "MR. STEWART",
+   "I -- I would agree that if you just looked at the words like \"shocking\" and \"offensive\" on their face and gave them their ordinary"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2018/18-302",
+  "page_url": "https://www.oyez.org/cases/2018/18-302",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 24, 2019",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24911",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2018/18-302/18-302_20190624-opinion.delivery.mp3",
+  "duration": 293.537959,
+  "mp3_bytes": 1204030,
+  "asr_elapsed_s": 329.5,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   595,
+   617,
+   618
+  ],
+  "diffs": [
+   [
+    3.22,
+    "",
+    "in"
+   ],
+   [
+    3.36,
+    "18 -302, Jansu",
+    "18-302, Iancu"
+   ],
+   [
+    7.62,
+    "Kagan.",
+    ""
+   ],
+   [
+    29.98,
+    "I'll",
+    "I will"
+   ],
+   [
+    46.06,
+    "what's",
+    "what is"
+   ],
+   [
+    50.48,
+    "can't",
+    "cannot"
+   ],
+   [
+    66.64,
+    "can't",
+    "cannot"
+   ],
+   [
+    115.22,
+    "it's",
+    "it is"
+   ],
+   [
+    125.82,
+    "society's sense",
+    "society since"
+   ],
+   [
+    140.44,
+    "That's",
+    "That is"
+   ],
+   [
+    201.02,
+    "express",
+    "expressed"
+   ],
+   [
+    206.96,
+    "doesn't",
+    "does not"
+   ],
+   [
+    240.68,
+    "can't",
+    "cannot"
+   ],
+   [
+    242.18,
+    "Congress's",
+    "Congress'"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 617,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kagan has the opinion of the Court this morning, Case 18-302, Jansu v. Brunetti."
+   ],
+   [
+    7.62,
+    "JUSTICE KAGAN",
+    "Kagan. The question in this case is whether a particular provision of the Federal trademark statute violates the First Amendment. A trademark, for anyone who doesn't know, is a brand name or a symbol or a saying or something of that kind that identifies a product. And if the trademark is registered with the U .S. Patent and Trademark Office, which I'll call the PTO for short, then the holder of the trademark gets certain legal benefits. But the trademark statute prohibits the PTO from registering certain kinds of trademarks. One of those prohibitions is what's at issue in this case. The statute says that the PTO can't register any immoral or scandalous trademarks. Today, we hold that provision to violate the First Amendment. The most fundamental principle of our free speech law is that the government can't penalize or disfavor or discriminate against expression based on the ideas and the viewpoints that it conveys. The ban on immoral or scandalous trademarks does just that. Trademarks are a kind of expression, and the statute's viewpoint discrimination is apparent from its very language. What does immoral mean? The dictionaries say, and you know this even without the dictionaries, that immoral means inconsistent with rectitude, purity, or good morals, violating principles of morality. And how about scandalous? Not really much different. According to the dictionary, something is scandalous when it gives offense to the conscience or moral feelings or when it's disgraceful or disreputable. So the immoral or scandalous bar allows trademark registration when a mark's message conforms with society's sense of decency and morality, but it prohibits registration of any mark expressing a contrary view when it goes against that societal sense of morality and rectitude. That's exactly the kind of discrimination against ideas that the First Amendment prohibits. Now, if that all sounds a little abstract, here are some examples that may make the point. The PTO rejected as immoral or scandalous trademarks for marijuana cola, and you can't spell health care without THC. Because, the PTO said, they glamorize drug use. But at the same time, the office allowed trademarks with sayings like, say no to drugs and dare to resist drugs."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kagan has the opinion of the Court this morning, Case 18-302, Jansu v. Brunetti."
+   ],
+   [
+    7.62,
+    "JUSTICE KAGAN",
+    "Kagan. The question in this case is whether a particular provision of the Federal trademark statute violates the First Amendment. A trademark, for anyone who doesn't know, is a brand name or a symbol or a saying or something of that kind that identifies a product. And if the trademark is registered with the U .S. Patent and Trademark Office, which I'll call the PTO for short, then the holder of the trademark gets certain legal benefits. But the trademark statute prohibits the PTO from registering certain kinds of trademarks. One of those prohibitions is what's at issue in this case. The statute says that the PTO can't register any immoral or scandalous trademarks. Today, we hold that provision to violate the First Amendment. The most fundamental principle of our free speech law is that the government can't penalize or disfavor or discriminate against expression based on the ideas and the viewpoints that it conveys. The ban on immoral or scandalous trademarks does just that. Trademarks are a kind of expression, and the statute's viewpoint discrimination is apparent from its very language. What does immoral mean? The dictionaries say, and you know this even without the dictionaries, that immoral means inconsistent with rectitude, purity, or good morals, violating principles of morality. And how about scandalous? Not really much different. According to the dictionary, something is scandalous when it gives offense to the conscience or moral feelings or when it's disgraceful or disreputable. So the immoral or scandalous bar allows trademark registration when a mark's message conforms with society's sense of decency and morality, but it prohibits registration of any mark expressing a contrary view when it goes against that societal sense of morality and rectitude. That's exactly the kind of discrimination against ideas that the First Amendment prohibits. Now, if that all sounds a little abstract, here are some examples that may make the point. The PTO rejected as immoral or scandalous trademarks for marijuana cola, and you can't spell health care without THC. Because, the PTO said, they glamorize drug use. But at the same time, the office allowed trademarks with sayings like, say no to drugs and dare to resist drugs. In other words, marks that express an anti-drug message. The office has similarly rejected immoral or scandalous views about, among other things, religion and terrorism, while approving marks expressing more accepted views on those same topics. The rejected marks express opinions that are offensive to many people in our society. But the First Amendment doesn't allow the government to discriminate against views just because many people, whether rightly or wrongly, view them as offensive. In an effort to save this statute, the government asks us to read it to mean something different from what it actually says. According to the government, we should read the statutes to cover only trademarks that are lewd, sexually explicit, or profane. But although we try to interpret statutes to avoid constitutional problems, we can't simply rewrite Congress's words. And the statute does not draw the line at lewd, sexually explicit, or profane marks. The statute may include those marks, but it also includes the universe of marks that convey immoral or scandalous ideas and viewpoints. And because that's so, the First Amendment requires that we strike the statute down. Justice Alito has filed a concurring opinion. The Chief Justice has filed an opinion concurring in part and dissenting in part. Justice Breyer has filed an opinion concurring in part and dissenting in part. Justice Sotomayor has filed an opinion concurring in part and dissenting in part, in which Justice Breyer joins."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kagan has the opinion of the Court this morning, Case 18-302, Jansu v. Brunetti."
+   ],
+   [
+    7.62,
+    "JUSTICE KAGAN",
+    "Kagan."
+   ],
+   [
+    8.22,
+    "JUSTICE KAGAN",
+    "The question in this case is whether a particular provision of the Federal trademark statute violates the First Amendment."
+   ],
+   [
+    15.88,
+    "JUSTICE KAGAN",
+    "A trademark, for anyone who doesn't know, is a brand name or a symbol or a saying or something of that kind that identifies a product."
+   ],
+   [
+    24.56,
+    "JUSTICE KAGAN",
+    "And if the trademark is registered with the U .S."
+   ],
+   [
+    27.92,
+    "JUSTICE KAGAN",
+    "Patent and Trademark Office, which I'll call the PTO for short, then the holder of the trademark gets certain legal benefits."
+   ],
+   [
+    36.56,
+    "JUSTICE KAGAN",
+    "But the trademark statute prohibits the PTO from registering certain kinds of trademarks."
+   ],
+   [
+    43.68,
+    "JUSTICE KAGAN",
+    "One of those prohibitions is what's at issue in this case."
+   ],
+   [
+    48.1,
+    "JUSTICE KAGAN",
+    "The statute says that the PTO can't register any immoral or scandalous trademarks."
+   ],
+   [
+    55.98,
+    "JUSTICE KAGAN",
+    "Today, we hold that provision to violate the First Amendment."
+   ],
+   [
+    61.44,
+    "JUSTICE KAGAN",
+    "The most fundamental principle of our free speech law is that the government can't penalize or disfavor or discriminate against expression based on the ideas and the viewpoints that it conveys."
+   ],
+   [
+    76.72,
+    "JUSTICE KAGAN",
+    "The ban on immoral or scandalous trademarks does just that."
+   ],
+   [
+    80.56,
+    "JUSTICE KAGAN",
+    "Trademarks are a kind of expression, and the statute's viewpoint discrimination is apparent from its very language."
+   ],
+   [
+    88.78,
+    "JUSTICE KAGAN",
+    "What does immoral mean?"
+   ],
+   [
+    90.56,
+    "JUSTICE KAGAN",
+    "The dictionaries say, and you know this even without the dictionaries, that immoral means inconsistent with rectitude, purity, or good morals, violating principles of morality."
+   ],
+   [
+    103.28,
+    "JUSTICE KAGAN",
+    "And how about scandalous?"
+   ],
+   [
+    106.18,
+    "JUSTICE KAGAN",
+    "Not really much different."
+   ],
+   [
+    107.9,
+    "JUSTICE KAGAN",
+    "According to the dictionary, something is scandalous when it gives offense to the conscience or moral feelings or when it's disgraceful or disreputable."
+   ],
+   [
+    118.26,
+    "JUSTICE KAGAN",
+    "So the immoral or scandalous bar allows trademark registration when a mark's message conforms with society's sense of decency and morality, but it prohibits registration of any mark expressing a contrary view when it goes against that societal sense of morality and rectitude."
+   ],
+   [
+    140.44,
+    "JUSTICE KAGAN",
+    "That's exactly the kind of discrimination against ideas that the First Amendment prohibits."
+   ],
+   [
+    147.64,
+    "JUSTICE KAGAN",
+    "Now, if that all sounds a little abstract, here are some examples that may make the point."
+   ],
+   [
+    152.78,
+    "JUSTICE KAGAN",
+    "The PTO rejected as immoral or scandalous trademarks for marijuana cola, and you can't spell health care without THC."
+   ],
+   [
+    165.88,
+    "JUSTICE KAGAN",
+    "Because, the PTO said, they glamorize drug use."
+   ],
+   [
+    171.36,
+    "JUSTICE KAGAN",
+    "But at the same time, the office allowed trademarks with sayings like, say no to drugs and dare to resist drugs."
+   ],
+   [
+    180.26,
+    "JUSTICE KAGAN",
+    "In other words, marks that express an anti-drug message."
+   ],
+   [
+    185.8,
+    "JUSTICE KAGAN",
+    "The office has similarly rejected immoral or scandalous views about, among other things, religion and terrorism, while approving marks expressing more accepted views on those same topics."
+   ],
+   [
+    199.38,
+    "JUSTICE KAGAN",
+    "The rejected marks express opinions that are offensive to many people in our society."
+   ],
+   [
+    205.38,
+    "JUSTICE KAGAN",
+    "But the First Amendment doesn't allow the government to discriminate against views just because many people, whether rightly or wrongly, view them as offensive."
+   ],
+   [
+    217.34,
+    "JUSTICE KAGAN",
+    "In an effort to save this statute, the government asks us to read it to mean something different from what it actually says."
+   ],
+   [
+    225.98,
+    "JUSTICE KAGAN",
+    "According to the government, we should read the statutes to cover only trademarks that are lewd, sexually explicit, or profane."
+   ],
+   [
+    234.92,
+    "JUSTICE KAGAN",
+    "But although we try to interpret statutes to avoid constitutional problems, we can't simply rewrite Congress's words."
+   ],
+   [
+    244.09,
+    "JUSTICE KAGAN",
+    "And the statute does not draw the line at lewd, sexually explicit, or profane marks."
+   ],
+   [
+    251.48,
+    "JUSTICE KAGAN",
+    "The statute may include those marks, but it also includes the universe of marks that convey immoral or scandalous ideas and viewpoints."
+   ],
+   [
+    261.76,
+    "JUSTICE KAGAN",
+    "And because that's so, the First Amendment requires that we strike the statute down."
+   ],
+   [
+    269.3,
+    "JUSTICE KAGAN",
+    "Justice Alito has filed a concurring opinion."
+   ],
+   [
+    272.72,
+    "JUSTICE KAGAN",
+    "The Chief Justice has filed an opinion concurring in part and dissenting in part."
+   ],
+   [
+    278.06,
+    "JUSTICE KAGAN",
+    "Justice Breyer has filed an opinion concurring in part and dissenting in part."
+   ],
+   [
+    283.8,
+    "JUSTICE KAGAN",
+    "Justice Sotomayor has filed an opinion concurring in part and dissenting in part, in which Justice Breyer joins."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.68,
+    15
+   ],
+   [
+    "JUSTICE KAGAN",
+    7.62,
+    291.72,
+    600
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "18-302",
+ "year": "2018",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2018/18-302",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/18-302.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2018/18-302_5426.pdf",
+ "model": "medium.en",
+ "duration": 786.402375,
+ "asr_elapsed_s": 3711.5,
+ "asr_words": 8908,
+ "official_words": 9322,
+ "matched": 8733,
+ "shared": 5,
+ "clamped": 0,
+ "trimmed": 13,
+ "rewindowed": 0,
+ "match_rate": 93.68161338768505,
+ "turns": 259,
+ "laugh_markers": 2,
+ "mp3_bytes": 26931309,
+ "pauses": 400,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 344,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.68% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-02"
+}

@@ -1,0 +1,3704 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 0.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Kagan",
+  "s": 0.74,
+  "e": 1.14,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.14,
+  "e": 1.4,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1.4,
+  "e": 1.64,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.64,
+  "e": 1.96,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 1.96,
+  "e": 2.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 2.1,
+  "e": 2.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Court",
+  "s": 2.26,
+  "e": 2.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 2.42,
+  "e": 2.66,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning,",
+  "s": 2.66,
+  "e": 3.0,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Case",
+  "s": 3.22,
+  "e": 3.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "18",
+  "s": 3.36,
+  "e": 3.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "-302,",
+  "s": 3.98,
+  "e": 4.7,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Jansu",
+  "s": 5.36,
+  "e": 5.74,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "v.",
+  "s": 5.74,
+  "e": 6.04,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Brunetti.",
+  "s": 6.48,
+  "e": 6.68,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Kagan.",
+  "s": 7.62,
+  "e": 7.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 8.22,
+  "e": 8.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "question",
+  "s": 8.22,
+  "e": 8.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 8.62,
+  "e": 8.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "this",
+  "s": 8.82,
+  "e": 9.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "case",
+  "s": 9.0,
+  "e": 9.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "is",
+  "s": 9.34,
+  "e": 9.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "whether",
+  "s": 9.6,
+  "e": 9.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 9.86,
+  "e": 10.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "particular",
+  "s": 10.14,
+  "e": 10.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "provision",
+  "s": 10.52,
+  "e": 11.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 11.1,
+  "e": 11.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 11.44,
+  "e": 11.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Federal",
+  "s": 11.64,
+  "e": 11.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademark",
+  "s": 11.9,
+  "e": 12.46,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute",
+  "s": 12.46,
+  "e": 13.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "violates",
+  "s": 13.12,
+  "e": 13.76,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 13.76,
+  "e": 14.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "First",
+  "s": 14.2,
+  "e": 14.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Amendment.",
+  "s": 14.44,
+  "e": 14.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "A",
+  "s": 15.88,
+  "e": 16.04,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademark,",
+  "s": 16.04,
+  "e": 16.5,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "for",
+  "s": 16.7,
+  "e": 16.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "anyone",
+  "s": 16.88,
+  "e": 17.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "who",
+  "s": 17.18,
+  "e": 17.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "doesn't",
+  "s": 17.34,
+  "e": 17.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "know,",
+  "s": 17.58,
+  "e": 17.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "is",
+  "s": 18.0,
+  "e": 18.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 18.18,
+  "e": 18.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "brand",
+  "s": 18.34,
+  "e": 18.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "name",
+  "s": 18.62,
+  "e": 18.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 18.92,
+  "e": 19.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 19.2,
+  "e": 19.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "symbol",
+  "s": 19.44,
+  "e": 19.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 19.78,
+  "e": 20.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 20.08,
+  "e": 20.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "saying",
+  "s": 20.34,
+  "e": 20.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 20.58,
+  "e": 20.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "something",
+  "s": 20.86,
+  "e": 21.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 21.22,
+  "e": 21.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 21.42,
+  "e": 21.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "kind",
+  "s": 21.64,
+  "e": 22.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 22.06,
+  "e": 22.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "identifies",
+  "s": 22.72,
+  "e": 23.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 23.32,
+  "e": 23.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "product.",
+  "s": 23.74,
+  "e": 24.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "And",
+  "s": 24.56,
+  "e": 25.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "if",
+  "s": 25.16,
+  "e": 25.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 25.36,
+  "e": 25.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademark",
+  "s": 25.6,
+  "e": 26.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "is",
+  "s": 26.06,
+  "e": 26.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "registered",
+  "s": 26.38,
+  "e": 26.94,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "with",
+  "s": 26.94,
+  "e": 27.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 27.26,
+  "e": 27.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "U",
+  "s": 27.44,
+  "e": 27.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": ".S.",
+  "s": 27.62,
+  "e": 27.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Patent",
+  "s": 27.92,
+  "e": 28.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 28.12,
+  "e": 28.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Trademark",
+  "s": 28.54,
+  "e": 28.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Office,",
+  "s": 28.92,
+  "e": 29.46,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "which",
+  "s": 29.46,
+  "e": 29.98,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "I'll",
+  "s": 29.98,
+  "e": 30.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "call",
+  "s": 30.22,
+  "e": 30.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 30.44,
+  "e": 30.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "PTO",
+  "s": 30.62,
+  "e": 31.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "for",
+  "s": 31.1,
+  "e": 31.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "short,",
+  "s": 31.4,
+  "e": 31.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "then",
+  "s": 32.18,
+  "e": 32.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 32.8,
+  "e": 33.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "holder",
+  "s": 33.0,
+  "e": 33.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 33.24,
+  "e": 33.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 33.52,
+  "e": 33.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademark",
+  "s": 33.72,
+  "e": 34.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "gets",
+  "s": 34.14,
+  "e": 34.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "certain",
+  "s": 34.74,
+  "e": 35.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "legal",
+  "s": 35.14,
+  "e": 35.5,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "benefits.",
+  "s": 35.5,
+  "e": 36.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "But",
+  "s": 36.56,
+  "e": 37.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 37.22,
+  "e": 37.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademark",
+  "s": 37.42,
+  "e": 37.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute",
+  "s": 37.74,
+  "e": 38.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "prohibits",
+  "s": 38.44,
+  "e": 39.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 39.08,
+  "e": 39.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "PTO",
+  "s": 39.34,
+  "e": 39.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "from",
+  "s": 39.82,
+  "e": 40.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "registering",
+  "s": 40.2,
+  "e": 40.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "certain",
+  "s": 40.8,
+  "e": 41.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "kinds",
+  "s": 41.48,
+  "e": 42.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 42.02,
+  "e": 42.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademarks.",
+  "s": 42.4,
+  "e": 42.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "One",
+  "s": 43.68,
+  "e": 44.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 44.26,
+  "e": 44.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "those",
+  "s": 44.44,
+  "e": 44.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "prohibitions",
+  "s": 44.72,
+  "e": 45.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "is",
+  "s": 45.48,
+  "e": 46.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "what's",
+  "s": 46.06,
+  "e": 46.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "at",
+  "s": 46.38,
+  "e": 46.46,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "issue",
+  "s": 46.46,
+  "e": 46.76,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 46.76,
+  "e": 47.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "this",
+  "s": 47.02,
+  "e": 47.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "case.",
+  "s": 47.2,
+  "e": 47.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 48.1,
+  "e": 48.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute",
+  "s": 48.74,
+  "e": 49.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "says",
+  "s": 49.16,
+  "e": 49.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 49.66,
+  "e": 49.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 49.88,
+  "e": 50.04,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "PTO",
+  "s": 50.04,
+  "e": 50.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "can't",
+  "s": 50.48,
+  "e": 51.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "register",
+  "s": 51.18,
+  "e": 51.68,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "any",
+  "s": 51.68,
+  "e": 52.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "immoral",
+  "s": 52.36,
+  "e": 53.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 53.1,
+  "e": 53.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "scandalous",
+  "s": 53.42,
+  "e": 54.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademarks.",
+  "s": 54.44,
+  "e": 55.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Today,",
+  "s": 55.98,
+  "e": 56.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "we",
+  "s": 57.16,
+  "e": 57.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "hold",
+  "s": 57.18,
+  "e": 57.5,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 57.5,
+  "e": 57.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "provision",
+  "s": 57.74,
+  "e": 58.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 58.24,
+  "e": 58.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "violate",
+  "s": 58.7,
+  "e": 59.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 59.18,
+  "e": 59.46,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "First",
+  "s": 59.46,
+  "e": 59.68,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Amendment.",
+  "s": 59.68,
+  "e": 60.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 61.44,
+  "e": 61.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "most",
+  "s": 61.64,
+  "e": 61.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "fundamental",
+  "s": 61.96,
+  "e": 62.68,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "principle",
+  "s": 62.68,
+  "e": 63.28,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 63.28,
+  "e": 63.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "our",
+  "s": 63.8,
+  "e": 64.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "free",
+  "s": 64.18,
+  "e": 64.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "speech",
+  "s": 64.52,
+  "e": 64.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "law",
+  "s": 64.82,
+  "e": 65.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "is",
+  "s": 65.22,
+  "e": 65.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 65.96,
+  "e": 66.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 66.14,
+  "e": 66.3,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "government",
+  "s": 66.3,
+  "e": 66.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "can't",
+  "s": 66.64,
+  "e": 67.3,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "penalize",
+  "s": 67.3,
+  "e": 68.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 68.02,
+  "e": 68.28,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "disfavor",
+  "s": 68.28,
+  "e": 69.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 69.0,
+  "e": 69.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "discriminate",
+  "s": 69.6,
+  "e": 70.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "against",
+  "s": 70.18,
+  "e": 70.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "expression",
+  "s": 70.72,
+  "e": 71.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "based",
+  "s": 71.48,
+  "e": 72.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "on",
+  "s": 72.4,
+  "e": 72.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 72.7,
+  "e": 72.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "ideas",
+  "s": 72.88,
+  "e": 73.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 73.34,
+  "e": 73.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 73.7,
+  "e": 73.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "viewpoints",
+  "s": 73.82,
+  "e": 74.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 74.26,
+  "e": 74.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 74.92,
+  "e": 75.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "conveys.",
+  "s": 75.12,
+  "e": 75.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 76.72,
+  "e": 76.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "ban",
+  "s": 76.88,
+  "e": 77.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "on",
+  "s": 77.16,
+  "e": 77.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "immoral",
+  "s": 77.44,
+  "e": 77.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 77.96,
+  "e": 78.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "scandalous",
+  "s": 78.2,
+  "e": 78.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademarks",
+  "s": 78.88,
+  "e": 79.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "does",
+  "s": 79.32,
+  "e": 79.76,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "just",
+  "s": 79.76,
+  "e": 80.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that.",
+  "s": 80.12,
+  "e": 80.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Trademarks",
+  "s": 80.56,
+  "e": 81.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "are",
+  "s": 81.88,
+  "e": 82.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 82.14,
+  "e": 82.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "kind",
+  "s": 82.34,
+  "e": 82.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 82.56,
+  "e": 82.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "expression,",
+  "s": 82.74,
+  "e": 83.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 83.42,
+  "e": 84.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 84.14,
+  "e": 84.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute's",
+  "s": 84.34,
+  "e": 84.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "viewpoint",
+  "s": 84.88,
+  "e": 85.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "discrimination",
+  "s": 85.22,
+  "e": 86.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "is",
+  "s": 86.02,
+  "e": 86.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "apparent",
+  "s": 86.36,
+  "e": 86.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "from",
+  "s": 86.78,
+  "e": 87.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "its",
+  "s": 87.1,
+  "e": 87.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "very",
+  "s": 87.24,
+  "e": 87.5,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "language.",
+  "s": 87.5,
+  "e": 88.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "What",
+  "s": 88.78,
+  "e": 88.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "does",
+  "s": 88.92,
+  "e": 89.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "immoral",
+  "s": 89.1,
+  "e": 89.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "mean?",
+  "s": 89.42,
+  "e": 89.76,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 90.56,
+  "e": 90.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "dictionaries",
+  "s": 90.7,
+  "e": 91.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "say,",
+  "s": 91.34,
+  "e": 91.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 92.08,
+  "e": 92.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you",
+  "s": 92.32,
+  "e": 92.46,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "know",
+  "s": 92.46,
+  "e": 92.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "this",
+  "s": 92.66,
+  "e": 92.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "even",
+  "s": 92.86,
+  "e": 93.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "without",
+  "s": 93.16,
+  "e": 93.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 93.52,
+  "e": 93.76,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "dictionaries,",
+  "s": 93.76,
+  "e": 94.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 95.1,
+  "e": 95.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "immoral",
+  "s": 95.22,
+  "e": 95.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "means",
+  "s": 95.64,
+  "e": 96.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "inconsistent",
+  "s": 96.18,
+  "e": 97.3,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "with",
+  "s": 97.3,
+  "e": 97.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "rectitude,",
+  "s": 97.74,
+  "e": 98.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "purity,",
+  "s": 98.56,
+  "e": 98.98,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 99.22,
+  "e": 99.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "good",
+  "s": 99.36,
+  "e": 99.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "morals,",
+  "s": 99.58,
+  "e": 100.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "violating",
+  "s": 100.6,
+  "e": 101.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "principles",
+  "s": 101.26,
+  "e": 101.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 101.86,
+  "e": 102.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "morality.",
+  "s": 102.18,
+  "e": 102.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "And",
+  "s": 103.28,
+  "e": 103.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "how",
+  "s": 103.96,
+  "e": 104.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "about",
+  "s": 104.14,
+  "e": 104.5,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "scandalous?",
+  "s": 104.5,
+  "e": 105.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Not",
+  "s": 106.18,
+  "e": 106.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "really",
+  "s": 106.52,
+  "e": 106.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "much",
+  "s": 106.78,
+  "e": 107.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "different.",
+  "s": 107.02,
+  "e": 107.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "According",
+  "s": 107.9,
+  "e": 108.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 108.38,
+  "e": 108.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 108.74,
+  "e": 108.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "dictionary,",
+  "s": 108.86,
+  "e": 109.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "something",
+  "s": 109.6,
+  "e": 109.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "is",
+  "s": 109.88,
+  "e": 110.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "scandalous",
+  "s": 110.14,
+  "e": 110.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "when",
+  "s": 110.92,
+  "e": 111.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 111.58,
+  "e": 111.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "gives",
+  "s": 111.72,
+  "e": 111.94,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "offense",
+  "s": 111.94,
+  "e": 112.28,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 112.28,
+  "e": 112.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 112.6,
+  "e": 112.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "conscience",
+  "s": 112.78,
+  "e": 113.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 113.18,
+  "e": 113.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "moral",
+  "s": 113.44,
+  "e": 113.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "feelings",
+  "s": 113.82,
+  "e": 114.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 114.4,
+  "e": 115.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "when",
+  "s": 115.06,
+  "e": 115.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it's",
+  "s": 115.22,
+  "e": 115.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "disgraceful",
+  "s": 115.44,
+  "e": 116.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 116.26,
+  "e": 116.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "disreputable.",
+  "s": 116.52,
+  "e": 117.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "So",
+  "s": 118.26,
+  "e": 118.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 118.62,
+  "e": 118.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "immoral",
+  "s": 118.86,
+  "e": 119.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 119.34,
+  "e": 119.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "scandalous",
+  "s": 119.64,
+  "e": 120.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "bar",
+  "s": 120.36,
+  "e": 120.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "allows",
+  "s": 120.66,
+  "e": 121.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademark",
+  "s": 121.56,
+  "e": 122.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "registration",
+  "s": 122.16,
+  "e": 122.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "when",
+  "s": 122.9,
+  "e": 123.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 123.66,
+  "e": 123.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "mark's",
+  "s": 123.88,
+  "e": 124.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "message",
+  "s": 124.26,
+  "e": 124.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "conforms",
+  "s": 124.66,
+  "e": 125.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "with",
+  "s": 125.6,
+  "e": 125.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "society's",
+  "s": 125.82,
+  "e": 126.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sense",
+  "s": 126.72,
+  "e": 127.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 127.0,
+  "e": 127.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "decency",
+  "s": 127.72,
+  "e": 128.28,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 128.28,
+  "e": 128.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "morality,",
+  "s": 128.8,
+  "e": 129.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "but",
+  "s": 130.0,
+  "e": 130.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 130.32,
+  "e": 130.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "prohibits",
+  "s": 130.48,
+  "e": 130.98,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "registration",
+  "s": 130.98,
+  "e": 131.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 131.72,
+  "e": 131.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "any",
+  "s": 131.96,
+  "e": 132.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "mark",
+  "s": 132.2,
+  "e": 132.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "expressing",
+  "s": 132.56,
+  "e": 133.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 133.26,
+  "e": 133.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "contrary",
+  "s": 133.54,
+  "e": 133.94,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "view",
+  "s": 133.94,
+  "e": 134.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "when",
+  "s": 134.38,
+  "e": 135.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 135.06,
+  "e": 135.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "goes",
+  "s": 135.2,
+  "e": 135.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "against",
+  "s": 135.44,
+  "e": 136.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 136.1,
+  "e": 136.5,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "societal",
+  "s": 136.5,
+  "e": 137.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sense",
+  "s": 137.34,
+  "e": 137.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 137.82,
+  "e": 138.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "morality",
+  "s": 138.54,
+  "e": 139.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 139.14,
+  "e": 139.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "rectitude.",
+  "s": 139.4,
+  "e": 139.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "That's",
+  "s": 140.44,
+  "e": 141.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "exactly",
+  "s": 141.24,
+  "e": 141.76,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 141.76,
+  "e": 142.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "kind",
+  "s": 142.0,
+  "e": 142.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 142.26,
+  "e": 142.46,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "discrimination",
+  "s": 142.46,
+  "e": 143.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "against",
+  "s": 143.1,
+  "e": 143.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "ideas",
+  "s": 143.56,
+  "e": 144.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 144.12,
+  "e": 144.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 144.9,
+  "e": 145.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "First",
+  "s": 145.08,
+  "e": 145.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Amendment",
+  "s": 145.34,
+  "e": 145.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "prohibits.",
+  "s": 145.78,
+  "e": 146.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Now,",
+  "s": 147.64,
+  "e": 147.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "if",
+  "s": 147.82,
+  "e": 147.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 147.92,
+  "e": 148.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "all",
+  "s": 148.08,
+  "e": 148.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sounds",
+  "s": 148.22,
+  "e": 148.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 148.54,
+  "e": 148.68,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "little",
+  "s": 148.68,
+  "e": 148.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "abstract,",
+  "s": 148.84,
+  "e": 149.46,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "here",
+  "s": 149.82,
+  "e": 149.98,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "are",
+  "s": 149.98,
+  "e": 150.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "some",
+  "s": 150.1,
+  "e": 150.28,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "examples",
+  "s": 150.28,
+  "e": 150.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 150.78,
+  "e": 151.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "may",
+  "s": 151.08,
+  "e": 151.28,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "make",
+  "s": 151.28,
+  "e": 151.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 151.52,
+  "e": 151.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "point.",
+  "s": 151.7,
+  "e": 152.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 152.78,
+  "e": 153.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "PTO",
+  "s": 153.24,
+  "e": 153.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "rejected",
+  "s": 153.66,
+  "e": 154.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "as",
+  "s": 154.32,
+  "e": 154.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "immoral",
+  "s": 154.8,
+  "e": 155.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 155.34,
+  "e": 155.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "scandalous",
+  "s": 155.62,
+  "e": 156.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademarks",
+  "s": 156.78,
+  "e": 157.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "for",
+  "s": 157.44,
+  "e": 158.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "marijuana",
+  "s": 158.24,
+  "e": 159.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "cola,",
+  "s": 159.24,
+  "e": 159.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 160.3,
+  "e": 161.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you",
+  "s": 161.08,
+  "e": 161.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "can't",
+  "s": 161.42,
+  "e": 161.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "spell",
+  "s": 161.84,
+  "e": 162.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "health",
+  "s": 162.16,
+  "e": 162.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "care",
+  "s": 162.42,
+  "e": 162.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "without",
+  "s": 162.8,
+  "e": 163.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "THC.",
+  "s": 163.32,
+  "e": 164.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Because,",
+  "s": 165.88,
+  "e": 166.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 167.44,
+  "e": 167.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "PTO",
+  "s": 167.54,
+  "e": 168.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "said,",
+  "s": 168.34,
+  "e": 168.94,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "they",
+  "s": 169.16,
+  "e": 169.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "glamorize",
+  "s": 169.56,
+  "e": 170.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "drug",
+  "s": 170.34,
+  "e": 170.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "use.",
+  "s": 170.62,
+  "e": 171.04,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "But",
+  "s": 171.36,
+  "e": 172.04,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "at",
+  "s": 172.04,
+  "e": 172.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 172.16,
+  "e": 172.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "same",
+  "s": 172.26,
+  "e": 172.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "time,",
+  "s": 172.54,
+  "e": 173.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 173.34,
+  "e": 173.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "office",
+  "s": 173.42,
+  "e": 173.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "allowed",
+  "s": 173.62,
+  "e": 174.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademarks",
+  "s": 174.16,
+  "e": 174.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "with",
+  "s": 174.92,
+  "e": 175.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sayings",
+  "s": 175.64,
+  "e": 176.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "like,",
+  "s": 176.16,
+  "e": 176.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "say",
+  "s": 176.92,
+  "e": 177.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "no",
+  "s": 177.22,
+  "e": 177.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 177.48,
+  "e": 177.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "drugs",
+  "s": 177.72,
+  "e": 178.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 178.16,
+  "e": 178.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "dare",
+  "s": 178.88,
+  "e": 179.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 179.14,
+  "e": 179.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "resist",
+  "s": 179.4,
+  "e": 179.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "drugs.",
+  "s": 179.72,
+  "e": 180.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "In",
+  "s": 180.26,
+  "e": 180.94,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "other",
+  "s": 180.94,
+  "e": 181.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "words,",
+  "s": 181.16,
+  "e": 181.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "marks",
+  "s": 182.42,
+  "e": 182.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 182.72,
+  "e": 182.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "express",
+  "s": 182.92,
+  "e": 183.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "an",
+  "s": 183.32,
+  "e": 183.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "anti",
+  "s": 183.56,
+  "e": 183.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "-drug",
+  "s": 183.9,
+  "e": 184.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "message.",
+  "s": 184.16,
+  "e": 184.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 185.8,
+  "e": 185.94,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "office",
+  "s": 185.94,
+  "e": 186.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "has",
+  "s": 186.24,
+  "e": 186.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "similarly",
+  "s": 186.48,
+  "e": 186.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "rejected",
+  "s": 186.92,
+  "e": 187.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "immoral",
+  "s": 187.6,
+  "e": 188.3,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 188.3,
+  "e": 188.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "scandalous",
+  "s": 188.56,
+  "e": 189.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "views",
+  "s": 189.36,
+  "e": 189.76,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "about,",
+  "s": 189.76,
+  "e": 190.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "among",
+  "s": 190.28,
+  "e": 190.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "other",
+  "s": 190.44,
+  "e": 190.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "things,",
+  "s": 190.72,
+  "e": 191.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "religion",
+  "s": 191.32,
+  "e": 191.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 191.74,
+  "e": 192.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "terrorism,",
+  "s": 192.62,
+  "e": 193.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "while",
+  "s": 193.4,
+  "e": 194.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "approving",
+  "s": 194.1,
+  "e": 194.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "marks",
+  "s": 194.64,
+  "e": 195.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "expressing",
+  "s": 195.06,
+  "e": 195.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "more",
+  "s": 195.8,
+  "e": 196.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "accepted",
+  "s": 196.18,
+  "e": 196.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "views",
+  "s": 196.8,
+  "e": 197.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "on",
+  "s": 197.22,
+  "e": 198.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "those",
+  "s": 198.0,
+  "e": 198.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "same",
+  "s": 198.24,
+  "e": 198.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "topics.",
+  "s": 198.56,
+  "e": 199.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 199.38,
+  "e": 200.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "rejected",
+  "s": 200.2,
+  "e": 200.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "marks",
+  "s": 200.62,
+  "e": 201.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "express",
+  "s": 201.02,
+  "e": 201.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "opinions",
+  "s": 201.52,
+  "e": 202.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 202.0,
+  "e": 202.28,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "are",
+  "s": 202.28,
+  "e": 202.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "offensive",
+  "s": 202.44,
+  "e": 202.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 202.9,
+  "e": 203.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "many",
+  "s": 203.22,
+  "e": 203.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "people",
+  "s": 203.44,
+  "e": 203.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 203.84,
+  "e": 204.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "our",
+  "s": 204.2,
+  "e": 204.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "society.",
+  "s": 204.42,
+  "e": 205.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "But",
+  "s": 205.38,
+  "e": 206.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 206.18,
+  "e": 206.3,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "First",
+  "s": 206.3,
+  "e": 206.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Amendment",
+  "s": 206.56,
+  "e": 206.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "doesn't",
+  "s": 206.96,
+  "e": 207.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "allow",
+  "s": 207.66,
+  "e": 208.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 208.02,
+  "e": 208.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "government",
+  "s": 208.26,
+  "e": 208.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 208.54,
+  "e": 208.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "discriminate",
+  "s": 208.9,
+  "e": 209.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "against",
+  "s": 209.42,
+  "e": 209.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "views",
+  "s": 209.9,
+  "e": 210.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "just",
+  "s": 210.36,
+  "e": 211.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "because",
+  "s": 211.24,
+  "e": 211.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "many",
+  "s": 211.64,
+  "e": 212.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "people,",
+  "s": 212.06,
+  "e": 212.5,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "whether",
+  "s": 212.8,
+  "e": 213.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "rightly",
+  "s": 213.12,
+  "e": 213.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 213.58,
+  "e": 213.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "wrongly,",
+  "s": 213.96,
+  "e": 214.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "view",
+  "s": 215.18,
+  "e": 215.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "them",
+  "s": 215.38,
+  "e": 215.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "as",
+  "s": 215.6,
+  "e": 215.9,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "offensive.",
+  "s": 215.9,
+  "e": 216.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "In",
+  "s": 217.34,
+  "e": 218.04,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "an",
+  "s": 218.04,
+  "e": 218.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "effort",
+  "s": 218.16,
+  "e": 218.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 218.38,
+  "e": 218.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "save",
+  "s": 218.6,
+  "e": 218.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "this",
+  "s": 218.88,
+  "e": 219.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute,",
+  "s": 219.16,
+  "e": 219.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 219.84,
+  "e": 219.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "government",
+  "s": 219.96,
+  "e": 220.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "asks",
+  "s": 220.26,
+  "e": 220.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "us",
+  "s": 220.72,
+  "e": 221.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 221.02,
+  "e": 221.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "read",
+  "s": 221.24,
+  "e": 221.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 221.42,
+  "e": 221.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 221.74,
+  "e": 222.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "mean",
+  "s": 222.38,
+  "e": 222.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "something",
+  "s": 222.58,
+  "e": 222.94,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "different",
+  "s": 222.94,
+  "e": 223.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "from",
+  "s": 223.42,
+  "e": 223.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "what",
+  "s": 223.74,
+  "e": 223.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 223.92,
+  "e": 224.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "actually",
+  "s": 224.08,
+  "e": 224.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "says.",
+  "s": 224.52,
+  "e": 224.98,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "According",
+  "s": 225.98,
+  "e": 226.3,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 226.3,
+  "e": 226.58,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 226.58,
+  "e": 226.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "government,",
+  "s": 226.72,
+  "e": 227.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "we",
+  "s": 227.3,
+  "e": 227.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "should",
+  "s": 227.36,
+  "e": 227.54,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "read",
+  "s": 227.54,
+  "e": 227.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 227.84,
+  "e": 228.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statutes",
+  "s": 228.08,
+  "e": 228.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 228.44,
+  "e": 228.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "cover",
+  "s": 228.8,
+  "e": 229.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "only",
+  "s": 229.1,
+  "e": 229.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "trademarks",
+  "s": 229.64,
+  "e": 230.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 230.22,
+  "e": 230.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "are",
+  "s": 230.66,
+  "e": 230.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "lewd,",
+  "s": 230.86,
+  "e": 231.3,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sexually",
+  "s": 231.88,
+  "e": 232.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "explicit,",
+  "s": 232.4,
+  "e": 233.14,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 233.5,
+  "e": 233.68,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "profane.",
+  "s": 233.68,
+  "e": 234.32,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "But",
+  "s": 234.92,
+  "e": 235.56,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "although",
+  "s": 235.56,
+  "e": 235.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "we",
+  "s": 235.8,
+  "e": 236.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "try",
+  "s": 236.06,
+  "e": 236.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 236.38,
+  "e": 236.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "interpret",
+  "s": 236.64,
+  "e": 237.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statutes",
+  "s": 237.08,
+  "e": 237.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 237.64,
+  "e": 237.98,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "avoid",
+  "s": 237.98,
+  "e": 238.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "constitutional",
+  "s": 238.36,
+  "e": 239.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "problems,",
+  "s": 239.16,
+  "e": 239.8,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "we",
+  "s": 240.48,
+  "e": 240.68,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "can't",
+  "s": 240.68,
+  "e": 241.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "simply",
+  "s": 241.12,
+  "e": 241.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "rewrite",
+  "s": 241.52,
+  "e": 242.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Congress's",
+  "s": 242.18,
+  "e": 243.04,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "words.",
+  "s": 243.04,
+  "e": 243.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "And",
+  "s": 244.09,
+  "e": 244.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 244.48,
+  "e": 244.64,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute",
+  "s": 244.64,
+  "e": 245.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "does",
+  "s": 245.02,
+  "e": 245.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "not",
+  "s": 245.36,
+  "e": 245.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "draw",
+  "s": 245.72,
+  "e": 246.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 246.1,
+  "e": 246.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "line",
+  "s": 246.34,
+  "e": 246.68,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "at",
+  "s": 246.68,
+  "e": 247.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "lewd,",
+  "s": 247.4,
+  "e": 247.72,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sexually",
+  "s": 247.82,
+  "e": 248.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "explicit,",
+  "s": 248.44,
+  "e": 249.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 249.38,
+  "e": 249.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "profane",
+  "s": 249.6,
+  "e": 250.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "marks.",
+  "s": 250.16,
+  "e": 250.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 251.48,
+  "e": 252.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute",
+  "s": 252.0,
+  "e": 252.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "may",
+  "s": 252.34,
+  "e": 252.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "include",
+  "s": 252.66,
+  "e": 253.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "those",
+  "s": 253.12,
+  "e": 253.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "marks,",
+  "s": 253.42,
+  "e": 253.94,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "but",
+  "s": 254.38,
+  "e": 254.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 254.78,
+  "e": 254.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "also",
+  "s": 254.92,
+  "e": 255.24,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "includes",
+  "s": 255.24,
+  "e": 255.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 255.84,
+  "e": 256.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "universe",
+  "s": 256.08,
+  "e": 256.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 256.48,
+  "e": 256.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "marks",
+  "s": 256.82,
+  "e": 257.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 257.16,
+  "e": 257.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "convey",
+  "s": 257.4,
+  "e": 257.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "immoral",
+  "s": 257.86,
+  "e": 258.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "or",
+  "s": 258.52,
+  "e": 258.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "scandalous",
+  "s": 258.86,
+  "e": 259.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "ideas",
+  "s": 259.6,
+  "e": 260.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 260.26,
+  "e": 260.88,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "viewpoints.",
+  "s": 260.88,
+  "e": 261.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "And",
+  "s": 261.76,
+  "e": 262.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "because",
+  "s": 262.42,
+  "e": 262.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that's",
+  "s": 262.82,
+  "e": 263.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "so,",
+  "s": 263.36,
+  "e": 263.6,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 264.18,
+  "e": 264.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "First",
+  "s": 264.38,
+  "e": 264.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Amendment",
+  "s": 264.62,
+  "e": 265.0,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "requires",
+  "s": 265.0,
+  "e": 265.66,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 265.66,
+  "e": 266.2,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "we",
+  "s": 266.2,
+  "e": 266.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "strike",
+  "s": 266.38,
+  "e": 266.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 266.7,
+  "e": 266.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute",
+  "s": 266.96,
+  "e": 267.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "down.",
+  "s": 267.36,
+  "e": 267.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Justice",
+  "s": 269.3,
+  "e": 269.62,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Alito",
+  "s": 269.62,
+  "e": 269.98,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "has",
+  "s": 269.98,
+  "e": 270.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "filed",
+  "s": 270.38,
+  "e": 270.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 270.78,
+  "e": 271.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "concurring",
+  "s": 271.1,
+  "e": 271.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "opinion.",
+  "s": 271.52,
+  "e": 272.02,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "The",
+  "s": 272.72,
+  "e": 273.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Chief",
+  "s": 273.1,
+  "e": 273.38,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Justice",
+  "s": 273.38,
+  "e": 273.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "has",
+  "s": 273.82,
+  "e": 274.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "filed",
+  "s": 274.08,
+  "e": 274.44,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "an",
+  "s": 274.44,
+  "e": 274.68,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "opinion",
+  "s": 274.68,
+  "e": 275.08,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "concurring",
+  "s": 275.08,
+  "e": 275.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 275.7,
+  "e": 275.96,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "part",
+  "s": 275.96,
+  "e": 276.22,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 276.22,
+  "e": 276.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "dissenting",
+  "s": 276.52,
+  "e": 276.92,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 276.92,
+  "e": 277.26,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "part.",
+  "s": 277.26,
+  "e": 277.5,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Justice",
+  "s": 278.06,
+  "e": 278.82,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Breyer",
+  "s": 278.82,
+  "e": 279.28,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "has",
+  "s": 279.28,
+  "e": 279.48,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "filed",
+  "s": 279.48,
+  "e": 279.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "an",
+  "s": 279.84,
+  "e": 280.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "opinion",
+  "s": 280.12,
+  "e": 280.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "concurring",
+  "s": 280.52,
+  "e": 281.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 281.12,
+  "e": 281.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "part",
+  "s": 281.42,
+  "e": 281.7,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 281.7,
+  "e": 282.04,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "dissenting",
+  "s": 282.04,
+  "e": 282.42,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 282.42,
+  "e": 282.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "part.",
+  "s": 282.84,
+  "e": 283.06,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Justice",
+  "s": 283.8,
+  "e": 284.46,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Sotomayor",
+  "s": 284.46,
+  "e": 285.18,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "has",
+  "s": 285.18,
+  "e": 285.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "filed",
+  "s": 285.4,
+  "e": 285.84,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "an",
+  "s": 285.84,
+  "e": 286.12,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "opinion",
+  "s": 286.12,
+  "e": 286.52,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "concurring",
+  "s": 286.52,
+  "e": 287.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 287.4,
+  "e": 287.78,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "part",
+  "s": 287.78,
+  "e": 288.04,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 288.04,
+  "e": 288.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "dissenting",
+  "s": 288.34,
+  "e": 288.74,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 288.74,
+  "e": 289.16,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "part,",
+  "s": 289.16,
+  "e": 289.4,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 289.96,
+  "e": 290.1,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "which",
+  "s": 290.1,
+  "e": 290.36,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Justice",
+  "s": 290.36,
+  "e": 290.86,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Breyer",
+  "s": 290.86,
+  "e": 291.34,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "joins.",
+  "s": 291.34,
+  "e": 291.72,
+  "speaker": "JUSTICE KAGAN"
+ }
+]
