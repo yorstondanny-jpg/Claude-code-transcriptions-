@@ -1,0 +1,971 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-130.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-130/20060329a_05-130.delivery.mp3",
+ "terms": [
+  "troll",
+  "Buy It Now",
+  "software developer",
+  "injunction",
+  "bridge"
+ ],
+ "mentions": [
+  [
+   62.48,
+   "MR. PHILLIPS",
+   "injunction",
+   "The rule in the Federal Circuit for at least 20 years has been that if you have validity and infringement decided by the jury, that then there is irrebuttable finding of -- of irreparable injury, of inadequate remedy at law, and that the balance of harms decidedly favors the plaintiff, and that the only issue that remains available to the defendant in that circumstance is a heightened scrutiny on the standard of whether or not the -- the public interest commands that an injunction be denied in a particular case.",
+   1
+  ],
+  [
+   91.12,
+   "MR. PHILLIPS",
+   "injunction",
+   "That -- that is precise -- I think it's the only way to read Judge Bryson's decision, Justice Ginsburg, where the court says, at page 26a, that a permanent injunction will issue once infringement and validity have been adjudged, and then say, to be sure, it will not be so to protect the public interest.",
+   1
+  ],
+  [
+   110.66,
+   "MR. PHILLIPS",
+   "injunction",
+   "Well, the point is that if an injunction follows with a finding of -- of validity and infringement, then that means that there has to be -- there has to be irreparable injury, inadequate remedy at law, and that the balance of hardships has to tilt in -- in favor of the plaintiff.",
+   1
+  ],
+  [
+   130.32,
+   "MR. PHILLIPS",
+   "injunction",
+   "And then the only issue that remains is whether or not the public interest justifies not granting an injunction under the circumstances of this case.",
+   1
+  ],
+  [
+   170.72,
+   "MR. PHILLIPS",
+   "injunction",
+   "Section 283 says explicitly -- and this is at page 1 of the blue brief -- district courts, quote, may -- not shall -- grant injunctions in accordance with principles of equity.",
+   1
+  ],
+  [
+   327.54,
+   "JUSTICE BREYER",
+   "injunction",
+   "And now would a -- would a court issue an injunction there?",
+   1
+  ],
+  [
+   383.22,
+   "MR. PHILLIPS",
+   "injunction",
+   "It didn't say, as it could have, that there is presumed -- there's a presumption that we have an injunction.",
+   1
+  ],
+  [
+   389.0,
+   "MR. PHILLIPS",
+   "injunction",
+   "It didn't say, as it could have, that we shall have a -- shall have either a presumption or an injunction in any particular case.",
+   1
+  ],
+  [
+   411.68,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "You're not suggesting that in a typical run-of-the-mine patent case, no special considerations, it would be wrong to say that in those cases you typically would grant an injunction?",
+   1
+  ],
+  [
+   495.1,
+   "MR. PHILLIPS",
+   "injunction",
+   "And then you take that finding automatically and you turn it into an injunction.",
+   1
+  ],
+  [
+   695.58,
+   "MR. PHILLIPS",
+   "injunction",
+   "The -- the district judge didn't just say, I woke up this morning and I felt really good about the defendant, and therefore, I'm not granting an injunction.",
+   1
+  ],
+  [
+   708.58,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "Well, but he said other things too, and one thing he said is, I don't like business method patents very much, and so I'm not going to give an injunction here.",
+   1
+  ],
+  [
+   726.94,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "Is that an appropriate consideration to take into account in determining whether to grant an injunction or not?",
+   1
+  ],
+  [
+   835.56,
+   "JUSTICE KENNEDY",
+   "injunction",
+   "My concern is if you take that away, I don't know if you've got a lot left for the -- saying no injunction in this case.",
+   1
+  ],
+  [
+   1019.52,
+   "JUSTICE KENNEDY",
+   "injunction",
+   "Well, but this gives you the advantage of coming in in advance saying, I want -- I -- I want a ruling in advance that I'm not going to violate the injunction.",
+   1
+  ],
+  [
+   1113.28,
+   "MR. PHILLIPS",
+   "injunction",
+   "And the Court said, under those circumstances, you get an injunction.",
+   1
+  ],
+  [
+   1209.96,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "Why -- why should he lose the leverage of the normal injunction and have substituted for that a duel of experts over what a reasonable royalty should be?",
+   1
+  ],
+  [
+   1328.56,
+   "MR. PHILLIPS",
+   "injunction",
+   "We'll allow enhanced damages in the interim and even the potential down the road, obviously, of -- of an injunction to serve as enough of a deterrent to protect the right to exclude that the plaintiff has under the statute.",
+   1
+  ],
+  [
+   1345.1,
+   "JUSTICE SCALIA",
+   "injunction",
+   "I mean, why -- why should I be in better shape, as far as getting an injunction is concerned, if I produce an automobile engine and -- and make some undeterminate profit --",
+   1
+  ],
+  [
+   1372.82,
+   "JUSTICE SCALIA",
+   "injunction",
+   "Why -- why does one situation justify an injunction more than the other?",
+   1
+  ],
+  [
+   1398.48,
+   "MR. PHILLIPS",
+   "injunction",
+   "That's what the injunction is trying to say.",
+   1
+  ],
+  [
+   1405.74,
+   "MR. PHILLIPS",
+   "injunction",
+   "But if you choose not to occupy it, it's not to say that you abandon your right to an injunction, but that that ought to be a legitimate, individualized consideration, among other considerations --",
+   1
+  ],
+  [
+   1430.96,
+   "MR. PHILLIPS",
+   "troll",
+   "Again, it's not -- I'm not looking for a presumption the other way and I'm not looking for categorical rules that say that if you -- if you're a nonperforming entity, that you don't get a license, or even if you're a troll, as that term gets bandied around, that you're never entitled to a -- to an injunction.",
+   1
+  ],
+  [
+   1434.52,
+   "MR. PHILLIPS",
+   "injunction",
+   "Again, it's not -- I'm not looking for a presumption the other way and I'm not looking for categorical rules that say that if you -- if you're a nonperforming entity, that you don't get a license, or even if you're a troll, as that term gets bandied around, that you're never entitled to a -- to an injunction.",
+   1
+  ],
+  [
+   1435.2,
+   "JUSTICE KENNEDY",
+   "troll",
+   "Well, is -- is the troll the scary thing under the bridge, or is it a fishing technique?",
+   1
+  ],
+  [
+   1436.58,
+   "JUSTICE KENNEDY",
+   "bridge",
+   "Well, is -- is the troll the scary thing under the bridge, or is it a fishing technique?",
+   1
+  ],
+  [
+   1443.1,
+   "MR. PHILLIPS",
+   "bridge",
+   "For my clients, it's been the scary thing under the bridge, but --",
+   1
+  ],
+  [
+   1445.26,
+   "JUSTICE KENNEDY",
+   "troll",
+   "I mean, is that what the troll is?",
+   1
+  ],
+  [
+   1453.9,
+   "MR. PHILLIPS",
+   "troll",
+   "Yes, I believe that's the -- I think that's what -- what it is, although you -- maybe we should think of it more as Orks, now that we have a new generation, but at this point troll is the word that gets -- that gets used.",
+   1
+  ],
+  [
+   1486.38,
+   "MR. MINEAR",
+   "injunction",
+   "And the United States further submits the patentee's right to an injunction should be covered by the familiar four-factor test this Court has applied in cases such as Weinberger v. Romero-Barcelo.",
+   1
+  ],
+  [
+   1590.24,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "What if by the time you get to the injunction stage, the -- the patent office has, you know, rejected all of the underlying claims in a preliminary way?",
+   1
+  ],
+  [
+   1604.68,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "Can the district court take that into account in deciding not to issue an injunction?",
+   1
+  ],
+  [
+   1659.56,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "Footnote 27 says that's a basis for staying the injunction.",
+   1
+  ],
+  [
+   1662.04,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "It seems to me if it's a basis for staying the injunction, it's a basis not to issue one in the first place.",
+   1
+  ],
+  [
+   1668.42,
+   "MR. MINEAR",
+   "injunction",
+   "Well, it also might be a -- a basis in terms of how to structure the injunction.",
+   1
+  ],
+  [
+   1779.62,
+   "MR. MINEAR",
+   "injunction",
+   "And that is why, as Judge Easterbrook noted in the Catheter case, the injunction harnesses the market to determine what the market value of that patent is.",
+   1
+  ],
+  [
+   1826.66,
+   "JUSTICE SCALIA",
+   "injunction",
+   "They're just talking about, you know, the -- the past actions should -- should be compensable by damages and not -- they should not be subjected to a very threatening injunction.",
+   1
+  ],
+  [
+   1865.8,
+   "MR. MINEAR",
+   "injunction",
+   "We are suggesting what Justice Kennedy suggested; namely, that the injunction proceedings provide an opportunity to determine whether or not the supposed work-around that eBay has will work or will not, and the injunction will be structured to allow it or not, depending on whether or not it's determined to be infringing.",
+   2
+  ],
+  [
+   1889.64,
+   "MR. MINEAR",
+   "injunction",
+   "But our view is that by issuing the injunction, the district court, in the proceedings leading up to the injunction, can determine whether or not this work-around is valid or not.",
+   2
+  ],
+  [
+   1898.68,
+   "JUSTICE KENNEDY",
+   "injunction",
+   "Is there a classic case where the injunction should not be issued?",
+   1
+  ],
+  [
+   1922.88,
+   "MR. MINEAR",
+   "injunction",
+   "In the case of a nonwillful infringer, for instance, that has made good faith investments that might be set aside by the -- by an injunction, there might be grounds in those circumstances not to issue an injunction.",
+   2
+  ],
+  [
+   1930.16,
+   "MR. MINEAR",
+   "injunction",
+   "If the injunction would threaten national security, public health and safety, undermine core aspects of commerce --",
+   1
+  ],
+  [
+   1946.68,
+   "MR. MINEAR",
+   "injunction",
+   "Well, business processes are not -- the district court clearly erred here in saying that the mere debate about business process patents is a reason for withholding injunctions.",
+   1
+  ],
+  [
+   1955.46,
+   "MR. MINEAR",
+   "injunction",
+   "That simply is not a sufficient view -- reason in our mind for weighing against the general public interest and the enforceability of patents and the use of injunctions to make sure that those property rights are secure.",
+   1
+  ],
+  [
+   1965.64,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "You're devaluing the value of a particular patent by denying the injunction simply because the people who infringed it weren't willful, and I wonder why that makes sense.",
+   1
+  ],
+  [
+   2110.48,
+   "MR. WAXMAN",
+   "injunction",
+   "-- that long, perhaps centuries, before Justice Story ever wrote his commentaries on equity, it has been firmly, unequivocally established that a final judgment, not -- we're not talking about an interlocutory order, but a final judgment of patent infringement yields an injunction in all but the very rare case.",
+   1
+  ],
+  [
+   2175.9,
+   "MR. WAXMAN",
+   "injunction",
+   "And under traditional equity principles, a showing of either of those things, either irreparable injury or a continuing harm, warrants an injunction in the owner's favor unless the offending party can marshal very strong equities otherwise.",
+   1
+  ],
+  [
+   2292.28,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "Is that a factor that a district court could take into account in deciding whether to issue an injunction?",
+   1
+  ],
+  [
+   2293.88,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "Say the injunction question came up right now, today.",
+   1
+  ],
+  [
+   2348.74,
+   "MR. WAXMAN",
+   "injunction",
+   "It then comes running in and a rule that would allow a district judge now to give notice of that in denying an injunction would basically be a -- an open invitation for everybody to go ahead and try and win at trial, go through the whole multi year process, and if you don't, just put it into reexam.",
+   1
+  ],
+  [
+   2392.18,
+   "MR. WAXMAN",
+   "injunction",
+   "So we think, in the circumstances of this case, where the district judge had no reason to consider reexam because eBay hadn't invoked reexam at the time, it would be an abuse of discretion for the court to either refuse an injunction or stay it in light of the fact that it's now proceeding.",
+   1
+  ],
+  [
+   2459.82,
+   "JUSTICE BREYER",
+   "injunction",
+   "Now, couple that with a client or a patentee who also waits for a long time, waits till the invention is embedded in a series of other inventions so that if, in fact, there's an injunction, what will happen is that the patentee will be able to extract far more than this particular invention is worth because the infringer would have to give up the entire invention.",
+   1
+  ],
+  [
+   2512.32,
+   "JUSTICE BREYER",
+   "troll",
+   "The main point -- what I was trying to do is I was trying to take what I'd call the patent troll case.",
+   1
+  ],
+  [
+   2516.24,
+   "MR. WAXMAN",
+   "troll",
+   "First of all, this is no patent troll.",
+   1
+  ],
+  [
+   2618.82,
+   "MR. WAXMAN",
+   "injunction",
+   "The district court decision in this case is the first case in the context of a permanent injunction.",
+   1
+  ],
+  [
+   2621.58,
+   "MR. WAXMAN",
+   "injunction",
+   "And I'll explain why preliminary injunctions that seek to preserve the status quo are different.",
+   1
+  ],
+  [
+   2626.18,
+   "MR. WAXMAN",
+   "injunction",
+   "This is the first permanent injunction case I'm aware of that has ever thought that exploiting the patent by licensing it to others to make use of would in -- somehow be costly or disable you from obtaining the relief that section 283 and the -- and tradition provided.",
+   1
+  ],
+  [
+   2679.04,
+   "MR. WAXMAN",
+   "injunction",
+   "And unless there is an instance in which the patent has expired, the -- the infringer is out of business and can show that it couldn't possibly infringe anymore, an injunction issues to prevent further violation.",
+   1
+  ],
+  [
+   2712.84,
+   "JUSTICE BREYER",
+   "injunction",
+   "So if you have a case where, on the one hand, it's easier to calculate the damage remedy, and at the same time you fear that to issue an injunction will produce a harm to the other side way out of proportion to, in fact, the value that's being lost by infringing on the patent, then those are two things you'd put in the balance.",
+   1
+  ],
+  [
+   2758.08,
+   "MR. WAXMAN",
+   "troll",
+   "Professor Lemley testified under oath to Congress that, even though there are problems with patent trolls, in the case of a willful infringer, the law -- equity doesn't balance private harms.",
+   1
+  ],
+  [
+   2871.58,
+   "MR. WAXMAN",
+   "injunction",
+   "There is no doubt that -- that MercExchange will not be able to start getting patent royalties from AutoTrader unless and until it obtains this injunction.",
+   1
+  ],
+  [
+   2877.84,
+   "CHIEF JUSTICE ROBERTS",
+   "troll",
+   "Mr. Waxman, you mentioned, in -- in responding to the suggestion that we're dealing with a troll, you described -- what exactly is the invention here?",
+   1
+  ],
+  [
+   2917.12,
+   "CHIEF JUSTICE ROBERTS",
+   "injunction",
+   "And so isn't that a factor the district court can take into account in deciding whether to issue an injunction because it's going to be hard to issue an injunction to define exactly when it's going to be violated and when it's not?",
+   2
+  ],
+  [
+   2929.72,
+   "MR. WAXMAN",
+   "injunction",
+   "Well, Mr. Chief Justice, if it turns out that it's too hard and -- and the -- and a specific injunction can't be written, rule 65(d) requires that an injunction not issue.",
+   2
+  ],
+  [
+   2941.9,
+   "MR. WAXMAN",
+   "injunction",
+   "And in fact, as we've cited in pages 17 and 18 and, I think, 19 of our brief, the Federal Circuit has, in fact, overruled injunctions that were insufficiently precise to satisfy rule 65.",
+   1
+  ],
+  [
+   2950.66,
+   "MR. WAXMAN",
+   "software developer",
+   "But the claim of imprecision here is -- look, I'm not a software developer and I have reason to believe that neither is Your Honor, and I -- I can't --",
+   1
+  ],
+  [
+   2962.14,
+   "CHIEF JUSTICE ROBERTS",
+   "software developer",
+   "I may not be a software developer, but as I read the invention, it's displaying pictures of your wares on a computer network and, you know, picking which ones you want and buying them.",
+   1
+  ],
+  [
+   3078.54,
+   "MR. WAXMAN",
+   "injunction",
+   "And we certainly agree with the United States that when -- if the judgment is affirmed, the case will go back and the district court will then have to address a point it hasn't addressed yet, which is is the -- is the -- the permanent injunction proposed by MercExchange adequate or inadequate and how can it be made specific, and this supposed work-around -- does it or doesn't it violate the terms of the injunction.",
+   2
+  ],
+  [
+   3145.18,
+   "JUSTICE STEVENS",
+   "injunction",
+   "What kind of -- what do these injunctions say?",
+   1
+  ],
+  [
+   3188.18,
+   "JUSTICE STEVENS",
+   "injunction",
+   "But it seems to me a great difference might turn on what exactly the injunction provided.",
+   1
+  ],
+  [
+   3189.9,
+   "JUSTICE STEVENS",
+   "injunction",
+   "Some injunctions must be -- might be much more burdensome than some others.",
+   1
+  ],
+  [
+   3197.74,
+   "MR. WAXMAN",
+   "injunction",
+   "And the terms of an injunction are appealable, and the Federal Circuit has reviewed actual terms of permanent injunctions and reversed a number of them and said this is -- this doesn't satisfy rule 65 or it doesn't meet other requirements.",
+   2
+  ],
+  [
+   3267.24,
+   "JUSTICE STEVENS",
+   "injunction",
+   "Is the draft of the injunction that you want in the record?",
+   1
+  ],
+  [
+   3293.58,
+   "MR. WAXMAN",
+   "injunction",
+   "But it certainly will have to be changed because the court of appeals invalidated the '176 patent, which the jury found had been infringed, and therefore, it's -- it will need to be revisited when the case goes back for the entry of an injunction.",
+   1
+  ],
+  [
+   3316.44,
+   "MR. PHILLIPS",
+   "injunction",
+   "That's the proposed permanent injunction, and I won't purport to read the whole thing, but it starts off with anything directly or indirectly, and it goes on for three pages.",
+   1
+  ],
+  [
+   3327.98,
+   "MR. PHILLIPS",
+   "injunction",
+   "It is, I think, fairly characterized as a very broad injunction.",
+   1
+  ],
+  [
+   3486.38,
+   "MR. PHILLIPS",
+   "injunction",
+   "And what he did in this case was to go through each of the findings of the district court with respect to the use of the -- of the licensing arrangements, the failure to commercialize this, not being in the business, and said, does any of these rise to the level of the kind of public interest concern that is the only legitimate consideration this court will use in deciding whether or not the district court can justify not granting an injunction in a particular case, instead of what is clearly the traditional approach of equity, which is to say, look at the -- the primary two issues, you know, the flip side of the same thing, so I'll just treat it the one way.",
+   1
+  ]
+ ],
+ "laugh_rows": [
+  {
+   "t": 765.74,
+   "next": 765.74,
+   "speaker": "MR. PHILLIPS",
+   "before": "denying that inventor, you know, the -- what he'd give to Bell Labs -- or whatever Bell Labs is these days -- that does practice the inventions -- I should know that actually, but --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1438.62,
+   "next": 1438.62,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "around, that you're never entitled to a -- to an injunction. Well, is -- is the troll the scary thing under the bridge, or is it a fishing technique? I -- I want --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1443.68,
+   "next": 1443.68,
+   "speaker": "MR. PHILLIPS",
+   "before": "is the troll the scary thing under the bridge, or is it a fishing technique? I -- I want -- For my clients, it's been the scary thing under the bridge, but --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2076.18,
+   "next": 2077.02,
+   "speaker": "MR. MINEAR",
+   "before": "patent and who is licensing a patent that probably won't be developed very much beyond what it is -- it's fairly easy to -- I'll ask Mr. Waxman. Thank you, Your Honor.",
+   "pause": 0.84,
+   "loud_s": 0.4,
+   "mean_over": 19.6,
+   "peak_over": 27.7,
+   "size": "medium"
+  },
+  {
+   "t": 2086.64,
+   "next": 2086.64,
+   "speaker": "MR. WAXMAN",
+   "before": "Thank you, Mr. Minear. Mr. Waxman. Mr. Chief Justice, and may it please the Court: I -- I can anticipate at least one question. Let me just say at the outset --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2957.02,
+   "next": 2957.02,
+   "speaker": "MR. WAXMAN",
+   "before": "rule 65. But the claim of imprecision here is -- look, I'm not a software developer and I have reason to believe that neither is Your Honor, and I -- I can't --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2972.88,
+   "next": 2973.28,
+   "speaker": "MR. WAXMAN",
+   "before": "displaying pictures of your wares on a computer network and, you know, picking which ones you want and buying them. I -- I might have been able to do that. Well --",
+   "pause": 0.4,
+   "loud_s": 0.25,
+   "mean_over": 20.3,
+   "peak_over": 21.8,
+   "size": "small"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -46.5,
+ "opening_start": 6.58,
+ "opening": [
+  [
+   6.58,
+   "MR. PHILLIPS",
+   "Thank you, Mr. Chief Justice, and may it please the Court: The fundamental question that's posed in this particular case is whether or not the court of appeals by adopting a rule that declares categorically that three out of the four traditional factors for deciding whether or not to grant permanent injunctive relief will be irrebuttably presumed to be satisfied whenever a jury has found that a patent is valid and has been infringed. The rule in the Federal Circuit for at least 20 years has been that if you have validity and infringement decided by the jury, that then there is irrebuttable finding of -- of irreparable injury, of inadequate remedy at law, and that the balance of harms decidedly favors the plaintiff, and that the only issue that remains available to the defendant in that circumstance is a heightened scrutiny on the standard of whether or not the -- the public interest commands that an injunction be denied in a particular case. And even in that context, the Federal Circuit's rule is extraordinarily stringent because not just any public interest can -- will satisfy, but instead, it has to be a public interest that endangers the public health."
+  ],
+  [
+   76.62,
+   "JUSTICE GINSBURG",
+   "Is that all in Judge Bryson's decision? I certainly didn't see it there."
+  ],
+  [
+   82.16,
+   "MR. PHILLIPS",
+   "That -- that is precise -- I think it's the only way to read Judge Bryson's decision, Justice Ginsburg, where the court says, at page 26a, that a permanent injunction will issue once infringement and validity have been adjudged, and then say, to be sure, it will not be so to protect the public interest. And we all know the traditional rule with respect to the grant of injunctive relief is that it's a four-factor test."
+  ],
+  [
+   106.36,
+   "JUSTICE GINSBURG",
+   "I didn't see anything about irrebuttable presumption."
+  ],
+  [
+   109.44,
+   "MR. PHILLIPS",
+   "Well, the point is that if an injunction follows with a finding of -- of validity and infringement, then that means that there has to be -- there has to be irreparable injury, inadequate remedy at law, and that the balance of hardships has to tilt in -- in favor of the plaintiff. And then the only issue that remains is whether or not the public interest justifies not granting an injunction under the circumstances of this case. It seems to me there's no other way to read that. And if you read it in the context of the -- of the previous 20 years of decisions from the Federal Circuit, it is absolutely clear. We don't have the opportunity to come back as a defendant in an infringement action and say, Your Honor, in the specific facts of this case, this is someone for whom money damages is a completely adequate remedy. And -- and it seems to me quite clear that section 283 is designed to be exactly the opposite of the way the Federal Circuit has interpreted this -- this scheme. Section 283 says explicitly -- and this is at page 1 of the blue brief -- district courts, quote, may -- not shall -- grant injunctions in accordance with principles of equity. And principles of equity, as Justice Story said almost 200 years ago, systematically reject the idea that you will act on a categorical basis in deciding whether or not to grant or withdraw the"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2005/05-130",
+  "page_url": "https://www.oyez.org/cases/2005/05-130",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 15, 2006",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/22346",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-130/20060515o_05-130.delivery.mp3",
+  "duration": 262.138756,
+  "mp3_bytes": 1137342,
+  "asr_elapsed_s": 79.5,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   511,
+   547,
+   532
+  ],
+  "diffs": [
+   [
+    0.0,
+    "The opinion,",
+    ""
+   ],
+   [
+    5.52,
+    "Inc. vs. Merck Exchange.",
+    "Incorporated, v. MercExchange."
+   ],
+   [
+    26.92,
+    "Merck Exchange",
+    "MercExchange"
+   ],
+   [
+    37.98,
+    "Merck Exchange",
+    "MercExchange"
+   ],
+   [
+    48.32,
+    "Merck Exchange",
+    "MercExchange"
+   ],
+   [
+    60.44,
+    "Merck Exchange's",
+    "MercExchange\u2019s"
+   ],
+   [
+    74.06,
+    "Merck Exchange's",
+    "MercExchange\u2019s"
+   ],
+   [
+    100.3,
+    "our",
+    "an"
+   ],
+   [
+    144.22,
+    "deserved",
+    "disserved"
+   ],
+   [
+    195.52,
+    "",
+    "a"
+   ],
+   [
+    236.94,
+    "and",
+    "in"
+   ],
+   [
+    251.48,
+    "Ginsburg.",
+    "Ginsberg."
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 547,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "The opinion, Justice Thomas, has the opinion in 05-130, eBay Inc. vs. Merck Exchange."
+   ],
+   [
+    9.0,
+    "JUSTICE THOMAS",
+    "This case comes to us on a writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petitioners eBay and Half .com operate Internet websites that allow private sellers to list goods that they wish to sell. Respondent Merck Exchange holds a business method patent for an electronic market designed to facilitate the sale of goods between private individuals. Merck Exchange sought to license its patent to eBay and Half .com, but the parties failed to reach an agreement. As a result, Merck Exchange filed a patent infringement suit against eBay and Half .com in the United States District Court for the Eastern District of Virginia. A jury found that Merck Exchange's patent was valid, that eBay and Half .com had infringed that patent, and that an award of damages was appropriate. The district court then denied Merck Exchange's motion for permanent injunction relief. The Court of Appeals for the Federal Circuit reversed, applying its general rule that a permanent injunction should issue upon a finding of patent infringement absent exceptional circumstances. We granted certiorari to determine the appropriateness of this general rule. In our opinion filed with the clerk today, we vacate the judgment of the Court of Appeals. Ordinarily, a Federal court considering whether to award permanent injunctive relief to a prevailing plaintiff applies the four-factor test historically employed by courts of equity. A plaintiff must demonstrate, one, that it has suffered an irreparable injury. Two, that remedies available at law, such as monetary damages, are inadequate to compensate for that injury. Three, that considering the balance of hardships between the plaintiff and defendant, a remedy in equity is warranted, and four, that the public interest would not be deserved by a permanent injunction. The decision to grant or deny permanent injunctive relief is an act of equitable discretion by the district court, reviewable on appeal for abuse of discretion. We conclude that these familiar principles apply with equal force to disputes arising under the Patent Act. Nothing in the Patent Act indicates that Congress intended to depart from the long tradition of equity practice. To the contrary, the Patent Act expressly provides that injunctions"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "The opinion, Justice Thomas, has the opinion in 05-130, eBay Inc. vs. Merck Exchange."
+   ],
+   [
+    9.0,
+    "JUSTICE THOMAS",
+    "This case comes to us on a writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petitioners eBay and Half .com operate Internet websites that allow private sellers to list goods that they wish to sell. Respondent Merck Exchange holds a business method patent for an electronic market designed to facilitate the sale of goods between private individuals. Merck Exchange sought to license its patent to eBay and Half .com, but the parties failed to reach an agreement. As a result, Merck Exchange filed a patent infringement suit against eBay and Half .com in the United States District Court for the Eastern District of Virginia. A jury found that Merck Exchange's patent was valid, that eBay and Half .com had infringed that patent, and that an award of damages was appropriate. The district court then denied Merck Exchange's motion for permanent injunction relief. The Court of Appeals for the Federal Circuit reversed, applying its general rule that a permanent injunction should issue upon a finding of patent infringement absent exceptional circumstances. We granted certiorari to determine the appropriateness of this general rule. In our opinion filed with the clerk today, we vacate the judgment of the Court of Appeals. Ordinarily, a Federal court considering whether to award permanent injunctive relief to a prevailing plaintiff applies the four-factor test historically employed by courts of equity. A plaintiff must demonstrate, one, that it has suffered an irreparable injury. Two, that remedies available at law, such as monetary damages, are inadequate to compensate for that injury. Three, that considering the balance of hardships between the plaintiff and defendant, a remedy in equity is warranted, and four, that the public interest would not be deserved by a permanent injunction. The decision to grant or deny permanent injunctive relief is an act of equitable discretion by the district court, reviewable on appeal for abuse of discretion. We conclude that these familiar principles apply with equal force to disputes arising under the Patent Act. Nothing in the Patent Act indicates that Congress intended to depart from the long tradition of equity practice. To the contrary, the Patent Act expressly provides that injunctions may issue in accordance with the principles of equity. Neither the district court nor the Court of Appeals below fairly applied these traditional equitable principles in deciding Respondent's motion for permanent injunction. Accordingly, we vacate the judgment of the Court of Appeals so that the district court may apply that framework in the first instance. In doing so, we take no position on whether permanent injunctive relief should or should not issue in this particular case or, indeed, in any number of other disputes arising under the Patent Act. We hold only that the decision whether to grant or deny injunctive relief rests within the equitable discretion of the district courts and that such discretion must be exercised consistent with traditional principles of equity and patent disputes no less than in other cases governed by such standards. This decision is unanimous. The Chief Justice has filed a concurring opinion joined by Justices Scalia and Ginsburg. Justice Kennedy has also filed a concurring opinion joined by Justices Stevens, Souter, and Breyer."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "The opinion, Justice Thomas, has the opinion in 05-130, eBay Inc."
+   ],
+   [
+    6.5,
+    "CHIEF JUSTICE ROBERTS",
+    "vs. Merck Exchange."
+   ],
+   [
+    9.0,
+    "JUSTICE THOMAS",
+    "This case comes to us on a writ of certiorari to the United States Court of Appeals for the Federal Circuit."
+   ],
+   [
+    15.62,
+    "JUSTICE THOMAS",
+    "Petitioners eBay and Half .com operate Internet websites that allow private sellers to list goods that they wish to sell."
+   ],
+   [
+    26.04,
+    "JUSTICE THOMAS",
+    "Respondent Merck Exchange holds a business method patent for an electronic market designed to facilitate the sale of goods between private individuals."
+   ],
+   [
+    37.98,
+    "JUSTICE THOMAS",
+    "Merck Exchange sought to license its patent to eBay and Half .com, but the parties failed to reach an agreement."
+   ],
+   [
+    46.88,
+    "JUSTICE THOMAS",
+    "As a result, Merck Exchange filed a patent infringement suit against eBay and Half .com in the United States District Court for the Eastern District of Virginia."
+   ],
+   [
+    59.12,
+    "JUSTICE THOMAS",
+    "A jury found that Merck Exchange's patent was valid, that eBay and Half .com had infringed that patent, and that an award of damages was appropriate."
+   ],
+   [
+    72.16,
+    "JUSTICE THOMAS",
+    "The district court then denied Merck Exchange's motion for permanent injunction relief."
+   ],
+   [
+    78.14,
+    "JUSTICE THOMAS",
+    "The Court of Appeals for the Federal Circuit reversed, applying its general rule that a permanent injunction should issue upon a finding of patent infringement absent exceptional circumstances."
+   ],
+   [
+    93.02,
+    "JUSTICE THOMAS",
+    "We granted certiorari to determine the appropriateness of this general rule."
+   ],
+   [
+    100.18,
+    "JUSTICE THOMAS",
+    "In our opinion filed with the clerk today, we vacate the judgment of the Court of Appeals."
+   ],
+   [
+    106.44,
+    "JUSTICE THOMAS",
+    "Ordinarily, a Federal court considering whether to award permanent injunctive relief to a prevailing plaintiff applies the four-factor test historically employed by courts of equity."
+   ],
+   [
+    118.98,
+    "JUSTICE THOMAS",
+    "A plaintiff must demonstrate, one, that it has suffered an irreparable injury."
+   ],
+   [
+    124.08,
+    "JUSTICE THOMAS",
+    "Two, that remedies available at law, such as monetary damages, are inadequate to compensate for that injury."
+   ],
+   [
+    133.34,
+    "JUSTICE THOMAS",
+    "Three, that considering the balance of hardships between the plaintiff and defendant, a remedy in equity is warranted, and four, that the public interest would not be deserved by a permanent injunction."
+   ],
+   [
+    147.6,
+    "JUSTICE THOMAS",
+    "The decision to grant or deny permanent injunctive relief is an act of equitable discretion by the district court, reviewable on appeal for abuse of discretion."
+   ],
+   [
+    158.28,
+    "JUSTICE THOMAS",
+    "We conclude that these familiar principles apply with equal force to disputes arising under the Patent Act."
+   ],
+   [
+    165.78,
+    "JUSTICE THOMAS",
+    "Nothing in the Patent Act indicates that Congress intended to depart from the long tradition of equity practice."
+   ],
+   [
+    175.76,
+    "JUSTICE THOMAS",
+    "To the contrary, the Patent Act expressly provides that injunctions may issue in accordance with the principles of equity."
+   ],
+   [
+    186.48,
+    "JUSTICE THOMAS",
+    "Neither the district court nor the Court of Appeals below fairly applied these traditional equitable principles in deciding Respondent's motion for permanent injunction."
+   ],
+   [
+    197.84,
+    "JUSTICE THOMAS",
+    "Accordingly, we vacate the judgment of the Court of Appeals so that the district court may apply that framework in the first instance."
+   ],
+   [
+    206.7,
+    "JUSTICE THOMAS",
+    "In doing so, we take no position on whether permanent injunctive relief should or should not issue in this particular case or, indeed, in any number of other disputes arising under the Patent Act."
+   ],
+   [
+    221.0,
+    "JUSTICE THOMAS",
+    "We hold only that the decision whether to grant or deny injunctive relief rests within the equitable discretion of the district courts and that such discretion must be exercised consistent with traditional principles of equity and patent disputes no less than in other cases governed by such standards."
+   ],
+   [
+    243.1,
+    "JUSTICE THOMAS",
+    "This decision is unanimous."
+   ],
+   [
+    244.76,
+    "JUSTICE THOMAS",
+    "The Chief Justice has filed a concurring opinion joined by Justices Scalia and Ginsburg."
+   ],
+   [
+    253.2,
+    "JUSTICE THOMAS",
+    "Justice Kennedy has also filed a concurring opinion joined by Justices Stevens, Souter, and Breyer."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    7.74,
+    14
+   ],
+   [
+    "JUSTICE THOMAS",
+    9.0,
+    260.94,
+    531
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "05-130",
+ "year": "2005",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2005/05-130",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2005/05-130/20060329a_05-130.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2005/05-130.pdf",
+ "model": "small.en",
+ "duration": 3563.650612,
+ "asr_elapsed_s": 1391.6,
+ "asr_words": 10415,
+ "official_words": 10674,
+ "matched": 10063,
+ "shared": 3,
+ "clamped": 0,
+ "trimmed": 19,
+ "rewindowed": 1,
+ "match_rate": 94.2758103803635,
+ "turns": 158,
+ "laugh_markers": 7,
+ "mp3_bytes": 28534565,
+ "pauses": 374,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 340,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.28% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-03"
+}
