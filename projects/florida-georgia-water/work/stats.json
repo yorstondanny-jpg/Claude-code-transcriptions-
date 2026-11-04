@@ -1,0 +1,477 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1552.96,
+   "next": 1552.96,
+   "speaker": "JUSTICE BREYER",
+   "before": "answer that question is the Corps. And whereas the other case wants to get rid of them, in your case, you don't want them. But I would like them here --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1626.94,
+   "next": 1628.54,
+   "speaker": "MR. GARRE",
+   "before": "the ultimate -- Well, what the Corps has said to me at the moment, I'm assuming, is sort of vague. My question is whether my question was a good question? Well --",
+   "pause": 1.6,
+   "loud_s": 1.45,
+   "mean_over": 28.4,
+   "peak_over": 32.8,
+   "size": "big"
+  },
+  {
+   "t": 1893.88,
+   "next": 1893.88,
+   "speaker": "JUSTICE BREYER",
+   "before": "down the Flint River. And then tomorrow, because they convince the mayor of Atlanta, whatever, to drink more Pepsi or something, or whatever they drink, Coca-Cola, I imagine, and -- and --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3192.28,
+   "next": 3192.28,
+   "speaker": "JUSTICE BREYER",
+   "before": "Could we ask for an amicus brief that does that? I -- I suppose you could if -- What do you think? In other words, what do you think we should do?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -50.3,
+ "opening_start": null,
+ "opening": [],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2017/142-Orig",
+  "page_url": "https://www.oyez.org/cases/2017/142-Orig",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 27, 2018",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24776",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2017/142-orig/142-orig_20180627-opinion.delivery.mp3",
+  "duration": 231.026939,
+  "mp3_bytes": 953986,
+  "asr_elapsed_s": 75.7,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   561,
+   593,
+   590
+  ],
+  "diffs": [
+   [
+    4.18,
+    "No.",
+    "number"
+   ],
+   [
+    20.52,
+    "an",
+    "the"
+   ],
+   [
+    27.12,
+    "want",
+    "were"
+   ],
+   [
+    28.9,
+    "there's",
+    "there is"
+   ],
+   [
+    33.86,
+    "It",
+    ""
+   ],
+   [
+    35.96,
+    "the",
+    ""
+   ],
+   [
+    49.14,
+    "going to",
+    "and go into"
+   ],
+   [
+    58.92,
+    "of",
+    ""
+   ],
+   [
+    60.64,
+    "we'd",
+    "we would"
+   ],
+   [
+    81.68,
+    "weather",
+    "whether"
+   ],
+   [
+    113.86,
+    "It",
+    "and"
+   ],
+   [
+    119.72,
+    "you",
+    "he"
+   ],
+   [
+    130.2,
+    "have",
+    "are"
+   ],
+   [
+    130.68,
+    "us, and",
+    "as in"
+   ],
+   [
+    132.14,
+    "that",
+    ""
+   ],
+   [
+    153.14,
+    "Corps.",
+    "Court."
+   ],
+   [
+    155.18,
+    "the",
+    ""
+   ],
+   [
+    173.04,
+    "They're",
+    "They are"
+   ],
+   [
+    173.98,
+    "-dependent.",
+    "dependant."
+   ],
+   [
+    179.86,
+    "southwestern river,",
+    ""
+   ],
+   [
+    182.88,
+    "I'd",
+    "I would"
+   ],
+   [
+    185.28,
+    "one called Cat Chataucci.",
+    "going forward Chattahoochee"
+   ],
+   [
+    197.2,
+    "",
+    "and"
+   ],
+   [
+    199.3,
+    "",
+    "the"
+   ]
+  ],
+  "dropped": [
+   [
+    9.4,
+    10.12,
+    "Breyer,"
+   ]
+  ],
+  "redone": [],
+  "words": 593,
+  "opening": [
+   [
+    0.92,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Breyer has the opinion of the court in Case No. 142 on our original docket, Florida v. Georgia."
+   ],
+   [
+    9.4,
+    "JUSTICE BREYER",
+    "this is a rather technical case in our original jurisdiction. Florida and Georgia for many years have disputed the Division of Water in an interstate water basin that goes from northern Georgia down through Florida and into the Gulf of Mexico. If you want to think of the rivers, there's the Flint River that goes along the eastern side. That's got a big capital Y. It would be on the right side if you looked at the Y. It goes from south of Atlanta down to the bottom of the state. And on the other side is the Chattahoochee, which goes along the western side to the bottom of the state. At the bottom of the state, they mix. They meet in Lake Seminole. They fly going to Florida, and they change their name to the Apalachicola, and they run down to the Gulf. Now, Florida says Georgia takes too much water out of the Flint. We said we'd exercise our original jurisdiction. We appointed a special master. He built a lengthy record, and eventually he filed a 70-page report recommending that this Court deny Florida's claim for relief, because in his view, even if Florida was right about what Georgia is doing with the water, even if there would be weather a significant amount of extra water, if Georgia gave the extra water, would come into Florida, depends upon the U .S. Army Corps of Engineers, which has dams on the Chattahoochee and which is not in the case. So the master's report says Florida failed to show by clear and convincing evidence that even if it was injured, it failed to show that the Court could grant meaningful relief by issuing an equitable decree. Florida took exceptions. It said here the special master applied too strict a standard about relief. And if you had a proper standard, Florida did show enough. So we have reviewed those parts of the record, and it's a big record, to which the master's report and the parties have referred us, and certain other parts that we thought were relevant. And what we do is remand the case to the master for further proceedings. Five of us think that the special master, as Florida said, did apply too strict a standard, and that under a proper standard, Florida did adequately show that relief may be possible with the core operation of the Corps. So we think the master should go on and make factual findings. Did Georgia, in fact, use too much of that Flint River water? And if so, could Florida benefit significantly from a cap on what Georgia does? Four of us dissent on that point. The opinions are lengthy. They're heavily fact-dependent. If you wish to learn something about the beauty and emotional appeal of that beautiful southwestern river,"
+   ]
+  ],
+  "full_text": [
+   [
+    0.92,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Breyer has the opinion of the court in Case No. 142 on our original docket, Florida v. Georgia."
+   ],
+   [
+    9.4,
+    "JUSTICE BREYER",
+    "this is a rather technical case in our original jurisdiction. Florida and Georgia for many years have disputed the Division of Water in an interstate water basin that goes from northern Georgia down through Florida and into the Gulf of Mexico. If you want to think of the rivers, there's the Flint River that goes along the eastern side. That's got a big capital Y. It would be on the right side if you looked at the Y. It goes from south of Atlanta down to the bottom of the state. And on the other side is the Chattahoochee, which goes along the western side to the bottom of the state. At the bottom of the state, they mix. They meet in Lake Seminole. They fly going to Florida, and they change their name to the Apalachicola, and they run down to the Gulf. Now, Florida says Georgia takes too much water out of the Flint. We said we'd exercise our original jurisdiction. We appointed a special master. He built a lengthy record, and eventually he filed a 70-page report recommending that this Court deny Florida's claim for relief, because in his view, even if Florida was right about what Georgia is doing with the water, even if there would be weather a significant amount of extra water, if Georgia gave the extra water, would come into Florida, depends upon the U .S. Army Corps of Engineers, which has dams on the Chattahoochee and which is not in the case. So the master's report says Florida failed to show by clear and convincing evidence that even if it was injured, it failed to show that the Court could grant meaningful relief by issuing an equitable decree. Florida took exceptions. It said here the special master applied too strict a standard about relief. And if you had a proper standard, Florida did show enough. So we have reviewed those parts of the record, and it's a big record, to which the master's report and the parties have referred us, and certain other parts that we thought were relevant. And what we do is remand the case to the master for further proceedings. Five of us think that the special master, as Florida said, did apply too strict a standard, and that under a proper standard, Florida did adequately show that relief may be possible with the core operation of the Corps. So we think the master should go on and make factual findings. Did Georgia, in fact, use too much of that Flint River water? And if so, could Florida benefit significantly from a cap on what Georgia does? Four of us dissent on that point. The opinions are lengthy. They're heavily fact-dependent. If you wish to learn something about the beauty and emotional appeal of that beautiful southwestern river, southeastern river basin, I think I'd have to recommend songs. Alan Jackson has one called Cat Chataucci. And even Bing Crosby and Bob Hope have one called Apalachicola. But if you want to learn something about water rights, equitable apportionment of river water among States, and other related legal and factual circumstances concerning this interstate river basin, then I can recommend that you read the opinions in this case, which we hope, despite their length, hold legal interest. Justice Thomas has filed a thorough dissenting opinion. And the majority is not short. And Justice Thomas is joined by Justices Alito, Kagan, and Gorsuch."
+   ]
+  ],
+  "sentences": [
+   [
+    0.92,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Breyer has the opinion of the court in Case No. 142 on our original docket, Florida v. Georgia."
+   ],
+   [
+    9.4,
+    "JUSTICE BREYER",
+    "this is a rather technical case in our original jurisdiction."
+   ],
+   [
+    15.08,
+    "JUSTICE BREYER",
+    "Florida and Georgia for many years have disputed the Division of Water in an interstate water basin that goes from northern Georgia down through Florida and into the Gulf of Mexico."
+   ],
+   [
+    26.6,
+    "JUSTICE BREYER",
+    "If you want to think of the rivers, there's the Flint River that goes along the eastern side."
+   ],
+   [
+    31.96,
+    "JUSTICE BREYER",
+    "That's got a big capital Y."
+   ],
+   [
+    33.86,
+    "JUSTICE BREYER",
+    "It would be on the right side if you looked at the Y."
+   ],
+   [
+    36.5,
+    "JUSTICE BREYER",
+    "It goes from south of Atlanta down to the bottom of the state."
+   ],
+   [
+    39.82,
+    "JUSTICE BREYER",
+    "And on the other side is the Chattahoochee, which goes along the western side to the bottom of the state."
+   ],
+   [
+    45.0,
+    "JUSTICE BREYER",
+    "At the bottom of the state, they mix."
+   ],
+   [
+    46.76,
+    "JUSTICE BREYER",
+    "They meet in Lake Seminole."
+   ],
+   [
+    48.48,
+    "JUSTICE BREYER",
+    "They fly going to Florida, and they change their name to the Apalachicola, and they run down to the Gulf."
+   ],
+   [
+    55.76,
+    "JUSTICE BREYER",
+    "Now, Florida says Georgia takes too much water out of the Flint."
+   ],
+   [
+    60.24,
+    "JUSTICE BREYER",
+    "We said we'd exercise our original jurisdiction."
+   ],
+   [
+    63.08,
+    "JUSTICE BREYER",
+    "We appointed a special master."
+   ],
+   [
+    65.14,
+    "JUSTICE BREYER",
+    "He built a lengthy record, and eventually he filed a 70-page report recommending that this Court deny Florida's claim for relief, because in his view, even if Florida was right about what Georgia is doing with the water, even if there would be weather a significant amount of extra water, if Georgia gave the extra water, would come into Florida, depends upon the U .S."
+   ],
+   [
+    89.44,
+    "JUSTICE BREYER",
+    "Army Corps of Engineers, which has dams on the Chattahoochee and which is not in the case."
+   ],
+   [
+    97.2,
+    "JUSTICE BREYER",
+    "So the master's report says Florida failed to show by clear and convincing evidence that even if it was injured, it failed to show that the Court could grant meaningful relief by issuing an equitable decree."
+   ],
+   [
+    111.94,
+    "JUSTICE BREYER",
+    "Florida took exceptions."
+   ],
+   [
+    113.86,
+    "JUSTICE BREYER",
+    "It said here the special master applied too strict a standard about relief."
+   ],
+   [
+    119.4,
+    "JUSTICE BREYER",
+    "And if you had a proper standard, Florida did show enough."
+   ],
+   [
+    123.3,
+    "JUSTICE BREYER",
+    "So we have reviewed those parts of the record, and it's a big record, to which the master's report and the parties have referred us, and certain other parts that we thought were relevant."
+   ],
+   [
+    133.96,
+    "JUSTICE BREYER",
+    "And what we do is remand the case to the master for further proceedings."
+   ],
+   [
+    138.88,
+    "JUSTICE BREYER",
+    "Five of us think that the special master, as Florida said, did apply too strict a standard, and that under a proper standard, Florida did adequately show that relief may be possible with the core operation of the Corps."
+   ],
+   [
+    154.16,
+    "JUSTICE BREYER",
+    "So we think the master should go on and make factual findings."
+   ],
+   [
+    158.04,
+    "JUSTICE BREYER",
+    "Did Georgia, in fact, use too much of that Flint River water?"
+   ],
+   [
+    161.14,
+    "JUSTICE BREYER",
+    "And if so, could Florida benefit significantly from a cap on what Georgia does?"
+   ],
+   [
+    167.74,
+    "JUSTICE BREYER",
+    "Four of us dissent on that point."
+   ],
+   [
+    170.66,
+    "JUSTICE BREYER",
+    "The opinions are lengthy."
+   ],
+   [
+    173.04,
+    "JUSTICE BREYER",
+    "They're heavily fact-dependent."
+   ],
+   [
+    175.46,
+    "JUSTICE BREYER",
+    "If you wish to learn something about the beauty and emotional appeal of that beautiful southwestern river, southeastern river basin, I think I'd have to recommend songs."
+   ],
+   [
+    184.48,
+    "JUSTICE BREYER",
+    "Alan Jackson has one called Cat Chataucci."
+   ],
+   [
+    187.38,
+    "JUSTICE BREYER",
+    "And even Bing Crosby and Bob Hope have one called Apalachicola."
+   ],
+   [
+    191.2,
+    "JUSTICE BREYER",
+    "But if you want to learn something about water rights, equitable apportionment of river water among States, and other related legal and factual circumstances concerning this interstate river basin, then I can recommend that you read the opinions in this case, which we hope, despite their length, hold legal interest."
+   ],
+   [
+    214.86,
+    "JUSTICE BREYER",
+    "Justice Thomas has filed a thorough dissenting opinion."
+   ],
+   [
+    219.28,
+    "JUSTICE BREYER",
+    "And the majority is not short."
+   ],
+   [
+    223.88,
+    "JUSTICE BREYER",
+    "And Justice Thomas is joined by Justices Alito, Kagan, and Gorsuch."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.92,
+    8.34,
+    19
+   ],
+   [
+    "JUSTICE BREYER",
+    9.4,
+    228.82,
+    572
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "142-Orig",
+ "year": "2017",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2017/142-Orig",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/142-Orig.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/142-orig_p8k0.pdf",
+ "model": "small.en",
+ "duration": 3709.488,
+ "asr_elapsed_s": 1766.6,
+ "asr_words": 10516,
+ "official_words": 10914,
+ "matched": 10064,
+ "shared": 7,
+ "clamped": 0,
+ "trimmed": 20,
+ "rewindowed": 1,
+ "match_rate": 92.21183800623054,
+ "turns": 280,
+ "laugh_markers": 4,
+ "mp3_bytes": 29676141,
+ "pauses": 412,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 414,
+  "match_rate": {
+   "ok": true,
+   "detail": "92.21% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-04"
+}

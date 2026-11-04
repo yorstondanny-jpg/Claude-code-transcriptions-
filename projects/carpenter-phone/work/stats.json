@@ -1,0 +1,535 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1457.57,
+   "next": 1459.53,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "it seems to me there's a much more normal expectation that businesses have your cell phone data. I think everybody, almost everybody, knows that. If I know it, everybody does.",
+   "pause": 1.96,
+   "loud_s": 1.65,
+   "mean_over": 24.1,
+   "peak_over": 31.8,
+   "size": "big"
+  },
+  {
+   "t": 2353.91,
+   "next": 2354.93,
+   "speaker": "JUSTICE SOTOMAYOR",
+   "before": "but it's okay to get the cell phone records of someone who I -- I don't, but I know that most young people have the phones in the bed with them.",
+   "pause": 1.02,
+   "loud_s": 0.3,
+   "mean_over": 13.4,
+   "peak_over": 21.1,
+   "size": "small"
+  },
+  {
+   "t": 2958.35,
+   "next": 2959.71,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "you can -- But let's just -- let's -- I don't think you can make that assumption. -- let's stick with my hypothetical, counsel, okay? I know you don't like it. I got that.",
+   "pause": 1.36,
+   "loud_s": 0.25,
+   "mean_over": 9.8,
+   "peak_over": 17.4,
+   "size": "small"
+  },
+  {
+   "t": 3051.41,
+   "next": 3051.41,
+   "speaker": "MR. DREEBEN",
+   "before": "property interest, you're not here to deny that that would be a search of my paper and effect? I'm not here to concede it either. Okay. And the reason that --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3613.97,
+   "next": 3614.05,
+   "speaker": "JUSTICE SOTOMAYOR",
+   "before": "I'd -- -- but how would you draw that line because that's the problem that's -- I'm not going to draw, Justice Breyer -- All right. How would -- how would you like to lose?",
+   "pause": 0.08,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 4237.03,
+   "next": 4237.41,
+   "speaker": "JUSTICE BREYER",
+   "before": "leaving the other for the future. Does that work or does -- No. It -- Now, I know you'd say no -- It doesn't -- doesn't work. -- but I need to know the reason.",
+   "pause": 0.38,
+   "loud_s": 0.2,
+   "mean_over": 19.9,
+   "peak_over": 25.1,
+   "size": "small"
+  },
+  {
+   "t": 4856.03,
+   "next": 4857.19,
+   "speaker": "JUSTICE ALITO",
+   "before": "further questions, we ask that you reverse the Sixth Circuit. Could I just ask you this question: Is any of this going to do any good for -- for Mr. Carpenter?",
+   "pause": 1.16,
+   "loud_s": 0.2,
+   "mean_over": 10.6,
+   "peak_over": 19.0,
+   "size": "small"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -49.3,
+ "opening_start": 17.7,
+ "opening": [
+  [
+   17.7,
+   "MR. WESSLER",
+   "Thank you. Mr. Chief Justice, and may it please the Court: At issue in this case is the government's warrantless collection of 127 days of Petitioner's cell site location information revealing his locations, movements, and associations over a long period. As in Jones, the collection of this information is a search, as it disturbs people's long-standing, practical expectation that their longer-term movements in public and private spaces will remain private."
+  ],
+  [
+   46.04,
+   "JUSTICE KENNEDY",
+   "So what -- what is the rule that you want us to adopt in this case, assuming that we keep Miller -- Miller and Smith versus Maryland on the books?"
+  ],
+  [
+   58.98,
+   "MR. WESSLER",
+   "The rule we seek is that longer-term periods or aggregations of cell site location information is a search and requires a warrant. We are not asking the Court to overturn those older cases. We think that the -- the lesson to be drawn from Riley and Jones and Kyllo is that any extension of pre-digital precedents to these kinds of digital data must rest on their own bottom."
+  ],
+  [
+   83.88,
+   "JUSTICE ALITO",
+   "How would you distinguish Miller?"
+  ],
+  [
+   86.74,
+   "MR. WESSLER",
+   "Miller involved more limited records, certainly they could reveal some sensitive information, but more limited records and, as this Court held, they were voluntarily conveyed in that they were created by the passing of negotiable instruments into the stream of commerce to transfer funds. What we have here is both more sensitive and less voluntary."
+  ],
+  [
+   106.46,
+   "JUSTICE ALITO",
+   "Why is it more -- why is it more sensitive? Why is cell site location information more sensitive than bank records, which particularly today, when a lot of people don't use cash much, if at all, a bank record will disclose purchases? It will not only disclose -- everything that the person buys, it will not only disclose locations, but it will disclose things that can be very sensitive."
+  ],
+  [
+   134.22,
+   "MR. WESSLER",
+   "I absolutely agree, Justice Alito, that the information in bank records can be quite sensitive, but what it cannot do is chart a minute-by-minute account of a person's locations and movements and associations over a long period regardless of what the person is doing at any given moment."
+  ],
+  [
+   148.56,
+   "JUSTICE ALITO",
+   "Yeah, I understand that. But why is that more sensitive than bank records that show, for example, periodicals to which a person -- to which a person subscribes or hotels where a person has stayed or entertainment establishments -- establishments that a person has visited --"
+  ],
+  [
+   166.24,
+   "JUSTICE KENNEDY",
+   "And particularly --"
+  ],
+  [
+   166.24,
+   "JUSTICE ALITO",
+   "-- and all sorts of other things."
+  ],
+  [
+   167.98,
+   "JUSTICE KENNEDY",
+   "Particularly because the information in the bank records that Justice Alito referred to are not publicly known. Your whereabouts are publicly known. People can see you. Surveillance officers can follow you. It seems to me that this is much less private than -- than the case that Justice Alito is discussing."
+  ],
+  [
+   185.98,
+   "MR. WESSLER",
+   "Well, I -- I don't agree, Your Honor, for the following reason: When a person is engaged in a financial transaction, passing a -- a check, a negotiable instrument, that's"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2017/16-402",
+  "page_url": "https://www.oyez.org/cases/2017/16-402",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 22, 2018",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24729",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2017/16-402/16-402_20180622-opinion.delivery.mp3",
+  "duration": 437.315918,
+  "mp3_bytes": 1779142,
+  "asr_elapsed_s": 93.2,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   1082,
+   1106,
+   1100
+  ],
+  "diffs": [
+   [
+    155.08,
+    "you've",
+    "you have"
+   ],
+   [
+    201.34,
+    "privacy",
+    "Privacies"
+   ],
+   [
+    255.1,
+    "It's",
+    "It is"
+   ],
+   [
+    258.12,
+    "There's",
+    "There is"
+   ],
+   [
+    296.44,
+    "precedence",
+    "precedents"
+   ],
+   [
+    344.94,
+    "is",
+    "as"
+   ]
+  ],
+  "dropped": [],
+  "redone": [
+   [
+    415.68,
+    "cases were mended",
+    "case is remanded"
+   ]
+  ],
+  "words": 1106,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court in Case 16-402, Carpenter v. United States. Cell phones work by continuously scanning their environment, picking up signals from the nearest cell site. Cell sites are antennas, usually on towers, but sometimes on buildings, flag poles, even church steeples. If you have a smartphone or something similar, it taps into the wireless network several times a minute, whether you're using one of its features or not, so long as the power is on. Every time the phone connects to a cell site, it generates a time-stamped record known as cell site location information, or CSLI. CSLI will show that your phone, which usually means you, was near that cell site at a particular time. Phone companies collect that information for their own purposes, currently retaining it for up to five years. That means that anyone with access to CSLI can track your movements over a period of several years. Now, in this case, the police suspected Timothy Carpenter of participating in the armed robbery of several Radio Shack and, ironically enough, T-Mobile stores. They knew his cell phone number and applied for court orders, but not search warrants, to get from his phone company the CSLI for the period during which the robberies took place. Altogether, the government was able to obtain some 13,000 location points cataloging Carpenter's movements over 127 days, more than 100 location points per day. Sure enough, the CSLI placed Carpenter, as the prosecutor told the jury, right where the robberies were at the exact time of the robberies. He was convicted and sentenced to over 100 years. The Fourth Amendment protects the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures. Our cases have said that its basic purpose is to safeguard the privacy and security of individuals against arbitrary invasions by government officials and to prevent too permeating police surveillance. Now, there are two major issues that have to be addressed in applying the Fourth Amendment to CSLI. The first is, how can you say that your privacy is invaded by a record of where you've been in public? We think the answer is that there is a difference between where you are at any particular moment in public and a record of where you've been every day, every moment, over several years. Now, in the past, the government could track you at most for a few days with the great expenditure of resources. But with CSLI, our cell phones become like ankle monitors,"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court in Case 16-402, Carpenter v. United States. Cell phones work by continuously scanning their environment, picking up signals from the nearest cell site. Cell sites are antennas, usually on towers, but sometimes on buildings, flag poles, even church steeples. If you have a smartphone or something similar, it taps into the wireless network several times a minute, whether you're using one of its features or not, so long as the power is on. Every time the phone connects to a cell site, it generates a time-stamped record known as cell site location information, or CSLI. CSLI will show that your phone, which usually means you, was near that cell site at a particular time. Phone companies collect that information for their own purposes, currently retaining it for up to five years. That means that anyone with access to CSLI can track your movements over a period of several years. Now, in this case, the police suspected Timothy Carpenter of participating in the armed robbery of several Radio Shack and, ironically enough, T-Mobile stores. They knew his cell phone number and applied for court orders, but not search warrants, to get from his phone company the CSLI for the period during which the robberies took place. Altogether, the government was able to obtain some 13,000 location points cataloging Carpenter's movements over 127 days, more than 100 location points per day. Sure enough, the CSLI placed Carpenter, as the prosecutor told the jury, right where the robberies were at the exact time of the robberies. He was convicted and sentenced to over 100 years. The Fourth Amendment protects the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures. Our cases have said that its basic purpose is to safeguard the privacy and security of individuals against arbitrary invasions by government officials and to prevent too permeating police surveillance. Now, there are two major issues that have to be addressed in applying the Fourth Amendment to CSLI. The first is, how can you say that your privacy is invaded by a record of where you've been in public? We think the answer is that there is a difference between where you are at any particular moment in public and a record of where you've been every day, every moment, over several years. Now, in the past, the government could track you at most for a few days with the great expenditure of resources. But with CSLI, our cell phones become like ankle monitors, enabling near-perfect surveillance at nearly no expense. And the government does not have to decide in advance that they want to track you. It can comb through the database of records and find out what you were doing years earlier. We think that allowing government access to these location records, which can reveal what one of our cases called the privacy of life, enables all-encompassing government surveillance of the sort that troubled the drafters of the Fourth Amendment. Even though the records primarily reveal where you were in public, that does not mean that there is no privacy interest in the detailed chronicle of your movements over time. Now, the government argues that you have no privacy interest in CSLI because it's not yours. It belongs to the phone company. Our cases have said, for example, that you have no privacy interest in your financial records if you've turned them over to your bank. And you have no privacy interest in the phone numbers you dial because you turn those over to the phone company to make a call. This is known as the third-party doctrine. It is an important principle, and we do not mean our decision today to undermine it as it has been applied. But CSLI is not just another business record. It's not just a phone number that you dialed. There's an enormous difference between such things and a comprehensive record of your movements over time casually collected by phone companies. We think that your privacy interest in such a record compiled from the use of your phone is not defeated simply because the record is held by your phone company. An individual retains a reasonable expectation of privacy in the CSLI corresponding to his cell phone number, and law enforcement must generally get a warrant to access that information. When Felix Frankfurter wrote an opinion 75 years ago trying to apply old precedence to airplanes and radio devices, he wrote that the Court must tread carefully so as not to, as he put it, embarrass the future. We appreciate that warning and the warnings of our informed dissenting colleagues and emphasize that our decision today is a narrow one. We do not call into question conventional surveillance techniques, nor do we address other business records that might incidentally reveal location information. We express no view on other collection methods involving foreign affairs or national security, and exceptions to the warrant requirement that apply elsewhere apply here, such as the exception for exigent circumstances when the police are pursuing a fleeing suspect or protecting individuals threatened with imminent harm. What is Justice Brandeis explained in a famous dissent that later became law concerning the then-new technology of wiretapping, this Court is obligated, as subtler and more far-reaching means of invading privacy have become available to the Government to ensure that the progress of science does not erode Fourth Amendment protections. Here, the progress of science has afforded law enforcement a powerful new tool to carry out its important responsibilities. At the same time, this tool risks government encroachment of the sort the framers, after consulting the lessons of history, drafted the Fourth Amendment to prevent. We declined to grant the State unrestricted access to a wireless carrier's database of physical location information. In light of the deeply revealing nature of CSLI, its depth, breadth, and comprehensive reach, and the inescapable and automatic nature of its collection, the fact that such information is gathered by a third party does not make it any less deserving of Fourth Amendment protection. The Government's acquisition of the cell site records here was a search under that amendment. The judgment of the court of appeals is reversed, and the case is remanded for further proceedings consistent with this opinion. Justice Kennedy has filed a dissenting opinion in which Justices Thomas and Alito have joined. Justice Thomas has filed a dissenting opinion. Justice Alito has filed a dissenting opinion in which Justice Thomas has joined. Justice Gorsuch has filed a dissenting opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court in Case 16-402, Carpenter v. United States."
+   ],
+   [
+    7.74,
+    "CHIEF JUSTICE ROBERTS",
+    "Cell phones work by continuously scanning their environment, picking up signals from the nearest cell site."
+   ],
+   [
+    14.32,
+    "CHIEF JUSTICE ROBERTS",
+    "Cell sites are antennas, usually on towers, but sometimes on buildings, flag poles, even church steeples."
+   ],
+   [
+    21.86,
+    "CHIEF JUSTICE ROBERTS",
+    "If you have a smartphone or something similar, it taps into the wireless network several times a minute, whether you're using one of its features or not, so long as the power is on."
+   ],
+   [
+    33.3,
+    "CHIEF JUSTICE ROBERTS",
+    "Every time the phone connects to a cell site, it generates a time-stamped record known as cell site location information, or CSLI."
+   ],
+   [
+    45.62,
+    "CHIEF JUSTICE ROBERTS",
+    "CSLI will show that your phone, which usually means you, was near that cell site at a particular time."
+   ],
+   [
+    53.48,
+    "CHIEF JUSTICE ROBERTS",
+    "Phone companies collect that information for their own purposes, currently retaining it for up to five years."
+   ],
+   [
+    60.5,
+    "CHIEF JUSTICE ROBERTS",
+    "That means that anyone with access to CSLI can track your movements over a period of several years."
+   ],
+   [
+    67.5,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, in this case, the police suspected Timothy Carpenter of participating in the armed robbery of several Radio Shack and, ironically enough, T-Mobile stores."
+   ],
+   [
+    79.44,
+    "CHIEF JUSTICE ROBERTS",
+    "They knew his cell phone number and applied for court orders, but not search warrants, to get from his phone company the CSLI for the period during which the robberies took place."
+   ],
+   [
+    91.34,
+    "CHIEF JUSTICE ROBERTS",
+    "Altogether, the government was able to obtain some 13,000 location points cataloging Carpenter's movements over 127 days, more than 100 location points per day."
+   ],
+   [
+    104.38,
+    "CHIEF JUSTICE ROBERTS",
+    "Sure enough, the CSLI placed Carpenter, as the prosecutor told the jury, right where the robberies were at the exact time of the robberies."
+   ],
+   [
+    113.56,
+    "CHIEF JUSTICE ROBERTS",
+    "He was convicted and sentenced to over 100 years."
+   ],
+   [
+    117.62,
+    "CHIEF JUSTICE ROBERTS",
+    "The Fourth Amendment protects the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures."
+   ],
+   [
+    128.1,
+    "CHIEF JUSTICE ROBERTS",
+    "Our cases have said that its basic purpose is to safeguard the privacy and security of individuals against arbitrary invasions by government officials and to prevent too permeating police surveillance."
+   ],
+   [
+    143.16,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, there are two major issues that have to be addressed in applying the Fourth Amendment to CSLI."
+   ],
+   [
+    150.22,
+    "CHIEF JUSTICE ROBERTS",
+    "The first is, how can you say that your privacy is invaded by a record of where you've been in public?"
+   ],
+   [
+    157.3,
+    "CHIEF JUSTICE ROBERTS",
+    "We think the answer is that there is a difference between where you are at any particular moment in public and a record of where you've been every day, every moment, over several years."
+   ],
+   [
+    168.88,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, in the past, the government could track you at most for a few days with the great expenditure of resources."
+   ],
+   [
+    175.54,
+    "CHIEF JUSTICE ROBERTS",
+    "But with CSLI, our cell phones become like ankle monitors, enabling near-perfect surveillance at nearly no expense."
+   ],
+   [
+    184.12,
+    "CHIEF JUSTICE ROBERTS",
+    "And the government does not have to decide in advance that they want to track you."
+   ],
+   [
+    188.86,
+    "CHIEF JUSTICE ROBERTS",
+    "It can comb through the database of records and find out what you were doing years earlier."
+   ],
+   [
+    195.12,
+    "CHIEF JUSTICE ROBERTS",
+    "We think that allowing government access to these location records, which can reveal what one of our cases called the privacy of life, enables all-encompassing government surveillance of the sort that troubled the drafters of the Fourth Amendment."
+   ],
+   [
+    209.38,
+    "CHIEF JUSTICE ROBERTS",
+    "Even though the records primarily reveal where you were in public, that does not mean that there is no privacy interest in the detailed chronicle of your movements over time."
+   ],
+   [
+    219.5,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, the government argues that you have no privacy interest in CSLI because it's not yours."
+   ],
+   [
+    224.46,
+    "CHIEF JUSTICE ROBERTS",
+    "It belongs to the phone company."
+   ],
+   [
+    226.4,
+    "CHIEF JUSTICE ROBERTS",
+    "Our cases have said, for example, that you have no privacy interest in your financial records if you've turned them over to your bank."
+   ],
+   [
+    234.38,
+    "CHIEF JUSTICE ROBERTS",
+    "And you have no privacy interest in the phone numbers you dial because you turn those over to the phone company to make a call."
+   ],
+   [
+    242.2,
+    "CHIEF JUSTICE ROBERTS",
+    "This is known as the third-party doctrine."
+   ],
+   [
+    244.98,
+    "CHIEF JUSTICE ROBERTS",
+    "It is an important principle, and we do not mean our decision today to undermine it as it has been applied."
+   ],
+   [
+    252.18,
+    "CHIEF JUSTICE ROBERTS",
+    "But CSLI is not just another business record."
+   ],
+   [
+    255.1,
+    "CHIEF JUSTICE ROBERTS",
+    "It's not just a phone number that you dialed."
+   ],
+   [
+    258.12,
+    "CHIEF JUSTICE ROBERTS",
+    "There's an enormous difference between such things and a comprehensive record of your movements over time casually collected by phone companies."
+   ],
+   [
+    266.7,
+    "CHIEF JUSTICE ROBERTS",
+    "We think that your privacy interest in such a record compiled from the use of your phone is not defeated simply because the record is held by your phone company."
+   ],
+   [
+    276.82,
+    "CHIEF JUSTICE ROBERTS",
+    "An individual retains a reasonable expectation of privacy in the CSLI corresponding to his cell phone number, and law enforcement must generally get a warrant to access that information."
+   ],
+   [
+    290.8,
+    "CHIEF JUSTICE ROBERTS",
+    "When Felix Frankfurter wrote an opinion 75 years ago trying to apply old precedence to airplanes and radio devices, he wrote that the Court must tread carefully so as not to, as he put it, embarrass the future."
+   ],
+   [
+    305.66,
+    "CHIEF JUSTICE ROBERTS",
+    "We appreciate that warning and the warnings of our informed dissenting colleagues and emphasize that our decision today is a narrow one."
+   ],
+   [
+    314.78,
+    "CHIEF JUSTICE ROBERTS",
+    "We do not call into question conventional surveillance techniques, nor do we address other business records that might incidentally reveal location information."
+   ],
+   [
+    324.4,
+    "CHIEF JUSTICE ROBERTS",
+    "We express no view on other collection methods involving foreign affairs or national security, and exceptions to the warrant requirement that apply elsewhere apply here, such as the exception for exigent circumstances when the police are pursuing a fleeing suspect or protecting individuals threatened with imminent harm."
+   ],
+   [
+    344.72,
+    "CHIEF JUSTICE ROBERTS",
+    "What is Justice Brandeis explained in a famous dissent that later became law concerning the then-new technology of wiretapping, this Court is obligated, as subtler and more far-reaching means of invading privacy have become available to the Government to ensure that the progress of science does not erode Fourth Amendment protections."
+   ],
+   [
+    365.9,
+    "CHIEF JUSTICE ROBERTS",
+    "Here, the progress of science has afforded law enforcement a powerful new tool to carry out its important responsibilities."
+   ],
+   [
+    373.14,
+    "CHIEF JUSTICE ROBERTS",
+    "At the same time, this tool risks government encroachment of the sort the framers, after consulting the lessons of history, drafted the Fourth Amendment to prevent."
+   ],
+   [
+    383.52,
+    "CHIEF JUSTICE ROBERTS",
+    "We declined to grant the State unrestricted access to a wireless carrier's database of physical location information."
+   ],
+   [
+    390.66,
+    "CHIEF JUSTICE ROBERTS",
+    "In light of the deeply revealing nature of CSLI, its depth, breadth, and comprehensive reach, and the inescapable and automatic nature of its collection, the fact that such information is gathered by a third party does not make it any less deserving of Fourth Amendment protection."
+   ],
+   [
+    407.16,
+    "CHIEF JUSTICE ROBERTS",
+    "The Government's acquisition of the cell site records here was a search under that amendment."
+   ],
+   [
+    412.72,
+    "CHIEF JUSTICE ROBERTS",
+    "The judgment of the court of appeals is reversed, and the case is remanded for further proceedings consistent with this opinion."
+   ],
+   [
+    419.96,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy has filed a dissenting opinion in which Justices Thomas and Alito have joined."
+   ],
+   [
+    425.54,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Thomas has filed a dissenting opinion."
+   ],
+   [
+    428.68,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has filed a dissenting opinion in which Justice Thomas has joined."
+   ],
+   [
+    433.68,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Gorsuch has filed a dissenting opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    436.12,
+    1097
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "16-402",
+ "year": "2017",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2017/16-402",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/16-402.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/16-402_6khn.pdf",
+ "model": "small.en",
+ "duration": 4921.872,
+ "asr_elapsed_s": 2106.3,
+ "asr_words": 13352,
+ "official_words": 13759,
+ "matched": 12952,
+ "shared": 5,
+ "clamped": 0,
+ "trimmed": 30,
+ "rewindowed": 0,
+ "match_rate": 94.13474816483756,
+ "turns": 339,
+ "laugh_markers": 7,
+ "mp3_bytes": 39375213,
+ "pauses": 605,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 463,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.13% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-04"
+}
