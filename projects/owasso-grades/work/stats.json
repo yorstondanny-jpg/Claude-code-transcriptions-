@@ -1,0 +1,690 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2001/00-1073.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2001/00-1073/20011127a_00-1073.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 190.72,
+   "next": 192.84,
+   "speaker": "QUESTION",
+   "before": "Your Honor. Both the decisions of this Court, with all due respect, are sometimes difficult for a practicing attorney to discern a clear line of -- They're hard for us, too.",
+   "pause": 2.12,
+   "loud_s": 1.95,
+   "mean_over": 24.2,
+   "peak_over": 27.9,
+   "size": "big"
+  },
+  {
+   "t": 595.4,
+   "next": 596.8,
+   "speaker": "QUESTION",
+   "before": "either to erase it, or erases it herself, or himself. What's your definition of maintain, what, a week, a month? I don't think that -- Make me an offer. What's your --",
+   "pause": 1.4,
+   "loud_s": 0.75,
+   "mean_over": 16.4,
+   "peak_over": 20.7,
+   "size": "medium"
+  },
+  {
+   "t": 617.84,
+   "next": 617.84,
+   "speaker": "QUESTION",
+   "before": "I think Congress was talking about -- and the legislative history bears this out. I know Your Honor is not particularly persuaded by that -- Some of my colleagues like that stuff.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2257.72,
+   "next": 2258.22,
+   "speaker": "QUESTION",
+   "before": "I remember in my third grade, my teacher, who thought it was her job to teach, had problems sometimes with discipline. And I might talk too much. I used to.",
+   "pause": 0.5,
+   "loud_s": 0.0,
+   "mean_over": 5.0,
+   "peak_over": 9.8,
+   "size": "small"
+  },
+  {
+   "t": 2330.613,
+   "next": 2330.613,
+   "speaker": "QUESTION",
+   "before": "for reasoned self-discipline. She says to the whole class -- that's how she keeps order in her class. That used to be true in the third grade. My teacher, Miss Rosmond --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2337.34,
+   "next": 2337.34,
+   "speaker": "QUESTION",
+   "before": "the whole class -- that's how she keeps order in her class. That used to be true in the third grade. My teacher, Miss Rosmond -- -- whom I recall with fondness, did --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2411.46,
+   "next": 2413.56,
+   "speaker": "QUESTION",
+   "before": "in which a teacher would run his or her classroom -- Senator -- -- for teaching and disciplinary purposes. And -- and if so, do we think that the Congress agreed with Senator Buckley?",
+   "pause": 2.1,
+   "loud_s": 0.15,
+   "mean_over": 7.3,
+   "peak_over": 14.4,
+   "size": "small"
+  },
+  {
+   "t": 2443.82,
+   "next": 2444.34,
+   "speaker": "QUESTION",
+   "before": "no gold stars on the -- on the paper that goes back to the student that any other student can see, or in these days, a Post-it with a happy face?",
+   "pause": 0.52,
+   "loud_s": 0.0,
+   "mean_over": 2.9,
+   "peak_over": 5.8,
+   "size": "small"
+  },
+  {
+   "t": 3160.64,
+   "next": 3160.64,
+   "speaker": "QUESTION",
+   "before": "as adults, I'm not doing this. I'm out of this class. I don't want people knowing what my -- I understand it's a -- You're out of the college. I mean, that --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3224.87,
+   "next": 3224.87,
+   "speaker": "QUESTION",
+   "before": "was the intent of the teacher to make a record. A -- a good alternate name for this statute would have been the Anti -- the Prevention of Mutiny Among Students Act?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3286.52,
+   "next": 3288.8,
+   "speaker": "QUESTION",
+   "before": "paper. Encourage the parent to come and -- and be informed as to what is happening -- To have the student grade their own paper might have some problems with it too.",
+   "pause": 2.28,
+   "loud_s": 1.95,
+   "mean_over": 20.5,
+   "peak_over": 24.6,
+   "size": "big"
+  },
+  {
+   "t": 3316.72,
+   "next": 3321.84,
+   "speaker": "QUESTION",
+   "before": "because they could write the answers on their hand. Well, you need two cheaters for that to work, whereas if you grade your own paper, it only takes one. Right?",
+   "pause": 5.12,
+   "loud_s": 1.85,
+   "mean_over": 19.2,
+   "peak_over": 30.8,
+   "size": "medium"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -46.3,
+ "opening_start": 33.56,
+ "opening": [
+  [
+   33.56,
+   "MR. RICHARDSON",
+   "Mr. Chief Justice, and may it please the Court: The issue presented by this case is whether Congress, in enacting the Family Educational Rights and Privacy Act, intended to prohibit the common and longstanding practice of peer grading of routine homework papers, quizzes, and tests. Congress did not intend FERPA to apply to such routine classroom activities, because Congress was concerned only with information that might have a long-term negative impact on a student's academic or career opportunities."
+  ],
+  [
+   62.14,
+   "QUESTION",
+   "Mr. --"
+  ],
+  [
+   62.22,
+   "QUESTION",
+   "Did you take the position in the court of appeals that there is no private contract?"
+  ],
+  [
+   71.08,
+   "MR. RICHARDSON",
+   "We did not raise that issue in the court of appeals, Your Honor. No, we did not."
+  ],
+  [
+   76.2,
+   "QUESTION",
+   "The court of appeals discussed it."
+  ],
+  [
+   78.72,
+   "MR. RICHARDSON",
+   "The court of appeals raised it sua sponte, and it has been raised in amicus briefs submitted -- in fact, three amici have discussed it."
+  ],
+  [
+   86.2,
+   "QUESTION",
+   "Why didn't you raise the issue? Why isn't that more important than what you did raise?"
+  ],
+  [
+   91.6,
+   "MR. RICHARDSON",
+   "Candidly, Your Honor, we didn't raise it for a number of reasons. Number 1, because in the district court there was a Fourteenth Amendment claim which clearly was actionable under section 1983. Number 2, quite honestly we believe the merits argument regarding FERPA was stronger than the section 1983 argument. Remember --"
+  ],
+  [
+   109.74,
+   "QUESTION",
+   "Well, I just don't know if it's a good practice for you to force us to reach an issue you think is important if there's no cause of action anyway. That just doesn't seem to me an orderly way to proceed."
+  ],
+  [
+   122.72,
+   "MR. RICHARDSON",
+   "Well, in hindsight I would agree with the Court that we should have approached it a different way. Please recall, however, that at the time this case was filed, at the time the court of -- at the time the district court entered its decision, and at the time the briefs were submitted in the Tenth Circuit, the Christiansen decision had not come down. We did not have the benefit -- we were under the impression, I should say, that we -- that the family policy compliance officer's letter would be accorded Chevron deference, as the district court did. We did not know that the Court was going to decide Christiansen and hold that such opinion letters were not entitled to such deference. We made a tactical decision to focus on the merits rather than focus --"
+  ],
+  [
+   162.84,
+   "QUESTION",
+   "Well --"
+  ],
+  [
+   162.84,
+   "MR. RICHARDSON",
+   "-- on the 1983 aspect of it."
+  ],
+  [
+   164.22,
+   "QUESTION",
+   "-- you also certainly had some justification on the private cause of action. Seeing a number of decisions from this Court which have come out 5 to 4 one way and then 5 to 4 the other way --"
+  ],
+  [
+   175.3,
+   "MR. RICHARDSON",
+   "That's very true, Your Honor."
+  ],
+  [
+   176.54,
+   "QUESTION",
+   "-- you're not sure that you're going to prevail on that."
+  ],
+  [
+   179.12,
+   "MR. RICHARDSON",
+   "That's very true, Your Honor. Both the decisions of this Court, with all due respect, are sometimes difficult for a practicing attorney to discern a clear line of --"
+  ],
+  [
+   188.98,
+   "QUESTION",
+   "They're hard for us, too. (Laughter.)"
+  ],
+  [
+   192.84,
+   "MR. RICHARDSON",
+   "And the other factor I would say is that the two decisions that the Tenth Circuit cited from other courts of appeals, the only two decisions that we were aware of from the Second Circuit, the Fay v. South Colonie School District decision, and from the Fifth Circuit, Tarka v. Cunningham, both of those courts of appeals had held that FERPA was actionable under 1983, so"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2001/00-1073",
+  "page_url": "https://www.oyez.org/cases/2001/00-1073",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - February 19, 2002",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23160",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2001/00-1073/20020219o_00-1073.delivery.mp3",
+  "duration": 307.382756,
+  "mp3_bytes": 1316976,
+  "asr_elapsed_s": 133.6,
+  "trimmed": 2,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   762,
+   801,
+   815
+  ],
+  "diffs": [
+   [
+    1.2,
+    "in",
+    ""
+   ],
+   [
+    13.48,
+    "",
+    "in"
+   ],
+   [
+    18.26,
+    "ask",
+    "asked"
+   ],
+   [
+    32.98,
+    "",
+    "where the students grade each other\u2019s papers. Now,"
+   ],
+   [
+    48.48,
+    "a",
+    "the"
+   ],
+   [
+    63.12,
+    "contained",
+    "contain"
+   ],
+   [
+    68.78,
+    "outset,",
+    "offset"
+   ],
+   [
+    71.46,
+    "it's",
+    "as"
+   ],
+   [
+    78.46,
+    "under",
+    "in the"
+   ],
+   [
+    79.74,
+    "we've",
+    "we have"
+   ],
+   [
+    99.96,
+    "these",
+    "this"
+   ],
+   [
+    108.46,
+    "contend",
+    "contain"
+   ],
+   [
+    119.2,
+    "adopting",
+    "adapting"
+   ],
+   [
+    120.14,
+    "Circuit's",
+    "Circuit"
+   ],
+   [
+    121.82,
+    "that",
+    "the"
+   ],
+   [
+    127.5,
+    "are",
+    ""
+   ],
+   [
+    134.32,
+    "they're",
+    "they are"
+   ],
+   [
+    146.18,
+    "they're",
+    "they are"
+   ],
+   [
+    151.8,
+    "Ninth that the",
+    ""
+   ],
+   [
+    152.96,
+    "erred,",
+    "aired:"
+   ],
+   [
+    168.16,
+    "on",
+    "in"
+   ],
+   [
+    168.78,
+    "secure",
+    "secured"
+   ],
+   [
+    173.2,
+    "",
+    "student is no longer enrolled,"
+   ],
+   [
+    195.3,
+    "they're",
+    "they are"
+   ],
+   [
+    216.18,
+    "to",
+    "of"
+   ],
+   [
+    259.94,
+    "An",
+    "at"
+   ],
+   [
+    261.2,
+    "counseled",
+    "counsel"
+   ],
+   [
+    261.96,
+    "Respondent seemed",
+    "respondents seem"
+   ],
+   [
+    273.2,
+    "a",
+    ""
+   ],
+   [
+    278.28,
+    "We doubt",
+    "With that"
+   ],
+   [
+    281.36,
+    "with",
+    "which"
+   ],
+   [
+    290.74,
+    "instructional",
+    "instruction on"
+   ],
+   [
+    291.86,
+    "in",
+    "and"
+   ],
+   [
+    293.32,
+    "the",
+    "this"
+   ],
+   [
+    294.72,
+    "is",
+    "does"
+   ],
+   [
+    298.44,
+    "statute",
+    "stature"
+   ],
+   [
+    305.54,
+    "comparing",
+    "concurring"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 801,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "The opinion of the Court in No. 001073, Owasso Independent School District v. Falvo, will be announced by Justice Kennedy."
+   ],
+   [
+    9.28,
+    "JUSTICE KENNEDY",
+    "The Respondent's children are enrolled in the Owasso School District, which is a suburb of Tulsa, Oklahoma, and the teachers there sometimes ask the students to score each other's papers and assignments as the teacher explains the correct answers to the entire class, and this is called peer grading. The Respondent, the parents, claim that peer grading violates a Federal statute, which is called the Family Educational Rights and Privacy Act of 1974, and the act is sometimes referred to as FERPA. Asserting a violation of the act, the parents filed a 1983 action against the school district and other school officials. The act authorizes Federal funds to be withheld from school district that permits students' education records or the information contained in the record to be released without the parents' written consent. At the outset, we note that it's an open question whether the act provides private parties, like these parents, with a cause of action enforceable under 1983, and we've granted certiorari on this issue in another case, which we will hear later this term. For purposes of the present case, the Court assumes without deciding that FERPA provides private parties, like the parents, with a cause of action enforceable under 1983. The question now is, do they prevail in saying that these peer grading mechanisms are a violation of the act? The school district and the United States contend that education records include only institutional records, like student grade point averages, standardized test scores, and the records of disciplinary actions. But the parents, adopting the Tenth Circuit's reasoning, contend that teachers' grade books and the grades within are maintained by the teacher and are thus covered by the act. And the Court of Appeals reasoned that if the teacher cannot disclose the grades once they're written in the grade book, it makes no sense to permit the disclosure immediately beforehand. So the Court thus held, and the parents agree, that student graders maintain the grades under the act until they're reported to the teacher so they cannot be disclosed. Two statutory indicators show that the Ninth that the Tenth Circuit erred, first student papers are maintained by the student graders. In their view, and we conclude that this is incorrect, the word maintain suggests FERPA records will be kept in a filing cabinet in a records room at the school or on a permanent, secure database, perhaps even after the The student graders only handle assignments for a few minutes as the teacher calls out the answers. Second, a student grader is"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "The opinion of the Court in No. 001073, Owasso Independent School District v. Falvo, will be announced by Justice Kennedy."
+   ],
+   [
+    9.28,
+    "JUSTICE KENNEDY",
+    "The Respondent's children are enrolled in the Owasso School District, which is a suburb of Tulsa, Oklahoma, and the teachers there sometimes ask the students to score each other's papers and assignments as the teacher explains the correct answers to the entire class, and this is called peer grading. The Respondent, the parents, claim that peer grading violates a Federal statute, which is called the Family Educational Rights and Privacy Act of 1974, and the act is sometimes referred to as FERPA. Asserting a violation of the act, the parents filed a 1983 action against the school district and other school officials. The act authorizes Federal funds to be withheld from school district that permits students' education records or the information contained in the record to be released without the parents' written consent. At the outset, we note that it's an open question whether the act provides private parties, like these parents, with a cause of action enforceable under 1983, and we've granted certiorari on this issue in another case, which we will hear later this term. For purposes of the present case, the Court assumes without deciding that FERPA provides private parties, like the parents, with a cause of action enforceable under 1983. The question now is, do they prevail in saying that these peer grading mechanisms are a violation of the act? The school district and the United States contend that education records include only institutional records, like student grade point averages, standardized test scores, and the records of disciplinary actions. But the parents, adopting the Tenth Circuit's reasoning, contend that teachers' grade books and the grades within are maintained by the teacher and are thus covered by the act. And the Court of Appeals reasoned that if the teacher cannot disclose the grades once they're written in the grade book, it makes no sense to permit the disclosure immediately beforehand. So the Court thus held, and the parents agree, that student graders maintain the grades under the act until they're reported to the teacher so they cannot be disclosed. Two statutory indicators show that the Ninth that the Tenth Circuit erred, first student papers are maintained by the student graders. In their view, and we conclude that this is incorrect, the word maintain suggests FERPA records will be kept in a filing cabinet in a records room at the school or on a permanent, secure database, perhaps even after the The student graders only handle assignments for a few minutes as the teacher calls out the answers. Second, a student grader is not a person acting for an educational institution. That phrase connotes agents of the school. Just as it would be awkward to say students are acting for the institution when they follow their teacher's instruction to take a quiz, it is equally awkward to say that they're acting for the institution when following their teacher's directions to score the paper. Correcting a classmate's work can be as much a part of the assignment as taking the test itself. It is a way to teach material again in a new context, and it helps show students how to assist and respect fellow pupils. By explaining the answers to the class as the students correct the papers, the teacher not only reinforces the lesson but also discovers whether the students have understood the material and are ready to move on. We do not think FERPA prohibits these educational techniques. Respondent's construction of the term education records to cover student homework or classroom work would impose substantial burdens on teachers across the country. It would force all instructors to take time which otherwise could be spent teaching and in preparation to correct an assortment of daily student assignments. Respondent's view would make it much more difficult for teachers to give the students immediate guidance. Indeed, the logical consequences of the Respondent's arguments are all but unbounded. An oral argument counseled for the Respondent seemed to agree that if a teacher in any of the thousands of classrooms in the nation covered by this Act puts a happy face or a gold star or a disapproving remark on a classroom assignment, Federal law does not allow other students to see it. We doubt Congress meant to intervene in this drastic fashion with traditional State functions. Under the Court of Appeals' interpretation of FERPA, the Federal power would exercise minute control over specific teaching methods and instructional dynamics in classrooms throughout the country. The Congress is not likely to have mandated this result, and we do not interpret the statute to require it. The Tenth Circuit's decision is reversed and remanded. Justice Scalia has filed an opinion comparing in the judgment."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "The opinion of the Court in No. 001073, Owasso Independent School District v. Falvo, will be announced by Justice Kennedy."
+   ],
+   [
+    9.28,
+    "JUSTICE KENNEDY",
+    "The Respondent's children are enrolled in the Owasso School District, which is a suburb of Tulsa, Oklahoma, and the teachers there sometimes ask the students to score each other's papers and assignments as the teacher explains the correct answers to the entire class, and this is called peer grading."
+   ],
+   [
+    32.98,
+    "JUSTICE KENNEDY",
+    "The Respondent, the parents, claim that peer grading violates a Federal statute, which is called the Family Educational Rights and Privacy Act of 1974, and the act is sometimes referred to as FERPA."
+   ],
+   [
+    48.02,
+    "JUSTICE KENNEDY",
+    "Asserting a violation of the act, the parents filed a 1983 action against the school district and other school officials."
+   ],
+   [
+    55.42,
+    "JUSTICE KENNEDY",
+    "The act authorizes Federal funds to be withheld from school district that permits students' education records or the information contained in the record to be released without the parents' written consent."
+   ],
+   [
+    68.34,
+    "JUSTICE KENNEDY",
+    "At the outset, we note that it's an open question whether the act provides private parties, like these parents, with a cause of action enforceable under 1983, and we've granted certiorari on this issue in another case, which we will hear later this term."
+   ],
+   [
+    85.16,
+    "JUSTICE KENNEDY",
+    "For purposes of the present case, the Court assumes without deciding that FERPA provides private parties, like the parents, with a cause of action enforceable under 1983."
+   ],
+   [
+    96.46,
+    "JUSTICE KENNEDY",
+    "The question now is, do they prevail in saying that these peer grading mechanisms are a violation of the act?"
+   ],
+   [
+    106.64,
+    "JUSTICE KENNEDY",
+    "The school district and the United States contend that education records include only institutional records, like student grade point averages, standardized test scores, and the records of disciplinary actions."
+   ],
+   [
+    117.74,
+    "JUSTICE KENNEDY",
+    "But the parents, adopting the Tenth Circuit's reasoning, contend that teachers' grade books and the grades within are maintained by the teacher and are thus covered by the act."
+   ],
+   [
+    128.82,
+    "JUSTICE KENNEDY",
+    "And the Court of Appeals reasoned that if the teacher cannot disclose the grades once they're written in the grade book, it makes no sense to permit the disclosure immediately beforehand."
+   ],
+   [
+    139.98,
+    "JUSTICE KENNEDY",
+    "So the Court thus held, and the parents agree, that student graders maintain the grades under the act until they're reported to the teacher so they cannot be disclosed."
+   ],
+   [
+    149.88,
+    "JUSTICE KENNEDY",
+    "Two statutory indicators show that the Ninth that the Tenth Circuit erred, first student papers are maintained by the student graders."
+   ],
+   [
+    159.16,
+    "JUSTICE KENNEDY",
+    "In their view, and we conclude that this is incorrect, the word maintain suggests FERPA records will be kept in a filing cabinet in a records room at the school or on a permanent, secure database, perhaps even after the The student graders only handle assignments for a few minutes as the teacher calls out the answers."
+   ],
+   [
+    178.8,
+    "JUSTICE KENNEDY",
+    "Second, a student grader is not a person acting for an educational institution."
+   ],
+   [
+    183.64,
+    "JUSTICE KENNEDY",
+    "That phrase connotes agents of the school."
+   ],
+   [
+    186.9,
+    "JUSTICE KENNEDY",
+    "Just as it would be awkward to say students are acting for the institution when they follow their teacher's instruction to take a quiz, it is equally awkward to say that they're acting for the institution when following their teacher's directions to score the paper."
+   ],
+   [
+    202.8,
+    "JUSTICE KENNEDY",
+    "Correcting a classmate's work can be as much a part of the assignment as taking the test itself."
+   ],
+   [
+    207.98,
+    "JUSTICE KENNEDY",
+    "It is a way to teach material again in a new context, and it helps show students how to assist and respect fellow pupils."
+   ],
+   [
+    215.14,
+    "JUSTICE KENNEDY",
+    "By explaining the answers to the class as the students correct the papers, the teacher not only reinforces the lesson but also discovers whether the students have understood the material and are ready to move on."
+   ],
+   [
+    225.7,
+    "JUSTICE KENNEDY",
+    "We do not think FERPA prohibits these educational techniques."
+   ],
+   [
+    229.7,
+    "JUSTICE KENNEDY",
+    "Respondent's construction of the term education records to cover student homework or classroom work would impose substantial burdens on teachers across the country."
+   ],
+   [
+    237.74,
+    "JUSTICE KENNEDY",
+    "It would force all instructors to take time which otherwise could be spent teaching and in preparation to correct an assortment of daily student assignments."
+   ],
+   [
+    246.88,
+    "JUSTICE KENNEDY",
+    "Respondent's view would make it much more difficult for teachers to give the students immediate guidance."
+   ],
+   [
+    253.24,
+    "JUSTICE KENNEDY",
+    "Indeed, the logical consequences of the Respondent's arguments are all but unbounded."
+   ],
+   [
+    259.94,
+    "JUSTICE KENNEDY",
+    "An oral argument counseled for the Respondent seemed to agree that if a teacher in any of the thousands of classrooms in the nation covered by this Act puts a happy face or a gold star or a disapproving remark on a classroom assignment, Federal law does not allow other students to see it."
+   ],
+   [
+    278.28,
+    "JUSTICE KENNEDY",
+    "We doubt Congress meant to intervene in this drastic fashion with traditional State functions."
+   ],
+   [
+    283.96,
+    "JUSTICE KENNEDY",
+    "Under the Court of Appeals' interpretation of FERPA, the Federal power would exercise minute control over specific teaching methods and instructional dynamics in classrooms throughout the country."
+   ],
+   [
+    294.32,
+    "JUSTICE KENNEDY",
+    "The Congress is not likely to have mandated this result, and we do not interpret the statute to require it."
+   ],
+   [
+    300.08,
+    "JUSTICE KENNEDY",
+    "The Tenth Circuit's decision is reversed and remanded."
+   ],
+   [
+    303.54,
+    "JUSTICE KENNEDY",
+    "Justice Scalia has filed an opinion comparing in the judgment."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE REHNQUIST",
+    0.0,
+    8.7,
+    20
+   ],
+   [
+    "JUSTICE KENNEDY",
+    9.28,
+    306.62,
+    781
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "00-1073",
+ "year": "2001",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2001/00-1073",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2001/00-1073/20011127a_00-1073.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2001/00-1073.pdf",
+ "model": "medium.en",
+ "duration": 3447.640816,
+ "asr_elapsed_s": 1657.9,
+ "asr_words": 9733,
+ "official_words": 9782,
+ "matched": 9345,
+ "shared": 3,
+ "clamped": 0,
+ "trimmed": 12,
+ "rewindowed": 0,
+ "match_rate": 95.53261091801268,
+ "turns": 272,
+ "laugh_markers": 12,
+ "mp3_bytes": 27606487,
+ "pauses": 357,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 296,
+  "match_rate": {
+   "ok": true,
+   "detail": "95.53% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-06"
+}

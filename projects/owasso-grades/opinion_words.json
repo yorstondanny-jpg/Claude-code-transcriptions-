@@ -1,0 +1,4808 @@
+[
+ {
+  "w": "The",
+  "s": 0.0,
+  "e": 0.28,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "opinion",
+  "s": 0.28,
+  "e": 0.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 0.66,
+  "e": 0.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 0.88,
+  "e": 1.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 1.08,
+  "e": 1.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 1.2,
+  "e": 1.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "No.",
+  "s": 1.4,
+  "e": 1.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "001073,",
+  "s": 2.46,
+  "e": 3.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Owasso",
+  "s": 3.42,
+  "e": 3.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Independent",
+  "s": 3.86,
+  "e": 4.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "School",
+  "s": 4.56,
+  "e": 5.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "District",
+  "s": 5.02,
+  "e": 5.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "v.",
+  "s": 5.58,
+  "e": 6.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Falvo,",
+  "s": 6.64,
+  "e": 7.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "will",
+  "s": 7.1,
+  "e": 7.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "be",
+  "s": 7.24,
+  "e": 7.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "announced",
+  "s": 7.36,
+  "e": 7.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "by",
+  "s": 7.64,
+  "e": 7.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Justice",
+  "s": 7.9,
+  "e": 8.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Kennedy.",
+  "s": 8.2,
+  "e": 8.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "The",
+  "s": 9.28,
+  "e": 9.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Respondent's",
+  "s": 9.92,
+  "e": 10.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "children",
+  "s": 10.58,
+  "e": 10.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "are",
+  "s": 10.84,
+  "e": 11.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "enrolled",
+  "s": 11.26,
+  "e": 11.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 11.64,
+  "e": 11.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 11.84,
+  "e": 12.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Owasso",
+  "s": 12.0,
+  "e": 12.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "School",
+  "s": 12.38,
+  "e": 12.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "District,",
+  "s": 12.76,
+  "e": 13.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "which",
+  "s": 13.26,
+  "e": 13.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 13.34,
+  "e": 13.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 13.48,
+  "e": 13.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "suburb",
+  "s": 13.68,
+  "e": 13.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 13.94,
+  "e": 14.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Tulsa,",
+  "s": 14.44,
+  "e": 14.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Oklahoma,",
+  "s": 14.88,
+  "e": 15.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 15.4,
+  "e": 16.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 16.36,
+  "e": 16.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teachers",
+  "s": 16.54,
+  "e": 16.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "there",
+  "s": 16.8,
+  "e": 17.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "sometimes",
+  "s": 17.34,
+  "e": 18.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "ask",
+  "s": 18.26,
+  "e": 18.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 18.64,
+  "e": 18.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "students",
+  "s": 18.86,
+  "e": 19.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 19.2,
+  "e": 20.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "score",
+  "s": 20.04,
+  "e": 20.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "each",
+  "s": 20.54,
+  "e": 21.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "other's",
+  "s": 21.44,
+  "e": 21.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "papers",
+  "s": 21.9,
+  "e": 22.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 22.16,
+  "e": 22.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assignments",
+  "s": 22.46,
+  "e": 23.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "as",
+  "s": 23.08,
+  "e": 24.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 24.42,
+  "e": 24.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher",
+  "s": 24.6,
+  "e": 24.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "explains",
+  "s": 24.92,
+  "e": 25.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 25.6,
+  "e": 26.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "correct",
+  "s": 26.0,
+  "e": 26.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "answers",
+  "s": 26.32,
+  "e": 26.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 26.68,
+  "e": 26.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 26.94,
+  "e": 27.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "entire",
+  "s": 27.1,
+  "e": 27.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "class,",
+  "s": 27.4,
+  "e": 27.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 28.1,
+  "e": 28.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "this",
+  "s": 28.4,
+  "e": 28.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 28.56,
+  "e": 28.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "called",
+  "s": 28.7,
+  "e": 28.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "peer",
+  "s": 28.96,
+  "e": 29.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grading.",
+  "s": 29.38,
+  "e": 29.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "The",
+  "s": 32.98,
+  "e": 33.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Respondent,",
+  "s": 33.62,
+  "e": 34.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 34.4,
+  "e": 34.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parents,",
+  "s": 34.54,
+  "e": 34.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "claim",
+  "s": 35.92,
+  "e": 36.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 36.06,
+  "e": 36.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "peer",
+  "s": 36.84,
+  "e": 38.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grading",
+  "s": 38.28,
+  "e": 38.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "violates",
+  "s": 38.62,
+  "e": 39.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 39.16,
+  "e": 39.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Federal",
+  "s": 39.48,
+  "e": 39.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "statute,",
+  "s": 39.68,
+  "e": 40.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "which",
+  "s": 40.42,
+  "e": 40.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 40.5,
+  "e": 40.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "called",
+  "s": 40.64,
+  "e": 40.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 40.84,
+  "e": 41.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Family",
+  "s": 41.06,
+  "e": 41.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Educational",
+  "s": 41.6,
+  "e": 42.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Rights",
+  "s": 42.16,
+  "e": 42.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 42.56,
+  "e": 42.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Privacy",
+  "s": 42.9,
+  "e": 43.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Act",
+  "s": 43.28,
+  "e": 43.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 43.6,
+  "e": 43.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "1974,",
+  "s": 43.78,
+  "e": 44.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 45.14,
+  "e": 45.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 45.2,
+  "e": 45.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "act",
+  "s": 45.32,
+  "e": 45.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 45.42,
+  "e": 45.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "sometimes",
+  "s": 45.56,
+  "e": 45.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "referred",
+  "s": 45.86,
+  "e": 46.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 46.22,
+  "e": 46.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "as",
+  "s": 46.46,
+  "e": 46.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "FERPA.",
+  "s": 46.7,
+  "e": 47.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Asserting",
+  "s": 48.02,
+  "e": 48.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 48.48,
+  "e": 48.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "violation",
+  "s": 48.62,
+  "e": 49.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 49.02,
+  "e": 49.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 49.2,
+  "e": 49.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "act,",
+  "s": 49.38,
+  "e": 49.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 50.42,
+  "e": 50.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parents",
+  "s": 50.52,
+  "e": 50.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "filed",
+  "s": 50.82,
+  "e": 51.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 51.18,
+  "e": 51.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "1983",
+  "s": 51.4,
+  "e": 52.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "action",
+  "s": 52.0,
+  "e": 52.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "against",
+  "s": 52.42,
+  "e": 52.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 52.74,
+  "e": 52.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "school",
+  "s": 52.96,
+  "e": 53.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "district",
+  "s": 53.14,
+  "e": 53.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 53.48,
+  "e": 53.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "other",
+  "s": 53.68,
+  "e": 53.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "school",
+  "s": 53.92,
+  "e": 54.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "officials.",
+  "s": 54.2,
+  "e": 54.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "The",
+  "s": 55.42,
+  "e": 55.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "act",
+  "s": 55.9,
+  "e": 56.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "authorizes",
+  "s": 56.14,
+  "e": 56.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Federal",
+  "s": 56.84,
+  "e": 57.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "funds",
+  "s": 57.2,
+  "e": 57.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 57.68,
+  "e": 57.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "be",
+  "s": 57.9,
+  "e": 58.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "withheld",
+  "s": 58.06,
+  "e": 58.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "from",
+  "s": 58.46,
+  "e": 58.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "school",
+  "s": 58.74,
+  "e": 58.98,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "district",
+  "s": 58.98,
+  "e": 59.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 59.3,
+  "e": 59.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "permits",
+  "s": 59.54,
+  "e": 59.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "students'",
+  "s": 59.86,
+  "e": 60.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "education",
+  "s": 60.82,
+  "e": 61.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "records",
+  "s": 61.0,
+  "e": 61.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "or",
+  "s": 61.56,
+  "e": 62.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 62.52,
+  "e": 62.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "information",
+  "s": 62.72,
+  "e": 63.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "contained",
+  "s": 63.12,
+  "e": 63.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 63.54,
+  "e": 63.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 63.74,
+  "e": 63.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "record",
+  "s": 63.86,
+  "e": 64.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 64.04,
+  "e": 64.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "be",
+  "s": 64.26,
+  "e": 64.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "released",
+  "s": 64.44,
+  "e": 64.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "without",
+  "s": 65.58,
+  "e": 66.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 66.14,
+  "e": 66.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parents'",
+  "s": 66.7,
+  "e": 67.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "written",
+  "s": 67.28,
+  "e": 67.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "consent.",
+  "s": 67.38,
+  "e": 67.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "At",
+  "s": 68.34,
+  "e": 68.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 68.58,
+  "e": 68.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "outset,",
+  "s": 68.78,
+  "e": 69.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "we",
+  "s": 69.56,
+  "e": 70.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "note",
+  "s": 70.2,
+  "e": 70.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 70.52,
+  "e": 71.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "it's",
+  "s": 71.46,
+  "e": 71.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "an",
+  "s": 71.6,
+  "e": 71.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "open",
+  "s": 71.78,
+  "e": 72.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "question",
+  "s": 72.08,
+  "e": 72.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "whether",
+  "s": 72.58,
+  "e": 72.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 72.88,
+  "e": 73.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "act",
+  "s": 73.16,
+  "e": 73.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "provides",
+  "s": 73.44,
+  "e": 74.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "private",
+  "s": 74.14,
+  "e": 74.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parties,",
+  "s": 74.64,
+  "e": 75.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "like",
+  "s": 75.24,
+  "e": 75.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "these",
+  "s": 75.42,
+  "e": 75.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parents,",
+  "s": 75.64,
+  "e": 76.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "with",
+  "s": 76.72,
+  "e": 76.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 76.9,
+  "e": 77.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "cause",
+  "s": 77.08,
+  "e": 77.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 77.3,
+  "e": 77.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "action",
+  "s": 77.52,
+  "e": 77.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "enforceable",
+  "s": 77.82,
+  "e": 78.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "under",
+  "s": 78.46,
+  "e": 78.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "1983,",
+  "s": 78.72,
+  "e": 79.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 79.52,
+  "e": 79.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "we've",
+  "s": 79.74,
+  "e": 79.98,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "granted",
+  "s": 79.98,
+  "e": 80.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "certiorari",
+  "s": 80.22,
+  "e": 80.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "on",
+  "s": 80.86,
+  "e": 81.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "this",
+  "s": 81.08,
+  "e": 81.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "issue",
+  "s": 81.26,
+  "e": 81.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 81.58,
+  "e": 82.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "another",
+  "s": 82.3,
+  "e": 82.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "case,",
+  "s": 82.6,
+  "e": 83.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "which",
+  "s": 83.14,
+  "e": 83.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "we",
+  "s": 83.22,
+  "e": 83.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "will",
+  "s": 83.4,
+  "e": 83.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "hear",
+  "s": 83.58,
+  "e": 83.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "later",
+  "s": 83.78,
+  "e": 84.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "this",
+  "s": 84.06,
+  "e": 84.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "term.",
+  "s": 84.32,
+  "e": 84.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "For",
+  "s": 85.16,
+  "e": 85.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "purposes",
+  "s": 85.56,
+  "e": 85.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 85.94,
+  "e": 86.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 86.18,
+  "e": 86.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "present",
+  "s": 86.38,
+  "e": 86.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "case,",
+  "s": 86.66,
+  "e": 87.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 87.7,
+  "e": 87.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Court",
+  "s": 87.94,
+  "e": 88.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assumes",
+  "s": 88.14,
+  "e": 88.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "without",
+  "s": 88.58,
+  "e": 88.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "deciding",
+  "s": 88.88,
+  "e": 89.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 89.48,
+  "e": 89.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "FERPA",
+  "s": 89.84,
+  "e": 90.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "provides",
+  "s": 90.02,
+  "e": 90.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "private",
+  "s": 90.78,
+  "e": 91.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parties,",
+  "s": 91.64,
+  "e": 92.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "like",
+  "s": 92.44,
+  "e": 92.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 92.68,
+  "e": 92.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parents,",
+  "s": 92.9,
+  "e": 93.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "with",
+  "s": 93.24,
+  "e": 93.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 93.36,
+  "e": 93.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "cause",
+  "s": 93.52,
+  "e": 93.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 93.72,
+  "e": 93.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "action",
+  "s": 93.92,
+  "e": 94.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "enforceable",
+  "s": 94.22,
+  "e": 94.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "under",
+  "s": 94.78,
+  "e": 95.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "1983.",
+  "s": 95.04,
+  "e": 95.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "The",
+  "s": 96.46,
+  "e": 96.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "question",
+  "s": 96.6,
+  "e": 96.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "now",
+  "s": 96.92,
+  "e": 97.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is,",
+  "s": 97.26,
+  "e": 97.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "do",
+  "s": 97.84,
+  "e": 97.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "they",
+  "s": 97.86,
+  "e": 98.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "prevail",
+  "s": 98.06,
+  "e": 98.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 98.62,
+  "e": 99.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "saying",
+  "s": 99.38,
+  "e": 99.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 99.7,
+  "e": 99.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "these",
+  "s": 99.96,
+  "e": 100.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "peer",
+  "s": 100.4,
+  "e": 101.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grading",
+  "s": 102.38,
+  "e": 102.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "mechanisms",
+  "s": 102.84,
+  "e": 104.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "are",
+  "s": 104.16,
+  "e": 104.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 104.62,
+  "e": 104.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "violation",
+  "s": 104.82,
+  "e": 105.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 105.14,
+  "e": 105.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 105.32,
+  "e": 105.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "act?",
+  "s": 105.5,
+  "e": 105.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "The",
+  "s": 106.64,
+  "e": 106.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "school",
+  "s": 106.86,
+  "e": 107.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "district",
+  "s": 107.06,
+  "e": 107.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 107.42,
+  "e": 107.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 107.64,
+  "e": 107.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "United",
+  "s": 107.78,
+  "e": 108.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "States",
+  "s": 108.04,
+  "e": 108.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "contend",
+  "s": 108.46,
+  "e": 108.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 108.8,
+  "e": 109.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "education",
+  "s": 109.04,
+  "e": 109.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "records",
+  "s": 109.54,
+  "e": 110.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "include",
+  "s": 110.06,
+  "e": 110.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "only",
+  "s": 110.6,
+  "e": 110.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "institutional",
+  "s": 110.9,
+  "e": 111.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "records,",
+  "s": 111.6,
+  "e": 112.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "like",
+  "s": 112.12,
+  "e": 112.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "student",
+  "s": 112.36,
+  "e": 112.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grade",
+  "s": 112.76,
+  "e": 113.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "point",
+  "s": 113.04,
+  "e": 113.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "averages,",
+  "s": 113.36,
+  "e": 113.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "standardized",
+  "s": 113.84,
+  "e": 114.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "test",
+  "s": 114.78,
+  "e": 115.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "scores,",
+  "s": 115.18,
+  "e": 115.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 115.64,
+  "e": 115.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 115.96,
+  "e": 116.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "records",
+  "s": 116.1,
+  "e": 116.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 116.34,
+  "e": 116.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "disciplinary",
+  "s": 116.56,
+  "e": 116.98,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "actions.",
+  "s": 116.98,
+  "e": 117.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "But",
+  "s": 117.74,
+  "e": 118.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 118.26,
+  "e": 118.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parents,",
+  "s": 118.48,
+  "e": 118.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "adopting",
+  "s": 119.2,
+  "e": 119.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 119.4,
+  "e": 119.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Tenth",
+  "s": 119.74,
+  "e": 120.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Circuit's",
+  "s": 120.14,
+  "e": 120.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "reasoning,",
+  "s": 120.6,
+  "e": 120.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "contend",
+  "s": 121.58,
+  "e": 121.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 121.82,
+  "e": 122.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teachers'",
+  "s": 122.08,
+  "e": 122.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grade",
+  "s": 122.86,
+  "e": 122.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "books",
+  "s": 122.94,
+  "e": 123.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 123.18,
+  "e": 123.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 123.46,
+  "e": 123.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grades",
+  "s": 123.6,
+  "e": 123.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "within",
+  "s": 123.92,
+  "e": 124.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "are",
+  "s": 124.32,
+  "e": 124.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "maintained",
+  "s": 124.62,
+  "e": 125.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "by",
+  "s": 125.22,
+  "e": 126.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 126.18,
+  "e": 126.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher",
+  "s": 126.36,
+  "e": 126.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 126.72,
+  "e": 127.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "are",
+  "s": 127.5,
+  "e": 127.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "thus",
+  "s": 127.64,
+  "e": 127.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "covered",
+  "s": 127.8,
+  "e": 128.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "by",
+  "s": 128.08,
+  "e": 128.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 128.34,
+  "e": 128.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "act.",
+  "s": 128.56,
+  "e": 128.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "And",
+  "s": 128.82,
+  "e": 129.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 129.12,
+  "e": 129.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Court",
+  "s": 129.28,
+  "e": 129.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 129.36,
+  "e": 129.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Appeals",
+  "s": 129.48,
+  "e": 129.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "reasoned",
+  "s": 129.88,
+  "e": 130.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 130.62,
+  "e": 132.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "if",
+  "s": 132.02,
+  "e": 132.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 132.22,
+  "e": 132.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher",
+  "s": 132.4,
+  "e": 132.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "cannot",
+  "s": 132.7,
+  "e": 133.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "disclose",
+  "s": 133.02,
+  "e": 133.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 133.46,
+  "e": 133.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grades",
+  "s": 133.74,
+  "e": 134.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "once",
+  "s": 134.06,
+  "e": 134.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "they're",
+  "s": 134.32,
+  "e": 134.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "written",
+  "s": 134.54,
+  "e": 134.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 134.68,
+  "e": 134.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 134.82,
+  "e": 134.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grade",
+  "s": 134.94,
+  "e": 135.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "book,",
+  "s": 135.1,
+  "e": 135.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "it",
+  "s": 135.42,
+  "e": 135.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "makes",
+  "s": 135.74,
+  "e": 135.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "no",
+  "s": 135.94,
+  "e": 136.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "sense",
+  "s": 136.14,
+  "e": 136.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 136.38,
+  "e": 136.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "permit",
+  "s": 136.56,
+  "e": 136.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 136.78,
+  "e": 136.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "disclosure",
+  "s": 136.96,
+  "e": 137.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "immediately",
+  "s": 137.38,
+  "e": 137.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "beforehand.",
+  "s": 137.8,
+  "e": 138.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "So",
+  "s": 139.98,
+  "e": 140.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 140.5,
+  "e": 140.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Court",
+  "s": 140.72,
+  "e": 140.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "thus",
+  "s": 140.92,
+  "e": 141.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "held,",
+  "s": 141.16,
+  "e": 141.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 141.5,
+  "e": 141.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 141.62,
+  "e": 141.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "parents",
+  "s": 141.8,
+  "e": 142.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "agree,",
+  "s": 142.02,
+  "e": 142.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 142.44,
+  "e": 143.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "student",
+  "s": 143.06,
+  "e": 143.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "graders",
+  "s": 143.46,
+  "e": 143.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "maintain",
+  "s": 143.9,
+  "e": 144.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 144.46,
+  "e": 144.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grades",
+  "s": 144.8,
+  "e": 145.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "under",
+  "s": 145.16,
+  "e": 145.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 145.42,
+  "e": 145.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "act",
+  "s": 145.68,
+  "e": 145.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "until",
+  "s": 145.92,
+  "e": 146.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "they're",
+  "s": 146.18,
+  "e": 146.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "reported",
+  "s": 146.34,
+  "e": 146.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 146.68,
+  "e": 146.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 146.86,
+  "e": 147.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher",
+  "s": 147.02,
+  "e": 147.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "so",
+  "s": 147.28,
+  "e": 147.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "they",
+  "s": 147.58,
+  "e": 147.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "cannot",
+  "s": 147.72,
+  "e": 147.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "be",
+  "s": 147.9,
+  "e": 148.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "disclosed.",
+  "s": 148.14,
+  "e": 148.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Two",
+  "s": 149.88,
+  "e": 150.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "statutory",
+  "s": 150.1,
+  "e": 150.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "indicators",
+  "s": 150.64,
+  "e": 151.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "show",
+  "s": 151.16,
+  "e": 151.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 151.44,
+  "e": 151.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 151.64,
+  "e": 151.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Ninth",
+  "s": 151.8,
+  "e": 151.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 151.96,
+  "e": 152.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 152.3,
+  "e": 152.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Tenth",
+  "s": 152.52,
+  "e": 152.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Circuit",
+  "s": 152.66,
+  "e": 152.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "erred,",
+  "s": 152.96,
+  "e": 153.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "first",
+  "s": 153.96,
+  "e": 154.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "student",
+  "s": 154.3,
+  "e": 154.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "papers",
+  "s": 154.66,
+  "e": 155.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "are",
+  "s": 155.08,
+  "e": 155.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "maintained",
+  "s": 155.4,
+  "e": 155.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "by",
+  "s": 155.82,
+  "e": 156.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 156.06,
+  "e": 156.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "student",
+  "s": 156.2,
+  "e": 156.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "graders.",
+  "s": 156.48,
+  "e": 157.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "In",
+  "s": 159.16,
+  "e": 159.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "their",
+  "s": 159.68,
+  "e": 159.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "view,",
+  "s": 159.94,
+  "e": 160.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 160.22,
+  "e": 160.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "we",
+  "s": 160.62,
+  "e": 160.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "conclude",
+  "s": 160.76,
+  "e": 161.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 161.08,
+  "e": 161.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "this",
+  "s": 161.26,
+  "e": 161.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 161.42,
+  "e": 161.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "incorrect,",
+  "s": 161.6,
+  "e": 162.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 162.68,
+  "e": 162.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "word",
+  "s": 162.88,
+  "e": 163.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "maintain",
+  "s": 163.08,
+  "e": 163.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "suggests",
+  "s": 163.6,
+  "e": 164.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "FERPA",
+  "s": 164.4,
+  "e": 164.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "records",
+  "s": 164.76,
+  "e": 165.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "will",
+  "s": 165.12,
+  "e": 165.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "be",
+  "s": 165.32,
+  "e": 165.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "kept",
+  "s": 165.44,
+  "e": 165.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 165.6,
+  "e": 165.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 165.76,
+  "e": 165.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "filing",
+  "s": 165.94,
+  "e": 166.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "cabinet",
+  "s": 166.18,
+  "e": 166.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 166.52,
+  "e": 166.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 166.76,
+  "e": 166.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "records",
+  "s": 166.94,
+  "e": 167.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "room",
+  "s": 167.14,
+  "e": 167.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "at",
+  "s": 167.36,
+  "e": 167.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 167.52,
+  "e": 167.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "school",
+  "s": 167.64,
+  "e": 167.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "or",
+  "s": 167.9,
+  "e": 168.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "on",
+  "s": 168.16,
+  "e": 168.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 168.28,
+  "e": 168.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "permanent,",
+  "s": 168.46,
+  "e": 168.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "secure",
+  "s": 168.78,
+  "e": 169.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "database,",
+  "s": 169.18,
+  "e": 169.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "perhaps",
+  "s": 170.36,
+  "e": 170.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "even",
+  "s": 170.62,
+  "e": 170.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "after",
+  "s": 170.92,
+  "e": 171.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 171.22,
+  "e": 172.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "The",
+  "s": 173.2,
+  "e": 173.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "student",
+  "s": 173.72,
+  "e": 174.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "graders",
+  "s": 174.08,
+  "e": 174.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "only",
+  "s": 174.48,
+  "e": 174.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "handle",
+  "s": 174.76,
+  "e": 175.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assignments",
+  "s": 175.06,
+  "e": 175.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "for",
+  "s": 175.52,
+  "e": 175.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 175.78,
+  "e": 175.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "few",
+  "s": 175.9,
+  "e": 176.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "minutes",
+  "s": 176.04,
+  "e": 176.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "as",
+  "s": 176.32,
+  "e": 176.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 176.5,
+  "e": 176.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher",
+  "s": 176.66,
+  "e": 176.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "calls",
+  "s": 176.9,
+  "e": 177.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "out",
+  "s": 177.16,
+  "e": 177.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 177.38,
+  "e": 177.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "answers.",
+  "s": 177.6,
+  "e": 177.98,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Second,",
+  "s": 178.8,
+  "e": 179.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 179.32,
+  "e": 179.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "student",
+  "s": 179.48,
+  "e": 179.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "grader",
+  "s": 179.66,
+  "e": 179.98,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 179.98,
+  "e": 180.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "not",
+  "s": 180.1,
+  "e": 180.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 180.28,
+  "e": 180.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "person",
+  "s": 180.52,
+  "e": 180.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "acting",
+  "s": 180.8,
+  "e": 181.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "for",
+  "s": 181.3,
+  "e": 181.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "an",
+  "s": 181.76,
+  "e": 181.98,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "educational",
+  "s": 181.98,
+  "e": 182.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "institution.",
+  "s": 182.5,
+  "e": 183.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "That",
+  "s": 183.64,
+  "e": 184.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "phrase",
+  "s": 184.16,
+  "e": 184.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "connotes",
+  "s": 184.5,
+  "e": 184.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "agents",
+  "s": 184.94,
+  "e": 185.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 185.36,
+  "e": 185.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 185.6,
+  "e": 185.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "school.",
+  "s": 185.78,
+  "e": 186.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Just",
+  "s": 186.9,
+  "e": 187.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "as",
+  "s": 187.18,
+  "e": 187.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "it",
+  "s": 187.32,
+  "e": 187.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "would",
+  "s": 187.4,
+  "e": 187.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "be",
+  "s": 187.54,
+  "e": 187.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "awkward",
+  "s": 187.68,
+  "e": 188.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 188.04,
+  "e": 188.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "say",
+  "s": 188.26,
+  "e": 188.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "students",
+  "s": 188.4,
+  "e": 188.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "are",
+  "s": 188.82,
+  "e": 189.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "acting",
+  "s": 189.02,
+  "e": 189.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "for",
+  "s": 189.44,
+  "e": 189.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 189.74,
+  "e": 189.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "institution",
+  "s": 189.92,
+  "e": 190.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "when",
+  "s": 190.44,
+  "e": 190.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "they",
+  "s": 190.68,
+  "e": 190.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "follow",
+  "s": 190.92,
+  "e": 191.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "their",
+  "s": 191.78,
+  "e": 192.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher's",
+  "s": 192.02,
+  "e": 192.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "instruction",
+  "s": 192.44,
+  "e": 192.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 192.8,
+  "e": 193.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "take",
+  "s": 193.02,
+  "e": 193.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 193.18,
+  "e": 193.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "quiz,",
+  "s": 193.42,
+  "e": 193.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "it",
+  "s": 193.82,
+  "e": 193.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 193.92,
+  "e": 194.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "equally",
+  "s": 194.12,
+  "e": 194.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "awkward",
+  "s": 194.44,
+  "e": 194.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 194.82,
+  "e": 195.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "say",
+  "s": 195.02,
+  "e": 195.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 195.16,
+  "e": 195.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "they're",
+  "s": 195.3,
+  "e": 195.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "acting",
+  "s": 195.6,
+  "e": 195.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "for",
+  "s": 195.92,
+  "e": 196.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 196.18,
+  "e": 196.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "institution",
+  "s": 196.34,
+  "e": 196.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "when",
+  "s": 196.86,
+  "e": 197.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "following",
+  "s": 197.12,
+  "e": 197.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "their",
+  "s": 197.8,
+  "e": 198.24,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher's",
+  "s": 198.24,
+  "e": 199.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "directions",
+  "s": 199.28,
+  "e": 199.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 199.7,
+  "e": 200.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "score",
+  "s": 200.04,
+  "e": 200.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 200.76,
+  "e": 200.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "paper.",
+  "s": 200.96,
+  "e": 201.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Correcting",
+  "s": 202.8,
+  "e": 203.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 203.22,
+  "e": 203.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "classmate's",
+  "s": 203.38,
+  "e": 203.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "work",
+  "s": 203.92,
+  "e": 204.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "can",
+  "s": 204.1,
+  "e": 204.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "be",
+  "s": 204.36,
+  "e": 204.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "as",
+  "s": 204.52,
+  "e": 204.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "much",
+  "s": 204.66,
+  "e": 204.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 204.9,
+  "e": 205.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "part",
+  "s": 205.22,
+  "e": 205.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 205.36,
+  "e": 205.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 205.56,
+  "e": 205.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assignment",
+  "s": 205.84,
+  "e": 206.24,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "as",
+  "s": 206.24,
+  "e": 206.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "taking",
+  "s": 206.46,
+  "e": 206.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 206.72,
+  "e": 206.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "test",
+  "s": 206.94,
+  "e": 207.12,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "itself.",
+  "s": 207.12,
+  "e": 207.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "It",
+  "s": 207.98,
+  "e": 208.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 208.5,
+  "e": 208.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 208.62,
+  "e": 208.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "way",
+  "s": 208.76,
+  "e": 208.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 208.86,
+  "e": 209.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teach",
+  "s": 209.04,
+  "e": 209.24,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "material",
+  "s": 209.24,
+  "e": 209.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "again",
+  "s": 209.68,
+  "e": 210.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 210.08,
+  "e": 210.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 210.26,
+  "e": 210.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "new",
+  "s": 210.38,
+  "e": 210.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "context,",
+  "s": 210.54,
+  "e": 211.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 211.06,
+  "e": 211.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "it",
+  "s": 211.3,
+  "e": 211.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "helps",
+  "s": 211.44,
+  "e": 211.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "show",
+  "s": 211.62,
+  "e": 211.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "students",
+  "s": 211.88,
+  "e": 212.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "how",
+  "s": 212.22,
+  "e": 212.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 212.44,
+  "e": 212.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assist",
+  "s": 212.56,
+  "e": 212.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 212.86,
+  "e": 213.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "respect",
+  "s": 213.04,
+  "e": 213.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "fellow",
+  "s": 213.38,
+  "e": 213.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "pupils.",
+  "s": 213.66,
+  "e": 214.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "By",
+  "s": 215.14,
+  "e": 215.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "explaining",
+  "s": 215.3,
+  "e": 215.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 215.68,
+  "e": 215.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "answers",
+  "s": 215.94,
+  "e": 216.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 216.18,
+  "e": 216.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 216.38,
+  "e": 216.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "class",
+  "s": 216.56,
+  "e": 216.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "as",
+  "s": 216.84,
+  "e": 217.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 217.2,
+  "e": 217.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "students",
+  "s": 217.38,
+  "e": 217.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "correct",
+  "s": 217.62,
+  "e": 217.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 217.94,
+  "e": 218.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "papers,",
+  "s": 218.2,
+  "e": 218.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 218.54,
+  "e": 218.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher",
+  "s": 218.66,
+  "e": 218.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "not",
+  "s": 218.88,
+  "e": 219.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "only",
+  "s": 219.08,
+  "e": 219.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "reinforces",
+  "s": 219.38,
+  "e": 219.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 219.96,
+  "e": 220.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "lesson",
+  "s": 220.16,
+  "e": 220.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "but",
+  "s": 220.5,
+  "e": 221.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "also",
+  "s": 221.3,
+  "e": 221.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "discovers",
+  "s": 221.56,
+  "e": 222.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "whether",
+  "s": 222.06,
+  "e": 222.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 222.4,
+  "e": 222.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "students",
+  "s": 222.62,
+  "e": 222.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "have",
+  "s": 222.84,
+  "e": 223.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "understood",
+  "s": 223.04,
+  "e": 223.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 223.36,
+  "e": 223.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "material",
+  "s": 223.54,
+  "e": 223.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 223.92,
+  "e": 224.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "are",
+  "s": 224.1,
+  "e": 224.24,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "ready",
+  "s": 224.24,
+  "e": 224.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 224.38,
+  "e": 224.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "move",
+  "s": 224.56,
+  "e": 224.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "on.",
+  "s": 224.7,
+  "e": 225.08,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "We",
+  "s": 225.7,
+  "e": 225.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "do",
+  "s": 225.94,
+  "e": 226.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "not",
+  "s": 226.06,
+  "e": 226.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "think",
+  "s": 226.3,
+  "e": 226.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "FERPA",
+  "s": 226.58,
+  "e": 226.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "prohibits",
+  "s": 226.78,
+  "e": 227.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "these",
+  "s": 227.3,
+  "e": 227.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "educational",
+  "s": 227.58,
+  "e": 228.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "techniques.",
+  "s": 228.16,
+  "e": 228.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Respondent's",
+  "s": 229.7,
+  "e": 230.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "construction",
+  "s": 230.02,
+  "e": 230.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 230.42,
+  "e": 230.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 230.6,
+  "e": 230.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "term",
+  "s": 230.7,
+  "e": 230.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "education",
+  "s": 230.9,
+  "e": 231.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "records",
+  "s": 231.48,
+  "e": 231.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 231.96,
+  "e": 232.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "cover",
+  "s": 232.68,
+  "e": 232.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "student",
+  "s": 232.9,
+  "e": 233.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "homework",
+  "s": 233.28,
+  "e": 233.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "or",
+  "s": 233.68,
+  "e": 233.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "classroom",
+  "s": 233.92,
+  "e": 234.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "work",
+  "s": 234.26,
+  "e": 234.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "would",
+  "s": 234.56,
+  "e": 234.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "impose",
+  "s": 234.74,
+  "e": 235.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "substantial",
+  "s": 235.1,
+  "e": 235.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "burdens",
+  "s": 235.64,
+  "e": 236.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "on",
+  "s": 236.0,
+  "e": 236.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teachers",
+  "s": 236.38,
+  "e": 236.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "across",
+  "s": 236.6,
+  "e": 236.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 236.96,
+  "e": 237.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "country.",
+  "s": 237.16,
+  "e": 237.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "It",
+  "s": 237.74,
+  "e": 238.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "would",
+  "s": 238.2,
+  "e": 238.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "force",
+  "s": 238.32,
+  "e": 238.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "all",
+  "s": 238.56,
+  "e": 238.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "instructors",
+  "s": 238.9,
+  "e": 239.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 239.36,
+  "e": 239.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "take",
+  "s": 239.62,
+  "e": 239.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "time",
+  "s": 239.8,
+  "e": 240.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "which",
+  "s": 240.14,
+  "e": 240.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "otherwise",
+  "s": 240.32,
+  "e": 240.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "could",
+  "s": 240.62,
+  "e": 240.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "be",
+  "s": 240.9,
+  "e": 241.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "spent",
+  "s": 241.02,
+  "e": 241.24,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teaching",
+  "s": 241.24,
+  "e": 241.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 241.62,
+  "e": 241.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 241.8,
+  "e": 242.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "preparation",
+  "s": 242.02,
+  "e": 242.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 242.46,
+  "e": 243.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "correct",
+  "s": 243.22,
+  "e": 243.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "an",
+  "s": 243.56,
+  "e": 243.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assortment",
+  "s": 243.8,
+  "e": 244.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 244.26,
+  "e": 244.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "daily",
+  "s": 244.64,
+  "e": 244.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "student",
+  "s": 244.86,
+  "e": 245.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assignments.",
+  "s": 245.22,
+  "e": 245.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Respondent's",
+  "s": 246.88,
+  "e": 247.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "view",
+  "s": 247.28,
+  "e": 247.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "would",
+  "s": 247.42,
+  "e": 247.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "make",
+  "s": 247.6,
+  "e": 247.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "it",
+  "s": 247.76,
+  "e": 247.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "much",
+  "s": 247.9,
+  "e": 248.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "more",
+  "s": 248.06,
+  "e": 248.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "difficult",
+  "s": 248.3,
+  "e": 248.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "for",
+  "s": 248.74,
+  "e": 249.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teachers",
+  "s": 249.54,
+  "e": 249.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 249.84,
+  "e": 250.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "give",
+  "s": 250.16,
+  "e": 250.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 250.34,
+  "e": 250.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "students",
+  "s": 250.52,
+  "e": 250.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "immediate",
+  "s": 250.8,
+  "e": 251.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "guidance.",
+  "s": 251.78,
+  "e": 252.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Indeed,",
+  "s": 253.24,
+  "e": 253.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 253.84,
+  "e": 253.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "logical",
+  "s": 253.94,
+  "e": 254.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "consequences",
+  "s": 254.34,
+  "e": 255.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 255.2,
+  "e": 255.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 255.74,
+  "e": 255.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Respondent's",
+  "s": 255.94,
+  "e": 256.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "arguments",
+  "s": 256.86,
+  "e": 257.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "are",
+  "s": 257.2,
+  "e": 257.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "all",
+  "s": 257.48,
+  "e": 257.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "but",
+  "s": 257.68,
+  "e": 257.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "unbounded.",
+  "s": 258.85,
+  "e": 259.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "An",
+  "s": 259.94,
+  "e": 260.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "oral",
+  "s": 260.46,
+  "e": 260.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "argument",
+  "s": 260.74,
+  "e": 261.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "counseled",
+  "s": 261.2,
+  "e": 261.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "for",
+  "s": 261.6,
+  "e": 261.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 261.8,
+  "e": 261.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Respondent",
+  "s": 261.96,
+  "e": 262.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "seemed",
+  "s": 262.42,
+  "e": 262.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 262.62,
+  "e": 262.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "agree",
+  "s": 262.84,
+  "e": 263.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 263.18,
+  "e": 263.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "if",
+  "s": 263.44,
+  "e": 264.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 264.5,
+  "e": 264.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teacher",
+  "s": 264.74,
+  "e": 265.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 265.02,
+  "e": 265.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "any",
+  "s": 265.3,
+  "e": 265.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 265.74,
+  "e": 266.3,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 266.3,
+  "e": 266.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "thousands",
+  "s": 266.46,
+  "e": 266.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 266.9,
+  "e": 267.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "classrooms",
+  "s": 267.58,
+  "e": 268.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 268.46,
+  "e": 269.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 269.52,
+  "e": 269.68,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "nation",
+  "s": 269.68,
+  "e": 269.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "covered",
+  "s": 269.96,
+  "e": 270.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "by",
+  "s": 270.36,
+  "e": 270.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "this",
+  "s": 270.62,
+  "e": 270.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Act",
+  "s": 270.82,
+  "e": 271.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "puts",
+  "s": 271.02,
+  "e": 271.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 271.28,
+  "e": 271.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "happy",
+  "s": 271.5,
+  "e": 271.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "face",
+  "s": 271.76,
+  "e": 272.04,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "or",
+  "s": 272.04,
+  "e": 272.24,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 272.24,
+  "e": 272.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "gold",
+  "s": 272.42,
+  "e": 272.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "star",
+  "s": 272.62,
+  "e": 273.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "or",
+  "s": 273.0,
+  "e": 273.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 273.2,
+  "e": 273.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "disapproving",
+  "s": 273.32,
+  "e": 273.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "remark",
+  "s": 273.8,
+  "e": 274.2,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "on",
+  "s": 274.2,
+  "e": 274.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "a",
+  "s": 274.4,
+  "e": 274.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "classroom",
+  "s": 274.54,
+  "e": 274.82,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assignment,",
+  "s": 274.82,
+  "e": 275.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Federal",
+  "s": 275.46,
+  "e": 275.66,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "law",
+  "s": 275.66,
+  "e": 275.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "does",
+  "s": 275.9,
+  "e": 276.06,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "not",
+  "s": 276.06,
+  "e": 276.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "allow",
+  "s": 276.28,
+  "e": 276.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "other",
+  "s": 276.5,
+  "e": 276.76,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "students",
+  "s": 276.76,
+  "e": 277.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 277.0,
+  "e": 277.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "see",
+  "s": 277.26,
+  "e": 277.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "it.",
+  "s": 277.44,
+  "e": 277.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "We",
+  "s": 278.28,
+  "e": 278.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "doubt",
+  "s": 278.8,
+  "e": 279.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Congress",
+  "s": 279.0,
+  "e": 279.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "meant",
+  "s": 279.38,
+  "e": 279.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 279.62,
+  "e": 279.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "intervene",
+  "s": 279.8,
+  "e": 280.14,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 280.14,
+  "e": 280.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "this",
+  "s": 280.34,
+  "e": 280.52,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "drastic",
+  "s": 280.52,
+  "e": 280.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "fashion",
+  "s": 280.94,
+  "e": 281.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "with",
+  "s": 281.36,
+  "e": 281.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "traditional",
+  "s": 281.8,
+  "e": 282.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "State",
+  "s": 282.34,
+  "e": 282.64,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "functions.",
+  "s": 282.64,
+  "e": 283.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Under",
+  "s": 283.96,
+  "e": 284.16,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 284.16,
+  "e": 284.34,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Court",
+  "s": 284.34,
+  "e": 284.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 284.44,
+  "e": 284.6,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Appeals'",
+  "s": 284.6,
+  "e": 284.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "interpretation",
+  "s": 284.96,
+  "e": 285.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "of",
+  "s": 285.48,
+  "e": 285.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "FERPA,",
+  "s": 285.78,
+  "e": 285.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 286.1,
+  "e": 286.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Federal",
+  "s": 286.22,
+  "e": 286.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "power",
+  "s": 286.44,
+  "e": 286.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "would",
+  "s": 286.78,
+  "e": 287.0,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "exercise",
+  "s": 287.0,
+  "e": 287.42,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "minute",
+  "s": 287.42,
+  "e": 287.9,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "control",
+  "s": 287.9,
+  "e": 288.46,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "over",
+  "s": 288.46,
+  "e": 289.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "specific",
+  "s": 289.28,
+  "e": 289.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "teaching",
+  "s": 289.78,
+  "e": 290.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "methods",
+  "s": 290.18,
+  "e": 290.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 290.54,
+  "e": 290.74,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "instructional",
+  "s": 290.74,
+  "e": 291.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "dynamics",
+  "s": 291.18,
+  "e": 291.86,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 291.86,
+  "e": 292.5,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "classrooms",
+  "s": 292.5,
+  "e": 292.94,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "throughout",
+  "s": 292.94,
+  "e": 293.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 293.32,
+  "e": 293.56,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "country.",
+  "s": 293.56,
+  "e": 293.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "The",
+  "s": 294.32,
+  "e": 294.48,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Congress",
+  "s": 294.48,
+  "e": 294.72,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 294.72,
+  "e": 294.98,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "not",
+  "s": 294.98,
+  "e": 295.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "likely",
+  "s": 295.18,
+  "e": 295.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 295.58,
+  "e": 295.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "have",
+  "s": 295.78,
+  "e": 295.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "mandated",
+  "s": 295.96,
+  "e": 296.36,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "this",
+  "s": 296.36,
+  "e": 296.62,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "result,",
+  "s": 296.62,
+  "e": 297.02,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 297.1,
+  "e": 297.26,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "we",
+  "s": 297.26,
+  "e": 297.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "do",
+  "s": 297.4,
+  "e": 297.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "not",
+  "s": 297.58,
+  "e": 297.84,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "interpret",
+  "s": 297.84,
+  "e": 298.24,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 298.24,
+  "e": 298.44,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "statute",
+  "s": 298.44,
+  "e": 298.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "to",
+  "s": 298.7,
+  "e": 298.96,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "require",
+  "s": 298.96,
+  "e": 299.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "it.",
+  "s": 299.32,
+  "e": 299.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "The",
+  "s": 300.08,
+  "e": 300.24,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Tenth",
+  "s": 300.24,
+  "e": 300.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Circuit's",
+  "s": 300.38,
+  "e": 300.88,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "decision",
+  "s": 300.88,
+  "e": 301.22,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "is",
+  "s": 301.22,
+  "e": 302.32,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "reversed",
+  "s": 302.32,
+  "e": 302.7,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 302.7,
+  "e": 302.92,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "remanded.",
+  "s": 302.92,
+  "e": 303.38,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Justice",
+  "s": 303.54,
+  "e": 303.78,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "Scalia",
+  "s": 303.78,
+  "e": 304.58,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "has",
+  "s": 304.58,
+  "e": 304.8,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "filed",
+  "s": 304.8,
+  "e": 304.98,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "an",
+  "s": 304.98,
+  "e": 305.18,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "opinion",
+  "s": 305.18,
+  "e": 305.54,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "comparing",
+  "s": 305.54,
+  "e": 306.1,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "in",
+  "s": 306.1,
+  "e": 306.28,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 306.28,
+  "e": 306.4,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "judgment.",
+  "s": 306.4,
+  "e": 306.62,
+  "speaker": "JUSTICE KENNEDY"
+ }
+]
