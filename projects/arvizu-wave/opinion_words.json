@@ -1,0 +1,3104 @@
+[
+ {
+  "w": "I",
+  "s": 0.0,
+  "e": 0.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "have",
+  "s": 0.82,
+  "e": 1.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 1.04,
+  "e": 1.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "opinion",
+  "s": 1.26,
+  "e": 1.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 1.6,
+  "e": 1.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 1.78,
+  "e": 1.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 1.98,
+  "e": 2.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 2.12,
+  "e": 2.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "announce",
+  "s": 2.32,
+  "e": 2.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 2.66,
+  "e": 2.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "number",
+  "s": 2.82,
+  "e": 3.06,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "001519,",
+  "s": 3.06,
+  "e": 4.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "United",
+  "s": 4.54,
+  "e": 4.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "States",
+  "s": 4.86,
+  "e": 5.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "v.",
+  "s": 5.34,
+  "e": 5.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Arvizu.",
+  "s": 6.1,
+  "e": 6.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "On",
+  "s": 7.5,
+  "e": 7.62,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 7.62,
+  "e": 7.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "January",
+  "s": 7.9,
+  "e": 8.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "afternoon",
+  "s": 8.5,
+  "e": 9.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "four",
+  "s": 9.2,
+  "e": 9.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "years",
+  "s": 9.64,
+  "e": 9.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "ago,",
+  "s": 9.96,
+  "e": 10.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Border",
+  "s": 10.86,
+  "e": 11.06,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Patrol",
+  "s": 11.06,
+  "e": 11.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "agent",
+  "s": 11.6,
+  "e": 12.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Clinton",
+  "s": 12.0,
+  "e": 12.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Stoddard",
+  "s": 12.42,
+  "e": 13.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "was",
+  "s": 13.02,
+  "e": 13.28,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "working",
+  "s": 13.28,
+  "e": 13.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "at",
+  "s": 13.6,
+  "e": 13.76,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 13.76,
+  "e": 14.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "checkpoint",
+  "s": 14.0,
+  "e": 14.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "along",
+  "s": 14.36,
+  "e": 14.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "U",
+  "s": 14.78,
+  "e": 15.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": ".S.",
+  "s": 15.02,
+  "e": 15.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Highway",
+  "s": 15.34,
+  "e": 15.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "191,",
+  "s": 15.58,
+  "e": 16.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "about",
+  "s": 17.46,
+  "e": 17.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "30",
+  "s": 17.54,
+  "e": 17.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "miles",
+  "s": 17.9,
+  "e": 18.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "north",
+  "s": 18.26,
+  "e": 18.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 18.52,
+  "e": 18.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Douglas,",
+  "s": 18.82,
+  "e": 19.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Arizona,",
+  "s": 19.34,
+  "e": 19.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "which",
+  "s": 19.9,
+  "e": 20.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "lies",
+  "s": 20.14,
+  "e": 20.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "on",
+  "s": 20.44,
+  "e": 20.68,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 20.68,
+  "e": 20.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "United",
+  "s": 20.8,
+  "e": 21.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "States",
+  "s": 21.08,
+  "e": 21.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "-Mexico",
+  "s": 21.54,
+  "e": 22.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "border.",
+  "s": 22.08,
+  "e": 22.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "At",
+  "s": 23.3,
+  "e": 23.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 23.52,
+  "e": 23.74,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "checkpoint,",
+  "s": 23.74,
+  "e": 24.28,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Border",
+  "s": 24.62,
+  "e": 24.84,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Patrol",
+  "s": 24.84,
+  "e": 25.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "agents",
+  "s": 25.4,
+  "e": 25.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "stopped",
+  "s": 25.78,
+  "e": 26.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "cars",
+  "s": 26.22,
+  "e": 26.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 26.66,
+  "e": 26.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "look",
+  "s": 26.92,
+  "e": 27.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "for",
+  "s": 27.08,
+  "e": 27.28,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "illegal",
+  "s": 27.28,
+  "e": 27.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "immigration",
+  "s": 27.72,
+  "e": 28.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 28.36,
+  "e": 28.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "smuggling.",
+  "s": 28.54,
+  "e": 29.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Smugglers",
+  "s": 29.94,
+  "e": 30.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "tried",
+  "s": 30.42,
+  "e": 30.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 30.66,
+  "e": 30.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "avoid",
+  "s": 30.9,
+  "e": 31.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 31.18,
+  "e": 31.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "checkpoint",
+  "s": 31.48,
+  "e": 31.84,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "by",
+  "s": 31.84,
+  "e": 32.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "taking",
+  "s": 32.18,
+  "e": 32.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "unpaved",
+  "s": 32.54,
+  "e": 33.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 33.22,
+  "e": 33.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "primitive",
+  "s": 33.48,
+  "e": 33.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "back",
+  "s": 33.96,
+  "e": 34.46,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "roads",
+  "s": 34.46,
+  "e": 34.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "around",
+  "s": 34.64,
+  "e": 35.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "it.",
+  "s": 35.22,
+  "e": 35.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Stoddard",
+  "s": 36.3,
+  "e": 36.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "received",
+  "s": 36.58,
+  "e": 36.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 36.98,
+  "e": 37.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "report",
+  "s": 37.18,
+  "e": 37.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 37.52,
+  "e": 37.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 37.7,
+  "e": 37.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "sensor",
+  "s": 37.94,
+  "e": 38.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "placed",
+  "s": 38.36,
+  "e": 39.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "along",
+  "s": 39.04,
+  "e": 39.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 39.38,
+  "e": 39.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "back",
+  "s": 39.64,
+  "e": 39.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "road",
+  "s": 39.92,
+  "e": 40.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "had",
+  "s": 40.12,
+  "e": 40.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "been",
+  "s": 40.32,
+  "e": 40.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "triggered,",
+  "s": 40.52,
+  "e": 40.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "indicating",
+  "s": 41.38,
+  "e": 41.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 41.92,
+  "e": 42.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 42.18,
+  "e": 42.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "vehicle",
+  "s": 42.34,
+  "e": 42.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "might",
+  "s": 42.66,
+  "e": 42.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "be",
+  "s": 42.94,
+  "e": 43.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "following",
+  "s": 43.22,
+  "e": 43.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 43.56,
+  "e": 43.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "common",
+  "s": 43.88,
+  "e": 44.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "smuggling",
+  "s": 44.18,
+  "e": 44.76,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "route",
+  "s": 44.76,
+  "e": 45.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "through",
+  "s": 45.12,
+  "e": 45.74,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 45.74,
+  "e": 46.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "thinly",
+  "s": 46.0,
+  "e": 46.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "populated",
+  "s": 46.66,
+  "e": 47.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "area",
+  "s": 47.32,
+  "e": 47.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "between",
+  "s": 47.82,
+  "e": 48.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 48.26,
+  "e": 48.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "highway",
+  "s": 48.48,
+  "e": 48.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 48.78,
+  "e": 48.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 48.96,
+  "e": 49.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "national",
+  "s": 49.14,
+  "e": 49.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "forest.",
+  "s": 49.48,
+  "e": 49.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "He",
+  "s": 50.7,
+  "e": 50.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "drove",
+  "s": 50.96,
+  "e": 51.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 51.24,
+  "e": 51.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "investigate",
+  "s": 51.5,
+  "e": 52.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 52.08,
+  "e": 52.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "saw",
+  "s": 52.38,
+  "e": 52.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "respondent's",
+  "s": 52.64,
+  "e": 53.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "minivan.",
+  "s": 53.58,
+  "e": 54.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "It",
+  "s": 54.72,
+  "e": 54.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "slowed",
+  "s": 54.8,
+  "e": 55.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "dramatically.",
+  "s": 55.2,
+  "e": 55.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Respondent",
+  "s": 56.7,
+  "e": 57.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "who",
+  "s": 57.12,
+  "e": 57.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "was",
+  "s": 57.18,
+  "e": 57.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "driving",
+  "s": 57.38,
+  "e": 57.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "appeared",
+  "s": 57.82,
+  "e": 58.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "stiff",
+  "s": 58.24,
+  "e": 58.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 58.66,
+  "e": 58.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "nervous.",
+  "s": 58.9,
+  "e": 59.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Three",
+  "s": 59.52,
+  "e": 59.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "children",
+  "s": 59.72,
+  "e": 60.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "were",
+  "s": 60.14,
+  "e": 60.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "inside.",
+  "s": 60.4,
+  "e": 60.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "The",
+  "s": 61.5,
+  "e": 61.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "position",
+  "s": 61.7,
+  "e": 62.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 62.08,
+  "e": 62.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 62.26,
+  "e": 62.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "children's",
+  "s": 62.44,
+  "e": 63.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "feet",
+  "s": 63.0,
+  "e": 63.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 63.2,
+  "e": 63.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 63.42,
+  "e": 63.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "back",
+  "s": 63.6,
+  "e": 63.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "seat",
+  "s": 63.88,
+  "e": 64.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "suggested",
+  "s": 64.12,
+  "e": 64.84,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "cargo",
+  "s": 64.84,
+  "e": 65.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "on",
+  "s": 65.36,
+  "e": 65.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 65.72,
+  "e": 65.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "floor.",
+  "s": 65.88,
+  "e": 66.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Stoddard",
+  "s": 67.16,
+  "e": 67.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "followed",
+  "s": 67.44,
+  "e": 67.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 67.86,
+  "e": 68.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "minivan",
+  "s": 68.14,
+  "e": 68.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 68.54,
+  "e": 68.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "learned",
+  "s": 68.8,
+  "e": 69.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 69.02,
+  "e": 69.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "it",
+  "s": 69.14,
+  "e": 69.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "was",
+  "s": 69.24,
+  "e": 69.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "registered",
+  "s": 69.44,
+  "e": 69.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 69.92,
+  "e": 70.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 70.14,
+  "e": 70.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Douglas",
+  "s": 70.38,
+  "e": 70.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "neighborhood",
+  "s": 70.66,
+  "e": 71.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "notorious",
+  "s": 71.18,
+  "e": 71.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "for",
+  "s": 71.9,
+  "e": 72.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "smuggling.",
+  "s": 72.26,
+  "e": 72.74,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "After",
+  "s": 73.52,
+  "e": 73.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 73.88,
+  "e": 74.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "minivan",
+  "s": 74.12,
+  "e": 74.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "turned",
+  "s": 74.56,
+  "e": 75.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "away",
+  "s": 75.0,
+  "e": 75.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "from",
+  "s": 75.32,
+  "e": 75.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "known",
+  "s": 75.64,
+  "e": 75.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "recreational",
+  "s": 75.98,
+  "e": 76.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "areas",
+  "s": 76.78,
+  "e": 77.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 77.34,
+  "e": 77.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "took",
+  "s": 77.58,
+  "e": 77.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 77.72,
+  "e": 77.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "last",
+  "s": 77.98,
+  "e": 78.3,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "turn",
+  "s": 78.3,
+  "e": 78.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 78.64,
+  "e": 78.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "avoid",
+  "s": 78.88,
+  "e": 79.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 79.24,
+  "e": 79.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "checkpoint,",
+  "s": 79.52,
+  "e": 79.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Stoddard",
+  "s": 80.26,
+  "e": 80.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "decided",
+  "s": 80.52,
+  "e": 81.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 81.02,
+  "e": 81.28,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "stop",
+  "s": 81.28,
+  "e": 81.62,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "it.",
+  "s": 81.62,
+  "e": 81.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "A",
+  "s": 82.48,
+  "e": 82.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "vehicle",
+  "s": 82.7,
+  "e": 83.06,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "search",
+  "s": 83.06,
+  "e": 83.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "uncovered",
+  "s": 83.56,
+  "e": 84.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "128",
+  "s": 84.86,
+  "e": 85.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "pounds",
+  "s": 85.6,
+  "e": 86.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 86.2,
+  "e": 86.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "marijuana,",
+  "s": 86.48,
+  "e": 87.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "some",
+  "s": 87.26,
+  "e": 87.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 87.4,
+  "e": 87.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "it",
+  "s": 87.56,
+  "e": 87.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "concealed",
+  "s": 87.7,
+  "e": 88.16,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 88.16,
+  "e": 88.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 88.4,
+  "e": 88.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "duffel",
+  "s": 88.66,
+  "e": 89.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "bag",
+  "s": 89.0,
+  "e": 89.3,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "beneath",
+  "s": 89.3,
+  "e": 89.62,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 89.62,
+  "e": 89.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "children's",
+  "s": 89.94,
+  "e": 90.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "feet.",
+  "s": 90.5,
+  "e": 90.74,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Respondent",
+  "s": 92.1,
+  "e": 92.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "was",
+  "s": 92.6,
+  "e": 92.74,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "charged",
+  "s": 92.74,
+  "e": 93.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "with",
+  "s": 93.02,
+  "e": 93.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "possession",
+  "s": 93.26,
+  "e": 93.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "with",
+  "s": 93.7,
+  "e": 93.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "intent",
+  "s": 93.92,
+  "e": 94.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 94.26,
+  "e": 94.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "distribute",
+  "s": 94.5,
+  "e": 94.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "marijuana.",
+  "s": 94.92,
+  "e": 95.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "He",
+  "s": 96.2,
+  "e": 96.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "moved",
+  "s": 96.22,
+  "e": 96.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 96.48,
+  "e": 96.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "suppress",
+  "s": 96.7,
+  "e": 97.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 97.12,
+  "e": 97.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "evidence",
+  "s": 97.4,
+  "e": 97.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 97.72,
+  "e": 97.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 97.92,
+  "e": 98.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "drugs,",
+  "s": 98.1,
+  "e": 98.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "arguing",
+  "s": 98.52,
+  "e": 98.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 98.9,
+  "e": 99.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 99.12,
+  "e": 99.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "stop",
+  "s": 99.34,
+  "e": 99.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "was",
+  "s": 99.6,
+  "e": 99.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "not",
+  "s": 99.8,
+  "e": 100.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "supported",
+  "s": 100.04,
+  "e": 100.46,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "by",
+  "s": 100.46,
+  "e": 100.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "reasonable",
+  "s": 100.72,
+  "e": 101.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "suspicion",
+  "s": 101.18,
+  "e": 101.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "as",
+  "s": 101.86,
+  "e": 102.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "required",
+  "s": 102.1,
+  "e": 102.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "by",
+  "s": 102.5,
+  "e": 102.74,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 102.74,
+  "e": 102.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Fourth",
+  "s": 102.9,
+  "e": 103.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Amendment.",
+  "s": 103.1,
+  "e": 103.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "The",
+  "s": 104.38,
+  "e": 104.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "District",
+  "s": 104.56,
+  "e": 104.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 104.86,
+  "e": 105.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "ruled",
+  "s": 105.12,
+  "e": 105.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "against",
+  "s": 105.44,
+  "e": 105.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "him,",
+  "s": 105.88,
+  "e": 106.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "but",
+  "s": 106.36,
+  "e": 106.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 106.54,
+  "e": 106.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 106.72,
+  "e": 106.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 106.88,
+  "e": 107.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Appeals",
+  "s": 107.04,
+  "e": 107.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "for",
+  "s": 107.36,
+  "e": 107.62,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 107.62,
+  "e": 107.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Ninth",
+  "s": 107.78,
+  "e": 108.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Circuit",
+  "s": 108.0,
+  "e": 108.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "reversed.",
+  "s": 108.36,
+  "e": 108.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "In",
+  "s": 109.86,
+  "e": 109.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "an",
+  "s": 109.98,
+  "e": 110.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "opinion",
+  "s": 110.2,
+  "e": 110.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "filed",
+  "s": 110.44,
+  "e": 110.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "with",
+  "s": 110.78,
+  "e": 111.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 111.0,
+  "e": 111.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Clerk",
+  "s": 111.2,
+  "e": 111.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 111.34,
+  "e": 111.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 111.5,
+  "e": 111.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 111.64,
+  "e": 111.76,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "today,",
+  "s": 111.76,
+  "e": 112.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "we",
+  "s": 112.26,
+  "e": 112.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "reversed",
+  "s": 112.32,
+  "e": 112.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 112.72,
+  "e": 112.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 112.98,
+  "e": 113.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 113.1,
+  "e": 113.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Appeals.",
+  "s": 113.32,
+  "e": 113.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "In",
+  "s": 114.52,
+  "e": 114.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "its",
+  "s": 114.7,
+  "e": 114.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "opinion,",
+  "s": 114.9,
+  "e": 115.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 115.42,
+  "e": 115.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 115.5,
+  "e": 115.68,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 115.68,
+  "e": 115.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Appeals",
+  "s": 115.8,
+  "e": 116.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "set",
+  "s": 116.18,
+  "e": 116.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "out",
+  "s": 116.5,
+  "e": 116.76,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 116.76,
+  "e": 116.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "clearly",
+  "s": 116.96,
+  "e": 117.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "delimit",
+  "s": 117.32,
+  "e": 117.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 117.88,
+  "e": 118.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "factors",
+  "s": 118.08,
+  "e": 118.46,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "an",
+  "s": 118.46,
+  "e": 118.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "officer",
+  "s": 118.72,
+  "e": 119.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "can",
+  "s": 119.14,
+  "e": 119.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "consider",
+  "s": 119.52,
+  "e": 120.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 120.1,
+  "e": 120.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "making",
+  "s": 120.38,
+  "e": 120.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "stops",
+  "s": 120.72,
+  "e": 121.28,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "like",
+  "s": 121.28,
+  "e": 121.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 121.58,
+  "e": 121.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "one",
+  "s": 121.78,
+  "e": 121.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "involved",
+  "s": 121.94,
+  "e": 122.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "here.",
+  "s": 122.48,
+  "e": 122.84,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "It",
+  "s": 122.98,
+  "e": 123.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "held",
+  "s": 123.58,
+  "e": 123.84,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 123.84,
+  "e": 124.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "seven",
+  "s": 124.08,
+  "e": 124.46,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "factors,",
+  "s": 124.46,
+  "e": 125.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "including",
+  "s": 125.2,
+  "e": 125.68,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "respondents",
+  "s": 125.68,
+  "e": 126.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "slowing",
+  "s": 126.38,
+  "e": 126.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "down,",
+  "s": 126.9,
+  "e": 127.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "were",
+  "s": 127.78,
+  "e": 128.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "simply",
+  "s": 128.0,
+  "e": 128.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "out",
+  "s": 128.36,
+  "e": 128.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 128.66,
+  "e": 128.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "bounds",
+  "s": 128.88,
+  "e": 129.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 129.42,
+  "e": 130.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "deciding",
+  "s": 130.32,
+  "e": 130.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "whether",
+  "s": 130.8,
+  "e": 131.06,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "there",
+  "s": 131.06,
+  "e": 131.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "was",
+  "s": 131.26,
+  "e": 131.46,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "reasonable",
+  "s": 131.46,
+  "e": 131.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "suspicion",
+  "s": 131.94,
+  "e": 132.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 132.64,
+  "e": 133.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 133.02,
+  "e": 133.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 133.18,
+  "e": 133.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "remaining",
+  "s": 133.34,
+  "e": 133.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "factors",
+  "s": 133.72,
+  "e": 134.3,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "did",
+  "s": 134.3,
+  "e": 134.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "not",
+  "s": 134.52,
+  "e": 134.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "satisfy",
+  "s": 134.82,
+  "e": 135.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 135.34,
+  "e": 135.62,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Fourth",
+  "s": 135.62,
+  "e": 135.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Amendment.",
+  "s": 135.86,
+  "e": 136.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "This",
+  "s": 137.06,
+  "e": 137.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "methodology",
+  "s": 137.44,
+  "e": 138.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "is",
+  "s": 138.32,
+  "e": 138.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "totally",
+  "s": 138.96,
+  "e": 139.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "contrary",
+  "s": 139.36,
+  "e": 139.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 139.96,
+  "e": 140.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "our",
+  "s": 140.26,
+  "e": 140.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "prior",
+  "s": 140.5,
+  "e": 140.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "decisions.",
+  "s": 140.88,
+  "e": 141.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "In",
+  "s": 142.36,
+  "e": 142.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "cases",
+  "s": 142.48,
+  "e": 142.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "such",
+  "s": 142.88,
+  "e": 143.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "as",
+  "s": 143.24,
+  "e": 143.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Cortez",
+  "s": 143.56,
+  "e": 144.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "v.",
+  "s": 144.12,
+  "e": 144.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "United",
+  "s": 144.52,
+  "e": 144.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "States,",
+  "s": 144.92,
+  "e": 145.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "we",
+  "s": 145.5,
+  "e": 145.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "have",
+  "s": 145.58,
+  "e": 145.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "said",
+  "s": 145.78,
+  "e": 145.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 145.92,
+  "e": 146.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "reviewing",
+  "s": 146.1,
+  "e": 146.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "courts",
+  "s": 146.48,
+  "e": 146.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "should",
+  "s": 146.88,
+  "e": 147.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "make",
+  "s": 147.14,
+  "e": 147.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "reasonable",
+  "s": 147.34,
+  "e": 147.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "suspicion",
+  "s": 147.9,
+  "e": 148.9,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "determination",
+  "s": 148.9,
+  "e": 149.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "by",
+  "s": 149.64,
+  "e": 150.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "looking",
+  "s": 150.52,
+  "e": 150.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "at",
+  "s": 150.8,
+  "e": 151.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 151.0,
+  "e": 151.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "totality",
+  "s": 151.18,
+  "e": 151.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 151.8,
+  "e": 152.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 152.04,
+  "e": 152.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "circumstances",
+  "s": 152.22,
+  "e": 152.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 152.82,
+  "e": 153.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "each",
+  "s": 153.24,
+  "e": 153.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "case",
+  "s": 153.42,
+  "e": 153.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 153.78,
+  "e": 154.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "see",
+  "s": 154.04,
+  "e": 154.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "whether",
+  "s": 154.26,
+  "e": 154.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 154.5,
+  "e": 154.76,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "detaining",
+  "s": 154.76,
+  "e": 155.2,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "officer",
+  "s": 155.2,
+  "e": 155.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "has",
+  "s": 155.66,
+  "e": 156.38,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 156.38,
+  "e": 156.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "particularized",
+  "s": 156.6,
+  "e": 157.46,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 157.46,
+  "e": 157.62,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "objective",
+  "s": 157.62,
+  "e": 158.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "basis",
+  "s": 158.14,
+  "e": 158.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "for",
+  "s": 158.66,
+  "e": 159.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "suspecting",
+  "s": 159.04,
+  "e": 160.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "legal",
+  "s": 160.1,
+  "e": 160.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "wrongdoing.",
+  "s": 160.44,
+  "e": 160.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "This",
+  "s": 162.22,
+  "e": 162.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "standard",
+  "s": 162.5,
+  "e": 162.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "allows",
+  "s": 162.98,
+  "e": 163.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "officers",
+  "s": 163.48,
+  "e": 164.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 164.02,
+  "e": 164.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "draw",
+  "s": 164.32,
+  "e": 164.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "on",
+  "s": 164.6,
+  "e": 164.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "their",
+  "s": 164.8,
+  "e": 164.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "own",
+  "s": 164.94,
+  "e": 165.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "experience",
+  "s": 165.18,
+  "e": 165.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 165.8,
+  "e": 166.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "training",
+  "s": 166.1,
+  "e": 166.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 166.52,
+  "e": 167.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "make",
+  "s": 167.22,
+  "e": 167.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "inferences",
+  "s": 167.48,
+  "e": 168.06,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "from",
+  "s": 168.06,
+  "e": 168.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 168.32,
+  "e": 168.54,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "cumulative",
+  "s": 168.54,
+  "e": 168.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "information",
+  "s": 168.92,
+  "e": 169.78,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "before",
+  "s": 169.78,
+  "e": 170.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "them.",
+  "s": 170.24,
+  "e": 170.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "It",
+  "s": 170.62,
+  "e": 171.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "isn't",
+  "s": 171.18,
+  "e": 171.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "reducible",
+  "s": 171.42,
+  "e": 172.06,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 172.06,
+  "e": 172.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 172.44,
+  "e": 172.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "neat",
+  "s": 172.66,
+  "e": 172.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "set",
+  "s": 172.88,
+  "e": 173.18,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 173.18,
+  "e": 173.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "rules.",
+  "s": 173.44,
+  "e": 173.84,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "In",
+  "s": 174.62,
+  "e": 174.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "United",
+  "s": 174.8,
+  "e": 175.16,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "States",
+  "s": 175.16,
+  "e": 175.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "v.",
+  "s": 175.64,
+  "e": 175.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Socolow,",
+  "s": 176.22,
+  "e": 176.62,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "we",
+  "s": 176.7,
+  "e": 176.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "rejected",
+  "s": 176.8,
+  "e": 177.36,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 177.36,
+  "e": 177.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "holding",
+  "s": 177.58,
+  "e": 177.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "by",
+  "s": 177.82,
+  "e": 178.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 178.02,
+  "e": 178.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 178.22,
+  "e": 178.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 178.34,
+  "e": 178.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Appeals",
+  "s": 178.5,
+  "e": 178.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 178.86,
+  "e": 179.46,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "sought",
+  "s": 179.46,
+  "e": 179.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "to",
+  "s": 179.7,
+  "e": 180.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "distinguish",
+  "s": 180.0,
+  "e": 180.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "between",
+  "s": 180.42,
+  "e": 180.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "incriminating",
+  "s": 180.98,
+  "e": 182.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "evidence",
+  "s": 182.14,
+  "e": 182.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "and",
+  "s": 182.6,
+  "e": 182.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "other",
+  "s": 182.86,
+  "e": 183.12,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "types",
+  "s": 183.12,
+  "e": 183.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 183.48,
+  "e": 183.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "evidence.",
+  "s": 183.72,
+  "e": 184.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "The",
+  "s": 184.92,
+  "e": 185.1,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 185.1,
+  "e": 185.32,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 185.32,
+  "e": 185.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Appeals'",
+  "s": 185.48,
+  "e": 185.76,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "approach",
+  "s": 186.06,
+  "e": 186.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 186.24,
+  "e": 186.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "this",
+  "s": 186.44,
+  "e": 186.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "case",
+  "s": 186.66,
+  "e": 186.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "fares",
+  "s": 186.88,
+  "e": 187.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "no",
+  "s": 187.26,
+  "e": 187.52,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "better.",
+  "s": 187.52,
+  "e": 187.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "It",
+  "s": 187.86,
+  "e": 188.62,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "would",
+  "s": 188.62,
+  "e": 188.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "seriously",
+  "s": 188.82,
+  "e": 189.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "undercut",
+  "s": 189.4,
+  "e": 189.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 189.96,
+  "e": 190.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "totality",
+  "s": 190.24,
+  "e": 190.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 190.8,
+  "e": 191.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 191.02,
+  "e": 191.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "circumstances",
+  "s": 191.22,
+  "e": 191.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "principle",
+  "s": 191.72,
+  "e": 192.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 192.48,
+  "e": 192.68,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "governs",
+  "s": 192.68,
+  "e": 193.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "reasonable",
+  "s": 193.04,
+  "e": 193.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "suspicion",
+  "s": 193.6,
+  "e": 194.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "determination.",
+  "s": 194.22,
+  "e": 195.06,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Facts",
+  "s": 195.84,
+  "e": 196.06,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "that",
+  "s": 196.06,
+  "e": 196.3,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "may",
+  "s": 196.3,
+  "e": 196.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "be",
+  "s": 196.5,
+  "e": 196.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "unremarkable",
+  "s": 196.7,
+  "e": 197.42,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 197.42,
+  "e": 197.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "one",
+  "s": 197.64,
+  "e": 197.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "context",
+  "s": 197.86,
+  "e": 198.5,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "may",
+  "s": 198.5,
+  "e": 198.84,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "be",
+  "s": 198.84,
+  "e": 199.04,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "quite",
+  "s": 199.04,
+  "e": 199.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "relevant",
+  "s": 199.26,
+  "e": 199.74,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 199.74,
+  "e": 199.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "another.",
+  "s": 199.94,
+  "e": 200.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Analyzed",
+  "s": 201.14,
+  "e": 201.68,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "under",
+  "s": 201.68,
+  "e": 201.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 201.88,
+  "e": 202.14,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "proper",
+  "s": 202.14,
+  "e": 202.44,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "standard,",
+  "s": 202.44,
+  "e": 202.96,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 203.22,
+  "e": 203.26,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "stop",
+  "s": 203.26,
+  "e": 203.58,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "was",
+  "s": 203.58,
+  "e": 203.86,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "constitutionally",
+  "s": 203.86,
+  "e": 204.7,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "permissible.",
+  "s": 204.7,
+  "e": 205.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "The",
+  "s": 206.12,
+  "e": 206.24,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "decision",
+  "s": 206.24,
+  "e": 206.64,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "is",
+  "s": 206.64,
+  "e": 206.84,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "unanimous.",
+  "s": 206.84,
+  "e": 207.4,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Justice",
+  "s": 207.8,
+  "e": 207.94,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Scalia",
+  "s": 207.94,
+  "e": 208.28,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "has",
+  "s": 208.28,
+  "e": 208.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "filed",
+  "s": 208.56,
+  "e": 208.82,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "a",
+  "s": 208.82,
+  "e": 208.98,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "concurring",
+  "s": 208.98,
+  "e": 209.48,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "opinion.",
+  "s": 209.48,
+  "e": 209.92,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ }
+]

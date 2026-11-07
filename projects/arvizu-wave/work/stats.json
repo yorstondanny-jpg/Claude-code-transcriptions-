@@ -1,0 +1,538 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2001/00-1519.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2001/00-1519/20011127a_00-1519.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 380.6,
+   "next": 381.88,
+   "speaker": "QUESTION",
+   "before": "limit. That sounds a lot more reasonable then. I mean, gee, if you don't slow down to the speed limit when you see a police car, you're in big trouble.",
+   "pause": 1.28,
+   "loud_s": 1.15,
+   "mean_over": 21.4,
+   "peak_over": 31.5,
+   "size": "big"
+  },
+  {
+   "t": 394.26,
+   "next": 394.26,
+   "speaker": "QUESTION",
+   "before": "was not common in the area, and it -- You mean they just keep zipping along at 50 despite seeing a police car. What part of the country is this anyway?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 397.14,
+   "next": 401.14,
+   "speaker": "QUESTION",
+   "before": "common in the area, and it -- You mean they just keep zipping along at 50 despite seeing a police car. What part of the country is this anyway? It's Arizona.",
+   "pause": 4.0,
+   "loud_s": 3.65,
+   "mean_over": 25.0,
+   "peak_over": 36.2,
+   "size": "big"
+  },
+  {
+   "t": 809.59,
+   "next": 809.59,
+   "speaker": "QUESTION",
+   "before": "what about, you know, not -- not waving to the police car as you go by? I don't know when I -- if I were ever exceeding the speed limit and saw --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 822.07,
+   "next": 822.91,
+   "speaker": "QUESTION",
+   "before": "saw a police car, it seems to me I would slow down and -- and try to give the impression that I wasn't slowing down because I saw the police car.",
+   "pause": 0.84,
+   "loud_s": 0.7,
+   "mean_over": 24.2,
+   "peak_over": 29.6,
+   "size": "medium"
+  },
+  {
+   "t": 825.47,
+   "next": 826.69,
+   "speaker": "QUESTION",
+   "before": "to give the impression that I wasn't slowing down because I saw the police car. I mean, you know, you don't hit the brake and wave at the police officer.",
+   "pause": 1.22,
+   "loud_s": 1.05,
+   "mean_over": 30.1,
+   "peak_over": 37.6,
+   "size": "big"
+  },
+  {
+   "t": 1802.27,
+   "next": 1803.95,
+   "speaker": "QUESTION",
+   "before": "the -- of the vast desert of Arizona for people to go barreling along at 50 miles an hour past a Border Patrol agent and ordinarily to wave and say hi.",
+   "pause": 1.68,
+   "loud_s": 1.15,
+   "mean_over": 21.7,
+   "peak_over": 29.7,
+   "size": "big"
+  },
+  {
+   "t": 2014.85,
+   "next": 2015.87,
+   "speaker": "QUESTION",
+   "before": "kind of wave it was? What -- what he says in his testimony is they kind of stuck their hands up and began waving to me like this. Well, I'm sorry.",
+   "pause": 1.02,
+   "loud_s": 0.3,
+   "mean_over": 19.6,
+   "peak_over": 28.3,
+   "size": "small"
+  },
+  {
+   "t": 2478.55,
+   "next": 2478.55,
+   "speaker": "QUESTION",
+   "before": "was a rehearing in this case, they amended the opinion to add under the circumstances of this case and in this case on many, many times. Maybe not often enough.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2939.83,
+   "next": 2942.21,
+   "speaker": "QUESTION",
+   "before": "doesn't -- you know, not everybody is a smuggler in such an area. They drive with their family just for recreation 50 miles out of the way. Their children wave oddly.",
+   "pause": 2.38,
+   "loud_s": 1.65,
+   "mean_over": 18.4,
+   "peak_over": 28.8,
+   "size": "medium"
+  },
+  {
+   "t": 3271.35,
+   "next": 3271.71,
+   "speaker": "QUESTION",
+   "before": "Court has further questions, we submit that the judgment of the court of appeals should be reversed. Tell me. Explain to me again why the shift change is so significant.",
+   "pause": 0.36,
+   "loud_s": 0.0,
+   "mean_over": 4.9,
+   "peak_over": 6.9,
+   "size": "small"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -44.7,
+ "opening_start": 10.84,
+ "opening": [
+  [
+   10.84,
+   "MR. SCHLICK",
+   "Mr. Chief Justice, and may it please the Court: Since Terry, this Court has held repeatedly that reasonable suspicion analysis requires a common sense evaluation of the totality of the circumstances. The decision below is fundamentally inconsistent with that rule because it requires law enforcement officers to disregard potentially relevant facts when determining whether investigative stop is warranted. This Court's decisions in Cortez and Sokolow are especially clear in rejecting attempts to put categories of facts off limits. In Cortez, the Court held that a vehicle's route, the timing of its trip, and its capacity for carrying illegal aliens together established reasonable suspicion, notwithstanding that each of those facts independently might be consistent with innocent travel. In Sokolow, the Court rejected a rule that would have limited officers' ability to consider the personal characteristics of suspected drug smugglers. The Court held that that sort of rule adds to the difficulty of applying the reasonable suspicion standard. It does not ease it. And the Court further confirmed that innocent facts, facts consistent with innocent travel, in themselves may together establish reasonable suspicion. In this case, the Ninth Circuit attempted to establish a rule that would bar categorically consideration of certain facts that the court deemed innocent. That -- that rule presents two fundamental problems. The first is that it doesn't accommodate the subtleties of real world encounters. For every categorical rule, there would have to be exceptions and subrules, and even if law enforcement officers could be asked to master those, they would still then have to anticipate new situations, and those rules could not provide guidance when --"
+  ],
+  [
+   112.08,
+   "QUESTION",
+   "Mr. Schlick, you said this is an area in which one can use one's common sense, and I thought that what the Ninth Circuit was telling us was that some items in that list under all circumstances wouldn't cast suspicion. And one was -- had a certain familiar ring with me that when you see a police car, you slow down. This wasn't a car that came to a screeching halt or was trying to dodge it, and then it just slowed down. And isn't that a most natural reaction?"
+  ],
+  [
+   146.66,
+   "MR. SCHLICK",
+   "The problem, Justice Ginsburg, was that the Ninth Circuit didn't admit of situations in which deceleration might be relevant. For example, in the Fifth Circuit's Villalobos case, which we cited in our brief, the law enforcement officer pulled in front of the vehicle that was suspected. The vehicle then slowed to drop back away from the law enforcement officer vehicle, and the Border Patrol officer in that case deemed that suspicious, that it appeared that the vehicle had changed its speed in order to increase its distance from the law --"
+  ],
+  [
+   173.7,
+   "QUESTION",
+   "But they weren't talking about that case. They were talking about this case. And I thought what they were saying was that there was nothing suspicious about the slowdown here, and if that's all that you have, it won't do."
+  ],
+  [
+   190.16,
+   "MR. SCHLICK",
+   "Justice Ginsburg,"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2001/00-1519",
+  "page_url": "https://www.oyez.org/cases/2001/00-1519",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - January 15, 2002",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/21788",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2001/00-1519/20020115o_00-1519.delivery.mp3",
+  "duration": 210.390256,
+  "mp3_bytes": 929100,
+  "asr_elapsed_s": 122.5,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   482,
+   517,
+   520
+  ],
+  "diffs": [
+   [
+    2.66,
+    "a number",
+    "in NO."
+   ],
+   [
+    13.6,
+    "at",
+    "on"
+   ],
+   [
+    25.78,
+    "stopped",
+    "stop"
+   ],
+   [
+    30.42,
+    "tried",
+    "try"
+   ],
+   [
+    35.22,
+    "it.",
+    "them."
+   ],
+   [
+    39.38,
+    "a",
+    "the"
+   ],
+   [
+    56.7,
+    "",
+    "The"
+   ],
+   [
+    79.52,
+    "checkpoint,",
+    "checkpoints,"
+   ],
+   [
+    88.16,
+    "in",
+    "on"
+   ],
+   [
+    100.72,
+    "",
+    "any"
+   ],
+   [
+    109.86,
+    "",
+    "And"
+   ],
+   [
+    109.98,
+    "an",
+    ""
+   ],
+   [
+    110.44,
+    "filed",
+    "followed"
+   ],
+   [
+    112.32,
+    "reversed",
+    "reverse"
+   ],
+   [
+    118.72,
+    "officer",
+    "officers"
+   ],
+   [
+    123.84,
+    "that",
+    "at"
+   ],
+   [
+    134.3,
+    "did",
+    "do"
+   ],
+   [
+    145.78,
+    "said",
+    "siad"
+   ],
+   [
+    146.1,
+    "",
+    "the"
+   ],
+   [
+    146.48,
+    "courts",
+    "court"
+   ],
+   [
+    171.18,
+    "isn't reducible",
+    "is irreducible"
+   ],
+   [
+    175.64,
+    "v. Socolow,",
+    "versus Sokolow"
+   ],
+   [
+    186.88,
+    "fares",
+    "fairs"
+   ],
+   [
+    197.42,
+    "in",
+    "on"
+   ],
+   [
+    203.22,
+    "the",
+    "to"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 517,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "I have the opinion of the Court to announce a number 001519, United States v. Arvizu. On a January afternoon four years ago, Border Patrol agent Clinton Stoddard was working at a checkpoint along U .S. Highway 191, about 30 miles north of Douglas, Arizona, which lies on the United States-Mexico border. At the checkpoint, Border Patrol agents stopped cars to look for illegal immigration and smuggling. Smugglers tried to avoid the checkpoint by taking unpaved and primitive back roads around it. Stoddard received a report that a sensor placed along a back road had been triggered, indicating that a vehicle might be following a common smuggling route through a thinly populated area between the highway and a national forest. He drove to investigate and saw respondent's minivan. It slowed dramatically. Respondent who was driving appeared stiff and nervous. Three children were inside. The position of the children's feet in the back seat suggested cargo on the floor. Stoddard followed the minivan and learned that it was registered to a Douglas neighborhood notorious for smuggling. After the minivan turned away from known recreational areas and took the last turn to avoid the checkpoint, Stoddard decided to stop it. A vehicle search uncovered 128 pounds of marijuana, some of it concealed in a duffel bag beneath the children's feet. Respondent was charged with possession with intent to distribute marijuana. He moved to suppress the evidence of the drugs, arguing that the stop was not supported by reasonable suspicion as required by the Fourth Amendment. The District Court ruled against him, but the Court of Appeals for the Ninth Circuit reversed. In an opinion filed with the Clerk of the Court today, we reversed the Court of Appeals. In its opinion, the Court of Appeals set out to clearly delimit the factors an officer can consider in making stops like the one involved here. It held that seven factors, including respondents slowing down, were simply out of bounds in deciding whether there was reasonable suspicion and that the remaining factors did not satisfy the Fourth Amendment. This methodology is totally contrary to our prior decisions. In cases such as Cortez v. United States, we have said that reviewing courts should make reasonable suspicion determination by looking at the totality of the circumstances of each case to see whether the detaining officer has a particularized and objective basis for suspecting legal wrongdoing. This standard allows officers to draw on their own experience and training to make inferences from the cumulative information before them. It isn't reducible to a neat set of rules. In United States v. Socolow, we rejected a holding by the Court of Appeals that sought to"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "I have the opinion of the Court to announce a number 001519, United States v. Arvizu. On a January afternoon four years ago, Border Patrol agent Clinton Stoddard was working at a checkpoint along U .S. Highway 191, about 30 miles north of Douglas, Arizona, which lies on the United States-Mexico border. At the checkpoint, Border Patrol agents stopped cars to look for illegal immigration and smuggling. Smugglers tried to avoid the checkpoint by taking unpaved and primitive back roads around it. Stoddard received a report that a sensor placed along a back road had been triggered, indicating that a vehicle might be following a common smuggling route through a thinly populated area between the highway and a national forest. He drove to investigate and saw respondent's minivan. It slowed dramatically. Respondent who was driving appeared stiff and nervous. Three children were inside. The position of the children's feet in the back seat suggested cargo on the floor. Stoddard followed the minivan and learned that it was registered to a Douglas neighborhood notorious for smuggling. After the minivan turned away from known recreational areas and took the last turn to avoid the checkpoint, Stoddard decided to stop it. A vehicle search uncovered 128 pounds of marijuana, some of it concealed in a duffel bag beneath the children's feet. Respondent was charged with possession with intent to distribute marijuana. He moved to suppress the evidence of the drugs, arguing that the stop was not supported by reasonable suspicion as required by the Fourth Amendment. The District Court ruled against him, but the Court of Appeals for the Ninth Circuit reversed. In an opinion filed with the Clerk of the Court today, we reversed the Court of Appeals. In its opinion, the Court of Appeals set out to clearly delimit the factors an officer can consider in making stops like the one involved here. It held that seven factors, including respondents slowing down, were simply out of bounds in deciding whether there was reasonable suspicion and that the remaining factors did not satisfy the Fourth Amendment. This methodology is totally contrary to our prior decisions. In cases such as Cortez v. United States, we have said that reviewing courts should make reasonable suspicion determination by looking at the totality of the circumstances of each case to see whether the detaining officer has a particularized and objective basis for suspecting legal wrongdoing. This standard allows officers to draw on their own experience and training to make inferences from the cumulative information before them. It isn't reducible to a neat set of rules. In United States v. Socolow, we rejected a holding by the Court of Appeals that sought to distinguish between incriminating evidence and other types of evidence. The Court of Appeals' approach in this case fares no better. It would seriously undercut the totality of the circumstances principle that governs reasonable suspicion determination. Facts that may be unremarkable in one context may be quite relevant in another. Analyzed under the proper standard, the stop was constitutionally permissible. The decision is unanimous. Justice Scalia has filed a concurring opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "I have the opinion of the Court to announce a number 001519, United States v. Arvizu."
+   ],
+   [
+    7.5,
+    "CHIEF JUSTICE REHNQUIST",
+    "On a January afternoon four years ago, Border Patrol agent Clinton Stoddard was working at a checkpoint along U .S."
+   ],
+   [
+    15.34,
+    "CHIEF JUSTICE REHNQUIST",
+    "Highway 191, about 30 miles north of Douglas, Arizona, which lies on the United States-Mexico border."
+   ],
+   [
+    23.3,
+    "CHIEF JUSTICE REHNQUIST",
+    "At the checkpoint, Border Patrol agents stopped cars to look for illegal immigration and smuggling."
+   ],
+   [
+    29.94,
+    "CHIEF JUSTICE REHNQUIST",
+    "Smugglers tried to avoid the checkpoint by taking unpaved and primitive back roads around it."
+   ],
+   [
+    36.3,
+    "CHIEF JUSTICE REHNQUIST",
+    "Stoddard received a report that a sensor placed along a back road had been triggered, indicating that a vehicle might be following a common smuggling route through a thinly populated area between the highway and a national forest."
+   ],
+   [
+    50.7,
+    "CHIEF JUSTICE REHNQUIST",
+    "He drove to investigate and saw respondent's minivan."
+   ],
+   [
+    54.72,
+    "CHIEF JUSTICE REHNQUIST",
+    "It slowed dramatically."
+   ],
+   [
+    56.7,
+    "CHIEF JUSTICE REHNQUIST",
+    "Respondent who was driving appeared stiff and nervous."
+   ],
+   [
+    59.52,
+    "CHIEF JUSTICE REHNQUIST",
+    "Three children were inside."
+   ],
+   [
+    61.5,
+    "CHIEF JUSTICE REHNQUIST",
+    "The position of the children's feet in the back seat suggested cargo on the floor."
+   ],
+   [
+    67.16,
+    "CHIEF JUSTICE REHNQUIST",
+    "Stoddard followed the minivan and learned that it was registered to a Douglas neighborhood notorious for smuggling."
+   ],
+   [
+    73.52,
+    "CHIEF JUSTICE REHNQUIST",
+    "After the minivan turned away from known recreational areas and took the last turn to avoid the checkpoint, Stoddard decided to stop it."
+   ],
+   [
+    82.48,
+    "CHIEF JUSTICE REHNQUIST",
+    "A vehicle search uncovered 128 pounds of marijuana, some of it concealed in a duffel bag beneath the children's feet."
+   ],
+   [
+    92.1,
+    "CHIEF JUSTICE REHNQUIST",
+    "Respondent was charged with possession with intent to distribute marijuana."
+   ],
+   [
+    96.2,
+    "CHIEF JUSTICE REHNQUIST",
+    "He moved to suppress the evidence of the drugs, arguing that the stop was not supported by reasonable suspicion as required by the Fourth Amendment."
+   ],
+   [
+    104.38,
+    "CHIEF JUSTICE REHNQUIST",
+    "The District Court ruled against him, but the Court of Appeals for the Ninth Circuit reversed."
+   ],
+   [
+    109.86,
+    "CHIEF JUSTICE REHNQUIST",
+    "In an opinion filed with the Clerk of the Court today, we reversed the Court of Appeals."
+   ],
+   [
+    114.52,
+    "CHIEF JUSTICE REHNQUIST",
+    "In its opinion, the Court of Appeals set out to clearly delimit the factors an officer can consider in making stops like the one involved here."
+   ],
+   [
+    122.98,
+    "CHIEF JUSTICE REHNQUIST",
+    "It held that seven factors, including respondents slowing down, were simply out of bounds in deciding whether there was reasonable suspicion and that the remaining factors did not satisfy the Fourth Amendment."
+   ],
+   [
+    137.06,
+    "CHIEF JUSTICE REHNQUIST",
+    "This methodology is totally contrary to our prior decisions."
+   ],
+   [
+    142.36,
+    "CHIEF JUSTICE REHNQUIST",
+    "In cases such as Cortez v. United States, we have said that reviewing courts should make reasonable suspicion determination by looking at the totality of the circumstances of each case to see whether the detaining officer has a particularized and objective basis for suspecting legal wrongdoing."
+   ],
+   [
+    162.22,
+    "CHIEF JUSTICE REHNQUIST",
+    "This standard allows officers to draw on their own experience and training to make inferences from the cumulative information before them."
+   ],
+   [
+    170.62,
+    "CHIEF JUSTICE REHNQUIST",
+    "It isn't reducible to a neat set of rules."
+   ],
+   [
+    174.62,
+    "CHIEF JUSTICE REHNQUIST",
+    "In United States v. Socolow, we rejected a holding by the Court of Appeals that sought to distinguish between incriminating evidence and other types of evidence."
+   ],
+   [
+    184.92,
+    "CHIEF JUSTICE REHNQUIST",
+    "The Court of Appeals' approach in this case fares no better."
+   ],
+   [
+    187.86,
+    "CHIEF JUSTICE REHNQUIST",
+    "It would seriously undercut the totality of the circumstances principle that governs reasonable suspicion determination."
+   ],
+   [
+    195.84,
+    "CHIEF JUSTICE REHNQUIST",
+    "Facts that may be unremarkable in one context may be quite relevant in another."
+   ],
+   [
+    201.14,
+    "CHIEF JUSTICE REHNQUIST",
+    "Analyzed under the proper standard, the stop was constitutionally permissible."
+   ],
+   [
+    206.12,
+    "CHIEF JUSTICE REHNQUIST",
+    "The decision is unanimous."
+   ],
+   [
+    207.8,
+    "CHIEF JUSTICE REHNQUIST",
+    "Justice Scalia has filed a concurring opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE REHNQUIST",
+    0.0,
+    209.92,
+    516
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "00-1519",
+ "year": "2001",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2001/00-1519",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2001/00-1519/20011127a_00-1519.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2001/00-1519.pdf",
+ "model": "medium.en",
+ "duration": 3419.062857,
+ "asr_elapsed_s": 2441.0,
+ "asr_words": 9568,
+ "official_words": 9755,
+ "matched": 9237,
+ "shared": 6,
+ "clamped": 0,
+ "trimmed": 21,
+ "rewindowed": 1,
+ "match_rate": 94.68990261404409,
+ "turns": 209,
+ "laugh_markers": 11,
+ "mp3_bytes": 27377863,
+ "pauses": 364,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 288,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.69% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-07"
+}
