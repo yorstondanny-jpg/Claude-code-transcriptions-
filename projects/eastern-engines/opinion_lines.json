@@ -1,0 +1,14 @@
+[
+ {
+  "speaker": "CHIEF JUSTICE REHNQUIST",
+  "s": 0.0,
+  "e": 4.36,
+  "text": "The opinions of the Court in three cases will be announced by Justice Marshall."
+ },
+ {
+  "speaker": "JUSTICE MARSHALL",
+  "s": 4.8,
+  "e": 59.6,
+  "text": "The first one of these is Eastern Airlines v. Florida de Al 89, 1698. This case is here on special rights of the United States Court of Appeals for the 11th Circuit. Article 17 of the Warsaw Convention sets forth conditions for liability of international air carriers for injuries to passengers. The question in this case is whether passengers who suffered only mental distress or emotional injury from an airplane accident can recover under Article 17. In an opinion filed with the Court today, we hold that Article 17 does not allow recovery for purely mental injuries. We therefore reverse the judgment of the 11th Circuit."
+ }
+]
