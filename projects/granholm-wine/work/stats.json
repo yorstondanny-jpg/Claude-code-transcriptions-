@@ -1,0 +1,300 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/2004/03-1116.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2004/03-1116/20041207a_03-1116.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1288.06,
+   "next": 1291.82,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "our clients want to -- want to pay taxes, want to sign up for permits, want to play on a -- Well -- -- level playing field -- -- well, they do today, I'm sure, but --",
+   "pause": 3.76,
+   "loud_s": 3.6,
+   "mean_over": 28.1,
+   "peak_over": 35.0,
+   "size": "big"
+  },
+  {
+   "t": 1312.64,
+   "next": 1312.64,
+   "speaker": "MS. SULLIVAN",
+   "before": "of out-of-state wineries. It requires that they keep and supply sales records on a monthly basis, that they keep those records for three years -- Maybe we're getting ripped off. I --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1553.26,
+   "next": 1553.26,
+   "speaker": "MS. SULLIVAN",
+   "before": "a showing that you say is virtually impossible to make. Your Honor, that's not before, and if there were other reasons -- No, but I think it is -- -- the state could --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1685.1,
+   "next": 1685.1,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "reading of the case. Now -- I disagree that that is a necessary reading -- And I know it -- -- of the case. -- involved pineapple wine and all that. I know that, but --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1739.82,
+   "next": 1739.82,
+   "speaker": "JUSTICE O'CONNOR",
+   "before": "prevail in this case without overruling Bacchus, but we have suggested that -- Well, why don't you focus on that? Because it's a little hard to plan on overruling that case.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2177.66,
+   "next": 2177.66,
+   "speaker": "JUSTICE SCALIA",
+   "before": "if we find that material sustains your burden, that's fine, you win; and if it doesn't, you lose. I don't know why we have to let you go back and --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2268.7,
+   "next": 2268.7,
+   "speaker": "JUSTICE BREYER",
+   "before": "So she says, \"Put those three things together, and we win.\" That's her point. Now, what's your response? We disagree with that entire position. The text -- I know you do.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2456.4,
+   "next": 2457.42,
+   "speaker": "JUSTICE O'CONNOR",
+   "before": "make of that. I -- as I indicated, I don't believe Bacchus overrules those cases; it didn't even cite most of those cases. But -- Well, the dissent seemed to think so --",
+   "pause": 1.02,
+   "loud_s": 0.05,
+   "mean_over": 8.1,
+   "peak_over": 16.9,
+   "size": "small"
+  },
+  {
+   "t": 2593.88,
+   "next": 2593.88,
+   "speaker": "JUSTICE BREYER",
+   "before": "that question really isn't presented here, because -- But could Congress pass a law forbidding it? That's a difficult question, because -- Yeah. All right. But I need an answer to it.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3271.2,
+   "next": 3271.94,
+   "speaker": "JUSTICE SCALIA",
+   "before": "states have, in fact, joined New York and Michigan in asking the Court not to -- States don't like federal regulation -- -- restrict that. -- of any sort, of course. I know that.",
+   "pause": 0.74,
+   "loud_s": 0.6,
+   "mean_over": 16.7,
+   "peak_over": 18.7,
+   "size": "medium"
+  },
+  {
+   "t": 3471.54,
+   "next": 3474.56,
+   "speaker": "JUSTICE SCALIA",
+   "before": "federal courts. And, of course, the federal agency, the Tax and Trade Bureau, can revoke a permit if state law is violated. In the -- Who's going to count the bottles?",
+   "pause": 3.02,
+   "loud_s": 1.25,
+   "mean_over": 20.5,
+   "peak_over": 31.2,
+   "size": "big"
+  },
+  {
+   "t": 3499.98,
+   "next": 3501.02,
+   "speaker": "JUSTICE BREYER",
+   "before": "\"What enforcement by -- is done of in-state wineries.\" In that regard, the answer was, \"None.\" How do you count bottles? I would have thought the consumers have all the bottles.",
+   "pause": 1.04,
+   "loud_s": 0.1,
+   "mean_over": 11.3,
+   "peak_over": 20.7,
+   "size": "small"
+  },
+  {
+   "t": 3511.9,
+   "next": 3511.9,
+   "speaker": "JUSTICE SCALIA",
+   "before": "have all the bottles. That's exactly right. And, certainly in the directly shipping context in-state, that is emphatically the case. I think they were referring to full bottles. I guess --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3514.218,
+   "next": 3514.218,
+   "speaker": "JUSTICE STEVENS",
+   "before": "And, certainly in the directly shipping context in-state, that is emphatically the case. I think they were referring to full bottles. I guess -- With direct shipping -- They've all been drinking --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 3583.08,
+   "next": 3588.34,
+   "speaker": "MR. BOLICK",
+   "before": "all 50 states and open offices in order to do this -- if you could drive out to Middleburg and visit Juanita Swedenburg's winery -- and she invites you to do so --",
+   "pause": 5.26,
+   "loud_s": 4.95,
+   "mean_over": 29.8,
+   "peak_over": 38.7,
+   "size": "big"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -50.3,
+ "opening_start": 9.56,
+ "opening": [
+  [
+   9.56,
+   "MR. BOLICK",
+   "Justice Stevens, and may it please the Court: For 124 years, as state power over alcohol has ebbed and flowed, one principle has remained virtually constant, that states may regulate alcohol by one set of rules, not by two. New York and Michigan consigned out- of-state wine, and only out-of-state wine, to the three- tier system for closing the market to thousands of small family-run wineries and their customers for the benefit of a liquor distributor oligopoly. Discrimination is the core concern of the Commerce Clause, and it sends a powerful signal that the state is engaged, not in legitimate regulation, but in economic protectionism. The states and the liquor distributors make a sweeping argument that this Court has consistently rejected, that the Twenty-First Amendment creates plenary state authority."
+  ],
+  [
+   66.44,
+   "JUSTICE KENNEDY",
+   "Well, under your view, could the three-tier system, itself, be challenged by a New Jersey wholesaler wanting to sell in New York, or a New York wholesaler wanting to sell in New Jersey?"
+  ],
+  [
+   79.38,
+   "MR. BOLICK",
+   "Yes, Justice Kennedy."
+  ],
+  [
+   80.54,
+   "JUSTICE KENNEDY",
+   "So, under your view, the whole three-tier system has to go down?"
+  ],
+  [
+   84.1,
+   "MR. BOLICK",
+   "No, Justice Kennedy. So long as the state does not discriminate against out-of-state entities, it is free to, as this Court --"
+  ],
+  [
+   93.12,
+   "JUSTICE KENNEDY",
+   "Well, under my hypothetical. I don't know exactly how -- the way it works, you have to be a New York wholesaler to sell to a New York retailer. Under your view, a New Jersey wholesaler could sell to a New York retailer."
+  ],
+  [
+   104.24,
+   "MR. BOLICK",
+   "That is -- or a challenge, as you ask the question, Justice Kennedy, could be mounted to that, under the same theory that we're advocating here. The state may have a different set of defenses that it doesn't have here. But --"
+  ],
+  [
+   117.98,
+   "JUSTICE KENNEDY",
+   "But so far as -- the rationale is the same."
+  ],
+  [
+   120.54,
+   "MR. BOLICK",
+   "The --"
+  ],
+  [
+   120.74,
+   "JUSTICE KENNEDY",
+   "It seems to me that, under your rationale, that that in-state licensing system has to fall if there's a New Jersey wholesaler."
+  ],
+  [
+   129.02,
+   "MR. BOLICK",
+   "It has to pass constitutional muster."
+  ],
+  [
+   131.26,
+   "JUSTICE BREYER",
+   "And when you say there is no precedent -- I mean, I think a much more modest claim than you're making, the claim simply that a state cannot discriminate against out-of-state liquor -- i.e., the physical liquid -- which is really more modest and keeps the three-tier effect -- now, your -- that claim, that they couldn't do that, was really what was advanced in Young's Market. I read the briefs in that case. The briefs presented that Court -- you could have written those briefs. And the difficulty for you is, it articulated that more modest version very clearly, made a tremendously strong case, that was not forbidden by Section 2 of the Twenty-First Amendment. And this Court squarely rejected it."
+  ],
+  [
+   177.38,
+   "MR. BOLICK",
+   "Your Honor, Young's Market -- the result in Young's Market was correct --"
+  ],
+  [
+   180.74,
+   "JUSTICE BREYER",
+   "The result, I understand, you could put on the basis of there being no discrimination."
+  ],
+  [
+   185.76,
+   "MR. BOLICK",
+   "Exactly."
+  ],
+  [
+   186.62,
+   "JUSTICE BREYER",
+   "Reading Justice Brandeis' opinion, I"
+  ]
+ ],
+ "opinion": null,
+ "case": "03-1116",
+ "year": "2004",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2004/03-1116",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2004/03-1116/20041207a_03-1116.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/2004/03-1116.pdf",
+ "model": "small.en",
+ "duration": 3660.538776,
+ "asr_elapsed_s": 1077.4,
+ "asr_words": 10363,
+ "official_words": 10384,
+ "matched": 9558,
+ "shared": 4,
+ "clamped": 0,
+ "trimmed": 20,
+ "rewindowed": 0,
+ "match_rate": 92.04545454545455,
+ "turns": 369,
+ "laugh_markers": 15,
+ "mp3_bytes": 29309671,
+ "pauses": 412,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 352,
+  "match_rate": {
+   "ok": true,
+   "detail": "92.05% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-10"
+}
