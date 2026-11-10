@@ -1,0 +1,564 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/pdfs/transcripts/1998/97-1943_04-28-1999.pdf",
+ "mp3_url_arg": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1998/97-1943/19990428a_97-1943.delivery.mp3",
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 552.38,
+   "next": 554.34,
+   "speaker": "QUESTION",
+   "before": "person with normal eyesight can do. Well, but -- there again, I don't know where that gets us to draw the line. I have difficulty reading restaurant checks in dim light.",
+   "pause": 1.96,
+   "loud_s": 1.05,
+   "mean_over": 23.7,
+   "peak_over": 30.3,
+   "size": "big"
+  },
+  {
+   "t": 571.42,
+   "next": 574.08,
+   "speaker": "QUESTION",
+   "before": "some circumstances I have difficulty. Substantial? That is a limitation. It's certainly not a substantial limitation. Why not? FOURTEENTH STREET, N.W. \u2022202,289-2260 Well, on a case-by-case -- The waiter thinks so.",
+   "pause": 2.66,
+   "loud_s": 2.3,
+   "mean_over": 24.5,
+   "peak_over": 32.5,
+   "size": "big"
+  },
+  {
+   "t": 918.92,
+   "next": 919.08,
+   "speaker": "QUESTION",
+   "before": "what -- what is the phrase that's used in connection with the regarded as clause? Because of myths and shibboleths? No, it isn't shibboleths. What -- there's -- Stereotypes. Stereotypes is the word.",
+   "pause": 0.16,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1337.32,
+   "next": 1337.82,
+   "speaker": "QUESTION",
+   "before": "worrying is if you say it should be uncorrected. Yes. And then you read out of the statute people who have glasses like this. I borrowed them from Justice Scalia.",
+   "pause": 0.5,
+   "loud_s": 0.0,
+   "mean_over": 4.0,
+   "peak_over": 6.1,
+   "size": "small"
+  },
+  {
+   "t": 1341.18,
+   "next": 1341.18,
+   "speaker": "QUESTION",
+   "before": "you read out of the statute people who have glasses like this. I borrowed them from Justice Scalia. But I need them too. That's not true. I need them too.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1539.79,
+   "next": 1539.79,
+   "speaker": "MR. KNEEDLER",
+   "before": "that's ridiculous. Well, first of all, in that example, I think the manager is going to choose the person who hits the best and not who has the best eyesight.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1545.11,
+   "next": 1545.79,
+   "speaker": "QUESTION",
+   "before": "the best and not who has the best eyesight. No. This is a manner -- this is a manager who plays the odds. It's when Ted was on the way up.",
+   "pause": 0.68,
+   "loud_s": 0.5,
+   "mean_over": 20.8,
+   "peak_over": 23.0,
+   "size": "medium"
+  },
+  {
+   "t": 2196.37,
+   "next": 2201.53,
+   "speaker": "QUESTION",
+   "before": "of General Electric? It predated Chevron. I don't know the exact date. Yes. I mean, that's old, old stuff. I don't even know Skidmore deference anymore. It's not that old.",
+   "pause": 5.16,
+   "loud_s": 4.95,
+   "mean_over": 29.7,
+   "peak_over": 35.3,
+   "size": "big"
+  },
+  {
+   "t": 2666.03,
+   "next": 2666.5,
+   "speaker": "QUESTION",
+   "before": "limb actually has no substantial limitation in any major life activity, none at all, I would -- Supposing I have an artificial finger and he's afraid I can't honk the horn.",
+   "pause": 0.47,
+   "loud_s": 0.0,
+   "mean_over": 10.2,
+   "peak_over": 11.6,
+   "size": "small"
+  },
+  {
+   "t": 2715.61,
+   "next": 2715.61,
+   "speaker": "QUESTION",
+   "before": "of course, regarded them in their uncorrected state. No. I think it's sort of a metaphysical statement. United -- Well, this whole act is metaphysical. We've been here for 2 days.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 2986.67,
+   "next": 2987.29,
+   "speaker": "MR. ENGLERT",
+   "before": "Scalia, my position is broader than that. 202:239-2260 But what if all -- all professional football -- all professional football leagues thought he was too short? Then he could be a coach.",
+   "pause": 0.62,
+   "loud_s": 0.0,
+   "mean_over": 0.6,
+   "peak_over": 2.9,
+   "size": "small"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -51.0,
+ "opening_start": 11.78,
+ "opening": [
+  [
+   11.78,
+   "MR. HUGHES",
+   "Mr. Chief Justice, and may it please the Court: Because this matter was decided by the lower court on a motion to dismiss, for purposes of today's argument, United cannot dispute the nature of the discrimination that occurred here. Petitioners have gone to great lengths to make themselves eminently qualified to fill the piloting positions at issue here, but were excluded from those positions by United based not upon their actual abilities, but based only upon its preconceived notion of what a person who shares their impairment can and cannot do. Now, United contends that even if it discriminated in just this manner, it cannot be liable under the Americans with Disabilities Act because, as a matter of law, the ADA can never protect one with severe but correctable myopia. *2 02.z 3 9 - 22 60 United's intuition that myopia is somehow distinct from other correctable impairments does not withstand serious scrutiny. Petitioners here are actually disabled within the meaning of the ADA or, at a minimum, they were regarded as disabled with respect to the ability to work by United."
+  ],
+  [
+   70.14,
+   "QUESTION",
+   "Is that raised in your petition for certiorari, whether they were regarded as disabled?"
+  ],
+  [
+   75.42,
+   "MR. HUGHES",
+   "Yes, Your Honor, it is."
+  ],
+  [
+   76.34,
+   "QUESTION",
+   "Whereabouts?"
+  ],
+  [
+   76.84,
+   "MR. HUGHES",
+   "The -- I believe it was the third question presented in our petition, read as followed: Is a commercial pilot regarded as disabled by a major airline that refuses to employ her as a pilot for that airline due to her poor vision?"
+  ],
+  [
+   94.04,
+   "QUESTION",
+   "As far as actual disability is concerned, let me ask the same question that -- that we put to counsel yesterday. If myopia, correctable myopia, which requires nothing more than eyeglasses, is included within the definition of disability, how do you account for the fact that the act itself estimates there are some 43 million disabled people in America?"
+  ],
+  [
+   120.8,
+   "MR. HUGHES",
+   "Justice --"
+  ],
+  [
+   121.96,
+   "QUESTION",
+   "There would be many, many, many more than that if - - if you are counting people who have to v 2 02/289-2260 wear eyeglasses."
+  ],
+  [
+   128.1,
+   "MR. HUGHES",
+   "I agree, Justice Scalia, that there are more than 43 million Americans who wear glasses. It has never been our position that the mere fact of wearing glasses or, indeed, the mere use of any corrective measure is in itself a disability. Our position is that Congress intended not to identify bright line categories of what are and are not disabilities, but rather to require courts to evaluate the severity of each person's impairment on a case-by-case basis."
+  ],
+  [
+   153.38,
+   "QUESTION",
+   "How do you find in the text of the statute?"
+  ],
+  [
+   153.5,
+   "QUESTION",
+   "Where do you get that in the statute?"
+  ],
+  [
+   156.04,
+   "MR. HUGHES",
+   "The statute --"
+  ],
+  [
+   156.54,
+   "QUESTION",
+   "It's a nice idea. Maybe they could have done that. How did they do it here?"
+  ],
+  [
+   161.0,
+   "MR. HUGHES",
+   "The statute requires that -- that each impairment be substantially limiting with respect to a major life activity, and moreover, the definition requires a substantial limitation of the major life activities of such individual. I read that as not requiring the court to define each impairment and state each impairment in every case is a disability or is not a disability. That's a different approach that Congress could have followed, but Congress didn't follow that -- 202 289-2260 that approach. Congress required each person's impairment to -- to be evaluated."
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/1998/97-1943",
+  "page_url": "https://www.oyez.org/cases/1998/97-1943",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 22, 1999",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/20337",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1998/97-1943/19990622o_97-1943.delivery.mp3",
+  "duration": 347.689756,
+  "mp3_bytes": 1476813,
+  "asr_elapsed_s": 207.0,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   759,
+   787,
+   781
+  ],
+  "diffs": [
+   [
+    25.6,
+    "of us",
+    "others"
+   ],
+   [
+    40.04,
+    "it's",
+    "it has"
+   ],
+   [
+    43.86,
+    "mean,",
+    "me"
+   ],
+   [
+    110.18,
+    "20 over 100",
+    "20/100"
+   ],
+   [
+    125.38,
+    "claimed",
+    "claim"
+   ],
+   [
+    144.16,
+    "court today, with the",
+    ""
+   ],
+   [
+    158.8,
+    "",
+    "the impairment."
+   ],
+   [
+    168.28,
+    "is",
+    "as"
+   ],
+   [
+    185.28,
+    "that",
+    "the"
+   ],
+   [
+    195.46,
+    "being",
+    ""
+   ],
+   [
+    215.02,
+    "",
+    "a"
+   ],
+   [
+    256.98,
+    "allege",
+    "alleged"
+   ],
+   [
+    312.84,
+    "them as",
+    "and is"
+   ],
+   [
+    331.42,
+    "allege",
+    "alleged"
+   ],
+   [
+    335.58,
+    "pilots,",
+    "pilot,"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 787,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "The opinions of the Court in three cases will be announced by Justice O 'Connor."
+   ],
+   [
+    5.24,
+    "JUSTICE O'CONNOR",
+    "The first of these is another Americans with Disabilities Act case, Sutton v. United Airlines. The case comes to us on writ of certiorari to the United States Court of Appeals for the Tenth Circuit. In 1990, Congress passed the Americans with Disabilities Act, which several of us have been referring to this morning as the ADA. It prohibits certain employers from discriminating against individuals on the basis of their disabilities. This case concerns the meaning of the term disability, as it's used in the Act. The ADA defines the term to mean, among other things, a physical or mental impairment that substantially limits one or more major life activities or being regarded as having such an impairment. Consequently, individuals have disabilities within the meaning of the ADA if they have actual substantially limiting impairments or are regarded as having such. The petitioners here are twin sisters, both of whom have severe myopia. With the use of corrective measures such as glasses or contact lenses, both have 20-20 vision. In 1992, they applied to the Respondent, a major commercial airline, for employment as commercial airline pilots. The Respondent invited them to an interview, but during their interviews, both petitioners were told they could not work as pilots with United Airlines because they could not meet the Respondent's minimum vision requirement, which is uncorrected visual acuity of 20 over 100 or better. Subsequently, the petitioners filed a complaint claiming that the Respondent discriminated against them on the basis of their actual disability, their poor eyesight. Alternatively, the petitioners claimed they were discriminated against on the basis of a disability they didn't have but were regarded as having. The district court dismissed the complaint for failure to state a claim on which relief could be granted. The United States Court of Appeals for the Tenth Circuit affirmed, and in an opinion filed with the court today, with the clerk today, we also affirm, we hold that whether an individual is actually disabled should be made with reference to any measures that the individual uses to mitigate. Three separate provisions of the ADA read in concert lead us to this conclusion. First, because the ADA's definition of disability is phrased in the present indicative, the definition should be read as requiring that a person be presently, not potentially or hypothetically, substantially limited in order"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "The opinions of the Court in three cases will be announced by Justice O 'Connor."
+   ],
+   [
+    5.24,
+    "JUSTICE O'CONNOR",
+    "The first of these is another Americans with Disabilities Act case, Sutton v. United Airlines. The case comes to us on writ of certiorari to the United States Court of Appeals for the Tenth Circuit. In 1990, Congress passed the Americans with Disabilities Act, which several of us have been referring to this morning as the ADA. It prohibits certain employers from discriminating against individuals on the basis of their disabilities. This case concerns the meaning of the term disability, as it's used in the Act. The ADA defines the term to mean, among other things, a physical or mental impairment that substantially limits one or more major life activities or being regarded as having such an impairment. Consequently, individuals have disabilities within the meaning of the ADA if they have actual substantially limiting impairments or are regarded as having such. The petitioners here are twin sisters, both of whom have severe myopia. With the use of corrective measures such as glasses or contact lenses, both have 20-20 vision. In 1992, they applied to the Respondent, a major commercial airline, for employment as commercial airline pilots. The Respondent invited them to an interview, but during their interviews, both petitioners were told they could not work as pilots with United Airlines because they could not meet the Respondent's minimum vision requirement, which is uncorrected visual acuity of 20 over 100 or better. Subsequently, the petitioners filed a complaint claiming that the Respondent discriminated against them on the basis of their actual disability, their poor eyesight. Alternatively, the petitioners claimed they were discriminated against on the basis of a disability they didn't have but were regarded as having. The district court dismissed the complaint for failure to state a claim on which relief could be granted. The United States Court of Appeals for the Tenth Circuit affirmed, and in an opinion filed with the court today, with the clerk today, we also affirm, we hold that whether an individual is actually disabled should be made with reference to any measures that the individual uses to mitigate. Three separate provisions of the ADA read in concert lead us to this conclusion. First, because the ADA's definition of disability is phrased in the present indicative, the definition should be read as requiring that a person be presently, not potentially or hypothetically, substantially limited in order to demonstrate a disability. Second, the ADA, by its terms, requires that disabilities be evaluated with respect to an individual. If individuals were evaluated in some hypothetical uncorrected State, however, they would be being evaluated as members of a group. Finally, and most importantly, Congress included in the Act its finding that 43 million Americans have one or more physical or mental disabilities. But if the disabilities were determined without reference to corrective measures, there would be over 160 million disabled individuals. Consequently, we hold that plaintiffs under the ADA must be evaluated in their corrected State, that is, in this case, with their corrective lenses, to determine whether they are disabled. Because with corrective lenses, Petitioners have 20-20 vision, they are not substantially limited in any major life activity and are not actually disabled. That's not the end of the case, however, because if the Petitioners can show that they are regarded as having a disability that they do not have, they are disabled within the meaning of the ADA. Petitioners allege that Respondents' vision requirement itself demonstrates they are regarded as having substantially limiting impairments. But physical requirements do not by themselves violate the ADA. Employers are free to prefer some physical attributes over others, so long as those attributes do not rise to the level of substantially limiting impairments. An employer is free to decide that some physical characteristics that are not impairments are preferable to others, just as the employer is free to decide that some limiting but not substantially limiting impairments make individuals less than ideally suited for a job. Similarly, the Petitioners' allegation that the Respondent mistakenly believes their eyesight substantially limits their ability to work as global airline pilots is insufficient to State a claim that the Respondent regards them as disabled. Assuming, without deciding, that work is a major life activity, to be substantially limited in this activity, one must be significantly restricted in the ability to work. Petitioners cannot claim to be so limited because they allege only that they are regarded as unable to work as global airline pilots, which is a single job, not a class of jobs. Justice Stevens has filed a dissenting opinion, which Justice Breyer has joined. Justice Breyer has also filed a dissenting opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE REHNQUIST",
+    "The opinions of the Court in three cases will be announced by Justice O 'Connor."
+   ],
+   [
+    5.24,
+    "JUSTICE O'CONNOR",
+    "The first of these is another Americans with Disabilities Act case, Sutton v. United Airlines."
+   ],
+   [
+    13.22,
+    "JUSTICE O'CONNOR",
+    "The case comes to us on writ of certiorari to the United States Court of Appeals for the Tenth Circuit."
+   ],
+   [
+    20.14,
+    "JUSTICE O'CONNOR",
+    "In 1990, Congress passed the Americans with Disabilities Act, which several of us have been referring to this morning as the ADA."
+   ],
+   [
+    29.76,
+    "JUSTICE O'CONNOR",
+    "It prohibits certain employers from discriminating against individuals on the basis of their disabilities."
+   ],
+   [
+    36.5,
+    "JUSTICE O'CONNOR",
+    "This case concerns the meaning of the term disability, as it's used in the Act."
+   ],
+   [
+    41.9,
+    "JUSTICE O'CONNOR",
+    "The ADA defines the term to mean, among other things, a physical or mental impairment that substantially limits one or more major life activities or being regarded as having such an impairment."
+   ],
+   [
+    56.48,
+    "JUSTICE O'CONNOR",
+    "Consequently, individuals have disabilities within the meaning of the ADA if they have actual substantially limiting impairments or are regarded as having such."
+   ],
+   [
+    68.32,
+    "JUSTICE O'CONNOR",
+    "The petitioners here are twin sisters, both of whom have severe myopia."
+   ],
+   [
+    74.6,
+    "JUSTICE O'CONNOR",
+    "With the use of corrective measures such as glasses or contact lenses, both have 20-20 vision."
+   ],
+   [
+    83.2,
+    "JUSTICE O'CONNOR",
+    "In 1992, they applied to the Respondent, a major commercial airline, for employment as commercial airline pilots."
+   ],
+   [
+    92.22,
+    "JUSTICE O'CONNOR",
+    "The Respondent invited them to an interview, but during their interviews, both petitioners were told they could not work as pilots with United Airlines because they could not meet the Respondent's minimum vision requirement, which is uncorrected visual acuity of 20 over 100 or better."
+   ],
+   [
+    113.38,
+    "JUSTICE O'CONNOR",
+    "Subsequently, the petitioners filed a complaint claiming that the Respondent discriminated against them on the basis of their actual disability, their poor eyesight."
+   ],
+   [
+    123.52,
+    "JUSTICE O'CONNOR",
+    "Alternatively, the petitioners claimed they were discriminated against on the basis of a disability they didn't have but were regarded as having."
+   ],
+   [
+    132.34,
+    "JUSTICE O'CONNOR",
+    "The district court dismissed the complaint for failure to state a claim on which relief could be granted."
+   ],
+   [
+    138.4,
+    "JUSTICE O'CONNOR",
+    "The United States Court of Appeals for the Tenth Circuit affirmed, and in an opinion filed with the court today, with the clerk today, we also affirm, we hold that whether an individual is actually disabled should be made with reference to any measures that the individual uses to mitigate."
+   ],
+   [
+    158.8,
+    "JUSTICE O'CONNOR",
+    "Three separate provisions of the ADA read in concert lead us to this conclusion."
+   ],
+   [
+    164.78,
+    "JUSTICE O'CONNOR",
+    "First, because the ADA's definition of disability is phrased in the present indicative, the definition should be read as requiring that a person be presently, not potentially or hypothetically, substantially limited in order to demonstrate a disability."
+   ],
+   [
+    182.48,
+    "JUSTICE O'CONNOR",
+    "Second, the ADA, by its terms, requires that disabilities be evaluated with respect to an individual."
+   ],
+   [
+    189.54,
+    "JUSTICE O'CONNOR",
+    "If individuals were evaluated in some hypothetical uncorrected State, however, they would be being evaluated as members of a group."
+   ],
+   [
+    198.4,
+    "JUSTICE O'CONNOR",
+    "Finally, and most importantly, Congress included in the Act its finding that 43 million Americans have one or more physical or mental disabilities."
+   ],
+   [
+    208.96,
+    "JUSTICE O'CONNOR",
+    "But if the disabilities were determined without reference to corrective measures, there would be over 160 million disabled individuals."
+   ],
+   [
+    218.78,
+    "JUSTICE O'CONNOR",
+    "Consequently, we hold that plaintiffs under the ADA must be evaluated in their corrected State, that is, in this case, with their corrective lenses, to determine whether they are disabled."
+   ],
+   [
+    232.52,
+    "JUSTICE O'CONNOR",
+    "Because with corrective lenses, Petitioners have 20-20 vision, they are not substantially limited in any major life activity and are not actually disabled."
+   ],
+   [
+    243.3,
+    "JUSTICE O'CONNOR",
+    "That's not the end of the case, however, because if the Petitioners can show that they are regarded as having a disability that they do not have, they are disabled within the meaning of the ADA."
+   ],
+   [
+    256.38,
+    "JUSTICE O'CONNOR",
+    "Petitioners allege that Respondents' vision requirement itself demonstrates they are regarded as having substantially limiting impairments."
+   ],
+   [
+    265.36,
+    "JUSTICE O'CONNOR",
+    "But physical requirements do not by themselves violate the ADA."
+   ],
+   [
+    270.42,
+    "JUSTICE O'CONNOR",
+    "Employers are free to prefer some physical attributes over others, so long as those attributes do not rise to the level of substantially limiting impairments."
+   ],
+   [
+    280.76,
+    "JUSTICE O'CONNOR",
+    "An employer is free to decide that some physical characteristics that are not impairments are preferable to others, just as the employer is free to decide that some limiting but not substantially limiting impairments make individuals less than ideally suited for a job."
+   ],
+   [
+    298.44,
+    "JUSTICE O'CONNOR",
+    "Similarly, the Petitioners' allegation that the Respondent mistakenly believes their eyesight substantially limits their ability to work as global airline pilots is insufficient to State a claim that the Respondent regards them as disabled."
+   ],
+   [
+    314.64,
+    "JUSTICE O'CONNOR",
+    "Assuming, without deciding, that work is a major life activity, to be substantially limited in this activity, one must be significantly restricted in the ability to work."
+   ],
+   [
+    328.7,
+    "JUSTICE O'CONNOR",
+    "Petitioners cannot claim to be so limited because they allege only that they are regarded as unable to work as global airline pilots, which is a single job, not a class of jobs."
+   ],
+   [
+    340.0,
+    "JUSTICE O'CONNOR",
+    "Justice Stevens has filed a dissenting opinion, which Justice Breyer has joined."
+   ],
+   [
+    344.3,
+    "JUSTICE O'CONNOR",
+    "Justice Breyer has also filed a dissenting opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE REHNQUIST",
+    0.0,
+    4.34,
+    15
+   ],
+   [
+    "JUSTICE O'CONNOR",
+    5.24,
+    347.24,
+    770
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "97-1943",
+ "year": "1998",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/1998/97-1943",
+ "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/1998/97-1943/19990428a_97-1943.delivery.mp3",
+ "pdf_url": "https://www.supremecourt.gov/pdfs/transcripts/1998/97-1943_04-28-1999.pdf",
+ "model": "medium.en",
+ "duration": 3579.637551,
+ "asr_elapsed_s": 2690.1,
+ "asr_words": 10366,
+ "official_words": 10793,
+ "matched": 9950,
+ "shared": 2,
+ "clamped": 0,
+ "trimmed": 10,
+ "rewindowed": 0,
+ "match_rate": 92.18938200685629,
+ "turns": 368,
+ "laugh_markers": 11,
+ "mp3_bytes": 28662461,
+ "pauses": 377,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 554,
+  "match_rate": {
+   "ok": true,
+   "detail": "92.19% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-10"
+}

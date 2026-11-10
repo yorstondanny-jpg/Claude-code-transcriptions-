@@ -203,7 +203,7 @@ def parse_transcript(pdf):
     text = subprocess.run(["pdftotext", "-layout", str(pdf), "-"], capture_output=True,
                           text=True, check=True).stdout
     lines = clean_pdf_lines(text)
-    start = next(i for i, l in enumerate(lines) if l.startswith("P R O C E E D I N G S"))
+    start = next(i for i, l in enumerate(lines) if (l.startswith("P R O C E E D I N G S") or re.match(r"^P\s?ROCEEDINGS\b", l)))
     end = next(i for i, l in enumerate(lines) if re.match(r"^[(\[]?Whereupon", l))
     turns = []
     section = ""  # current argument heading, e.g. "ORAL ARGUMENT OF ... ON BEHALF OF THE PETITIONER"

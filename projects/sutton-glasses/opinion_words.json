@@ -1,0 +1,4724 @@
+[
+ {
+  "w": "The",
+  "s": 0.0,
+  "e": 0.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "opinions",
+  "s": 0.6,
+  "e": 1.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "of",
+  "s": 1.34,
+  "e": 1.6,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "the",
+  "s": 1.6,
+  "e": 1.72,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Court",
+  "s": 1.72,
+  "e": 1.8,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "in",
+  "s": 1.8,
+  "e": 2.02,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "three",
+  "s": 2.02,
+  "e": 2.22,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "cases",
+  "s": 2.22,
+  "e": 2.66,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "will",
+  "s": 2.66,
+  "e": 2.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "be",
+  "s": 2.88,
+  "e": 3.0,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "announced",
+  "s": 3.0,
+  "e": 3.28,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "by",
+  "s": 3.28,
+  "e": 3.56,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "Justice",
+  "s": 3.56,
+  "e": 3.88,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "O",
+  "s": 3.88,
+  "e": 4.08,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "'Connor.",
+  "s": 4.08,
+  "e": 4.34,
+  "speaker": "CHIEF JUSTICE REHNQUIST"
+ },
+ {
+  "w": "The",
+  "s": 5.24,
+  "e": 5.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "first",
+  "s": 5.38,
+  "e": 5.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 5.66,
+  "e": 5.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "these",
+  "s": 5.88,
+  "e": 6.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 6.18,
+  "e": 6.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "another",
+  "s": 6.38,
+  "e": 6.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Americans",
+  "s": 6.92,
+  "e": 8.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 8.66,
+  "e": 9.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Disabilities",
+  "s": 9.0,
+  "e": 9.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Act",
+  "s": 9.6,
+  "e": 10.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "case,",
+  "s": 10.04,
+  "e": 10.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Sutton",
+  "s": 10.82,
+  "e": 11.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "v.",
+  "s": 11.02,
+  "e": 11.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "United",
+  "s": 11.62,
+  "e": 11.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Airlines.",
+  "s": 11.94,
+  "e": 12.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "The",
+  "s": 13.22,
+  "e": 13.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "case",
+  "s": 13.36,
+  "e": 13.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "comes",
+  "s": 13.6,
+  "e": 13.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 13.9,
+  "e": 14.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "us",
+  "s": 14.12,
+  "e": 14.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "on",
+  "s": 14.32,
+  "e": 14.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "writ",
+  "s": 14.52,
+  "e": 14.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 14.66,
+  "e": 14.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "certiorari",
+  "s": 14.88,
+  "e": 15.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 15.46,
+  "e": 15.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 15.72,
+  "e": 16.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "United",
+  "s": 16.56,
+  "e": 16.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "States",
+  "s": 16.96,
+  "e": 17.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Court",
+  "s": 17.4,
+  "e": 17.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 17.56,
+  "e": 17.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Appeals",
+  "s": 17.78,
+  "e": 18.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "for",
+  "s": 18.06,
+  "e": 18.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 18.5,
+  "e": 18.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Tenth",
+  "s": 18.74,
+  "e": 18.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Circuit.",
+  "s": 18.96,
+  "e": 19.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "In",
+  "s": 20.14,
+  "e": 20.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "1990,",
+  "s": 20.3,
+  "e": 21.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Congress",
+  "s": 21.68,
+  "e": 21.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "passed",
+  "s": 21.92,
+  "e": 22.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 22.34,
+  "e": 22.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Americans",
+  "s": 22.56,
+  "e": 23.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 23.0,
+  "e": 23.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Disabilities",
+  "s": 23.32,
+  "e": 23.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Act,",
+  "s": 23.96,
+  "e": 24.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "which",
+  "s": 24.38,
+  "e": 24.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "several",
+  "s": 24.74,
+  "e": 25.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 25.6,
+  "e": 25.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "us",
+  "s": 25.84,
+  "e": 25.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have",
+  "s": 25.96,
+  "e": 26.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "been",
+  "s": 26.12,
+  "e": 26.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "referring",
+  "s": 26.34,
+  "e": 26.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 26.78,
+  "e": 27.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "this",
+  "s": 27.1,
+  "e": 27.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "morning",
+  "s": 27.28,
+  "e": 27.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 27.58,
+  "e": 27.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 27.86,
+  "e": 28.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA.",
+  "s": 28.12,
+  "e": 28.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "It",
+  "s": 29.76,
+  "e": 29.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "prohibits",
+  "s": 29.94,
+  "e": 30.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "certain",
+  "s": 30.42,
+  "e": 30.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "employers",
+  "s": 30.8,
+  "e": 31.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "from",
+  "s": 31.3,
+  "e": 31.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "discriminating",
+  "s": 31.68,
+  "e": 32.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "against",
+  "s": 32.32,
+  "e": 32.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "individuals",
+  "s": 32.96,
+  "e": 33.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "on",
+  "s": 33.6,
+  "e": 33.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 33.92,
+  "e": 34.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "basis",
+  "s": 34.1,
+  "e": 34.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 34.34,
+  "e": 34.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "their",
+  "s": 34.64,
+  "e": 34.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabilities.",
+  "s": 34.82,
+  "e": 35.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "This",
+  "s": 36.5,
+  "e": 36.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "case",
+  "s": 36.84,
+  "e": 37.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "concerns",
+  "s": 37.18,
+  "e": 37.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 37.82,
+  "e": 38.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "meaning",
+  "s": 38.1,
+  "e": 38.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 38.32,
+  "e": 38.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 38.58,
+  "e": 38.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "term",
+  "s": 38.7,
+  "e": 38.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disability,",
+  "s": 38.94,
+  "e": 39.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 39.66,
+  "e": 40.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "it's",
+  "s": 40.04,
+  "e": 40.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "used",
+  "s": 40.28,
+  "e": 40.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 40.54,
+  "e": 40.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 40.76,
+  "e": 40.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Act.",
+  "s": 40.94,
+  "e": 41.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "The",
+  "s": 41.9,
+  "e": 42.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA",
+  "s": 42.14,
+  "e": 42.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "defines",
+  "s": 42.52,
+  "e": 43.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 43.12,
+  "e": 43.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "term",
+  "s": 43.36,
+  "e": 43.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 43.62,
+  "e": 43.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "mean,",
+  "s": 43.86,
+  "e": 44.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "among",
+  "s": 44.22,
+  "e": 44.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "other",
+  "s": 44.36,
+  "e": 44.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "things,",
+  "s": 44.64,
+  "e": 45.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 45.5,
+  "e": 45.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "physical",
+  "s": 45.72,
+  "e": 46.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 46.12,
+  "e": 46.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "mental",
+  "s": 46.38,
+  "e": 46.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "impairment",
+  "s": 46.66,
+  "e": 47.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 47.22,
+  "e": 47.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 47.54,
+  "e": 48.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limits",
+  "s": 48.28,
+  "e": 48.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "one",
+  "s": 48.86,
+  "e": 49.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 49.18,
+  "e": 49.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "more",
+  "s": 49.38,
+  "e": 49.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "major",
+  "s": 49.68,
+  "e": 50.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "life",
+  "s": 50.42,
+  "e": 50.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "activities",
+  "s": 50.9,
+  "e": 51.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 51.64,
+  "e": 52.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "being",
+  "s": 52.62,
+  "e": 53.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "regarded",
+  "s": 53.32,
+  "e": 54.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 54.0,
+  "e": 54.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "having",
+  "s": 54.32,
+  "e": 54.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "such",
+  "s": 54.6,
+  "e": 54.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "an",
+  "s": 54.9,
+  "e": 55.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "impairment.",
+  "s": 55.06,
+  "e": 55.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Consequently,",
+  "s": 56.48,
+  "e": 57.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "individuals",
+  "s": 57.38,
+  "e": 57.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have",
+  "s": 57.94,
+  "e": 58.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabilities",
+  "s": 58.26,
+  "e": 59.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "within",
+  "s": 59.0,
+  "e": 59.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 59.42,
+  "e": 59.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "meaning",
+  "s": 59.64,
+  "e": 59.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 59.88,
+  "e": 60.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 60.1,
+  "e": 60.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA",
+  "s": 60.32,
+  "e": 60.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "if",
+  "s": 60.74,
+  "e": 61.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 61.52,
+  "e": 61.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have",
+  "s": 61.68,
+  "e": 61.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "actual",
+  "s": 61.88,
+  "e": 62.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 62.56,
+  "e": 63.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limiting",
+  "s": 63.48,
+  "e": 64.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "impairments",
+  "s": 64.0,
+  "e": 64.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 64.76,
+  "e": 65.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 65.66,
+  "e": 66.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "regarded",
+  "s": 66.02,
+  "e": 66.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 66.64,
+  "e": 67.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "having",
+  "s": 67.02,
+  "e": 67.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "such.",
+  "s": 67.3,
+  "e": 67.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "The",
+  "s": 68.32,
+  "e": 68.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "petitioners",
+  "s": 68.74,
+  "e": 69.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "here",
+  "s": 69.36,
+  "e": 69.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 69.64,
+  "e": 69.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "twin",
+  "s": 69.94,
+  "e": 70.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "sisters,",
+  "s": 70.38,
+  "e": 71.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "both",
+  "s": 71.36,
+  "e": 71.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 71.52,
+  "e": 71.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "whom",
+  "s": 71.7,
+  "e": 72.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have",
+  "s": 72.06,
+  "e": 72.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "severe",
+  "s": 72.6,
+  "e": 73.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "myopia.",
+  "s": 73.24,
+  "e": 74.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "With",
+  "s": 74.6,
+  "e": 75.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 75.22,
+  "e": 75.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "use",
+  "s": 75.4,
+  "e": 75.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 75.64,
+  "e": 75.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "corrective",
+  "s": 75.88,
+  "e": 76.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "measures",
+  "s": 76.96,
+  "e": 77.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "such",
+  "s": 77.48,
+  "e": 77.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 77.82,
+  "e": 78.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "glasses",
+  "s": 78.04,
+  "e": 78.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 78.54,
+  "e": 78.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "contact",
+  "s": 78.86,
+  "e": 79.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "lenses,",
+  "s": 79.42,
+  "e": 79.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "both",
+  "s": 80.46,
+  "e": 81.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have",
+  "s": 81.08,
+  "e": 81.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "20",
+  "s": 81.4,
+  "e": 81.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "-20",
+  "s": 81.84,
+  "e": 82.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "vision.",
+  "s": 82.2,
+  "e": 82.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "In",
+  "s": 83.2,
+  "e": 83.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "1992,",
+  "s": 83.88,
+  "e": 84.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 84.98,
+  "e": 85.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "applied",
+  "s": 85.9,
+  "e": 86.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 86.32,
+  "e": 86.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 86.52,
+  "e": 86.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Respondent,",
+  "s": 86.66,
+  "e": 87.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 87.66,
+  "e": 87.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "major",
+  "s": 87.84,
+  "e": 88.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "commercial",
+  "s": 88.12,
+  "e": 88.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "airline,",
+  "s": 88.66,
+  "e": 89.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "for",
+  "s": 89.32,
+  "e": 89.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "employment",
+  "s": 89.46,
+  "e": 89.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 89.92,
+  "e": 90.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "commercial",
+  "s": 90.18,
+  "e": 90.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "airline",
+  "s": 90.6,
+  "e": 91.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "pilots.",
+  "s": 91.12,
+  "e": 91.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "The",
+  "s": 92.22,
+  "e": 92.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Respondent",
+  "s": 92.66,
+  "e": 93.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "invited",
+  "s": 93.18,
+  "e": 93.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "them",
+  "s": 93.58,
+  "e": 93.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 93.82,
+  "e": 94.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "an",
+  "s": 94.08,
+  "e": 94.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "interview,",
+  "s": 94.3,
+  "e": 94.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "but",
+  "s": 95.1,
+  "e": 95.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "during",
+  "s": 95.34,
+  "e": 95.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "their",
+  "s": 95.6,
+  "e": 95.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "interviews,",
+  "s": 95.84,
+  "e": 96.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "both",
+  "s": 96.56,
+  "e": 96.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "petitioners",
+  "s": 96.7,
+  "e": 97.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "were",
+  "s": 97.32,
+  "e": 97.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "told",
+  "s": 97.54,
+  "e": 97.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 97.78,
+  "e": 98.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "could",
+  "s": 98.02,
+  "e": 98.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 98.2,
+  "e": 98.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "work",
+  "s": 98.42,
+  "e": 98.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 98.78,
+  "e": 99.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "pilots",
+  "s": 99.36,
+  "e": 99.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 99.78,
+  "e": 100.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "United",
+  "s": 100.1,
+  "e": 100.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Airlines",
+  "s": 100.5,
+  "e": 100.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "because",
+  "s": 100.94,
+  "e": 101.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 101.4,
+  "e": 101.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "could",
+  "s": 101.68,
+  "e": 101.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 101.84,
+  "e": 102.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "meet",
+  "s": 102.08,
+  "e": 102.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 102.54,
+  "e": 103.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Respondent's",
+  "s": 103.48,
+  "e": 104.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "minimum",
+  "s": 104.58,
+  "e": 104.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "vision",
+  "s": 104.9,
+  "e": 105.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "requirement,",
+  "s": 105.38,
+  "e": 105.98,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "which",
+  "s": 106.44,
+  "e": 106.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 106.9,
+  "e": 107.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "uncorrected",
+  "s": 107.16,
+  "e": 108.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "visual",
+  "s": 108.28,
+  "e": 108.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "acuity",
+  "s": 108.76,
+  "e": 109.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 109.38,
+  "e": 110.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "20",
+  "s": 110.18,
+  "e": 110.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "over",
+  "s": 110.7,
+  "e": 111.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "100",
+  "s": 111.2,
+  "e": 111.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 111.7,
+  "e": 112.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "better.",
+  "s": 112.12,
+  "e": 112.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Subsequently,",
+  "s": 113.38,
+  "e": 113.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 114.24,
+  "e": 114.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "petitioners",
+  "s": 114.34,
+  "e": 114.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "filed",
+  "s": 114.94,
+  "e": 115.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 115.16,
+  "e": 115.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "complaint",
+  "s": 115.42,
+  "e": 115.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "claiming",
+  "s": 115.84,
+  "e": 116.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 116.3,
+  "e": 116.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 116.62,
+  "e": 116.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Respondent",
+  "s": 116.8,
+  "e": 117.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "discriminated",
+  "s": 117.36,
+  "e": 118.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "against",
+  "s": 118.04,
+  "e": 118.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "them",
+  "s": 118.52,
+  "e": 118.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "on",
+  "s": 118.76,
+  "e": 118.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 118.92,
+  "e": 119.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "basis",
+  "s": 119.08,
+  "e": 119.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 119.3,
+  "e": 119.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "their",
+  "s": 119.58,
+  "e": 119.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "actual",
+  "s": 119.74,
+  "e": 120.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disability,",
+  "s": 120.28,
+  "e": 120.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "their",
+  "s": 121.86,
+  "e": 122.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "poor",
+  "s": 122.0,
+  "e": 122.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "eyesight.",
+  "s": 122.32,
+  "e": 122.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Alternatively,",
+  "s": 123.52,
+  "e": 124.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 124.64,
+  "e": 124.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "petitioners",
+  "s": 124.78,
+  "e": 125.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "claimed",
+  "s": 125.38,
+  "e": 125.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 125.68,
+  "e": 125.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "were",
+  "s": 125.9,
+  "e": 126.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "discriminated",
+  "s": 126.06,
+  "e": 126.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "against",
+  "s": 126.72,
+  "e": 127.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "on",
+  "s": 127.22,
+  "e": 127.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 127.5,
+  "e": 127.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "basis",
+  "s": 127.68,
+  "e": 127.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 127.9,
+  "e": 128.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 128.1,
+  "e": 128.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disability",
+  "s": 128.3,
+  "e": 128.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 128.84,
+  "e": 129.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "didn't",
+  "s": 129.14,
+  "e": 129.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have",
+  "s": 129.38,
+  "e": 129.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "but",
+  "s": 129.8,
+  "e": 130.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "were",
+  "s": 130.24,
+  "e": 130.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "regarded",
+  "s": 130.44,
+  "e": 130.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 130.96,
+  "e": 131.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "having.",
+  "s": 131.36,
+  "e": 131.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "The",
+  "s": 132.34,
+  "e": 132.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "district",
+  "s": 132.74,
+  "e": 133.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "court",
+  "s": 133.08,
+  "e": 133.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "dismissed",
+  "s": 133.4,
+  "e": 133.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 133.8,
+  "e": 134.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "complaint",
+  "s": 134.1,
+  "e": 134.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "for",
+  "s": 134.42,
+  "e": 134.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "failure",
+  "s": 134.7,
+  "e": 135.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 135.04,
+  "e": 135.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "state",
+  "s": 135.3,
+  "e": 135.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 135.6,
+  "e": 135.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "claim",
+  "s": 135.82,
+  "e": 136.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "on",
+  "s": 136.0,
+  "e": 136.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "which",
+  "s": 136.26,
+  "e": 136.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "relief",
+  "s": 136.42,
+  "e": 136.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "could",
+  "s": 136.82,
+  "e": 137.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 137.1,
+  "e": 137.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "granted.",
+  "s": 137.26,
+  "e": 137.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "The",
+  "s": 138.4,
+  "e": 138.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "United",
+  "s": 138.78,
+  "e": 139.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "States",
+  "s": 139.08,
+  "e": 139.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Court",
+  "s": 139.54,
+  "e": 139.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 139.74,
+  "e": 139.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Appeals",
+  "s": 139.96,
+  "e": 140.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "for",
+  "s": 140.22,
+  "e": 140.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 140.52,
+  "e": 140.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Tenth",
+  "s": 140.7,
+  "e": 140.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Circuit",
+  "s": 140.9,
+  "e": 141.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "affirmed,",
+  "s": 141.28,
+  "e": 141.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "and",
+  "s": 142.18,
+  "e": 142.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 142.64,
+  "e": 142.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "an",
+  "s": 142.84,
+  "e": 143.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "opinion",
+  "s": 143.04,
+  "e": 143.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "filed",
+  "s": 143.36,
+  "e": 143.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 143.76,
+  "e": 144.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 144.0,
+  "e": 144.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "court",
+  "s": 144.16,
+  "e": 144.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "today,",
+  "s": 144.4,
+  "e": 144.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 144.92,
+  "e": 145.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 145.04,
+  "e": 145.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "clerk",
+  "s": 145.3,
+  "e": 145.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "today,",
+  "s": 145.58,
+  "e": 146.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "we",
+  "s": 146.16,
+  "e": 146.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "also",
+  "s": 146.38,
+  "e": 147.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "affirm,",
+  "s": 147.22,
+  "e": 147.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "we",
+  "s": 148.54,
+  "e": 148.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "hold",
+  "s": 148.74,
+  "e": 149.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 149.02,
+  "e": 149.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "whether",
+  "s": 149.2,
+  "e": 149.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "an",
+  "s": 149.46,
+  "e": 149.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "individual",
+  "s": 149.68,
+  "e": 150.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 150.2,
+  "e": 150.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "actually",
+  "s": 150.58,
+  "e": 151.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabled",
+  "s": 151.28,
+  "e": 152.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "should",
+  "s": 152.0,
+  "e": 152.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 152.88,
+  "e": 153.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "made",
+  "s": 153.1,
+  "e": 153.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 153.48,
+  "e": 153.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "reference",
+  "s": 153.76,
+  "e": 154.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 154.18,
+  "e": 154.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "any",
+  "s": 154.48,
+  "e": 154.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "measures",
+  "s": 154.72,
+  "e": 155.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 155.18,
+  "e": 155.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 155.46,
+  "e": 155.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "individual",
+  "s": 155.68,
+  "e": 156.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "uses",
+  "s": 156.26,
+  "e": 156.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 156.72,
+  "e": 157.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "mitigate.",
+  "s": 157.04,
+  "e": 157.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Three",
+  "s": 158.8,
+  "e": 159.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "separate",
+  "s": 159.52,
+  "e": 160.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "provisions",
+  "s": 160.02,
+  "e": 160.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 160.54,
+  "e": 160.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 160.8,
+  "e": 161.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA",
+  "s": 161.02,
+  "e": 161.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "read",
+  "s": 161.4,
+  "e": 161.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 161.8,
+  "e": 162.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "concert",
+  "s": 162.06,
+  "e": 162.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "lead",
+  "s": 162.46,
+  "e": 162.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "us",
+  "s": 162.8,
+  "e": 163.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 163.0,
+  "e": 163.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "this",
+  "s": 163.16,
+  "e": 163.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "conclusion.",
+  "s": 163.36,
+  "e": 163.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "First,",
+  "s": 164.78,
+  "e": 165.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "because",
+  "s": 165.68,
+  "e": 166.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 166.08,
+  "e": 166.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA's",
+  "s": 166.32,
+  "e": 166.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "definition",
+  "s": 166.94,
+  "e": 167.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 167.42,
+  "e": 167.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disability",
+  "s": 167.7,
+  "e": 168.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 168.28,
+  "e": 168.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "phrased",
+  "s": 168.54,
+  "e": 168.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 168.94,
+  "e": 169.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 169.14,
+  "e": 169.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "present",
+  "s": 169.32,
+  "e": 169.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "indicative,",
+  "s": 169.62,
+  "e": 170.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 170.9,
+  "e": 171.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "definition",
+  "s": 171.04,
+  "e": 171.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "should",
+  "s": 171.52,
+  "e": 171.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 171.86,
+  "e": 172.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "read",
+  "s": 172.04,
+  "e": 172.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 172.24,
+  "e": 172.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "requiring",
+  "s": 172.42,
+  "e": 172.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 172.94,
+  "e": 173.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 173.16,
+  "e": 173.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "person",
+  "s": 173.3,
+  "e": 173.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 173.6,
+  "e": 173.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "presently,",
+  "s": 173.88,
+  "e": 174.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 175.32,
+  "e": 175.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "potentially",
+  "s": 175.54,
+  "e": 176.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 176.26,
+  "e": 176.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "hypothetically,",
+  "s": 176.58,
+  "e": 177.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 177.86,
+  "e": 178.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limited",
+  "s": 178.6,
+  "e": 179.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 179.16,
+  "e": 179.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "order",
+  "s": 179.72,
+  "e": 180.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 180.0,
+  "e": 180.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "demonstrate",
+  "s": 180.28,
+  "e": 180.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 180.76,
+  "e": 181.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disability.",
+  "s": 181.02,
+  "e": 181.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Second,",
+  "s": 182.48,
+  "e": 183.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 183.3,
+  "e": 183.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA,",
+  "s": 183.42,
+  "e": 183.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "by",
+  "s": 184.06,
+  "e": 184.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "its",
+  "s": 184.16,
+  "e": 184.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "terms,",
+  "s": 184.34,
+  "e": 184.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "requires",
+  "s": 184.84,
+  "e": 185.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 185.28,
+  "e": 185.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabilities",
+  "s": 185.54,
+  "e": 186.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 186.22,
+  "e": 186.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "evaluated",
+  "s": 186.48,
+  "e": 187.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 187.1,
+  "e": 187.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "respect",
+  "s": 187.42,
+  "e": 187.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 187.88,
+  "e": 188.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "an",
+  "s": 188.1,
+  "e": 188.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "individual.",
+  "s": 188.26,
+  "e": 188.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "If",
+  "s": 189.54,
+  "e": 189.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "individuals",
+  "s": 189.72,
+  "e": 190.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "were",
+  "s": 190.36,
+  "e": 190.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "evaluated",
+  "s": 190.72,
+  "e": 191.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 191.32,
+  "e": 191.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "some",
+  "s": 191.64,
+  "e": 191.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "hypothetical",
+  "s": 191.86,
+  "e": 192.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "uncorrected",
+  "s": 192.64,
+  "e": 193.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "State,",
+  "s": 193.56,
+  "e": 193.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "however,",
+  "s": 193.92,
+  "e": 194.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 194.9,
+  "e": 195.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "would",
+  "s": 195.12,
+  "e": 195.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 195.28,
+  "e": 195.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "being",
+  "s": 195.46,
+  "e": 196.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "evaluated",
+  "s": 196.02,
+  "e": 196.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 196.62,
+  "e": 196.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "members",
+  "s": 196.92,
+  "e": 197.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 197.22,
+  "e": 197.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 197.46,
+  "e": 197.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "group.",
+  "s": 197.66,
+  "e": 197.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Finally,",
+  "s": 198.4,
+  "e": 199.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "and",
+  "s": 199.24,
+  "e": 199.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "most",
+  "s": 199.44,
+  "e": 199.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "importantly,",
+  "s": 199.7,
+  "e": 200.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Congress",
+  "s": 200.96,
+  "e": 201.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "included",
+  "s": 201.26,
+  "e": 201.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 201.78,
+  "e": 202.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 202.02,
+  "e": 202.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Act",
+  "s": 202.22,
+  "e": 202.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "its",
+  "s": 202.42,
+  "e": 202.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "finding",
+  "s": 202.68,
+  "e": 203.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 203.06,
+  "e": 203.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "43",
+  "s": 203.4,
+  "e": 204.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "million",
+  "s": 204.06,
+  "e": 204.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Americans",
+  "s": 204.54,
+  "e": 205.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have",
+  "s": 205.18,
+  "e": 205.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "one",
+  "s": 205.96,
+  "e": 206.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 206.18,
+  "e": 206.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "more",
+  "s": 206.34,
+  "e": 206.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "physical",
+  "s": 206.54,
+  "e": 207.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "or",
+  "s": 207.02,
+  "e": 207.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "mental",
+  "s": 207.28,
+  "e": 207.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabilities.",
+  "s": 207.52,
+  "e": 208.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "But",
+  "s": 208.96,
+  "e": 209.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "if",
+  "s": 209.64,
+  "e": 209.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 209.82,
+  "e": 210.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabilities",
+  "s": 210.0,
+  "e": 210.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "were",
+  "s": 210.66,
+  "e": 211.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "determined",
+  "s": 211.02,
+  "e": 211.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "without",
+  "s": 211.5,
+  "e": 211.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "reference",
+  "s": 211.92,
+  "e": 212.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 212.42,
+  "e": 212.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "corrective",
+  "s": 212.66,
+  "e": 213.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "measures,",
+  "s": 213.16,
+  "e": 213.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "there",
+  "s": 214.3,
+  "e": 214.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "would",
+  "s": 214.42,
+  "e": 214.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 214.58,
+  "e": 214.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "over",
+  "s": 214.78,
+  "e": 215.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "160",
+  "s": 215.02,
+  "e": 215.98,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "million",
+  "s": 215.98,
+  "e": 216.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabled",
+  "s": 216.46,
+  "e": 217.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "individuals.",
+  "s": 217.1,
+  "e": 217.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Consequently,",
+  "s": 218.78,
+  "e": 219.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "we",
+  "s": 220.0,
+  "e": 220.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "hold",
+  "s": 220.24,
+  "e": 220.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 220.7,
+  "e": 221.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "plaintiffs",
+  "s": 221.24,
+  "e": 221.9,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "under",
+  "s": 221.9,
+  "e": 222.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 222.36,
+  "e": 222.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA",
+  "s": 222.64,
+  "e": 223.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "must",
+  "s": 223.06,
+  "e": 223.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 223.52,
+  "e": 223.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "evaluated",
+  "s": 223.74,
+  "e": 224.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 224.34,
+  "e": 224.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "their",
+  "s": 224.64,
+  "e": 224.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "corrected",
+  "s": 224.82,
+  "e": 225.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "State,",
+  "s": 225.4,
+  "e": 225.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 226.44,
+  "e": 226.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is,",
+  "s": 226.88,
+  "e": 227.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 227.3,
+  "e": 227.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "this",
+  "s": 227.38,
+  "e": 227.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "case,",
+  "s": 227.6,
+  "e": 227.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 228.1,
+  "e": 228.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "their",
+  "s": 228.22,
+  "e": 228.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "corrective",
+  "s": 228.44,
+  "e": 228.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "lenses,",
+  "s": 228.96,
+  "e": 229.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 229.78,
+  "e": 230.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "determine",
+  "s": 230.22,
+  "e": 230.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "whether",
+  "s": 230.7,
+  "e": 231.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 231.1,
+  "e": 231.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 231.34,
+  "e": 231.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabled.",
+  "s": 231.52,
+  "e": 232.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Because",
+  "s": 232.52,
+  "e": 233.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "with",
+  "s": 233.36,
+  "e": 233.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "corrective",
+  "s": 233.8,
+  "e": 234.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "lenses,",
+  "s": 234.32,
+  "e": 234.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Petitioners",
+  "s": 235.04,
+  "e": 235.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have",
+  "s": 235.46,
+  "e": 235.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "20",
+  "s": 235.68,
+  "e": 236.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "-20",
+  "s": 236.06,
+  "e": 236.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "vision,",
+  "s": 236.4,
+  "e": 236.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 237.32,
+  "e": 237.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 237.4,
+  "e": 237.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 237.56,
+  "e": 237.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 237.78,
+  "e": 238.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limited",
+  "s": 238.52,
+  "e": 238.98,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 238.98,
+  "e": 239.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "any",
+  "s": 239.18,
+  "e": 239.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "major",
+  "s": 239.44,
+  "e": 239.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "life",
+  "s": 239.84,
+  "e": 240.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "activity",
+  "s": 240.16,
+  "e": 240.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "and",
+  "s": 240.72,
+  "e": 241.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 241.28,
+  "e": 241.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 241.42,
+  "e": 241.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "actually",
+  "s": 241.64,
+  "e": 242.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabled.",
+  "s": 242.12,
+  "e": 242.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "That's",
+  "s": 243.3,
+  "e": 243.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 243.86,
+  "e": 244.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 244.0,
+  "e": 244.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "end",
+  "s": 244.26,
+  "e": 244.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 244.46,
+  "e": 244.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 244.62,
+  "e": 244.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "case,",
+  "s": 244.8,
+  "e": 245.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "however,",
+  "s": 245.28,
+  "e": 245.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "because",
+  "s": 245.8,
+  "e": 246.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "if",
+  "s": 246.2,
+  "e": 246.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 246.46,
+  "e": 246.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Petitioners",
+  "s": 246.74,
+  "e": 247.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "can",
+  "s": 247.2,
+  "e": 247.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "show",
+  "s": 247.44,
+  "e": 247.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 247.72,
+  "e": 247.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 247.94,
+  "e": 248.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 248.14,
+  "e": 248.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "regarded",
+  "s": 248.62,
+  "e": 249.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 249.32,
+  "e": 249.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "having",
+  "s": 249.72,
+  "e": 249.98,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 249.98,
+  "e": 250.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disability",
+  "s": 250.22,
+  "e": 250.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 250.76,
+  "e": 251.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 251.06,
+  "e": 251.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "do",
+  "s": 251.26,
+  "e": 251.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 251.42,
+  "e": 251.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "have,",
+  "s": 251.66,
+  "e": 252.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 252.6,
+  "e": 252.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 252.72,
+  "e": 252.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabled",
+  "s": 252.94,
+  "e": 253.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "within",
+  "s": 253.42,
+  "e": 253.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 253.8,
+  "e": 254.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "meaning",
+  "s": 254.0,
+  "e": 254.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 254.24,
+  "e": 254.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 254.46,
+  "e": 254.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA.",
+  "s": 254.66,
+  "e": 255.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Petitioners",
+  "s": 256.38,
+  "e": 256.98,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "allege",
+  "s": 256.98,
+  "e": 257.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 257.34,
+  "e": 257.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Respondents'",
+  "s": 257.74,
+  "e": 258.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "vision",
+  "s": 258.66,
+  "e": 258.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "requirement",
+  "s": 258.8,
+  "e": 259.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "itself",
+  "s": 259.42,
+  "e": 260.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "demonstrates",
+  "s": 260.0,
+  "e": 261.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 261.12,
+  "e": 261.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 261.5,
+  "e": 261.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "regarded",
+  "s": 261.62,
+  "e": 262.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 262.1,
+  "e": 262.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "having",
+  "s": 262.18,
+  "e": 262.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 262.62,
+  "e": 263.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limiting",
+  "s": 263.4,
+  "e": 263.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "impairments.",
+  "s": 263.94,
+  "e": 264.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "But",
+  "s": 265.36,
+  "e": 265.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "physical",
+  "s": 265.54,
+  "e": 265.98,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "requirements",
+  "s": 265.98,
+  "e": 266.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "do",
+  "s": 266.62,
+  "e": 266.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 266.88,
+  "e": 267.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "by",
+  "s": 267.22,
+  "e": 267.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "themselves",
+  "s": 267.42,
+  "e": 268.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "violate",
+  "s": 268.04,
+  "e": 268.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 268.58,
+  "e": 268.98,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ADA.",
+  "s": 268.98,
+  "e": 269.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Employers",
+  "s": 270.42,
+  "e": 270.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 270.92,
+  "e": 271.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "free",
+  "s": 271.2,
+  "e": 271.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 271.48,
+  "e": 271.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "prefer",
+  "s": 271.66,
+  "e": 272.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "some",
+  "s": 272.08,
+  "e": 272.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "physical",
+  "s": 272.46,
+  "e": 272.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "attributes",
+  "s": 272.92,
+  "e": 273.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "over",
+  "s": 273.6,
+  "e": 273.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "others,",
+  "s": 273.92,
+  "e": 274.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "so",
+  "s": 274.58,
+  "e": 275.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "long",
+  "s": 275.02,
+  "e": 275.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 275.26,
+  "e": 275.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "those",
+  "s": 275.46,
+  "e": 275.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "attributes",
+  "s": 275.62,
+  "e": 276.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "do",
+  "s": 276.26,
+  "e": 276.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 276.54,
+  "e": 276.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "rise",
+  "s": 276.8,
+  "e": 277.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 277.12,
+  "e": 277.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 277.34,
+  "e": 277.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "level",
+  "s": 277.5,
+  "e": 277.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 277.76,
+  "e": 278.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 278.06,
+  "e": 278.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limiting",
+  "s": 278.84,
+  "e": 279.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "impairments.",
+  "s": 279.4,
+  "e": 280.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "An",
+  "s": 280.76,
+  "e": 280.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "employer",
+  "s": 280.94,
+  "e": 281.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 281.36,
+  "e": 281.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "free",
+  "s": 281.74,
+  "e": 282.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 282.0,
+  "e": 282.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "decide",
+  "s": 282.22,
+  "e": 282.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 282.66,
+  "e": 282.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "some",
+  "s": 282.94,
+  "e": 283.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "physical",
+  "s": 283.18,
+  "e": 283.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "characteristics",
+  "s": 283.68,
+  "e": 284.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 284.48,
+  "e": 285.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 285.2,
+  "e": 285.32,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 285.32,
+  "e": 285.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "impairments",
+  "s": 285.58,
+  "e": 286.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 286.24,
+  "e": 286.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "preferable",
+  "s": 286.7,
+  "e": 287.1,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 287.1,
+  "e": 287.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "others,",
+  "s": 287.28,
+  "e": 287.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "just",
+  "s": 287.84,
+  "e": 288.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 288.54,
+  "e": 288.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 288.72,
+  "e": 288.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "employer",
+  "s": 288.86,
+  "e": 289.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 289.28,
+  "e": 289.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "free",
+  "s": 289.52,
+  "e": 289.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 289.72,
+  "e": 289.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "decide",
+  "s": 289.92,
+  "e": 290.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 290.3,
+  "e": 290.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "some",
+  "s": 290.64,
+  "e": 290.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limiting",
+  "s": 290.86,
+  "e": 291.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "but",
+  "s": 291.34,
+  "e": 291.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 291.6,
+  "e": 291.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 291.88,
+  "e": 292.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limiting",
+  "s": 292.7,
+  "e": 293.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "impairments",
+  "s": 293.16,
+  "e": 293.86,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "make",
+  "s": 293.86,
+  "e": 294.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "individuals",
+  "s": 294.54,
+  "e": 295.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "less",
+  "s": 295.16,
+  "e": 295.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "than",
+  "s": 295.62,
+  "e": 295.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ideally",
+  "s": 295.92,
+  "e": 296.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "suited",
+  "s": 296.42,
+  "e": 296.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "for",
+  "s": 296.8,
+  "e": 297.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 297.14,
+  "e": 297.3,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "job.",
+  "s": 297.3,
+  "e": 297.64,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Similarly,",
+  "s": 298.44,
+  "e": 299.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 299.44,
+  "e": 299.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Petitioners'",
+  "s": 299.56,
+  "e": 300.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "allegation",
+  "s": 300.3,
+  "e": 300.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 300.68,
+  "e": 301.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 301.04,
+  "e": 301.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Respondent",
+  "s": 301.24,
+  "e": 301.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "mistakenly",
+  "s": 301.82,
+  "e": 302.5,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "believes",
+  "s": 302.5,
+  "e": 303.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "their",
+  "s": 303.0,
+  "e": 303.28,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "eyesight",
+  "s": 303.28,
+  "e": 303.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 303.76,
+  "e": 304.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limits",
+  "s": 304.52,
+  "e": 304.94,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "their",
+  "s": 304.94,
+  "e": 305.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ability",
+  "s": 305.18,
+  "e": 305.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 305.56,
+  "e": 305.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "work",
+  "s": 305.84,
+  "e": 306.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 306.18,
+  "e": 307.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "global",
+  "s": 307.02,
+  "e": 307.7,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "airline",
+  "s": 307.7,
+  "e": 308.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "pilots",
+  "s": 308.18,
+  "e": 308.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 308.78,
+  "e": 309.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "insufficient",
+  "s": 309.48,
+  "e": 310.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 310.18,
+  "e": 310.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "State",
+  "s": 310.58,
+  "e": 310.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 310.82,
+  "e": 311.02,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "claim",
+  "s": 311.02,
+  "e": 311.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 311.26,
+  "e": 311.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 311.52,
+  "e": 311.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Respondent",
+  "s": 311.88,
+  "e": 312.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "regards",
+  "s": 312.26,
+  "e": 312.84,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "them",
+  "s": 312.84,
+  "e": 313.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 313.16,
+  "e": 313.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "disabled.",
+  "s": 313.38,
+  "e": 313.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Assuming,",
+  "s": 314.64,
+  "e": 315.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "without",
+  "s": 315.4,
+  "e": 315.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "deciding,",
+  "s": 315.66,
+  "e": 316.34,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 316.9,
+  "e": 317.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "work",
+  "s": 317.0,
+  "e": 317.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 317.44,
+  "e": 318.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 318.14,
+  "e": 318.46,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "major",
+  "s": 318.46,
+  "e": 318.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "life",
+  "s": 318.74,
+  "e": 319.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "activity,",
+  "s": 319.06,
+  "e": 319.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 320.22,
+  "e": 320.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 320.4,
+  "e": 320.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "substantially",
+  "s": 320.6,
+  "e": 321.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limited",
+  "s": 321.36,
+  "e": 321.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 321.88,
+  "e": 322.96,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "this",
+  "s": 322.96,
+  "e": 323.22,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "activity,",
+  "s": 323.22,
+  "e": 323.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "one",
+  "s": 324.16,
+  "e": 324.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "must",
+  "s": 324.38,
+  "e": 324.6,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 324.6,
+  "e": 324.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "significantly",
+  "s": 324.92,
+  "e": 325.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "restricted",
+  "s": 325.74,
+  "e": 326.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "in",
+  "s": 326.48,
+  "e": 326.88,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "the",
+  "s": 326.88,
+  "e": 327.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "ability",
+  "s": 327.04,
+  "e": 327.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 327.4,
+  "e": 327.68,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "work.",
+  "s": 327.68,
+  "e": 327.92,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Petitioners",
+  "s": 328.7,
+  "e": 329.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "cannot",
+  "s": 329.08,
+  "e": 329.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "claim",
+  "s": 329.38,
+  "e": 329.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 329.76,
+  "e": 329.98,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "be",
+  "s": 329.98,
+  "e": 330.16,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "so",
+  "s": 330.16,
+  "e": 330.38,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "limited",
+  "s": 330.38,
+  "e": 330.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "because",
+  "s": 330.76,
+  "e": 331.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 331.14,
+  "e": 331.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "allege",
+  "s": 331.42,
+  "e": 331.72,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "only",
+  "s": 331.72,
+  "e": 332.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "that",
+  "s": 332.12,
+  "e": 332.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "they",
+  "s": 332.36,
+  "e": 332.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "are",
+  "s": 332.52,
+  "e": 332.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "regarded",
+  "s": 332.58,
+  "e": 333.04,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 333.04,
+  "e": 333.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "unable",
+  "s": 333.8,
+  "e": 334.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "to",
+  "s": 334.14,
+  "e": 334.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "work",
+  "s": 334.36,
+  "e": 334.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "as",
+  "s": 334.54,
+  "e": 334.78,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "global",
+  "s": 334.78,
+  "e": 335.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "airline",
+  "s": 335.12,
+  "e": 335.58,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "pilots,",
+  "s": 335.58,
+  "e": 336.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "which",
+  "s": 336.24,
+  "e": 336.4,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "is",
+  "s": 336.4,
+  "e": 336.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 336.56,
+  "e": 336.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "single",
+  "s": 336.8,
+  "e": 337.08,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "job,",
+  "s": 337.08,
+  "e": 337.52,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "not",
+  "s": 337.52,
+  "e": 338.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 338.06,
+  "e": 338.26,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "class",
+  "s": 338.26,
+  "e": 338.48,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "of",
+  "s": 338.48,
+  "e": 338.74,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "jobs.",
+  "s": 338.74,
+  "e": 339.18,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Justice",
+  "s": 340.0,
+  "e": 340.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Stevens",
+  "s": 340.12,
+  "e": 340.54,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "has",
+  "s": 340.54,
+  "e": 340.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "filed",
+  "s": 340.8,
+  "e": 341.06,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 341.06,
+  "e": 341.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "dissenting",
+  "s": 341.24,
+  "e": 341.62,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "opinion,",
+  "s": 341.62,
+  "e": 342.12,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "which",
+  "s": 342.28,
+  "e": 342.42,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Justice",
+  "s": 342.42,
+  "e": 342.82,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Breyer",
+  "s": 342.82,
+  "e": 343.24,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "has",
+  "s": 343.24,
+  "e": 343.44,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "joined.",
+  "s": 343.44,
+  "e": 343.8,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Justice",
+  "s": 344.3,
+  "e": 344.56,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "Breyer",
+  "s": 344.56,
+  "e": 345.0,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "has",
+  "s": 345.0,
+  "e": 345.2,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "also",
+  "s": 345.2,
+  "e": 345.66,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "filed",
+  "s": 345.66,
+  "e": 346.14,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "a",
+  "s": 346.14,
+  "e": 346.36,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "dissenting",
+  "s": 346.36,
+  "e": 346.76,
+  "speaker": "JUSTICE O'CONNOR"
+ },
+ {
+  "w": "opinion.",
+  "s": 346.76,
+  "e": 347.24,
+  "speaker": "JUSTICE O'CONNOR"
+ }
+]
