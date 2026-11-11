@@ -1,0 +1,14 @@
+[
+ {
+  "speaker": "CHIEF JUSTICE REHNQUIST",
+  "s": 0.0,
+  "e": 7.24,
+  "text": "The opinion of the Court in No. 9659 -55, Richards v. Wisconsin, will be announced by Justice Stevens."
+ },
+ {
+  "speaker": "JUSTICE STEVENS",
+  "s": 8.6,
+  "e": 95.76,
+  "text": "Two years ago, in a case called Wilson v. Arkansas, we held that the Fourth Amendment to the Federal Constitution incorporates the common law requirement that police officers entering a dwelling must knock on the door and announce their identity and purpose before attempting forcible entry. At the same time, we recognize that the flexible requirement of reasonableness should not be read to mandate a rigid rule of announcement that ignores countervailing law enforcement interests, and left to the lower courts the task of determining the circumstances under which an unannounced entry is reasonable under the Fourth Amendment. In this case, the Wisconsin Supreme Court concluded that our decision in Wilson did not foreclose a categorical rule allowing police officers to forego the knock and announce requirement in every felony drug investigation. We granted certiorari to consider whether this was a proper application of our holding in Wilson. In a unanimous opinion filed with the clerk today, we disapprove the Wisconsin court's blanket exception to knock and announce. Nevertheless, based on the particular facts of this case, we affirm that Court's judgment because the no -knock entry in this case was reasonable under the circumstances."
+ }
+]
