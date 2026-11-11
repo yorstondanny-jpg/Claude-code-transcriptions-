@@ -1,0 +1,480 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1884.18,
+   "next": 1885.2,
+   "speaker": "JUSTICE KENNEDY",
+   "before": "But the main point I want to -- Mr. Stewart, I -- They were getting a good night's sleep? But they are getting a good night's sleep before they read your brief?",
+   "pause": 1.02,
+   "loud_s": 0.75,
+   "mean_over": 18.6,
+   "peak_over": 26.0,
+   "size": "medium"
+  },
+  {
+   "t": 2159.4,
+   "next": 2160.32,
+   "speaker": "JUSTICE SCALIA",
+   "before": "that there are things here -- in here that are wrong or compliance measures that you regard as infeasible, you're welcome to tell us. And I think -- Well, that's very nice.",
+   "pause": 0.92,
+   "loud_s": 0.3,
+   "mean_over": 13.1,
+   "peak_over": 17.8,
+   "size": "small"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -46.6,
+ "opening_start": 1200.0,
+ "opening": [
+  [
+   1200.0,
+   "JUSTICE SCALIA",
+   "the issue would be clear as to what burden the agency has to sustain. But it's -- it's really the dual nature of this process that creates the difficulty, isn't it?"
+  ],
+  [
+   1216.1,
+   "MR. SCHIFF",
+   "Yes, Justice Scalia, to some extent it is, of course, the process that -- that Congress --"
+  ],
+  [
+   1220.38,
+   "JUSTICE SCALIA",
+   "But that's in the statute. The agency didn't make that up, right? The statute provides for compliance orders, and it calls them \"compliance orders,\" doesn't it?"
+  ],
+  [
+   1229.98,
+   "MR. SCHIFF",
+   "It -- it does indeed. And so, even if the Sacketts on remand don't get their ideal mode of judicial review, something is frankly better than nothing. They have been told for 4 years they cannot build their home. They have been threatened with ruinous civil penalties. And, to date, they have had no opportunity for their day in court. The -- the Sacketts cannot trigger an enforcement action. I mean, perhaps if Congress had written the statute differently to allow for some sort of judicial review that the Sacketts could -- could initiate for a compliance order, that might -- that might answer, Justice Scalia, your concerns. But that is not the statute we have. We have a statute where Congress has said EPA can issue a compliance order, and we have in combination with that the presumption in favor of judicial review of final agency action; we have the avoidance canon; all that point to allowing for the Sacketts to get their day in court and at the same time to satisfy and to vindicate Congress's intent. Congress wanted EPA to be able to issue these -- these compliance orders. Congress gave significant statutory penalties for violating these compliance orders. But at the same time, there has to be balance. One cannot tell landowners --"
+  ],
+  [
+   1300.3,
+   "JUSTICE SCALIA",
+   "Of course, you know, you're -- you're not going to be out of the woods. Even if you get this APA review, okay, some of the factual questions that go to whether these are wetlands or not are going to be decided giving substantial deference to the agency's determination of the facts, right?"
+  ],
+  [
+   1321.24,
+   "MR. SCHIFF",
+   "No, that is correct, Justice Scalia. And that --"
+  ],
+  [
+   1322.94,
+   "JUSTICE SCALIA",
+   "And so, even if you lose on that, you might still think you can win when the EPA finally brings a -- a civil action seeking to impose a penalty, where the burden will be on the EPA without -- without any deference to its factfinding. So, you still won't know where you are, will you?"
+  ],
+  [
+   1345.48,
+   "MR. SCHIFF",
+   "Well --"
+  ],
+  [
+   1346.58,
+   "JUSTICE SCALIA",
+   "You've lost one, but you may win the other. You'll have to roll the dice."
+  ],
+  [
+   1350.14,
+   "MR. SCHIFF",
+   "Well, respectfully, Justice Scalia, it's more than rolling the dice. It's subjecting the -- the Sacketts to an interminable Damoclean sword, if -- if the only way they can get review is simply waiting, well, when will EPA let the sword drop and bring a civil action to enforce this compliance order that who knows how old it is? With EPA's theory of continuing violation, the statute of limitations never even runs. And so, you have the Sacketts who are forever subject to this cloud over themselves, cloud over their title. They can't get anyone to come"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2011/10-1062",
+  "page_url": "https://www.oyez.org/cases/2011/10-1062",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - March 21, 2012",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/22152",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2011/10-1062/20120321o_10-1062.delivery.mp3",
+  "duration": 383.190256,
+  "mp3_bytes": 1639257,
+  "asr_elapsed_s": 189.3,
+  "trimmed": 2,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   800,
+   829,
+   829
+  ],
+  "diffs": [
+   [
+    7.44,
+    "Scalia.",
+    ""
+   ],
+   [
+    11.64,
+    "",
+    "[Laughter]"
+   ],
+   [
+    13.88,
+    "at",
+    "to"
+   ],
+   [
+    80.18,
+    "a",
+    "the"
+   ],
+   [
+    83.42,
+    "Chantelle",
+    "Chantell"
+   ],
+   [
+    136.5,
+    "exposed",
+    "expose"
+   ],
+   [
+    153.16,
+    "",
+    "[Laughter]"
+   ],
+   [
+    160.22,
+    "argued",
+    "argue"
+   ],
+   [
+    172.18,
+    "The",
+    ""
+   ],
+   [
+    230.4,
+    "consequences",
+    "consequence is"
+   ],
+   [
+    231.62,
+    "",
+    "a"
+   ],
+   [
+    245.22,
+    "",
+    "-- a permit"
+   ],
+   [
+    257.1,
+    "",
+    "the --"
+   ],
+   [
+    306.48,
+    "",
+    "Army"
+   ],
+   [
+    313.32,
+    "",
+    "-- is"
+   ],
+   [
+    315.7,
+    "",
+    "They --"
+   ],
+   [
+    365.42,
+    "is",
+    "it"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 829,
+  "opening": [
+   [
+    1.5,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Scalia has our opinion in Case 10-1062, Sackett v. EPA."
+   ],
+   [
+    7.44,
+    "JUSTICE SCALIA",
+    "Scalia. I'm tired already. This case is here on writ of certiorari at the United States Court of Appeals for the Ninth Circuit. The Clean Water Act prohibits, quote, the discharge of any pollutant by any person, close quote, into navigable waters, which the Act defines as, quote, the waters, the waters of the United States, close quote. If the Environmental Protection Agency determines that a violation has occurred, it may then either issue a compliance order or initiate a civil enforcement action. If the agency initiates a civil enforcement action and wins, the resulting civil penalty may not exceed $37,500 per day for each violation. But at least as the government tells it, that amount doubles to $75,000 per day when the EPA initiates and wins a civil enforcement action after a person has failed to comply with a compliance order. Michael and Chantelle Sackett, the petitioners here, own a two-thirds-acre residential lot in Bonner County, Idaho. The property lies just north of Priest Lake, but is separated from the lake by several lots with permanent structures on them. In preparation for building a house, the Sacketts filled in part of their lot with rock and dirt. Some months later, they received a compliance order from the EPA, which stated that their residential lot contained navigable waters and that their construction project violated the Act. The compliance order directed them not only to stop filling the lot, but also to restore the lot to its preconstruction condition. And, the agency said, for every day the Sacketts failed to comply, they exposed themselves to an additional $75,000 in potential liability. The Sacketts, who did not believe that their land contained navigable waters, having never seen a ship or other vessel cross their yard, sought declaratory and injunctive relief in the Federal District Court. They argued that the compliance order was arbitrary and capricious under the Administrative Procedure Act. And that it deprived them of due process in violation of the Fifth Amendment. The district court dismissed the claims for want of subject matter jurisdiction, and the Ninth Circuit affirmed. The court of appeals held that the Clean Water Act precluded"
+   ]
+  ],
+  "full_text": [
+   [
+    1.5,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Scalia has our opinion in Case 10-1062, Sackett v. EPA."
+   ],
+   [
+    7.44,
+    "JUSTICE SCALIA",
+    "Scalia. I'm tired already. This case is here on writ of certiorari at the United States Court of Appeals for the Ninth Circuit. The Clean Water Act prohibits, quote, the discharge of any pollutant by any person, close quote, into navigable waters, which the Act defines as, quote, the waters, the waters of the United States, close quote. If the Environmental Protection Agency determines that a violation has occurred, it may then either issue a compliance order or initiate a civil enforcement action. If the agency initiates a civil enforcement action and wins, the resulting civil penalty may not exceed $37,500 per day for each violation. But at least as the government tells it, that amount doubles to $75,000 per day when the EPA initiates and wins a civil enforcement action after a person has failed to comply with a compliance order. Michael and Chantelle Sackett, the petitioners here, own a two-thirds-acre residential lot in Bonner County, Idaho. The property lies just north of Priest Lake, but is separated from the lake by several lots with permanent structures on them. In preparation for building a house, the Sacketts filled in part of their lot with rock and dirt. Some months later, they received a compliance order from the EPA, which stated that their residential lot contained navigable waters and that their construction project violated the Act. The compliance order directed them not only to stop filling the lot, but also to restore the lot to its preconstruction condition. And, the agency said, for every day the Sacketts failed to comply, they exposed themselves to an additional $75,000 in potential liability. The Sacketts, who did not believe that their land contained navigable waters, having never seen a ship or other vessel cross their yard, sought declaratory and injunctive relief in the Federal District Court. They argued that the compliance order was arbitrary and capricious under the Administrative Procedure Act. And that it deprived them of due process in violation of the Fifth Amendment. The district court dismissed the claims for want of subject matter jurisdiction, and the Ninth Circuit affirmed. The court of appeals held that the Clean Water Act precluded preenforcement judicial review of compliance orders, and that such preclusion did not violate due process. In an opinion filed with the clerk today, we reverse the judgment of the Ninth Circuit. The Sacketts may bring a civil action under the APA to challenge the issuance of the EPA's order. The APA provides for judicial review of final agency action for which there is no other adequate remedy in court. First, the compliance order here has all the hallmarks of finality. Through it, the APA determined rights or obligations, requiring the Sacketts to restore their property according to an agency-approved plan and to give the EPA access to the property. Legal consequences also flow from the order, which, according to the government's litigating position, exposes the Sacketts to double penalties in future enforcement proceedings. And the order severely limits their ability to obtain a permit for their fill from the Army Corps of Engineers, if indeed they are filling waters of the United States. Further, the order's issuance marks the consummation of the agency's decision-making process, since the EPA's findings that the Sacketts' land was subject to the Clean Water Act were not subject to further agency review. Second, the Sacketts had, as review requires, no other adequate remedy in a court. A civil action brought by the EPA ordinarily provides judicial review in such cases, but the Sacketts cannot initiate that civil action process. And each day they wait for the EPA to drop the hammer, they accrue additional potential liability. The Sacketts also may not obtain an adequate remedy by applying to a separate agency, the Corps of Engineers, for a permit and then filing suit under the APA if that permit is denied. They would claim then that their land is not subject to permitting. Since the agency's decision was final and since the Sacketts have no other adequate remedy in a court, they may bring their suit under the APA. Contrary to the Ninth Circuit's conclusion, the Clean Water Act is not a statute that precludes judicial review under the APA. The APA creates a presumption favoring judicial review of administrative action, as we have said in many prior cases. While this presumption, quote, may be overcome by inferences of intent drawn from the statutory scheme as a whole, close quote, the government's arguments do not support an inference that the Clean Water Act's statutory scheme precludes APA review, as is explained in further detail in the opinion filed today with the clerk. The judgment of the court of appeals is reversed and the case is remanded for further proceedings. The opinion for the court is unanimous. Justice Ginsburg and Justice Alito have filed separate concurring opinions."
+   ]
+  ],
+  "sentences": [
+   [
+    1.5,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Scalia has our opinion in Case 10-1062, Sackett v. EPA."
+   ],
+   [
+    7.44,
+    "JUSTICE SCALIA",
+    "Scalia."
+   ],
+   [
+    7.46,
+    "JUSTICE SCALIA",
+    "I'm tired already."
+   ],
+   [
+    11.64,
+    "JUSTICE SCALIA",
+    "This case is here on writ of certiorari at the United States Court of Appeals for the Ninth Circuit."
+   ],
+   [
+    17.56,
+    "JUSTICE SCALIA",
+    "The Clean Water Act prohibits, quote, the discharge of any pollutant by any person, close quote, into navigable waters, which the Act defines as, quote, the waters, the waters of the United States, close quote."
+   ],
+   [
+    35.82,
+    "JUSTICE SCALIA",
+    "If the Environmental Protection Agency determines that a violation has occurred, it may then either issue a compliance order or initiate a civil enforcement action."
+   ],
+   [
+    49.38,
+    "JUSTICE SCALIA",
+    "If the agency initiates a civil enforcement action and wins, the resulting civil penalty may not exceed $37,500 per day for each violation."
+   ],
+   [
+    64.02,
+    "JUSTICE SCALIA",
+    "But at least as the government tells it, that amount doubles to $75,000 per day when the EPA initiates and wins a civil enforcement action after a person has failed to comply with a compliance order."
+   ],
+   [
+    82.4,
+    "JUSTICE SCALIA",
+    "Michael and Chantelle Sackett, the petitioners here, own a two-thirds-acre residential lot in Bonner County, Idaho."
+   ],
+   [
+    92.58,
+    "JUSTICE SCALIA",
+    "The property lies just north of Priest Lake, but is separated from the lake by several lots with permanent structures on them."
+   ],
+   [
+    101.52,
+    "JUSTICE SCALIA",
+    "In preparation for building a house, the Sacketts filled in part of their lot with rock and dirt."
+   ],
+   [
+    109.28,
+    "JUSTICE SCALIA",
+    "Some months later, they received a compliance order from the EPA, which stated that their residential lot contained navigable waters and that their construction project violated the Act."
+   ],
+   [
+    122.7,
+    "JUSTICE SCALIA",
+    "The compliance order directed them not only to stop filling the lot, but also to restore the lot to its preconstruction condition."
+   ],
+   [
+    131.8,
+    "JUSTICE SCALIA",
+    "And, the agency said, for every day the Sacketts failed to comply, they exposed themselves to an additional $75,000 in potential liability."
+   ],
+   [
+    144.02,
+    "JUSTICE SCALIA",
+    "The Sacketts, who did not believe that their land contained navigable waters, having never seen a ship or other vessel cross their yard, sought declaratory and injunctive relief in the Federal District Court."
+   ],
+   [
+    159.46,
+    "JUSTICE SCALIA",
+    "They argued that the compliance order was arbitrary and capricious under the Administrative Procedure Act."
+   ],
+   [
+    166.22,
+    "JUSTICE SCALIA",
+    "And that it deprived them of due process in violation of the Fifth Amendment."
+   ],
+   [
+    172.18,
+    "JUSTICE SCALIA",
+    "The district court dismissed the claims for want of subject matter jurisdiction, and the Ninth Circuit affirmed."
+   ],
+   [
+    178.56,
+    "JUSTICE SCALIA",
+    "The court of appeals held that the Clean Water Act precluded preenforcement judicial review of compliance orders, and that such preclusion did not violate due process."
+   ],
+   [
+    189.84,
+    "JUSTICE SCALIA",
+    "In an opinion filed with the clerk today, we reverse the judgment of the Ninth Circuit."
+   ],
+   [
+    195.16,
+    "JUSTICE SCALIA",
+    "The Sacketts may bring a civil action under the APA to challenge the issuance of the EPA's order."
+   ],
+   [
+    201.78,
+    "JUSTICE SCALIA",
+    "The APA provides for judicial review of final agency action for which there is no other adequate remedy in court."
+   ],
+   [
+    210.8,
+    "JUSTICE SCALIA",
+    "First, the compliance order here has all the hallmarks of finality."
+   ],
+   [
+    216.8,
+    "JUSTICE SCALIA",
+    "Through it, the APA determined rights or obligations, requiring the Sacketts to restore their property according to an agency-approved plan and to give the EPA access to the property."
+   ],
+   [
+    229.94,
+    "JUSTICE SCALIA",
+    "Legal consequences also flow from the order, which, according to the government's litigating position, exposes the Sacketts to double penalties in future enforcement proceedings."
+   ],
+   [
+    240.68,
+    "JUSTICE SCALIA",
+    "And the order severely limits their ability to obtain a permit for their fill from the Army Corps of Engineers, if indeed they are filling waters of the United States."
+   ],
+   [
+    256.06,
+    "JUSTICE SCALIA",
+    "Further, the order's issuance marks the consummation of the agency's decision-making process, since the EPA's findings that the Sacketts' land was subject to the Clean Water Act were not subject to further agency review."
+   ],
+   [
+    272.22,
+    "JUSTICE SCALIA",
+    "Second, the Sacketts had, as review requires, no other adequate remedy in a court."
+   ],
+   [
+    281.48,
+    "JUSTICE SCALIA",
+    "A civil action brought by the EPA ordinarily provides judicial review in such cases, but the Sacketts cannot initiate that civil action process."
+   ],
+   [
+    293.42,
+    "JUSTICE SCALIA",
+    "And each day they wait for the EPA to drop the hammer, they accrue additional potential liability."
+   ],
+   [
+    300.18,
+    "JUSTICE SCALIA",
+    "The Sacketts also may not obtain an adequate remedy by applying to a separate agency, the Corps of Engineers, for a permit and then filing suit under the APA if that permit is denied."
+   ],
+   [
+    315.7,
+    "JUSTICE SCALIA",
+    "They would claim then that their land is not subject to permitting."
+   ],
+   [
+    321.64,
+    "JUSTICE SCALIA",
+    "Since the agency's decision was final and since the Sacketts have no other adequate remedy in a court, they may bring their suit under the APA."
+   ],
+   [
+    331.18,
+    "JUSTICE SCALIA",
+    "Contrary to the Ninth Circuit's conclusion, the Clean Water Act is not a statute that precludes judicial review under the APA."
+   ],
+   [
+    338.98,
+    "JUSTICE SCALIA",
+    "The APA creates a presumption favoring judicial review of administrative action, as we have said in many prior cases."
+   ],
+   [
+    347.64,
+    "JUSTICE SCALIA",
+    "While this presumption, quote, may be overcome by inferences of intent drawn from the statutory scheme as a whole, close quote, the government's arguments do not support an inference that the Clean Water Act's statutory scheme precludes APA review, as is explained in further detail in the opinion filed today with the clerk."
+   ],
+   [
+    370.64,
+    "JUSTICE SCALIA",
+    "The judgment of the court of appeals is reversed and the case is remanded for further proceedings."
+   ],
+   [
+    375.74,
+    "JUSTICE SCALIA",
+    "The opinion for the court is unanimous."
+   ],
+   [
+    378.3,
+    "JUSTICE SCALIA",
+    "Justice Ginsburg and Justice Alito have filed separate concurring opinions."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    1.5,
+    6.54,
+    11
+   ],
+   [
+    "JUSTICE SCALIA",
+    7.44,
+    382.52,
+    810
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "10-1062",
+ "year": "2011",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2011/10-1062",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/10-1062.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2011/10-1062.pdf",
+ "model": "medium.en",
+ "duration": 3677.152653,
+ "asr_elapsed_s": 896.9,
+ "asr_words": 3493,
+ "official_words": 3520,
+ "matched": 3353,
+ "shared": 2,
+ "clamped": 0,
+ "trimmed": 3,
+ "rewindowed": 1,
+ "match_rate": 95.25568181818181,
+ "turns": 81,
+ "laugh_markers": 2,
+ "mp3_bytes": 29417474,
+ "pauses": 98,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 81,
+  "match_rate": {
+   "ok": true,
+   "detail": "95.26% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-11"
+}
