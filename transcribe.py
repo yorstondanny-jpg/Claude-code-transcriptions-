@@ -255,6 +255,53 @@ def norm(w):
     return re.sub(r"[^\w]", "", w.lower().replace("’", "'")).replace("_", "")
 
 
+def passage_window(turns, quotes, duration, pad=180.0):
+    """For --passages: where on the tape the quotes should be, from where they sit in the official transcript
+    (speech runs at a steady enough rate that this lands within about a minute), plus pad seconds either side."""
+    toks = [norm(w) for t in turns for w in tokenize_turn(t["text"]) if w != LAUGH]
+    lo, hi = None, None
+    for q in quotes:
+        qt = [norm(w) for w in q.split() if norm(w)]
+        i = next((i for i in range(len(toks) - len(qt) + 1) if toks[i:i + len(qt)] == qt), None)
+        if i is None:
+            sys.exit(f'--passages: "{q}" is not in the official transcript word for word')
+        lo = i if lo is None else min(lo, i)
+        hi = i + len(qt) if hi is None else max(hi, i + len(qt))
+    return max(0.0, lo / len(toks) * duration - pad), min(duration, hi / len(toks) * duration + pad)
+
+
+def slice_turns(turns, asr_words, min_run=6, max_jump=400):
+    """For --window: keep only the official turns the windowed ASR covers, with the first and last turn cut
+    to the words that were heard, so no unheard word gets stretched back to 0 or on to the end of the tape."""
+    per = [tokenize_turn(t["text"]) for t in turns]
+    toks, owner = [], []
+    for ti, tk in enumerate(per):
+        for k, w in enumerate(tk):
+            toks.append(norm(w))
+            owner.append((ti, k))
+    heard = [norm(w["w"]) for w in asr_words]
+    sm = difflib.SequenceMatcher(None, toks, heard, autojunk=False)
+    blocks = [m for m in sm.get_matching_blocks() if m.size >= min_run]
+    # a stray run far from the rest (a stock phrase said twice) is not the window
+    while len(blocks) > 1 and blocks[1].a - (blocks[0].a + blocks[0].size) > max_jump:
+        blocks.pop(0)
+    while len(blocks) > 1 and blocks[-1].a - (blocks[-2].a + blocks[-2].size) > max_jump:
+        blocks.pop()
+    if not blocks:
+        sys.exit("--window: could not find this stretch of tape in the official transcript. "
+                 "Check the times, or run without --window")
+    (t0, k0), (t1, k1) = owner[blocks[0].a], owner[blocks[-1].a + blocks[-1].size - 1]
+    out = []
+    for ti in range(t0, t1 + 1):
+        tk = per[ti]
+        a, z = (k0 if ti == t0 else 0), (k1 + 1 if ti == t1 else len(tk))
+        if ti == t1 and z < len(tk) and tk[z] == LAUGH:
+            z += 1   # a laugh marked straight after the last word heard belongs to it
+        if z > a:
+            out.append(dict(turns[ti], text=" ".join(tk[a:z])))
+    return out
+
+
 # --------------------------------------------------------------------------- alignment
 
 STRETCH_S = 1.5  # an ASR word this long next to squeezed missed words has swallowed their audio
@@ -708,6 +755,15 @@ def main():
                     "'percentages', 'dollar amounts' and 'years' match any such number")
     ap.add_argument("--opinion", action="store_true",
                     help="also fetch and transcribe the opinion announcement from oyez.org (Whisper only)")
+    ap.add_argument("--passages", help="'|'-separated quotes, word for word from the official transcript, "
+                    "that the Reel will use. Only the stretch of tape that holds them is transcribed (found from "
+                    "where each quote sits in the transcript, with 3 minutes either side), which takes a few "
+                    "minutes where the whole hour takes 20 to 50. Times are on the full recording's clock")
+    ap.add_argument("--window", nargs=2, type=float, metavar=("START", "END"),
+                    help="transcribe only this stretch of the argument, in seconds of the full recording. "
+                    "For when the passages are already chosen from the official transcript: a few minutes "
+                    "of tape take a few minutes, where the whole hour takes 20 to 50. Every time written "
+                    "is still on the full recording's clock, and only the turns inside the window are written")
     args = ap.parse_args()
 
     root = Path(__file__).resolve().parent / "projects" / args.project
@@ -731,12 +787,50 @@ def main():
         fetch(pdf_url, pdf)
     duration = audio_duration(mp3)
 
-    asr = run_asr(mp3, args.model, work / f"asr_{args.model}.json")
-    asr_words = asr["words"]
-    log(f"ASR: {len(asr_words)} words")
-
     turns = parse_transcript(pdf)
     log(f"Official transcript: {len(turns)} speaker turns")
+
+    def window_asr(w0, w1):
+        """ASR on one stretch of the tape, with its words put back on the full recording's clock, so every
+        later step (loudness, laughs, re-listening) reads the real file."""
+        clip = work / f"window_{int(w0)}_{int(w1)}.mp3"
+        if not clip.exists():
+            subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", f"{w0:.3f}", "-t", f"{w1 - w0:.3f}",
+                            "-i", str(mp3), "-ac", "1", "-b:a", "64k", "-map_metadata", "-1", str(clip)], check=True)
+        got = run_asr(clip, args.model, work / f"asr_{args.model}_{int(w0)}_{int(w1)}.json")
+        words = [dict(w, s=round(w["s"] + w0, 3), e=round(w["e"] + w0, 3)) for w in got["words"]]
+        log(f"ASR: {len(words)} words in the window {w0:.0f} to {w1:.0f} s")
+        return got, words
+
+    if args.passages and not args.window:
+        quotes = [q.strip() for q in args.passages.split("|") if q.strip()]
+        pad = 180.0
+        for _ in range(3):
+            w0, w1 = passage_window(turns, quotes, duration, pad)
+            asr, asr_words = window_asr(w0, w1)
+            part = slice_turns(turns, asr_words)
+            heard = " ".join(norm(w) for t in part for w in tokenize_turn(t["text"]) if w != LAUGH)
+            missing = [q for q in quotes if " ".join(norm(w) for w in q.split() if norm(w)) not in heard]
+            if not missing:
+                break
+            log(f"Not yet inside the window: {missing}. Widening by 3 minutes each side")
+            pad += 180.0
+        else:
+            sys.exit(f"--passages: could not find {missing} on the tape near where the transcript puts them. "
+                     "Run without --passages for the whole argument")
+        turns = part
+        log(f"Window: {len(turns)} turns, from {turns[0]['speaker']} to {turns[-1]['speaker']}")
+    elif args.window:
+        w0, w1 = max(0.0, args.window[0]), min(duration, args.window[1])
+        if w1 - w0 < 20:
+            sys.exit("--window: give at least 20 seconds, START then END, in seconds of the full recording")
+        asr, asr_words = window_asr(w0, w1)
+        turns = slice_turns(turns, asr_words)
+        log(f"Window: {len(turns)} turns, from {turns[0]['speaker']} to {turns[-1]['speaker']}")
+    else:
+        asr = run_asr(mp3, args.model, work / f"asr_{args.model}.json")
+        asr_words = asr["words"]
+        log(f"ASR: {len(asr_words)} words")
     db, floor, loud, voiced, silence = loudness(mp3)
     official, matched, n_spoken, shared, clamped, trimmed, rewindowed = build_words(
         turns, asr_words, duration, voiced, mp3, args.model, work / f"asr_windows_{args.model}.json")

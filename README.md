@@ -79,3 +79,19 @@ restart, say) the next run resumes where it stopped.
 `laugh_scout.py` ranks cases by courtroom laughter using the official transcripts alone (no
 audio): `python3 laugh_scout.py projects/_laugh-scout/cases.json projects/_laugh-scout`. Results
 are in [projects/_laugh-scout](projects/_laugh-scout/) and [projects/_laugh-scout-2](projects/_laugh-scout-2/).
+
+## When the passages are already chosen: `--passages` and `--window` (11 Nov 2026)
+
+The whole hour only needs transcribing when nobody yet knows which bits are good (a scout, a first look at a case).
+When the pick has already chosen its lines from the Court's official transcript, give them word for word:
+
+    python3 transcribe.py 10-1062 2011 sackett-house --passages "ordinary homeowners would say this kind of thing can't happen in the United States|Well, that's very nice|getting a good night's sleep before they read your brief"
+
+The tool works out where on the tape those quotes should be from where they sit in the transcript (it lands within
+about a minute), transcribes only that stretch with 3 minutes either side, widens it if a quote is not inside, and
+writes the same files as a full run (words.json, lines.json, laughs.md, README.md) for the turns in that stretch. Every
+time is still on the full recording's clock, and `audio/argument.mp3` is still the whole argument, so cuts and checks
+work as before. Tested on Sackett v. EPA: three quotes spread over seven minutes, a 13 minute stretch, 3 minutes 11
+seconds with `small.en`, every line at the right time, the laugh marks kept. `--window START END` does the same for a
+stretch given in seconds. If the story room wants a line from outside the stretch, run it again with that line added
+(the earlier stretch is cached), or without `--passages` for the whole argument.
