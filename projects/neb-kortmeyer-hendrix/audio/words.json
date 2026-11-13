@@ -1,0 +1,6872 @@
+[
+{
+"w": "This",
+"s": 1.4,
+"e": 1.84,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "is",
+"s": 1.84,
+"e": 1.98,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "here",
+"s": 1.98,
+"e": 2.18,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "on",
+"s": 2.18,
+"e": 2.3,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "a",
+"s": 2.3,
+"e": 2.48,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "petition",
+"s": 2.48,
+"e": 2.78,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "for",
+"s": 2.78,
+"e": 3.04,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "further",
+"s": 3.04,
+"e": 3.32,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "review.",
+"s": 3.32,
+"e": 3.94,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "Mr.",
+"s": 5.68,
+"e": 5.78,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "Wakeman,",
+"s": 5.94,
+"e": 6.06,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "is",
+"s": 6.1,
+"e": 6.18,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "that",
+"s": 6.18,
+"e": 6.32,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "correct?",
+"s": 6.32,
+"e": 6.52,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "All",
+"s": 7.48,
+"e": 7.54,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "right,",
+"s": 7.54,
+"e": 7.68,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "thank",
+"s": 7.74,
+"e": 7.96,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "you.",
+"s": 7.96,
+"e": 8.32,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "And",
+"s": 8.58,
+"e": 8.82,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "Mr.",
+"s": 8.82,
+"e": 9.16,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "Mossman,",
+"s": 9.48,
+"e": 9.88,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "do",
+"s": 10.56,
+"e": 10.68,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "either",
+"s": 10.68,
+"e": 10.92,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "of",
+"s": 10.92,
+"e": 11.06,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "you",
+"s": 11.06,
+"e": 11.12,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "have",
+"s": 11.12,
+"e": 11.22,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "any",
+"s": 11.22,
+"e": 11.4,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "questions",
+"s": 11.4,
+"e": 11.74,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "before",
+"s": 11.74,
+"e": 12.1,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "we",
+"s": 12.1,
+"e": 12.24,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "proceed?",
+"s": 12.24,
+"e": 12.56,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "Very",
+"s": 14.28,
+"e": 14.72,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "good.",
+"s": 14.72,
+"e": 15.16,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "Mr.",
+"s": 15.8,
+"e": 16.06,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "Wakeman,",
+"s": 16.16,
+"e": 16.38,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "then",
+"s": 16.58,
+"e": 16.78,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "you",
+"s": 16.78,
+"e": 17.74,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "may",
+"s": 17.74,
+"e": 17.9,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "proceed.",
+"s": 17.9,
+"e": 18.24,
+"speaker": "CHIEF JUSTICE"
+},
+{
+"w": "Good",
+"s": 19.04,
+"e": 19.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "morning.",
+"s": 19.18,
+"e": 19.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "May",
+"s": 19.58,
+"e": 19.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it",
+"s": 19.7,
+"e": 19.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "please",
+"s": 19.84,
+"e": 19.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 19.96,
+"e": 20.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court.",
+"s": 20.2,
+"e": 20.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I'm",
+"s": 20.68,
+"e": 20.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "E",
+"s": 20.7,
+"e": 20.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": ".M",
+"s": 20.9,
+"e": 20.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": ".R.",
+"s": 20.9,
+"e": 21.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Wakeman",
+"s": 21.16,
+"e": 21.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on",
+"s": 21.38,
+"e": 21.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "behalf",
+"s": 21.52,
+"e": 21.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 21.78,
+"e": 22.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 22.02,
+"e": 22.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appellants",
+"s": 22.1,
+"e": 22.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "here,",
+"s": 22.5,
+"e": 22.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 22.88,
+"e": 23.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 23.02,
+"e": 23.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Myers.",
+"s": 23.26,
+"e": 23.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Today",
+"s": 24.76,
+"e": 25.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "we're",
+"s": 25.0,
+"e": 25.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "asking",
+"s": 25.22,
+"e": 25.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "this",
+"s": 25.44,
+"e": 25.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 25.68,
+"e": 25.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 25.88,
+"e": 26.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "reverse",
+"s": 26.14,
+"e": 26.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 26.48,
+"e": 26.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 26.86,
+"e": 27.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 27.02,
+"e": 27.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appeals",
+"s": 27.18,
+"e": 27.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "order",
+"s": 27.46,
+"e": 27.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 27.92,
+"e": 28.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "grant",
+"s": 28.72,
+"e": 29.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 29.08,
+"e": 29.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 29.38,
+"e": 29.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Myers'",
+"s": 29.58,
+"e": 29.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "request",
+"s": 30.06,
+"e": 30.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 30.32,
+"e": 30.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "quiet",
+"s": 30.58,
+"e": 30.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "title.",
+"s": 30.8,
+"e": 31.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "This",
+"s": 31.92,
+"e": 32.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 32.12,
+"e": 32.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 32.28,
+"e": 32.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case",
+"s": 32.42,
+"e": 32.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "stemming",
+"s": 32.64,
+"e": 33.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "from",
+"s": 33.0,
+"e": 33.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 33.28,
+"e": 33.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "claim",
+"s": 33.42,
+"e": 33.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 33.7,
+"e": 33.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "adverse",
+"s": 33.98,
+"e": 34.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "possession.",
+"s": 34.4,
+"e": 35.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Our",
+"s": 36.46,
+"e": 36.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "assignment",
+"s": 36.6,
+"e": 37.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 37.08,
+"e": 37.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "enumerated",
+"s": 37.78,
+"e": 38.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "by",
+"s": 38.98,
+"e": 39.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "five",
+"s": 39.26,
+"e": 39.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "errors,",
+"s": 39.84,
+"e": 40.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "but",
+"s": 40.54,
+"e": 40.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "just",
+"s": 40.68,
+"e": 40.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "like",
+"s": 40.86,
+"e": 41.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 41.14,
+"e": 41.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "elements",
+"s": 41.38,
+"e": 41.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 41.7,
+"e": 41.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "adverse",
+"s": 41.96,
+"e": 42.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "possession,",
+"s": 42.3,
+"e": 42.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "many",
+"s": 43.5,
+"e": 43.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 43.72,
+"e": 43.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "them",
+"s": 43.88,
+"e": 44.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "do",
+"s": 44.04,
+"e": 44.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "overlap,",
+"s": 44.26,
+"e": 44.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 45.0,
+"e": 45.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there's",
+"s": 45.08,
+"e": 45.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 45.24,
+"e": 45.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lot",
+"s": 45.34,
+"e": 45.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 45.46,
+"e": 45.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "nuance",
+"s": 45.62,
+"e": 46.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "involved.",
+"s": 46.0,
+"e": 46.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Some",
+"s": 48.24,
+"e": 48.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 48.52,
+"e": 48.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 48.64,
+"e": 48.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "factual",
+"s": 48.8,
+"e": 49.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "background",
+"s": 49.06,
+"e": 49.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "here",
+"s": 49.58,
+"e": 49.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 49.92,
+"e": 50.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 50.08,
+"e": 50.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appellants",
+"s": 50.22,
+"e": 50.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "are",
+"s": 50.58,
+"e": 50.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 50.82,
+"e": 51.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "owners",
+"s": 51.02,
+"e": 51.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 51.26,
+"e": 51.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 51.54,
+"e": 51.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "parcel",
+"s": 51.78,
+"e": 52.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 52.0,
+"e": 52.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "real",
+"s": 52.16,
+"e": 52.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property",
+"s": 52.26,
+"e": 52.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "currently",
+"s": 52.8,
+"e": 53.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "known",
+"s": 53.58,
+"e": 53.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "as",
+"s": 53.86,
+"e": 54.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 54.1,
+"e": 54.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "27.",
+"s": 54.24,
+"e": 54.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "It",
+"s": 54.92,
+"e": 56.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "was",
+"s": 56.0,
+"e": 56.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "previously",
+"s": 56.38,
+"e": 57.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "referred",
+"s": 57.5,
+"e": 57.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 57.84,
+"e": 58.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "as",
+"s": 58.06,
+"e": 58.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 58.28,
+"e": 58.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "30,",
+"s": 58.42,
+"e": 58.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 58.9,
+"e": 59.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you",
+"s": 59.02,
+"e": 59.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 59.12,
+"e": 59.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "see",
+"s": 59.28,
+"e": 59.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 59.4,
+"e": 59.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 59.64,
+"e": 59.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Exhibit",
+"s": 59.84,
+"e": 60.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "44,",
+"s": 60.14,
+"e": 60.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "which",
+"s": 60.86,
+"e": 61.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 61.74,
+"e": 62.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 62.0,
+"e": 62.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "focal",
+"s": 62.4,
+"e": 62.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "point",
+"s": 62.74,
+"e": 63.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 63.14,
+"e": 63.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 63.52,
+"e": 63.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "primary",
+"s": 63.94,
+"e": 64.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "emphasis",
+"s": 64.22,
+"e": 64.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 64.62,
+"e": 64.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "dispute.",
+"s": 64.88,
+"e": 65.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 66.5,
+"e": 66.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 66.74,
+"e": 66.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appellee's",
+"s": 66.9,
+"e": 67.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "or",
+"s": 67.54,
+"e": 67.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "their",
+"s": 67.68,
+"e": 68.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "entities",
+"s": 68.0,
+"e": 68.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "are",
+"s": 68.68,
+"e": 69.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "owners",
+"s": 69.06,
+"e": 69.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 69.42,
+"e": 69.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 69.72,
+"e": 69.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "26.",
+"s": 69.8,
+"e": 70.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "The",
+"s": 71.84,
+"e": 72.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appellants,",
+"s": 72.14,
+"e": 72.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 72.6,
+"e": 73.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "purchased",
+"s": 73.16,
+"e": 73.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "their",
+"s": 73.46,
+"e": 73.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lot",
+"s": 73.8,
+"e": 74.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 74.06,
+"e": 74.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "1990,",
+"s": 74.48,
+"e": 75.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 75.58,
+"e": 76.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 76.48,
+"e": 76.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appellee's",
+"s": 76.72,
+"e": 77.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "purchased",
+"s": 77.94,
+"e": 78.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "their",
+"s": 78.34,
+"e": 78.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lot",
+"s": 78.68,
+"e": 79.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 79.14,
+"e": 79.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "around",
+"s": 79.94,
+"e": 80.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2018,",
+"s": 80.34,
+"e": 81.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2019.",
+"s": 81.46,
+"e": 82.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 82.96,
+"e": 83.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 83.34,
+"e": 84.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "contention",
+"s": 84.76,
+"e": 85.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 85.26,
+"e": 85.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 85.56,
+"e": 85.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 85.72,
+"e": 85.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Myers",
+"s": 85.84,
+"e": 86.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "are",
+"s": 86.02,
+"e": 86.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "making",
+"s": 86.2,
+"e": 86.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 86.46,
+"e": 86.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 86.66,
+"e": 86.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they've",
+"s": 86.84,
+"e": 87.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "adversely",
+"s": 87.16,
+"e": 87.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "possessed",
+"s": 87.66,
+"e": 88.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 88.26,
+"e": 89.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "portion",
+"s": 89.36,
+"e": 89.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 89.7,
+"e": 90.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 90.36,
+"e": 90.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "26,",
+"s": 90.64,
+"e": 91.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "which",
+"s": 91.3,
+"e": 92.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "extends",
+"s": 92.12,
+"e": 92.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "from",
+"s": 92.7,
+"e": 93.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "their",
+"s": 93.0,
+"e": 93.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "boundary",
+"s": 93.18,
+"e": 93.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "line",
+"s": 93.56,
+"e": 93.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "west",
+"s": 93.82,
+"e": 94.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "7",
+"s": 94.2,
+"e": 94.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": ".2",
+"s": 94.64,
+"e": 95.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "feet.",
+"s": 95.12,
+"e": 95.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 96.6,
+"e": 96.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 96.86,
+"e": 97.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 97.5,
+"e": 97.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "assert",
+"s": 97.64,
+"e": 98.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 98.0,
+"e": 98.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 98.28,
+"e": 98.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "adverse",
+"s": 98.5,
+"e": 98.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "possession",
+"s": 98.98,
+"e": 99.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "began",
+"s": 99.48,
+"e": 100.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "first",
+"s": 100.04,
+"e": 100.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 100.6,
+"e": 100.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "1990",
+"s": 100.82,
+"e": 101.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 101.38,
+"e": 102.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "continued",
+"s": 102.3,
+"e": 102.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "through",
+"s": 102.84,
+"e": 103.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 103.1,
+"e": 103.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "time",
+"s": 103.3,
+"e": 103.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 103.44,
+"e": 103.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 103.58,
+"e": 103.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "trial",
+"s": 103.74,
+"e": 104.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 104.06,
+"e": 105.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2021.",
+"s": 105.06,
+"e": 105.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "However,",
+"s": 106.74,
+"e": 107.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "one",
+"s": 107.64,
+"e": 107.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 107.86,
+"e": 107.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 107.96,
+"e": 108.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "main",
+"s": 108.1,
+"e": 108.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "points",
+"s": 108.36,
+"e": 108.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 108.82,
+"e": 109.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "dispute",
+"s": 109.2,
+"e": 109.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "here",
+"s": 109.64,
+"e": 110.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 110.06,
+"e": 110.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 110.7,
+"e": 111.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 111.14,
+"e": 111.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 111.52,
+"e": 111.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Myers",
+"s": 111.68,
+"e": 111.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "did",
+"s": 111.96,
+"e": 112.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "nothing",
+"s": 112.62,
+"e": 112.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "more",
+"s": 112.94,
+"e": 113.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "than",
+"s": 113.22,
+"e": 113.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mere",
+"s": 113.46,
+"e": 113.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "maintenance",
+"s": 113.68,
+"e": 114.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 114.18,
+"e": 114.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "many",
+"s": 114.54,
+"e": 114.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 114.74,
+"e": 114.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "those",
+"s": 114.88,
+"e": 115.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "years.",
+"s": 115.04,
+"e": 115.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 116.16,
+"e": 116.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would,",
+"s": 116.3,
+"e": 116.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 116.52,
+"e": 116.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "course,",
+"s": 116.62,
+"e": 116.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "dispute",
+"s": 117.02,
+"e": 117.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that.",
+"s": 117.32,
+"e": 117.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "They",
+"s": 118.34,
+"e": 118.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "did",
+"s": 118.54,
+"e": 118.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "maintain",
+"s": 118.82,
+"e": 119.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 119.88,
+"e": 120.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property.",
+"s": 120.16,
+"e": 120.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "That's",
+"s": 120.7,
+"e": 121.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "undisputed.",
+"s": 121.26,
+"e": 121.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "But",
+"s": 122.48,
+"e": 122.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 122.72,
+"e": 122.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "also",
+"s": 122.9,
+"e": 123.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "planted",
+"s": 123.2,
+"e": 123.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "trees",
+"s": 123.66,
+"e": 124.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on",
+"s": 124.24,
+"e": 124.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 124.62,
+"e": 124.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "disputed",
+"s": 124.76,
+"e": 125.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property.",
+"s": 125.12,
+"e": 125.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "They",
+"s": 126.16,
+"e": 126.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "stored",
+"s": 126.8,
+"e": 127.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "various",
+"s": 127.26,
+"e": 127.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "vehicles",
+"s": 127.84,
+"e": 128.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 128.4,
+"e": 128.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "pieces",
+"s": 128.76,
+"e": 129.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 129.02,
+"e": 129.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "equipment,",
+"s": 129.34,
+"e": 129.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 130.36,
+"e": 131.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 131.5,
+"e": 131.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "did,",
+"s": 131.68,
+"e": 131.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 131.94,
+"e": 132.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "course,",
+"s": 132.26,
+"e": 132.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mow",
+"s": 132.7,
+"e": 132.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it.",
+"s": 132.76,
+"e": 133.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 134.22,
+"e": 134.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "then",
+"s": 134.9,
+"e": 135.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 135.02,
+"e": 135.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "also",
+"s": 135.18,
+"e": 135.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "just",
+"s": 135.4,
+"e": 135.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "planted",
+"s": 135.64,
+"e": 135.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "many",
+"s": 135.96,
+"e": 136.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "different",
+"s": 136.26,
+"e": 136.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "plants",
+"s": 136.62,
+"e": 137.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 137.06,
+"e": 137.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "other",
+"s": 137.58,
+"e": 138.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "items",
+"s": 138.48,
+"e": 138.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there.",
+"s": 138.94,
+"e": 139.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Now,",
+"s": 139.36,
+"e": 139.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 140.1,
+"e": 140.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "real",
+"s": 140.82,
+"e": 141.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "significant",
+"s": 141.04,
+"e": 141.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "improvements",
+"s": 141.86,
+"e": 142.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "were",
+"s": 142.76,
+"e": 143.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "done",
+"s": 143.46,
+"e": 143.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 143.84,
+"e": 144.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "about",
+"s": 144.16,
+"e": 144.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 144.54,
+"e": 145.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "fall",
+"s": 145.0,
+"e": 145.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 145.22,
+"e": 145.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2003",
+"s": 145.5,
+"e": 146.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "or",
+"s": 146.34,
+"e": 146.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "early",
+"s": 146.62,
+"e": 146.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2004.",
+"s": 146.94,
+"e": 147.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "The",
+"s": 148.46,
+"e": 148.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "record's",
+"s": 148.56,
+"e": 148.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 148.9,
+"e": 149.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "little",
+"s": 149.02,
+"e": 149.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "bit",
+"s": 149.12,
+"e": 149.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "blurry,",
+"s": 149.28,
+"e": 149.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "but",
+"s": 150.2,
+"e": 151.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there's",
+"s": 151.12,
+"e": 151.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 151.3,
+"e": 151.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lot",
+"s": 151.44,
+"e": 151.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 151.54,
+"e": 151.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "evidence",
+"s": 151.7,
+"e": 152.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "submitted",
+"s": 152.0,
+"e": 152.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "showing",
+"s": 152.62,
+"e": 153.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 153.48,
+"e": 153.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 153.82,
+"e": 153.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "did,",
+"s": 153.98,
+"e": 154.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 154.22,
+"e": 154.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "fact,",
+"s": 154.36,
+"e": 154.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "install",
+"s": 154.88,
+"e": 155.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 155.52,
+"e": 156.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "pretty",
+"s": 156.2,
+"e": 156.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "significant",
+"s": 156.64,
+"e": 157.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "retaining",
+"s": 157.82,
+"e": 158.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "wall.",
+"s": 158.36,
+"e": 158.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 158.86,
+"e": 159.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there",
+"s": 159.48,
+"e": 159.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "was",
+"s": 159.82,
+"e": 160.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "some",
+"s": 160.0,
+"e": 160.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "different,",
+"s": 160.22,
+"e": 160.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 162.3,
+"e": 162.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "forget",
+"s": 162.68,
+"e": 162.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 162.94,
+"e": 163.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "term",
+"s": 163.1,
+"e": 163.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 163.28,
+"e": 163.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it,",
+"s": 163.52,
+"e": 163.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "but",
+"s": 163.74,
+"e": 163.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "various",
+"s": 163.88,
+"e": 164.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "structures",
+"s": 164.68,
+"e": 165.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 165.18,
+"e": 165.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "plants",
+"s": 165.46,
+"e": 165.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 165.74,
+"e": 166.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "vines",
+"s": 166.0,
+"e": 166.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 166.28,
+"e": 166.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "grow",
+"s": 166.52,
+"e": 166.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "up",
+"s": 166.72,
+"e": 166.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on.",
+"s": 166.92,
+"e": 167.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Prior",
+"s": 167.86,
+"e": 168.04,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "to",
+"s": 168.04,
+"e": 168.18,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "that",
+"s": 168.18,
+"e": 168.32,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "point,",
+"s": 168.32,
+"e": 168.66,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "prior",
+"s": 169.62,
+"e": 169.84,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "to",
+"s": 169.84,
+"e": 170.0,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "2003",
+"s": 170.0,
+"e": 171.16,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "-ish,",
+"s": 171.16,
+"e": 171.98,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "can",
+"s": 174.1,
+"e": 174.46,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "you",
+"s": 174.46,
+"e": 174.6,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "point",
+"s": 174.6,
+"e": 174.82,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "us",
+"s": 174.82,
+"e": 175.0,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "to",
+"s": 175.0,
+"e": 175.18,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "any",
+"s": 175.18,
+"e": 175.42,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "cases",
+"s": 175.42,
+"e": 175.86,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "that",
+"s": 175.86,
+"e": 176.66,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "suggest",
+"s": 176.66,
+"e": 177.08,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "routine",
+"s": 177.08,
+"e": 177.66,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "maintenance,",
+"s": 177.66,
+"e": 178.24,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "mowing,",
+"s": 179.06,
+"e": 179.24,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "trimming,",
+"s": 179.88,
+"e": 180.24,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "et",
+"s": 180.42,
+"e": 180.48,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "cetera,",
+"s": 180.48,
+"e": 181.88,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "constitutes",
+"s": 181.88,
+"e": 183.9,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "adverse",
+"s": 183.9,
+"e": 185.22,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "possession?",
+"s": 185.22,
+"e": 185.66,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "Justice,",
+"s": 186.64,
+"e": 187.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 187.64,
+"e": 188.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "do",
+"s": 188.28,
+"e": 188.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "think",
+"s": 188.48,
+"e": 188.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 188.74,
+"e": 188.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it's",
+"s": 188.92,
+"e": 189.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "fair",
+"s": 189.18,
+"e": 189.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 189.38,
+"e": 189.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "say",
+"s": 189.68,
+"e": 189.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 189.96,
+"e": 190.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you",
+"s": 190.28,
+"e": 190.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "need",
+"s": 190.66,
+"e": 190.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "something",
+"s": 190.86,
+"e": 191.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "more",
+"s": 191.24,
+"e": 191.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "than",
+"s": 191.62,
+"e": 191.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "routine",
+"s": 191.86,
+"e": 192.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "maintenance",
+"s": 192.26,
+"e": 192.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "generally.",
+"s": 192.72,
+"e": 193.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Obviously,",
+"s": 194.64,
+"e": 195.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 195.6,
+"e": 195.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "analysis",
+"s": 195.8,
+"e": 196.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 196.6,
+"e": 197.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mostly",
+"s": 197.06,
+"e": 197.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 197.5,
+"e": 197.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "line",
+"s": 197.74,
+"e": 197.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "with",
+"s": 197.92,
+"e": 198.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 198.24,
+"e": 198.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "notoriousness",
+"s": 198.72,
+"e": 200.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 200.0,
+"e": 200.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 200.38,
+"e": 200.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "adverse",
+"s": 200.58,
+"e": 200.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "possession",
+"s": 200.88,
+"e": 201.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 201.46,
+"e": 202.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 202.16,
+"e": 202.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you",
+"s": 202.3,
+"e": 202.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "need",
+"s": 202.48,
+"e": 202.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 202.64,
+"e": 202.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "put",
+"s": 202.86,
+"e": 203.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 203.06,
+"e": 203.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "actual",
+"s": 203.48,
+"e": 204.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "owner",
+"s": 204.0,
+"e": 204.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on",
+"s": 204.38,
+"e": 205.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "notice",
+"s": 205.0,
+"e": 205.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 205.44,
+"e": 205.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you're",
+"s": 205.74,
+"e": 206.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "laying",
+"s": 206.48,
+"e": 206.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "claim",
+"s": 206.76,
+"e": 207.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 207.12,
+"e": 207.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "their",
+"s": 207.36,
+"e": 207.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "piece",
+"s": 207.5,
+"e": 207.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 207.7,
+"e": 207.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property.",
+"s": 207.94,
+"e": 208.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "But",
+"s": 208.32,
+"e": 209.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 209.02,
+"e": 209.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "think",
+"s": 209.28,
+"e": 209.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 209.48,
+"e": 209.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "facts",
+"s": 209.68,
+"e": 209.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "here",
+"s": 209.96,
+"e": 210.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "can",
+"s": 210.46,
+"e": 211.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "be",
+"s": 211.5,
+"e": 211.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "distinguished",
+"s": 211.7,
+"e": 212.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 212.22,
+"e": 212.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 212.5,
+"e": 212.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "not",
+"s": 212.86,
+"e": 213.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "only",
+"s": 213.6,
+"e": 213.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 213.84,
+"e": 214.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Kortmeyers",
+"s": 214.06,
+"e": 214.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 214.64,
+"e": 215.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 215.48,
+"e": 215.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Apolles,",
+"s": 215.7,
+"e": 216.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "but",
+"s": 216.3,
+"e": 216.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "also",
+"s": 216.42,
+"e": 216.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "their",
+"s": 216.72,
+"e": 216.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "predecessors",
+"s": 216.96,
+"e": 217.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 217.46,
+"e": 217.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "interests,",
+"s": 217.74,
+"e": 218.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 218.12,
+"e": 218.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "evidence",
+"s": 218.24,
+"e": 218.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 218.5,
+"e": 218.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "show",
+"s": 218.74,
+"e": 219.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 219.08,
+"e": 219.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "all",
+"s": 219.74,
+"e": 220.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 220.24,
+"e": 220.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "those",
+"s": 220.4,
+"e": 220.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "parties",
+"s": 220.56,
+"e": 220.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "believe",
+"s": 220.94,
+"e": 221.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 221.34,
+"e": 221.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 221.56,
+"e": 221.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Kortmeyers",
+"s": 221.74,
+"e": 222.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "did,",
+"s": 222.24,
+"e": 222.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 222.52,
+"e": 222.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "fact,",
+"s": 222.7,
+"e": 222.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "own",
+"s": 223.22,
+"e": 223.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "this",
+"s": 223.42,
+"e": 224.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "piece",
+"s": 224.16,
+"e": 224.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 224.36,
+"e": 224.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property.",
+"s": 224.64,
+"e": 224.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "So",
+"s": 224.94,
+"e": 225.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 225.1,
+"e": 225.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "think",
+"s": 225.22,
+"e": 225.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 225.52,
+"e": 226.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "light",
+"s": 226.1,
+"e": 226.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 226.38,
+"e": 226.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that,",
+"s": 226.62,
+"e": 226.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 227.14,
+"e": 227.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "notorious",
+"s": 227.32,
+"e": 228.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "element",
+"s": 228.08,
+"e": 228.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 228.7,
+"e": 228.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "be",
+"s": 228.92,
+"e": 229.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "met",
+"s": 229.1,
+"e": 229.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 229.88,
+"e": 230.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "viewing",
+"s": 230.5,
+"e": 230.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it",
+"s": 230.82,
+"e": 231.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "like",
+"s": 231.04,
+"e": 231.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 231.18,
+"e": 231.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "because",
+"s": 231.48,
+"e": 231.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 231.7,
+"e": 232.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "actual",
+"s": 232.1,
+"e": 232.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "owner",
+"s": 232.5,
+"e": 232.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "did,",
+"s": 232.96,
+"e": 233.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 233.8,
+"e": 233.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "fact,",
+"s": 233.96,
+"e": 234.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "believe",
+"s": 234.34,
+"e": 234.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 234.68,
+"e": 234.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 234.92,
+"e": 235.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Kortmeyers",
+"s": 235.12,
+"e": 235.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "owned",
+"s": 235.5,
+"e": 235.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it.",
+"s": 235.84,
+"e": 236.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 236.1,
+"e": 236.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "so",
+"s": 236.54,
+"e": 236.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 236.68,
+"e": 236.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "must",
+"s": 236.84,
+"e": 237.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "have",
+"s": 237.06,
+"e": 237.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "been",
+"s": 237.24,
+"e": 237.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "doing",
+"s": 237.42,
+"e": 237.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "enough",
+"s": 237.6,
+"e": 238.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 238.14,
+"e": 238.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "show",
+"s": 238.44,
+"e": 238.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that.",
+"s": 238.7,
+"e": 239.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 240.98,
+"e": 241.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 241.16,
+"e": 241.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 241.74,
+"e": 241.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "also",
+"s": 241.86,
+"e": 242.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "submit",
+"s": 242.38,
+"e": 243.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 243.3,
+"e": 243.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 243.64,
+"e": 243.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court...",
+"s": 243.84,
+"e": 244.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "If",
+"s": 244.22,
+"e": 244.22,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "it's",
+"s": 244.22,
+"e": 244.4,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "a",
+"s": 244.4,
+"e": 244.46,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "mistaken",
+"s": 244.46,
+"e": 244.78,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "fact,",
+"s": 244.78,
+"e": 245.26,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "is",
+"s": 245.46,
+"e": 245.5,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "it",
+"s": 245.5,
+"e": 245.74,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "open",
+"s": 245.74,
+"e": 245.92,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "and",
+"s": 245.92,
+"e": 246.04,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "notorious?",
+"s": 246.04,
+"e": 246.48,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "If",
+"s": 248.34,
+"e": 248.9,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "they",
+"s": 248.9,
+"e": 249.46,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "thought",
+"s": 249.46,
+"e": 249.74,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "they",
+"s": 249.74,
+"e": 250.02,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "owned",
+"s": 250.02,
+"e": 250.34,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "that,",
+"s": 250.34,
+"e": 250.68,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "how",
+"s": 251.38,
+"e": 251.6,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "is",
+"s": 251.6,
+"e": 251.72,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "that",
+"s": 251.72,
+"e": 251.88,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "open",
+"s": 251.88,
+"e": 252.1,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "and",
+"s": 252.1,
+"e": 252.32,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "notorious?",
+"s": 252.32,
+"e": 252.74,
+"speaker": "JUSTICE (NEBRASKA SUPREME COURT)"
+},
+{
+"w": "Yes,",
+"s": 254.16,
+"e": 254.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Justice,",
+"s": 254.56,
+"e": 254.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there",
+"s": 255.12,
+"e": 255.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 255.26,
+"e": 255.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case",
+"s": 255.64,
+"e": 256.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "law",
+"s": 256.26,
+"e": 256.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and...",
+"s": 256.74,
+"e": 258.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Metinbrink",
+"s": 259.44,
+"e": 260.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 260.12,
+"e": 260.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "also",
+"s": 260.46,
+"e": 260.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Petch",
+"s": 260.88,
+"e": 261.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "v.",
+"s": 261.48,
+"e": 261.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Widger.",
+"s": 262.42,
+"e": 262.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "It's",
+"s": 263.14,
+"e": 263.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 263.32,
+"e": 263.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "1997",
+"s": 263.46,
+"e": 264.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case",
+"s": 264.04,
+"e": 264.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 264.54,
+"e": 264.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 264.98,
+"e": 265.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "latter",
+"s": 265.44,
+"e": 265.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 265.72,
+"e": 265.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 265.94,
+"e": 266.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "1983",
+"s": 266.12,
+"e": 266.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case.",
+"s": 266.94,
+"e": 267.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "It's",
+"s": 268.02,
+"e": 268.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 268.12,
+"e": 268.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 268.26,
+"e": 268.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "intent",
+"s": 268.42,
+"e": 268.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "satisfies",
+"s": 268.74,
+"e": 269.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 269.46,
+"e": 269.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "hostile",
+"s": 269.78,
+"e": 270.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "or",
+"s": 270.12,
+"e": 270.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "adverse",
+"s": 270.34,
+"e": 270.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "requirement,",
+"s": 270.68,
+"e": 271.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 271.64,
+"e": 272.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "an",
+"s": 272.36,
+"e": 272.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "adverse",
+"s": 272.54,
+"e": 272.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "possessor",
+"s": 272.84,
+"e": 273.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "can",
+"s": 273.32,
+"e": 273.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "succeed",
+"s": 273.6,
+"e": 273.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 273.98,
+"e": 274.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "his",
+"s": 274.18,
+"e": 274.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "claim",
+"s": 274.34,
+"e": 274.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "even",
+"s": 274.56,
+"e": 274.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "if",
+"s": 274.88,
+"e": 275.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "he",
+"s": 275.08,
+"e": 275.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "or",
+"s": 275.22,
+"e": 275.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "she",
+"s": 275.34,
+"e": 275.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "doesn't",
+"s": 275.5,
+"e": 275.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "know",
+"s": 275.82,
+"e": 276.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 276.16,
+"e": 276.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they're",
+"s": 276.74,
+"e": 277.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "actually",
+"s": 277.0,
+"e": 277.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "adversely",
+"s": 277.38,
+"e": 278.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "possessing",
+"s": 278.46,
+"e": 279.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 279.28,
+"e": 280.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "piece",
+"s": 280.2,
+"e": 280.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 280.42,
+"e": 280.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "disputed",
+"s": 280.62,
+"e": 281.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property.",
+"s": 281.06,
+"e": 281.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "It",
+"s": 283.24,
+"e": 283.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 283.92,
+"e": 284.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 284.1,
+"e": 284.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "bit",
+"s": 284.22,
+"e": 284.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "nuanced,",
+"s": 284.38,
+"e": 284.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 284.84,
+"e": 285.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 285.16,
+"e": 285.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "agree.",
+"s": 285.26,
+"e": 285.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "However,",
+"s": 286.7,
+"e": 287.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "if",
+"s": 287.64,
+"e": 287.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "all",
+"s": 287.88,
+"e": 288.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 288.32,
+"e": 288.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 288.5,
+"e": 288.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "parties",
+"s": 288.66,
+"e": 288.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "believe",
+"s": 288.96,
+"e": 289.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 289.38,
+"e": 289.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 289.64,
+"e": 289.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "owned",
+"s": 289.8,
+"e": 290.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it,",
+"s": 290.1,
+"e": 290.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 290.54,
+"e": 290.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mean,",
+"s": 290.54,
+"e": 290.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "hasn't",
+"s": 290.74,
+"e": 290.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there",
+"s": 290.98,
+"e": 291.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "been",
+"s": 291.16,
+"e": 291.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "sufficient",
+"s": 291.34,
+"e": 291.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "notice?",
+"s": 291.86,
+"e": 292.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "That",
+"s": 293.22,
+"e": 293.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 293.6,
+"e": 293.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "be",
+"s": 293.76,
+"e": 293.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "what",
+"s": 293.96,
+"e": 294.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 294.16,
+"e": 294.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 294.26,
+"e": 294.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "posit",
+"s": 294.4,
+"e": 294.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 294.72,
+"e": 294.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 294.96,
+"e": 295.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court.",
+"s": 295.12,
+"e": 295.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Of",
+"s": 296.28,
+"e": 296.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "course,",
+"s": 296.88,
+"e": 297.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "most",
+"s": 297.88,
+"e": 298.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 298.3,
+"e": 298.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "this",
+"s": 298.46,
+"e": 298.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "argument",
+"s": 298.62,
+"e": 299.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lies",
+"s": 299.1,
+"e": 299.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "before",
+"s": 299.58,
+"e": 300.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 300.28,
+"e": 301.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "time",
+"s": 301.22,
+"e": 301.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "period",
+"s": 301.54,
+"e": 301.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "beginning",
+"s": 301.96,
+"e": 302.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 302.36,
+"e": 302.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2003",
+"s": 302.84,
+"e": 303.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "or",
+"s": 303.74,
+"e": 304.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "early",
+"s": 304.04,
+"e": 304.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2004",
+"s": 304.32,
+"e": 305.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "with",
+"s": 305.1,
+"e": 305.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 305.44,
+"e": 305.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "significant",
+"s": 305.64,
+"e": 306.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "improvements.",
+"s": 306.1,
+"e": 306.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Mr.",
+"s": 307.18,
+"e": 307.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Waichman,",
+"s": 307.32,
+"e": 307.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there",
+"s": 307.66,
+"e": 307.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "was",
+"s": 307.76,
+"e": 307.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 307.92,
+"e": 308.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "period",
+"s": 308.06,
+"e": 308.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 308.22,
+"e": 308.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "time",
+"s": 308.38,
+"e": 308.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "where",
+"s": 308.58,
+"e": 308.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "your",
+"s": 308.84,
+"e": 309.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "clients",
+"s": 309.2,
+"e": 309.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "began",
+"s": 309.46,
+"e": 309.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "paying",
+"s": 309.8,
+"e": 310.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "rent",
+"s": 310.16,
+"e": 310.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "with",
+"s": 310.76,
+"e": 311.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 311.5,
+"e": 311.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "26.",
+"s": 311.74,
+"e": 312.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "When",
+"s": 313.58,
+"e": 313.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "did",
+"s": 313.92,
+"e": 314.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 314.12,
+"e": 314.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "happen?",
+"s": 314.34,
+"e": 314.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "So",
+"s": 314.66,
+"e": 315.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 315.48,
+"e": 316.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 316.04,
+"e": 316.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "generally",
+"s": 316.22,
+"e": 316.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "dispute",
+"s": 316.62,
+"e": 317.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 317.04,
+"e": 317.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they've",
+"s": 317.24,
+"e": 317.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "ever",
+"s": 317.62,
+"e": 317.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "paid",
+"s": 317.92,
+"e": 318.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "rent",
+"s": 318.32,
+"e": 318.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 318.92,
+"e": 319.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 319.52,
+"e": 319.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "true",
+"s": 319.66,
+"e": 319.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "sense",
+"s": 319.9,
+"e": 320.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 320.2,
+"e": 320.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 320.36,
+"e": 320.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "word",
+"s": 320.46,
+"e": 320.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 320.68,
+"e": 320.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "use",
+"s": 320.9,
+"e": 321.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 321.3,
+"e": 321.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "quote",
+"s": 321.9,
+"e": 322.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "from",
+"s": 322.22,
+"e": 322.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 322.54,
+"e": 322.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 322.7,
+"e": 322.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 322.84,
+"e": 323.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appeals",
+"s": 323.12,
+"e": 323.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 323.46,
+"e": 324.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Exhibit",
+"s": 324.44,
+"e": 324.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "44.",
+"s": 324.78,
+"e": 325.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 326.4,
+"e": 326.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "think",
+"s": 326.62,
+"e": 326.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "what",
+"s": 326.9,
+"e": 327.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 327.1,
+"e": 327.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 327.28,
+"e": 327.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 327.42,
+"e": 327.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appeals",
+"s": 327.54,
+"e": 327.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "has",
+"s": 327.88,
+"e": 328.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "said",
+"s": 328.18,
+"e": 328.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 328.52,
+"e": 329.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 329.08,
+"e": 329.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 329.38,
+"e": 329.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "have",
+"s": 329.64,
+"e": 329.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "actually",
+"s": 329.82,
+"e": 330.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "ordered",
+"s": 330.26,
+"e": 331.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 331.14,
+"e": 331.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 331.38,
+"e": 331.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "pay",
+"s": 331.54,
+"e": 331.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 331.92,
+"e": 332.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "sum",
+"s": 332.3,
+"e": 332.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 332.62,
+"e": 332.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "services.",
+"s": 332.94,
+"e": 333.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 334.58,
+"e": 334.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "so",
+"s": 334.7,
+"e": 334.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "what",
+"s": 334.96,
+"e": 335.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 335.3,
+"e": 335.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "very",
+"s": 335.48,
+"e": 335.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "nuanced",
+"s": 335.74,
+"e": 336.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 336.08,
+"e": 336.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "interesting",
+"s": 336.36,
+"e": 336.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "about",
+"s": 336.7,
+"e": 337.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 337.02,
+"e": 337.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 337.36,
+"e": 337.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 337.6,
+"e": 337.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court",
+"s": 337.82,
+"e": 337.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mayers",
+"s": 337.98,
+"e": 338.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "own",
+"s": 338.38,
+"e": 338.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 338.76,
+"e": 339.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lot",
+"s": 339.38,
+"e": 339.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 339.54,
+"e": 339.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 339.8,
+"e": 340.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "trailer",
+"s": 340.0,
+"e": 340.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on",
+"s": 340.28,
+"e": 340.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 340.78,
+"e": 340.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "27.",
+"s": 340.98,
+"e": 341.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "But",
+"s": 341.46,
+"e": 342.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on",
+"s": 342.2,
+"e": 342.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 342.4,
+"e": 342.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "26,",
+"s": 342.5,
+"e": 343.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 343.16,
+"e": 343.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "only",
+"s": 343.38,
+"e": 343.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "own",
+"s": 343.68,
+"e": 343.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 343.88,
+"e": 344.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "trailer,",
+"s": 344.14,
+"e": 344.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "not",
+"s": 344.84,
+"e": 345.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 345.12,
+"e": 345.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lot.",
+"s": 345.34,
+"e": 345.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Now,",
+"s": 346.16,
+"e": 346.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 346.42,
+"e": 346.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "pay",
+"s": 346.74,
+"e": 346.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 346.98,
+"e": 347.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "same",
+"s": 347.22,
+"e": 347.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "sum",
+"s": 347.5,
+"e": 348.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 348.02,
+"e": 348.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "both",
+"s": 348.76,
+"e": 349.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "parcels,",
+"s": 349.08,
+"e": 349.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "if",
+"s": 349.66,
+"e": 349.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you",
+"s": 349.9,
+"e": 350.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "will.",
+"s": 350.06,
+"e": 350.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 351.02,
+"e": 351.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "so",
+"s": 351.18,
+"e": 351.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there's",
+"s": 351.36,
+"e": 351.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "not",
+"s": 351.56,
+"e": 351.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "any",
+"s": 351.76,
+"e": 352.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "consideration",
+"s": 352.44,
+"e": 353.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "assigned",
+"s": 353.32,
+"e": 353.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 353.98,
+"e": 354.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 354.48,
+"e": 355.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "actual",
+"s": 355.14,
+"e": 355.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lease",
+"s": 355.5,
+"e": 356.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 356.06,
+"e": 356.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "any",
+"s": 356.52,
+"e": 356.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property.",
+"s": 356.82,
+"e": 357.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "The",
+"s": 357.82,
+"e": 357.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "trial",
+"s": 357.98,
+"e": 358.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court",
+"s": 358.2,
+"e": 358.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "seemed",
+"s": 358.5,
+"e": 358.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 358.76,
+"e": 359.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "hold",
+"s": 359.74,
+"e": 360.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on",
+"s": 360.58,
+"e": 360.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 360.78,
+"e": 360.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 360.92,
+"e": 361.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "evidence,",
+"s": 361.34,
+"e": 362.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "suggesting",
+"s": 362.78,
+"e": 363.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 363.3,
+"e": 363.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you",
+"s": 363.52,
+"e": 363.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "cannot",
+"s": 363.64,
+"e": 364.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "take",
+"s": 364.55,
+"e": 365.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property",
+"s": 365.66,
+"e": 366.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "from",
+"s": 366.48,
+"e": 366.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 366.74,
+"e": 366.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "landlord.",
+"s": 366.94,
+"e": 367.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "They",
+"s": 368.24,
+"e": 368.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "did,",
+"s": 368.84,
+"e": 369.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 369.42,
+"e": 369.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 369.42,
+"e": 369.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 369.58,
+"e": 369.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "assign",
+"s": 369.72,
+"e": 370.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "error",
+"s": 370.08,
+"e": 370.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 370.32,
+"e": 370.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that,",
+"s": 370.54,
+"e": 370.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Justice.",
+"s": 371.38,
+"e": 371.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "In",
+"s": 371.44,
+"e": 371.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "what",
+"s": 371.62,
+"e": 371.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "way?",
+"s": 371.78,
+"e": 372.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Well,",
+"s": 372.94,
+"e": 373.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 373.46,
+"e": 373.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "think",
+"s": 373.52,
+"e": 373.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "first",
+"s": 373.78,
+"e": 374.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "off,",
+"s": 374.42,
+"e": 374.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 375.18,
+"e": 375.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "contract",
+"s": 375.3,
+"e": 376.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 376.26,
+"e": 377.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Exhibit",
+"s": 377.26,
+"e": 377.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "44",
+"s": 377.62,
+"e": 378.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "shows,",
+"s": 378.18,
+"e": 379.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it",
+"s": 379.68,
+"e": 379.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "was",
+"s": 379.86,
+"e": 380.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 380.04,
+"e": 380.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "contract",
+"s": 380.32,
+"e": 380.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "implied",
+"s": 380.72,
+"e": 381.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "at",
+"s": 381.1,
+"e": 381.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "law,",
+"s": 381.38,
+"e": 381.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "so",
+"s": 381.66,
+"e": 381.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it",
+"s": 381.82,
+"e": 381.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "required",
+"s": 381.94,
+"e": 382.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 382.32,
+"e": 382.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "meeting",
+"s": 382.56,
+"e": 382.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 382.7,
+"e": 383.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "minds.",
+"s": 383.0,
+"e": 383.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 383.96,
+"e": 384.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "if",
+"s": 384.12,
+"e": 384.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 384.32,
+"e": 384.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court",
+"s": 384.58,
+"e": 384.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mayers",
+"s": 384.72,
+"e": 385.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 385.16,
+"e": 385.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 385.64,
+"e": 385.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "predecessor",
+"s": 385.86,
+"e": 386.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 386.18,
+"e": 386.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "interest",
+"s": 386.6,
+"e": 386.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "had",
+"s": 386.86,
+"e": 387.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 387.12,
+"e": 387.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "meeting",
+"s": 387.28,
+"e": 387.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 387.42,
+"e": 387.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "minds,",
+"s": 387.68,
+"e": 388.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "but",
+"s": 388.42,
+"e": 388.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "neither",
+"s": 388.62,
+"e": 388.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "party",
+"s": 388.92,
+"e": 389.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "thought",
+"s": 389.44,
+"e": 389.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 389.88,
+"e": 390.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 390.84,
+"e": 391.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "predecessor",
+"s": 391.64,
+"e": 392.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 392.02,
+"e": 392.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "interest",
+"s": 392.32,
+"e": 392.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "owned",
+"s": 392.64,
+"e": 393.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 393.12,
+"e": 393.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "disputed",
+"s": 393.38,
+"e": 393.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property,",
+"s": 393.78,
+"e": 394.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "well,",
+"s": 394.36,
+"e": 394.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "then",
+"s": 395.0,
+"e": 395.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "how",
+"s": 395.1,
+"e": 395.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "could",
+"s": 395.28,
+"e": 395.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 395.5,
+"e": 395.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court",
+"s": 395.66,
+"e": 395.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mayers",
+"s": 395.82,
+"e": 396.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "have",
+"s": 396.24,
+"e": 396.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "actually",
+"s": 396.48,
+"e": 396.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "leased",
+"s": 396.86,
+"e": 397.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it,",
+"s": 397.2,
+"e": 397.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "even",
+"s": 397.48,
+"e": 397.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "if",
+"s": 397.76,
+"e": 397.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you",
+"s": 397.96,
+"e": 398.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "assume",
+"s": 398.12,
+"e": 398.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 398.54,
+"e": 399.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 399.3,
+"e": 399.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "are",
+"s": 399.46,
+"e": 399.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "paying",
+"s": 399.68,
+"e": 400.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "some",
+"s": 400.1,
+"e": 400.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "sum",
+"s": 400.44,
+"e": 400.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "or",
+"s": 400.78,
+"e": 401.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 401.06,
+"e": 401.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there's",
+"s": 401.26,
+"e": 401.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 401.62,
+"e": 401.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "leasehood",
+"s": 401.88,
+"e": 402.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "involved?",
+"s": 402.3,
+"e": 403.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 404.26,
+"e": 404.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would,",
+"s": 404.32,
+"e": 404.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 404.58,
+"e": 404.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "course,",
+"s": 404.58,
+"e": 404.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "dispute",
+"s": 404.94,
+"e": 405.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 405.2,
+"e": 405.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there",
+"s": 405.42,
+"e": 405.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 405.56,
+"e": 405.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 405.7,
+"e": 405.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lease",
+"s": 405.86,
+"e": 406.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "involved",
+"s": 406.06,
+"e": 406.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "at",
+"s": 406.42,
+"e": 406.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "all",
+"s": 406.64,
+"e": 406.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 406.92,
+"e": 407.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 407.2,
+"e": 407.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they",
+"s": 407.36,
+"e": 407.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "were",
+"s": 407.5,
+"e": 407.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "just",
+"s": 407.62,
+"e": 407.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "paying",
+"s": 407.78,
+"e": 408.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 408.0,
+"e": 408.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mere",
+"s": 408.24,
+"e": 408.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "services,",
+"s": 408.46,
+"e": 409.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "especially",
+"s": 409.72,
+"e": 410.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "since",
+"s": 410.16,
+"e": 410.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there's",
+"s": 410.4,
+"e": 410.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "not",
+"s": 410.62,
+"e": 410.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "consideration",
+"s": 410.78,
+"e": 411.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "assigned",
+"s": 411.5,
+"e": 411.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 411.92,
+"e": 412.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it.",
+"s": 412.2,
+"e": 412.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "But",
+"s": 412.48,
+"e": 412.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "especially",
+"s": 412.62,
+"e": 413.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "when",
+"s": 413.48,
+"e": 413.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you",
+"s": 413.68,
+"e": 413.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "view",
+"s": 413.84,
+"e": 414.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "it",
+"s": 414.0,
+"e": 414.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 414.16,
+"e": 414.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "light",
+"s": 414.36,
+"e": 414.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 414.6,
+"e": 414.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 414.88,
+"e": 415.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "fact",
+"s": 415.02,
+"e": 415.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 415.24,
+"e": 415.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there",
+"s": 415.48,
+"e": 415.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "needs",
+"s": 415.68,
+"e": 416.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 416.24,
+"e": 416.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "be",
+"s": 416.4,
+"e": 416.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "a",
+"s": 416.52,
+"e": 416.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "meeting",
+"s": 416.68,
+"e": 416.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 416.8,
+"e": 416.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 416.94,
+"e": 417.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "minds,",
+"s": 417.1,
+"e": 417.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "how",
+"s": 417.8,
+"e": 418.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "could",
+"s": 418.22,
+"e": 418.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "there",
+"s": 418.4,
+"e": 418.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "be",
+"s": 418.52,
+"e": 418.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 418.72,
+"e": 419.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "if",
+"s": 419.06,
+"e": 419.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "both",
+"s": 419.36,
+"e": 419.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "parties",
+"s": 419.54,
+"e": 420.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "thought",
+"s": 420.08,
+"e": 420.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 420.7,
+"e": 420.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 420.9,
+"e": 421.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court",
+"s": 421.08,
+"e": 421.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mayers",
+"s": 421.26,
+"e": 421.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "owned",
+"s": 421.58,
+"e": 421.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 421.9,
+"e": 422.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "disputed",
+"s": 422.12,
+"e": 422.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "property?",
+"s": 422.5,
+"e": 423.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Did",
+"s": 423.0,
+"e": 423.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 423.72,
+"e": 423.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 423.88,
+"e": 424.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 424.0,
+"e": 424.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appeals",
+"s": 424.16,
+"e": 424.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "discussion",
+"s": 424.36,
+"e": 424.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "about",
+"s": 424.96,
+"e": 425.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 425.82,
+"e": 426.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "26",
+"s": 426.52,
+"e": 427.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 427.14,
+"e": 427.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 427.92,
+"e": 428.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "fees",
+"s": 428.22,
+"e": 428.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 428.84,
+"e": 429.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 429.04,
+"e": 429.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court",
+"s": 429.18,
+"e": 429.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mayers",
+"s": 429.3,
+"e": 429.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "were",
+"s": 429.52,
+"e": 429.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "paying",
+"s": 429.66,
+"e": 429.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 429.82,
+"e": 430.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 430.0,
+"e": 430.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "26",
+"s": 430.14,
+"e": 430.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "being",
+"s": 430.64,
+"e": 430.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 430.94,
+"e": 431.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "utilities",
+"s": 431.14,
+"e": 431.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "develop",
+"s": 433.48,
+"e": 434.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "from",
+"s": 434.0,
+"e": 434.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "evidence",
+"s": 434.36,
+"e": 434.8,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 434.8,
+"e": 435.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "this",
+"s": 435.24,
+"e": 435.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case,",
+"s": 435.44,
+"e": 435.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "or",
+"s": 436.34,
+"e": 436.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "was",
+"s": 436.7,
+"e": 436.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 436.98,
+"e": 437.24,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "based",
+"s": 437.24,
+"e": 437.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on",
+"s": 437.66,
+"e": 438.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 438.16,
+"e": 438.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2013",
+"s": 438.72,
+"e": 439.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case?",
+"s": 439.38,
+"e": 440.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Justice,",
+"s": 441.88,
+"e": 441.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "when",
+"s": 442.02,
+"e": 442.2,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you're",
+"s": 442.2,
+"e": 442.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "referring",
+"s": 442.34,
+"e": 442.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 442.62,
+"e": 442.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 442.78,
+"e": 442.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Court",
+"s": 442.94,
+"e": 443.06,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 443.06,
+"e": 443.28,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Appeals,",
+"s": 443.28,
+"e": 443.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "are",
+"s": 443.56,
+"e": 443.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you",
+"s": 443.64,
+"e": 443.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "referring",
+"s": 443.76,
+"e": 444.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 444.14,
+"e": 444.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 444.38,
+"e": 444.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "lower",
+"s": 444.74,
+"e": 444.98,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court",
+"s": 444.98,
+"e": 445.36,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 445.36,
+"e": 445.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "this",
+"s": 445.56,
+"e": 445.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case?",
+"s": 445.74,
+"e": 446.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Yes.",
+"s": 446.6,
+"e": 446.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I'm",
+"s": 447.04,
+"e": 447.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "asking",
+"s": 447.12,
+"e": 447.12,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 447.12,
+"e": 447.3,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "question.",
+"s": 447.3,
+"e": 447.68,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "I",
+"s": 449.5,
+"e": 450.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "would",
+"s": 450.14,
+"e": 450.78,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "say",
+"s": 450.78,
+"e": 451.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 451.0,
+"e": 451.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they're",
+"s": 451.22,
+"e": 451.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "primarily",
+"s": 451.56,
+"e": 452.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "referring",
+"s": 452.08,
+"e": 452.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 452.58,
+"e": 453.04,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "evidence",
+"s": 453.04,
+"e": 453.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 453.58,
+"e": 453.84,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "this",
+"s": 453.84,
+"e": 454.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case",
+"s": 454.0,
+"e": 454.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "by",
+"s": 454.26,
+"e": 454.5,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "way",
+"s": 454.5,
+"e": 454.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "of",
+"s": 454.76,
+"e": 455.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Exhibit",
+"s": 455.08,
+"e": 455.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "44,",
+"s": 455.44,
+"e": 456.08,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "but",
+"s": 456.76,
+"e": 457.4,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "they're",
+"s": 457.4,
+"e": 457.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "taking",
+"s": 457.88,
+"e": 458.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 458.32,
+"e": 458.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "language",
+"s": 458.58,
+"e": 458.92,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "from",
+"s": 458.92,
+"e": 459.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 459.26,
+"e": 459.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "order",
+"s": 459.52,
+"e": 459.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "in",
+"s": 459.88,
+"e": 460.62,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "order",
+"s": 460.62,
+"e": 460.88,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 460.88,
+"e": 461.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "make",
+"s": 461.42,
+"e": 462.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "their",
+"s": 462.38,
+"e": 462.6,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "ruling",
+"s": 462.6,
+"e": 463.0,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "on",
+"s": 463.0,
+"e": 463.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "this",
+"s": 463.32,
+"e": 463.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case.",
+"s": 463.54,
+"e": 463.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "The",
+"s": 464.34,
+"e": 464.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "order",
+"s": 464.46,
+"e": 464.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "you're",
+"s": 464.7,
+"e": 464.86,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "referring",
+"s": 464.86,
+"e": 465.18,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 465.18,
+"e": 465.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "is",
+"s": 465.44,
+"e": 465.58,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 465.58,
+"e": 465.74,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2013",
+"s": 465.74,
+"e": 466.56,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "case?",
+"s": 466.56,
+"e": 467.66,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "That's",
+"s": 467.92,
+"e": 468.16,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "correct.",
+"s": 468.16,
+"e": 468.44,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "And",
+"s": 468.66,
+"e": 469.02,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that's",
+"s": 469.02,
+"e": 469.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 469.32,
+"e": 469.46,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "order",
+"s": 469.46,
+"e": 469.72,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 469.72,
+"e": 470.26,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "specifies",
+"s": 470.26,
+"e": 470.9,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "that",
+"s": 470.9,
+"e": 471.32,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "the",
+"s": 471.32,
+"e": 471.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "court",
+"s": 471.48,
+"e": 471.64,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "mayers",
+"s": 471.64,
+"e": 471.96,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "were",
+"s": 471.96,
+"e": 472.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "ordered",
+"s": 472.14,
+"e": 472.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "to",
+"s": 472.34,
+"e": 472.54,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "pay",
+"s": 472.54,
+"e": 472.7,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "for",
+"s": 472.7,
+"e": 472.94,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "services",
+"s": 472.94,
+"e": 473.42,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "from",
+"s": 473.42,
+"e": 474.22,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "2009",
+"s": 474.22,
+"e": 475.14,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "and",
+"s": 475.14,
+"e": 475.82,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "thereafter.",
+"s": 475.82,
+"e": 476.38,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "For",
+"s": 477.11,
+"e": 477.52,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 477.52,
+"e": 477.76,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "26.",
+"s": 477.76,
+"e": 478.34,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "For",
+"s": 478.6,
+"e": 479.1,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "Lot",
+"s": 479.1,
+"e": 479.48,
+"speaker": "MR. WAKEMAN"
+},
+{
+"w": "26.",
+"s": 479.48,
+"e": 479.92,
+"speaker": "MR. WAKEMAN"
+}
+]
