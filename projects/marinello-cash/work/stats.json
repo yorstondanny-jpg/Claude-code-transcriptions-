@@ -1,0 +1,447 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 858.314,
+   "next": 858.314,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "think a lot of people do that? I mean, you've got three children and they say they've got five? In my experience -- well, in any case -- Well, your experience because --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 865.58,
+   "next": 865.58,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "Well, your experience because -- -- experience -- I -- I was responding to Justice -- I mean, people who get caught come to you. So, in your experience, you see a lot of them.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 878.0,
+   "next": 879.68,
+   "speaker": "MR. HELLMAN",
+   "before": "them. Right. There may be a category problem there. I -- I agree. Yeah, there are people who list their dogs as dependents. Well, I'll defer to Justice Ginsburg on that.",
+   "pause": 1.68,
+   "loud_s": 1.55,
+   "mean_over": 33.5,
+   "peak_over": 38.1,
+   "size": "big"
+  },
+  {
+   "t": 1391.08,
+   "next": 1391.08,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "than merely passively receiving taxes. Well, and, of course, all of the conduct or omissions in this case are not in that context. Correct. So -- It's -- it's a friendly amendment.",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1470.92,
+   "next": 1471.25,
+   "speaker": "MR. HELLMAN",
+   "before": "your proposal, but in any case, the -- the key part is unless there's a proceeding -- You just helped the government a lot with that statement. I hope I did not.",
+   "pause": 0.33,
+   "loud_s": 0.0,
+   "mean_over": 4.7,
+   "peak_over": 5.3,
+   "size": "small"
+  },
+  {
+   "t": 1633.46,
+   "next": 1633.46,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "a federal felon. Well -- For my -- for my friend's son's snow shoveling business. Well, I -- Right? I think that that -- I mean, the answer is yes, I think, isn't it?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1684.48,
+   "next": 1684.48,
+   "speaker": "JUSTICE BREYER",
+   "before": "keeping records, failure to keep records -- Right. -- that you didn't -- that aren't lawfully obliged to be kept. You realize everybody in this audience now knows about the 1099 form, right?",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -52.5,
+ "opening_start": 7.8,
+ "opening": [
+  [
+   7.8,
+   "MR. HELLMAN",
+   "Thank you, Mr. Chief Justice, and may it please the Court: When Congress made it a felony to obstruct the due administration of the tax code, it was not creating an all-purpose tax crime; it was borrowing from a statute that prohibited the obstruction of a pending proceeding. This Court normally presumes that borrowed language carries its meaning with it. And that has to be the case here, for without that limitation, obstruction would swallow up the other crimes that Congress simultaneously enacted and, in particular, it would obliterate the careful line that Congress drew between misdemeanors and felonies. Indeed, the government's interpretation is so broad that it would chill entirely legitimate conduct that Congress never intended to penalize."
+  ],
+  [
+   47.18,
+   "JUSTICE GINSBURG",
+   "What -- what -- what lawful conduct would the government's reading put at risk?"
+  ],
+  [
+   54.48,
+   "MR. HELLMAN",
+   "Certainly. There's a whole range because obstruction, on their definition, is so broad. For example, you could imagine a situation -- I'll take an everyday taxpayer, someone who pays their gardener, say, in cash, which is one of the predicate acts in this case as well. Paying in cash isn't necessarily illegal under the tax laws, but the test that the government would have is, by paying someone in cash, you're -- you're making it harder for the IRS to assess perhaps your tax liability or perhaps the tax liability of the person that you are paying. And at that question -- at that point, the only question that remains is mens rea, why did you do it? Did you do it for the purpose of obtaining an unlawful benefit? And even -- that benefit need not even be your own under the government's reading; it could be the benefit of the gardener. Or to take another example, imagine a taxpayer who says I'm going to keep every document the law requires under the code. I'll keep every document but no documents more. If the IRS ever came back and looked at that person's tax position, they might say your failure to keep these documents that -- that aren't otherwise required hindered us in our ability to assess your taxes. At that point, again, the only question becomes the why, the mens rea. And with a felony prosecution on the line and with so many acts, the actus reus being so broad, anything that hinders the IRS's ability to carry out a code, obstructs --"
+  ],
+  [
+   147.8,
+   "JUSTICE SOTOMAYOR",
+   "My problem is that I have -- a second question."
+  ],
+  [
+   151.68,
+   "MR. HELLMAN",
+   "Sure."
+  ],
+  [
+   152.5,
+   "JUSTICE SOTOMAYOR",
+   "I have a lot of hypotheticals under your definition of what this section means that wouldn't be covered. So how about if an individual knows that the IRS is in the presence of -- press -- in the process of assessing his taxes and he in some way obstructs that process, or an agent -- the agent in 2004 called the defendant and said: You know, I'm deciding whether to open an investigation. I haven't, but I'm just thinking about it. I"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2017/16-1144",
+  "page_url": "https://www.oyez.org/cases/2017/16-1144",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - March 21, 2018",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24699",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2017/16-1144/16-1144_20180321-opinion.delivery.mp3",
+  "duration": 358.791837,
+  "mp3_bytes": 1465045,
+  "asr_elapsed_s": 200.2,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   767,
+   789,
+   780
+  ],
+  "diffs": [
+   [
+    0.0,
+    "And",
+    ""
+   ],
+   [
+    2.36,
+    "16 -1144, Maranello v.",
+    "16-1144, Marinello versus"
+   ],
+   [
+    7.28,
+    "Breyer, there's",
+    "There is"
+   ],
+   [
+    60.04,
+    "and",
+    "in"
+   ],
+   [
+    73.54,
+    "instructive",
+    "obstructive"
+   ],
+   [
+    81.88,
+    "the",
+    ""
+   ],
+   [
+    155.36,
+    "the,",
+    "these,"
+   ],
+   [
+    156.26,
+    "",
+    "are"
+   ],
+   [
+    255.7,
+    "end quote,",
+    ""
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 789,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "And Justice Breyer has our opinion in Case 16-1144, Maranello v. United States."
+   ],
+   [
+    7.28,
+    "JUSTICE BREYER",
+    "Breyer, there's a statutory clause which is called the omnibus clause in the Internal Revenue Code, and that clause makes it a felony, quote, corruptly or by force to, quote, endeavor to obstruct or impede the due administration of this title, i .e., the tax code. The question here is how broadly we should interpret this language. Does it cover efforts to impede virtually any and every tax-related administrative activity in the Internal Revenue Code? Or is it more limited in scope, covering only specific administrative proceedings such as a pending investigation or audit? Well, we conclude that to show a violation of the clause, the government has to show a nexus between the defendant's conduct and a particular administrative proceeding such as an investigation or an audit or the like. And that proceeding must have been pending or at least reasonably foreseeable at the time the defendant engaged in the instructive conduct, that is, a narrow interpretation. In interpreting the omnibus clause, we follow the approach this Court set forth in the United States v. Aguilar, a case in which we interpreted the statute that made it a felony, very similar language, corruptly or by threats of force to impede the due administration of justice. There we held that the statute contained a similar nexus requirement. We said that the obstructive conduct had to have a nexus to a particular judicial proceeding. We adopted this more targeted interpretation of the statute because we, quote, have traditionally exercised restraint in assessing the reach of a Federal criminal statute out of deference to the prerogatives of Congress and out of concern that a fair warning should be given to the world in language that the common world will understand of what the law intends to do if a certain line is passed. We believe those same considerations apply here. Congress embedded the omnibus clause in the middle of a statutory paragraph that focuses more narrowly upon obstructing government officers or employees, not impeding any and every part of what the government has called the, this is the government's word, quote, continuous, ubiquitous, and universally known tax code. Moreover, to read the statute broadly risks transforming quite a few activities that the code classifies as misdemeanors into felonies. The government points out, correctly, that only corrupt impeding is at issue. It contends"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "And Justice Breyer has our opinion in Case 16-1144, Maranello v. United States."
+   ],
+   [
+    7.28,
+    "JUSTICE BREYER",
+    "Breyer, there's a statutory clause which is called the omnibus clause in the Internal Revenue Code, and that clause makes it a felony, quote, corruptly or by force to, quote, endeavor to obstruct or impede the due administration of this title, i .e., the tax code. The question here is how broadly we should interpret this language. Does it cover efforts to impede virtually any and every tax-related administrative activity in the Internal Revenue Code? Or is it more limited in scope, covering only specific administrative proceedings such as a pending investigation or audit? Well, we conclude that to show a violation of the clause, the government has to show a nexus between the defendant's conduct and a particular administrative proceeding such as an investigation or an audit or the like. And that proceeding must have been pending or at least reasonably foreseeable at the time the defendant engaged in the instructive conduct, that is, a narrow interpretation. In interpreting the omnibus clause, we follow the approach this Court set forth in the United States v. Aguilar, a case in which we interpreted the statute that made it a felony, very similar language, corruptly or by threats of force to impede the due administration of justice. There we held that the statute contained a similar nexus requirement. We said that the obstructive conduct had to have a nexus to a particular judicial proceeding. We adopted this more targeted interpretation of the statute because we, quote, have traditionally exercised restraint in assessing the reach of a Federal criminal statute out of deference to the prerogatives of Congress and out of concern that a fair warning should be given to the world in language that the common world will understand of what the law intends to do if a certain line is passed. We believe those same considerations apply here. Congress embedded the omnibus clause in the middle of a statutory paragraph that focuses more narrowly upon obstructing government officers or employees, not impeding any and every part of what the government has called the, this is the government's word, quote, continuous, ubiquitous, and universally known tax code. Moreover, to read the statute broadly risks transforming quite a few activities that the code classifies as misdemeanors into felonies. The government points out, correctly, that only corrupt impeding is at issue. It contends that the statutory word, corruptly, will adequately limit the statute's scope to only those who impede in order to obtain an unlawful tax benefit for themselves or for others. But in our view, the word, corruptly, does not perform the necessary limiting job. Imagine, for example, that you are a passenger in a taxi or a customer in a restaurant, and the driver or the waiter asks you to pay the fare or leave the tip in cash. If so, might you not suspect that the driver or waiter does not intend to report the cash as income? A broad reading of the clause could expose the passenger or diner who leaves cash to the risk of prosecution for a Federal felony. So could paying a babysitter $41 per week in cash for a year without withholding taxes. And these are but a few of potentially many examples of a broad interpretation transforming into felonies conduct that, quote, the common world, end quote, might believe was not a felony. In our view, Congress would have spoken more clearly, had it intended to bring about this kind of result. The government suggests that it would never prosecute such cases, restaurant customers, taxi passengers, those who employ babysitters, and the like. And we assume that is so. But we have not construed, and we have said previously that we cannot construe, highly abstract, generally phrased criminal statutes simply on the assumption that the government will use the resulting broad prosecutorial authority responsibly. A broad interpretation, placing great power in the hands of the prosecution, risks nonuniformity in the statute's execution across time, in different geographical locations, and insofar as the public fears arbitrary prosecution, it risks undermining necessary public confidence in the criminal justice system. That is why, as we said in Aguilar, we have, quote, traditionally exercised restraint in assessing the reach of a Federal criminal statute. We do so now. Because the jury instructions in this case allowed the jury to find the defendant guilty without finding that he was aware of a particular pending or foreseeable proceeding, we vacate the decision of the court of appeals and return the case to that court for further proceedings consistent with our opinion. Justice Thomas has filed a dissenting opinion in which Justice Alito has joined."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "And Justice Breyer has our opinion in Case 16-1144, Maranello v. United States."
+   ],
+   [
+    7.28,
+    "JUSTICE BREYER",
+    "Breyer, there's a statutory clause which is called the omnibus clause in the Internal Revenue Code, and that clause makes it a felony, quote, corruptly or by force to, quote, endeavor to obstruct or impede the due administration of this title, i .e., the tax code."
+   ],
+   [
+    30.04,
+    "JUSTICE BREYER",
+    "The question here is how broadly we should interpret this language."
+   ],
+   [
+    34.72,
+    "JUSTICE BREYER",
+    "Does it cover efforts to impede virtually any and every tax-related administrative activity in the Internal Revenue Code?"
+   ],
+   [
+    42.6,
+    "JUSTICE BREYER",
+    "Or is it more limited in scope, covering only specific administrative proceedings such as a pending investigation or audit?"
+   ],
+   [
+    51.94,
+    "JUSTICE BREYER",
+    "Well, we conclude that to show a violation of the clause, the government has to show a nexus between the defendant's conduct and a particular administrative proceeding such as an investigation or an audit or the like."
+   ],
+   [
+    66.74,
+    "JUSTICE BREYER",
+    "And that proceeding must have been pending or at least reasonably foreseeable at the time the defendant engaged in the instructive conduct, that is, a narrow interpretation."
+   ],
+   [
+    77.28,
+    "JUSTICE BREYER",
+    "In interpreting the omnibus clause, we follow the approach this Court set forth in the United States v. Aguilar, a case in which we interpreted the statute that made it a felony, very similar language, corruptly or by threats of force to impede the due administration of justice."
+   ],
+   [
+    94.1,
+    "JUSTICE BREYER",
+    "There we held that the statute contained a similar nexus requirement."
+   ],
+   [
+    98.6,
+    "JUSTICE BREYER",
+    "We said that the obstructive conduct had to have a nexus to a particular judicial proceeding."
+   ],
+   [
+    105.08,
+    "JUSTICE BREYER",
+    "We adopted this more targeted interpretation of the statute because we, quote, have traditionally exercised restraint in assessing the reach of a Federal criminal statute out of deference to the prerogatives of Congress and out of concern that a fair warning should be given to the world in language that the common world will understand of what the law intends to do if a certain line is passed."
+   ],
+   [
+    135.58,
+    "JUSTICE BREYER",
+    "We believe those same considerations apply here."
+   ],
+   [
+    139.74,
+    "JUSTICE BREYER",
+    "Congress embedded the omnibus clause in the middle of a statutory paragraph that focuses more narrowly upon obstructing government officers or employees, not impeding any and every part of what the government has called the, this is the government's word, quote, continuous, ubiquitous, and universally known tax code."
+   ],
+   [
+    163.14,
+    "JUSTICE BREYER",
+    "Moreover, to read the statute broadly risks transforming quite a few activities that the code classifies as misdemeanors into felonies."
+   ],
+   [
+    173.32,
+    "JUSTICE BREYER",
+    "The government points out, correctly, that only corrupt impeding is at issue."
+   ],
+   [
+    179.44,
+    "JUSTICE BREYER",
+    "It contends that the statutory word, corruptly, will adequately limit the statute's scope to only those who impede in order to obtain an unlawful tax benefit for themselves or for others."
+   ],
+   [
+    195.64,
+    "JUSTICE BREYER",
+    "But in our view, the word, corruptly, does not perform the necessary limiting job."
+   ],
+   [
+    202.38,
+    "JUSTICE BREYER",
+    "Imagine, for example, that you are a passenger in a taxi or a customer in a restaurant, and the driver or the waiter asks you to pay the fare or leave the tip in cash."
+   ],
+   [
+    216.62,
+    "JUSTICE BREYER",
+    "If so, might you not suspect that the driver or waiter does not intend to report the cash as income?"
+   ],
+   [
+    225.38,
+    "JUSTICE BREYER",
+    "A broad reading of the clause could expose the passenger or diner who leaves cash to the risk of prosecution for a Federal felony."
+   ],
+   [
+    235.42,
+    "JUSTICE BREYER",
+    "So could paying a babysitter $41 per week in cash for a year without withholding taxes."
+   ],
+   [
+    243.26,
+    "JUSTICE BREYER",
+    "And these are but a few of potentially many examples of a broad interpretation transforming into felonies conduct that, quote, the common world, end quote, might believe was not a felony."
+   ],
+   [
+    258.44,
+    "JUSTICE BREYER",
+    "In our view, Congress would have spoken more clearly, had it intended to bring about this kind of result."
+   ],
+   [
+    266.64,
+    "JUSTICE BREYER",
+    "The government suggests that it would never prosecute such cases, restaurant customers, taxi passengers, those who employ babysitters, and the like."
+   ],
+   [
+    276.06,
+    "JUSTICE BREYER",
+    "And we assume that is so."
+   ],
+   [
+    278.52,
+    "JUSTICE BREYER",
+    "But we have not construed, and we have said previously that we cannot construe, highly abstract, generally phrased criminal statutes simply on the assumption that the government will use the resulting broad prosecutorial authority responsibly."
+   ],
+   [
+    296.26,
+    "JUSTICE BREYER",
+    "A broad interpretation, placing great power in the hands of the prosecution, risks nonuniformity in the statute's execution across time, in different geographical locations, and insofar as the public fears arbitrary prosecution, it risks undermining necessary public confidence in the criminal justice system."
+   ],
+   [
+    320.48,
+    "JUSTICE BREYER",
+    "That is why, as we said in Aguilar, we have, quote, traditionally exercised restraint in assessing the reach of a Federal criminal statute."
+   ],
+   [
+    331.76,
+    "JUSTICE BREYER",
+    "We do so now."
+   ],
+   [
+    334.12,
+    "JUSTICE BREYER",
+    "Because the jury instructions in this case allowed the jury to find the defendant guilty without finding that he was aware of a particular pending or foreseeable proceeding, we vacate the decision of the court of appeals and return the case to that court for further proceedings consistent with our opinion."
+   ],
+   [
+    353.48,
+    "JUSTICE BREYER",
+    "Justice Thomas has filed a dissenting opinion in which Justice Alito has joined."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.38,
+    13
+   ],
+   [
+    "JUSTICE BREYER",
+    7.28,
+    357.76,
+    774
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "16-1144",
+ "year": "2017",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2017/16-1144",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/16-1144.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/16-1144_664d.pdf",
+ "model": "medium.en",
+ "duration": 3651.816,
+ "asr_elapsed_s": 2428.0,
+ "asr_words": 9604,
+ "official_words": 10046,
+ "matched": 9445,
+ "shared": 5,
+ "clamped": 0,
+ "trimmed": 31,
+ "rewindowed": 1,
+ "match_rate": 94.01751941071073,
+ "turns": 295,
+ "laugh_markers": 7,
+ "mp3_bytes": 29214765,
+ "pauses": 382,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": false,
+   "detail": "1 words longer than 3 s outside laugh positions",
+   "examples": [
+    [
+     "jury",
+     3627.11,
+     3630.63
+    ]
+   ],
+   "numbers": [
+    [
+     "7212(a),",
+     3078.73,
+     3083.05
+    ]
+   ]
+  },
+  "short_words": 395,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.02% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-13"
+}
