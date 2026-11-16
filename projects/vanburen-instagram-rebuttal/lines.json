@@ -1,0 +1,38 @@
+[
+ {
+  "speaker": "MR. FEIGIN",
+  "s": 3701.44,
+  "e": 3731.4,
+  "text": "going to be opened up. And we don't have much case law on the other stuff because nobody has ever really made any sustained effort to try to bring those kinds of cases. They certainly haven't resulted in any kind of liability. Our point here isn't to defend or -- any particular case that isn't this one. And to the extent we start to see cases like that, that'll give courts, including this Court if necessary, the opportunity to further articulate those limits. I mean, it shouldn't --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3731.4,
+  "e": 3733.06,
+  "text": "A minute to wrap up, Mr. Feigin."
+ },
+ {
+  "speaker": "MR. FEIGIN",
+  "s": 3733.7,
+  "e": 3794.54,
+  "text": "Thank you, Your Honor. I think -- just to continue with what I was saying, I think what the Court should not do is to interpret this particular portion of the statute in an atextual manner that's different from how the Court viewed the plain language in Musacchio in order to avoid a parade of hypotheticals that hasn't really occurred. I mean, let me give you some examples of things that, on his reading, wouldn't be covered by this or any other federal statute so -- so far as we know. A police officer tipping off a friend with insider information that he got from a database; he knows the friend is a criminal, but he doesn't know the purpose to which the friend's going to put it, so he can't -- we can't get him for attempt, we can't get him for conspiracy. Someone who's leaving a company and he takes the entire customer database with him, it's not a trade secret, he just wants to use it for himself. Or an IT technician at a court who reveals predecisional e-mails from the court's e-mail server. Thank you, Your Honor."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3795.48,
+  "e": 3797.48,
+  "text": "Thank you, counsel. Rebuttal, Mr. Fisher?"
+ },
+ {
+  "speaker": "MR. FISHER",
+  "s": 3798.64,
+  "e": 3964.28,
+  "text": "Thank you. I'd like to make two textual points and one consequences point. First, as to the text, I don't think it matters if Mr. Feigin said whether \"so\" refers strictly to accessing the computer with authorization or whether it refers to such access. Either way, it's referring to the manner of getting the information, which is by computer. And I think that also disposes of his surplusage argument about the words later in the statute \"in the computer.\" Yes, it picks up \"in the computer,\" but that same information might be available from some other source. And so that's what \"so\" is doing. The second textual point is about the word \"authorization.\" The government clearly is putting an enormous amount of weight on that term in this statute. But there's just very serious problems with that. For one thing, the statute talks about either with authorization or without authorization. And so, if you're going to say that none of these public-facing websites are being accessed with authorization, then it might be they're all being accessed without authorization, which would open up a whole other set of problems. But even as to the plain meaning of the term that Mr. Feigin proposes, it just escapes me why logging into your work computer does not establish authorization or logging into your Westlaw account or satisfying an age-based restriction on Facebook or being single and therefore being authorized to use a dating website, et cetera, et cetera. All of these websites and work computers are accessed only with authorization, as even Mr. Feigin defines the term, and so that doesn't meaningfully narrow the statute. And then I think what you're left with is this problem about consequences. And the best thing the government can say is we haven't brought a whole bunch of these prosecutions yet. Remember, even the government's 2014 charging policy doesn't talk about any of these other restrictions Mr. Feigin has been talking about today. Instead, what it says is federal prosecutors \"may\" decide not to bring these kinds of cases. But, for all the textual reasons we've described, they would be available under the government's reading. And then you're -- I think you're left with Justice Gorsuch's point, which is the Court over and over again has had cases in recent years and even further back, cases like Kozminski, where the government offers a reading of a federal statute that would sweep in everyday conduct, and it's never been an answer to that kind of an argument to say trust us, we won't bring those kinds of cases, or even saying construe the statute the way we ask now, and if those problems arise in the future, then you can address them. What the Court has done in every one of those cases is apply the traditional tools of construction to say any ambiguity in the statute must be construed narrowly because of fair notice and other -- federalism and related principles. So, for those reasons, we'd ask the Court -- ask the Court to reverse."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 3965.14,
+  "e": 3966.98,
+  "text": "Thank you, counsel. The case is submitted."
+ }
+]

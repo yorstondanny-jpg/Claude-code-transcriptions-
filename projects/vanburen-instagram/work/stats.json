@@ -1,0 +1,69 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -52.1,
+ "opening_start": 7.92,
+ "opening": [
+  [
+   7.92,
+   "MR. FISHER",
+   "Mr. Chief Justice, and may it please the Court: The CFAA is an anti-hacking statute. It prohibits obtaining information from a computer without authorization. And to ensure comprehensive coverage, the statute also prohibits \"exceeding authorized access.\" As Judge Kozinski put it, this -- this ensures that the statute covers not just outside but also inside hackers. In this case, however, the government seeks to transform the supplemental prong of the CFAA into an entirely different prohibition. In the government's view, this prong covers obtaining any information via computer that the accessor is not entitled \"under the circumstances\" to obtain. It is no overstatement to say that this construction would brand most Americans criminals on a daily basis. The scenarios are practically limitless, but a few examples will suffice. Imagine a secretary whose employee handbook says that her e-mail or Zoom account may be used only for business purposes. Or consider a person using a dating website where users may not include false information on their profile to obtain information about potential mates. Or think of a law student who is issued a log -- log-in credentials for Westlaw or Lexis for educational use only. If the government is right, then a computer user who disregards any of these stated use restrictions commits a federal crime. For example, any employee who used a Zoom account over Thanksgiving to connect with distant relatives would be subject to the grace of federal prosecutors. The main argument the government offers in response to that startling result is that a single two-letter word in the CFAA's definition of \"exceeds authorized access,\" the term \"so,\" demands it. But that word requires no such thing. The word simply clarifies that a use -- that the user must be prohibited from obtaining the information merely by a computer. It relieves the government of having to negate every possible alternative means by which the defendant might permissibly have obtained the information at issue. But that is all the word does. It does not transform the CFAA into a sweeping Internet police mandate. The Court should reverse. And I'm happy to take any questions."
+  ],
+  [
+   133.16,
+   "CHIEF JUSTICE ROBERTS",
+   "Mr. Fisher, in Musacchio versus United States, this is what we said: That statute provides two ways of committing the crime of improperly accessing a protected computer: obtaining access without authorization and obtaining access with authorization but then using that access improperly. You didn't mention that case in your opening brief. The government relied on it. You didn't mention it in your reply brief. I wonder what your -- your answer to that quote is."
+  ],
+  [
+   166.5,
+   "MR. FISHER",
+   "Mr. Chief Justice, my understanding in that case was the Court was simply giving a thumbnail summary of how the statute works. Of course, the question presented here was not presented there. And, in fact, not even the \"exceeds authorized access\" prong was at issue there in the conspiracy issue the Court reached. I understood what the Court to be doing in that summary simply to be using"
+  ]
+ ],
+ "opinion": null,
+ "case": "19-783",
+ "year": "2020",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2020/19-783",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/19-783.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2020/19-783_2d8f.pdf",
+ "model": "medium.en",
+ "duration": 3967.752,
+ "asr_elapsed_s": 1779.0,
+ "asr_words": 9711,
+ "official_words": 10085,
+ "matched": 9473,
+ "shared": 8,
+ "clamped": 0,
+ "trimmed": 11,
+ "rewindowed": 0,
+ "match_rate": 93.93158155676748,
+ "turns": 163,
+ "laugh_markers": 0,
+ "mp3_bytes": 31742253,
+ "pauses": 396,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 321,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.93% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-16"
+}

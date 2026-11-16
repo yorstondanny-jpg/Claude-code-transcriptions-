@@ -1,0 +1,4796 @@
+[
+ {
+  "w": "going",
+  "s": 3701.44,
+  "e": 3701.52,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3701.52,
+  "e": 3701.62,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "be",
+  "s": 3701.62,
+  "e": 3701.74,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "opened",
+  "s": 3701.74,
+  "e": 3702.06,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "up.",
+  "s": 3702.06,
+  "e": 3702.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "And",
+  "s": 3702.4,
+  "e": 3702.74,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "we",
+  "s": 3702.74,
+  "e": 3702.82,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "don't",
+  "s": 3702.82,
+  "e": 3702.94,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "have",
+  "s": 3702.94,
+  "e": 3703.12,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "much",
+  "s": 3703.12,
+  "e": 3703.32,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "case",
+  "s": 3703.32,
+  "e": 3703.62,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "law",
+  "s": 3703.62,
+  "e": 3703.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "on",
+  "s": 3703.8,
+  "e": 3703.92,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3703.92,
+  "e": 3704.04,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "other",
+  "s": 3704.04,
+  "e": 3704.26,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "stuff",
+  "s": 3704.26,
+  "e": 3704.56,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "because",
+  "s": 3704.56,
+  "e": 3705.08,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "nobody",
+  "s": 3705.08,
+  "e": 3705.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "has",
+  "s": 3705.76,
+  "e": 3706.0,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "ever",
+  "s": 3706.0,
+  "e": 3706.36,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "really",
+  "s": 3706.36,
+  "e": 3707.24,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "made",
+  "s": 3707.24,
+  "e": 3707.58,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "any",
+  "s": 3707.58,
+  "e": 3707.84,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "sustained",
+  "s": 3707.84,
+  "e": 3708.28,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "effort",
+  "s": 3708.28,
+  "e": 3708.56,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3708.56,
+  "e": 3708.88,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "try",
+  "s": 3708.88,
+  "e": 3709.04,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3709.04,
+  "e": 3709.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "bring",
+  "s": 3709.16,
+  "e": 3709.36,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "those",
+  "s": 3709.36,
+  "e": 3709.64,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "kinds",
+  "s": 3709.64,
+  "e": 3709.9,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "of",
+  "s": 3709.9,
+  "e": 3710.06,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "cases.",
+  "s": 3710.06,
+  "e": 3710.42,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "They",
+  "s": 3710.66,
+  "e": 3710.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "certainly",
+  "s": 3710.76,
+  "e": 3711.1,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "haven't",
+  "s": 3711.1,
+  "e": 3711.44,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "resulted",
+  "s": 3711.44,
+  "e": 3711.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "in",
+  "s": 3711.76,
+  "e": 3712.04,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "any",
+  "s": 3712.04,
+  "e": 3712.22,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "kind",
+  "s": 3712.22,
+  "e": 3712.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "of",
+  "s": 3712.4,
+  "e": 3712.54,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "liability.",
+  "s": 3712.54,
+  "e": 3713.08,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Our",
+  "s": 3713.66,
+  "e": 3713.82,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "point",
+  "s": 3713.82,
+  "e": 3714.14,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "here",
+  "s": 3714.14,
+  "e": 3714.38,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "isn't",
+  "s": 3714.38,
+  "e": 3714.68,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3714.68,
+  "e": 3714.98,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "defend",
+  "s": 3714.98,
+  "e": 3715.56,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "or --",
+  "s": 3715.56,
+  "e": 3716.24,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "any",
+  "s": 3716.24,
+  "e": 3718.78,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "particular",
+  "s": 3718.78,
+  "e": 3719.38,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "case",
+  "s": 3719.38,
+  "e": 3720.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "that",
+  "s": 3720.16,
+  "e": 3720.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "isn't",
+  "s": 3720.4,
+  "e": 3720.74,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "this",
+  "s": 3720.74,
+  "e": 3721.0,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "one.",
+  "s": 3721.0,
+  "e": 3721.36,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "And",
+  "s": 3721.36,
+  "e": 3722.02,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3722.02,
+  "e": 3722.26,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3722.26,
+  "e": 3722.44,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "extent",
+  "s": 3722.44,
+  "e": 3722.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "we",
+  "s": 3722.76,
+  "e": 3723.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "start",
+  "s": 3723.2,
+  "e": 3723.46,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3723.46,
+  "e": 3723.64,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "see",
+  "s": 3723.64,
+  "e": 3723.84,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "cases",
+  "s": 3723.84,
+  "e": 3724.22,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "like",
+  "s": 3724.22,
+  "e": 3724.5,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "that,",
+  "s": 3724.5,
+  "e": 3724.78,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "that'll",
+  "s": 3724.86,
+  "e": 3725.14,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "give",
+  "s": 3725.14,
+  "e": 3725.32,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "courts,",
+  "s": 3725.32,
+  "e": 3725.7,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "including",
+  "s": 3725.82,
+  "e": 3726.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "this",
+  "s": 3726.16,
+  "e": 3726.46,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Court",
+  "s": 3726.46,
+  "e": 3726.68,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "if",
+  "s": 3726.68,
+  "e": 3726.88,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "necessary,",
+  "s": 3726.88,
+  "e": 3727.42,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3727.62,
+  "e": 3727.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "opportunity",
+  "s": 3727.76,
+  "e": 3728.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3728.4,
+  "e": 3729.24,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "further",
+  "s": 3729.24,
+  "e": 3729.88,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "articulate",
+  "s": 3729.88,
+  "e": 3730.5,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "those",
+  "s": 3730.5,
+  "e": 3730.86,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "limits.",
+  "s": 3730.86,
+  "e": 3731.38,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "I",
+  "s": 3731.38,
+  "e": 3731.385,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "mean,",
+  "s": 3731.385,
+  "e": 3731.39,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "it",
+  "s": 3731.39,
+  "e": 3731.395,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "shouldn't --",
+  "s": 3731.395,
+  "e": 3731.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "A",
+  "s": 3731.4,
+  "e": 3731.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "minute",
+  "s": 3731.6,
+  "e": 3731.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 3731.78,
+  "e": 3731.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "wrap",
+  "s": 3731.98,
+  "e": 3732.2,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "up,",
+  "s": 3732.2,
+  "e": 3732.52,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Mr.",
+  "s": 3732.66,
+  "e": 3732.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Feigin.",
+  "s": 3732.96,
+  "e": 3733.06,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Thank",
+  "s": 3733.7,
+  "e": 3734.06,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "you,",
+  "s": 3734.06,
+  "e": 3734.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Your",
+  "s": 3734.42,
+  "e": 3734.42,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Honor.",
+  "s": 3734.42,
+  "e": 3734.52,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "I",
+  "s": 3734.72,
+  "e": 3734.72,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "think --",
+  "s": 3734.72,
+  "e": 3734.94,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "just",
+  "s": 3735.84,
+  "e": 3736.14,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3736.14,
+  "e": 3736.3,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "continue",
+  "s": 3736.3,
+  "e": 3736.58,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "with",
+  "s": 3736.58,
+  "e": 3736.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "what",
+  "s": 3736.76,
+  "e": 3736.86,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "I",
+  "s": 3736.86,
+  "e": 3736.96,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "was",
+  "s": 3736.96,
+  "e": 3737.08,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "saying,",
+  "s": 3737.08,
+  "e": 3737.3,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "I",
+  "s": 3737.42,
+  "e": 3737.5,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "think",
+  "s": 3737.5,
+  "e": 3737.64,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "what",
+  "s": 3737.64,
+  "e": 3737.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3737.8,
+  "e": 3738.0,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Court",
+  "s": 3738.0,
+  "e": 3738.12,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "should",
+  "s": 3738.12,
+  "e": 3738.36,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "not",
+  "s": 3738.36,
+  "e": 3738.6,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "do",
+  "s": 3738.6,
+  "e": 3739.02,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "is",
+  "s": 3739.02,
+  "e": 3739.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3739.76,
+  "e": 3740.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "interpret",
+  "s": 3740.2,
+  "e": 3740.78,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "this",
+  "s": 3740.78,
+  "e": 3741.24,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "particular",
+  "s": 3741.24,
+  "e": 3741.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "portion",
+  "s": 3741.8,
+  "e": 3742.22,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "of",
+  "s": 3742.22,
+  "e": 3742.42,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3742.42,
+  "e": 3742.62,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "statute",
+  "s": 3742.62,
+  "e": 3743.0,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "in",
+  "s": 3743.0,
+  "e": 3743.34,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "an",
+  "s": 3743.34,
+  "e": 3743.58,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "atextual",
+  "s": 3743.58,
+  "e": 3744.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "manner",
+  "s": 3744.2,
+  "e": 3744.58,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "that's",
+  "s": 3744.58,
+  "e": 3745.42,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "different",
+  "s": 3745.42,
+  "e": 3745.66,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "from",
+  "s": 3745.66,
+  "e": 3745.88,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "how",
+  "s": 3745.88,
+  "e": 3746.04,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3746.04,
+  "e": 3746.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Court",
+  "s": 3746.2,
+  "e": 3746.38,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "viewed",
+  "s": 3746.38,
+  "e": 3746.66,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3747.18,
+  "e": 3747.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "plain",
+  "s": 3747.4,
+  "e": 3747.64,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "language",
+  "s": 3747.64,
+  "e": 3748.06,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "in",
+  "s": 3748.06,
+  "e": 3748.28,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Musacchio",
+  "s": 3748.28,
+  "e": 3748.96,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "in",
+  "s": 3749.26,
+  "e": 3749.88,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "order",
+  "s": 3749.88,
+  "e": 3750.14,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3750.14,
+  "e": 3750.46,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "avoid",
+  "s": 3750.46,
+  "e": 3750.98,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "a",
+  "s": 3750.98,
+  "e": 3751.6,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "parade",
+  "s": 3751.6,
+  "e": 3751.78,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "of",
+  "s": 3751.78,
+  "e": 3752.0,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "hypotheticals",
+  "s": 3752.0,
+  "e": 3752.7,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "that",
+  "s": 3752.7,
+  "e": 3753.06,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "hasn't",
+  "s": 3753.06,
+  "e": 3753.46,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "really",
+  "s": 3753.46,
+  "e": 3753.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "occurred.",
+  "s": 3753.76,
+  "e": 3754.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "I",
+  "s": 3754.16,
+  "e": 3754.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "mean,",
+  "s": 3754.16,
+  "e": 3754.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "let",
+  "s": 3754.16,
+  "e": 3754.6,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "me",
+  "s": 3754.6,
+  "e": 3755.02,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "give",
+  "s": 3755.02,
+  "e": 3755.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "you",
+  "s": 3755.16,
+  "e": 3755.28,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "some",
+  "s": 3755.28,
+  "e": 3755.48,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "examples",
+  "s": 3755.48,
+  "e": 3755.92,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "of",
+  "s": 3755.92,
+  "e": 3756.14,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "things",
+  "s": 3756.14,
+  "e": 3756.54,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "that,",
+  "s": 3756.54,
+  "e": 3757.02,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "on",
+  "s": 3757.02,
+  "e": 3757.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "his",
+  "s": 3757.16,
+  "e": 3757.38,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "reading,",
+  "s": 3757.38,
+  "e": 3757.7,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "wouldn't",
+  "s": 3757.7,
+  "e": 3758.02,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "be",
+  "s": 3758.02,
+  "e": 3758.32,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "covered",
+  "s": 3758.32,
+  "e": 3758.6,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "by",
+  "s": 3758.6,
+  "e": 3758.96,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "this",
+  "s": 3758.96,
+  "e": 3759.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "or",
+  "s": 3759.16,
+  "e": 3759.36,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "any",
+  "s": 3759.36,
+  "e": 3759.56,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "other",
+  "s": 3759.56,
+  "e": 3759.82,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "federal",
+  "s": 3759.82,
+  "e": 3760.12,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "statute",
+  "s": 3760.12,
+  "e": 3760.72,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "so --",
+  "s": 3760.72,
+  "e": 3760.86,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "so",
+  "s": 3760.86,
+  "e": 3761.08,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "far",
+  "s": 3761.08,
+  "e": 3761.56,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "as",
+  "s": 3761.56,
+  "e": 3761.74,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "we",
+  "s": 3761.74,
+  "e": 3761.9,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "know.",
+  "s": 3761.9,
+  "e": 3762.24,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "A",
+  "s": 3762.76,
+  "e": 3763.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "police",
+  "s": 3763.2,
+  "e": 3763.46,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "officer",
+  "s": 3763.46,
+  "e": 3764.04,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "tipping",
+  "s": 3764.04,
+  "e": 3764.82,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "off",
+  "s": 3764.82,
+  "e": 3765.14,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "a",
+  "s": 3765.14,
+  "e": 3765.28,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "friend",
+  "s": 3765.28,
+  "e": 3765.66,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "with",
+  "s": 3765.66,
+  "e": 3766.62,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "insider",
+  "s": 3766.62,
+  "e": 3767.08,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "information",
+  "s": 3767.08,
+  "e": 3767.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "that",
+  "s": 3767.76,
+  "e": 3768.24,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "he",
+  "s": 3768.24,
+  "e": 3768.34,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "got",
+  "s": 3768.34,
+  "e": 3768.54,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "from",
+  "s": 3768.54,
+  "e": 3768.72,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "a",
+  "s": 3768.72,
+  "e": 3768.92,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "database;",
+  "s": 3768.92,
+  "e": 3769.28,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "he",
+  "s": 3769.54,
+  "e": 3769.64,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "knows",
+  "s": 3769.64,
+  "e": 3769.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3769.8,
+  "e": 3770.0,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "friend",
+  "s": 3770.0,
+  "e": 3770.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "is",
+  "s": 3770.2,
+  "e": 3770.36,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "a",
+  "s": 3770.36,
+  "e": 3770.54,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "criminal,",
+  "s": 3770.54,
+  "e": 3770.86,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "but",
+  "s": 3770.86,
+  "e": 3771.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "he",
+  "s": 3771.4,
+  "e": 3771.5,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "doesn't",
+  "s": 3771.5,
+  "e": 3771.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "know",
+  "s": 3771.76,
+  "e": 3772.0,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3772.0,
+  "e": 3772.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "purpose",
+  "s": 3772.16,
+  "e": 3772.46,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3772.46,
+  "e": 3772.66,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "which",
+  "s": 3772.66,
+  "e": 3772.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3772.8,
+  "e": 3772.98,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "friend's",
+  "s": 3772.98,
+  "e": 3773.3,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "going",
+  "s": 3773.3,
+  "e": 3773.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3773.4,
+  "e": 3773.54,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "put",
+  "s": 3773.54,
+  "e": 3773.7,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "it,",
+  "s": 3773.7,
+  "e": 3774.06,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "so",
+  "s": 3774.08,
+  "e": 3774.3,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "he",
+  "s": 3774.3,
+  "e": 3774.3,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "can't --",
+  "s": 3774.3,
+  "e": 3774.3,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "we",
+  "s": 3774.3,
+  "e": 3774.46,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "can't",
+  "s": 3774.46,
+  "e": 3775.14,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "get",
+  "s": 3775.14,
+  "e": 3775.28,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "him",
+  "s": 3775.28,
+  "e": 3775.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "for",
+  "s": 3775.4,
+  "e": 3775.62,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "attempt,",
+  "s": 3775.62,
+  "e": 3775.96,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "we",
+  "s": 3776.14,
+  "e": 3776.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "can't",
+  "s": 3776.2,
+  "e": 3776.44,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "get",
+  "s": 3776.44,
+  "e": 3776.56,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "him",
+  "s": 3776.56,
+  "e": 3776.7,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "for",
+  "s": 3776.7,
+  "e": 3776.9,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "conspiracy.",
+  "s": 3776.9,
+  "e": 3777.56,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Someone",
+  "s": 3779.32,
+  "e": 3779.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "who's",
+  "s": 3779.8,
+  "e": 3780.28,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "leaving",
+  "s": 3780.28,
+  "e": 3780.5,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "a",
+  "s": 3780.5,
+  "e": 3780.76,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "company",
+  "s": 3780.76,
+  "e": 3781.1,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "and",
+  "s": 3781.1,
+  "e": 3781.34,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "he",
+  "s": 3781.34,
+  "e": 3781.74,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "takes",
+  "s": 3781.74,
+  "e": 3782.18,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3782.18,
+  "e": 3782.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "entire",
+  "s": 3782.4,
+  "e": 3782.78,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "customer",
+  "s": 3782.78,
+  "e": 3783.28,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "database",
+  "s": 3783.28,
+  "e": 3783.64,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "with",
+  "s": 3783.64,
+  "e": 3784.08,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "him,",
+  "s": 3784.08,
+  "e": 3784.2,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "it's",
+  "s": 3784.26,
+  "e": 3784.42,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "not",
+  "s": 3784.42,
+  "e": 3784.56,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "a",
+  "s": 3784.56,
+  "e": 3784.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "trade",
+  "s": 3784.8,
+  "e": 3784.98,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "secret,",
+  "s": 3784.98,
+  "e": 3785.36,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "he",
+  "s": 3785.4,
+  "e": 3785.54,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "just",
+  "s": 3785.54,
+  "e": 3785.72,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "wants",
+  "s": 3785.72,
+  "e": 3785.92,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "to",
+  "s": 3785.92,
+  "e": 3786.1,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "use",
+  "s": 3786.1,
+  "e": 3786.24,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "it",
+  "s": 3786.24,
+  "e": 3786.4,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "for",
+  "s": 3786.4,
+  "e": 3786.52,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "himself.",
+  "s": 3786.52,
+  "e": 3786.98,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Or",
+  "s": 3787.28,
+  "e": 3787.54,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "an",
+  "s": 3787.54,
+  "e": 3787.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "IT",
+  "s": 3787.8,
+  "e": 3787.96,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "technician",
+  "s": 3787.96,
+  "e": 3788.48,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "at",
+  "s": 3788.48,
+  "e": 3788.72,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "a",
+  "s": 3788.72,
+  "e": 3788.98,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "court",
+  "s": 3788.98,
+  "e": 3789.16,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "who",
+  "s": 3789.16,
+  "e": 3789.42,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "reveals",
+  "s": 3789.42,
+  "e": 3789.8,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "predecisional",
+  "s": 3789.8,
+  "e": 3790.7,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "e-mails",
+  "s": 3790.7,
+  "e": 3790.98,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "from",
+  "s": 3790.98,
+  "e": 3791.3,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "the",
+  "s": 3791.3,
+  "e": 3791.52,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "court's",
+  "s": 3791.52,
+  "e": 3791.88,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "e-mail",
+  "s": 3791.88,
+  "e": 3792.12,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "server.",
+  "s": 3792.12,
+  "e": 3792.6,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Thank",
+  "s": 3793.5,
+  "e": 3793.98,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "you,",
+  "s": 3793.98,
+  "e": 3794.12,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Your",
+  "s": 3794.3,
+  "e": 3794.3,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Honor.",
+  "s": 3794.3,
+  "e": 3794.54,
+  "speaker": "MR. FEIGIN"
+ },
+ {
+  "w": "Thank",
+  "s": 3795.48,
+  "e": 3795.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "you,",
+  "s": 3795.6,
+  "e": 3795.78,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "counsel.",
+  "s": 3795.84,
+  "e": 3796.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Rebuttal,",
+  "s": 3796.68,
+  "e": 3796.94,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Mr.",
+  "s": 3797.0,
+  "e": 3797.24,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Fisher?",
+  "s": 3797.48,
+  "e": 3797.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Thank",
+  "s": 3798.64,
+  "e": 3799.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "you.",
+  "s": 3799.0,
+  "e": 3799.1,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "I'd",
+  "s": 3799.14,
+  "e": 3799.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "like",
+  "s": 3799.28,
+  "e": 3799.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3799.28,
+  "e": 3799.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "make",
+  "s": 3799.36,
+  "e": 3799.48,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "two",
+  "s": 3799.48,
+  "e": 3799.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "textual",
+  "s": 3799.76,
+  "e": 3800.22,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "points",
+  "s": 3800.22,
+  "e": 3800.7,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3800.7,
+  "e": 3800.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "one",
+  "s": 3800.92,
+  "e": 3801.24,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "consequences",
+  "s": 3801.24,
+  "e": 3802.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "point.",
+  "s": 3802.04,
+  "e": 3802.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "First,",
+  "s": 3803.2,
+  "e": 3803.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "as",
+  "s": 3803.84,
+  "e": 3803.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3803.98,
+  "e": 3804.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3804.16,
+  "e": 3804.42,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "text,",
+  "s": 3804.42,
+  "e": 3804.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "I",
+  "s": 3805.56,
+  "e": 3805.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "don't",
+  "s": 3805.8,
+  "e": 3805.94,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "think",
+  "s": 3805.94,
+  "e": 3806.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "it",
+  "s": 3806.12,
+  "e": 3806.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "matters",
+  "s": 3806.28,
+  "e": 3806.6,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "if",
+  "s": 3806.8,
+  "e": 3806.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Mr.",
+  "s": 3806.84,
+  "e": 3807.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Feigin",
+  "s": 3807.28,
+  "e": 3807.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "said",
+  "s": 3807.44,
+  "e": 3808.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "whether",
+  "s": 3808.84,
+  "e": 3809.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "\"so\"",
+  "s": 3809.06,
+  "e": 3809.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "refers",
+  "s": 3809.44,
+  "e": 3810.1,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "strictly",
+  "s": 3810.1,
+  "e": 3810.7,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3810.7,
+  "e": 3811.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "accessing",
+  "s": 3811.06,
+  "e": 3811.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3811.62,
+  "e": 3811.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "computer",
+  "s": 3811.92,
+  "e": 3812.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "with",
+  "s": 3812.3,
+  "e": 3812.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "authorization",
+  "s": 3812.54,
+  "e": 3813.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "or",
+  "s": 3813.2,
+  "e": 3813.48,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "whether",
+  "s": 3813.48,
+  "e": 3813.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "it",
+  "s": 3813.66,
+  "e": 3813.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "refers",
+  "s": 3813.8,
+  "e": 3813.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3813.98,
+  "e": 3814.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "such",
+  "s": 3814.2,
+  "e": 3814.42,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "access.",
+  "s": 3814.42,
+  "e": 3815.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Either",
+  "s": 3815.52,
+  "e": 3815.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "way,",
+  "s": 3815.76,
+  "e": 3816.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "it's",
+  "s": 3816.16,
+  "e": 3816.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "referring",
+  "s": 3816.36,
+  "e": 3816.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3816.74,
+  "e": 3817.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3817.0,
+  "e": 3817.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "manner",
+  "s": 3817.2,
+  "e": 3817.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3817.52,
+  "e": 3817.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "getting",
+  "s": 3817.92,
+  "e": 3818.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3818.5,
+  "e": 3818.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "information,",
+  "s": 3818.72,
+  "e": 3819.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "which",
+  "s": 3819.2,
+  "e": 3819.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3819.38,
+  "e": 3819.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "by",
+  "s": 3819.56,
+  "e": 3819.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "computer.",
+  "s": 3819.76,
+  "e": 3820.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "And",
+  "s": 3820.3,
+  "e": 3820.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "I",
+  "s": 3820.74,
+  "e": 3820.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "think",
+  "s": 3820.9,
+  "e": 3821.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that",
+  "s": 3821.04,
+  "e": 3821.24,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "also",
+  "s": 3821.24,
+  "e": 3821.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "disposes",
+  "s": 3821.52,
+  "e": 3822.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3822.04,
+  "e": 3822.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "his",
+  "s": 3822.3,
+  "e": 3822.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "surplusage",
+  "s": 3822.52,
+  "e": 3822.86,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "argument",
+  "s": 3822.86,
+  "e": 3823.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "about",
+  "s": 3823.4,
+  "e": 3823.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3823.8,
+  "e": 3824.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "words",
+  "s": 3824.04,
+  "e": 3824.22,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "later",
+  "s": 3824.22,
+  "e": 3824.46,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "in",
+  "s": 3824.46,
+  "e": 3824.6,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3824.6,
+  "e": 3824.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "statute",
+  "s": 3824.74,
+  "e": 3825.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "\"in",
+  "s": 3825.02,
+  "e": 3825.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3825.28,
+  "e": 3825.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "computer.\"",
+  "s": 3825.44,
+  "e": 3825.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Yes,",
+  "s": 3826.66,
+  "e": 3826.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "it",
+  "s": 3826.96,
+  "e": 3827.1,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "picks",
+  "s": 3827.1,
+  "e": 3827.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "up",
+  "s": 3827.32,
+  "e": 3827.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "\"in",
+  "s": 3827.54,
+  "e": 3827.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3827.68,
+  "e": 3827.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "computer,\"",
+  "s": 3827.84,
+  "e": 3828.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "but",
+  "s": 3828.26,
+  "e": 3828.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that",
+  "s": 3828.4,
+  "e": 3828.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "same",
+  "s": 3828.52,
+  "e": 3828.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "information",
+  "s": 3828.78,
+  "e": 3829.26,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "might",
+  "s": 3829.26,
+  "e": 3829.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "be",
+  "s": 3829.52,
+  "e": 3829.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "available",
+  "s": 3829.68,
+  "e": 3830.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "from",
+  "s": 3830.0,
+  "e": 3830.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "some",
+  "s": 3830.28,
+  "e": 3830.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "other",
+  "s": 3830.5,
+  "e": 3830.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "source.",
+  "s": 3830.66,
+  "e": 3831.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "And",
+  "s": 3831.08,
+  "e": 3831.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "so",
+  "s": 3831.32,
+  "e": 3831.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that's",
+  "s": 3831.44,
+  "e": 3831.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "what",
+  "s": 3831.72,
+  "e": 3831.88,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "\"so\"",
+  "s": 3831.88,
+  "e": 3832.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3832.16,
+  "e": 3832.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "doing.",
+  "s": 3832.38,
+  "e": 3832.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "The",
+  "s": 3833.38,
+  "e": 3833.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "second",
+  "s": 3833.52,
+  "e": 3833.86,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "textual",
+  "s": 3833.86,
+  "e": 3834.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "point",
+  "s": 3834.32,
+  "e": 3834.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3834.62,
+  "e": 3834.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "about",
+  "s": 3834.74,
+  "e": 3834.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3834.92,
+  "e": 3835.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "word",
+  "s": 3835.02,
+  "e": 3835.18,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "\"authorization.\"",
+  "s": 3835.18,
+  "e": 3835.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "The",
+  "s": 3835.96,
+  "e": 3836.64,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "government",
+  "s": 3836.64,
+  "e": 3836.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "clearly",
+  "s": 3836.96,
+  "e": 3837.34,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3837.34,
+  "e": 3837.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "putting",
+  "s": 3837.58,
+  "e": 3837.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "an",
+  "s": 3837.74,
+  "e": 3837.94,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "enormous",
+  "s": 3837.94,
+  "e": 3838.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "amount",
+  "s": 3838.38,
+  "e": 3838.7,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3838.7,
+  "e": 3838.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "weight",
+  "s": 3838.92,
+  "e": 3839.14,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "on",
+  "s": 3839.14,
+  "e": 3839.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that",
+  "s": 3839.52,
+  "e": 3839.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "term",
+  "s": 3839.74,
+  "e": 3840.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "in",
+  "s": 3840.04,
+  "e": 3840.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "this",
+  "s": 3840.2,
+  "e": 3840.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "statute.",
+  "s": 3840.38,
+  "e": 3840.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "But",
+  "s": 3841.54,
+  "e": 3841.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "there's",
+  "s": 3841.66,
+  "e": 3842.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "just",
+  "s": 3842.28,
+  "e": 3842.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "very",
+  "s": 3842.5,
+  "e": 3842.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "serious",
+  "s": 3842.78,
+  "e": 3843.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "problems",
+  "s": 3843.12,
+  "e": 3843.6,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "with",
+  "s": 3843.6,
+  "e": 3843.86,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that.",
+  "s": 3843.86,
+  "e": 3844.14,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "For",
+  "s": 3844.26,
+  "e": 3844.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "one",
+  "s": 3844.38,
+  "e": 3844.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "thing,",
+  "s": 3844.58,
+  "e": 3844.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3844.9,
+  "e": 3845.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "statute",
+  "s": 3845.02,
+  "e": 3845.42,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "talks",
+  "s": 3845.42,
+  "e": 3846.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "about",
+  "s": 3846.0,
+  "e": 3846.24,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "either",
+  "s": 3846.24,
+  "e": 3846.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "with",
+  "s": 3846.5,
+  "e": 3846.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "authorization",
+  "s": 3846.82,
+  "e": 3847.48,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "or",
+  "s": 3847.48,
+  "e": 3847.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "without",
+  "s": 3847.82,
+  "e": 3848.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "authorization.",
+  "s": 3848.2,
+  "e": 3849.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "And",
+  "s": 3849.56,
+  "e": 3849.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "so,",
+  "s": 3849.66,
+  "e": 3849.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "if",
+  "s": 3849.82,
+  "e": 3849.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "you're",
+  "s": 3849.98,
+  "e": 3850.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "going",
+  "s": 3850.12,
+  "e": 3850.22,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3850.22,
+  "e": 3850.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "say",
+  "s": 3850.32,
+  "e": 3850.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that",
+  "s": 3850.56,
+  "e": 3850.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "none",
+  "s": 3850.76,
+  "e": 3850.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3850.92,
+  "e": 3851.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "these",
+  "s": 3851.06,
+  "e": 3851.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "public-facing",
+  "s": 3851.28,
+  "e": 3851.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "websites",
+  "s": 3851.96,
+  "e": 3852.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "are",
+  "s": 3852.5,
+  "e": 3853.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "being",
+  "s": 3853.66,
+  "e": 3854.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "accessed",
+  "s": 3854.02,
+  "e": 3854.46,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "with",
+  "s": 3854.46,
+  "e": 3854.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "authorization,",
+  "s": 3854.74,
+  "e": 3855.42,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "then",
+  "s": 3855.58,
+  "e": 3855.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "it",
+  "s": 3855.68,
+  "e": 3855.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "might",
+  "s": 3855.8,
+  "e": 3855.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "be",
+  "s": 3855.96,
+  "e": 3856.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "they're",
+  "s": 3856.16,
+  "e": 3856.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "all",
+  "s": 3856.3,
+  "e": 3856.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "being",
+  "s": 3856.44,
+  "e": 3856.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "accessed",
+  "s": 3856.62,
+  "e": 3857.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "without",
+  "s": 3857.06,
+  "e": 3857.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "authorization,",
+  "s": 3857.38,
+  "e": 3858.14,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "which",
+  "s": 3858.16,
+  "e": 3858.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "would",
+  "s": 3858.38,
+  "e": 3858.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "open",
+  "s": 3858.52,
+  "e": 3858.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "up",
+  "s": 3858.72,
+  "e": 3858.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "a",
+  "s": 3858.84,
+  "e": 3858.94,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "whole",
+  "s": 3858.94,
+  "e": 3859.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "other",
+  "s": 3859.08,
+  "e": 3859.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "set",
+  "s": 3859.36,
+  "e": 3859.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3859.56,
+  "e": 3859.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "problems.",
+  "s": 3859.78,
+  "e": 3860.24,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "But",
+  "s": 3860.24,
+  "e": 3860.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "even",
+  "s": 3860.82,
+  "e": 3861.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "as",
+  "s": 3861.08,
+  "e": 3861.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3861.32,
+  "e": 3861.48,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3861.48,
+  "e": 3861.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "plain",
+  "s": 3861.72,
+  "e": 3861.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "meaning",
+  "s": 3861.9,
+  "e": 3862.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3862.36,
+  "e": 3862.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3862.52,
+  "e": 3862.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "term",
+  "s": 3862.66,
+  "e": 3862.88,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that",
+  "s": 3862.88,
+  "e": 3863.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Mr.",
+  "s": 3863.06,
+  "e": 3863.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Feigin",
+  "s": 3863.38,
+  "e": 3863.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "proposes,",
+  "s": 3863.54,
+  "e": 3864.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "it",
+  "s": 3864.74,
+  "e": 3864.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "just",
+  "s": 3864.84,
+  "e": 3865.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "escapes",
+  "s": 3865.04,
+  "e": 3865.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "me",
+  "s": 3865.52,
+  "e": 3865.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "why",
+  "s": 3865.78,
+  "e": 3866.1,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "logging",
+  "s": 3866.1,
+  "e": 3866.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "into",
+  "s": 3866.5,
+  "e": 3866.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "your",
+  "s": 3866.82,
+  "e": 3867.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "work",
+  "s": 3867.04,
+  "e": 3867.22,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "computer",
+  "s": 3867.22,
+  "e": 3867.64,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "does",
+  "s": 3867.64,
+  "e": 3867.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "not",
+  "s": 3867.84,
+  "e": 3868.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "establish",
+  "s": 3868.02,
+  "e": 3868.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "authorization",
+  "s": 3868.38,
+  "e": 3869.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "or",
+  "s": 3869.6,
+  "e": 3869.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "logging",
+  "s": 3869.8,
+  "e": 3870.1,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "into",
+  "s": 3870.1,
+  "e": 3870.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "your",
+  "s": 3870.36,
+  "e": 3870.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Westlaw",
+  "s": 3870.54,
+  "e": 3870.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "account",
+  "s": 3870.96,
+  "e": 3871.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "or",
+  "s": 3871.76,
+  "e": 3871.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "satisfying",
+  "s": 3871.96,
+  "e": 3872.6,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "an",
+  "s": 3872.6,
+  "e": 3872.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "age-based",
+  "s": 3872.84,
+  "e": 3873.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "restriction",
+  "s": 3873.3,
+  "e": 3873.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "on",
+  "s": 3873.82,
+  "e": 3874.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Facebook",
+  "s": 3874.06,
+  "e": 3874.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "or",
+  "s": 3874.94,
+  "e": 3875.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "being",
+  "s": 3875.58,
+  "e": 3876.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "single",
+  "s": 3876.02,
+  "e": 3876.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3876.44,
+  "e": 3876.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "therefore",
+  "s": 3876.66,
+  "e": 3876.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "being",
+  "s": 3876.92,
+  "e": 3877.18,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "authorized",
+  "s": 3877.18,
+  "e": 3877.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3877.56,
+  "e": 3877.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "use",
+  "s": 3877.82,
+  "e": 3877.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "a",
+  "s": 3877.96,
+  "e": 3878.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "dating",
+  "s": 3878.38,
+  "e": 3878.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "website,",
+  "s": 3878.66,
+  "e": 3879.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "et",
+  "s": 3879.26,
+  "e": 3879.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "cetera,",
+  "s": 3879.44,
+  "e": 3879.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "et",
+  "s": 3879.82,
+  "e": 3879.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "cetera.",
+  "s": 3879.98,
+  "e": 3880.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "All",
+  "s": 3880.3,
+  "e": 3880.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3880.54,
+  "e": 3880.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "these",
+  "s": 3880.72,
+  "e": 3881.46,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "websites",
+  "s": 3881.46,
+  "e": 3883.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3883.0,
+  "e": 3884.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "work",
+  "s": 3884.04,
+  "e": 3884.26,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "computers",
+  "s": 3884.26,
+  "e": 3884.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "are",
+  "s": 3884.66,
+  "e": 3885.24,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "accessed",
+  "s": 3885.24,
+  "e": 3886.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "only",
+  "s": 3886.04,
+  "e": 3886.46,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "with",
+  "s": 3886.46,
+  "e": 3886.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "authorization,",
+  "s": 3886.8,
+  "e": 3887.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "as",
+  "s": 3887.62,
+  "e": 3887.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "even",
+  "s": 3887.82,
+  "e": 3887.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Mr.",
+  "s": 3887.98,
+  "e": 3888.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Feigin",
+  "s": 3888.36,
+  "e": 3888.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "defines",
+  "s": 3888.62,
+  "e": 3889.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3889.08,
+  "e": 3889.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "term,",
+  "s": 3889.32,
+  "e": 3889.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3889.56,
+  "e": 3889.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "so",
+  "s": 3889.76,
+  "e": 3889.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that",
+  "s": 3889.82,
+  "e": 3890.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "doesn't",
+  "s": 3890.0,
+  "e": 3890.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "meaningfully",
+  "s": 3890.32,
+  "e": 3890.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "narrow",
+  "s": 3890.9,
+  "e": 3891.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3891.12,
+  "e": 3891.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "statute.",
+  "s": 3891.36,
+  "e": 3891.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "And",
+  "s": 3892.44,
+  "e": 3892.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "then",
+  "s": 3892.52,
+  "e": 3892.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "I",
+  "s": 3892.62,
+  "e": 3892.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "think",
+  "s": 3892.72,
+  "e": 3892.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "what",
+  "s": 3892.9,
+  "e": 3893.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "you're",
+  "s": 3893.06,
+  "e": 3893.24,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "left",
+  "s": 3893.24,
+  "e": 3893.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "with",
+  "s": 3893.44,
+  "e": 3893.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3893.68,
+  "e": 3893.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "this",
+  "s": 3893.84,
+  "e": 3894.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "problem",
+  "s": 3894.0,
+  "e": 3894.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "about",
+  "s": 3894.44,
+  "e": 3894.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "consequences.",
+  "s": 3894.92,
+  "e": 3895.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "And",
+  "s": 3895.84,
+  "e": 3895.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3895.92,
+  "e": 3896.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "best",
+  "s": 3896.04,
+  "e": 3896.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "thing",
+  "s": 3896.2,
+  "e": 3896.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3896.38,
+  "e": 3896.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "government",
+  "s": 3896.56,
+  "e": 3896.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "can",
+  "s": 3896.74,
+  "e": 3897.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "say",
+  "s": 3897.0,
+  "e": 3897.26,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3897.26,
+  "e": 3897.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "we",
+  "s": 3897.4,
+  "e": 3897.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "haven't",
+  "s": 3897.58,
+  "e": 3897.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "brought",
+  "s": 3897.82,
+  "e": 3898.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "a",
+  "s": 3898.08,
+  "e": 3898.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "whole",
+  "s": 3898.3,
+  "e": 3898.46,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "bunch",
+  "s": 3898.46,
+  "e": 3898.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3898.72,
+  "e": 3898.88,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "these",
+  "s": 3898.88,
+  "e": 3899.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "prosecutions",
+  "s": 3899.08,
+  "e": 3899.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "yet.",
+  "s": 3899.76,
+  "e": 3900.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Remember,",
+  "s": 3901.0,
+  "e": 3901.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "even",
+  "s": 3901.46,
+  "e": 3901.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3901.68,
+  "e": 3901.86,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "government's",
+  "s": 3901.86,
+  "e": 3902.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "2014",
+  "s": 3902.3,
+  "e": 3902.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "charging",
+  "s": 3902.82,
+  "e": 3903.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "policy",
+  "s": 3903.38,
+  "e": 3904.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "doesn't",
+  "s": 3904.08,
+  "e": 3904.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "talk",
+  "s": 3904.72,
+  "e": 3904.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "about",
+  "s": 3904.92,
+  "e": 3905.18,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "any",
+  "s": 3905.18,
+  "e": 3905.42,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3905.42,
+  "e": 3905.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "these",
+  "s": 3905.54,
+  "e": 3905.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "other",
+  "s": 3905.72,
+  "e": 3905.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "restrictions",
+  "s": 3905.98,
+  "e": 3906.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Mr.",
+  "s": 3906.5,
+  "e": 3906.86,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Feigin",
+  "s": 3907.0,
+  "e": 3907.18,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "has",
+  "s": 3907.18,
+  "e": 3907.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "been",
+  "s": 3907.4,
+  "e": 3907.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "talking",
+  "s": 3907.56,
+  "e": 3907.88,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "about",
+  "s": 3907.88,
+  "e": 3908.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "today.",
+  "s": 3908.16,
+  "e": 3908.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Instead,",
+  "s": 3908.86,
+  "e": 3909.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "what",
+  "s": 3909.32,
+  "e": 3909.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "it",
+  "s": 3909.38,
+  "e": 3909.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "says",
+  "s": 3909.54,
+  "e": 3909.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3909.82,
+  "e": 3910.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "federal",
+  "s": 3910.16,
+  "e": 3910.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "prosecutors",
+  "s": 3910.56,
+  "e": 3911.14,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "\"may\"",
+  "s": 3911.7,
+  "e": 3912.1,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "decide",
+  "s": 3912.8,
+  "e": 3913.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "not",
+  "s": 3913.32,
+  "e": 3913.64,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3913.64,
+  "e": 3913.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "bring",
+  "s": 3913.84,
+  "e": 3914.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "these",
+  "s": 3914.02,
+  "e": 3914.26,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "kinds",
+  "s": 3914.26,
+  "e": 3914.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3914.54,
+  "e": 3914.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "cases.",
+  "s": 3914.74,
+  "e": 3915.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "But,",
+  "s": 3915.9,
+  "e": 3916.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "for",
+  "s": 3916.4,
+  "e": 3916.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "all",
+  "s": 3916.9,
+  "e": 3917.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3917.06,
+  "e": 3917.24,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "textual",
+  "s": 3917.24,
+  "e": 3917.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "reasons",
+  "s": 3917.58,
+  "e": 3917.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "we've",
+  "s": 3917.9,
+  "e": 3918.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "described,",
+  "s": 3918.16,
+  "e": 3918.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "they",
+  "s": 3918.76,
+  "e": 3918.86,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "would",
+  "s": 3918.86,
+  "e": 3919.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "be",
+  "s": 3919.04,
+  "e": 3919.26,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "available",
+  "s": 3919.26,
+  "e": 3919.64,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "under",
+  "s": 3919.64,
+  "e": 3919.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3919.92,
+  "e": 3920.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "government's",
+  "s": 3920.12,
+  "e": 3920.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "reading.",
+  "s": 3920.58,
+  "e": 3920.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "And",
+  "s": 3921.5,
+  "e": 3921.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "then",
+  "s": 3921.5,
+  "e": 3921.86,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "you're --",
+  "s": 3921.86,
+  "e": 3921.86,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "I",
+  "s": 3921.86,
+  "e": 3922.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "think",
+  "s": 3922.02,
+  "e": 3922.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "you're",
+  "s": 3922.2,
+  "e": 3922.34,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "left",
+  "s": 3922.34,
+  "e": 3922.46,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "with",
+  "s": 3922.46,
+  "e": 3922.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Justice",
+  "s": 3922.68,
+  "e": 3922.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Gorsuch's",
+  "s": 3922.98,
+  "e": 3923.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "point,",
+  "s": 3923.58,
+  "e": 3923.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "which",
+  "s": 3923.8,
+  "e": 3924.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3924.0,
+  "e": 3924.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3924.16,
+  "e": 3924.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Court",
+  "s": 3924.3,
+  "e": 3924.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "over",
+  "s": 3924.62,
+  "e": 3925.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3925.16,
+  "e": 3925.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "over",
+  "s": 3925.36,
+  "e": 3925.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "again",
+  "s": 3925.74,
+  "e": 3926.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "has",
+  "s": 3926.08,
+  "e": 3926.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "had",
+  "s": 3926.28,
+  "e": 3926.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "cases",
+  "s": 3926.5,
+  "e": 3926.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "in",
+  "s": 3926.9,
+  "e": 3927.22,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "recent",
+  "s": 3927.22,
+  "e": 3927.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "years",
+  "s": 3927.5,
+  "e": 3927.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3927.84,
+  "e": 3928.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "even",
+  "s": 3928.0,
+  "e": 3928.18,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "further",
+  "s": 3928.18,
+  "e": 3928.48,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "back,",
+  "s": 3928.48,
+  "e": 3928.76,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "cases",
+  "s": 3928.88,
+  "e": 3929.1,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "like",
+  "s": 3929.1,
+  "e": 3929.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Kozminski,",
+  "s": 3929.38,
+  "e": 3929.94,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "where",
+  "s": 3930.38,
+  "e": 3930.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3930.58,
+  "e": 3930.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "government",
+  "s": 3930.74,
+  "e": 3931.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "offers",
+  "s": 3931.04,
+  "e": 3931.46,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "a",
+  "s": 3931.46,
+  "e": 3931.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "reading",
+  "s": 3931.8,
+  "e": 3932.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3932.16,
+  "e": 3932.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "a",
+  "s": 3932.4,
+  "e": 3932.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "federal",
+  "s": 3932.52,
+  "e": 3932.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "statute",
+  "s": 3932.68,
+  "e": 3933.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that",
+  "s": 3933.12,
+  "e": 3933.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "would",
+  "s": 3933.38,
+  "e": 3933.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "sweep",
+  "s": 3933.58,
+  "e": 3933.88,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "in",
+  "s": 3933.88,
+  "e": 3934.14,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "everyday",
+  "s": 3934.14,
+  "e": 3934.64,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "conduct,",
+  "s": 3934.64,
+  "e": 3935.34,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3935.34,
+  "e": 3935.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "it's",
+  "s": 3935.62,
+  "e": 3935.82,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "never",
+  "s": 3935.82,
+  "e": 3936.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "been",
+  "s": 3936.2,
+  "e": 3936.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "an",
+  "s": 3936.4,
+  "e": 3936.66,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "answer",
+  "s": 3936.66,
+  "e": 3936.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3936.98,
+  "e": 3937.48,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "that",
+  "s": 3937.48,
+  "e": 3937.64,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "kind",
+  "s": 3937.64,
+  "e": 3937.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3937.8,
+  "e": 3937.88,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "an",
+  "s": 3937.88,
+  "e": 3938.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "argument",
+  "s": 3938.02,
+  "e": 3938.32,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3938.32,
+  "e": 3938.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "say",
+  "s": 3938.52,
+  "e": 3938.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "trust",
+  "s": 3939.06,
+  "e": 3939.22,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "us,",
+  "s": 3939.22,
+  "e": 3939.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "we",
+  "s": 3939.52,
+  "e": 3939.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "won't",
+  "s": 3939.72,
+  "e": 3939.94,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "bring",
+  "s": 3939.94,
+  "e": 3940.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "those",
+  "s": 3940.12,
+  "e": 3940.34,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "kinds",
+  "s": 3940.34,
+  "e": 3940.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3940.58,
+  "e": 3940.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "cases,",
+  "s": 3940.72,
+  "e": 3941.08,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "or",
+  "s": 3941.08,
+  "e": 3941.26,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "even",
+  "s": 3941.26,
+  "e": 3941.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "saying",
+  "s": 3941.5,
+  "e": 3941.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "construe",
+  "s": 3942.74,
+  "e": 3943.14,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3943.14,
+  "e": 3943.34,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "statute",
+  "s": 3943.34,
+  "e": 3943.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3943.68,
+  "e": 3944.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "way",
+  "s": 3944.44,
+  "e": 3944.54,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "we",
+  "s": 3944.54,
+  "e": 3944.74,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "ask",
+  "s": 3944.74,
+  "e": 3944.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "now,",
+  "s": 3944.96,
+  "e": 3945.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3945.6,
+  "e": 3945.7,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "if",
+  "s": 3945.7,
+  "e": 3945.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "those",
+  "s": 3945.8,
+  "e": 3946.02,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "problems",
+  "s": 3946.02,
+  "e": 3946.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "arise",
+  "s": 3946.3,
+  "e": 3946.64,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "in",
+  "s": 3946.64,
+  "e": 3946.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3946.78,
+  "e": 3946.9,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "future,",
+  "s": 3946.9,
+  "e": 3947.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "then",
+  "s": 3947.34,
+  "e": 3947.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "you",
+  "s": 3947.44,
+  "e": 3947.56,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "can",
+  "s": 3947.56,
+  "e": 3947.7,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "address",
+  "s": 3947.7,
+  "e": 3948.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "them.",
+  "s": 3948.0,
+  "e": 3948.24,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "What",
+  "s": 3948.34,
+  "e": 3948.4,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3948.4,
+  "e": 3948.6,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Court",
+  "s": 3948.6,
+  "e": 3948.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "has",
+  "s": 3948.72,
+  "e": 3948.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "done",
+  "s": 3948.92,
+  "e": 3949.06,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "in",
+  "s": 3949.06,
+  "e": 3949.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "every",
+  "s": 3949.3,
+  "e": 3949.6,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "one",
+  "s": 3949.6,
+  "e": 3949.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3949.8,
+  "e": 3949.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "those",
+  "s": 3949.96,
+  "e": 3950.16,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "cases",
+  "s": 3950.16,
+  "e": 3950.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "is",
+  "s": 3950.62,
+  "e": 3951.18,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "apply",
+  "s": 3951.18,
+  "e": 3951.5,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3951.5,
+  "e": 3951.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "traditional",
+  "s": 3951.72,
+  "e": 3952.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "tools",
+  "s": 3952.12,
+  "e": 3952.46,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3952.46,
+  "e": 3952.62,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "construction",
+  "s": 3952.62,
+  "e": 3953.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3953.12,
+  "e": 3953.3,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "say",
+  "s": 3953.3,
+  "e": 3953.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "any",
+  "s": 3953.52,
+  "e": 3953.78,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "ambiguity",
+  "s": 3953.78,
+  "e": 3954.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "in",
+  "s": 3954.36,
+  "e": 3954.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3954.52,
+  "e": 3954.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "statute",
+  "s": 3954.68,
+  "e": 3955.0,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "must",
+  "s": 3955.0,
+  "e": 3955.36,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "be",
+  "s": 3955.36,
+  "e": 3955.72,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "construed",
+  "s": 3955.72,
+  "e": 3956.34,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "narrowly",
+  "s": 3956.34,
+  "e": 3956.96,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "because",
+  "s": 3956.96,
+  "e": 3957.68,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "of",
+  "s": 3957.68,
+  "e": 3957.84,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "fair",
+  "s": 3957.84,
+  "e": 3958.12,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "notice",
+  "s": 3958.12,
+  "e": 3958.52,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3958.52,
+  "e": 3959.04,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "other --",
+  "s": 3959.04,
+  "e": 3959.2,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "federalism",
+  "s": 3959.2,
+  "e": 3960.44,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "and",
+  "s": 3960.44,
+  "e": 3960.6,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "related",
+  "s": 3960.6,
+  "e": 3960.92,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "principles.",
+  "s": 3960.92,
+  "e": 3961.38,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "So,",
+  "s": 3961.92,
+  "e": 3961.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "for",
+  "s": 3961.98,
+  "e": 3962.1,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "those",
+  "s": 3962.1,
+  "e": 3962.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "reasons,",
+  "s": 3962.28,
+  "e": 3962.58,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "we'd",
+  "s": 3962.72,
+  "e": 3962.88,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "ask",
+  "s": 3962.88,
+  "e": 3962.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3962.98,
+  "e": 3963.64,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Court --",
+  "s": 3963.64,
+  "e": 3963.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "ask",
+  "s": 3963.8,
+  "e": 3963.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "the",
+  "s": 3963.8,
+  "e": 3963.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Court",
+  "s": 3963.8,
+  "e": 3963.8,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "to",
+  "s": 3963.8,
+  "e": 3963.98,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "reverse.",
+  "s": 3963.98,
+  "e": 3964.28,
+  "speaker": "MR. FISHER"
+ },
+ {
+  "w": "Thank",
+  "s": 3965.14,
+  "e": 3965.3,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "you,",
+  "s": 3965.3,
+  "e": 3965.48,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "counsel.",
+  "s": 3965.58,
+  "e": 3965.8,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 3966.04,
+  "e": 3966.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "case",
+  "s": 3966.16,
+  "e": 3966.36,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 3966.36,
+  "e": 3966.56,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "submitted.",
+  "s": 3966.56,
+  "e": 3966.98,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ }
+]
