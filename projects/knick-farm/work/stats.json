@@ -1,0 +1,556 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2018/17-647_aplc.pdf",
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -52.4,
+ "opening_start": 450.653,
+ "opening": [
+  [
+   450.653,
+   "JUSTICE GINSBURG",
+   "question, is there a taking, you can bring in federal court. Then -- and if the answer to that is yes, then the whole inverse condemnation proceeding goes forward in -- in federal court with --"
+  ],
+  [
+   465.813,
+   "MR. BREEMER",
+   "I understand your -- your question, Your Honor. Once a takings determination is made, then a federal court would hold a -- a damages proceeding, just like it does in other Section 1983 contexts, unreasonable seizure, due -- due process deprivations. And it -- it would be easier in a takings context than those other contexts because damages for a taking is simply just compensation. So a federal court --"
+  ],
+  [
+   489.713,
+   "JUSTICE GINSBURG",
+   "But how would this -- and that's what -- that's what inverse condemn -- condemnation is as well. So how do -- how does step 2 -- step 1, is there a taking? Yes. Something else happens in federal court. How would -- does that something else differ from an inverse condemnation proceeding in state court?"
+  ],
+  [
+   514.413,
+   "MR. BREEMER",
+   "It -- it doesn't. It's -- it's dual -- the inverse condemnation rights. The Fifth Amendment under First English incorporates a right of inverse condemnation under the federal Constitution. The states have also inverse condemnation procedures, but, again, the question is when you have a federal claim, when your claim is that the takings provision in the Fifth Amendment is violated -- excuse me, not violated, when it's implicated so that there's a just compensation remedy, do you have to go use a state inverse condemnation instead of the Fifth Amendment's inverse condemnation procedure that's recognized as self-executing."
+  ],
+  [
+   548.313,
+   "JUSTICE KAGAN",
+   "Right --"
+  ],
+  [
+   548.813,
+   "JUSTICE ALITO",
+   "Let me see --"
+  ],
+  [
+   548.873,
+   "JUSTICE KAGAN",
+   "-- but usually --"
+  ],
+  [
+   548.873,
+   "JUSTICE ALITO",
+   "-- if I understand your claim, because a little -- some of the questions and the discussion up to this point is a bit confusing to me. I thought your claim was that there is a violation of the takings clause and you can, therefore, bring a suit under 1983 when the state does something that constitutes a taking but at the same time says we're not paying you anything for this. Now it's not a question of when they would have to pay once they've admitted that there's a taking, but when they do something that constitutes a taking, and they say, no, this isn't a taking at all, and, therefore, you're getting zero, which I understand to be your claim here, then you can go directly to federal court and bring an action under 1983. And to require you to go to state court before you do that is essentially to require you to exhaust state remedies before you can bring a 1983 claim, which is never required under 1983. I thought that that was your argument."
+  ],
+  [
+   614.173,
+   "MR. BREEMER",
+   "Right. And that is one of our arguments, is that when the government, the township here in this case, invades property without -- without condemning it, it's clear that it's not compensating and that your claim --"
+  ],
+  [
+   626.573,
+   "JUSTICE KAGAN",
+   "Well, how --"
+  ],
+  [
+   626.913,
+   "MR. BREEMER",
+   "-- accrues at that --"
+  ],
+  [
+   626.913,
+   "JUSTICE KAGAN",
+   "-- is it clear that it's not compensating? In other words, what Justice Alito says"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2018/17-647",
+  "page_url": "https://www.oyez.org/cases/2018/17-647",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 21, 2019",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24894",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2018/17-647/17-647_20190621-opinion.delivery.mp3",
+  "duration": 475.846531,
+  "mp3_bytes": 1933264,
+  "asr_elapsed_s": 389.3,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   1206,
+   1227,
+   1226
+  ],
+  "diffs": [
+   [
+    3.16,
+    "17 -647, Nick",
+    "17-647, Knick"
+   ],
+   [
+    5.96,
+    "The",
+    ""
+   ],
+   [
+    8.4,
+    "Rosemary Nick",
+    "Rose Mary Knick"
+   ],
+   [
+    13.6,
+    "Nick's",
+    "Knick's"
+   ],
+   [
+    21.06,
+    "",
+    "as"
+   ],
+   [
+    25.3,
+    "Nick's",
+    "Knick's"
+   ],
+   [
+    42.72,
+    "graveyards",
+    "graveyard"
+   ],
+   [
+    44.8,
+    "Nick's,",
+    "Knick's,"
+   ],
+   [
+    51.42,
+    "Nick",
+    "Knick"
+   ],
+   [
+    86.38,
+    "Nick",
+    "Knick"
+   ],
+   [
+    97.2,
+    "Nick's",
+    "Knick's"
+   ],
+   [
+    153.04,
+    "he",
+    "you"
+   ],
+   [
+    188.26,
+    "He's",
+    "He is"
+   ],
+   [
+    295.28,
+    "Stari",
+    "stare"
+   ],
+   [
+    440.84,
+    "Nick",
+    "Knick"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 1227,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court this morning in Case 17-647, Nick v. The Township of Scott. Rosemary Nick owns 90 acres of land in Scott Township, Pennsylvania. Nick's property includes a single-family residence where she resides, a grazing area for horses, and, as is relevant today, a small graveyard where some ancestors of Nick's neighbors are allegedly buried. Such family cemeteries are fairly common in rural Pennsylvania, where backyard burials have been permitted for a long time. Now, the township passed an ordinance in 2012 requiring that all cemeteries, including small graveyards on private property like Nick's, be kept open and accessible to the general public during daylight hours. Now, Nick filed a lawsuit in Federal court alleging that, by opening up her land to all comers, the ordinance took her property without just compensation in violation of the Takings Clause of the Fifth Amendment. Normally, a plaintiff complaining of unconstitutional conduct by State or local officials is able to proceed directly to Federal court under the Civil Rights Act of 1871. But 34 years ago, in a case called Williamson County v. Hamilton Bank, we held that a Takings plaintiff like Nick cannot bring her Federal claim in Federal court until she has sought and been denied compensation in State court under State law. So the district court dismissed Nick's complaint. The Third Circuit Court of Appeals affirmed, and we granted review to reconsider our decision in Williamson County. The Williamson County court held that a property owner has no Federal Takings claim until he is litigated and lost in State court because it believed that a government does not necessarily violate the Takings Clause at the time it takes property without paying for it. All the clause requires at the time of the taking, Williamson County thought, is that the government give the property owner some means of obtaining compensation after the fact. A violation occurs, if at all, only later when the government denies the property owner compensation in such a post-taking proceeding. Since there is no violation at the time of the taking itself, the property owner cannot go to Federal court at that time because he can only go to Federal court to remedy a violation. Now, the Williamson County court anticipated that an unsuccessful Takings plaintiff would be able to go to Federal court with the Federal Takings claim when the State court denies him compensation. There would be a violation at that time. But 20 years later, we issued another decision called San Remo Hotel v. San Francisco."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court this morning in Case 17-647, Nick v. The Township of Scott. Rosemary Nick owns 90 acres of land in Scott Township, Pennsylvania. Nick's property includes a single-family residence where she resides, a grazing area for horses, and, as is relevant today, a small graveyard where some ancestors of Nick's neighbors are allegedly buried. Such family cemeteries are fairly common in rural Pennsylvania, where backyard burials have been permitted for a long time. Now, the township passed an ordinance in 2012 requiring that all cemeteries, including small graveyards on private property like Nick's, be kept open and accessible to the general public during daylight hours. Now, Nick filed a lawsuit in Federal court alleging that, by opening up her land to all comers, the ordinance took her property without just compensation in violation of the Takings Clause of the Fifth Amendment. Normally, a plaintiff complaining of unconstitutional conduct by State or local officials is able to proceed directly to Federal court under the Civil Rights Act of 1871. But 34 years ago, in a case called Williamson County v. Hamilton Bank, we held that a Takings plaintiff like Nick cannot bring her Federal claim in Federal court until she has sought and been denied compensation in State court under State law. So the district court dismissed Nick's complaint. The Third Circuit Court of Appeals affirmed, and we granted review to reconsider our decision in Williamson County. The Williamson County court held that a property owner has no Federal Takings claim until he is litigated and lost in State court because it believed that a government does not necessarily violate the Takings Clause at the time it takes property without paying for it. All the clause requires at the time of the taking, Williamson County thought, is that the government give the property owner some means of obtaining compensation after the fact. A violation occurs, if at all, only later when the government denies the property owner compensation in such a post-taking proceeding. Since there is no violation at the time of the taking itself, the property owner cannot go to Federal court at that time because he can only go to Federal court to remedy a violation. Now, the Williamson County court anticipated that an unsuccessful Takings plaintiff would be able to go to Federal court with the Federal Takings claim when the State court denies him compensation. There would be a violation at that time. But 20 years later, we issued another decision called San Remo Hotel v. San Francisco. There we said that once a State court denies a Takings claim, the plaintiff does not get to start over fresh in Federal court. He's pretty much stuck with whatever the State court decided. So you can see that the Takings plaintiff is in a catch-22. He cannot go to Federal court without going to State court first. That's what Williamson County says. But if he goes to State court and loses, his claim will be barred in Federal court. That's what San Remo says. Now, that should tip us off that something is wrong. And we decide today that the something that's wrong is Williamson County. Contrary to Williamson County, a property owner has a claim for a violation of the Takings clause as soon as the government takes his property without paying for it. The Takings clause says, nor shall private property be taken for public use without just compensation. It does not say, nor shall private property be taken for public use without an available procedure that will result in just compensation down the road. Now, if a local government takes private property without paying for it, that government has violated the Fifth Amendment, just as the Takings clause says, without regard to subsequent State court proceedings. Now, that does not mean that the government has to pay compensation right away. It can pay you later, so long as it pays interest back to the time of the taking. But the important thing is that as soon as it takes the property without paying for it, it has violated the Takings clause at that time. Now, why is that important? Because if the government violated the Takings clause at that time, that's when you get to go into Federal court. You don't have to wait for any subsequent State proceeding, and that means you don't have a San Remo problem. So Williamson County was wrong. The next question is whether we should overrule it or whether Stari decisis, Latin for let the decision stand, counsels in favor of sticking with it despite its flaws. Earlier this week, we turned aside two requests to overrule prior decisions. But today, the balance tips in favor of dispensing with Williamson County. First, Williamson County was not just wrong. Its reasoning conflicted with much of our established Takings clause jurisprudence, and the decision has come in for repeated criticism over the years from justices of this Court and respected commentators. Indeed, no party here even defends the decision's original reasoning. Because of its shaky foundations, the State litigation requirement has been a rule in search of a justification for over 30 years. We quickly abandoned Williamson County's anomalous conclusion that a property owner does not acquire a Fifth Amendment right at the time of the taking, and have since described the State litigation requirement as instead a prudential ripeness rule. No party defends that approach either. The State litigation requirement has proved to be an unworkable rule in practice. As explained, Williamson County envisioned that Takings plaintiffs would be able to bring their claims in Federal court after losing in State court. But the Court failed to consider that, as we later held in San Remo, that the State court judgment would effectively bar any Federal suit. The Williamson County court did not realize that its holding would keep Takings claims against local governments out of the Federal courts. There was nothing in the briefs or arguments about that, and nothing in the opinion. Finally, there are no reliance interests on Williamson County. We have recognized that the force of stare decisis is reduced when it comes to rules that do not provide a guide to lawful behavior. Our holding that uncompensated takings violate the Fifth Amendment at the time of the taking will not force governments to do anything differently. The same rules apply about what does and does not constitute a taking. Our holding simply means that Takings claims against local governments will be able to be brought in Federal court without plaintiffs having to go to State court first, just like claims under any other provision of the Bill of Rights. Now, for those reasons, the State litigation requirement of Williamson County is overruled. Ms. Nick need not ask a Pennsylvania court to order the township to compensate her for turning part of her property into a public cemetery. A Federal court, no less than a State court, is competent to adjudicate her constitutional claim. The judgment of the United States Court of Appeals for the Third Circuit is vacated, and the case is remanded for further proceedings consistent with this opinion. Justice Thomas has filed a concurring opinion. Justice Kagan has filed a dissenting opinion in which Justices Ginsburg, Breyer, and Sotomayor join."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court this morning in Case 17-647, Nick v. The Township of Scott."
+   ],
+   [
+    8.4,
+    "CHIEF JUSTICE ROBERTS",
+    "Rosemary Nick owns 90 acres of land in Scott Township, Pennsylvania."
+   ],
+   [
+    13.6,
+    "CHIEF JUSTICE ROBERTS",
+    "Nick's property includes a single-family residence where she resides, a grazing area for horses, and, as is relevant today, a small graveyard where some ancestors of Nick's neighbors are allegedly buried."
+   ],
+   [
+    27.58,
+    "CHIEF JUSTICE ROBERTS",
+    "Such family cemeteries are fairly common in rural Pennsylvania, where backyard burials have been permitted for a long time."
+   ],
+   [
+    36.2,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, the township passed an ordinance in 2012 requiring that all cemeteries, including small graveyards on private property like Nick's, be kept open and accessible to the general public during daylight hours."
+   ],
+   [
+    51.28,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, Nick filed a lawsuit in Federal court alleging that, by opening up her land to all comers, the ordinance took her property without just compensation in violation of the Takings Clause of the Fifth Amendment."
+   ],
+   [
+    65.74,
+    "CHIEF JUSTICE ROBERTS",
+    "Normally, a plaintiff complaining of unconstitutional conduct by State or local officials is able to proceed directly to Federal court under the Civil Rights Act of 1871."
+   ],
+   [
+    79.06,
+    "CHIEF JUSTICE ROBERTS",
+    "But 34 years ago, in a case called Williamson County v. Hamilton Bank, we held that a Takings plaintiff like Nick cannot bring her Federal claim in Federal court until she has sought and been denied compensation in State court under State law."
+   ],
+   [
+    95.2,
+    "CHIEF JUSTICE ROBERTS",
+    "So the district court dismissed Nick's complaint."
+   ],
+   [
+    98.74,
+    "CHIEF JUSTICE ROBERTS",
+    "The Third Circuit Court of Appeals affirmed, and we granted review to reconsider our decision in Williamson County."
+   ],
+   [
+    106.66,
+    "CHIEF JUSTICE ROBERTS",
+    "The Williamson County court held that a property owner has no Federal Takings claim until he is litigated and lost in State court because it believed that a government does not necessarily violate the Takings Clause at the time it takes property without paying for it."
+   ],
+   [
+    124.0,
+    "CHIEF JUSTICE ROBERTS",
+    "All the clause requires at the time of the taking, Williamson County thought, is that the government give the property owner some means of obtaining compensation after the fact."
+   ],
+   [
+    135.32,
+    "CHIEF JUSTICE ROBERTS",
+    "A violation occurs, if at all, only later when the government denies the property owner compensation in such a post-taking proceeding."
+   ],
+   [
+    145.14,
+    "CHIEF JUSTICE ROBERTS",
+    "Since there is no violation at the time of the taking itself, the property owner cannot go to Federal court at that time because he can only go to Federal court to remedy a violation."
+   ],
+   [
+    157.52,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, the Williamson County court anticipated that an unsuccessful Takings plaintiff would be able to go to Federal court with the Federal Takings claim when the State court denies him compensation."
+   ],
+   [
+    169.96,
+    "CHIEF JUSTICE ROBERTS",
+    "There would be a violation at that time."
+   ],
+   [
+    173.98,
+    "CHIEF JUSTICE ROBERTS",
+    "But 20 years later, we issued another decision called San Remo Hotel v. San Francisco."
+   ],
+   [
+    180.68,
+    "CHIEF JUSTICE ROBERTS",
+    "There we said that once a State court denies a Takings claim, the plaintiff does not get to start over fresh in Federal court."
+   ],
+   [
+    188.26,
+    "CHIEF JUSTICE ROBERTS",
+    "He's pretty much stuck with whatever the State court decided."
+   ],
+   [
+    192.24,
+    "CHIEF JUSTICE ROBERTS",
+    "So you can see that the Takings plaintiff is in a catch-22."
+   ],
+   [
+    196.0,
+    "CHIEF JUSTICE ROBERTS",
+    "He cannot go to Federal court without going to State court first."
+   ],
+   [
+    199.78,
+    "CHIEF JUSTICE ROBERTS",
+    "That's what Williamson County says."
+   ],
+   [
+    201.98,
+    "CHIEF JUSTICE ROBERTS",
+    "But if he goes to State court and loses, his claim will be barred in Federal court."
+   ],
+   [
+    206.94,
+    "CHIEF JUSTICE ROBERTS",
+    "That's what San Remo says."
+   ],
+   [
+    209.48,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, that should tip us off that something is wrong."
+   ],
+   [
+    212.94,
+    "CHIEF JUSTICE ROBERTS",
+    "And we decide today that the something that's wrong is Williamson County."
+   ],
+   [
+    217.98,
+    "CHIEF JUSTICE ROBERTS",
+    "Contrary to Williamson County, a property owner has a claim for a violation of the Takings clause as soon as the government takes his property without paying for it."
+   ],
+   [
+    227.72,
+    "CHIEF JUSTICE ROBERTS",
+    "The Takings clause says, nor shall private property be taken for public use without just compensation."
+   ],
+   [
+    234.92,
+    "CHIEF JUSTICE ROBERTS",
+    "It does not say, nor shall private property be taken for public use without an available procedure that will result in just compensation down the road."
+   ],
+   [
+    245.22,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, if a local government takes private property without paying for it, that government has violated the Fifth Amendment, just as the Takings clause says, without regard to subsequent State court proceedings."
+   ],
+   [
+    257.06,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, that does not mean that the government has to pay compensation right away."
+   ],
+   [
+    261.3,
+    "CHIEF JUSTICE ROBERTS",
+    "It can pay you later, so long as it pays interest back to the time of the taking."
+   ],
+   [
+    266.38,
+    "CHIEF JUSTICE ROBERTS",
+    "But the important thing is that as soon as it takes the property without paying for it, it has violated the Takings clause at that time."
+   ],
+   [
+    275.38,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, why is that important?"
+   ],
+   [
+    276.4,
+    "CHIEF JUSTICE ROBERTS",
+    "Because if the government violated the Takings clause at that time, that's when you get to go into Federal court."
+   ],
+   [
+    282.88,
+    "CHIEF JUSTICE ROBERTS",
+    "You don't have to wait for any subsequent State proceeding, and that means you don't have a San Remo problem."
+   ],
+   [
+    289.76,
+    "CHIEF JUSTICE ROBERTS",
+    "So Williamson County was wrong."
+   ],
+   [
+    292.08,
+    "CHIEF JUSTICE ROBERTS",
+    "The next question is whether we should overrule it or whether Stari decisis, Latin for let the decision stand, counsels in favor of sticking with it despite its flaws."
+   ],
+   [
+    303.44,
+    "CHIEF JUSTICE ROBERTS",
+    "Earlier this week, we turned aside two requests to overrule prior decisions."
+   ],
+   [
+    308.64,
+    "CHIEF JUSTICE ROBERTS",
+    "But today, the balance tips in favor of dispensing with Williamson County."
+   ],
+   [
+    314.04,
+    "CHIEF JUSTICE ROBERTS",
+    "First, Williamson County was not just wrong."
+   ],
+   [
+    317.14,
+    "CHIEF JUSTICE ROBERTS",
+    "Its reasoning conflicted with much of our established Takings clause jurisprudence, and the decision has come in for repeated criticism over the years from justices of this Court and respected commentators."
+   ],
+   [
+    330.66,
+    "CHIEF JUSTICE ROBERTS",
+    "Indeed, no party here even defends the decision's original reasoning."
+   ],
+   [
+    336.72,
+    "CHIEF JUSTICE ROBERTS",
+    "Because of its shaky foundations, the State litigation requirement has been a rule in search of a justification for over 30 years."
+   ],
+   [
+    345.04,
+    "CHIEF JUSTICE ROBERTS",
+    "We quickly abandoned Williamson County's anomalous conclusion that a property owner does not acquire a Fifth Amendment right at the time of the taking, and have since described the State litigation requirement as instead a prudential ripeness rule."
+   ],
+   [
+    359.46,
+    "CHIEF JUSTICE ROBERTS",
+    "No party defends that approach either."
+   ],
+   [
+    362.3,
+    "CHIEF JUSTICE ROBERTS",
+    "The State litigation requirement has proved to be an unworkable rule in practice."
+   ],
+   [
+    366.92,
+    "CHIEF JUSTICE ROBERTS",
+    "As explained, Williamson County envisioned that Takings plaintiffs would be able to bring their claims in Federal court after losing in State court."
+   ],
+   [
+    375.72,
+    "CHIEF JUSTICE ROBERTS",
+    "But the Court failed to consider that, as we later held in San Remo, that the State court judgment would effectively bar any Federal suit."
+   ],
+   [
+    384.24,
+    "CHIEF JUSTICE ROBERTS",
+    "The Williamson County court did not realize that its holding would keep Takings claims against local governments out of the Federal courts."
+   ],
+   [
+    392.02,
+    "CHIEF JUSTICE ROBERTS",
+    "There was nothing in the briefs or arguments about that, and nothing in the opinion."
+   ],
+   [
+    396.9,
+    "CHIEF JUSTICE ROBERTS",
+    "Finally, there are no reliance interests on Williamson County."
+   ],
+   [
+    400.46,
+    "CHIEF JUSTICE ROBERTS",
+    "We have recognized that the force of stare decisis is reduced when it comes to rules that do not provide a guide to lawful behavior."
+   ],
+   [
+    408.98,
+    "CHIEF JUSTICE ROBERTS",
+    "Our holding that uncompensated takings violate the Fifth Amendment at the time of the taking will not force governments to do anything differently."
+   ],
+   [
+    417.0,
+    "CHIEF JUSTICE ROBERTS",
+    "The same rules apply about what does and does not constitute a taking."
+   ],
+   [
+    421.72,
+    "CHIEF JUSTICE ROBERTS",
+    "Our holding simply means that Takings claims against local governments will be able to be brought in Federal court without plaintiffs having to go to State court first, just like claims under any other provision of the Bill of Rights."
+   ],
+   [
+    435.36,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, for those reasons, the State litigation requirement of Williamson County is overruled."
+   ],
+   [
+    440.26,
+    "CHIEF JUSTICE ROBERTS",
+    "Ms. Nick need not ask a Pennsylvania court to order the township to compensate her for turning part of her property into a public cemetery."
+   ],
+   [
+    449.34,
+    "CHIEF JUSTICE ROBERTS",
+    "A Federal court, no less than a State court, is competent to adjudicate her constitutional claim."
+   ],
+   [
+    455.62,
+    "CHIEF JUSTICE ROBERTS",
+    "The judgment of the United States Court of Appeals for the Third Circuit is vacated, and the case is remanded for further proceedings consistent with this opinion."
+   ],
+   [
+    465.16,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Thomas has filed a concurring opinion."
+   ],
+   [
+    467.44,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kagan has filed a dissenting opinion in which Justices Ginsburg, Breyer, and Sotomayor join."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    474.76,
+    1223
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "17-647",
+ "year": "2018",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2018/17-647",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/17-647.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2018/17-647_aplc.pdf",
+ "model": "medium.en",
+ "duration": 3724.608,
+ "asr_elapsed_s": 1513.4,
+ "asr_words": 4993,
+ "official_words": 5112,
+ "matched": 4847,
+ "shared": 2,
+ "clamped": 0,
+ "trimmed": 11,
+ "rewindowed": 0,
+ "match_rate": 94.81611893583725,
+ "turns": 151,
+ "laugh_markers": 0,
+ "mp3_bytes": 29797101,
+ "pauses": 144,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 199,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.82% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-17"
+}

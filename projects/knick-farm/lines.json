@@ -1,0 +1,908 @@
+[
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 450.653,
+  "e": 464.413,
+  "text": "question, is there a taking, you can bring in federal court. Then -- and if the answer to that is yes, then the whole inverse condemnation proceeding goes forward in -- in federal court with --"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 465.813,
+  "e": 489.713,
+  "text": "I understand your -- your question, Your Honor. Once a takings determination is made, then a federal court would hold a -- a damages proceeding, just like it does in other Section 1983 contexts, unreasonable seizure, due -- due process deprivations. And it -- it would be easier in a takings context than those other contexts because damages for a taking is simply just compensation. So a federal court --"
+ },
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 489.713,
+  "e": 513.813,
+  "text": "But how would this -- and that's what -- that's what inverse condemn -- condemnation is as well. So how do -- how does step 2 -- step 1, is there a taking? Yes. Something else happens in federal court. How would -- does that something else differ from an inverse condemnation proceeding in state court?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 514.413,
+  "e": 548.313,
+  "text": "It -- it doesn't. It's -- it's dual -- the inverse condemnation rights. The Fifth Amendment under First English incorporates a right of inverse condemnation under the federal Constitution. The states have also inverse condemnation procedures, but, again, the question is when you have a federal claim, when your claim is that the takings provision in the Fifth Amendment is violated -- excuse me, not violated, when it's implicated so that there's a just compensation remedy, do you have to go use a state inverse condemnation instead of the Fifth Amendment's inverse condemnation procedure that's recognized as self-executing."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 548.313,
+  "e": 548.813,
+  "text": "Right --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 548.813,
+  "e": 548.873,
+  "text": "Let me see --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 548.873,
+  "e": 548.873,
+  "text": "-- but usually --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 548.873,
+  "e": 614.173,
+  "text": "-- if I understand your claim, because a little -- some of the questions and the discussion up to this point is a bit confusing to me. I thought your claim was that there is a violation of the takings clause and you can, therefore, bring a suit under 1983 when the state does something that constitutes a taking but at the same time says we're not paying you anything for this. Now it's not a question of when they would have to pay once they've admitted that there's a taking, but when they do something that constitutes a taking, and they say, no, this isn't a taking at all, and, therefore, you're getting zero, which I understand to be your claim here, then you can go directly to federal court and bring an action under 1983. And to require you to go to state court before you do that is essentially to require you to exhaust state remedies before you can bring a 1983 claim, which is never required under 1983. I thought that that was your argument."
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 614.173,
+  "e": 626.513,
+  "text": "Right. And that is one of our arguments, is that when the government, the township here in this case, invades property without -- without condemning it, it's clear that it's not compensating and that your claim --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 626.573,
+  "e": 626.913,
+  "text": "Well, how --"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 626.913,
+  "e": 626.913,
+  "text": "-- accrues at that --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 626.913,
+  "e": 658.773,
+  "text": "-- is it clear that it's not compensating? In other words, what Justice Alito says clarifies matters considerably, that if the state has already said we're not compensating, then it seems you can claim both that you've had a taking and that the state has refused to compensate. But I thought that the question here arose from the fact that the state has not said yet that it's not compensating, that, instead, it uses the inverse condemnation proceeding to make that determination. Is that wrong?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 659.773,
+  "e": 695.695,
+  "text": "Well, yes, in -- in this way: The township is taking her property. The township has imposed an easement on Ms. Knick's property that allows the public in every day of the week, every day of the year. It has the power to condemn easements. It did not use it. So we know that the township is not compensating her. It denies that there's even a taking. So it's not a matter of what the state does. It's a matter of what the township, as the -- as the defendant that's taking your property, and could have used condemnation and declared a taking, gone into state court, kept it there, but instead used its regulatory power."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 695.695,
+  "e": 695.864,
+  "text": "And the township has --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 695.864,
+  "e": 696.033,
+  "text": "How about the town --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 696.033,
+  "e": 732.513,
+  "text": "-- the township has imposed these restrictions on the property and it hasn't said that it will pay anything for it. Of course, it hasn't said that if you sue us in state court and you win in an inverse -- inverse condemnation proceeding which we will resist, we will refuse to pay the judgment of the state court. It hasn't said that. But it has -- has certainly has not said we admit that this is a taking and we owe you money, and there -- and you have to go to state court to determine how much money we owe. Am I right on that?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 732.693,
+  "e": 739.873,
+  "text": "That's right. And -- and the entitle -- that's -- the issue is the entitlement. The township denies that there's an entitlement to compensation. Ms. --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 739.873,
+  "e": 789.313,
+  "text": "But does it? I mean, I -- I'm following Justice Alito's point exactly, except what I'm not understanding is I -- I had thought that in a case like this there had been no determination by the state that there was liability one way or the other. In other words, the state had not denied liability, nor had the state conceded liability. So this isn't a -- a question where the state has said: Look, we deny any liability. It's -- it's -- the state hasn't said one way or the other. And we're going to find out in the inverse condemnation action whether the state is, in fact, denying all liability or whether the state is going to come in and say: You're right, there is liability here, and now let's talk about how much."
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 790.193,
+  "e": 809.933,
+  "text": "Well, we -- we could, but, again, that liability issue arises under the Fifth Amendment under the takings provision. So a federal court is capable of deciding that very question, is there liability or not? If there is, there's a compensation remedy ensuring that a de facto taking does not go without compensation --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 809.933,
+  "e": 810.533,
+  "text": "Right. But my --"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 810.533,
+  "e": 810.533,
+  "text": "-- if there is, which --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 810.533,
+  "e": 842.113,
+  "text": "-- question is, if the state has not denied liability yet, how do you have a Fifth Amendment claim? If the state has denied liability, if it has said we're refusing to pay, then I take Justice Alito's point exactly. Then you have both your elements of the Fifth Amendment claim. There's been a taking and the state has refused to pay just compensation, allegedly. But, if the state has not yet refused to pay, how do you have a Fifth Amendment claim?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 843.853,
+  "e": 876.913,
+  "text": "Because in the inverse condemnation context -- well, let me back up one minute. I think the appropriate actor is the township, but in the inverse condemnation context, again, the problem is not whether or not the government will pay. It's will it recognize an entitlement because there's been a taking. Until you get that entitle -- that takings determination made, compensation issues don't play into the equation. And if compensation issues aren't part of the element of the takings dispute, then state remedies are irrelevant to the presentation of claims."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 876.913,
+  "e": 897.393,
+  "text": "But this isn't -- this isn't sort of a black or white thing. I assume what the state -- well, I thought what the state had done and will do in -- in many cases is say, look, we don't think we owe you anything, but we have a process for determining whether we do or not. And if -- if it turns out under the inverse condemnation action we do, well, that's what we'll pay. Is -- is -- is that what is going on here?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 898.313,
+  "e": 929.333,
+  "text": "Well, again, Your Honor, I would say this, that the fact that there are state procedures like inverse condemnation doesn't mean that they must be used for a federal claim. That's the question here: Must Ms. Knick use the state inverse condemnation remedies rather than the federal remedy that's under the Fifth Amendment. And Section 1983 would say no, the language and purpose of Section 1983 says no. The history and language and purpose of Section 1331 says no. So --"
+ },
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 929.333,
+  "e": 929.333,
+  "text": "In this case --"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 929.333,
+  "e": 930.113,
+  "text": "-- what we're asking --"
+ },
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 930.113,
+  "e": 943.893,
+  "text": "-- this case, I think the first -- first question was, should the Court overrule Williamson. Are you asking the Court to do that, or are you distinguishing the claim that you're making from the claim in Williamson?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 944.533,
+  "e": 976.873,
+  "text": "We're -- we are asking, Your Honor, for the Court to overrule Williamson County to this -- to this extent, the state compensation requirement, because it is inconsistent with Section 1983 and with the nature of a Fifth Amendment inverse condemnation claim. But, again, we're not asking the Court to overrule the entirety of Williamson County. The finality, the ripeness prong, which is still a difficult hurdle to get by, would remain intact and would keep many claims -- would -- would stop many claims at an early stage. And so we're asking the Court return --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 976.953,
+  "e": 996.093,
+  "text": "Would that mean that if the state or the locality says once we have an administrative law, if you disagree with it, you have to go through this administrative process and, if we violated something, we'll pay for it? Would that be okay?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 996.753,
+  "e": 1017.273,
+  "text": "No, Your Honor, it would not, for two reasons, and then I'd like to reserve the rest of my time. That would raise the same res judicata and issue preclusion problems that Williamson County already generates because administrative procedures in Pennsylvania and many places elsewhere are res judicata and issue preclusion in court. And, secondly, as this --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1017.373,
+  "e": 1017.373,
+  "text": "So --"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 1017.373,
+  "e": 1017.613,
+  "text": "-- Court --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1017.613,
+  "e": 1042.773,
+  "text": "-- but wait a minute. What you're saying is a state passes a law, it says at the bottom of the law we don't think this is a condemnation, but, if it is, follow this administrative process. So it's basically saying we'll pay you if you're right. You're saying they don't have to exhaust that administrative process even?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 1043.053,
+  "e": 1050.373,
+  "text": "If I understand correctly, if you're -- you're saying that if a court, a federal court found a taking that maybe a property owner should go --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1050.373,
+  "e": 1050.773,
+  "text": "No, no."
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 1050.773,
+  "e": 1051.453,
+  "text": "Okay. That's what I --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1051.453,
+  "e": 1084.493,
+  "text": "I'm saying they pass an administrative law that puts -- that recognizes some sort of easement, whether it's historical or not I'm not going to get into. There's a dispute as to whether it -- you took title to that property with that easement or not. Do you say that if the state or the city or whatever says you have to follow this administrative process to determine whether this law is right or not, that you don't have to exhaust that administrative process?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 1084.733,
+  "e": 1092.793,
+  "text": "No, you wouldn't have to, Your Honor, because that would require you to prove a taking at an administrative level. And as the Court said in Thunder Basin, administrative agencies are --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1092.833,
+  "e": 1098.993,
+  "text": "So there's no hope for states. They're going to be in federal court all of the time on every administrative law that they pass?"
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 1099.613,
+  "e": 1100.433,
+  "text": "May I answer the question?"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1100.533,
+  "e": 1102.773,
+  "text": "You can answer briefly. You'll be able to reserve some time."
+ },
+ {
+  "speaker": "MR. BREEMER",
+  "s": 1103.153,
+  "e": 1118.553,
+  "text": "These cases, takings cases, will get spread out across state and federal courts just like other constitutional claims, and the existing ripeness, the traditional ripeness for rule of finality will ensure that -- that many of these cases don't make it very far in federal court."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1118.893,
+  "e": 1125.373,
+  "text": "Thank you, counsel. General Francisco."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1127.573,
+  "e": 1192.573,
+  "text": "Mr. Chief Justice, and may -- may it please the Court: I'd like to address two basic points that I think are relevant to the discussion that we've been having here. First, Williamson County's premise was correct. The government doesn't violate the takings clause if it provides just compensation after the fact. But it erred in assuming that Section 1983 is only available to address constitutional violations. Instead, it's available to enforce the deprivation of all constitutional rights, and there's no basis for concluding that the right to just compensation is the only right that Section 1983 doesn't cover. But, second, I think you can effectively reach the same result under Section 1331 because, as this Court held in International College of Surgeons, is -- if a state cause of action asserts a federal takings claim as such, then that state cause of action arises under the Constitution for purposes of Section 1331, and so the property owner falls within the district court's original jurisdiction, and you don't have to address whether Williamson County was rightly or wrongly decided --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1192.753,
+  "e": 1192.913,
+  "text": "Has that --"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1192.913,
+  "e": 1192.913,
+  "text": "-- at all."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1192.913,
+  "e": 1201.273,
+  "text": "-- ever been considered before? Because it seems a -- a way out of this difficulty. Has anybody ever addressed it?"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1201.553,
+  "e": 1209.173,
+  "text": "Your Honor, I think the only thing that I can point you to is International College of Surgeons itself, but, no, no court has addressed it in the context of Williamson County."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1209.313,
+  "e": 1209.523,
+  "text": "Well, you --"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1209.523,
+  "e": 1209.553,
+  "text": "But --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1209.553,
+  "e": 1235.853,
+  "text": "-- you can answer the letters that we're going to get from district court judges around the country who are not going to be very happy learning that they now have to adjudicate state inverse condemnation actions, which can be fairly elaborate. You know, the judge appoints a special master. They go out and evaluate it. The -- you know, it's a -- it's like arbitration. It's -- it's a very intensive procedure that seems more suited for state court than federal court."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1236.173,
+  "e": 1296.92,
+  "text": "Well, Your Honor, I -- I think the Court crossed that bridge in International College of Surgeons when it -- really in a factually analogous case. In that case, Illinois's landmarks law applied to buildings owned by the International College of Surgeons, and they asserted in a state cause of action that the application of that law constituted a federal taking. And this Court held that it was within federal jurisdiction. I agree that there are going to be Erie issues that courts are going to have to confront, but I don't think they'd be particularly problematic. Take, for example, affirmative condemnation proceedings, state eminent domain proceedings that are brought in federal court because of diversity jurisdiction. The federal rules, Federal Rule 71.1(k), I think it is, already provide for federal courts to apply the state procedural rules for assessing the amount of compensation in that context. So, yes, they will have to confront those types of state law questions, but I don't think it would be particularly problematic. It's something that courts do in diversity cases all the time, and in cases -- other cases that raise federal questions all the time, like --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1296.92,
+  "e": 1326.073,
+  "text": "General, my -- my question is I can see his point, that you could say a state that says our regulation doesn't take anything, and they dispute it. And you could say a state that acts that way is a state that isn't going to pay you any money and, therefore, it is complete, the violation. Or you could say we don't know about the second answer yet, so we'll see. Or you could say sometimes the one, sometimes the other."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1326.073,
+  "e": 1326.753,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1326.753,
+  "e": 1342.893,
+  "text": "Or we could go into 1331. But Williamson was decided 32 years ago. This is a very complicated area of law. Why not let sleeping dogs lie?"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1342.893,
+  "e": 1343.713,
+  "text": "And --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1343.713,
+  "e": 1345.733,
+  "text": "It's called stare decisis."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1346.073,
+  "e": 1346.073,
+  "text": "And, Your Honor --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1346.073,
+  "e": 1352.073,
+  "text": "There is one harm, the harm of the person who tries to remove and then gets kicked out of court."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1352.073,
+  "e": 1352.533,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1352.533,
+  "e": 1381.453,
+  "text": "We could write a sentence saying that's wrong, you've waived it. All right. But I couldn't find in any of these briefs any serious harm that would, in fact -- your 1331 point can be tried out by somebody -- but any serious point that right now provides a strong reason for overturning a case that's been on the books in a complex area for 32 years."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1381.753,
+  "e": 1387.893,
+  "text": "So a couple of responses, Your Honor. I think our 1331 argument doesn't require you to overturn Williamson County."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1387.893,
+  "e": 1388.093,
+  "text": "It doesn't."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1388.093,
+  "e": 1391.813,
+  "text": "I think it exists very nicely alongside of Williamson County."
+ },
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 1391.973,
+  "e": 1396.693,
+  "text": "It wasn't raised below. Thirteen -- the 1331 theory was not raised below."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1396.793,
+  "e": 1400.113,
+  "text": "No, Your Honor, but we think it is well within the question presented. The Court --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1400.113,
+  "e": 1401.053,
+  "text": "Was it raised by the parties?"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1401.453,
+  "e": 1433.053,
+  "text": "That's correct, Your Honor, but I think it's well within the question presented because this Court granted certiorari on whether or not to overrule Williamson County. The principal criticism of Williamson County is that it closes the federal courthouse doors to an entire category of takings litigants. And I think that our alternative argument is directly relevant to whether Williamson County does, in fact, close the federal courthouse doors to an entire category of takings litigants. I'd also note that Williamson County itself -- the parties below didn't raise the issue that we are here talking about before the Court. So I think --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1433.053,
+  "e": 1441.673,
+  "text": "But this is a theory -- a pretty -- there's no reason in history that federal courts have to be open to every federal claim. I mean, sometimes they are. Sometimes they're not."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1441.673,
+  "e": 1441.673,
+  "text": "That's --"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1441.673,
+  "e": 1462.473,
+  "text": "So, therefore, state courts can litigate too. They're okay. So -- so why do it? My question is, why not simply say, law for 32 years, end of this case, stare decisis, the solicitor general raises a very interesting point, not litigated here."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1462.473,
+  "e": 1462.673,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 1464.313,
+  "e": 1465.173,
+  "text": "We'll see what happens. If it's --"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1465.173,
+  "e": 1499.913,
+  "text": "Well, look, I'll put my 1331 argument to the side because I think, as -- as I've -- I've explained, that exists alongside Williamson County. But let me take on your question directly, why should the Court consider overturning Williamson County? And we think that the principal reason, if you decide to get there, and we don't think you have to decide to get there, but if you decide to get there, it's because Williamson County's rationale has never actually been explained. And as a result, it has been understood by the lower courts to produce this unintended consequence of essentially closing the courthouse -- federal courthouse doors to a class of takings litigants. We --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1499.913,
+  "e": 1542.173,
+  "text": "I'm sorry, the courthouse doors are closed to people on tax issues, even though there's constitutional claims. So there's a class that we have both for -- for doctrinal reasons and -- and comity issues and a lot of other reasons, we've closed the courthouse doors. We've closed them to people claiming that they had an unreasonable search and seizure. If they litigated in state court under the Fourth Amendment, a claim in state court, they can't come to federal court afterwards. So it's not as if our courthouse doors are open uniformly to everybody anytime. There -- there are all sorts of doctrines that preclude people --"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1542.173,
+  "e": 1542.173,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1542.173,
+  "e": 1547.933,
+  "text": "-- from coming to federal court once they've been issue-precluded in state court."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1547.933,
+  "e": 1581.673,
+  "text": "Right. And that's the key, I think, once they've been issue-precluded in state court. None of those doctrines, with the exception of the tax doctrine, which I'll address in a moment, actually close the federal courthouse doors when there's not a pending state court proceeding, because I think the criminal cases you're talking about are the Younger doctrine. When it comes to the tax laws, that's a very tax-specific rule -- rule that doesn't just apply to property claims; it applies across the board and bars any constitutional challenge in federal courts to state or local tax laws. There's no comparable rule that applies across the board to property claims. After all, courts --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1581.673,
+  "e": 1593.933,
+  "text": "Well, except Williamson, which basically says there's no taking. And you don't -- you're not encouraging us to believe that compensation is due the minute there's a taking, is it?"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1593.933,
+  "e": 1594.693,
+  "text": "We don't think --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1594.693,
+  "e": 1596.833,
+  "text": "That it has to be -- happen before the taking?"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1596.833,
+  "e": 1630.613,
+  "text": "Yeah, we certainly don't think you violate the clause if you provide compensation after the taking. But, to go directly to your question, under the First Amendment and the Fourteenth Amendment, courts regularly entertain challenges to state property laws. Think of cases like City of Cleburne or City of Renton against Playtime Theatres. There's no general rule that bars all federal claims, all claims in federal court to state and local property laws, other than Williamson County, I agree. And I don't think that there's any basis for treating the takings clause any differently than the other parts of the Constitution."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1630.913,
+  "e": 1630.933,
+  "text": "If --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1630.933,
+  "e": 1637.313,
+  "text": "General, I assume we wouldn't have a problem here if we didn't have preclusive effect of the state action. Is that correct in your view?"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1637.973,
+  "e": 1686.233,
+  "text": "Your Honor, no, I don't think it is correct in my view. I think that highlights one of the unintended consequences of Williamson County, but we believe that, properly construed, Section 1983 was meant to provide a remedy for the deprivation of all constitutional rights, including the right to just compensation. And that's a right that vests the moment the property is taken. You don't violate it if you pay after the fact, but the right, in fact, vests the moment the property is taken, which is why you're actually entitled to interest from the moment of the taking until you get paid. So, under Section 1983, we think quite literally that a property owner is being deprived of the right to just compensation at the moment the government engages in the lawful act of taking their property without payment. That's why we think that the error in Williamson County was the --"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1686.233,
+  "e": 1702.673,
+  "text": "General, I -- you know, I read those pages in your brief a couple of times, and I have -- I have to say that they're -- it's just going over my head a little bit, what -- how it is that you can say that there's a deprivation of a right when you simultaneously say that there's been no violation --"
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1702.673,
+  "e": 1703.013,
+  "text": "Right."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1703.85,
+  "e": 1706.493,
+  "text": "-- even though the government hasn't paid yet."
+ },
+ {
+  "speaker": "GENERAL FRANCISCO",
+  "s": 1706.493,
+  "e": 1742.913,
+  "text": "Right. And for most constitutional provisions, there's no difference. So, under the First Amendment, you don't deprive somebody of their free speech rights unless you violate their free speech rights. But the takings clause is meaningfully different because the right to just compensation vests only when the government acts lawfully. It's at the moment of the government's lawful action in taking your property that your right to just compensation vests, which is why you get interest. And I'll just finish up. And so we think that, quite literally, the property owner is deprived of their right to just compensation from the moment the government acts lawfully to take their property until the property owner is paid. Thank you, Mr. Chief Justice."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1743.073,
+  "e": 1747.633,
+  "text": "Thank you, General. Ms. Sachs?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1749.813,
+  "e": 1806.173,
+  "text": "Mr. Chief Justice, and may it please the Court: The reinterpretations proposed here as to both Section 1983 and also what we've heard about a possible interpretation of Section 1331 would create federal jurisdiction over every local land use planning decision made in the 39,000 plus jurisdictions across the country. We ask that this Court affirm Williamson County because it was correct then and it is correct now in this case. What this Court held in Williamson County was that a claimant can't come to federal court under Section 1983 claiming that their constitutional right to just compensation has been violated, when the state provides a reasonable, certain, and adequate means to obtain just compensation --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1806.473,
+  "e": 1806.833,
+  "text": "Well, I think --"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1806.833,
+  "e": 1806.833,
+  "text": "-- and Petitioner --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1806.833,
+  "e": 1828.033,
+  "text": "-- it was clear in Williamson County, because they used terms of ripeness and -- and -- and the like that I don't think the court contemplated the later decision in San Remo, that by sending it to state court, they were effectively taking the federal courts out of the whole business of adjudicating these claims because of the preclusive effect of the state -- state remedy."
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1828.993,
+  "e": 1887.753,
+  "text": "Well, first of all, Your Honor, if I may, the -- the court did use terms like ripeness, and at that time, ripeness perhaps was not as closely associated with jurisdictional considerations as it is today. It was not a jurisdictional decision and that the court could certainly clarify that Williamson County was not jurisdictional. In Williamson County, an element of the Section 1983 cause of action was missing, for the same reason in this case. The only claim raised was a Section 1983 that the -- the Petitioner's rights to just compensation had been violated. And yet we know from 130 years of this Court's jurisprudence that there is no violation of the just compensation clause if that reasonable, certain, and adequate provision exists at the time of the taking."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1887.753,
+  "e": 1888.373,
+  "text": "But I think what the --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1888.373,
+  "e": 1903.573,
+  "text": "You -- you agree -- you agree that the compensation that is due runs from the moment of the taking? In other words, if it takes you six months to adjudicate the -- the claim and you say, well, this is how much you owe, you owe interest going all the way back to the point at which the property was taken, correct?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1903.853,
+  "e": 1910.873,
+  "text": "Well, yes, this Court has certainly -- the -- that -- the -- the fact that in the interest begins to run is another reason --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1910.873,
+  "e": 1910.873,
+  "text": "And that must be --"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1910.873,
+  "e": 1924.513,
+  "text": "-- why the time is -- the time to pursue the inverse condemnation action, means that there has not been any deprivation of a constitutional right in the interim."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1924.773,
+  "e": 1930.333,
+  "text": "Well, it turns out there was a violation of the constitutional right at the moment of the taking, right? That's the whole point of interest."
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1931.413,
+  "e": 1931.423,
+  "text": "No."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1931.423,
+  "e": 1933.993,
+  "text": "Why, if there hasn't been a violation, why do you owe interest --"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1933.993,
+  "e": 1933.993,
+  "text": "That just --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1933.993,
+  "e": 1935.213,
+  "text": "-- from the moment of the taking?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1935.533,
+  "e": 1962.713,
+  "text": "-- because it's a -- the -- the post-deprivation process has been determined to be appropriate here, as well as in other situations, because there -- this is a circumstance, particularly a regulatory circumstance, where it's impossible to determine in advance, given the, as this Court has said, the -- the myriad ways that regulations can affect property and whether or not any of them will ultimately end up being considered to be a taking."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1962.713,
+  "e": 1963.433,
+  "text": "Does the township owe --"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1963.433,
+  "e": 1964.053,
+  "text": "It's appropriate --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1964.353,
+  "e": 1968.873,
+  "text": "-- does the township owe Ms. Knick any money, any compensation?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1970.113,
+  "e": 1971.793,
+  "text": "That has yet to be determined, Your Honor."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1971.913,
+  "e": 1976.153,
+  "text": "You can't -- well, have you made any -- you don't know whether you owe her any money?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1976.153,
+  "e": 1976.153,
+  "text": "The reason that --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 1976.153,
+  "e": 1986.773,
+  "text": "Are you going to go back to your office and -- and think about that, and then send her a letter saying whether you owe her any money? If she does absolutely nothing, what will you do?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 1987.533,
+  "e": 2002.053,
+  "text": "Your Honor, what she is supposed to do in -- in this situation to find out the answer to Your Honor's question is pursue the Pennsylvania procedure that has been in effect for some 300 years."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2002.073,
+  "e": 2004.073,
+  "text": "You can't tell me whether you owe her any money?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2004.653,
+  "e": 2006.173,
+  "text": "The state has to tell her whether --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2006.173,
+  "e": 2006.173,
+  "text": "You are the state."
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2006.173,
+  "e": 2006.393,
+  "text": "-- we owe her any money, Your Honor."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2007.473,
+  "e": 2021.533,
+  "text": "You represent the township. The township is part of the state. So what is before us here is the Commonwealth of Pennsylvania. Does the township owe her any money? Yes or no? I don't see how you cannot have an answer to that question."
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2021.753,
+  "e": 2028.493,
+  "text": "Your Honor, I cannot -- I can't have an answer to that question because that is why inverse condemnation exists. That's why the proceeding --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2028.493,
+  "e": 2029.193,
+  "text": "All right. If she --"
+ },
+ {
+  "speaker": "MR. SACHS",
+  "s": 2029.193,
+  "e": 2029.193,
+  "text": "-- as you recall --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2029.193,
+  "e": 2037.733,
+  "text": "-- files an inverse condemnation proceeding, are you going to -- are you going to confess that you owe her money, at the outset?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2038.453,
+  "e": 2050.313,
+  "text": "The first step in a Pennsylvania inverse condemnation proceeding would not involve that. The first question is for the court. The court determines in an inverse condemnation proceeding whether there has been a taking --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2051.053,
+  "e": 2052.353,
+  "text": "What will your position be?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2052.353,
+  "e": 2052.439,
+  "text": "-- we as the township --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2052.439,
+  "e": 2052.547,
+  "text": "What will your position be?"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2052.547,
+  "e": 2052.633,
+  "text": "His point is that --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2052.633,
+  "e": 2054.033,
+  "text": "What will your position be?"
+ },
+ {
+  "speaker": "JUSTICE BREYER",
+  "s": 2054.993,
+  "e": 2055.653,
+  "text": "That's right."
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2056.393,
+  "e": 2057.613,
+  "text": "What would the position be?"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2057.613,
+  "e": 2058.813,
+  "text": "Yes, what will the position --"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2059.973,
+  "e": 2060.213,
+  "text": "In this particular case --"
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2060.213,
+  "e": 2060.273,
+  "text": "-- of the township be?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2060.273,
+  "e": 2062.613,
+  "text": "-- I think the township would say there has been no taking."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2062.973,
+  "e": 2074.373,
+  "text": "Therefore, if you have taken her property, you have taken her property and you have denied her compensation. Why is that not a violation of the takings clause? It is a taking without compensation."
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2074.833,
+  "e": 2077.553,
+  "text": "Because we do not agree that we have taken anything, Your Honor."
+ },
+ {
+  "speaker": "JUSTICE ALITO",
+  "s": 2077.973,
+  "e": 2082.973,
+  "text": "Well, that's fine. That's a merits issue. That can be decided in a 1983 action."
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2083.413,
+  "e": 2103.273,
+  "text": "But, under 1983, there is no violation. Her right to just compensation is what Section 1983 protects. And, of course, because the Fifth Amendment provides the right to compensation, and the Fourteenth Amendment prohibits a state from denying that right, we have not denied --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2103.273,
+  "e": 2103.273,
+  "text": "Counsel, I -- I --"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2103.273,
+  "e": 2103.733,
+  "text": "-- that right."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 2103.853,
+  "e": 2104.313,
+  "text": "Can I go back --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2104.333,
+  "e": 2196.193,
+  "text": "-- I think this gets back to Justice Breyer's question a little bit, which is you could say that the violation is complete upon the taking of the property with the denial of compensation, as Justice Alito just alluded to, as you've just denied that any compensation is due. Or you could say it should wait until a state litigation process has exhausted itself. And maybe it makes sense to wait when the state has acknowledged a duty to pay, and we can say the state's probably good for it. And that's where those cases originally came from, Cherokee and some of the early ones. But maybe -- maybe it doesn't make sense when the state has denied any obligation to pay. Maybe -- maybe it makes -- maybe it is different when it's an inverse condemnation, because when we look at other -- other constitutional rights, we don't say that a First Amendment violation isn't complete until someone has litigated that claim in state court under state processes or a Fourth Amendment claim. And when you look at the history of inverse condemnation suits, they originated in common law under trespass. It's a simple claim against the state for trespass. That's what an inverse condemnation suit is. Nothing more, nothing less. So why should we single out the -- this particular right, the takings clause, for such disfavored treatment to wait to exhaust state remedies that wind up in this ripeness world to yield a moot federal claim?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2196.193,
+  "e": 2234.113,
+  "text": "A -- a couple of answers to that question, Your Honor. Number one, we are not giving disfavored treatment to property rights. The Constitution does not protect the right to hold onto your property when the government has a just reason to take it. And the -- what the Constitution protects is the right to get just compensation for that. And this Court since, I think, 1895, has specifically said inverse condemnation is an appropriate form of -- of providing that reasonable, certain, and adequate compensation."
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2234.253,
+  "e": 2234.573,
+  "text": "But we could say --"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2234.573,
+  "e": 2234.573,
+  "text": "But when --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2234.573,
+  "e": 2235.093,
+  "text": "-- the exact --"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2235.093,
+  "e": 2235.093,
+  "text": "-- but when --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 2235.093,
+  "e": 2263.913,
+  "text": "-- same thing with a Fourth Amendment claim or a First Amendment claim. There are a lot of great state judges out there, every bit as good as any federal judge. And there are a lot of state tort claims that are available equivalent to the trespass claim of an inverse condemnation suit. Why don't we wait to see how they adjudicate a Fourth Amendment violation by a police officer who's engaged in excessive force? Why don't we wait for -- when the prosecutor's engaged in malicious prosecution? We don't because 1983 says you don't have to wait. Why not here?"
+ },
+ {
+  "speaker": "MS. SACHS",
+  "s": 2264.913,
+  "e": 2281.973,
+  "text": "Actually, with malicious prosecution, Your Honor, we do. And that's one example of times when we do require litigants to have -- have completed their state process. And here, that -- we are not suggesting that there isn't a right to seek compensation."
+ }
+]
