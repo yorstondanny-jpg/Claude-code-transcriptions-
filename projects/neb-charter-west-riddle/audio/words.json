@@ -1,0 +1,13856 @@
+[
+ {
+  "w": "The",
+  "s": 0.0,
+  "e": 0.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "day,",
+  "s": 0.18,
+  "e": 0.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "then,",
+  "s": 0.76,
+  "e": 0.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 0.98,
+  "e": 1.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 1.16,
+  "e": 1.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 1.44,
+  "e": 1.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Bank",
+  "s": 1.8,
+  "e": 2.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "versus",
+  "s": 2.36,
+  "e": 2.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Riddle.",
+  "s": 2.96,
+  "e": 3.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 13.14,
+  "e": 13.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 13.74,
+  "e": 14.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Riddle,",
+  "s": 16.02,
+  "e": 16.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 16.78,
+  "e": 16.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "morning",
+  "s": 16.9,
+  "e": 17.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 17.16,
+  "e": 17.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 17.46,
+  "e": 17.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Good",
+  "s": 18.26,
+  "e": 18.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "morning.",
+  "s": 18.26,
+  "e": 18.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Are",
+  "s": 18.68,
+  "e": 18.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 18.86,
+  "e": 19.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 19.02,
+  "e": 19.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 19.16,
+  "e": 19.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 19.24,
+  "e": 19.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "arguing",
+  "s": 19.38,
+  "e": 19.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 19.68,
+  "e": 19.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "morning?",
+  "s": 19.94,
+  "e": 20.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Thank",
+  "s": 21.9,
+  "e": 22.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 22.5,
+  "e": 22.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "very",
+  "s": 22.74,
+  "e": 23.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "much.",
+  "s": 23.04,
+  "e": 23.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 24.06,
+  "e": 24.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 24.26,
+  "e": 24.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Silver,",
+  "s": 25.08,
+  "e": 25.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 25.3,
+  "e": 25.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "morning",
+  "s": 25.4,
+  "e": 25.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 25.68,
+  "e": 25.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 25.92,
+  "e": 26.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Good",
+  "s": 26.62,
+  "e": 26.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "morning,",
+  "s": 26.76,
+  "e": 27.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Your",
+  "s": 27.32,
+  "e": 27.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Honor.",
+  "s": 27.32,
+  "e": 27.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Do",
+  "s": 29.38,
+  "e": 29.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "either",
+  "s": 29.82,
+  "e": 30.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 30.26,
+  "e": 30.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Riddle",
+  "s": 30.92,
+  "e": 31.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 31.04,
+  "e": 31.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 31.8,
+  "e": 32.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Silver",
+  "s": 33.28,
+  "e": 33.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 33.28,
+  "e": 33.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "any",
+  "s": 33.58,
+  "e": 33.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "questions",
+  "s": 33.96,
+  "e": 34.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "before",
+  "s": 34.62,
+  "e": 35.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we",
+  "s": 35.06,
+  "e": 35.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "begin?",
+  "s": 35.26,
+  "e": 35.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 37.24,
+  "e": 37.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 37.34,
+  "e": 37.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no",
+  "s": 37.48,
+  "e": 37.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "questions,",
+  "s": 37.64,
+  "e": 38.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Your",
+  "s": 38.18,
+  "e": 38.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Honor.",
+  "s": 38.22,
+  "e": 38.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 39.34,
+  "e": 39.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 39.36,
+  "e": 39.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no",
+  "s": 39.56,
+  "e": 39.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "questions.",
+  "s": 39.84,
+  "e": 40.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Very",
+  "s": 41.58,
+  "e": 42.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good.",
+  "s": 42.02,
+  "e": 42.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Then,",
+  "s": 42.68,
+  "e": 42.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 42.88,
+  "e": 43.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Riddle,",
+  "s": 43.18,
+  "e": 43.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 43.42,
+  "e": 43.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "may",
+  "s": 43.66,
+  "e": 43.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "approach",
+  "s": 43.84,
+  "e": 44.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 44.44,
+  "e": 45.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "podium",
+  "s": 45.58,
+  "e": 45.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 45.9,
+  "e": 46.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 46.28,
+  "e": 46.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "may",
+  "s": 46.44,
+  "e": 46.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "proceed.",
+  "s": 46.74,
+  "e": 47.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Thank",
+  "s": 48.42,
+  "e": 48.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you,",
+  "s": 48.64,
+  "e": 48.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 48.9,
+  "e": 49.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thank",
+  "s": 49.0,
+  "e": 49.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you,",
+  "s": 49.22,
+  "e": 49.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Your",
+  "s": 49.42,
+  "e": 49.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Honors.",
+  "s": 49.5,
+  "e": 49.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "May",
+  "s": 50.78,
+  "e": 50.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 50.9,
+  "e": 51.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "please",
+  "s": 51.08,
+  "e": 51.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 51.2,
+  "e": 51.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court,",
+  "s": 51.5,
+  "e": 51.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 52.62,
+  "e": 52.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Silver,",
+  "s": 52.98,
+  "e": 53.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "members",
+  "s": 53.42,
+  "e": 53.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 53.64,
+  "e": 53.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 53.9,
+  "e": 54.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gallery.",
+  "s": 54.06,
+  "e": 54.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "My",
+  "s": 54.78,
+  "e": 55.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name",
+  "s": 55.0,
+  "e": 55.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 55.12,
+  "e": 55.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Justin",
+  "s": 55.28,
+  "e": 55.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Riddle.",
+  "s": 55.6,
+  "e": 55.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 55.82,
+  "e": 56.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 56.22,
+  "e": 56.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 56.38,
+  "e": 56.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wife,",
+  "s": 56.5,
+  "e": 56.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Erin",
+  "s": 57.1,
+  "e": 57.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Riddle.",
+  "s": 57.1,
+  "e": 57.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "We're",
+  "s": 57.58,
+  "e": 57.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "here",
+  "s": 57.9,
+  "e": 58.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "today",
+  "s": 58.1,
+  "e": 58.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 58.44,
+  "e": 58.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "pro",
+  "s": 58.72,
+  "e": 58.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "se",
+  "s": 58.86,
+  "e": 59.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "litigants",
+  "s": 59.1,
+  "e": 59.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 59.62,
+  "e": 59.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 59.8,
+  "e": 60.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "matter.",
+  "s": 60.0,
+  "e": 60.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Our",
+  "s": 61.04,
+  "e": 61.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lives,",
+  "s": 61.2,
+  "e": 61.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like",
+  "s": 61.62,
+  "e": 61.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "anyone,",
+  "s": 61.86,
+  "e": 62.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 62.26,
+  "e": 62.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "constantly",
+  "s": 62.46,
+  "e": 63.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "evolving.",
+  "s": 63.06,
+  "e": 63.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "After",
+  "s": 64.02,
+  "e": 64.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "several",
+  "s": 64.32,
+  "e": 64.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "years",
+  "s": 64.68,
+  "e": 64.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 64.98,
+  "e": 65.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hard",
+  "s": 65.22,
+  "e": 65.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "work,",
+  "s": 65.38,
+  "e": 65.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "saving,",
+  "s": 65.84,
+  "e": 66.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "budgeting,",
+  "s": 66.2,
+  "e": 66.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 66.76,
+  "e": 66.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "debt",
+  "s": 66.8,
+  "e": 66.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "reduction,",
+  "s": 66.94,
+  "e": 67.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we",
+  "s": 67.42,
+  "e": 67.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 67.6,
+  "e": 67.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ready",
+  "s": 67.72,
+  "e": 67.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 67.9,
+  "e": 68.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purchase",
+  "s": 68.08,
+  "e": 68.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 68.4,
+  "e": 68.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "home.",
+  "s": 68.64,
+  "e": 68.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "We",
+  "s": 69.2,
+  "e": 69.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "worked",
+  "s": 69.4,
+  "e": 69.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 69.56,
+  "e": 69.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 69.78,
+  "e": 69.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West,",
+  "s": 69.94,
+  "e": 70.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 70.38,
+  "e": 70.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "at",
+  "s": 70.46,
+  "e": 70.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 70.54,
+  "e": 70.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "point",
+  "s": 70.66,
+  "e": 70.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 70.8,
+  "e": 70.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 70.92,
+  "e": 71.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "process,",
+  "s": 71.08,
+  "e": 71.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we",
+  "s": 71.54,
+  "e": 71.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 71.62,
+  "e": 71.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "uncomfortable",
+  "s": 71.74,
+  "e": 72.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 72.12,
+  "e": 72.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "their",
+  "s": 72.36,
+  "e": 72.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "operation,",
+  "s": 72.52,
+  "e": 73.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "decided",
+  "s": 73.28,
+  "e": 73.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 73.64,
+  "e": 73.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "withdraw",
+  "s": 73.86,
+  "e": 74.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "our",
+  "s": 74.16,
+  "e": 74.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "loan,",
+  "s": 74.44,
+  "e": 74.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 74.64,
+  "e": 74.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "worked",
+  "s": 74.76,
+  "e": 74.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 74.92,
+  "e": 75.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 75.1,
+  "e": 75.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "different",
+  "s": 75.22,
+  "e": 75.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bank.",
+  "s": 75.48,
+  "e": 75.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "In",
+  "s": 76.3,
+  "e": 76.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "retaliation,",
+  "s": 76.46,
+  "e": 77.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 78.04,
+  "e": 78.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 78.22,
+  "e": 78.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "put",
+  "s": 78.46,
+  "e": 78.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 78.64,
+  "e": 78.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "code",
+  "s": 78.76,
+  "e": 78.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 78.9,
+  "e": 79.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 79.04,
+  "e": 79.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "FHA",
+  "s": 79.18,
+  "e": 79.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "system",
+  "s": 79.6,
+  "e": 80.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 80.1,
+  "e": 80.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "indicated",
+  "s": 80.32,
+  "e": 80.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 80.72,
+  "e": 81.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "nonexistent",
+  "s": 81.02,
+  "e": 81.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "child",
+  "s": 81.48,
+  "e": 81.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "support",
+  "s": 81.94,
+  "e": 82.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "obligation",
+  "s": 82.34,
+  "e": 82.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 82.94,
+  "e": 83.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "passed",
+  "s": 83.24,
+  "e": 83.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to.",
+  "s": 83.48,
+  "e": 83.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 83.72,
+  "e": 84.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "prevented",
+  "s": 84.46,
+  "e": 84.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "us",
+  "s": 84.8,
+  "e": 85.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "from",
+  "s": 85.1,
+  "e": 85.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "consummating",
+  "s": 85.34,
+  "e": 85.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "our",
+  "s": 85.88,
+  "e": 86.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "agreement",
+  "s": 86.12,
+  "e": 86.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 86.46,
+  "e": 86.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 86.68,
+  "e": 86.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "new",
+  "s": 86.8,
+  "e": 86.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lender,",
+  "s": 86.98,
+  "e": 87.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 87.34,
+  "e": 87.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 87.42,
+  "e": 87.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 87.58,
+  "e": 87.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "system",
+  "s": 87.78,
+  "e": 87.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 87.96,
+  "e": 88.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "every",
+  "s": 88.2,
+  "e": 88.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lender",
+  "s": 88.44,
+  "e": 88.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "uses,",
+  "s": 88.7,
+  "e": 89.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 89.18,
+  "e": 89.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "only",
+  "s": 89.38,
+  "e": 89.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 89.62,
+  "e": 89.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lender",
+  "s": 89.84,
+  "e": 90.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "who",
+  "s": 90.04,
+  "e": 90.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "put",
+  "s": 90.26,
+  "e": 90.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 90.4,
+  "e": 90.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 90.56,
+  "e": 90.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "code",
+  "s": 90.72,
+  "e": 90.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "could",
+  "s": 90.92,
+  "e": 91.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fix.",
+  "s": 91.18,
+  "e": 91.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "After",
+  "s": 92.24,
+  "e": 92.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "months",
+  "s": 92.48,
+  "e": 92.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 92.76,
+  "e": 93.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bootless",
+  "s": 93.0,
+  "e": 93.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "requests",
+  "s": 93.3,
+  "e": 93.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "asking",
+  "s": 93.74,
+  "e": 94.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 94.2,
+  "e": 94.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 94.5,
+  "e": 94.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Bank",
+  "s": 94.7,
+  "e": 94.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 94.94,
+  "e": 95.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "correct",
+  "s": 95.16,
+  "e": 95.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 95.4,
+  "e": 95.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "record,",
+  "s": 95.6,
+  "e": 95.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 96.26,
+  "e": 96.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 96.4,
+  "e": 96.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "clear",
+  "s": 96.56,
+  "e": 96.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they",
+  "s": 96.78,
+  "e": 96.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 96.96,
+  "e": 97.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 97.06,
+  "e": 97.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 97.22,
+  "e": 97.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 97.38,
+  "e": 97.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "remove",
+  "s": 97.48,
+  "e": 97.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 97.7,
+  "e": 97.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lie,",
+  "s": 97.92,
+  "e": 98.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 98.06,
+  "e": 98.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 98.28,
+  "e": 98.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "proceeded",
+  "s": 98.44,
+  "e": 98.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 98.82,
+  "e": 99.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "file",
+  "s": 99.08,
+  "e": 99.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 99.2,
+  "e": 99.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lawsuit.",
+  "s": 99.42,
+  "e": 99.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "When",
+  "s": 100.4,
+  "e": 100.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 100.6,
+  "e": 100.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "became",
+  "s": 100.74,
+  "e": 101.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "obvious",
+  "s": 101.02,
+  "e": 101.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 101.44,
+  "e": 101.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we",
+  "s": 101.78,
+  "e": 101.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 101.96,
+  "e": 102.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 102.1,
+  "e": 102.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "being",
+  "s": 102.26,
+  "e": 102.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "traded",
+  "s": 102.48,
+  "e": 102.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fairly",
+  "s": 102.88,
+  "e": 103.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 103.36,
+  "e": 103.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 103.58,
+  "e": 103.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court,",
+  "s": 103.8,
+  "e": 103.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 104.18,
+  "e": 104.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "decided",
+  "s": 104.34,
+  "e": 104.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 104.74,
+  "e": 105.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "best",
+  "s": 105.28,
+  "e": 105.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "course",
+  "s": 105.54,
+  "e": 105.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 105.78,
+  "e": 106.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "action",
+  "s": 106.0,
+  "e": 106.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 106.26,
+  "e": 106.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 106.5,
+  "e": 106.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "make",
+  "s": 106.66,
+  "e": 106.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 106.8,
+  "e": 107.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "public",
+  "s": 107.04,
+  "e": 107.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-gripe",
+  "s": 107.34,
+  "e": 107.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website.",
+  "s": 107.56,
+  "e": 108.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 108.54,
+  "e": 108.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "researched",
+  "s": 108.68,
+  "e": 109.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 109.08,
+  "e": 109.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "law,",
+  "s": 109.34,
+  "e": 109.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 109.52,
+  "e": 109.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "once",
+  "s": 109.64,
+  "e": 109.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 109.82,
+  "e": 109.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "understood",
+  "s": 109.98,
+  "e": 110.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 110.34,
+  "e": 110.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 110.54,
+  "e": 110.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "allowed,",
+  "s": 110.66,
+  "e": 111.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I,",
+  "s": 111.0,
+  "e": 111.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "alone,",
+  "s": 111.52,
+  "e": 111.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "without",
+  "s": 111.62,
+  "e": 111.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 111.88,
+  "e": 112.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "consent",
+  "s": 112.12,
+  "e": 112.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 112.42,
+  "e": 112.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "knowledge",
+  "s": 112.64,
+  "e": 112.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 112.88,
+  "e": 113.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 113.08,
+  "e": 113.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wife,",
+  "s": 113.26,
+  "e": 113.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "went",
+  "s": 113.92,
+  "e": 114.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 114.04,
+  "e": 114.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "GoDaddy",
+  "s": 114.2,
+  "e": 114.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 114.56,
+  "e": 114.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "searched",
+  "s": 114.88,
+  "e": 115.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 115.06,
+  "e": 115.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 115.36,
+  "e": 115.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "suitable",
+  "s": 115.52,
+  "e": 115.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "URL.",
+  "s": 115.84,
+  "e": 116.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 117.12,
+  "e": 117.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Riddle,",
+  "s": 117.92,
+  "e": 118.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 118.82,
+  "e": 118.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "more",
+  "s": 118.82,
+  "e": 119.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 119.76,
+  "e": 119.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 119.98,
+  "e": 120.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "benefit",
+  "s": 120.12,
+  "e": 120.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 120.44,
+  "e": 120.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 120.68,
+  "e": 121.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "folks",
+  "s": 121.0,
+  "e": 121.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "watching,",
+  "s": 121.3,
+  "e": 122.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 122.68,
+  "e": 122.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court",
+  "s": 122.98,
+  "e": 123.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 123.46,
+  "e": 123.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "which",
+  "s": 123.9,
+  "e": 124.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 124.22,
+  "e": 124.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "referred",
+  "s": 124.5,
+  "e": 125.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "where",
+  "s": 125.22,
+  "e": 126.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 126.06,
+  "e": 126.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "felt",
+  "s": 126.3,
+  "e": 126.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 126.54,
+  "e": 126.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 126.82,
+  "e": 127.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 127.0,
+  "e": 127.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "being",
+  "s": 127.26,
+  "e": 127.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fairly",
+  "s": 127.76,
+  "e": 128.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "treated,",
+  "s": 128.3,
+  "e": 128.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 129.92,
+  "e": 130.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 130.18,
+  "e": 130.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court",
+  "s": 130.5,
+  "e": 131.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 131.1,
+  "e": 131.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 131.56,
+  "e": 131.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "referring",
+  "s": 131.8,
+  "e": 132.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to?",
+  "s": 132.42,
+  "e": 132.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That",
+  "s": 133.26,
+  "e": 133.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 133.66,
+  "e": 133.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 133.84,
+  "e": 134.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 134.18,
+  "e": 134.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "District",
+  "s": 134.64,
+  "e": 135.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court,",
+  "s": 135.04,
+  "e": 135.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 136.1,
+  "e": 136.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Appeals",
+  "s": 136.22,
+  "e": 136.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court",
+  "s": 136.6,
+  "e": 137.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 137.0,
+  "e": 137.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "well.",
+  "s": 137.28,
+  "e": 138.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "In",
+  "s": 138.62,
+  "e": 138.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 138.7,
+  "e": 139.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "federal",
+  "s": 139.16,
+  "e": 139.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "system?",
+  "s": 139.42,
+  "e": 139.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 141.6,
+  "e": 142.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 142.16,
+  "e": 142.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 142.64,
+  "e": 142.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 142.84,
+  "e": 143.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "state",
+  "s": 143.08,
+  "e": 143.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court",
+  "s": 143.3,
+  "e": 143.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "system?",
+  "s": 143.6,
+  "e": 144.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "The",
+  "s": 148.24,
+  "e": 148.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one",
+  "s": 148.24,
+  "e": 149.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 149.28,
+  "e": 149.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 149.44,
+  "e": 150.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talking",
+  "s": 150.26,
+  "e": 150.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 150.62,
+  "e": 150.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 150.98,
+  "e": 151.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 151.22,
+  "e": 151.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "federal",
+  "s": 151.4,
+  "e": 151.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "district",
+  "s": 151.76,
+  "e": 152.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court,",
+  "s": 152.5,
+  "e": 152.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "which",
+  "s": 153.24,
+  "e": 153.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "then",
+  "s": 153.62,
+  "e": 153.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 153.92,
+  "e": 154.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "appealed",
+  "s": 154.16,
+  "e": 154.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 154.5,
+  "e": 155.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 156.04,
+  "e": 156.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "8th",
+  "s": 156.28,
+  "e": 156.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Circuit",
+  "s": 156.84,
+  "e": 157.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court",
+  "s": 157.06,
+  "e": 157.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 157.44,
+  "e": 157.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Appeals.",
+  "s": 157.58,
+  "e": 157.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Now",
+  "s": 158.96,
+  "e": 159.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 159.04,
+  "e": 159.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "may",
+  "s": 159.2,
+  "e": 159.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "get",
+  "s": 159.38,
+  "e": 159.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "around",
+  "s": 159.6,
+  "e": 159.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 159.88,
+  "e": 160.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "something",
+  "s": 160.06,
+  "e": 160.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "else,",
+  "s": 160.32,
+  "e": 160.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 160.92,
+  "e": 160.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 160.92,
+  "e": 161.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 161.34,
+  "e": 161.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "want",
+  "s": 161.58,
+  "e": 161.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "everyone",
+  "s": 161.88,
+  "e": 163.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 163.0,
+  "e": 163.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "understand",
+  "s": 163.22,
+  "e": 163.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 163.7,
+  "e": 164.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 164.68,
+  "e": 164.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 164.86,
+  "e": 165.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talking",
+  "s": 165.02,
+  "e": 165.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about.",
+  "s": 165.28,
+  "e": 165.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Thank",
+  "s": 165.78,
+  "e": 165.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 165.98,
+  "e": 166.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Your",
+  "s": 166.44,
+  "e": 166.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "initial",
+  "s": 166.66,
+  "e": 167.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lawsuit",
+  "s": 167.18,
+  "e": 167.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 167.6,
+  "e": 167.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "filed",
+  "s": 167.82,
+  "e": 168.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 168.1,
+  "e": 168.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 168.28,
+  "e": 168.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "federal",
+  "s": 168.48,
+  "e": 168.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "district",
+  "s": 168.74,
+  "e": 169.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court.",
+  "s": 169.18,
+  "e": 169.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yes.",
+  "s": 169.62,
+  "e": 170.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 170.92,
+  "e": 171.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 171.26,
+  "e": 171.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 171.56,
+  "e": 171.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "motions",
+  "s": 171.74,
+  "e": 172.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "dismissed,",
+  "s": 172.22,
+  "e": 172.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 173.68,
+  "e": 173.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court",
+  "s": 173.72,
+  "e": 173.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "dismissed",
+  "s": 173.74,
+  "e": 174.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "certain",
+  "s": 174.2,
+  "e": 174.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "parties,",
+  "s": 174.7,
+  "e": 175.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 175.96,
+  "e": 176.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did",
+  "s": 176.12,
+  "e": 176.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 176.26,
+  "e": 176.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "appeal",
+  "s": 176.42,
+  "e": 176.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 176.72,
+  "e": 177.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 177.04,
+  "e": 177.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 177.78,
+  "e": 177.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "8th",
+  "s": 177.94,
+  "e": 178.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Circuit?",
+  "s": 178.32,
+  "e": 178.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 178.62,
+  "e": 178.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did.",
+  "s": 178.78,
+  "e": 178.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Is",
+  "s": 179.48,
+  "e": 179.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 179.9,
+  "e": 181.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "another",
+  "s": 181.14,
+  "e": 181.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "action",
+  "s": 181.42,
+  "e": 181.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "now",
+  "s": 181.72,
+  "e": 181.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 181.94,
+  "e": 182.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "state",
+  "s": 182.14,
+  "e": 182.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court",
+  "s": 182.34,
+  "e": 182.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 182.52,
+  "e": 182.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we're",
+  "s": 182.68,
+  "e": 182.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "here",
+  "s": 182.8,
+  "e": 182.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 182.94,
+  "e": 183.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "today?",
+  "s": 183.1,
+  "e": 183.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yes,",
+  "s": 184.1,
+  "e": 184.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that's",
+  "s": 185.1,
+  "e": 185.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "where",
+  "s": 185.46,
+  "e": 185.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'm",
+  "s": 185.56,
+  "e": 185.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "getting",
+  "s": 185.74,
+  "e": 185.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to.",
+  "s": 185.9,
+  "e": 186.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Very",
+  "s": 186.4,
+  "e": 186.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good,",
+  "s": 186.72,
+  "e": 186.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thank",
+  "s": 187.06,
+  "e": 187.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 187.18,
+  "e": 187.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Incredibly,",
+  "s": 190.74,
+  "e": 191.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "charterwestbank",
+  "s": 191.62,
+  "e": 192.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": ".com",
+  "s": 192.18,
+  "e": 192.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 192.68,
+  "e": 192.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "available.",
+  "s": 192.94,
+  "e": 193.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 193.7,
+  "e": 193.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "immediately",
+  "s": 193.82,
+  "e": 194.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purchased",
+  "s": 194.2,
+  "e": 194.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 194.62,
+  "e": 194.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 194.92,
+  "e": 195.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did",
+  "s": 195.06,
+  "e": 195.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "additional",
+  "s": 195.16,
+  "e": 195.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "research",
+  "s": 195.58,
+  "e": 196.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 196.0,
+  "e": 196.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "verify",
+  "s": 196.24,
+  "e": 196.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 196.56,
+  "e": 196.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 196.56,
+  "e": 196.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "could",
+  "s": 196.66,
+  "e": 196.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "legally",
+  "s": 196.88,
+  "e": 197.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "use",
+  "s": 197.12,
+  "e": 197.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 197.42,
+  "e": 197.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "URL.",
+  "s": 197.64,
+  "e": 198.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "According",
+  "s": 198.5,
+  "e": 198.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 198.74,
+  "e": 199.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 199.0,
+  "e": 199.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Lanham",
+  "s": 199.18,
+  "e": 199.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act,",
+  "s": 199.32,
+  "e": 199.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 199.66,
+  "e": 199.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 199.72,
+  "e": 199.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "very",
+  "s": 199.9,
+  "e": 200.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "clearly",
+  "s": 200.1,
+  "e": 200.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "defined",
+  "s": 200.54,
+  "e": 201.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fair",
+  "s": 201.02,
+  "e": 201.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "use",
+  "s": 201.26,
+  "e": 201.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doctrine,",
+  "s": 201.52,
+  "e": 201.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "because",
+  "s": 202.36,
+  "e": 202.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'm",
+  "s": 202.62,
+  "e": 202.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 202.8,
+  "e": 202.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 202.94,
+  "e": 203.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "competing",
+  "s": 203.08,
+  "e": 203.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "business",
+  "s": 203.38,
+  "e": 203.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 203.74,
+  "e": 203.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 203.98,
+  "e": 204.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site",
+  "s": 204.18,
+  "e": 204.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 204.3,
+  "e": 204.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "entirely",
+  "s": 204.48,
+  "e": 204.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "set",
+  "s": 204.94,
+  "e": 205.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "up",
+  "s": 205.22,
+  "e": 205.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 205.4,
+  "e": 205.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "criticize,",
+  "s": 205.56,
+  "e": 205.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 206.2,
+  "e": 206.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "am",
+  "s": 206.3,
+  "e": 206.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "legally",
+  "s": 206.54,
+  "e": 206.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "liable.",
+  "s": 206.94,
+  "e": 207.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charterwest",
+  "s": 208.02,
+  "e": 208.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has",
+  "s": 208.32,
+  "e": 208.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "decided",
+  "s": 208.54,
+  "e": 208.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 208.9,
+  "e": 209.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sue",
+  "s": 209.18,
+  "e": 209.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 209.24,
+  "e": 209.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 209.5,
+  "e": 209.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website",
+  "s": 209.68,
+  "e": 210.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "based",
+  "s": 210.04,
+  "e": 210.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 210.38,
+  "e": 210.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 210.62,
+  "e": 210.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Anti",
+  "s": 210.76,
+  "e": 210.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-Cyberspotting",
+  "s": 210.98,
+  "e": 211.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act,",
+  "s": 211.66,
+  "e": 211.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "which",
+  "s": 212.32,
+  "e": 212.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "brings",
+  "s": 212.52,
+  "e": 212.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "us",
+  "s": 212.76,
+  "e": 212.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "here",
+  "s": 212.96,
+  "e": 213.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "today.",
+  "s": 213.16,
+  "e": 213.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Cyberspotting",
+  "s": 214.12,
+  "e": 214.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 214.6,
+  "e": 214.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 214.76,
+  "e": 214.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "choice",
+  "s": 214.92,
+  "e": 215.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 215.08,
+  "e": 215.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 215.26,
+  "e": 215.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "plaintiff,",
+  "s": 215.42,
+  "e": 215.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 215.66,
+  "e": 215.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 215.94,
+  "e": 216.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 216.2,
+  "e": 216.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one",
+  "s": 216.32,
+  "e": 216.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 216.54,
+  "e": 216.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "only",
+  "s": 216.66,
+  "e": 216.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "way",
+  "s": 216.92,
+  "e": 217.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 217.14,
+  "e": 217.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "someone",
+  "s": 217.36,
+  "e": 217.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 217.58,
+  "e": 217.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "obtain",
+  "s": 217.8,
+  "e": 218.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 218.12,
+  "e": 218.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website",
+  "s": 218.32,
+  "e": 218.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 218.64,
+  "e": 218.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "force.",
+  "s": 218.94,
+  "e": 219.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "There's",
+  "s": 219.62,
+  "e": 219.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no",
+  "s": 219.94,
+  "e": 220.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "other",
+  "s": 220.12,
+  "e": 220.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "remedy",
+  "s": 220.38,
+  "e": 220.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "law",
+  "s": 220.58,
+  "e": 220.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 220.9,
+  "e": 221.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "forces",
+  "s": 221.12,
+  "e": 221.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 221.38,
+  "e": 221.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "transfer",
+  "s": 221.7,
+  "e": 222.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 222.22,
+  "e": 222.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "internet",
+  "s": 222.48,
+  "e": 222.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "real",
+  "s": 222.66,
+  "e": 222.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "estate.",
+  "s": 222.98,
+  "e": 223.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "However,",
+  "s": 223.46,
+  "e": 223.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charterwest",
+  "s": 224.44,
+  "e": 224.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has",
+  "s": 224.78,
+  "e": 224.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fallen",
+  "s": 224.98,
+  "e": 225.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "short",
+  "s": 225.14,
+  "e": 225.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 225.42,
+  "e": 225.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "their",
+  "s": 225.6,
+  "e": 225.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "claim",
+  "s": 225.74,
+  "e": 226.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 226.0,
+  "e": 226.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "every",
+  "s": 226.2,
+  "e": 226.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "avenue,",
+  "s": 226.56,
+  "e": 226.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 227.06,
+  "e": 227.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 227.06,
+  "e": 227.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "explain",
+  "s": 227.24,
+  "e": 227.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "how.",
+  "s": 227.58,
+  "e": 227.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Just",
+  "s": 228.2,
+  "e": 228.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to,",
+  "s": 228.34,
+  "e": 229.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "again,",
+  "s": 229.46,
+  "e": 229.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 229.68,
+  "e": 229.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "clear",
+  "s": 229.82,
+  "e": 230.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 230.2,
+  "e": 230.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 230.54,
+  "e": 230.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "benefit",
+  "s": 230.72,
+  "e": 231.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 231.08,
+  "e": 231.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "our",
+  "s": 231.8,
+  "e": 232.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "audience,",
+  "s": 232.0,
+  "e": 232.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 232.98,
+  "e": 233.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Cyberspotting",
+  "s": 233.58,
+  "e": 234.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act,",
+  "s": 234.74,
+  "e": 235.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 235.8,
+  "e": 236.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "which",
+  "s": 236.32,
+  "e": 236.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 236.5,
+  "e": 236.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 236.72,
+  "e": 236.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "referred,",
+  "s": 236.92,
+  "e": 237.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 237.5,
+  "e": 237.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "part",
+  "s": 237.72,
+  "e": 238.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 238.06,
+  "e": 238.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 238.74,
+  "e": 238.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Lanham",
+  "s": 238.98,
+  "e": 239.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act,",
+  "s": 239.16,
+  "e": 239.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 239.56,
+  "e": 239.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 239.68,
+  "e": 239.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 239.88,
+  "e": 240.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "other",
+  "s": 240.08,
+  "e": 240.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "parts.",
+  "s": 240.36,
+  "e": 240.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 243.02,
+  "e": 243.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "when",
+  "s": 243.72,
+  "e": 244.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 244.42,
+  "e": 244.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 244.58,
+  "e": 244.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talking",
+  "s": 244.78,
+  "e": 245.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 245.08,
+  "e": 245.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "having",
+  "s": 245.4,
+  "e": 245.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "researched",
+  "s": 245.7,
+  "e": 246.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 246.32,
+  "e": 246.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Lanham",
+  "s": 246.8,
+  "e": 247.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act,",
+  "s": 247.1,
+  "e": 247.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 248.08,
+  "e": 248.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were",
+  "s": 248.34,
+  "e": 248.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "perhaps",
+  "s": 248.62,
+  "e": 249.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talking",
+  "s": 249.1,
+  "e": 249.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "more",
+  "s": 249.7,
+  "e": 250.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "broadly",
+  "s": 250.5,
+  "e": 251.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "than",
+  "s": 251.12,
+  "e": 251.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 251.48,
+  "e": 251.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 251.86,
+  "e": 252.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Anti",
+  "s": 252.68,
+  "e": 253.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-Cyberspotting",
+  "s": 253.34,
+  "e": 254.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act?",
+  "s": 254.5,
+  "e": 255.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "The",
+  "s": 255.22,
+  "e": 256.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fair",
+  "s": 256.22,
+  "e": 256.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "use",
+  "s": 256.46,
+  "e": 256.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doctrine",
+  "s": 256.7,
+  "e": 257.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 257.14,
+  "e": 257.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "more",
+  "s": 257.64,
+  "e": 257.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "broadly,",
+  "s": 257.94,
+  "e": 258.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 259.16,
+  "e": 259.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 259.16,
+  "e": 259.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "far",
+  "s": 259.56,
+  "e": 259.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 259.74,
+  "e": 259.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 259.88,
+  "e": 260.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Lanham",
+  "s": 260.04,
+  "e": 260.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act,",
+  "s": 260.24,
+  "e": 260.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 260.58,
+  "e": 260.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 260.62,
+  "e": 260.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "very",
+  "s": 260.78,
+  "e": 261.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "specific",
+  "s": 261.16,
+  "e": 261.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 261.64,
+  "e": 261.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "cyberspotting.",
+  "s": 261.96,
+  "e": 262.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Okay,",
+  "s": 263.6,
+  "e": 263.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that's",
+  "s": 263.98,
+  "e": 264.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 264.2,
+  "e": 264.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you're",
+  "s": 264.32,
+  "e": 264.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talking",
+  "s": 264.5,
+  "e": 264.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about.",
+  "s": 264.72,
+  "e": 264.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Correct.",
+  "s": 264.94,
+  "e": 265.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "All",
+  "s": 265.34,
+  "e": 265.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right,",
+  "s": 265.46,
+  "e": 265.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thank",
+  "s": 265.74,
+  "e": 265.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 265.9,
+  "e": 266.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Let",
+  "s": 266.22,
+  "e": 266.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "me",
+  "s": 266.58,
+  "e": 267.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 267.12,
+  "e": 267.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "pursue",
+  "s": 267.36,
+  "e": 267.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 267.76,
+  "e": 268.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "from",
+  "s": 268.02,
+  "e": 268.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 268.4,
+  "e": 268.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "statutory",
+  "s": 268.64,
+  "e": 269.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "standpoint.",
+  "s": 269.06,
+  "e": 269.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 270.06,
+  "e": 270.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 270.06,
+  "e": 270.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case",
+  "s": 270.88,
+  "e": 271.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 271.38,
+  "e": 272.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 272.96,
+  "e": 273.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 273.3,
+  "e": 274.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "playing",
+  "s": 274.06,
+  "e": 274.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ground",
+  "s": 274.32,
+  "e": 274.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 274.78,
+  "e": 275.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 275.46,
+  "e": 275.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "anti",
+  "s": 275.78,
+  "e": 276.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-squatting",
+  "s": 276.54,
+  "e": 277.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "statute,",
+  "s": 277.1,
+  "e": 277.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 278.46,
+  "e": 279.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 279.06,
+  "e": 279.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 279.24,
+  "e": 279.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "elements",
+  "s": 279.38,
+  "e": 279.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 279.8,
+  "e": 280.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 280.08,
+  "e": 280.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "need",
+  "s": 280.26,
+  "e": 280.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 280.5,
+  "e": 280.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 280.68,
+  "e": 280.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "approved",
+  "s": 280.82,
+  "e": 281.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 281.26,
+  "e": 281.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 281.76,
+  "e": 282.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "party",
+  "s": 282.12,
+  "e": 282.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "claim.",
+  "s": 282.5,
+  "e": 282.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Precisely.",
+  "s": 283.3,
+  "e": 283.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Okay.",
+  "s": 283.9,
+  "e": 284.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 284.92,
+  "e": 285.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "generally",
+  "s": 285.06,
+  "e": 285.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "speaking,",
+  "s": 285.48,
+  "e": 286.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 286.24,
+  "e": 286.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 286.38,
+  "e": 286.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "those",
+  "s": 286.5,
+  "e": 286.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "elements?",
+  "s": 286.76,
+  "e": 287.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 287.58,
+  "e": 287.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 287.98,
+  "e": 288.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "qualify",
+  "s": 288.1,
+  "e": 288.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 288.46,
+  "e": 288.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "protection,",
+  "s": 288.72,
+  "e": 289.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one",
+  "s": 289.3,
+  "e": 289.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "must",
+  "s": 289.38,
+  "e": 289.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "either",
+  "s": 289.58,
+  "e": 289.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hold",
+  "s": 289.86,
+  "e": 290.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 290.06,
+  "e": 290.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark",
+  "s": 290.3,
+  "e": 290.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 291.18,
+  "e": 291.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 291.66,
+  "e": 291.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 291.9,
+  "e": 292.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "well",
+  "s": 292.1,
+  "e": 292.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "recognized",
+  "s": 292.32,
+  "e": 292.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 292.84,
+  "e": 293.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 293.14,
+  "e": 293.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "national",
+  "s": 293.34,
+  "e": 293.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 293.56,
+  "e": 293.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "global",
+  "s": 293.78,
+  "e": 294.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "scale",
+  "s": 294.22,
+  "e": 294.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 294.56,
+  "e": 294.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "their",
+  "s": 294.78,
+  "e": 294.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name",
+  "s": 294.96,
+  "e": 295.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 295.2,
+  "e": 295.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 295.42,
+  "e": 295.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sufficient",
+  "s": 295.86,
+  "e": 296.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 296.52,
+  "e": 296.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "most",
+  "s": 296.74,
+  "e": 296.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "individuals",
+  "s": 296.98,
+  "e": 297.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 297.44,
+  "e": 297.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 297.8,
+  "e": 297.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "who",
+  "s": 297.96,
+  "e": 298.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they",
+  "s": 298.14,
+  "e": 298.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "were.",
+  "s": 298.3,
+  "e": 298.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charterwest",
+  "s": 299.08,
+  "e": 299.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "does",
+  "s": 299.38,
+  "e": 299.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 299.62,
+  "e": 299.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hold",
+  "s": 299.82,
+  "e": 300.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 300.02,
+  "e": 300.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark",
+  "s": 300.18,
+  "e": 300.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 300.46,
+  "e": 300.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 300.68,
+  "e": 300.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "domain",
+  "s": 300.86,
+  "e": 301.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name,",
+  "s": 301.16,
+  "e": 301.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "although",
+  "s": 301.98,
+  "e": 302.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 302.22,
+  "e": 302.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they",
+  "s": 302.46,
+  "e": 302.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did,",
+  "s": 302.82,
+  "e": 303.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 303.5,
+  "e": 303.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fair",
+  "s": 303.58,
+  "e": 303.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "use",
+  "s": 303.72,
+  "e": 304.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 304.06,
+  "e": 305.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "affirmative,",
+  "s": 305.04,
+  "e": 305.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 305.98,
+  "e": 306.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I've",
+  "s": 306.12,
+  "e": 307.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "proven",
+  "s": 307.02,
+  "e": 307.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 307.2,
+  "e": 307.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "several",
+  "s": 307.42,
+  "e": 307.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "times.",
+  "s": 307.66,
+  "e": 308.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "When",
+  "s": 308.32,
+  "e": 308.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 308.34,
+  "e": 308.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "say",
+  "s": 308.72,
+  "e": 309.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they",
+  "s": 309.06,
+  "e": 309.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 309.52,
+  "e": 309.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "hold",
+  "s": 309.74,
+  "e": 310.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 310.02,
+  "e": 310.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark",
+  "s": 310.22,
+  "e": 310.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 310.6,
+  "e": 310.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 310.86,
+  "e": 311.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "domain",
+  "s": 311.02,
+  "e": 311.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name?",
+  "s": 311.48,
+  "e": 311.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yeah,",
+  "s": 311.54,
+  "e": 311.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they're",
+  "s": 311.8,
+  "e": 311.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 311.96,
+  "e": 312.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademarks.",
+  "s": 312.12,
+  "e": 312.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "To",
+  "s": 314.02,
+  "e": 314.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 314.74,
+  "e": 315.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "precise,",
+  "s": 315.46,
+  "e": 316.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 316.4,
+  "e": 317.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 317.6,
+  "e": 317.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark",
+  "s": 317.74,
+  "e": 318.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 318.62,
+  "e": 318.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "domain",
+  "s": 318.98,
+  "e": 319.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name,",
+  "s": 319.34,
+  "e": 319.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 320.26,
+  "e": 320.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark",
+  "s": 320.26,
+  "e": 321.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 321.22,
+  "e": 321.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name.",
+  "s": 321.62,
+  "e": 322.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Correct.",
+  "s": 322.16,
+  "e": 322.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 323.28,
+  "e": 323.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 323.34,
+  "e": 323.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "contention",
+  "s": 323.48,
+  "e": 323.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 323.94,
+  "e": 324.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they",
+  "s": 324.22,
+  "e": 324.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 324.5,
+  "e": 324.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 324.64,
+  "e": 324.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 324.84,
+  "e": 325.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 325.08,
+  "e": 325.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark",
+  "s": 325.28,
+  "e": 325.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 325.72,
+  "e": 326.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charterwest.",
+  "s": 326.86,
+  "e": 327.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Correct.",
+  "s": 328.08,
+  "e": 328.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 328.76,
+  "e": 328.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 328.88,
+  "e": 329.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "statute",
+  "s": 329.1,
+  "e": 329.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 329.56,
+  "e": 329.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 329.84,
+  "e": 330.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "cases",
+  "s": 330.42,
+  "e": 330.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 330.78,
+  "e": 331.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "referring",
+  "s": 331.12,
+  "e": 331.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 331.5,
+  "e": 331.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mark,",
+  "s": 331.78,
+  "e": 332.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 332.54,
+  "e": 332.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark.",
+  "s": 332.66,
+  "e": 333.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Service",
+  "s": 334.5,
+  "e": 334.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mark,",
+  "s": 334.86,
+  "e": 335.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark.",
+  "s": 335.28,
+  "e": 335.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 336.46,
+  "e": 336.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they're",
+  "s": 336.7,
+  "e": 336.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 336.86,
+  "e": 337.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fungible.",
+  "s": 337.06,
+  "e": 337.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 337.58,
+  "e": 338.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "under",
+  "s": 338.22,
+  "e": 338.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 338.6,
+  "e": 338.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "anti",
+  "s": 338.86,
+  "e": 339.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-squatting",
+  "s": 339.74,
+  "e": 340.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "statute,",
+  "s": 340.42,
+  "e": 340.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 341.5,
+  "e": 341.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mark",
+  "s": 341.82,
+  "e": 342.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "needs",
+  "s": 342.16,
+  "e": 342.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 342.52,
+  "e": 342.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 342.72,
+  "e": 343.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "confusingly",
+  "s": 343.14,
+  "e": 344.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "similar,",
+  "s": 344.38,
+  "e": 344.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right?",
+  "s": 345.22,
+  "e": 345.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That",
+  "s": 346.5,
+  "e": 346.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 346.62,
+  "e": 346.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 346.76,
+  "e": 346.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one.",
+  "s": 346.96,
+  "e": 347.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That",
+  "s": 347.5,
+  "e": 347.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 347.52,
+  "e": 347.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 347.66,
+  "e": 347.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one",
+  "s": 347.84,
+  "e": 348.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 348.04,
+  "e": 348.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 348.36,
+  "e": 348.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "elements,",
+  "s": 348.5,
+  "e": 348.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right?",
+  "s": 349.26,
+  "e": 349.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 349.42,
+  "e": 349.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 349.46,
+  "e": 349.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 349.64,
+  "e": 349.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 349.8,
+  "e": 350.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "same",
+  "s": 350.0,
+  "e": 350.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 350.14,
+  "e": 350.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark",
+  "s": 350.38,
+  "e": 350.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 350.78,
+  "e": 351.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "likelihood",
+  "s": 351.22,
+  "e": 351.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 351.74,
+  "e": 352.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "confusion.",
+  "s": 352.1,
+  "e": 352.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "They're",
+  "s": 353.02,
+  "e": 353.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 353.14,
+  "e": 353.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 353.26,
+  "e": 353.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "same.",
+  "s": 353.5,
+  "e": 353.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Do",
+  "s": 354.02,
+  "e": 354.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 354.08,
+  "e": 354.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "agree?",
+  "s": 354.2,
+  "e": 354.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 355.56,
+  "e": 355.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 355.76,
+  "e": 355.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "agree,",
+  "s": 355.92,
+  "e": 356.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "yes.",
+  "s": 356.38,
+  "e": 356.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Thank",
+  "s": 356.58,
+  "e": 356.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 357.3,
+  "e": 357.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Thank",
+  "s": 358.56,
+  "e": 358.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you,",
+  "s": 358.84,
+  "e": 359.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Your",
+  "s": 359.22,
+  "e": 359.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Honor.",
+  "s": 359.22,
+  "e": 359.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Additionally,",
+  "s": 360.76,
+  "e": 361.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "notwithstanding",
+  "s": 361.28,
+  "e": 361.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 361.5,
+  "e": 362.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "rest",
+  "s": 362.0,
+  "e": 362.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 362.16,
+  "e": 362.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 362.36,
+  "e": 362.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "world,",
+  "s": 362.38,
+  "e": 362.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "most",
+  "s": 362.7,
+  "e": 362.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "people",
+  "s": 362.86,
+  "e": 363.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 363.2,
+  "e": 363.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Nebraska",
+  "s": 363.36,
+  "e": 363.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't",
+  "s": 363.74,
+  "e": 364.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 364.02,
+  "e": 364.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "whether",
+  "s": 364.18,
+  "e": 364.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charterwest",
+  "s": 364.4,
+  "e": 364.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 364.82,
+  "e": 365.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 365.04,
+  "e": 365.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Oregon",
+  "s": 365.24,
+  "e": 365.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-based",
+  "s": 365.44,
+  "e": 365.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "shipping",
+  "s": 365.72,
+  "e": 366.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "company,",
+  "s": 366.06,
+  "e": 366.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "California",
+  "s": 366.52,
+  "e": 367.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Travel",
+  "s": 367.48,
+  "e": 367.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Agency,",
+  "s": 367.84,
+  "e": 368.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 368.5,
+  "e": 368.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Nebraska",
+  "s": 368.5,
+  "e": 368.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Bank,",
+  "s": 368.82,
+  "e": 369.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "because",
+  "s": 370.28,
+  "e": 370.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they're",
+  "s": 370.52,
+  "e": 370.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 370.68,
+  "e": 370.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "well",
+  "s": 370.88,
+  "e": 371.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-known",
+  "s": 371.38,
+  "e": 371.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 371.66,
+  "e": 371.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "large,",
+  "s": 371.9,
+  "e": 372.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "thus",
+  "s": 372.56,
+  "e": 372.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "disqualifying",
+  "s": 372.56,
+  "e": 374.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "them",
+  "s": 374.7,
+  "e": 374.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "from",
+  "s": 374.86,
+  "e": 375.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 375.06,
+  "e": 375.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "other",
+  "s": 375.16,
+  "e": 375.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "prong.",
+  "s": 375.34,
+  "e": 375.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "There",
+  "s": 376.22,
+  "e": 376.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 376.46,
+  "e": 377.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "two",
+  "s": 377.26,
+  "e": 378.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "words",
+  "s": 378.06,
+  "e": 378.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "used",
+  "s": 378.78,
+  "e": 379.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 379.5,
+  "e": 380.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 380.78,
+  "e": 381.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "phrase",
+  "s": 381.08,
+  "e": 381.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 381.44,
+  "e": 381.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "which",
+  "s": 381.7,
+  "e": 381.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 381.9,
+  "e": 382.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 382.2,
+  "e": 382.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 382.62,
+  "e": 382.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 382.98,
+  "e": 383.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "referring,",
+  "s": 383.24,
+  "e": 383.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "distinctive",
+  "s": 384.78,
+  "e": 385.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 385.16,
+  "e": 386.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "famous.",
+  "s": 386.3,
+  "e": 387.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Are",
+  "s": 388.12,
+  "e": 388.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 388.56,
+  "e": 388.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talking",
+  "s": 388.8,
+  "e": 389.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 389.26,
+  "e": 389.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "both",
+  "s": 389.8,
+  "e": 390.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 390.2,
+  "e": 390.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "those",
+  "s": 390.44,
+  "e": 390.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "words,",
+  "s": 390.76,
+  "e": 391.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 391.22,
+  "e": 391.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 391.5,
+  "e": 391.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 391.74,
+  "e": 391.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talking",
+  "s": 391.94,
+  "e": 392.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 392.4,
+  "e": 392.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 392.94,
+  "e": 393.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "famous?",
+  "s": 393.98,
+  "e": 394.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 396.14,
+  "e": 396.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 396.66,
+  "e": 397.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "distinctive?",
+  "s": 397.14,
+  "e": 398.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 399.96,
+  "e": 400.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 400.22,
+  "e": 400.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark,",
+  "s": 400.46,
+  "e": 400.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so",
+  "s": 401.18,
+  "e": 401.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 401.28,
+  "e": 401.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doesn't",
+  "s": 401.48,
+  "e": 402.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 402.56,
+  "e": 402.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "any,",
+  "s": 402.88,
+  "e": 403.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there's",
+  "s": 403.44,
+  "e": 403.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no",
+  "s": 403.72,
+  "e": 403.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "protection",
+  "s": 403.86,
+  "e": 404.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 404.42,
+  "e": 404.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that.",
+  "s": 404.86,
+  "e": 405.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "When",
+  "s": 406.18,
+  "e": 406.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 406.26,
+  "e": 406.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "say",
+  "s": 406.64,
+  "e": 406.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 406.86,
+  "e": 407.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 407.04,
+  "e": 407.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark,",
+  "s": 407.22,
+  "e": 407.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 408.16,
+  "e": 408.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 408.28,
+  "e": 408.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "saying",
+  "s": 408.4,
+  "e": 408.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there's",
+  "s": 408.7,
+  "e": 409.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no",
+  "s": 409.18,
+  "e": 409.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "evidence",
+  "s": 409.34,
+  "e": 409.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 409.72,
+  "e": 410.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they",
+  "s": 410.12,
+  "e": 410.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 410.26,
+  "e": 410.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 410.4,
+  "e": 410.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "registered",
+  "s": 410.64,
+  "e": 411.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "trademark",
+  "s": 411.12,
+  "e": 411.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 411.74,
+  "e": 412.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 412.26,
+  "e": 412.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "USPTO?",
+  "s": 412.44,
+  "e": 413.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Would",
+  "s": 413.68,
+  "e": 413.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 413.74,
+  "e": 413.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 413.9,
+  "e": 414.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "able",
+  "s": 414.08,
+  "e": 414.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 414.26,
+  "e": 414.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "step",
+  "s": 414.52,
+  "e": 414.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 414.68,
+  "e": 414.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 414.86,
+  "e": 414.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "next",
+  "s": 414.98,
+  "e": 415.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "prong?",
+  "s": 415.18,
+  "e": 415.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 415.8,
+  "e": 415.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 415.96,
+  "e": 416.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 416.12,
+  "e": 416.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "will",
+  "s": 416.24,
+  "e": 416.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "answer",
+  "s": 416.36,
+  "e": 416.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 416.56,
+  "e": 416.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 416.72,
+  "e": 416.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 416.8,
+  "e": 416.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "questions.",
+  "s": 416.88,
+  "e": 417.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Thank",
+  "s": 418.4,
+  "e": 418.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 418.56,
+  "e": 418.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "In",
+  "s": 420.3,
+  "e": 420.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case",
+  "s": 420.78,
+  "e": 421.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 421.26,
+  "e": 421.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lack",
+  "s": 421.46,
+  "e": 421.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 421.6,
+  "e": 421.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "qualifying",
+  "s": 421.86,
+  "e": 422.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "conditions",
+  "s": 422.16,
+  "e": 422.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "does",
+  "s": 422.7,
+  "e": 423.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 423.0,
+  "e": 423.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "own",
+  "s": 423.16,
+  "e": 423.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "satisfy",
+  "s": 423.62,
+  "e": 424.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 424.06,
+  "e": 424.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court,",
+  "s": 424.3,
+  "e": 424.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there's",
+  "s": 424.6,
+  "e": 424.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 424.84,
+  "e": 424.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "second.",
+  "s": 424.96,
+  "e": 425.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Standalone,",
+  "s": 425.74,
+  "e": 426.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fundamentally",
+  "s": 426.28,
+  "e": 426.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "more",
+  "s": 426.8,
+  "e": 427.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "important",
+  "s": 427.06,
+  "e": 427.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "area",
+  "s": 427.38,
+  "e": 427.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 427.58,
+  "e": 427.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 427.7,
+  "e": 427.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "claim",
+  "s": 427.78,
+  "e": 427.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fails.",
+  "s": 427.96,
+  "e": 428.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Public",
+  "s": 428.82,
+  "e": 429.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "criticism,",
+  "s": 429.1,
+  "e": 430.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "parody,",
+  "s": 430.7,
+  "e": 430.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ripe",
+  "s": 431.14,
+  "e": 431.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "websites",
+  "s": 431.32,
+  "e": 431.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 431.68,
+  "e": 431.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "constitutionally",
+  "s": 431.96,
+  "e": 432.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "protected",
+  "s": 432.6,
+  "e": 433.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "activities.",
+  "s": 433.14,
+  "e": 433.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "When",
+  "s": 434.3,
+  "e": 434.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 434.42,
+  "e": 434.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purchased",
+  "s": 434.56,
+  "e": 434.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 434.78,
+  "e": 435.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site,",
+  "s": 435.1,
+  "e": 435.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 435.3,
+  "e": 435.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "immediately",
+  "s": 435.38,
+  "e": 435.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "started",
+  "s": 435.72,
+  "e": 436.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "cataloging",
+  "s": 436.12,
+  "e": 436.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 436.72,
+  "e": 436.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "way",
+  "s": 436.88,
+  "e": 437.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 437.0,
+  "e": 437.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charterwest",
+  "s": 437.2,
+  "e": 437.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 437.64,
+  "e": 437.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fabricated",
+  "s": 437.9,
+  "e": 438.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "information",
+  "s": 438.4,
+  "e": 438.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 438.98,
+  "e": 439.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 439.22,
+  "e": 439.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "us,",
+  "s": 439.44,
+  "e": 439.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 439.78,
+  "e": 439.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "little",
+  "s": 439.86,
+  "e": 440.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "guy.",
+  "s": 440.02,
+  "e": 440.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 440.62,
+  "e": 440.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "easy",
+  "s": 440.8,
+  "e": 440.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 440.94,
+  "e": 441.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "explain",
+  "s": 441.12,
+  "e": 441.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "through",
+  "s": 441.46,
+  "e": 441.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 441.7,
+  "e": 441.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website,",
+  "s": 441.84,
+  "e": 442.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'm",
+  "s": 442.22,
+  "e": 442.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 442.38,
+  "e": 442.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 442.48,
+  "e": 442.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "skip",
+  "s": 442.56,
+  "e": 442.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "some",
+  "s": 442.72,
+  "e": 442.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 442.96,
+  "e": 443.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this,",
+  "s": 443.08,
+  "e": 443.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 444.46,
+  "e": 444.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 444.8,
+  "e": 445.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "order",
+  "s": 445.08,
+  "e": 445.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 445.24,
+  "e": 445.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "win",
+  "s": 445.44,
+  "e": 445.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 445.54,
+  "e": 445.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case,",
+  "s": 445.74,
+  "e": 445.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charterwest",
+  "s": 446.12,
+  "e": 446.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "must",
+  "s": 446.42,
+  "e": 446.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "prove",
+  "s": 446.78,
+  "e": 447.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 447.08,
+  "e": 447.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 447.3,
+  "e": 447.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "acting",
+  "s": 447.46,
+  "e": 447.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 447.8,
+  "e": 448.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 448.02,
+  "e": 448.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "faith.",
+  "s": 448.24,
+  "e": 448.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 448.56,
+  "e": 449.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 449.14,
+  "e": 449.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "simply",
+  "s": 449.3,
+  "e": 449.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "impossible",
+  "s": 449.6,
+  "e": 450.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 450.14,
+  "e": 450.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 450.36,
+  "e": 450.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "based",
+  "s": 450.52,
+  "e": 450.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 450.86,
+  "e": 451.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 451.08,
+  "e": 451.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "factual",
+  "s": 451.24,
+  "e": 451.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 451.54,
+  "e": 451.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "legitimate",
+  "s": 451.76,
+  "e": 452.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 452.1,
+  "e": 452.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 452.86,
+  "e": 453.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "initiated",
+  "s": 453.02,
+  "e": 453.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 453.44,
+  "e": 453.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "complaint",
+  "s": 453.78,
+  "e": 454.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "prior",
+  "s": 454.22,
+  "e": 454.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 454.7,
+  "e": 455.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purchasing",
+  "s": 455.02,
+  "e": 455.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 455.42,
+  "e": 455.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website.",
+  "s": 455.72,
+  "e": 456.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It",
+  "s": 456.46,
+  "e": 456.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "seemed",
+  "s": 456.46,
+  "e": 456.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 456.68,
+  "e": 456.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 456.9,
+  "e": 457.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "district",
+  "s": 457.0,
+  "e": 457.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court,",
+  "s": 457.28,
+  "e": 457.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 458.12,
+  "e": 458.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "state",
+  "s": 458.2,
+  "e": 458.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "district",
+  "s": 458.38,
+  "e": 458.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court",
+  "s": 458.64,
+  "e": 458.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 458.94,
+  "e": 459.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "concerned",
+  "s": 459.22,
+  "e": 459.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 459.64,
+  "e": 459.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 459.9,
+  "e": 460.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "offer",
+  "s": 460.14,
+  "e": 460.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 460.38,
+  "e": 460.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sell",
+  "s": 460.64,
+  "e": 460.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 460.88,
+  "e": 461.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website",
+  "s": 461.1,
+  "e": 461.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 461.46,
+  "e": 461.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "$1",
+  "s": 461.78,
+  "e": 462.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "million.",
+  "s": 462.04,
+  "e": 462.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Does",
+  "s": 462.88,
+  "e": 463.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 463.08,
+  "e": 463.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 463.26,
+  "e": 463.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "any",
+  "s": 463.48,
+  "e": 463.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "impact?",
+  "s": 463.88,
+  "e": 464.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 464.74,
+  "e": 464.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "skip",
+  "s": 464.96,
+  "e": 465.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ahead",
+  "s": 465.14,
+  "e": 465.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 465.38,
+  "e": 465.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that.",
+  "s": 465.56,
+  "e": 465.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You",
+  "s": 465.92,
+  "e": 466.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "will",
+  "s": 466.02,
+  "e": 466.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "see",
+  "s": 466.18,
+  "e": 466.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 466.38,
+  "e": 466.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "email",
+  "s": 466.52,
+  "e": 466.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "string",
+  "s": 466.74,
+  "e": 467.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "from",
+  "s": 467.08,
+  "e": 467.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 467.36,
+  "e": 467.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "plaintiff",
+  "s": 467.6,
+  "e": 467.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "titled,",
+  "s": 467.84,
+  "e": 468.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "settlement",
+  "s": 468.34,
+  "e": 468.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "offer",
+  "s": 468.76,
+  "e": 469.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "withdrawal",
+  "s": 469.14,
+  "e": 469.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 469.66,
+  "e": 470.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "allowed",
+  "s": 470.34,
+  "e": 470.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "into",
+  "s": 470.72,
+  "e": 471.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "evidence,",
+  "s": 471.04,
+  "e": 471.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "despite",
+  "s": 471.54,
+  "e": 472.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 472.44,
+  "e": 472.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "objection,",
+  "s": 472.8,
+  "e": 473.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "because",
+  "s": 473.58,
+  "e": 473.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 473.68,
+  "e": 473.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Judge",
+  "s": 473.92,
+  "e": 474.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Durr",
+  "s": 474.26,
+  "e": 474.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "insisted,",
+  "s": 474.46,
+  "e": 474.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "quote,",
+  "s": 475.46,
+  "e": 475.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 475.98,
+  "e": 476.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 476.26,
+  "e": 476.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 476.42,
+  "e": 476.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "offer",
+  "s": 476.6,
+  "e": 476.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 476.82,
+  "e": 477.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "settlement",
+  "s": 477.08,
+  "e": 477.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "because",
+  "s": 477.34,
+  "e": 477.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 477.72,
+  "e": 477.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "could",
+  "s": 477.96,
+  "e": 478.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 478.16,
+  "e": 478.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "some",
+  "s": 478.38,
+  "e": 478.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "more",
+  "s": 478.64,
+  "e": 478.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "nefarious",
+  "s": 478.8,
+  "e": 479.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "information",
+  "s": 479.3,
+  "e": 480.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "contained,",
+  "s": 480.04,
+  "e": 480.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "simply",
+  "s": 481.42,
+  "e": 481.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "meaning",
+  "s": 481.94,
+  "e": 482.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 482.46,
+  "e": 482.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 482.72,
+  "e": 482.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 482.9,
+  "e": 483.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "allow",
+  "s": 483.06,
+  "e": 483.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "those",
+  "s": 483.32,
+  "e": 483.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "emails",
+  "s": 483.64,
+  "e": 484.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 484.02,
+  "e": 484.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 484.3,
+  "e": 484.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "open",
+  "s": 484.48,
+  "e": 484.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "admission",
+  "s": 484.64,
+  "e": 485.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 485.06,
+  "e": 485.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 485.32,
+  "e": 485.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "could",
+  "s": 485.44,
+  "e": 485.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "use",
+  "s": 485.64,
+  "e": 485.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "them",
+  "s": 485.8,
+  "e": 485.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 485.98,
+  "e": 486.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 486.12,
+  "e": 486.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fishing",
+  "s": 486.28,
+  "e": 486.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "expedition.",
+  "s": 486.5,
+  "e": 487.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So,",
+  "s": 491.32,
+  "e": 491.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "let's",
+  "s": 491.84,
+  "e": 492.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 492.36,
+  "e": 492.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "skip",
+  "s": 492.56,
+  "e": 492.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 492.82,
+  "e": 493.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the,",
+  "s": 493.08,
+  "e": 493.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "because",
+  "s": 493.68,
+  "e": 493.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we're",
+  "s": 493.8,
+  "e": 493.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "running",
+  "s": 493.96,
+  "e": 494.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "low.",
+  "s": 494.1,
+  "e": 494.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Before",
+  "s": 494.1,
+  "e": 494.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 494.34,
+  "e": 495.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "move",
+  "s": 495.08,
+  "e": 495.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on,",
+  "s": 495.18,
+  "e": 495.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 495.68,
+  "e": 495.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "regard",
+  "s": 495.84,
+  "e": 496.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 496.06,
+  "e": 496.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 496.26,
+  "e": 496.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 496.52,
+  "e": 497.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "faith",
+  "s": 497.24,
+  "e": 497.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "argument,",
+  "s": 497.58,
+  "e": 498.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 498.18,
+  "e": 498.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 498.42,
+  "e": 498.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "saying",
+  "s": 498.58,
+  "e": 498.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 498.84,
+  "e": 499.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "could",
+  "s": 499.06,
+  "e": 499.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 499.24,
+  "e": 499.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 499.4,
+  "e": 499.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 499.56,
+  "e": 499.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "faith",
+  "s": 499.78,
+  "e": 500.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "here",
+  "s": 500.04,
+  "e": 500.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "because",
+  "s": 500.26,
+  "e": 500.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 500.72,
+  "e": 501.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you're",
+  "s": 501.24,
+  "e": 501.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "asserting",
+  "s": 501.94,
+  "e": 502.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 502.66,
+  "e": 502.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "true?",
+  "s": 502.92,
+  "e": 503.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 505.08,
+  "e": 505.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 505.56,
+  "e": 505.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "only",
+  "s": 505.72,
+  "e": 506.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "true,",
+  "s": 506.0,
+  "e": 506.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 506.38,
+  "e": 506.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "legal.",
+  "s": 506.64,
+  "e": 506.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 509.52,
+  "e": 510.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 510.0,
+  "e": 510.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "haven't",
+  "s": 510.48,
+  "e": 510.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "impersonated",
+  "s": 510.88,
+  "e": 511.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 511.66,
+  "e": 511.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bank,",
+  "s": 511.86,
+  "e": 512.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 512.2,
+  "e": 512.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "haven't",
+  "s": 512.22,
+  "e": 512.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "tried",
+  "s": 512.42,
+  "e": 512.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 512.62,
+  "e": 512.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sell",
+  "s": 512.82,
+  "e": 513.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bank",
+  "s": 513.06,
+  "e": 513.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "products.",
+  "s": 513.36,
+  "e": 514.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Anything",
+  "s": 514.72,
+  "e": 515.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 515.1,
+  "e": 515.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 515.38,
+  "e": 515.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sale.",
+  "s": 515.62,
+  "e": 516.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "If",
+  "s": 516.22,
+  "e": 516.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 516.24,
+  "e": 516.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bank",
+  "s": 516.36,
+  "e": 516.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wants",
+  "s": 516.52,
+  "e": 516.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 516.74,
+  "e": 516.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "buy",
+  "s": 516.96,
+  "e": 517.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 517.08,
+  "e": 517.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website,",
+  "s": 517.26,
+  "e": 517.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 517.88,
+  "e": 518.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 518.04,
+  "e": 518.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sell",
+  "s": 518.26,
+  "e": 518.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 518.46,
+  "e": 518.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 518.62,
+  "e": 518.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "them.",
+  "s": 518.76,
+  "e": 518.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That's",
+  "s": 519.12,
+  "e": 519.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 519.42,
+  "e": 519.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "cyber",
+  "s": 519.66,
+  "e": 519.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "squat.",
+  "s": 519.94,
+  "e": 520.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 521.82,
+  "e": 522.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mean,",
+  "s": 522.06,
+  "e": 522.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 522.54,
+  "e": 522.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "defined,",
+  "s": 522.74,
+  "e": 523.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 523.26,
+  "e": 523.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 523.36,
+  "e": 523.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 523.48,
+  "e": 523.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "haven't",
+  "s": 523.66,
+  "e": 524.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "done",
+  "s": 524.02,
+  "e": 524.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that.",
+  "s": 524.2,
+  "e": 524.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 524.44,
+  "e": 524.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "defined",
+  "s": 524.74,
+  "e": 525.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 525.1,
+  "e": 525.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 525.3,
+  "e": 525.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 525.66,
+  "e": 525.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "faith",
+  "s": 525.86,
+  "e": 526.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has",
+  "s": 526.0,
+  "e": 526.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 526.4,
+  "e": 526.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "nine",
+  "s": 526.9,
+  "e": 527.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "statutory",
+  "s": 527.3,
+  "e": 528.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "factors",
+  "s": 528.08,
+  "e": 528.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 528.68,
+  "e": 528.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 528.98,
+  "e": 529.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "faith,",
+  "s": 529.32,
+  "e": 529.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "right?",
+  "s": 529.9,
+  "e": 529.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "15",
+  "s": 530.4,
+  "e": 530.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "USC,",
+  "s": 530.4,
+  "e": 530.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "1125,",
+  "s": 531.04,
+  "e": 531.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "D1,",
+  "s": 532.02,
+  "e": 532.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "D1.",
+  "s": 532.64,
+  "e": 533.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Did",
+  "s": 533.26,
+  "e": 533.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 533.66,
+  "e": 533.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 533.8,
+  "e": 533.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it?",
+  "s": 533.92,
+  "e": 534.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Okay.",
+  "s": 534.4,
+  "e": 534.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 535.42,
+  "e": 535.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 535.94,
+  "e": 536.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 536.14,
+  "e": 536.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "other",
+  "s": 536.34,
+  "e": 536.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "things",
+  "s": 536.66,
+  "e": 537.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 537.1,
+  "e": 537.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 537.3,
+  "e": 537.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 537.46,
+  "e": 537.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "considered",
+  "s": 537.64,
+  "e": 538.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 538.06,
+  "e": 538.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "well.",
+  "s": 538.32,
+  "e": 538.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 538.92,
+  "e": 539.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 539.0,
+  "e": 539.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 539.18,
+  "e": 539.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "kind",
+  "s": 539.38,
+  "e": 539.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 539.62,
+  "e": 539.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 539.74,
+  "e": 539.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "reference",
+  "s": 539.88,
+  "e": 540.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 540.28,
+  "e": 540.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 540.56,
+  "e": 541.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "analyst.",
+  "s": 541.02,
+  "e": 541.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Exactly.",
+  "s": 541.32,
+  "e": 541.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Right.",
+  "s": 542.06,
+  "e": 542.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 542.94,
+  "e": 543.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "then,",
+  "s": 543.26,
+  "e": 543.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 543.86,
+  "e": 543.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 543.96,
+  "e": 544.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "also",
+  "s": 544.08,
+  "e": 544.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like",
+  "s": 544.36,
+  "e": 544.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 544.6,
+  "e": 544.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mention,",
+  "s": 544.78,
+  "e": 545.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 545.36,
+  "e": 545.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there's",
+  "s": 545.42,
+  "e": 545.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "any",
+  "s": 545.64,
+  "e": 545.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "remaining",
+  "s": 545.84,
+  "e": 546.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doubt,",
+  "s": 546.2,
+  "e": 546.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 546.54,
+  "e": 546.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one",
+  "s": 546.62,
+  "e": 546.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "needs",
+  "s": 546.8,
+  "e": 547.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 547.02,
+  "e": 547.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 547.2,
+  "e": 547.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 547.34,
+  "e": 547.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "visit",
+  "s": 547.5,
+  "e": 547.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "www",
+  "s": 547.8,
+  "e": 548.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": ".neson",
+  "s": 548.46,
+  "e": 549.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": ".com.",
+  "s": 549.6,
+  "e": 550.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You'll",
+  "s": 550.28,
+  "e": 550.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "see",
+  "s": 550.96,
+  "e": 551.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 551.14,
+  "e": 551.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 551.38,
+  "e": 551.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "currently",
+  "s": 551.66,
+  "e": 551.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "owned",
+  "s": 551.92,
+  "e": 552.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 552.16,
+  "e": 552.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 552.32,
+  "e": 552.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 552.54,
+  "e": 552.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website,",
+  "s": 552.68,
+  "e": 553.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 553.36,
+  "e": 553.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 553.76,
+  "e": 554.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "www",
+  "s": 554.04,
+  "e": 554.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": ".nesonusa",
+  "s": 554.48,
+  "e": 556.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": ".com",
+  "s": 556.06,
+  "e": 556.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 556.62,
+  "e": 556.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 556.84,
+  "e": 557.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "world's",
+  "s": 557.24,
+  "e": 557.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ninth",
+  "s": 557.96,
+  "e": 558.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "largest",
+  "s": 558.2,
+  "e": 558.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "car",
+  "s": 558.78,
+  "e": 559.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "manufacturer",
+  "s": 559.92,
+  "e": 560.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 560.5,
+  "e": 560.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "157th",
+  "s": 560.74,
+  "e": 562.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "largest",
+  "s": 562.04,
+  "e": 562.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "company",
+  "s": 562.28,
+  "e": 562.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "owns.",
+  "s": 562.82,
+  "e": 563.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 564.42,
+  "e": 564.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "pray",
+  "s": 564.54,
+  "e": 564.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 564.68,
+  "e": 564.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Court",
+  "s": 564.88,
+  "e": 565.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "upholds",
+  "s": 565.08,
+  "e": 565.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 565.9,
+  "e": 565.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "same",
+  "s": 565.98,
+  "e": 566.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "decisions",
+  "s": 566.24,
+  "e": 566.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 566.64,
+  "e": 566.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "every",
+  "s": 566.94,
+  "e": 567.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "other",
+  "s": 567.3,
+  "e": 567.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "high",
+  "s": 567.62,
+  "e": 567.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court",
+  "s": 567.8,
+  "e": 568.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "regarding",
+  "s": 568.12,
+  "e": 569.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 569.08,
+  "e": 569.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "websites,",
+  "s": 569.46,
+  "e": 569.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 570.12,
+  "e": 570.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "move",
+  "s": 570.18,
+  "e": 570.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "them",
+  "s": 570.38,
+  "e": 570.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 570.7,
+  "e": 571.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "dismiss",
+  "s": 571.14,
+  "e": 572.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 572.36,
+  "e": 572.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "prejudice,",
+  "s": 572.58,
+  "e": 572.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 573.04,
+  "e": 573.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there's",
+  "s": 573.22,
+  "e": 573.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "really",
+  "s": 573.48,
+  "e": 573.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no",
+  "s": 573.68,
+  "e": 573.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "other",
+  "s": 573.86,
+  "e": 574.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "legal",
+  "s": 574.14,
+  "e": 574.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "question",
+  "s": 574.44,
+  "e": 575.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 575.62,
+  "e": 576.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "answer.",
+  "s": 576.0,
+  "e": 576.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 576.98,
+  "e": 577.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 577.52,
+  "e": 577.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "like",
+  "s": 577.66,
+  "e": 577.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 577.84,
+  "e": 578.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "reserve",
+  "s": 578.02,
+  "e": 578.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 578.3,
+  "e": 578.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "remaining",
+  "s": 578.56,
+  "e": 578.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "time.",
+  "s": 578.84,
+  "e": 579.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "You",
+  "s": 580.28,
+  "e": 580.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "may.",
+  "s": 580.78,
+  "e": 581.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Thank",
+  "s": 581.52,
+  "e": 581.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 581.64,
+  "e": 581.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Thank",
+  "s": 582.22,
+  "e": 582.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 582.52,
+  "e": 582.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "very",
+  "s": 582.76,
+  "e": 583.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "much.",
+  "s": 583.0,
+  "e": 583.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 584.58,
+  "e": 585.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Silver,",
+  "s": 585.58,
+  "e": 585.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "good",
+  "s": 586.62,
+  "e": 587.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "morning",
+  "s": 587.02,
+  "e": 587.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 587.26,
+  "e": 587.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you.",
+  "s": 587.5,
+  "e": 587.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Good",
+  "s": 588.38,
+  "e": 588.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "morning,",
+  "s": 588.5,
+  "e": 588.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 588.94,
+  "e": 589.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Chief",
+  "s": 589.28,
+  "e": 589.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Justice.",
+  "s": 589.28,
+  "e": 589.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Your",
+  "s": 590.34,
+  "e": 590.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Honors,",
+  "s": 590.48,
+  "e": 590.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 591.58,
+  "e": 591.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name",
+  "s": 591.76,
+  "e": 591.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 591.9,
+  "e": 592.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Jeffrey",
+  "s": 592.08,
+  "e": 592.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Silver.",
+  "s": 592.34,
+  "e": 592.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 592.9,
+  "e": 592.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "represent",
+  "s": 592.9,
+  "e": 593.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 593.38,
+  "e": 593.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 593.64,
+  "e": 593.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 593.76,
+  "e": 593.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "privilege",
+  "s": 593.9,
+  "e": 594.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 594.16,
+  "e": 594.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "representing",
+  "s": 594.34,
+  "e": 594.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 594.94,
+  "e": 595.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 595.4,
+  "e": 595.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Bank",
+  "s": 595.64,
+  "e": 596.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 596.22,
+  "e": 596.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 596.38,
+  "e": 596.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "matter.",
+  "s": 596.56,
+  "e": 596.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 598.04,
+  "e": 598.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 598.36,
+  "e": 598.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 598.58,
+  "e": 598.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 598.98,
+  "e": 599.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "freedom",
+  "s": 599.3,
+  "e": 599.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 599.46,
+  "e": 599.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "speech",
+  "s": 599.66,
+  "e": 599.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case.",
+  "s": 599.9,
+  "e": 600.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 600.98,
+  "e": 601.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 601.14,
+  "e": 601.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 601.3,
+  "e": 601.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "internet",
+  "s": 601.64,
+  "e": 602.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "blackmail",
+  "s": 602.06,
+  "e": 602.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case.",
+  "s": 602.82,
+  "e": 603.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 603.38,
+  "e": 604.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 605.35,
+  "e": 605.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gentleman",
+  "s": 606.0,
+  "e": 606.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did",
+  "s": 606.34,
+  "e": 606.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 606.74,
+  "e": 607.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "buy",
+  "s": 607.6,
+  "e": 608.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 608.16,
+  "e": 608.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website",
+  "s": 608.56,
+  "e": 608.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 608.98,
+  "e": 609.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 609.94,
+  "e": 610.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "found",
+  "s": 610.14,
+  "e": 610.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that,",
+  "s": 610.54,
+  "e": 610.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "unfortunately,",
+  "s": 611.18,
+  "e": 611.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 611.98,
+  "e": 612.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 612.16,
+  "e": 612.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West,",
+  "s": 612.38,
+  "e": 612.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they",
+  "s": 612.8,
+  "e": 612.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did",
+  "s": 612.9,
+  "e": 613.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 613.06,
+  "e": 613.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have,",
+  "s": 613.3,
+  "e": 613.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 614.18,
+  "e": 614.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 614.42,
+  "e": 614.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bought",
+  "s": 614.52,
+  "e": 614.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 614.8,
+  "e": 615.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "domain",
+  "s": 615.06,
+  "e": 615.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site,",
+  "s": 615.4,
+  "e": 615.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 616.28,
+  "e": 616.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 616.5,
+  "e": 616.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did",
+  "s": 616.62,
+  "e": 616.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 616.78,
+  "e": 616.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 616.92,
+  "e": 617.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one",
+  "s": 617.1,
+  "e": 617.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purpose",
+  "s": 617.34,
+  "e": 617.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "only,",
+  "s": 617.7,
+  "e": 618.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 618.26,
+  "e": 618.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 618.44,
+  "e": 618.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 618.62,
+  "e": 618.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 618.84,
+  "e": 619.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "injure",
+  "s": 619.12,
+  "e": 619.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 619.44,
+  "e": 619.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 619.84,
+  "e": 620.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 620.38,
+  "e": 621.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West.",
+  "s": 621.1,
+  "e": 621.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "The",
+  "s": 622.1,
+  "e": 622.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "emails",
+  "s": 622.28,
+  "e": 622.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 622.64,
+  "e": 623.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 623.0,
+  "e": 623.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "part",
+  "s": 623.14,
+  "e": 623.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 623.5,
+  "e": 623.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 623.64,
+  "e": 623.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "record,",
+  "s": 623.8,
+  "e": 624.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 624.18,
+  "e": 624.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think,",
+  "s": 624.6,
+  "e": 624.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "reflect,",
+  "s": 624.9,
+  "e": 625.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "astonishingly,",
+  "s": 625.82,
+  "e": 627.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 627.24,
+  "e": 627.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "his",
+  "s": 627.46,
+  "e": 627.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 627.66,
+  "e": 627.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "faith",
+  "s": 627.96,
+  "e": 628.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is,",
+  "s": 628.2,
+  "e": 628.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 628.78,
+  "e": 629.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 629.0,
+  "e": 629.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "may.",
+  "s": 629.18,
+  "e": 629.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "May",
+  "s": 629.6,
+  "e": 629.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 629.74,
+  "e": 629.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "jump",
+  "s": 629.9,
+  "e": 630.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ahead?",
+  "s": 630.12,
+  "e": 630.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Sure.",
+  "s": 630.9,
+  "e": 631.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 631.06,
+  "e": 631.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 631.46,
+  "e": 631.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is,",
+  "s": 631.68,
+  "e": 631.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 632.6,
+  "e": 632.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 632.94,
+  "e": 633.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 633.2,
+  "e": 633.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mentioned",
+  "s": 633.36,
+  "e": 633.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 633.66,
+  "e": 634.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "injury",
+  "s": 634.02,
+  "e": 634.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 634.56,
+  "e": 635.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 635.0,
+  "e": 635.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West.",
+  "s": 635.26,
+  "e": 635.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 635.62,
+  "e": 635.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 635.76,
+  "e": 635.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 635.94,
+  "e": 636.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "injury",
+  "s": 636.16,
+  "e": 636.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 636.6,
+  "e": 637.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 637.26,
+  "e": 637.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 637.56,
+  "e": 637.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 637.92,
+  "e": 638.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 638.88,
+  "e": 639.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "record?",
+  "s": 639.18,
+  "e": 639.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "The",
+  "s": 640.12,
+  "e": 640.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "injury",
+  "s": 640.22,
+  "e": 640.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 640.58,
+  "e": 641.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 641.16,
+  "e": 641.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 641.7,
+  "e": 641.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 641.96,
+  "e": 642.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 642.16,
+  "e": 642.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "record",
+  "s": 642.32,
+  "e": 642.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 642.66,
+  "e": 643.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 643.34,
+  "e": 643.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "confusion",
+  "s": 643.56,
+  "e": 644.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 644.12,
+  "e": 644.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 644.4,
+  "e": 644.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 644.58,
+  "e": 644.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 644.74,
+  "e": 644.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "cause",
+  "s": 644.92,
+  "e": 645.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 645.26,
+  "e": 645.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "respect",
+  "s": 645.5,
+  "e": 645.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 645.88,
+  "e": 646.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "its",
+  "s": 646.22,
+  "e": 646.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website",
+  "s": 646.54,
+  "e": 647.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 647.02,
+  "e": 647.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 647.3,
+  "e": 647.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has,",
+  "s": 647.42,
+  "e": 647.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 648.32,
+  "e": 648.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we",
+  "s": 648.42,
+  "e": 648.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 648.56,
+  "e": 648.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 648.88,
+  "e": 649.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 649.08,
+  "e": 649.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "record.",
+  "s": 649.26,
+  "e": 649.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Is",
+  "s": 649.28,
+  "e": 649.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 649.34,
+  "e": 649.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "perspective,",
+  "s": 649.54,
+  "e": 650.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 650.46,
+  "e": 650.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has",
+  "s": 650.58,
+  "e": 651.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 651.24,
+  "e": 651.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "already",
+  "s": 651.92,
+  "e": 652.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "happened?",
+  "s": 652.2,
+  "e": 652.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'm",
+  "s": 653.26,
+  "e": 653.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sorry?",
+  "s": 653.46,
+  "e": 653.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Is",
+  "s": 653.82,
+  "e": 653.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 653.98,
+  "e": 654.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "perspective,",
+  "s": 654.22,
+  "e": 654.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 654.98,
+  "e": 655.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has",
+  "s": 655.42,
+  "e": 655.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 655.74,
+  "e": 655.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "already",
+  "s": 655.98,
+  "e": 656.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "happened?",
+  "s": 656.36,
+  "e": 656.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That",
+  "s": 656.88,
+  "e": 657.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is,",
+  "s": 657.38,
+  "e": 657.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "well,",
+  "s": 658.14,
+  "e": 658.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 659.18,
+  "e": 659.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "one",
+  "s": 659.28,
+  "e": 659.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 659.46,
+  "e": 659.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "his",
+  "s": 659.58,
+  "e": 659.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "emails,",
+  "s": 659.78,
+  "e": 660.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 660.6,
+  "e": 660.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 660.66,
+  "e": 661.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "reference",
+  "s": 661.1,
+  "e": 661.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 661.72,
+  "e": 661.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 661.94,
+  "e": 662.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you,",
+  "s": 662.08,
+  "e": 662.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 662.34,
+  "e": 662.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Chief",
+  "s": 662.58,
+  "e": 662.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Justice,",
+  "s": 662.64,
+  "e": 663.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 663.36,
+  "e": 663.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "says",
+  "s": 663.58,
+  "e": 663.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 663.86,
+  "e": 664.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 664.08,
+  "e": 664.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 664.38,
+  "e": 664.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 664.6,
+  "e": 664.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 664.78,
+  "e": 665.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "happen,",
+  "s": 665.02,
+  "e": 665.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 665.66,
+  "e": 665.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we're",
+  "s": 665.88,
+  "e": 666.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 666.02,
+  "e": 666.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "even",
+  "s": 666.16,
+  "e": 666.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 666.34,
+  "e": 666.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 666.5,
+  "e": 666.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 666.64,
+  "e": 666.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 666.82,
+  "e": 667.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it.",
+  "s": 667.08,
+  "e": 667.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "So",
+  "s": 667.84,
+  "e": 668.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 668.02,
+  "e": 668.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fact",
+  "s": 668.2,
+  "e": 668.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 668.42,
+  "e": 668.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 668.58,
+  "e": 668.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "matter",
+  "s": 668.72,
+  "e": 668.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is,",
+  "s": 668.92,
+  "e": 669.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 669.62,
+  "e": 669.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "may",
+  "s": 669.76,
+  "e": 669.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 669.98,
+  "e": 670.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 670.2,
+  "e": 670.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "happening",
+  "s": 670.48,
+  "e": 670.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 670.92,
+  "e": 671.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "us.",
+  "s": 671.14,
+  "e": 671.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 672.24,
+  "e": 672.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "then",
+  "s": 672.4,
+  "e": 672.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you're",
+  "s": 672.58,
+  "e": 672.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 672.74,
+  "e": 672.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "speculating.",
+  "s": 672.92,
+  "e": 673.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 674.16,
+  "e": 674.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 675.4,
+  "e": 675.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can't",
+  "s": 675.78,
+  "e": 676.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "speculate",
+  "s": 676.56,
+  "e": 677.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 677.08,
+  "e": 677.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 677.36,
+  "e": 677.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 677.58,
+  "e": 677.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "because",
+  "s": 677.92,
+  "e": 678.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he's",
+  "s": 678.38,
+  "e": 679.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "telling",
+  "s": 679.2,
+  "e": 679.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "us",
+  "s": 679.44,
+  "e": 679.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 679.68,
+  "e": 679.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "his",
+  "s": 679.86,
+  "e": 680.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "email",
+  "s": 680.1,
+  "e": 680.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 680.5,
+  "e": 681.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 681.58,
+  "e": 682.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 682.2,
+  "e": 682.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 682.54,
+  "e": 682.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 682.74,
+  "e": 682.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 682.94,
+  "e": 683.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "occur,",
+  "s": 683.16,
+  "e": 683.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 683.94,
+  "e": 684.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we're",
+  "s": 684.16,
+  "e": 684.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 684.36,
+  "e": 684.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "even",
+  "s": 684.54,
+  "e": 684.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "going",
+  "s": 684.76,
+  "e": 685.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 685.0,
+  "e": 685.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 685.2,
+  "e": 685.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 685.46,
+  "e": 685.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 685.64,
+  "e": 685.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "occurring.",
+  "s": 685.84,
+  "e": 686.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Well,",
+  "s": 686.22,
+  "e": 686.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 687.0,
+  "e": 687.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "don't,",
+  "s": 687.06,
+  "e": 687.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 687.78,
+  "e": 687.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 687.88,
+  "e": 688.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 688.34,
+  "e": 688.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "proposition",
+  "s": 688.5,
+  "e": 689.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 689.12,
+  "e": 689.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "some",
+  "s": 689.44,
+  "e": 689.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "navigational",
+  "s": 689.76,
+  "e": 690.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "miscue",
+  "s": 690.56,
+  "e": 691.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "results",
+  "s": 691.12,
+  "e": 691.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 691.52,
+  "e": 691.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 691.84,
+  "e": 692.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "automatically?",
+  "s": 692.1,
+  "e": 692.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "No,",
+  "s": 693.24,
+  "e": 693.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no,",
+  "s": 693.92,
+  "e": 694.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 694.24,
+  "e": 694.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 694.3,
+  "e": 694.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 694.48,
+  "e": 695.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "navigational",
+  "s": 695.3,
+  "e": 696.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "miscue.",
+  "s": 696.0,
+  "e": 696.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 697.12,
+  "e": 697.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "an",
+  "s": 697.34,
+  "e": 697.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "intentional,",
+  "s": 697.64,
+  "e": 698.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purposeful",
+  "s": 699.06,
+  "e": 699.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "attempt",
+  "s": 699.92,
+  "e": 700.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 700.6,
+  "e": 701.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Mr.",
+  "s": 701.44,
+  "e": 701.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Riddle",
+  "s": 701.96,
+  "e": 702.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 702.14,
+  "e": 702.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 702.9,
+  "e": 703.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 703.42,
+  "e": 703.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bank",
+  "s": 703.72,
+  "e": 703.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 703.96,
+  "e": 704.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "having",
+  "s": 704.36,
+  "e": 704.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "his",
+  "s": 704.78,
+  "e": 705.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website,",
+  "s": 705.26,
+  "e": 706.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 706.32,
+  "e": 706.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 706.44,
+  "e": 706.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "website,",
+  "s": 706.6,
+  "e": 707.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "put",
+  "s": 707.2,
+  "e": 707.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "up",
+  "s": 707.9,
+  "e": 708.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 708.2,
+  "e": 708.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "make",
+  "s": 708.52,
+  "e": 708.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "believe",
+  "s": 708.72,
+  "e": 709.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 709.24,
+  "e": 709.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 709.74,
+  "e": 709.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 709.92,
+  "e": 710.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Bank.",
+  "s": 710.22,
+  "e": 711.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 711.38,
+  "e": 712.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "think",
+  "s": 712.04,
+  "e": 712.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 712.3,
+  "e": 712.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "answered",
+  "s": 712.5,
+  "e": 712.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 712.92,
+  "e": 713.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 713.14,
+  "e": 713.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 713.26,
+  "e": 713.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "answer",
+  "s": 713.46,
+  "e": 713.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to,",
+  "s": 713.74,
+  "e": 714.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 714.48,
+  "e": 714.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 714.68,
+  "e": 714.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "evidence",
+  "s": 714.9,
+  "e": 715.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 715.3,
+  "e": 715.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 715.58,
+  "e": 715.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "faith,",
+  "s": 715.82,
+  "e": 716.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 716.64,
+  "e": 716.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "evidently",
+  "s": 716.64,
+  "e": 717.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 717.46,
+  "e": 717.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "believe",
+  "s": 717.76,
+  "e": 718.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "so.",
+  "s": 718.02,
+  "e": 718.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yes,",
+  "s": 718.52,
+  "e": 718.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 719.1,
+  "e": 719.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 719.26,
+  "e": 719.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "may.",
+  "s": 719.68,
+  "e": 720.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 720.92,
+  "e": 721.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 721.38,
+  "e": 721.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 721.64,
+  "e": 721.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "these",
+  "s": 721.86,
+  "e": 722.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "cases",
+  "s": 722.1,
+  "e": 722.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 722.7,
+  "e": 722.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "seem",
+  "s": 722.98,
+  "e": 723.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 723.24,
+  "e": 723.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "say",
+  "s": 723.5,
+  "e": 724.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 724.0,
+  "e": 724.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "websites",
+  "s": 724.72,
+  "e": 725.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 725.2,
+  "e": 725.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "permitted?",
+  "s": 725.76,
+  "e": 726.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Do",
+  "s": 726.7,
+  "e": 726.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 726.7,
+  "e": 727.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "disagree",
+  "s": 727.1,
+  "e": 727.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 727.54,
+  "e": 727.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "those",
+  "s": 727.78,
+  "e": 728.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "cases,",
+  "s": 728.0,
+  "e": 728.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 728.66,
+  "e": 728.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 728.84,
+  "e": 729.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 729.0,
+  "e": 729.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case",
+  "s": 729.24,
+  "e": 729.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "distinguishable?",
+  "s": 729.6,
+  "e": 730.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 730.76,
+  "e": 731.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 731.2,
+  "e": 731.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 731.38,
+  "e": 731.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 731.62,
+  "e": 731.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 731.84,
+  "e": 732.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site.",
+  "s": 732.04,
+  "e": 732.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 732.98,
+  "e": 733.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "understand",
+  "s": 733.14,
+  "e": 733.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 733.72,
+  "e": 734.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 734.52,
+  "e": 735.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sites",
+  "s": 735.14,
+  "e": 735.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 735.4,
+  "e": 735.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "okay.",
+  "s": 735.62,
+  "e": 735.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "If",
+  "s": 735.94,
+  "e": 736.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "somebody",
+  "s": 736.46,
+  "e": 736.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wants",
+  "s": 736.78,
+  "e": 737.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 737.12,
+  "e": 737.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "make",
+  "s": 737.64,
+  "e": 737.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 737.98,
+  "e": 738.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 738.74,
+  "e": 738.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site",
+  "s": 738.98,
+  "e": 739.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 739.24,
+  "e": 739.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 739.72,
+  "e": 740.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 740.24,
+  "e": 740.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "being",
+  "s": 740.42,
+  "e": 740.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "really",
+  "s": 740.72,
+  "e": 741.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "bad",
+  "s": 741.06,
+  "e": 741.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 741.44,
+  "e": 741.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 741.72,
+  "e": 742.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "doing",
+  "s": 742.02,
+  "e": 742.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "everything,",
+  "s": 742.28,
+  "e": 742.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that's",
+  "s": 743.0,
+  "e": 743.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "fine.",
+  "s": 743.3,
+  "e": 743.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That's",
+  "s": 743.94,
+  "e": 744.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "certainly",
+  "s": 744.16,
+  "e": 744.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "protectable.",
+  "s": 744.46,
+  "e": 745.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 745.54,
+  "e": 745.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 745.74,
+  "e": 745.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 745.94,
+  "e": 746.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 746.26,
+  "e": 746.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case",
+  "s": 746.52,
+  "e": 746.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 746.68,
+  "e": 746.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 746.96,
+  "e": 747.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 747.16,
+  "e": 747.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site.",
+  "s": 747.38,
+  "e": 747.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What",
+  "s": 748.22,
+  "e": 748.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "distinguishes",
+  "s": 748.36,
+  "e": 749.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this?",
+  "s": 749.16,
+  "e": 749.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Because",
+  "s": 749.64,
+  "e": 750.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 750.52,
+  "e": 751.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "his,",
+  "s": 751.12,
+  "e": 751.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 752.4,
+  "e": 752.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 752.92,
+  "e": 753.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "may,",
+  "s": 753.12,
+  "e": 753.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 761.86,
+  "e": 762.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "our",
+  "s": 762.9,
+  "e": 764.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "exhibit",
+  "s": 764.1,
+  "e": 764.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "number",
+  "s": 764.52,
+  "e": 764.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "three,",
+  "s": 764.9,
+  "e": 765.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 766.06,
+  "e": 766.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "says",
+  "s": 766.22,
+  "e": 766.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 766.56,
+  "e": 766.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "his",
+  "s": 766.76,
+  "e": 766.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "email,",
+  "s": 766.96,
+  "e": 767.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 767.98,
+  "e": 768.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "next",
+  "s": 768.04,
+  "e": 768.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Wednesday",
+  "s": 768.4,
+  "e": 768.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 768.92,
+  "e": 769.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "can",
+  "s": 769.5,
+  "e": 769.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "absolutely",
+  "s": 769.7,
+  "e": 770.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "annihilate",
+  "s": 770.48,
+  "e": 771.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 771.3,
+  "e": 771.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "client.",
+  "s": 771.48,
+  "e": 771.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Please",
+  "s": 772.52,
+  "e": 772.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "play",
+  "s": 772.68,
+  "e": 772.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 772.94,
+  "e": 773.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "game.",
+  "s": 773.16,
+  "e": 773.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "He",
+  "s": 773.46,
+  "e": 774.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "does",
+  "s": 774.2,
+  "e": 774.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 774.4,
+  "e": 774.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "indicate",
+  "s": 774.74,
+  "e": 775.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 775.3,
+  "e": 775.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 775.56,
+  "e": 775.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has",
+  "s": 775.66,
+  "e": 775.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 775.86,
+  "e": 776.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "problem",
+  "s": 776.14,
+  "e": 776.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 776.54,
+  "e": 777.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 777.06,
+  "e": 777.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West,",
+  "s": 777.3,
+  "e": 777.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 778.04,
+  "e": 778.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 778.12,
+  "e": 778.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "problem",
+  "s": 778.3,
+  "e": 778.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 778.54,
+  "e": 778.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 778.76,
+  "e": 779.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West",
+  "s": 779.02,
+  "e": 779.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 779.24,
+  "e": 779.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "terms",
+  "s": 779.44,
+  "e": 779.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 779.64,
+  "e": 779.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "how",
+  "s": 779.84,
+  "e": 780.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 780.0,
+  "e": 780.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "handled",
+  "s": 780.16,
+  "e": 780.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "his",
+  "s": 780.42,
+  "e": 780.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "loan,",
+  "s": 780.72,
+  "e": 781.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "which",
+  "s": 781.54,
+  "e": 781.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 781.64,
+  "e": 781.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "already",
+  "s": 781.8,
+  "e": 782.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "decided",
+  "s": 782.06,
+  "e": 782.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 782.6,
+  "e": 782.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 782.9,
+  "e": 783.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "federal",
+  "s": 783.1,
+  "e": 784.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "district",
+  "s": 784.44,
+  "e": 784.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court",
+  "s": 784.78,
+  "e": 785.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 785.1,
+  "e": 785.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "then",
+  "s": 785.3,
+  "e": 785.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "held",
+  "s": 785.46,
+  "e": 785.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "up",
+  "s": 785.6,
+  "e": 785.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 785.86,
+  "e": 786.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "appeal",
+  "s": 786.04,
+  "e": 786.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 786.38,
+  "e": 786.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 786.82,
+  "e": 786.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Eighth",
+  "s": 786.96,
+  "e": 787.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Circuit.",
+  "s": 787.16,
+  "e": 787.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "He's",
+  "s": 787.86,
+  "e": 788.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wanting",
+  "s": 788.2,
+  "e": 788.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 788.42,
+  "e": 788.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "damage",
+  "s": 788.82,
+  "e": 789.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 789.34,
+  "e": 789.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West.",
+  "s": 789.94,
+  "e": 790.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 790.74,
+  "e": 790.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "different",
+  "s": 790.9,
+  "e": 791.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 791.16,
+  "e": 791.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "my",
+  "s": 791.4,
+  "e": 791.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "mind",
+  "s": 791.6,
+  "e": 791.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "from",
+  "s": 791.84,
+  "e": 792.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "saying",
+  "s": 792.06,
+  "e": 792.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 792.36,
+  "e": 792.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 792.64,
+  "e": 792.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site.",
+  "s": 792.9,
+  "e": 793.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Hold",
+  "s": 793.1,
+  "e": 793.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 793.22,
+  "e": 793.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 793.44,
+  "e": 793.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "minute.",
+  "s": 793.78,
+  "e": 793.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Is",
+  "s": 793.8,
+  "e": 794.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 794.0,
+  "e": 794.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 794.18,
+  "e": 794.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case",
+  "s": 794.34,
+  "e": 794.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 794.64,
+  "e": 795.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "everyone",
+  "s": 795.3,
+  "e": 795.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 795.66,
+  "e": 795.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wants",
+  "s": 795.86,
+  "e": 796.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 796.04,
+  "e": 796.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "operate",
+  "s": 796.2,
+  "e": 796.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 796.48,
+  "e": 796.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 796.68,
+  "e": 796.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site?",
+  "s": 796.9,
+  "e": 797.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "They're",
+  "s": 798.14,
+  "e": 798.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "displeased",
+  "s": 798.62,
+  "e": 799.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 799.1,
+  "e": 799.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "their",
+  "s": 799.3,
+  "e": 799.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "experience",
+  "s": 799.44,
+  "e": 799.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "with",
+  "s": 799.88,
+  "e": 800.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 800.06,
+  "e": 800.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "company,",
+  "s": 800.22,
+  "e": 800.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 800.94,
+  "e": 801.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "they",
+  "s": 801.18,
+  "e": 801.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "want",
+  "s": 801.28,
+  "e": 801.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "other",
+  "s": 801.42,
+  "e": 801.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "people",
+  "s": 801.6,
+  "e": 801.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 801.78,
+  "e": 801.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "know",
+  "s": 801.94,
+  "e": 802.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 802.12,
+  "e": 802.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it.",
+  "s": 802.32,
+  "e": 802.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What's",
+  "s": 802.44,
+  "e": 803.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "problematic",
+  "s": 803.16,
+  "e": 803.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 803.4,
+  "e": 803.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that?",
+  "s": 803.86,
+  "e": 803.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 804.84,
+  "e": 805.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 805.32,
+  "e": 805.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "problematic",
+  "s": 805.5,
+  "e": 806.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 806.08,
+  "e": 806.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 806.38,
+  "e": 806.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 806.58,
+  "e": 807.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 807.26,
+  "e": 807.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site.",
+  "s": 807.46,
+  "e": 807.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 807.88,
+  "e": 807.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 807.94,
+  "e": 808.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 808.14,
+  "e": 808.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "look",
+  "s": 808.26,
+  "e": 808.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "at",
+  "s": 808.42,
+  "e": 808.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 808.54,
+  "e": 808.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "context",
+  "s": 808.7,
+  "e": 809.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 809.12,
+  "e": 809.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all",
+  "s": 809.36,
+  "e": 809.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 809.54,
+  "e": 809.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "emails,",
+  "s": 809.74,
+  "e": 810.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "first",
+  "s": 810.7,
+  "e": 810.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 810.86,
+  "e": 811.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "all,",
+  "s": 811.06,
+  "e": 811.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 811.8,
+  "e": 811.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "buys",
+  "s": 811.88,
+  "e": 812.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 812.38,
+  "e": 813.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "domain",
+  "s": 813.28,
+  "e": 813.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name.",
+  "s": 813.56,
+  "e": 813.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Then",
+  "s": 814.28,
+  "e": 814.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 814.42,
+  "e": 814.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wants",
+  "s": 814.54,
+  "e": 814.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 814.74,
+  "e": 814.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sell",
+  "s": 814.96,
+  "e": 815.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it,",
+  "s": 815.12,
+  "e": 815.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "which",
+  "s": 815.38,
+  "e": 815.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 815.5,
+  "e": 815.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "exactly",
+  "s": 815.66,
+  "e": 816.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 816.1,
+  "e": 816.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 816.32,
+  "e": 816.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Anti",
+  "s": 816.48,
+  "e": 817.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-Cybersecurity",
+  "s": 817.14,
+  "e": 817.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act",
+  "s": 817.86,
+  "e": 818.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talks",
+  "s": 818.18,
+  "e": 818.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about.",
+  "s": 818.5,
+  "e": 818.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 818.94,
+  "e": 818.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 818.96,
+  "e": 819.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "request",
+  "s": 819.08,
+  "e": 819.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 819.38,
+  "e": 819.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "payment.",
+  "s": 819.7,
+  "e": 820.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Yes.",
+  "s": 820.4,
+  "e": 820.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "It's",
+  "s": 820.94,
+  "e": 821.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "different",
+  "s": 821.36,
+  "e": 821.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "than",
+  "s": 821.7,
+  "e": 822.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 822.32,
+  "e": 822.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 822.52,
+  "e": 822.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 822.7,
+  "e": 822.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site.",
+  "s": 822.92,
+  "e": 823.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "And",
+  "s": 823.2,
+  "e": 823.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "interestingly",
+  "s": 823.94,
+  "e": 824.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "enough...",
+  "s": 824.76,
+  "e": 825.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Suppose",
+  "s": 826.06,
+  "e": 826.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 826.46,
+  "e": 826.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 826.94,
+  "e": 827.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "registered",
+  "s": 827.28,
+  "e": 828.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "iHateCharterWestBank",
+  "s": 828.06,
+  "e": 830.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": ".com.",
+  "s": 830.86,
+  "e": 831.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Would",
+  "s": 833.18,
+  "e": 833.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 833.34,
+  "e": 833.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be,",
+  "s": 833.54,
+  "e": 833.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 835.12,
+  "e": 835.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 835.32,
+  "e": 835.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Anti",
+  "s": 835.78,
+  "e": 836.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "-Cyber",
+  "s": 836.52,
+  "e": 837.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Squading",
+  "s": 837.22,
+  "e": 837.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act",
+  "s": 837.72,
+  "e": 838.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "apply",
+  "s": 838.14,
+  "e": 838.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 838.76,
+  "e": 839.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that?",
+  "s": 839.06,
+  "e": 839.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "If",
+  "s": 839.72,
+  "e": 839.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 839.96,
+  "e": 840.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "just",
+  "s": 840.56,
+  "e": 840.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "had",
+  "s": 840.88,
+  "e": 841.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 841.28,
+  "e": 841.78,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "domain",
+  "s": 841.78,
+  "e": 842.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name,",
+  "s": 842.18,
+  "e": 842.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 843.02,
+  "e": 843.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "answer",
+  "s": 843.2,
+  "e": 843.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "would",
+  "s": 843.44,
+  "e": 843.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "be",
+  "s": 843.66,
+  "e": 843.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "no.",
+  "s": 843.84,
+  "e": 844.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "But",
+  "s": 844.48,
+  "e": 844.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that's",
+  "s": 844.66,
+  "e": 845.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 845.16,
+  "e": 845.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 845.36,
+  "e": 845.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case",
+  "s": 845.56,
+  "e": 845.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 845.74,
+  "e": 845.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 845.92,
+  "e": 846.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case.",
+  "s": 846.08,
+  "e": 846.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Not",
+  "s": 846.98,
+  "e": 847.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "only",
+  "s": 847.14,
+  "e": 847.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "does",
+  "s": 847.3,
+  "e": 847.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 847.48,
+  "e": 847.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 847.56,
+  "e": 847.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 847.74,
+  "e": 847.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "domain",
+  "s": 847.9,
+  "e": 848.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name,",
+  "s": 848.2,
+  "e": 848.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "but",
+  "s": 848.98,
+  "e": 849.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 849.12,
+  "e": 849.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "part",
+  "s": 849.28,
+  "e": 849.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 849.52,
+  "e": 849.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 849.64,
+  "e": 849.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Cyber",
+  "s": 849.84,
+  "e": 850.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Squading",
+  "s": 850.1,
+  "e": 850.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Act,",
+  "s": 850.66,
+  "e": 850.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 850.84,
+  "e": 851.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "has",
+  "s": 851.28,
+  "e": 851.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 851.54,
+  "e": 851.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sell",
+  "s": 851.76,
+  "e": 852.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 852.02,
+  "e": 852.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "or",
+  "s": 852.16,
+  "e": 852.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you'll",
+  "s": 852.26,
+  "e": 852.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 852.48,
+  "e": 852.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 852.56,
+  "e": 852.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "want",
+  "s": 852.76,
+  "e": 853.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 853.1,
+  "e": 853.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "do",
+  "s": 853.24,
+  "e": 853.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 853.36,
+  "e": 853.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 853.48,
+  "e": 853.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "commercial",
+  "s": 853.62,
+  "e": 853.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purposes.",
+  "s": 853.98,
+  "e": 854.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "The",
+  "s": 854.98,
+  "e": 855.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "emails",
+  "s": 855.2,
+  "e": 855.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "say",
+  "s": 855.56,
+  "e": 856.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 856.12,
+  "e": 856.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wants",
+  "s": 856.68,
+  "e": 856.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 856.92,
+  "e": 857.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "sell",
+  "s": 857.12,
+  "e": 857.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it",
+  "s": 857.3,
+  "e": 857.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 857.44,
+  "e": 857.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "us,",
+  "s": 857.54,
+  "e": 857.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 857.74,
+  "e": 857.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "wants",
+  "s": 857.82,
+  "e": 858.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 858.0,
+  "e": 858.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "million",
+  "s": 858.2,
+  "e": 858.44,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "dollars",
+  "s": 858.44,
+  "e": 858.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "from",
+  "s": 858.84,
+  "e": 859.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "us",
+  "s": 859.12,
+  "e": 859.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 859.42,
+  "e": 859.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "buy",
+  "s": 859.86,
+  "e": 860.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 860.12,
+  "e": 860.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "domain",
+  "s": 860.42,
+  "e": 860.76,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "name.",
+  "s": 860.76,
+  "e": 861.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "That",
+  "s": 861.46,
+  "e": 861.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 861.6,
+  "e": 861.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "different",
+  "s": 861.8,
+  "e": 862.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "than",
+  "s": 862.36,
+  "e": 862.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "what",
+  "s": 862.94,
+  "e": 863.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Judge",
+  "s": 863.84,
+  "e": 864.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 864.62,
+  "e": 865.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talking",
+  "s": 865.26,
+  "e": 865.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 865.62,
+  "e": 865.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "as",
+  "s": 865.9,
+  "e": 866.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 866.02,
+  "e": 866.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "gripe",
+  "s": 866.22,
+  "e": 866.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "site.",
+  "s": 866.42,
+  "e": 866.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "One",
+  "s": 867.32,
+  "e": 867.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 867.32,
+  "e": 867.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 867.9,
+  "e": 868.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "assignments",
+  "s": 868.32,
+  "e": 869.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "there",
+  "s": 869.12,
+  "e": 869.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 869.66,
+  "e": 871.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "opponent",
+  "s": 871.1,
+  "e": 871.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "did",
+  "s": 871.56,
+  "e": 871.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 871.9,
+  "e": 872.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "particularly",
+  "s": 872.36,
+  "e": 873.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talk",
+  "s": 873.28,
+  "e": 873.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 873.68,
+  "e": 874.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 874.02,
+  "e": 874.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "morning",
+  "s": 874.28,
+  "e": 874.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "at",
+  "s": 874.66,
+  "e": 875.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "any",
+  "s": 875.04,
+  "e": 875.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "length",
+  "s": 875.3,
+  "e": 875.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 875.96,
+  "e": 876.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 876.66,
+  "e": 876.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "argument",
+  "s": 876.98,
+  "e": 877.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "regarding",
+  "s": 877.68,
+  "e": 878.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "rule",
+  "s": 878.5,
+  "e": 878.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "408",
+  "s": 878.92,
+  "e": 879.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 880.1,
+  "e": 881.62,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "his",
+  "s": 881.62,
+  "e": 882.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "objection",
+  "s": 882.0,
+  "e": 883.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 883.6,
+  "e": 883.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 883.94,
+  "e": 884.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "evidence",
+  "s": 884.16,
+  "e": 884.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 884.52,
+  "e": 884.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 884.94,
+  "e": 885.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "ground.",
+  "s": 885.38,
+  "e": 886.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Sure.",
+  "s": 886.68,
+  "e": 886.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "What's",
+  "s": 887.12,
+  "e": 887.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "your",
+  "s": 887.5,
+  "e": 887.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "take",
+  "s": 887.86,
+  "e": 888.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "on",
+  "s": 888.66,
+  "e": 889.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that?",
+  "s": 889.12,
+  "e": 889.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "My",
+  "s": 889.52,
+  "e": 889.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "take",
+  "s": 889.7,
+  "e": 890.0,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 890.0,
+  "e": 890.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "27408",
+  "s": 890.38,
+  "e": 892.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 892.3,
+  "e": 892.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "this",
+  "s": 892.86,
+  "e": 893.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "court",
+  "s": 893.02,
+  "e": 893.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "set",
+  "s": 893.26,
+  "e": 893.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 893.48,
+  "e": 893.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 893.66,
+  "e": 893.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "McGill",
+  "s": 893.82,
+  "e": 894.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Restoration",
+  "s": 894.1,
+  "e": 894.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case",
+  "s": 894.82,
+  "e": 895.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 895.22,
+  "e": 896.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "settlement",
+  "s": 896.14,
+  "e": 896.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "discussions",
+  "s": 896.72,
+  "e": 897.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 897.74,
+  "e": 898.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "immunized",
+  "s": 898.16,
+  "e": 898.92,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "from",
+  "s": 898.92,
+  "e": 899.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "being",
+  "s": 899.18,
+  "e": 899.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "admitted",
+  "s": 899.4,
+  "e": 899.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "into",
+  "s": 899.8,
+  "e": 900.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "evidence.",
+  "s": 900.1,
+  "e": 900.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 901.06,
+  "e": 901.22,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 901.22,
+  "e": 901.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 901.48,
+  "e": 901.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 901.86,
+  "e": 902.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "settlement",
+  "s": 902.18,
+  "e": 902.46,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "discussion.",
+  "s": 902.46,
+  "e": 903.04,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 903.04,
+  "e": 903.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 903.6,
+  "e": 903.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 903.8,
+  "e": 904.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "threat",
+  "s": 904.02,
+  "e": 904.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "made",
+  "s": 904.42,
+  "e": 905.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "by",
+  "s": 905.14,
+  "e": 905.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "him",
+  "s": 905.4,
+  "e": 906.28,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 906.28,
+  "e": 906.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "various",
+  "s": 906.98,
+  "e": 907.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "emails",
+  "s": 907.4,
+  "e": 907.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "that",
+  "s": 907.82,
+  "e": 908.1,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we",
+  "s": 908.1,
+  "e": 908.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "have",
+  "s": 908.26,
+  "e": 908.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 908.42,
+  "e": 908.54,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 908.54,
+  "e": 908.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "record",
+  "s": 908.66,
+  "e": 908.96,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "to",
+  "s": 908.96,
+  "e": 909.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "destroy",
+  "s": 909.58,
+  "e": 910.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Charter",
+  "s": 910.32,
+  "e": 910.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "West.",
+  "s": 910.88,
+  "e": 911.18,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 911.64,
+  "e": 911.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "is",
+  "s": 911.82,
+  "e": 911.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 911.98,
+  "e": 912.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 912.14,
+  "e": 912.34,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case",
+  "s": 912.34,
+  "e": 912.52,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "where",
+  "s": 912.52,
+  "e": 912.7,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "he",
+  "s": 912.7,
+  "e": 912.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "said",
+  "s": 912.86,
+  "e": 913.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I",
+  "s": 913.16,
+  "e": 913.66,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "want",
+  "s": 913.66,
+  "e": 914.02,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "X",
+  "s": 914.02,
+  "e": 914.48,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "in",
+  "s": 914.48,
+  "e": 914.94,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "exchange",
+  "s": 914.94,
+  "e": 915.3,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 915.3,
+  "e": 915.56,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "X,",
+  "s": 915.56,
+  "e": 915.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "I'll",
+  "s": 915.98,
+  "e": 916.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "give",
+  "s": 916.16,
+  "e": 916.26,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 916.26,
+  "e": 916.42,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "Y",
+  "s": 916.42,
+  "e": 916.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 916.72,
+  "e": 916.98,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "we'll",
+  "s": 916.98,
+  "e": 917.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "settle",
+  "s": 917.2,
+  "e": 917.4,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 917.4,
+  "e": 917.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "case.",
+  "s": 917.6,
+  "e": 917.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "These",
+  "s": 918.32,
+  "e": 918.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "are",
+  "s": 918.5,
+  "e": 918.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "threats",
+  "s": 918.68,
+  "e": 919.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "and",
+  "s": 919.24,
+  "e": 919.9,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "if",
+  "s": 919.9,
+  "e": 920.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "you",
+  "s": 920.36,
+  "e": 920.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "look",
+  "s": 920.5,
+  "e": 920.68,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "at",
+  "s": 920.68,
+  "e": 920.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "27408,",
+  "s": 920.88,
+  "e": 921.8,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "it's",
+  "s": 922.6,
+  "e": 922.88,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "a",
+  "s": 922.88,
+  "e": 923.12,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "lot",
+  "s": 923.12,
+  "e": 923.32,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "different",
+  "s": 923.32,
+  "e": 923.74,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "than",
+  "s": 923.74,
+  "e": 924.2,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "27408",
+  "s": 924.2,
+  "e": 925.24,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "talks",
+  "s": 925.24,
+  "e": 925.58,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "about",
+  "s": 925.58,
+  "e": 925.84,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "offered",
+  "s": 925.84,
+  "e": 926.16,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 926.16,
+  "e": 926.36,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "another",
+  "s": 926.36,
+  "e": 926.64,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purpose.",
+  "s": 926.64,
+  "e": 927.06,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "This",
+  "s": 927.06,
+  "e": 927.6,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "was",
+  "s": 927.6,
+  "e": 927.82,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "not",
+  "s": 927.82,
+  "e": 928.08,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "offered",
+  "s": 928.08,
+  "e": 928.5,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "for",
+  "s": 928.5,
+  "e": 928.72,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "the",
+  "s": 928.72,
+  "e": 928.86,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "purpose",
+  "s": 928.86,
+  "e": 929.14,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "of",
+  "s": 929.14,
+  "e": 929.38,
+  "speaker": "SPEAKER 1"
+ },
+ {
+  "w": "demonstrating.",
+  "s": 929.38,
+  "e": 929.88,
+  "speaker": "SPEAKER 1"
+ }
+]
