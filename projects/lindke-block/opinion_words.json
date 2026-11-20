@@ -1,0 +1,5276 @@
+[
+ {
+  "w": "Justice",
+  "s": 0.0,
+  "e": 0.82,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Barrett",
+  "s": 0.82,
+  "e": 1.16,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "has",
+  "s": 1.16,
+  "e": 1.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1.42,
+  "e": 1.6,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "opinion",
+  "s": 1.6,
+  "e": 1.9,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 1.9,
+  "e": 2.1,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 2.1,
+  "e": 2.26,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "court",
+  "s": 2.26,
+  "e": 2.42,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 2.42,
+  "e": 2.62,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "two",
+  "s": 2.62,
+  "e": 2.76,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cases",
+  "s": 2.76,
+  "e": 3.12,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "this",
+  "s": 3.12,
+  "e": 3.38,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "morning.",
+  "s": 3.38,
+  "e": 3.72,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "The",
+  "s": 6.8,
+  "e": 7.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "first",
+  "s": 7.08,
+  "e": 7.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "case",
+  "s": 7.28,
+  "e": 7.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "I",
+  "s": 7.66,
+  "e": 7.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "have",
+  "s": 7.96,
+  "e": 8.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 8.3,
+  "e": 8.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Linke",
+  "s": 8.6,
+  "e": 8.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "versus",
+  "s": 8.9,
+  "e": 9.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed.",
+  "s": 9.46,
+  "e": 9.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Like",
+  "s": 11.36,
+  "e": 11.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "millions",
+  "s": 11.52,
+  "e": 11.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 11.88,
+  "e": 12.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Americans,",
+  "s": 12.12,
+  "e": 12.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "James",
+  "s": 13.28,
+  "e": 13.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 13.56,
+  "e": 14.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "maintained",
+  "s": 14.0,
+  "e": 14.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 14.62,
+  "e": 14.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Facebook",
+  "s": 14.84,
+  "e": 15.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "account",
+  "s": 15.12,
+  "e": 15.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 15.62,
+  "e": 15.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "which",
+  "s": 15.94,
+  "e": 16.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "he",
+  "s": 16.08,
+  "e": 16.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posted",
+  "s": 16.28,
+  "e": 16.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "about",
+  "s": 16.62,
+  "e": 16.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 16.88,
+  "e": 17.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "wide",
+  "s": 17.04,
+  "e": 17.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "range",
+  "s": 17.32,
+  "e": 17.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 17.62,
+  "e": 17.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "topics,",
+  "s": 17.84,
+  "e": 18.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "including",
+  "s": 18.76,
+  "e": 19.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 19.18,
+  "e": 19.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "dog,",
+  "s": 19.42,
+  "e": 19.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 20.2,
+  "e": 20.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "daughter,",
+  "s": 20.36,
+  "e": 20.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "and",
+  "s": 20.8,
+  "e": 21.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 21.2,
+  "e": 21.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "job.",
+  "s": 21.38,
+  "e": 21.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Like",
+  "s": 22.86,
+  "e": 23.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "many",
+  "s": 23.04,
+  "e": 23.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "people",
+  "s": 23.38,
+  "e": 23.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "with",
+  "s": 23.72,
+  "e": 23.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 23.94,
+  "e": 24.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Facebook",
+  "s": 24.12,
+  "e": 24.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "account,",
+  "s": 24.42,
+  "e": 25.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 25.4,
+  "e": 25.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "occasionally",
+  "s": 25.52,
+  "e": 26.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "received",
+  "s": 26.12,
+  "e": 26.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "unwelcome",
+  "s": 26.7,
+  "e": 27.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "comments",
+  "s": 27.4,
+  "e": 28.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 28.04,
+  "e": 28.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 28.34,
+  "e": 28.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts.",
+  "s": 28.58,
+  "e": 29.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "In",
+  "s": 30.02,
+  "e": 30.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "response,",
+  "s": 30.16,
+  "e": 30.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 31.26,
+  "e": 31.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "took",
+  "s": 31.4,
+  "e": 31.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 31.68,
+  "e": 31.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "step",
+  "s": 31.86,
+  "e": 32.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "familiar",
+  "s": 32.18,
+  "e": 32.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 32.76,
+  "e": 33.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Facebook",
+  "s": 33.0,
+  "e": 33.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "users.",
+  "s": 33.32,
+  "e": 33.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "He",
+  "s": 34.22,
+  "e": 34.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "deleted",
+  "s": 34.32,
+  "e": 34.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 34.68,
+  "e": 34.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "comments",
+  "s": 34.94,
+  "e": 35.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "and",
+  "s": 35.3,
+  "e": 35.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "he",
+  "s": 35.66,
+  "e": 35.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "blocked",
+  "s": 35.8,
+  "e": 36.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "those",
+  "s": 36.16,
+  "e": 36.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "who",
+  "s": 36.48,
+  "e": 36.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "made",
+  "s": 36.7,
+  "e": 36.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "them.",
+  "s": 36.88,
+  "e": 37.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "For",
+  "s": 38.32,
+  "e": 38.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "most",
+  "s": 38.88,
+  "e": 39.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "people,",
+  "s": 39.18,
+  "e": 39.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 39.52,
+  "e": 39.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "would",
+  "s": 39.72,
+  "e": 39.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "have",
+  "s": 39.84,
+  "e": 39.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "been",
+  "s": 39.96,
+  "e": 40.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 40.14,
+  "e": 40.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "end",
+  "s": 40.28,
+  "e": 40.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 40.44,
+  "e": 40.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it,",
+  "s": 40.58,
+  "e": 40.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "but",
+  "s": 40.94,
+  "e": 41.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Kevin",
+  "s": 41.56,
+  "e": 41.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Linke,",
+  "s": 41.94,
+  "e": 42.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "one",
+  "s": 42.54,
+  "e": 42.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 42.68,
+  "e": 42.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 42.8,
+  "e": 42.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "unwelcome",
+  "s": 42.98,
+  "e": 43.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "commenters,",
+  "s": 43.42,
+  "e": 44.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "sued",
+  "s": 44.56,
+  "e": 44.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 44.9,
+  "e": 45.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "for",
+  "s": 45.32,
+  "e": 45.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "violating",
+  "s": 45.66,
+  "e": 46.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 46.22,
+  "e": 46.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "right",
+  "s": 46.5,
+  "e": 46.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 46.78,
+  "e": 47.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "free",
+  "s": 47.08,
+  "e": 47.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speech.",
+  "s": 47.3,
+  "e": 47.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "As",
+  "s": 48.72,
+  "e": 48.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Linke",
+  "s": 48.96,
+  "e": 49.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "saw",
+  "s": 49.34,
+  "e": 49.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it,",
+  "s": 49.72,
+  "e": 50.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed's",
+  "s": 50.62,
+  "e": 51.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Facebook",
+  "s": 51.02,
+  "e": 51.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "page",
+  "s": 51.42,
+  "e": 51.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "was",
+  "s": 51.92,
+  "e": 52.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 52.14,
+  "e": 52.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "constitutionally",
+  "s": 52.4,
+  "e": 53.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "protected",
+  "s": 53.04,
+  "e": 53.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "public",
+  "s": 53.86,
+  "e": 54.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "forum",
+  "s": 54.38,
+  "e": 54.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "from",
+  "s": 55.22,
+  "e": 55.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "which",
+  "s": 55.58,
+  "e": 55.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Linke",
+  "s": 55.84,
+  "e": 56.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "could",
+  "s": 56.28,
+  "e": 56.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "not",
+  "s": 56.66,
+  "e": 56.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "be",
+  "s": 56.84,
+  "e": 57.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "excluded",
+  "s": 57.06,
+  "e": 57.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "based",
+  "s": 57.66,
+  "e": 58.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 58.36,
+  "e": 58.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 58.74,
+  "e": 58.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "unwelcome",
+  "s": 58.94,
+  "e": 59.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "views.",
+  "s": 59.44,
+  "e": 60.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Because",
+  "s": 61.06,
+  "e": 61.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 61.4,
+  "e": 61.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "First",
+  "s": 61.64,
+  "e": 61.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Amendment",
+  "s": 61.86,
+  "e": 62.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "binds",
+  "s": 62.32,
+  "e": 62.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "only",
+  "s": 62.72,
+  "e": 63.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 63.14,
+  "e": 63.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "government,",
+  "s": 63.38,
+  "e": 63.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "this",
+  "s": 64.28,
+  "e": 64.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "claim",
+  "s": 64.5,
+  "e": 64.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 64.88,
+  "e": 65.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 65.06,
+  "e": 65.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "non",
+  "s": 65.28,
+  "e": 65.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "-starter",
+  "s": 65.54,
+  "e": 65.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "if",
+  "s": 65.96,
+  "e": 66.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 66.46,
+  "e": 66.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posted",
+  "s": 66.64,
+  "e": 67.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 67.26,
+  "e": 67.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Facebook",
+  "s": 67.62,
+  "e": 68.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "as",
+  "s": 68.1,
+  "e": 68.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 68.44,
+  "e": 68.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "private",
+  "s": 68.68,
+  "e": 68.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "citizen.",
+  "s": 68.98,
+  "e": 69.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "But",
+  "s": 70.36,
+  "e": 70.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "here's",
+  "s": 70.52,
+  "e": 70.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 70.88,
+  "e": 71.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "wrinkle,",
+  "s": 71.06,
+  "e": 71.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 71.94,
+  "e": 72.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 72.22,
+  "e": 72.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "not",
+  "s": 72.42,
+  "e": 72.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "only",
+  "s": 72.66,
+  "e": 72.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 72.96,
+  "e": 73.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "private",
+  "s": 73.18,
+  "e": 73.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "citizen,",
+  "s": 73.5,
+  "e": 74.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "but",
+  "s": 74.0,
+  "e": 74.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "also",
+  "s": 74.36,
+  "e": 74.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 74.76,
+  "e": 75.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "city",
+  "s": 75.04,
+  "e": 75.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "manager",
+  "s": 75.28,
+  "e": 75.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 75.74,
+  "e": 76.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Port",
+  "s": 76.16,
+  "e": 76.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Huron,",
+  "s": 76.52,
+  "e": 77.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Michigan.",
+  "s": 77.08,
+  "e": 77.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "And",
+  "s": 78.42,
+  "e": 78.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "while",
+  "s": 78.88,
+  "e": 79.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 79.14,
+  "e": 79.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "insists",
+  "s": 79.66,
+  "e": 80.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 80.3,
+  "e": 80.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 80.88,
+  "e": 81.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "account",
+  "s": 81.04,
+  "e": 81.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 81.42,
+  "e": 81.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "strictly",
+  "s": 81.78,
+  "e": 82.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "personal,",
+  "s": 82.16,
+  "e": 82.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Linke",
+  "s": 83.6,
+  "e": 83.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "argues",
+  "s": 83.76,
+  "e": 84.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 84.4,
+  "e": 84.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 84.84,
+  "e": 85.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "acted",
+  "s": 85.26,
+  "e": 85.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 85.8,
+  "e": 86.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 86.06,
+  "e": 86.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 86.24,
+  "e": 86.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "capacity",
+  "s": 86.88,
+  "e": 87.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "when",
+  "s": 87.52,
+  "e": 87.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "he",
+  "s": 87.76,
+  "e": 87.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "silenced",
+  "s": 87.96,
+  "e": 88.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Linke's",
+  "s": 88.58,
+  "e": 89.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speech.",
+  "s": 89.38,
+  "e": 89.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "If",
+  "s": 90.72,
+  "e": 90.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 90.9,
+  "e": 91.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "acted",
+  "s": 91.28,
+  "e": 91.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 91.82,
+  "e": 92.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 92.02,
+  "e": 92.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 92.16,
+  "e": 92.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "capacity,",
+  "s": 92.56,
+  "e": 93.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 93.52,
+  "e": 93.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "First",
+  "s": 93.74,
+  "e": 93.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Amendment",
+  "s": 93.96,
+  "e": 94.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "applies.",
+  "s": 94.3,
+  "e": 94.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "When",
+  "s": 96.12,
+  "e": 96.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 96.34,
+  "e": 96.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "government",
+  "s": 96.54,
+  "e": 96.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 96.88,
+  "e": 97.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts",
+  "s": 97.42,
+  "e": 97.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "about",
+  "s": 97.94,
+  "e": 98.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "job",
+  "s": 98.28,
+  "e": 98.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "-related",
+  "s": 98.64,
+  "e": 98.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "topics",
+  "s": 98.94,
+  "e": 99.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 99.46,
+  "e": 99.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "social",
+  "s": 99.84,
+  "e": 100.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "media,",
+  "s": 100.2,
+  "e": 100.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it",
+  "s": 100.6,
+  "e": 101.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "can",
+  "s": 101.22,
+  "e": 101.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "be",
+  "s": 101.42,
+  "e": 101.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "difficult",
+  "s": 101.6,
+  "e": 101.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 101.96,
+  "e": 102.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "tell",
+  "s": 102.24,
+  "e": 102.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "whether",
+  "s": 102.56,
+  "e": 102.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 102.82,
+  "e": 103.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speech",
+  "s": 103.04,
+  "e": 103.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 103.26,
+  "e": 103.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 103.48,
+  "e": 103.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "or",
+  "s": 103.98,
+  "e": 104.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "private.",
+  "s": 104.58,
+  "e": 105.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "That",
+  "s": 105.78,
+  "e": 106.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 106.08,
+  "e": 106.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "true",
+  "s": 106.3,
+  "e": 106.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 106.62,
+  "e": 106.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed's",
+  "s": 106.98,
+  "e": 107.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "case",
+  "s": 107.4,
+  "e": 107.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "because",
+  "s": 107.66,
+  "e": 108.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "he",
+  "s": 108.02,
+  "e": 108.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posted",
+  "s": 108.2,
+  "e": 108.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "about",
+  "s": 108.62,
+  "e": 108.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 108.9,
+  "e": 109.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "work",
+  "s": 109.14,
+  "e": 109.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "and",
+  "s": 109.58,
+  "e": 110.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Linke's",
+  "s": 110.4,
+  "e": 110.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "comments",
+  "s": 110.9,
+  "e": 111.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "were",
+  "s": 111.26,
+  "e": 111.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "critical",
+  "s": 111.52,
+  "e": 111.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 111.9,
+  "e": 112.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed's",
+  "s": 112.16,
+  "e": 112.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "work,",
+  "s": 112.54,
+  "e": 112.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "particularly",
+  "s": 113.02,
+  "e": 113.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "as",
+  "s": 113.72,
+  "e": 114.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it",
+  "s": 114.12,
+  "e": 114.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "related",
+  "s": 114.24,
+  "e": 114.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 114.6,
+  "e": 114.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 114.82,
+  "e": 115.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "pandemic.",
+  "s": 115.0,
+  "e": 115.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "The",
+  "s": 116.48,
+  "e": 116.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Courts",
+  "s": 116.74,
+  "e": 116.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 116.92,
+  "e": 117.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Appeals",
+  "s": 117.14,
+  "e": 117.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "have",
+  "s": 117.44,
+  "e": 117.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "disagreed",
+  "s": 117.78,
+  "e": 118.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "about",
+  "s": 118.38,
+  "e": 118.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "how",
+  "s": 118.88,
+  "e": 119.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 119.12,
+  "e": 119.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "analyze",
+  "s": 119.3,
+  "e": 119.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "this",
+  "s": 119.7,
+  "e": 120.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "kind",
+  "s": 120.0,
+  "e": 120.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 120.24,
+  "e": 120.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "social",
+  "s": 120.44,
+  "e": 120.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "media",
+  "s": 120.72,
+  "e": 121.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "activity.",
+  "s": 121.02,
+  "e": 121.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "The",
+  "s": 122.4,
+  "e": 122.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Second",
+  "s": 122.66,
+  "e": 122.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "and",
+  "s": 122.88,
+  "e": 123.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Ninth",
+  "s": 123.16,
+  "e": 123.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Circuits",
+  "s": 123.36,
+  "e": 123.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "focus",
+  "s": 123.78,
+  "e": 124.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 124.14,
+  "e": 124.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 124.42,
+  "e": 124.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "appearance",
+  "s": 124.56,
+  "e": 124.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 124.9,
+  "e": 125.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 125.12,
+  "e": 125.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts,",
+  "s": 125.36,
+  "e": 125.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "treating",
+  "s": 126.0,
+  "e": 126.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speech",
+  "s": 126.36,
+  "e": 126.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "as",
+  "s": 126.74,
+  "e": 127.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 127.02,
+  "e": 127.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "if",
+  "s": 127.5,
+  "e": 127.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it",
+  "s": 127.86,
+  "e": 128.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "comes",
+  "s": 128.0,
+  "e": 128.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "across",
+  "s": 128.16,
+  "e": 128.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 128.54,
+  "e": 128.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "way.",
+  "s": 128.76,
+  "e": 129.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "The",
+  "s": 130.02,
+  "e": 130.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Sixth",
+  "s": 130.36,
+  "e": 130.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Circuit,",
+  "s": 130.64,
+  "e": 130.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "by",
+  "s": 131.12,
+  "e": 131.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "contrast,",
+  "s": 131.28,
+  "e": 131.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "focuses",
+  "s": 132.36,
+  "e": 132.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 132.64,
+  "e": 132.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "whether",
+  "s": 132.96,
+  "e": 133.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 133.16,
+  "e": 133.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 133.4,
+  "e": 133.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "had",
+  "s": 133.72,
+  "e": 134.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "legal",
+  "s": 134.02,
+  "e": 134.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 134.42,
+  "e": 135.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 135.06,
+  "e": 135.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speak",
+  "s": 135.4,
+  "e": 135.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 135.7,
+  "e": 135.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "behalf",
+  "s": 135.92,
+  "e": 136.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 136.22,
+  "e": 136.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 136.46,
+  "e": 136.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state.",
+  "s": 136.64,
+  "e": 136.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Our",
+  "s": 138.04,
+  "e": 138.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "approach",
+  "s": 138.24,
+  "e": 138.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 138.72,
+  "e": 139.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "closer",
+  "s": 139.12,
+  "e": 139.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 139.48,
+  "e": 139.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 139.7,
+  "e": 139.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Sixth",
+  "s": 139.88,
+  "e": 140.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Circuit's.",
+  "s": 140.1,
+  "e": 140.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "We",
+  "s": 140.88,
+  "e": 140.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "hold",
+  "s": 140.98,
+  "e": 141.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 141.3,
+  "e": 141.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "such",
+  "s": 141.56,
+  "e": 141.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speech",
+  "s": 141.82,
+  "e": 142.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 142.36,
+  "e": 143.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "attributable",
+  "s": 143.06,
+  "e": 143.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 143.54,
+  "e": 143.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 143.9,
+  "e": 144.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 144.08,
+  "e": 144.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "only",
+  "s": 144.46,
+  "e": 145.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "if",
+  "s": 145.4,
+  "e": 145.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 145.7,
+  "e": 145.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 145.86,
+  "e": 146.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "first",
+  "s": 146.3,
+  "e": 147.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "possessed",
+  "s": 147.22,
+  "e": 147.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "actual",
+  "s": 147.9,
+  "e": 148.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 148.6,
+  "e": 149.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 149.06,
+  "e": 149.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speak",
+  "s": 149.38,
+  "e": 149.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 149.78,
+  "e": 150.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 150.16,
+  "e": 150.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state's",
+  "s": 150.36,
+  "e": 150.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "behalf",
+  "s": 150.78,
+  "e": 151.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "and",
+  "s": 151.22,
+  "e": 152.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "second,",
+  "s": 152.28,
+  "e": 152.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "purported",
+  "s": 153.2,
+  "e": 153.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 153.78,
+  "e": 154.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "exercise",
+  "s": 154.06,
+  "e": 154.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 154.62,
+  "e": 154.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 154.96,
+  "e": 155.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "when",
+  "s": 155.42,
+  "e": 155.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "he",
+  "s": 155.74,
+  "e": 155.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "spoke",
+  "s": 155.94,
+  "e": 156.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 156.22,
+  "e": 156.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "social",
+  "s": 156.5,
+  "e": 156.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "media.",
+  "s": 156.76,
+  "e": 157.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "The",
+  "s": 157.94,
+  "e": 158.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "first",
+  "s": 158.68,
+  "e": 158.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "prong",
+  "s": 158.94,
+  "e": 159.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 159.28,
+  "e": 159.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "this",
+  "s": 159.46,
+  "e": 159.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "test",
+  "s": 159.64,
+  "e": 160.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 160.02,
+  "e": 160.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "grounded",
+  "s": 160.26,
+  "e": 160.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 160.64,
+  "e": 160.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 160.9,
+  "e": 161.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "bedrock",
+  "s": 161.14,
+  "e": 161.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "requirement",
+  "s": 161.44,
+  "e": 162.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 162.26,
+  "e": 162.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 162.6,
+  "e": 162.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "conduct",
+  "s": 162.8,
+  "e": 163.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "allegedly",
+  "s": 163.3,
+  "e": 163.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "causing",
+  "s": 163.98,
+  "e": 164.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 164.52,
+  "e": 164.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "deprivation",
+  "s": 164.76,
+  "e": 165.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 165.4,
+  "e": 165.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 165.76,
+  "e": 166.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "federal",
+  "s": 166.04,
+  "e": 166.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "right",
+  "s": 166.28,
+  "e": 166.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "be",
+  "s": 166.76,
+  "e": 167.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "fairly",
+  "s": 167.42,
+  "e": 168.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "attributable",
+  "s": 168.02,
+  "e": 168.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 168.74,
+  "e": 169.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 169.42,
+  "e": 169.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state.",
+  "s": 169.66,
+  "e": 170.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Our",
+  "s": 171.28,
+  "e": 171.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "precedent",
+  "s": 171.56,
+  "e": 172.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "makes",
+  "s": 172.14,
+  "e": 172.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "clear",
+  "s": 172.6,
+  "e": 173.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 173.04,
+  "e": 173.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "an",
+  "s": 173.3,
+  "e": 173.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "act",
+  "s": 173.52,
+  "e": 173.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 173.78,
+  "e": 174.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "not",
+  "s": 174.04,
+  "e": 174.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "attributable",
+  "s": 174.46,
+  "e": 175.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 175.08,
+  "e": 175.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 175.4,
+  "e": 175.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 175.56,
+  "e": 175.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "unless",
+  "s": 175.92,
+  "e": 176.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it",
+  "s": 176.46,
+  "e": 176.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 176.64,
+  "e": 176.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "traceable",
+  "s": 176.8,
+  "e": 177.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 177.48,
+  "e": 177.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 177.68,
+  "e": 177.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state's",
+  "s": 177.86,
+  "e": 178.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "power",
+  "s": 178.36,
+  "e": 178.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "or",
+  "s": 178.72,
+  "e": 179.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority.",
+  "s": 179.34,
+  "e": 179.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Focusing",
+  "s": 181.04,
+  "e": 181.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 181.34,
+  "e": 181.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 181.78,
+  "e": 181.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "appearance",
+  "s": 181.96,
+  "e": 182.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 182.52,
+  "e": 182.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 182.94,
+  "e": 183.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts",
+  "s": 183.14,
+  "e": 183.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "skips",
+  "s": 183.52,
+  "e": 184.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "this",
+  "s": 184.16,
+  "e": 184.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "crucial",
+  "s": 184.52,
+  "e": 184.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "step.",
+  "s": 184.94,
+  "e": 185.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Regardless",
+  "s": 186.24,
+  "e": 186.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 186.64,
+  "e": 187.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "how",
+  "s": 187.16,
+  "e": 187.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 187.54,
+  "e": 188.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed's",
+  "s": 188.24,
+  "e": 188.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Facebook",
+  "s": 188.82,
+  "e": 189.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "page",
+  "s": 189.1,
+  "e": 189.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "looks,",
+  "s": 189.46,
+  "e": 189.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 190.52,
+  "e": 190.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "presence",
+  "s": 190.7,
+  "e": 190.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 190.98,
+  "e": 191.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 191.28,
+  "e": 191.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 191.56,
+  "e": 192.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "must",
+  "s": 192.0,
+  "e": 192.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "be",
+  "s": 192.34,
+  "e": 192.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "real,",
+  "s": 192.62,
+  "e": 193.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "not",
+  "s": 193.42,
+  "e": 193.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 193.56,
+  "e": 193.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "mirage.",
+  "s": 193.74,
+  "e": 194.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "The",
+  "s": 195.22,
+  "e": 195.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 195.32,
+  "e": 195.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 195.66,
+  "e": 195.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speak",
+  "s": 195.88,
+  "e": 196.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "for",
+  "s": 196.12,
+  "e": 196.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 196.34,
+  "e": 196.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 196.48,
+  "e": 196.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "can",
+  "s": 196.74,
+  "e": 196.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "come",
+  "s": 196.98,
+  "e": 197.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "from",
+  "s": 197.24,
+  "e": 197.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "any",
+  "s": 197.46,
+  "e": 197.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 197.76,
+  "e": 197.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 197.9,
+  "e": 198.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "sources",
+  "s": 198.06,
+  "e": 198.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "listed",
+  "s": 198.42,
+  "e": 198.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 198.84,
+  "e": 199.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Section",
+  "s": 199.12,
+  "e": 199.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "1983,",
+  "s": 199.38,
+  "e": 200.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "statute",
+  "s": 201.06,
+  "e": 201.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "ordinance",
+  "s": 201.5,
+  "e": 203.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "regulation,",
+  "s": 203.22,
+  "e": 204.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "custom,",
+  "s": 204.34,
+  "e": 204.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "or",
+  "s": 204.76,
+  "e": 205.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "usage.",
+  "s": 205.06,
+  "e": 205.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "The",
+  "s": 206.76,
+  "e": 207.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "second",
+  "s": 207.32,
+  "e": 207.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "prong",
+  "s": 207.68,
+  "e": 208.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 208.12,
+  "e": 208.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 208.3,
+  "e": 208.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "test",
+  "s": 208.5,
+  "e": 208.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "we",
+  "s": 208.78,
+  "e": 208.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "announced",
+  "s": 208.98,
+  "e": 209.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "today",
+  "s": 209.32,
+  "e": 209.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "acknowledges",
+  "s": 209.86,
+  "e": 210.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 210.72,
+  "e": 211.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 211.06,
+  "e": 211.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 211.2,
+  "e": 211.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 211.5,
+  "e": 211.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "has",
+  "s": 211.92,
+  "e": 212.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 212.28,
+  "e": 212.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "choice",
+  "s": 212.5,
+  "e": 213.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "whether",
+  "s": 213.0,
+  "e": 213.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 213.86,
+  "e": 214.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speak",
+  "s": 214.14,
+  "e": 214.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 214.48,
+  "e": 214.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "an",
+  "s": 214.78,
+  "e": 214.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 214.9,
+  "e": 215.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "capacity",
+  "s": 215.26,
+  "e": 215.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "or",
+  "s": 215.94,
+  "e": 216.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "exercise",
+  "s": 216.26,
+  "e": 216.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 216.92,
+  "e": 217.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "own",
+  "s": 217.18,
+  "e": 217.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "First",
+  "s": 217.64,
+  "e": 217.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Amendment",
+  "s": 217.94,
+  "e": 218.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "right",
+  "s": 218.24,
+  "e": 218.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 218.58,
+  "e": 218.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speak",
+  "s": 218.82,
+  "e": 219.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 219.06,
+  "e": 219.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 219.22,
+  "e": 219.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "own",
+  "s": 219.4,
+  "e": 219.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "voice.",
+  "s": 219.76,
+  "e": 220.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "He",
+  "s": 221.08,
+  "e": 221.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "engages",
+  "s": 221.22,
+  "e": 221.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 221.72,
+  "e": 222.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 222.1,
+  "e": 222.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "action",
+  "s": 222.42,
+  "e": 222.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "only",
+  "s": 222.88,
+  "e": 223.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "if",
+  "s": 223.46,
+  "e": 223.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "he",
+  "s": 223.76,
+  "e": 223.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "chooses",
+  "s": 223.94,
+  "e": 224.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 224.48,
+  "e": 224.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "exercise",
+  "s": 224.82,
+  "e": 225.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 225.28,
+  "e": 225.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 225.56,
+  "e": 225.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 225.92,
+  "e": 226.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speak",
+  "s": 226.22,
+  "e": 226.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "for",
+  "s": 226.52,
+  "e": 226.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 226.74,
+  "e": 226.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 226.88,
+  "e": 227.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 227.22,
+  "e": 227.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "particular",
+  "s": 227.54,
+  "e": 228.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "social",
+  "s": 228.08,
+  "e": 228.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "media",
+  "s": 228.52,
+  "e": 228.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts.",
+  "s": 228.82,
+  "e": 229.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "For",
+  "s": 230.12,
+  "e": 230.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "example,",
+  "s": 230.4,
+  "e": 230.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "even",
+  "s": 231.52,
+  "e": 231.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "if",
+  "s": 231.86,
+  "e": 232.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 232.1,
+  "e": 232.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "had",
+  "s": 232.3,
+  "e": 232.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 232.56,
+  "e": 232.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 232.72,
+  "e": 233.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 233.06,
+  "e": 233.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "make",
+  "s": 233.34,
+  "e": 233.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 233.58,
+  "e": 234.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "announcements",
+  "s": 234.06,
+  "e": 234.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "about",
+  "s": 234.7,
+  "e": 235.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 235.16,
+  "e": 235.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "city's",
+  "s": 235.4,
+  "e": 235.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "response",
+  "s": 235.74,
+  "e": 236.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 236.08,
+  "e": 236.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 236.36,
+  "e": 236.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "pandemic,",
+  "s": 236.54,
+  "e": 237.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "he",
+  "s": 237.6,
+  "e": 237.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "may",
+  "s": 237.82,
+  "e": 238.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "choose",
+  "s": 238.0,
+  "e": 238.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 238.3,
+  "e": 238.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "post",
+  "s": 238.54,
+  "e": 238.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "about",
+  "s": 238.76,
+  "e": 239.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 239.02,
+  "e": 239.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "response",
+  "s": 239.18,
+  "e": 239.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 239.64,
+  "e": 239.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 239.96,
+  "e": 240.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "capacity",
+  "s": 240.14,
+  "e": 240.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "as",
+  "s": 240.74,
+  "e": 240.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 240.98,
+  "e": 241.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "private",
+  "s": 241.22,
+  "e": 241.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "citizen.",
+  "s": 241.48,
+  "e": 241.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Having",
+  "s": 243.14,
+  "e": 243.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 243.44,
+  "e": 243.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "does",
+  "s": 243.98,
+  "e": 244.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "not",
+  "s": 244.4,
+  "e": 244.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "mean",
+  "s": 244.68,
+  "e": 244.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 244.94,
+  "e": 245.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 245.16,
+  "e": 245.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 245.36,
+  "e": 245.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "always",
+  "s": 245.68,
+  "e": 246.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "chooses",
+  "s": 246.2,
+  "e": 246.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 246.64,
+  "e": 246.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "use",
+  "s": 246.96,
+  "e": 247.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it.",
+  "s": 247.16,
+  "e": 247.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "In",
+  "s": 248.52,
+  "e": 248.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "some",
+  "s": 248.84,
+  "e": 249.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "cases,",
+  "s": 249.08,
+  "e": 249.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it",
+  "s": 249.42,
+  "e": 249.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "will",
+  "s": 249.62,
+  "e": 249.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "be",
+  "s": 249.76,
+  "e": 249.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "clear",
+  "s": 249.94,
+  "e": 250.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 250.24,
+  "e": 250.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "an",
+  "s": 250.44,
+  "e": 250.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 250.58,
+  "e": 250.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "intends",
+  "s": 250.94,
+  "e": 251.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 251.42,
+  "e": 252.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speak",
+  "s": 252.16,
+  "e": 252.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 252.44,
+  "e": 252.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 252.64,
+  "e": 252.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "personal",
+  "s": 252.78,
+  "e": 253.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "capacity.",
+  "s": 253.1,
+  "e": 253.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "For",
+  "s": 254.4,
+  "e": 254.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "example,",
+  "s": 254.64,
+  "e": 255.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "if",
+  "s": 255.48,
+  "e": 255.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 255.7,
+  "e": 255.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 255.86,
+  "e": 256.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "labels",
+  "s": 256.2,
+  "e": 256.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 256.72,
+  "e": 256.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "account",
+  "s": 256.96,
+  "e": 257.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "as",
+  "s": 257.36,
+  "e": 257.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "personal,",
+  "s": 257.72,
+  "e": 258.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "courts",
+  "s": 258.92,
+  "e": 259.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "should",
+  "s": 259.08,
+  "e": 259.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "conclude",
+  "s": 259.36,
+  "e": 259.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 259.8,
+  "e": 260.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts",
+  "s": 260.04,
+  "e": 260.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 260.34,
+  "e": 260.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 260.64,
+  "e": 260.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "account",
+  "s": 260.82,
+  "e": 261.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "are",
+  "s": 261.16,
+  "e": 261.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "personal",
+  "s": 261.38,
+  "e": 261.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "unless",
+  "s": 261.92,
+  "e": 262.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "there",
+  "s": 262.36,
+  "e": 262.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 262.64,
+  "e": 262.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "significant",
+  "s": 262.86,
+  "e": 263.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "evidence",
+  "s": 263.56,
+  "e": 264.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 264.04,
+  "e": 264.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 264.4,
+  "e": 264.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "post",
+  "s": 264.6,
+  "e": 264.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "constitutes",
+  "s": 264.84,
+  "e": 265.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 265.64,
+  "e": 265.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "exercise",
+  "s": 265.96,
+  "e": 266.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 266.46,
+  "e": 267.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 267.04,
+  "e": 267.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "power.",
+  "s": 267.24,
+  "e": 267.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Conversely,",
+  "s": 268.48,
+  "e": 269.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "if",
+  "s": 270.1,
+  "e": 270.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "an",
+  "s": 270.26,
+  "e": 270.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 270.4,
+  "e": 270.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "makes",
+  "s": 270.74,
+  "e": 271.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts",
+  "s": 271.06,
+  "e": 271.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 271.38,
+  "e": 271.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "an",
+  "s": 271.58,
+  "e": 271.66,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "account",
+  "s": 271.66,
+  "e": 271.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 271.98,
+  "e": 272.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "belongs",
+  "s": 272.2,
+  "e": 272.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 272.56,
+  "e": 272.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 272.84,
+  "e": 273.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "political",
+  "s": 273.02,
+  "e": 273.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "subdivision",
+  "s": 273.38,
+  "e": 274.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "or",
+  "s": 274.72,
+  "e": 275.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 275.08,
+  "e": 275.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "passed",
+  "s": 275.36,
+  "e": 275.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "down",
+  "s": 275.7,
+  "e": 276.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 276.14,
+  "e": 276.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "whomever",
+  "s": 276.36,
+  "e": 276.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "occupies",
+  "s": 276.68,
+  "e": 277.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 277.3,
+  "e": 277.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "particular",
+  "s": 277.56,
+  "e": 278.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "office,",
+  "s": 278.0,
+  "e": 278.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "context",
+  "s": 279.22,
+  "e": 279.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "would",
+  "s": 279.6,
+  "e": 279.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "make",
+  "s": 279.86,
+  "e": 280.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "clear",
+  "s": 280.08,
+  "e": 280.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 280.4,
+  "e": 280.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "those",
+  "s": 280.64,
+  "e": 280.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts",
+  "s": 280.84,
+  "e": 281.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "are",
+  "s": 281.12,
+  "e": 281.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official.",
+  "s": 281.32,
+  "e": 281.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "That",
+  "s": 282.62,
+  "e": 282.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "would",
+  "s": 282.8,
+  "e": 282.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "be",
+  "s": 282.94,
+  "e": 283.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "true,",
+  "s": 283.1,
+  "e": 283.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "for",
+  "s": 283.42,
+  "e": 283.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "example,",
+  "s": 283.6,
+  "e": 284.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 284.64,
+  "e": 284.9,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts",
+  "s": 284.9,
+  "e": 285.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 285.26,
+  "e": 285.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 285.56,
+  "e": 285.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "city",
+  "s": 285.74,
+  "e": 285.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 285.92,
+  "e": 286.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Port",
+  "s": 286.18,
+  "e": 286.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Huron's",
+  "s": 286.42,
+  "e": 287.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 287.22,
+  "e": 287.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Facebook",
+  "s": 287.54,
+  "e": 287.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "page.",
+  "s": 287.92,
+  "e": 288.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed's",
+  "s": 289.86,
+  "e": 290.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "page,",
+  "s": 290.16,
+  "e": 290.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "however,",
+  "s": 290.38,
+  "e": 290.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "lacks",
+  "s": 290.86,
+  "e": 291.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "this",
+  "s": 291.02,
+  "e": 291.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "context",
+  "s": 291.26,
+  "e": 291.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "because",
+  "s": 291.82,
+  "e": 292.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it",
+  "s": 292.16,
+  "e": 292.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "was",
+  "s": 292.32,
+  "e": 292.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "not",
+  "s": 292.48,
+  "e": 292.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "designated",
+  "s": 292.72,
+  "e": 293.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "either",
+  "s": 293.48,
+  "e": 293.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "personal",
+  "s": 293.98,
+  "e": 294.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "or",
+  "s": 294.52,
+  "e": 294.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official,",
+  "s": 294.82,
+  "e": 295.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "so",
+  "s": 296.0,
+  "e": 296.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "categorizing",
+  "s": 296.06,
+  "e": 297.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 297.04,
+  "e": 297.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts",
+  "s": 297.4,
+  "e": 297.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "requires",
+  "s": 297.84,
+  "e": 298.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 298.36,
+  "e": 298.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "fact",
+  "s": 298.64,
+  "e": 298.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "-specific",
+  "s": 298.98,
+  "e": 299.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "inquiry",
+  "s": 299.58,
+  "e": 300.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "into",
+  "s": 300.2,
+  "e": 300.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 300.56,
+  "e": 300.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "content",
+  "s": 300.88,
+  "e": 301.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "and",
+  "s": 301.24,
+  "e": 301.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "function",
+  "s": 301.54,
+  "e": 301.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 301.94,
+  "e": 302.16,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "each",
+  "s": 302.16,
+  "e": 302.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "relevant",
+  "s": 302.34,
+  "e": 302.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "post.",
+  "s": 302.76,
+  "e": 303.28,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Those",
+  "s": 304.02,
+  "e": 304.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "making",
+  "s": 304.42,
+  "e": 304.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 304.82,
+  "e": 305.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "announcements",
+  "s": 305.24,
+  "e": 305.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 305.88,
+  "e": 306.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "are",
+  "s": 306.12,
+  "e": 306.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "unavailable",
+  "s": 306.26,
+  "e": 306.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "elsewhere",
+  "s": 306.72,
+  "e": 307.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "are",
+  "s": 307.44,
+  "e": 307.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "clear",
+  "s": 307.8,
+  "e": 308.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "candidates",
+  "s": 308.06,
+  "e": 308.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "for",
+  "s": 308.54,
+  "e": 308.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 308.82,
+  "e": 309.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "action,",
+  "s": 309.02,
+  "e": 309.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "but",
+  "s": 310.34,
+  "e": 310.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts",
+  "s": 310.48,
+  "e": 310.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 310.92,
+  "e": 311.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "merely",
+  "s": 311.18,
+  "e": 311.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "repeat,",
+  "s": 311.52,
+  "e": 312.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "share,",
+  "s": 312.82,
+  "e": 313.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "or",
+  "s": 313.18,
+  "e": 313.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "discuss",
+  "s": 313.42,
+  "e": 313.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "otherwise",
+  "s": 313.86,
+  "e": 314.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "available",
+  "s": 314.4,
+  "e": 314.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "information",
+  "s": 314.92,
+  "e": 315.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "are",
+  "s": 315.72,
+  "e": 316.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "more",
+  "s": 316.06,
+  "e": 316.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "likely",
+  "s": 316.3,
+  "e": 316.72,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 316.72,
+  "e": 316.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "be",
+  "s": 316.98,
+  "e": 317.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed's",
+  "s": 317.2,
+  "e": 317.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "own",
+  "s": 317.64,
+  "e": 317.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "constitutionally",
+  "s": 317.98,
+  "e": 318.92,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "protected",
+  "s": 318.92,
+  "e": 319.58,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "private",
+  "s": 319.58,
+  "e": 320.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speech.",
+  "s": 320.06,
+  "e": 320.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Hard",
+  "s": 321.3,
+  "e": 321.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 321.68,
+  "e": 321.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "classify",
+  "s": 321.94,
+  "e": 322.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "cases",
+  "s": 322.44,
+  "e": 323.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "require",
+  "s": 323.04,
+  "e": 323.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "awareness,",
+  "s": 323.7,
+  "e": 324.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "again,",
+  "s": 324.6,
+  "e": 325.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 325.48,
+  "e": 325.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "an",
+  "s": 325.64,
+  "e": 325.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 325.76,
+  "e": 326.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "does",
+  "s": 326.1,
+  "e": 326.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "not",
+  "s": 326.32,
+  "e": 326.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "necessarily",
+  "s": 326.56,
+  "e": 327.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "purport",
+  "s": 327.3,
+  "e": 327.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 327.8,
+  "e": 328.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "exercise",
+  "s": 328.1,
+  "e": 328.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 328.62,
+  "e": 328.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 328.96,
+  "e": 329.48,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "simply",
+  "s": 329.48,
+  "e": 330.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "by",
+  "s": 330.4,
+  "e": 330.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posting",
+  "s": 330.64,
+  "e": 331.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "about",
+  "s": 331.06,
+  "e": 331.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 331.34,
+  "e": 331.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "matter",
+  "s": 331.52,
+  "e": 331.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "within",
+  "s": 331.74,
+  "e": 332.06,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "it.",
+  "s": 332.06,
+  "e": 332.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "An",
+  "s": 333.08,
+  "e": 333.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "official",
+  "s": 333.2,
+  "e": 333.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "might",
+  "s": 333.52,
+  "e": 333.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "post",
+  "s": 333.8,
+  "e": 334.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "job",
+  "s": 334.1,
+  "e": 334.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "-related",
+  "s": 334.52,
+  "e": 334.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "information",
+  "s": 334.82,
+  "e": 335.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "for",
+  "s": 335.42,
+  "e": 335.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "any",
+  "s": 335.7,
+  "e": 336.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "number",
+  "s": 336.08,
+  "e": 336.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 336.34,
+  "e": 336.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "personal",
+  "s": 336.62,
+  "e": 336.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "reasons,",
+  "s": 336.98,
+  "e": 337.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "from",
+  "s": 337.54,
+  "e": 338.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 338.22,
+  "e": 338.36,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "desire",
+  "s": 338.36,
+  "e": 338.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 338.7,
+  "e": 338.98,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "raise",
+  "s": 338.98,
+  "e": 339.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "public",
+  "s": 339.22,
+  "e": 339.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "awareness",
+  "s": 339.68,
+  "e": 340.18,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 340.18,
+  "e": 340.96,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "promoting",
+  "s": 340.96,
+  "e": 341.46,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "his",
+  "s": 341.46,
+  "e": 341.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "reelection",
+  "s": 341.8,
+  "e": 342.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "prospects.",
+  "s": 342.34,
+  "e": 343.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "To",
+  "s": 344.12,
+  "e": 344.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "reiterate,",
+  "s": 344.3,
+  "e": 344.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 344.88,
+  "e": 344.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 344.94,
+  "e": 345.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "action",
+  "s": 345.14,
+  "e": 345.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "doctrine",
+  "s": 345.5,
+  "e": 345.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "requires",
+  "s": 345.94,
+  "e": 346.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Linke",
+  "s": 346.42,
+  "e": 346.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 346.76,
+  "e": 347.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "show",
+  "s": 347.04,
+  "e": 347.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 347.44,
+  "e": 348.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Freed",
+  "s": 348.04,
+  "e": 348.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "first",
+  "s": 348.44,
+  "e": 349.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "had",
+  "s": 349.38,
+  "e": 349.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "actual",
+  "s": 349.76,
+  "e": 350.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 350.26,
+  "e": 350.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 350.7,
+  "e": 350.94,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "speak",
+  "s": 350.94,
+  "e": 351.24,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 351.24,
+  "e": 351.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "behalf",
+  "s": 351.54,
+  "e": 351.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "of",
+  "s": 351.84,
+  "e": 352.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 352.1,
+  "e": 352.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "state",
+  "s": 352.22,
+  "e": 352.52,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "on",
+  "s": 352.52,
+  "e": 352.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "a",
+  "s": 352.76,
+  "e": 352.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "particular",
+  "s": 352.88,
+  "e": 353.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "matter,",
+  "s": 353.32,
+  "e": 353.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "and",
+  "s": 354.26,
+  "e": 354.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "second,",
+  "s": 354.64,
+  "e": 355.02,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "purported",
+  "s": 355.48,
+  "e": 356.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "to",
+  "s": 356.04,
+  "e": 356.3,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "exercise",
+  "s": 356.3,
+  "e": 356.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 356.8,
+  "e": 357.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "authority",
+  "s": 357.1,
+  "e": 357.5,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "in",
+  "s": 357.5,
+  "e": 357.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 357.64,
+  "e": 357.74,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "relevant",
+  "s": 357.74,
+  "e": 358.08,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "posts.",
+  "s": 358.08,
+  "e": 358.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "To",
+  "s": 359.22,
+  "e": 359.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 359.4,
+  "e": 359.54,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "extent",
+  "s": 359.54,
+  "e": 359.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "that",
+  "s": 359.78,
+  "e": 360.04,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "this",
+  "s": 360.04,
+  "e": 360.32,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "test",
+  "s": 360.32,
+  "e": 360.7,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "differs",
+  "s": 360.7,
+  "e": 361.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "from",
+  "s": 361.22,
+  "e": 361.56,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 361.56,
+  "e": 361.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "one",
+  "s": 361.68,
+  "e": 361.84,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "applied",
+  "s": 361.84,
+  "e": 362.22,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "by",
+  "s": 362.22,
+  "e": 362.44,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 362.44,
+  "e": 362.6,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Sixth",
+  "s": 362.6,
+  "e": 362.76,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Circuit,",
+  "s": 362.76,
+  "e": 363.12,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "we",
+  "s": 363.12,
+  "e": 363.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "vacate",
+  "s": 363.38,
+  "e": 363.82,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "its",
+  "s": 363.82,
+  "e": 364.0,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "judgment",
+  "s": 364.0,
+  "e": 364.38,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "and",
+  "s": 364.38,
+  "e": 364.78,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "remand",
+  "s": 364.78,
+  "e": 365.2,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "the",
+  "s": 365.2,
+  "e": 365.34,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "case",
+  "s": 365.34,
+  "e": 365.62,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "for",
+  "s": 365.62,
+  "e": 365.88,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "further",
+  "s": 365.88,
+  "e": 366.14,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "proceedings",
+  "s": 366.14,
+  "e": 366.8,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "consistent",
+  "s": 366.8,
+  "e": 367.4,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "with",
+  "s": 367.4,
+  "e": 367.68,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "this",
+  "s": 367.68,
+  "e": 367.86,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "opinion.",
+  "s": 367.86,
+  "e": 368.26,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "Our",
+  "s": 368.96,
+  "e": 369.1,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "opinion",
+  "s": 369.1,
+  "e": 369.42,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "is",
+  "s": 369.42,
+  "e": 369.64,
+  "speaker": "JUSTICE BARRETT"
+ },
+ {
+  "w": "unanimous.",
+  "s": 369.64,
+  "e": 370.1,
+  "speaker": "JUSTICE BARRETT"
+ }
+]

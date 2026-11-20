@@ -1,0 +1,472 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 525.92,
+   "next": 526.96,
+   "speaker": "JUSTICE GORSUCH",
+   "before": "harassing in my hypothetical has to do with cats. No, I understand. The -- the commenter hates -- Sure. -- cats. Sure. And -- And maybe he hates your children too, I don't know.",
+   "pause": 1.04,
+   "loud_s": 0.9,
+   "mean_over": 23.3,
+   "peak_over": 33.1,
+   "size": "medium"
+  },
+  {
+   "t": 899.32,
+   "next": 899.78,
+   "speaker": "JUSTICE KAGAN",
+   "before": "not think that surely this could not be the official communication channel. So -- Or what, you know -- Yeah. So I -- I think -- It's not like any town I've ever seen.",
+   "pause": 0.46,
+   "loud_s": 0.1,
+   "mean_over": 18.3,
+   "peak_over": 24.0,
+   "size": "small"
+  },
+  {
+   "t": 1166.1,
+   "next": 1167.56,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "disentangle the two things doesn't really reflect the reality of how social media works. So, Your Honor, I have to push back in two respects. First -- About the dogs or --",
+   "pause": 1.46,
+   "loud_s": 1.3,
+   "mean_over": 25.6,
+   "peak_over": 32.8,
+   "size": "big"
+  },
+  {
+   "t": 3501.45,
+   "next": 3502.37,
+   "speaker": "CHIEF JUSTICE ROBERTS",
+   "before": "that it's not a question of a physical asset. And in what sense is this really private property? They're -- it's just the gathering of the protons or whatever they are.",
+   "pause": 0.92,
+   "loud_s": 0.8,
+   "mean_over": 30.4,
+   "peak_over": 34.8,
+   "size": "medium"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -46.1,
+ "opening_start": 8.04,
+ "opening": [
+  [
+   8.04,
+   "MR. KEDEM",
+   "Mr. Chief Justice, and may it please the Court: The dialogue between public officials and their constituents is fundamental to our democracy. Much of that conversation now takes place online, with social media platforms serving as the new town square, where public officials provide important information about what they're doing on the public's behalf and soliciting comments in return. While public officials retain First Amendment rights, use of a private social media account does not immunize an official's conduct from First Amendment or constitutional scrutiny. Under our test for state action, a public official who creates a channel for communicating with constituents about in-office conduct and then blocks a user from that channel must abide by the Constitution. This test, which focuses on how the public official is using and purporting to use that account, is consistent with this Court's precedent under which a public official who purports to act in that capacity is a state actor. It also accords with Section 1983 and the original understanding of what it means to act under color of law. The Sixth Circuit's duty and authority test, by contrast, would provide ready means for public officials to evade the Constitution. Here, for instance, it would mean that the city manager would be free to block from his Facebook page any constituent who is a member of a disfavored race, religion, or political group, free from constitutional constraint. Our test avoids that result while still leaving ample room for public officials to communicate in their personal capacities. I welcome the Court's questions."
+  ],
+  [
+   111.46,
+   "JUSTICE THOMAS",
+   "Would you also win under the doing your -- doing their jobs test?"
+  ],
+  [
+   117.48,
+   "MR. KEDEM",
+   "Yes, we absolutely would, in part because, as has been pointed out, part of the job of any high-ranking executive official -- and the city manager is essentially just under the mayor in terms of being high up in city government -- part of that job is telling people about what you're doing. And what Mr. Freed was doing with his Facebook account, sometimes multiple times a day, was informing the citizens about what he, as city manager, in his role as city manager, was doing for the town and then communicating directly with constituents about that, sometimes answering their questions about the scope of his orders."
+  ],
+  [
+   154.02,
+   "JUSTICE THOMAS",
+   "But Ms. Karlan made the point that there were only three instances on the website there in the last case that were personal. In this case, just going through the Joint Appendix, there's quite a bit that is personal. So how would you just -- just factually distinguish that or emphasize the fact -- the fact that --"
+  ],
+  [
+   176.48,
+   "MR. KEDEM",
+   "Sure."
+  ],
+  [
+   176.48,
+   "JUSTICE THOMAS",
+   "-- the personal here does not override the official?"
+  ],
+  [
+   180.6,
+   "MR. KEDEM",
+   "So there were certainly a lot more personal posts, although the ratio of job-related posts to personal posts changed dramatically at"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2023/22-611",
+  "page_url": "https://www.oyez.org/cases/2023/22-611",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - March 15, 2024",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/25692",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2023/22-611/22-611_20240315-opinion.delivery.mp3",
+  "duration": 371.208,
+  "mp3_bytes": 7453856,
+  "asr_elapsed_s": 168.0,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   858,
+   879,
+   875
+  ],
+  "diffs": [
+   [
+    8.6,
+    "Linke",
+    "Lindke"
+   ],
+   [
+    41.94,
+    "Linke,",
+    "Lindke,"
+   ],
+   [
+    42.98,
+    "unwelcome",
+    "unwelcomed"
+   ],
+   [
+    48.96,
+    "Linke",
+    "Lindke"
+   ],
+   [
+    55.84,
+    "Linke",
+    "Lindke"
+   ],
+   [
+    58.94,
+    "unwelcome",
+    "unwelcomed"
+   ],
+   [
+    83.6,
+    "Linke",
+    "Lindke"
+   ],
+   [
+    88.58,
+    "Linke's",
+    "Lindke\u2019s"
+   ],
+   [
+    110.4,
+    "Linke's",
+    "Lindke\u2019s"
+   ],
+   [
+    171.56,
+    "precedent",
+    "President"
+   ],
+   [
+    208.98,
+    "announced",
+    "announce"
+   ],
+   [
+    271.58,
+    "an",
+    ""
+   ],
+   [
+    333.8,
+    "",
+    "have"
+   ],
+   [
+    346.42,
+    "Linke",
+    "Lindke"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 879,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Barrett has the opinion of the court in two cases this morning."
+   ],
+   [
+    6.8,
+    "JUSTICE BARRETT",
+    "The first case I have is Linke versus Freed. Like millions of Americans, James Freed maintained a Facebook account on which he posted about a wide range of topics, including his dog, his daughter, and his job. Like many people with a Facebook account, Freed occasionally received unwelcome comments on his posts. In response, Freed took a step familiar to Facebook users. He deleted the comments and he blocked those who made them. For most people, that would have been the end of it, but Kevin Linke, one of the unwelcome commenters, sued Freed for violating his right to free speech. As Linke saw it, Freed's Facebook page was a constitutionally protected public forum from which Linke could not be excluded based on his unwelcome views. Because the First Amendment binds only the government, this claim is a non-starter if Freed posted on Facebook as a private citizen. But here's the wrinkle, Freed is not only a private citizen, but also the city manager of Port Huron, Michigan. And while Freed insists that the account is strictly personal, Linke argues that Freed acted in his official capacity when he silenced Linke's speech. If Freed acted in his official capacity, the First Amendment applies. When a government official posts about job-related topics on social media, it can be difficult to tell whether the speech is official or private. That is true in Freed's case because he posted about his work and Linke's comments were critical of Freed's work, particularly as it related to the pandemic. The Courts of Appeals have disagreed about how to analyze this kind of social media activity. The Second and Ninth Circuits focus on the appearance of the posts, treating speech as official if it comes across that way. The Sixth Circuit, by contrast, focuses on whether the official had legal authority to speak on behalf of the state. Our approach is closer to the Sixth Circuit's. We hold that such speech is attributable to the state only if the official first possessed actual authority to speak on the state's behalf and second, purported to exercise that authority when he spoke on social media. The first prong of this test is grounded in the bedrock requirement that the conduct allegedly causing the deprivation of a federal right be fairly attributable to the state. Our precedent makes clear that an act is not attributable to the state unless it is traceable to the state's power or authority."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Barrett has the opinion of the court in two cases this morning."
+   ],
+   [
+    6.8,
+    "JUSTICE BARRETT",
+    "The first case I have is Linke versus Freed. Like millions of Americans, James Freed maintained a Facebook account on which he posted about a wide range of topics, including his dog, his daughter, and his job. Like many people with a Facebook account, Freed occasionally received unwelcome comments on his posts. In response, Freed took a step familiar to Facebook users. He deleted the comments and he blocked those who made them. For most people, that would have been the end of it, but Kevin Linke, one of the unwelcome commenters, sued Freed for violating his right to free speech. As Linke saw it, Freed's Facebook page was a constitutionally protected public forum from which Linke could not be excluded based on his unwelcome views. Because the First Amendment binds only the government, this claim is a non-starter if Freed posted on Facebook as a private citizen. But here's the wrinkle, Freed is not only a private citizen, but also the city manager of Port Huron, Michigan. And while Freed insists that the account is strictly personal, Linke argues that Freed acted in his official capacity when he silenced Linke's speech. If Freed acted in his official capacity, the First Amendment applies. When a government official posts about job-related topics on social media, it can be difficult to tell whether the speech is official or private. That is true in Freed's case because he posted about his work and Linke's comments were critical of Freed's work, particularly as it related to the pandemic. The Courts of Appeals have disagreed about how to analyze this kind of social media activity. The Second and Ninth Circuits focus on the appearance of the posts, treating speech as official if it comes across that way. The Sixth Circuit, by contrast, focuses on whether the official had legal authority to speak on behalf of the state. Our approach is closer to the Sixth Circuit's. We hold that such speech is attributable to the state only if the official first possessed actual authority to speak on the state's behalf and second, purported to exercise that authority when he spoke on social media. The first prong of this test is grounded in the bedrock requirement that the conduct allegedly causing the deprivation of a federal right be fairly attributable to the state. Our precedent makes clear that an act is not attributable to the state unless it is traceable to the state's power or authority. Focusing on the appearance of the posts skips this crucial step. Regardless of how official Freed's Facebook page looks, the presence of state authority must be real, not a mirage. The authority to speak for the state can come from any of the sources listed in Section 1983, statute ordinance regulation, custom, or usage. The second prong of the test we announced today acknowledges that a state official has the choice whether to speak in an official capacity or exercise his own First Amendment right to speak in his own voice. He engages in state action only if he chooses to exercise his authority to speak for the state in particular social media posts. For example, even if Freed had the authority to make official announcements about the city's response to the pandemic, he may choose to post about the response in his capacity as a private citizen. Having authority does not mean that the official always chooses to use it. In some cases, it will be clear that an official intends to speak in a personal capacity. For example, if the official labels his account as personal, courts should conclude that posts on that account are personal unless there is significant evidence that a post constitutes the exercise of state power. Conversely, if an official makes posts on an account that belongs to a political subdivision or is passed down to whomever occupies a particular office, context would make clear that those posts are official. That would be true, for example, of posts on the city of Port Huron's official Facebook page. Freed's page, however, lacks this context because it was not designated either personal or official, so categorizing his posts requires a fact-specific inquiry into the content and function of each relevant post. Those making official announcements that are unavailable elsewhere are clear candidates for state action, but posts that merely repeat, share, or discuss otherwise available information are more likely to be Freed's own constitutionally protected private speech. Hard to classify cases require awareness, again, that an official does not necessarily purport to exercise his authority simply by posting about a matter within it. An official might post job-related information for any number of personal reasons, from a desire to raise public awareness to promoting his reelection prospects. To reiterate, the state action doctrine requires Linke to show that Freed first had actual authority to speak on behalf of the state on a particular matter, and second, purported to exercise that authority in the relevant posts. To the extent that this test differs from the one applied by the Sixth Circuit, we vacate its judgment and remand the case for further proceedings consistent with this opinion. Our opinion is unanimous."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Barrett has the opinion of the court in two cases this morning."
+   ],
+   [
+    6.8,
+    "JUSTICE BARRETT",
+    "The first case I have is Linke versus Freed."
+   ],
+   [
+    11.36,
+    "JUSTICE BARRETT",
+    "Like millions of Americans, James Freed maintained a Facebook account on which he posted about a wide range of topics, including his dog, his daughter, and his job."
+   ],
+   [
+    22.86,
+    "JUSTICE BARRETT",
+    "Like many people with a Facebook account, Freed occasionally received unwelcome comments on his posts."
+   ],
+   [
+    30.02,
+    "JUSTICE BARRETT",
+    "In response, Freed took a step familiar to Facebook users."
+   ],
+   [
+    34.22,
+    "JUSTICE BARRETT",
+    "He deleted the comments and he blocked those who made them."
+   ],
+   [
+    38.32,
+    "JUSTICE BARRETT",
+    "For most people, that would have been the end of it, but Kevin Linke, one of the unwelcome commenters, sued Freed for violating his right to free speech."
+   ],
+   [
+    48.72,
+    "JUSTICE BARRETT",
+    "As Linke saw it, Freed's Facebook page was a constitutionally protected public forum from which Linke could not be excluded based on his unwelcome views."
+   ],
+   [
+    61.06,
+    "JUSTICE BARRETT",
+    "Because the First Amendment binds only the government, this claim is a non-starter if Freed posted on Facebook as a private citizen."
+   ],
+   [
+    70.36,
+    "JUSTICE BARRETT",
+    "But here's the wrinkle, Freed is not only a private citizen, but also the city manager of Port Huron, Michigan."
+   ],
+   [
+    78.42,
+    "JUSTICE BARRETT",
+    "And while Freed insists that the account is strictly personal, Linke argues that Freed acted in his official capacity when he silenced Linke's speech."
+   ],
+   [
+    90.72,
+    "JUSTICE BARRETT",
+    "If Freed acted in his official capacity, the First Amendment applies."
+   ],
+   [
+    96.12,
+    "JUSTICE BARRETT",
+    "When a government official posts about job-related topics on social media, it can be difficult to tell whether the speech is official or private."
+   ],
+   [
+    105.78,
+    "JUSTICE BARRETT",
+    "That is true in Freed's case because he posted about his work and Linke's comments were critical of Freed's work, particularly as it related to the pandemic."
+   ],
+   [
+    116.48,
+    "JUSTICE BARRETT",
+    "The Courts of Appeals have disagreed about how to analyze this kind of social media activity."
+   ],
+   [
+    122.4,
+    "JUSTICE BARRETT",
+    "The Second and Ninth Circuits focus on the appearance of the posts, treating speech as official if it comes across that way."
+   ],
+   [
+    130.02,
+    "JUSTICE BARRETT",
+    "The Sixth Circuit, by contrast, focuses on whether the official had legal authority to speak on behalf of the state."
+   ],
+   [
+    138.04,
+    "JUSTICE BARRETT",
+    "Our approach is closer to the Sixth Circuit's."
+   ],
+   [
+    140.88,
+    "JUSTICE BARRETT",
+    "We hold that such speech is attributable to the state only if the official first possessed actual authority to speak on the state's behalf and second, purported to exercise that authority when he spoke on social media."
+   ],
+   [
+    157.94,
+    "JUSTICE BARRETT",
+    "The first prong of this test is grounded in the bedrock requirement that the conduct allegedly causing the deprivation of a federal right be fairly attributable to the state."
+   ],
+   [
+    171.28,
+    "JUSTICE BARRETT",
+    "Our precedent makes clear that an act is not attributable to the state unless it is traceable to the state's power or authority."
+   ],
+   [
+    181.04,
+    "JUSTICE BARRETT",
+    "Focusing on the appearance of the posts skips this crucial step."
+   ],
+   [
+    186.24,
+    "JUSTICE BARRETT",
+    "Regardless of how official Freed's Facebook page looks, the presence of state authority must be real, not a mirage."
+   ],
+   [
+    195.22,
+    "JUSTICE BARRETT",
+    "The authority to speak for the state can come from any of the sources listed in Section 1983, statute ordinance regulation, custom, or usage."
+   ],
+   [
+    206.76,
+    "JUSTICE BARRETT",
+    "The second prong of the test we announced today acknowledges that a state official has the choice whether to speak in an official capacity or exercise his own First Amendment right to speak in his own voice."
+   ],
+   [
+    221.08,
+    "JUSTICE BARRETT",
+    "He engages in state action only if he chooses to exercise his authority to speak for the state in particular social media posts."
+   ],
+   [
+    230.12,
+    "JUSTICE BARRETT",
+    "For example, even if Freed had the authority to make official announcements about the city's response to the pandemic, he may choose to post about the response in his capacity as a private citizen."
+   ],
+   [
+    243.14,
+    "JUSTICE BARRETT",
+    "Having authority does not mean that the official always chooses to use it."
+   ],
+   [
+    248.52,
+    "JUSTICE BARRETT",
+    "In some cases, it will be clear that an official intends to speak in a personal capacity."
+   ],
+   [
+    254.4,
+    "JUSTICE BARRETT",
+    "For example, if the official labels his account as personal, courts should conclude that posts on that account are personal unless there is significant evidence that a post constitutes the exercise of state power."
+   ],
+   [
+    268.48,
+    "JUSTICE BARRETT",
+    "Conversely, if an official makes posts on an account that belongs to a political subdivision or is passed down to whomever occupies a particular office, context would make clear that those posts are official."
+   ],
+   [
+    282.62,
+    "JUSTICE BARRETT",
+    "That would be true, for example, of posts on the city of Port Huron's official Facebook page."
+   ],
+   [
+    289.86,
+    "JUSTICE BARRETT",
+    "Freed's page, however, lacks this context because it was not designated either personal or official, so categorizing his posts requires a fact-specific inquiry into the content and function of each relevant post."
+   ],
+   [
+    304.02,
+    "JUSTICE BARRETT",
+    "Those making official announcements that are unavailable elsewhere are clear candidates for state action, but posts that merely repeat, share, or discuss otherwise available information are more likely to be Freed's own constitutionally protected private speech."
+   ],
+   [
+    321.3,
+    "JUSTICE BARRETT",
+    "Hard to classify cases require awareness, again, that an official does not necessarily purport to exercise his authority simply by posting about a matter within it."
+   ],
+   [
+    333.08,
+    "JUSTICE BARRETT",
+    "An official might post job-related information for any number of personal reasons, from a desire to raise public awareness to promoting his reelection prospects."
+   ],
+   [
+    344.12,
+    "JUSTICE BARRETT",
+    "To reiterate, the state action doctrine requires Linke to show that Freed first had actual authority to speak on behalf of the state on a particular matter, and second, purported to exercise that authority in the relevant posts."
+   ],
+   [
+    359.22,
+    "JUSTICE BARRETT",
+    "To the extent that this test differs from the one applied by the Sixth Circuit, we vacate its judgment and remand the case for further proceedings consistent with this opinion."
+   ],
+   [
+    368.96,
+    "JUSTICE BARRETT",
+    "Our opinion is unanimous."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    3.72,
+    13
+   ],
+   [
+    "JUSTICE BARRETT",
+    6.8,
+    370.1,
+    862
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "22-611",
+ "year": "2023",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-611",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-611.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2023/22-611_p3lb.pdf",
+ "model": "medium.en",
+ "duration": 4641.264,
+ "asr_elapsed_s": 2465.5,
+ "asr_words": 13540,
+ "official_words": 13965,
+ "matched": 13295,
+ "shared": 7,
+ "clamped": 0,
+ "trimmed": 16,
+ "rewindowed": 0,
+ "match_rate": 95.20229144289294,
+ "turns": 287,
+ "laugh_markers": 4,
+ "mp3_bytes": 37130349,
+ "pauses": 431,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 403,
+  "match_rate": {
+   "ok": true,
+   "detail": "95.20% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-20"
+}
