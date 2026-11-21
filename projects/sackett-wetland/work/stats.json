@@ -1,0 +1,275 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 2669.541,
+   "next": 2670.541,
+   "speaker": "JUSTICE KAGAN",
+   "before": "no surface connection, there cannot be any plausible argument that the wetland itself is -- is inseparably bound up with an abutting water. So your answer is no. Okay. Thank you.",
+   "pause": 1.0,
+   "loud_s": 0.0,
+   "mean_over": 5.6,
+   "peak_over": 9.0,
+   "size": "small"
+  },
+  {
+   "t": 4624.061,
+   "next": 4624.241,
+   "speaker": "MR. FLETCHER",
+   "before": "again, when we start to talk about miles, that sounds too far to be adjacent -- to reasonably be proximate to me. One mile? Again, I see where this is headed.",
+   "pause": 0.18,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -44.8,
+ "opening_start": 2370.721,
+ "opening": [
+  [
+   2370.721,
+   "MR. SCHIFF",
+   "why something like the significant nexus test is so problematic. It's hard to imagine any other statutory system in -- in the federal code that requires a potentially regulated party to initiate a rather expensive and time-consuming process just to find out whether, in fact, one is regulated. And that's precisely why the jurisdictional determination process has been developed in the -- the age of the significant nexus, because it is a test that's very difficult to know whether, in fact, one is regulated."
+  ],
+  [
+   2398.341,
+   "JUSTICE SOTOMAYOR",
+   "Well, that test applies, as I mentioned, only to connections that are not directly with waters. That's a different issue. But that's not how we've been -- that's not how you briefed this case or what we're looking for. We're looking for a definition that has to do with a -- a connection that exists with traditional navigable waters. We may have to develop, as was the insight of Justice Kennedy in Rapanos, a different test like the significant nexus test for those connections, like here, where there might be a tributary somewhere else."
+  ],
+  [
+   2438.501,
+   "MR. SCHIFF",
+   "Justice Sotomayor, I would say that if the test is subsurface connections to a traditional navigable water, I guarantee you that this case or something like it will be back here in another 16 years and we will be back in the same place that we have been with property owners not knowing whether they're regulated, with the states not knowing what test to apply --"
+  ],
+  [
+   2457.281,
+   "JUSTICE SOTOMAYOR",
+   "That's assuming it's sub -- sub -- subsurface water is not differentiated between groundwater."
+  ],
+  [
+   2465.361,
+   "MR. SCHIFF",
+   "Justice Sotomayor, again, I don't think that there is certainly a legal distinction that EPA has ever articulated between the two. And, moreover, I think, as a practical matter to the property owner, if it's subsurface, it doesn't necessarily follow that one standing in a marsh -- the Sacketts' property certainly wasn't a marsh, and there's no reason that --"
+  ],
+  [
+   2482.981,
+   "JUSTICE SOTOMAYOR",
+   "Only because they put gravel in it."
+  ],
+  [
+   2484.741,
+   "MR. SCHIFF",
+   "I -- I'm sorry, Your Honor?"
+  ],
+  [
+   2485.841,
+   "JUSTICE SOTOMAYOR",
+   "Only because they put gravel in it."
+  ],
+  [
+   2488.061,
+   "MR. SCHIFF",
+   "Well, the original state of the property was, before the -- the -- the -- the top soil was taken out and the gravel was put on it, it looked like a -- a buildable lot. In fact, it was zoned as a buildable lot. It has a sewer hookup. It has an address. Neighbors around that property have built. There was -- there's no sense that this property is something that one might think, ah, there's water somehow flowing underneath, that that connects it to Priest Lake. That's not the type of topography."
+  ],
+  [
+   2516.301,
+   "CHIEF JUSTICE ROBERTS",
+   "Thank you, counsel. Justice Kagan?"
+  ],
+  [
+   2518.641,
+   "JUSTICE KAGAN",
+   "Mr. Schiff, do you think there's any third position? I mean, I -- I understand that you don't like the significant nexus test, but I'm going back really to Justice Kavanaugh's point about, you know, take something like you just create a dam so that -- and the dam breaks up any idea that there is a continuous surface connection. So, if I think, well, in that kind of situation, it just -- it just can't -- you -- you can't be right, but I also understand some of your points about the significant nexus test, is there anything in the"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2022/21-454",
+  "page_url": "https://www.oyez.org/cases/2022/21-454",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - May 25, 2023",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/25571",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2022/21-454/21-454_20230525-opinion.delivery.mp3",
+  "duration": 110.448,
+  "mp3_bytes": 2238656,
+  "asr_elapsed_s": 49.4,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   232,
+   238,
+   235
+  ],
+  "diffs": [
+   [
+    27.0,
+    "Chantelle",
+    "Chantall"
+   ],
+   [
+    28.36,
+    "lot",
+    "slot"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 238,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has our opinion in case 21-454, Sackett versus the Environmental Protection Agency."
+   ],
+   [
+    7.64,
+    "JUSTICE ALITO",
+    "This case involves the outer reaches of the Clean Water Act. The Clean Water Act applies to, quote, navigable waters, which it defines as, quote, the waters of the United States. The Environmental Protection Agency asserted jurisdiction over Michael and Chantelle Sackett's lot near a lake in Idaho because the agency believes that the property contains wetlands and constitutes part of the waters of the United States. The Sacketts disagreed, and they sued to preclude enforcement. After seven years of litigation, which included a prior trip to this court, the District Court eventually entered summary judgment in favor of the EPA, and the Ninth Circuit affirmed. For the reasons explained in our opinion, we agree with the Sacketts, and therefore reverse. We hold that the waters of the United States encompass only those relatively permanent standing or continuously flowing bodies of water, forming geographical features that are described in ordinary speech as streams, oceans, rivers, and lakes. The opinion of the court is joined in full by the Chief Justice and Justices Thomas, Gorsuch, and Barrett. Justice Thomas has filed a concurring opinion, which Justice Gorsuch has joined. Justice Kagan has filed an opinion concurring in the judgment, which Justices Sotomayor and Jackson have joined. Justice Kavanaugh has filed an opinion concurring in the judgment, which Justices Sotomayor, Kagan, and Jackson have joined."
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has our opinion in case 21-454, Sackett versus the Environmental Protection Agency."
+   ],
+   [
+    7.64,
+    "JUSTICE ALITO",
+    "This case involves the outer reaches of the Clean Water Act. The Clean Water Act applies to, quote, navigable waters, which it defines as, quote, the waters of the United States. The Environmental Protection Agency asserted jurisdiction over Michael and Chantelle Sackett's lot near a lake in Idaho because the agency believes that the property contains wetlands and constitutes part of the waters of the United States. The Sacketts disagreed, and they sued to preclude enforcement. After seven years of litigation, which included a prior trip to this court, the District Court eventually entered summary judgment in favor of the EPA, and the Ninth Circuit affirmed. For the reasons explained in our opinion, we agree with the Sacketts, and therefore reverse. We hold that the waters of the United States encompass only those relatively permanent standing or continuously flowing bodies of water, forming geographical features that are described in ordinary speech as streams, oceans, rivers, and lakes. The opinion of the court is joined in full by the Chief Justice and Justices Thomas, Gorsuch, and Barrett. Justice Thomas has filed a concurring opinion, which Justice Gorsuch has joined. Justice Kagan has filed an opinion concurring in the judgment, which Justices Sotomayor and Jackson have joined. Justice Kavanaugh has filed an opinion concurring in the judgment, which Justices Sotomayor, Kagan, and Jackson have joined."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has our opinion in case 21-454, Sackett versus the Environmental Protection Agency."
+   ],
+   [
+    7.64,
+    "JUSTICE ALITO",
+    "This case involves the outer reaches of the Clean Water Act."
+   ],
+   [
+    12.46,
+    "JUSTICE ALITO",
+    "The Clean Water Act applies to, quote, navigable waters, which it defines as, quote, the waters of the United States."
+   ],
+   [
+    21.24,
+    "JUSTICE ALITO",
+    "The Environmental Protection Agency asserted jurisdiction over Michael and Chantelle Sackett's lot near a lake in Idaho because the agency believes that the property contains wetlands and constitutes part of the waters of the United States."
+   ],
+   [
+    38.86,
+    "JUSTICE ALITO",
+    "The Sacketts disagreed, and they sued to preclude enforcement."
+   ],
+   [
+    43.96,
+    "JUSTICE ALITO",
+    "After seven years of litigation, which included a prior trip to this court, the District Court eventually entered summary judgment in favor of the EPA, and the Ninth Circuit affirmed."
+   ],
+   [
+    56.4,
+    "JUSTICE ALITO",
+    "For the reasons explained in our opinion, we agree with the Sacketts, and therefore reverse."
+   ],
+   [
+    62.94,
+    "JUSTICE ALITO",
+    "We hold that the waters of the United States encompass only those relatively permanent standing or continuously flowing bodies of water, forming geographical features that are described in ordinary speech as streams, oceans, rivers, and lakes."
+   ],
+   [
+    79.44,
+    "JUSTICE ALITO",
+    "The opinion of the court is joined in full by the Chief Justice and Justices Thomas, Gorsuch, and Barrett."
+   ],
+   [
+    86.34,
+    "JUSTICE ALITO",
+    "Justice Thomas has filed a concurring opinion, which Justice Gorsuch has joined."
+   ],
+   [
+    92.26,
+    "JUSTICE ALITO",
+    "Justice Kagan has filed an opinion concurring in the judgment, which Justices Sotomayor and Jackson have joined."
+   ],
+   [
+    99.7,
+    "JUSTICE ALITO",
+    "Justice Kavanaugh has filed an opinion concurring in the judgment, which Justices Sotomayor, Kagan, and Jackson have joined."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.86,
+    14
+   ],
+   [
+    "JUSTICE ALITO",
+    7.64,
+    108.66,
+    223
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "21-454",
+ "year": "2022",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2022/21-454",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/21-454.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2022/21-454_m5n0.pdf",
+ "model": "medium.en",
+ "duration": 6485.088,
+ "asr_elapsed_s": 1705.4,
+ "asr_words": 7392,
+ "official_words": 7623,
+ "matched": 7199,
+ "shared": 2,
+ "clamped": 0,
+ "trimmed": 3,
+ "rewindowed": 0,
+ "match_rate": 94.43788534697626,
+ "turns": 195,
+ "laugh_markers": 2,
+ "mp3_bytes": 51880941,
+ "pauses": 222,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 238,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.44% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-21"
+}
