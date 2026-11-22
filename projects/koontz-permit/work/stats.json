@@ -1,0 +1,434 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 2696.311,
+   "next": 2698.431,
+   "speaker": "JUSTICE SCALIA",
+   "before": "claim in this case, which is it's hard to see how you can have an exactions takings claim when nothing has ever actually been exacted -- Now, that is a problem.",
+   "pause": 2.12,
+   "loud_s": 1.8,
+   "mean_over": 28.8,
+   "peak_over": 37.0,
+   "size": "big"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -46.8,
+ "opening_start": 1665.151,
+ "opening": [
+  [
+   1665.151,
+   "MR. BEARD",
+   "Your Honor, nothing was taken, either. In Nollan, you had a permit approval with conditions. It's true that development had not gone forward, but, here, as well, development had not gone forward. Presumably -- theoretically, if the development had gone forward, he might have been subject to conditions that he would have had to satisfy. But I would submit to the Court --"
+  ],
+  [
+   1686.055,
+   "JUSTICE SCALIA",
+   "The permit had issued. The permit had issued in both of those cases, and, therefore, the person was saying, to go ahead with this permit, I give up -- I give up this land."
+  ],
+  [
+   1698.171,
+   "MR. BEARD",
+   "The permits in Nollan and Dolan actually did not issue. There was only approval, with conditions, and there is a difference. And that is no different from what happened here. The threat is the same. You don't get a permit issued to you until you --"
+  ],
+  [
+   1710.651,
+   "JUSTICE SCALIA",
+   "There was no approval with conditions. There's one thing for -- for a municipality to issue an -- an approval with conditions, and a municipality saying, we can't approval it unless you agree to these conditions. And the person doesn't agree, and the municipality says, we don't approve it."
+  ],
+  [
+   1727.711,
+   "MR. BEARD",
+   "But, in either case, he -- he faces the threat, the unconstitutional condition on his use of his property, you don't get your use until you comply with our conditions. Mr. Chief Justice --"
+  ],
+  [
+   1738.791,
+   "JUSTICE KENNEDY",
+   "I -- I have one question. I know we -- you are running short on your rebuttal time. Assume that, when we look at this record, assume we think there is a due process violation, not a taking violation. That is not before us here, is it?"
+  ],
+  [
+   1755.351,
+   "MR. BEARD",
+   "No. The due -- there is no due process claim here. There is only a State statute that embodies sort of a due process standard, but there is no due process claim here. And may I reserve the balance of my time, Your Honor?"
+  ],
+  [
+   1766.411,
+   "CHIEF JUSTICE ROBERTS",
+   "And I will afford you some additional time, since our questioning intruded on yours."
+  ],
+  [
+   1770.551,
+   "MR. BEARD",
+   "Thank you."
+  ],
+  [
+   1772.971,
+   "CHIEF JUSTICE ROBERTS",
+   "Mr. Wolfson?"
+  ],
+  [
+   1775.151,
+   "MR. WOLFSON",
+   "Mr. Chief Justice, and may it please the Court: The parties agree that Florida may require a landowner to perform mitigation as a condition for a permit that would allow the destruction of a wetlands. The parties disagreed as to how much mitigation was appropriate in this case. The district thought that Mr. Koontz's proposal was insufficient to mitigate the -- the damage to wetlands. Mr. Koontz rejected the district's counterproposals, and he refused to do anything more. And the district denied his permit application because he refused to do anything more."
+  ],
+  [
+   1807.691,
+   "CHIEF JUSTICE ROBERTS",
+   "Does it make any difference, in his refusing to do anything more, whether the condition is onsite or offsite?"
+  ],
+  [
+   1813.691,
+   "MR. WOLFSON",
+   "I don't think it makes any difference, Mr. Chief Justice, I mean, the -- under the Florida regulatory regime, we cannot demand certain conditions from the landowner. The -- we are obligated -- if the -- if the permit -- the landowner has to establish, under his permit application -- and it's his burden -- that he meets the various standards -- the public interest standard, which includes no adverse impact --"
+  ],
+  [
+   1838.771,
+   "CHIEF JUSTICE ROBERTS",
+   "Those are all State -- State law provisions you are talking about."
+  ],
+  [
+   1840.431,
+   "MR. WOLFSON",
+   "Correct. Correct."
+  ],
+  [
+   1840.491,
+   "CHIEF JUSTICE ROBERTS",
+   "What about is there -- is there anything in the Federal Constitution that"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2012/11-1447",
+  "page_url": "https://www.oyez.org/cases/2012/11-1447",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 25, 2013",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/21923",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2012/11-1447/20130625o_11-1447.delivery.mp3",
+  "duration": 262.478256,
+  "mp3_bytes": 1155385,
+  "asr_elapsed_s": 222.4,
+  "trimmed": 1,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   560,
+   601,
+   593
+  ],
+  "diffs": [
+   [
+    11.18,
+    "Kunz v. St.",
+    "Koontz versus Saint"
+   ],
+   [
+    14.76,
+    "number 11 -1447.",
+    "No. 11-1447."
+   ],
+   [
+    22.48,
+    "Nolan v.",
+    "Nollan versus"
+   ],
+   [
+    47.2,
+    "serve",
+    "served"
+   ],
+   [
+    56.22,
+    "Kuntz",
+    "Koontz"
+   ],
+   [
+    57.82,
+    "St.",
+    "Saint"
+   ],
+   [
+    68.6,
+    "Kuntz",
+    "Koontz"
+   ],
+   [
+    77.1,
+    "Kuntz",
+    "Koontz"
+   ],
+   [
+    85.66,
+    "Nolan",
+    "Nollan"
+   ],
+   [
+    91.54,
+    "Kuntz,",
+    "Koontz,"
+   ],
+   [
+    95.06,
+    "Nolan",
+    "Nollan"
+   ],
+   [
+    118.23,
+    "opposed",
+    "suppose"
+   ],
+   [
+    121.75,
+    "refuse",
+    "refused"
+   ],
+   [
+    124.91,
+    "Nolan",
+    "Nollan"
+   ],
+   [
+    155.77,
+    "Nolan",
+    "Nollan"
+   ],
+   [
+    159.55,
+    "use",
+    "used"
+   ],
+   [
+    169.95,
+    "Nolan",
+    "Nollan"
+   ],
+   [
+    184.23,
+    "Nolan",
+    "Nollan"
+   ],
+   [
+    216.13,
+    "then",
+    "than"
+   ],
+   [
+    223.15,
+    "Nolan",
+    "Nollan"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 601,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the Court in two cases this morning. The first case"
+   ],
+   [
+    10.14,
+    "JUSTICE ALITO",
+    "is Kunz v. St. Johns River Water Management District number 11-1447. This case involves two of our important land use precedents, Nolan v. California Coastal Commission and Dolan v. City of Tigard. Those cases held that a unit of local government may demand property as a condition of its approval of a land use permit only if the demand has a nexus with and is roughly proportional to the public arms that the proposed land use would cause. Those cases thus serve to place at least some limits on the ability of local authorities to abuse their power. In this case, Petitioner Coy Kuntz applied to the St. Johns River Water Management District for a permit to build on land he owned east of Orlando, Florida. The district denied the application, telling Mr. Kuntz that it would approve the application only if he agreed to pay for improvements to State-owned property several miles away. Mr. Kuntz refused and instead sued in State court, alleging that the district's demand ran afoul of our decisions in Nolan and Dolan. The trial court applied those precedents and ruled for Mr. Kuntz, but the Florida Supreme Court reversed finding Nolan and Dolan distinguishable on two grounds. Today we reject both of those rationales and therefore reverse. First, the Florida Supreme Court thought that it made a difference whether a local authority says your permit is granted on the condition that you give us your property, as opposed to saying your permit is denied because you refuse to give us your property. We hold that Nolan and Dolan cannot be so easily circumvented. They are special applications of the unconstitutional conditions doctrine, which forbids the government from coercing someone into giving up a constitutional right. We have repeatedly held that this doctrine applies with equal force regardless of whether the government phrases its demand as a condition precedent or a condition subsequent to obtaining a governmental benefit. Under that well-settled principle, Nolan and Dolan apply regardless of whether permitting officials use the words only if or not unless. Second, and for similar reasons, we hold that the State Supreme Court should have applied Nolan and Dolan even though Respondent's demand was for money rather than a tangible interest in real property. Demands for money in the land"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the Court in two cases this morning. The first case"
+   ],
+   [
+    10.14,
+    "JUSTICE ALITO",
+    "is Kunz v. St. Johns River Water Management District number 11-1447. This case involves two of our important land use precedents, Nolan v. California Coastal Commission and Dolan v. City of Tigard. Those cases held that a unit of local government may demand property as a condition of its approval of a land use permit only if the demand has a nexus with and is roughly proportional to the public arms that the proposed land use would cause. Those cases thus serve to place at least some limits on the ability of local authorities to abuse their power. In this case, Petitioner Coy Kuntz applied to the St. Johns River Water Management District for a permit to build on land he owned east of Orlando, Florida. The district denied the application, telling Mr. Kuntz that it would approve the application only if he agreed to pay for improvements to State-owned property several miles away. Mr. Kuntz refused and instead sued in State court, alleging that the district's demand ran afoul of our decisions in Nolan and Dolan. The trial court applied those precedents and ruled for Mr. Kuntz, but the Florida Supreme Court reversed finding Nolan and Dolan distinguishable on two grounds. Today we reject both of those rationales and therefore reverse. First, the Florida Supreme Court thought that it made a difference whether a local authority says your permit is granted on the condition that you give us your property, as opposed to saying your permit is denied because you refuse to give us your property. We hold that Nolan and Dolan cannot be so easily circumvented. They are special applications of the unconstitutional conditions doctrine, which forbids the government from coercing someone into giving up a constitutional right. We have repeatedly held that this doctrine applies with equal force regardless of whether the government phrases its demand as a condition precedent or a condition subsequent to obtaining a governmental benefit. Under that well-settled principle, Nolan and Dolan apply regardless of whether permitting officials use the words only if or not unless. Second, and for similar reasons, we hold that the State Supreme Court should have applied Nolan and Dolan even though Respondent's demand was for money rather than a tangible interest in real property. Demands for money in the land use permitting context implicate the central concern of Nolan and Dolan, that the government may abuse its broad discretion to regulate land use to extort property that the Takings Clause would otherwise require it to pay for. As a practical matter, there is not much difference between a demand that a land owner give up a certain portion of its property and a demand that the land owner pay the value of the property in question, which, of course, would allow the land use authority then to turn around if it has the eminent domain power, condemn the land, and acquire the land in that way. Again, Nolan and Dolan cannot be so easily circumvented. Despite Respondent's argument to the contrary, this case does not implicate Eastern Enterprises v. Apfel, in which five justices took the position that a governmental demand for money from an unspecified source cannot give rise to a Taking. Unlike the demand at issue in that case, here the district's demand burdened the ownership of a specific parcel of real property. The judgment of the Florida Supreme Court is reversed. Justice Kagan has filed a dissenting opinion in which Justices Ginsburg, Breyer, and Sotomayor have joined."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Alito has the opinion of the Court in two cases this morning."
+   ],
+   [
+    9.4,
+    "CHIEF JUSTICE ROBERTS",
+    "The first case is Kunz v. St. Johns River Water Management District number 11-1447."
+   ],
+   [
+    18.2,
+    "JUSTICE ALITO",
+    "This case involves two of our important land use precedents, Nolan v. California Coastal Commission and Dolan v. City of Tigard."
+   ],
+   [
+    27.96,
+    "JUSTICE ALITO",
+    "Those cases held that a unit of local government may demand property as a condition of its approval of a land use permit only if the demand has a nexus with and is roughly proportional to the public arms that the proposed land use would cause."
+   ],
+   [
+    46.26,
+    "JUSTICE ALITO",
+    "Those cases thus serve to place at least some limits on the ability of local authorities to abuse their power."
+   ],
+   [
+    53.76,
+    "JUSTICE ALITO",
+    "In this case, Petitioner Coy Kuntz applied to the St. Johns River Water Management District for a permit to build on land he owned east of Orlando, Florida."
+   ],
+   [
+    65.82,
+    "JUSTICE ALITO",
+    "The district denied the application, telling Mr. Kuntz that it would approve the application only if he agreed to pay for improvements to State-owned property several miles away."
+   ],
+   [
+    76.76,
+    "JUSTICE ALITO",
+    "Mr. Kuntz refused and instead sued in State court, alleging that the district's demand ran afoul of our decisions in Nolan and Dolan."
+   ],
+   [
+    86.86,
+    "JUSTICE ALITO",
+    "The trial court applied those precedents and ruled for Mr. Kuntz, but the Florida Supreme Court reversed finding Nolan and Dolan distinguishable on two grounds."
+   ],
+   [
+    98.72,
+    "JUSTICE ALITO",
+    "Today we reject both of those rationales and therefore reverse."
+   ],
+   [
+    103.9,
+    "JUSTICE ALITO",
+    "First, the Florida Supreme Court thought that it made a difference whether a local authority says your permit is granted on the condition that you give us your property, as opposed to saying your permit is denied because you refuse to give us your property."
+   ],
+   [
+    123.49,
+    "JUSTICE ALITO",
+    "We hold that Nolan and Dolan cannot be so easily circumvented."
+   ],
+   [
+    128.85,
+    "JUSTICE ALITO",
+    "They are special applications of the unconstitutional conditions doctrine, which forbids the government from coercing someone into giving up a constitutional right."
+   ],
+   [
+    138.79,
+    "JUSTICE ALITO",
+    "We have repeatedly held that this doctrine applies with equal force regardless of whether the government phrases its demand as a condition precedent or a condition subsequent to obtaining a governmental benefit."
+   ],
+   [
+    153.73,
+    "JUSTICE ALITO",
+    "Under that well-settled principle, Nolan and Dolan apply regardless of whether permitting officials use the words only if or not unless."
+   ],
+   [
+    163.57,
+    "JUSTICE ALITO",
+    "Second, and for similar reasons, we hold that the State Supreme Court should have applied Nolan and Dolan even though Respondent's demand was for money rather than a tangible interest in real property."
+   ],
+   [
+    178.45,
+    "JUSTICE ALITO",
+    "Demands for money in the land use permitting context implicate the central concern of Nolan and Dolan, that the government may abuse its broad discretion to regulate land use to extort property that the Takings Clause would otherwise require it to pay for."
+   ],
+   [
+    195.99,
+    "JUSTICE ALITO",
+    "As a practical matter, there is not much difference between a demand that a land owner give up a certain portion of its property and a demand that the land owner pay the value of the property in question, which, of course, would allow the land use authority then to turn around if it has the eminent domain power, condemn the land, and acquire the land in that way."
+   ],
+   [
+    222.51,
+    "JUSTICE ALITO",
+    "Again, Nolan and Dolan cannot be so easily circumvented."
+   ],
+   [
+    227.07,
+    "JUSTICE ALITO",
+    "Despite Respondent's argument to the contrary, this case does not implicate Eastern Enterprises v. Apfel, in which five justices took the position that a governmental demand for money from an unspecified source cannot give rise to a Taking."
+   ],
+   [
+    242.15,
+    "JUSTICE ALITO",
+    "Unlike the demand at issue in that case, here the district's demand burdened the ownership of a specific parcel of real property."
+   ],
+   [
+    251.47,
+    "JUSTICE ALITO",
+    "The judgment of the Florida Supreme Court is reversed."
+   ],
+   [
+    254.29,
+    "JUSTICE ALITO",
+    "Justice Kagan has filed a dissenting opinion in which Justices Ginsburg, Breyer, and Sotomayor have joined."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    10.14,
+    16
+   ],
+   [
+    "JUSTICE ALITO",
+    10.14,
+    261.67,
+    582
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "11-1447",
+ "year": "2012",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2012/11-1447",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/11-1447.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2012/11-1447.pdf",
+ "model": "medium.en",
+ "duration": 3816.724898,
+ "asr_elapsed_s": 898.6,
+ "asr_words": 3332,
+ "official_words": 3409,
+ "matched": 3116,
+ "shared": 1,
+ "clamped": 0,
+ "trimmed": 12,
+ "rewindowed": 2,
+ "match_rate": 91.4051041361103,
+ "turns": 92,
+ "laugh_markers": 1,
+ "mp3_bytes": 30534052,
+ "pauses": 150,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 125,
+  "match_rate": {
+   "ok": true,
+   "detail": "91.41% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-22"
+}
