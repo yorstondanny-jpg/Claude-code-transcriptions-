@@ -1,0 +1,469 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 2024.002,
+   "next": 2024.002,
+   "speaker": "JUSTICE BREYER",
+   "before": "area which has very few trees. And we also know that this is a logging company, and so probably they have lots of trees. They like trees, not forever, but --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -50.3,
+ "opening_start": 1314.602,
+ "opening": [
+  [
+   1314.602,
+   "JUSTICE GORSUCH",
+   "for now that I would agree with you and that we could review this. What more would you expect the Secretary to say, or could say, given the state of scientific evidence before the Secretary? That's not clear to me. The Secretary says there's -- there's just not any evidence of the benefits of exclusion that I -- that I can put a number on. And isn't -- isn't the way the statute written put some burden of proof incumbent upon the landowner or lessee to come forward with something quantifying the benefits of exclusion?"
+  ],
+  [
+   1347.902,
+   "MR. BISHOP",
+   "Right. Well, certainly, it's permissible for the agency to rely -- to characterize the benefits of inclusion as being biological, which is something that can be described but not quantified. But, on the other side of that ledger, the agency has to meet State Farm standards in identifying what the factors --"
+  ],
+  [
+   1369.577,
+   "JUSTICE GORSUCH",
+   "And what -- what -- on that, my question is, what more would you ask the Secretary to do? The Secretary did quantify the economic benefits exclusion and then said, compared to the benefits of inclusion, they're indeterminate. And, therefore, the burden of proving exclusion has not been met. And that burden, it seems to me, rests with you. So suppose I -- there's some judicial review possible here. Do we need to get into how many angels dance on the head of that pin if you -- if you've got no real complaint at the end of the day with the adequacy of the Secretary's --"
+  ],
+  [
+   1402.642,
+   "MR. BISHOP",
+   "Well, we do --"
+  ],
+  [
+   1402.682,
+   "JUSTICE GORSUCH",
+   "-- reasoning?"
+  ],
+  [
+   1402.682,
+   "MR. BISHOP",
+   "-- we do have that complaint. And, certainly, a remand would -- would allow us to explore that. But here, under State Farm, the inputs --"
+  ],
+  [
+   1409.642,
+   "JUSTICE GORSUCH",
+   "Well, could you explain that to me?"
+  ],
+  [
+   1410.922,
+   "MR. BISHOP",
+   "Yes, the inputs into the decision have to be fair and reasonable and the connection between those inputs and the ultimate decision have to be. Let -- let me give an -- an example of a very basic error that -- an example of an internal inconsistency. So the -- the Service refused to factor in the loss of Unit 1 to housing and to St. Tammany's tax base, and it did that because it found that Unit 1 is only 0.5 percent of developable land in the parish. There's a big problem with that. It included as developable land everything under -- south of Interstate 12, which is not developable because it flooded in Hurricane Katrina, everyone from that area is moving up to -- to us, to the higher ground. It said, in addition, it acknowledged that Unit 1 is particularly attractive for development because Highway 36 runs through it. It's an attractive area for development because it's connected to centers of -- where jobs -- where the jobs are. And yet -- so we have a Unit 1 that is already zoned, it's outside the flood zone, and it's well served by roads connecting it to jobs, but the Service treated every undeveloped area in the parish as fungible and said this just isn't an important development area, even though St. Tammany, as its brief explains in this case, says no, it's a very important development area. The -- that is what you get"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2018/17-71",
+  "page_url": "https://www.oyez.org/cases/2018/17-71",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - November 27, 2018",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24897",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2018/17-71/17-71_20181127-opinion.delivery.mp3",
+  "duration": 473.965714,
+  "mp3_bytes": 1925741,
+  "asr_elapsed_s": 285.1,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   1126,
+   1145,
+   1135
+  ],
+  "diffs": [
+   [
+    9.76,
+    "reina civosa",
+    "Rana sevosa"
+   ],
+   [
+    15.48,
+    "of",
+    ""
+   ],
+   [
+    20.6,
+    "3",
+    "three"
+   ],
+   [
+    35.88,
+    "forests",
+    "forest"
+   ],
+   [
+    49.16,
+    "habitat",
+    "habitats"
+   ],
+   [
+    77.02,
+    "unquote,",
+    ""
+   ],
+   [
+    94.18,
+    "end quote.",
+    ""
+   ],
+   [
+    174.92,
+    "that",
+    "their"
+   ],
+   [
+    349.76,
+    "with that",
+    "without"
+   ],
+   [
+    388.9,
+    "the",
+    ""
+   ],
+   [
+    468.56,
+    "Kavanaugh",
+    "Kavanagh"
+   ]
+  ],
+  "dropped": [
+   [
+    39.46,
+    39.84,
+    "percent"
+   ],
+   [
+    58.32,
+    58.42,
+    ",000 hundred"
+   ]
+  ],
+  "redone": [],
+  "words": 1145,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court today in Case 17-71, Weyerhaeuser v. The United States Fish and Wildlife Service. The amphibian reina civosa is popularly known as the dusky gopher frog, dusky because of its dark coloring and gopher because it lives underground. The frog is about 3 inches long with a large head and plump body. It is noted for covering its eyes with its front legs when it feels threatened, peeking out periodically until danger passes. The dusky gopher frog is native to the open canopy pine forests that used to cover the southeast, but more than 98 of those forests have been removed to make way for urban development, agriculture, and commercial timber farming. The near eradication of the frog's habitat sent the species into severe decline. By 2001, the frog's known wild population had dwindled to a group of 100 frogs at a single pond in southern Mississippi. That same year, the Fish and Wildlife Service listed the dusky gopher frog as an endangered species. Now, whenever the Service lists a new endangered species, it must also designate certain areas as, quote, critical habitat, unquote, for the species. The Endangered Species Act defines critical habitat to include certain areas where the species lives, as well as unoccupied areas that the Service determines to be, quote, essential for the conservation of the species, end quote. Now, after the Service designates land as critical habitat, all agencies of the Federal Government must check with the Service before approving any development that might harm the area. The Service's critical habitat designation for the dusky gopher frog included a timber plantation operated by the petitioner, Weyerhaeuser Company, where the frog had once lived. No frogs had been seen in the area for decades, but the site, dubbed Unit 1 by the Service, still possessed several of the rare ephemeral ponds where the frogs breed. The Service acknowledged that the closed forest canopy created by the close proximity of the timber trees was not hospitable to the frog, but determined that Unit 1 satisfied the statutory definition of unoccupied critical habitat because its rare breeding ponds made it essential for the conservation of the species. Weyerhaeuser and the other owners of Unit 1 challenged the designation in Federal court. Weyerhaeuser argued that Unit 1 cannot be critical habitat for the dusky gopher frog because it is not habitat. The frog cannot survive in the closed canopy plantation in its present state. The court of appeals rejected that position, holding that any land which the Service considers essential for the conservation of the species"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court today in Case 17-71, Weyerhaeuser v. The United States Fish and Wildlife Service. The amphibian reina civosa is popularly known as the dusky gopher frog, dusky because of its dark coloring and gopher because it lives underground. The frog is about 3 inches long with a large head and plump body. It is noted for covering its eyes with its front legs when it feels threatened, peeking out periodically until danger passes. The dusky gopher frog is native to the open canopy pine forests that used to cover the southeast, but more than 98 of those forests have been removed to make way for urban development, agriculture, and commercial timber farming. The near eradication of the frog's habitat sent the species into severe decline. By 2001, the frog's known wild population had dwindled to a group of 100 frogs at a single pond in southern Mississippi. That same year, the Fish and Wildlife Service listed the dusky gopher frog as an endangered species. Now, whenever the Service lists a new endangered species, it must also designate certain areas as, quote, critical habitat, unquote, for the species. The Endangered Species Act defines critical habitat to include certain areas where the species lives, as well as unoccupied areas that the Service determines to be, quote, essential for the conservation of the species, end quote. Now, after the Service designates land as critical habitat, all agencies of the Federal Government must check with the Service before approving any development that might harm the area. The Service's critical habitat designation for the dusky gopher frog included a timber plantation operated by the petitioner, Weyerhaeuser Company, where the frog had once lived. No frogs had been seen in the area for decades, but the site, dubbed Unit 1 by the Service, still possessed several of the rare ephemeral ponds where the frogs breed. The Service acknowledged that the closed forest canopy created by the close proximity of the timber trees was not hospitable to the frog, but determined that Unit 1 satisfied the statutory definition of unoccupied critical habitat because its rare breeding ponds made it essential for the conservation of the species. Weyerhaeuser and the other owners of Unit 1 challenged the designation in Federal court. Weyerhaeuser argued that Unit 1 cannot be critical habitat for the dusky gopher frog because it is not habitat. The frog cannot survive in the closed canopy plantation in its present state. The court of appeals rejected that position, holding that any land which the Service considers essential for the conservation of the species meets the statutory definition of critical habitat, even if it is not actually habitable by the frogs at the time. We disagree. According to the ordinary understanding of how adjectives work, critical habitat must also be habitat. Adjectives modify nouns. They pick out a subset of a category that possesses a certain quality. It follows that critical habitat is the subset of habitat that is critical to the conservation of an endangered species. Now, that conclusion is confirmed by the provision of the Endangered Species Act that authorizes critical habitat designations. It states that the Service shall, quote, designate any habitat of such species which is then considered to be critical habitat. The provision makes plain that only habitat of the endangered species is eligible for designation as critical habitat. Now, because the court of appeals concluded that critical habitat need not be habitat, it had no occasion to interpret the term habitat or to decide whether Unit 1 qualifies. We remand the case so that the court of appeals may address that issue in the first instance. Weyerhaeuser also argues that even if Unit 1 is habitat for the dusky gopher frog, the Service should have excluded Unit 1 from its designation in light of the costs imposed on the landowners. Now, before designating any area as critical habitat, the Service must, under the statute, take into consideration the economic and other relevant impacts of designation. If the Service concludes that those impacts outweigh the conservation benefits of designation, the statute authorizes the Service to exclude the area from critical habitat. The Service commissioned a report to analyze the costs of designating Unit 1 as critical habitat. The report found that designation might bar future development of Unit 1, depriving the owners of up to $34 million, but the Service concluded that those costs were not disproportionate to the conservation benefits of designation, and consequently declined to exclude Unit 1 from the critical habitat of the dusky gopher frog. Now, Weyerhaeuser contends that the Service made several errors when it tallied up the relative benefits of designating or excluding Unit 1, and that the resulting decision not to exclude Unit 1 should, therefore, be set aside. The court of appeals did not consider Weyerhaeuser's claim because it concluded that decisions not to exclude an area from critical habitat are completely committed to the Service's discretion and are, therefore, unreviewable in court. We disagree with that ruling as well. We have long applied a presumption in favor of judicial review of agency action. That presumption can be rebutted when a statute confers such absolute discretion on an agency that a court would have no standard to apply in reviewing its decisions. But the Endangered Species Act does provide factors to guide the Service's exclusion decisions. It requires the Service to take into consideration economic and other impacts before designation and authorizes the Service to act on that consideration by excluding certain areas from critical habitat. Now, the Service contends that its discretion is unbounded because the statute provides that it may exclude any area from critical habitat if it determines that the benefits of such exclusion outweigh the benefits of designation. The word may certainly confers discretion on the Service, but it does not separate out the Service's discretionary decision not to exclude from the mandatory requirement to consider the economic and other impacts of designation when making exclusion decisions. Federal courts are certainly capable of ensuring that the Service complies with that procedure. Weyerhaeuser's claim that the agency did not appropriately consider all of the relevant statutory factors meant to guide the agency in the exercise of its discretion is the sort of claim that Federal courts routinely assess when reviewing agency action. We remand to the court of appeals to consider in the first instance whether the Service's assessment of the relative benefits of designation and exclusion was so flawed that the resulting decision not to exclude Unit 1 should be set aside as arbitrary, capricious, or an abuse of discretion. The judgment of the court of appeals is vacated and the case is remanded for further proceedings consistent with this opinion. Our decision is unanimous. Justice Kavanaugh took no part in the consideration or decision of this case."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "I have the opinion of the Court today in Case 17-71, Weyerhaeuser v. The United States Fish and Wildlife Service."
+   ],
+   [
+    8.64,
+    "CHIEF JUSTICE ROBERTS",
+    "The amphibian reina civosa is popularly known as the dusky gopher frog, dusky because of its dark coloring and gopher because it lives underground."
+   ],
+   [
+    19.78,
+    "CHIEF JUSTICE ROBERTS",
+    "The frog is about 3 inches long with a large head and plump body."
+   ],
+   [
+    24.4,
+    "CHIEF JUSTICE ROBERTS",
+    "It is noted for covering its eyes with its front legs when it feels threatened, peeking out periodically until danger passes."
+   ],
+   [
+    32.56,
+    "CHIEF JUSTICE ROBERTS",
+    "The dusky gopher frog is native to the open canopy pine forests that used to cover the southeast, but more than 98 of those forests have been removed to make way for urban development, agriculture, and commercial timber farming."
+   ],
+   [
+    47.3,
+    "CHIEF JUSTICE ROBERTS",
+    "The near eradication of the frog's habitat sent the species into severe decline."
+   ],
+   [
+    53.0,
+    "CHIEF JUSTICE ROBERTS",
+    "By 2001, the frog's known wild population had dwindled to a group of 100 frogs at a single pond in southern Mississippi."
+   ],
+   [
+    61.82,
+    "CHIEF JUSTICE ROBERTS",
+    "That same year, the Fish and Wildlife Service listed the dusky gopher frog as an endangered species."
+   ],
+   [
+    69.22,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, whenever the Service lists a new endangered species, it must also designate certain areas as, quote, critical habitat, unquote, for the species."
+   ],
+   [
+    79.8,
+    "CHIEF JUSTICE ROBERTS",
+    "The Endangered Species Act defines critical habitat to include certain areas where the species lives, as well as unoccupied areas that the Service determines to be, quote, essential for the conservation of the species, end quote."
+   ],
+   [
+    95.48,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, after the Service designates land as critical habitat, all agencies of the Federal Government must check with the Service before approving any development that might harm the area."
+   ],
+   [
+    107.86,
+    "CHIEF JUSTICE ROBERTS",
+    "The Service's critical habitat designation for the dusky gopher frog included a timber plantation operated by the petitioner, Weyerhaeuser Company, where the frog had once lived."
+   ],
+   [
+    119.9,
+    "CHIEF JUSTICE ROBERTS",
+    "No frogs had been seen in the area for decades, but the site, dubbed Unit 1 by the Service, still possessed several of the rare ephemeral ponds where the frogs breed."
+   ],
+   [
+    131.66,
+    "CHIEF JUSTICE ROBERTS",
+    "The Service acknowledged that the closed forest canopy created by the close proximity of the timber trees was not hospitable to the frog, but determined that Unit 1 satisfied the statutory definition of unoccupied critical habitat because its rare breeding ponds made it essential for the conservation of the species."
+   ],
+   [
+    154.6,
+    "CHIEF JUSTICE ROBERTS",
+    "Weyerhaeuser and the other owners of Unit 1 challenged the designation in Federal court."
+   ],
+   [
+    160.02,
+    "CHIEF JUSTICE ROBERTS",
+    "Weyerhaeuser argued that Unit 1 cannot be critical habitat for the dusky gopher frog because it is not habitat."
+   ],
+   [
+    166.5,
+    "CHIEF JUSTICE ROBERTS",
+    "The frog cannot survive in the closed canopy plantation in its present state."
+   ],
+   [
+    173.64,
+    "CHIEF JUSTICE ROBERTS",
+    "The court of appeals rejected that position, holding that any land which the Service considers essential for the conservation of the species meets the statutory definition of critical habitat, even if it is not actually habitable by the frogs at the time."
+   ],
+   [
+    189.84,
+    "CHIEF JUSTICE ROBERTS",
+    "We disagree."
+   ],
+   [
+    191.64,
+    "CHIEF JUSTICE ROBERTS",
+    "According to the ordinary understanding of how adjectives work, critical habitat must also be habitat."
+   ],
+   [
+    198.14,
+    "CHIEF JUSTICE ROBERTS",
+    "Adjectives modify nouns."
+   ],
+   [
+    199.84,
+    "CHIEF JUSTICE ROBERTS",
+    "They pick out a subset of a category that possesses a certain quality."
+   ],
+   [
+    203.66,
+    "CHIEF JUSTICE ROBERTS",
+    "It follows that critical habitat is the subset of habitat that is critical to the conservation of an endangered species."
+   ],
+   [
+    211.96,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, that conclusion is confirmed by the provision of the Endangered Species Act that authorizes critical habitat designations."
+   ],
+   [
+    220.32,
+    "CHIEF JUSTICE ROBERTS",
+    "It states that the Service shall, quote, designate any habitat of such species which is then considered to be critical habitat."
+   ],
+   [
+    229.68,
+    "CHIEF JUSTICE ROBERTS",
+    "The provision makes plain that only habitat of the endangered species is eligible for designation as critical habitat."
+   ],
+   [
+    237.62,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, because the court of appeals concluded that critical habitat need not be habitat, it had no occasion to interpret the term habitat or to decide whether Unit 1 qualifies."
+   ],
+   [
+    249.58,
+    "CHIEF JUSTICE ROBERTS",
+    "We remand the case so that the court of appeals may address that issue in the first instance."
+   ],
+   [
+    255.46,
+    "CHIEF JUSTICE ROBERTS",
+    "Weyerhaeuser also argues that even if Unit 1 is habitat for the dusky gopher frog, the Service should have excluded Unit 1 from its designation in light of the costs imposed on the landowners."
+   ],
+   [
+    269.06,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, before designating any area as critical habitat, the Service must, under the statute, take into consideration the economic and other relevant impacts of designation."
+   ],
+   [
+    279.58,
+    "CHIEF JUSTICE ROBERTS",
+    "If the Service concludes that those impacts outweigh the conservation benefits of designation, the statute authorizes the Service to exclude the area from critical habitat."
+   ],
+   [
+    292.06,
+    "CHIEF JUSTICE ROBERTS",
+    "The Service commissioned a report to analyze the costs of designating Unit 1 as critical habitat."
+   ],
+   [
+    298.58,
+    "CHIEF JUSTICE ROBERTS",
+    "The report found that designation might bar future development of Unit 1, depriving the owners of up to $34 million, but the Service concluded that those costs were not disproportionate to the conservation benefits of designation, and consequently declined to exclude Unit 1 from the critical habitat of the dusky gopher frog."
+   ],
+   [
+    320.56,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, Weyerhaeuser contends that the Service made several errors when it tallied up the relative benefits of designating or excluding Unit 1, and that the resulting decision not to exclude Unit 1 should, therefore, be set aside."
+   ],
+   [
+    333.96,
+    "CHIEF JUSTICE ROBERTS",
+    "The court of appeals did not consider Weyerhaeuser's claim because it concluded that decisions not to exclude an area from critical habitat are completely committed to the Service's discretion and are, therefore, unreviewable in court."
+   ],
+   [
+    348.64,
+    "CHIEF JUSTICE ROBERTS",
+    "We disagree with that ruling as well."
+   ],
+   [
+    351.38,
+    "CHIEF JUSTICE ROBERTS",
+    "We have long applied a presumption in favor of judicial review of agency action."
+   ],
+   [
+    356.68,
+    "CHIEF JUSTICE ROBERTS",
+    "That presumption can be rebutted when a statute confers such absolute discretion on an agency that a court would have no standard to apply in reviewing its decisions."
+   ],
+   [
+    367.78,
+    "CHIEF JUSTICE ROBERTS",
+    "But the Endangered Species Act does provide factors to guide the Service's exclusion decisions."
+   ],
+   [
+    375.16,
+    "CHIEF JUSTICE ROBERTS",
+    "It requires the Service to take into consideration economic and other impacts before designation and authorizes the Service to act on that consideration by excluding certain areas from critical habitat."
+   ],
+   [
+    388.74,
+    "CHIEF JUSTICE ROBERTS",
+    "Now, the Service contends that its discretion is unbounded because the statute provides that it may exclude any area from critical habitat if it determines that the benefits of such exclusion outweigh the benefits of designation."
+   ],
+   [
+    401.82,
+    "CHIEF JUSTICE ROBERTS",
+    "The word may certainly confers discretion on the Service, but it does not separate out the Service's discretionary decision not to exclude from the mandatory requirement to consider the economic and other impacts of designation when making exclusion decisions."
+   ],
+   [
+    419.32,
+    "CHIEF JUSTICE ROBERTS",
+    "Federal courts are certainly capable of ensuring that the Service complies with that procedure."
+   ],
+   [
+    425.62,
+    "CHIEF JUSTICE ROBERTS",
+    "Weyerhaeuser's claim that the agency did not appropriately consider all of the relevant statutory factors meant to guide the agency in the exercise of its discretion is the sort of claim that Federal courts routinely assess when reviewing agency action."
+   ],
+   [
+    440.74,
+    "CHIEF JUSTICE ROBERTS",
+    "We remand to the court of appeals to consider in the first instance whether the Service's assessment of the relative benefits of designation and exclusion was so flawed that the resulting decision not to exclude Unit 1 should be set aside as arbitrary, capricious, or an abuse of discretion."
+   ],
+   [
+    459.04,
+    "CHIEF JUSTICE ROBERTS",
+    "The judgment of the court of appeals is vacated and the case is remanded for further proceedings consistent with this opinion."
+   ],
+   [
+    466.28,
+    "CHIEF JUSTICE ROBERTS",
+    "Our decision is unanimous."
+   ],
+   [
+    468.26,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kavanaugh took no part in the consideration or decision of this case."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    472.9,
+    1144
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "17-71",
+ "year": "2018",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2018/17-71",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/17-71.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2018/17-71_b97c.pdf",
+ "model": "medium.en",
+ "duration": 3691.56,
+ "asr_elapsed_s": 910.1,
+ "asr_words": 3750,
+ "official_words": 4011,
+ "matched": 3676,
+ "shared": 4,
+ "clamped": 0,
+ "trimmed": 12,
+ "rewindowed": 0,
+ "match_rate": 91.64796808775867,
+ "turns": 108,
+ "laugh_markers": 1,
+ "mp3_bytes": 29532717,
+ "pauses": 137,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 235,
+  "match_rate": {
+   "ok": true,
+   "detail": "91.65% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-23"
+}
