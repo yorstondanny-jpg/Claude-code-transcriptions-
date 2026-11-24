@@ -1,0 +1,4358 @@
+[
+ {
+  "w": "I",
+  "s": 0.0,
+  "e": 0.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "have",
+  "s": 0.36,
+  "e": 0.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 0.54,
+  "e": 0.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "opinion",
+  "s": 0.68,
+  "e": 0.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 0.94,
+  "e": 1.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 1.1,
+  "e": 1.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Court",
+  "s": 1.26,
+  "e": 1.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "this",
+  "s": 1.36,
+  "e": 1.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "morning",
+  "s": 1.6,
+  "e": 1.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 1.88,
+  "e": 2.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Case",
+  "s": 2.16,
+  "e": 2.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "12",
+  "s": 2.34,
+  "e": 2.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "-1173,",
+  "s": 2.84,
+  "e": 3.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Marvin",
+  "s": 4.42,
+  "e": 4.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "M.",
+  "s": 4.88,
+  "e": 5.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Brant",
+  "s": 5.28,
+  "e": 5.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Revocable",
+  "s": 5.5,
+  "e": 6.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Trust",
+  "s": 6.38,
+  "e": 6.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "v.",
+  "s": 6.74,
+  "e": 7.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "The",
+  "s": 7.32,
+  "e": 7.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "United",
+  "s": 7.44,
+  "e": 7.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "States.",
+  "s": 7.7,
+  "e": 8.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "This",
+  "s": 9.04,
+  "e": 9.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "case",
+  "s": 9.6,
+  "e": 9.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "has",
+  "s": 9.86,
+  "e": 10.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "its",
+  "s": 10.12,
+  "e": 10.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "roots",
+  "s": 10.28,
+  "e": 10.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 10.54,
+  "e": 10.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "America's",
+  "s": 10.76,
+  "e": 11.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "westward",
+  "s": 11.4,
+  "e": 11.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "expansion",
+  "s": 11.76,
+  "e": 12.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 12.34,
+  "e": 12.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 12.72,
+  "e": 12.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "early",
+  "s": 12.92,
+  "e": 13.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 13.22,
+  "e": 13.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "mid",
+  "s": 13.5,
+  "e": 13.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "-19th",
+  "s": 13.72,
+  "e": 14.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "century.",
+  "s": 14.32,
+  "e": 14.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "It",
+  "s": 15.12,
+  "e": 15.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 15.52,
+  "e": 15.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "during",
+  "s": 15.66,
+  "e": 15.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 15.88,
+  "e": 16.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "period",
+  "s": 16.1,
+  "e": 16.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 16.54,
+  "e": 16.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 16.78,
+  "e": 17.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "lands",
+  "s": 17.74,
+  "e": 18.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "from",
+  "s": 18.26,
+  "e": 18.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 18.66,
+  "e": 18.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Mississippi",
+  "s": 18.86,
+  "e": 19.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "River",
+  "s": 19.3,
+  "e": 19.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 19.6,
+  "e": 19.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 19.84,
+  "e": 20.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Pacific",
+  "s": 20.0,
+  "e": 20.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Ocean",
+  "s": 20.46,
+  "e": 20.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "were",
+  "s": 20.82,
+  "e": 21.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "acquired,",
+  "s": 21.16,
+  "e": 21.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "filling",
+  "s": 22.36,
+  "e": 22.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "out",
+  "s": 22.66,
+  "e": 22.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "what",
+  "s": 22.9,
+  "e": 23.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "is",
+  "s": 23.08,
+  "e": 23.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "now",
+  "s": 23.24,
+  "e": 23.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 23.46,
+  "e": 23.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "contiguous",
+  "s": 23.62,
+  "e": 24.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "United",
+  "s": 24.14,
+  "e": 24.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "States.",
+  "s": 24.58,
+  "e": 25.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Now,",
+  "s": 25.54,
+  "e": 25.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "once",
+  "s": 25.72,
+  "e": 25.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 25.88,
+  "e": 26.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 26.08,
+  "e": 26.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "done,",
+  "s": 26.28,
+  "e": 26.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 27.12,
+  "e": 27.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "challenge",
+  "s": 27.3,
+  "e": 27.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 27.62,
+  "e": 27.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 27.82,
+  "e": 27.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "young",
+  "s": 27.94,
+  "e": 28.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "country",
+  "s": 28.1,
+  "e": 28.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 28.48,
+  "e": 28.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "how",
+  "s": 28.66,
+  "e": 28.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 28.84,
+  "e": 29.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "develop",
+  "s": 29.0,
+  "e": 29.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 29.4,
+  "e": 29.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "settle",
+  "s": 29.58,
+  "e": 29.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 29.96,
+  "e": 30.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "vast",
+  "s": 30.28,
+  "e": 30.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "expanse.",
+  "s": 30.72,
+  "e": 31.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Railroads",
+  "s": 32.66,
+  "e": 33.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "were",
+  "s": 33.06,
+  "e": 33.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 33.28,
+  "e": 33.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "key",
+  "s": 33.44,
+  "e": 33.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "part",
+  "s": 33.58,
+  "e": 33.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 33.82,
+  "e": 33.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 33.94,
+  "e": 34.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "answer.",
+  "s": 34.08,
+  "e": 34.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "To",
+  "s": 35.0,
+  "e": 35.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "encourage",
+  "s": 35.18,
+  "e": 35.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "their",
+  "s": 35.58,
+  "e": 35.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "construction,",
+  "s": 35.8,
+  "e": 36.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Congress",
+  "s": 36.64,
+  "e": 36.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "granted",
+  "s": 36.9,
+  "e": 37.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "railroad",
+  "s": 37.32,
+  "e": 37.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "companies",
+  "s": 37.82,
+  "e": 38.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 38.34,
+  "e": 38.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 38.68,
+  "e": 38.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 38.82,
+  "e": 39.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way",
+  "s": 39.0,
+  "e": 39.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "over",
+  "s": 39.4,
+  "e": 40.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "public",
+  "s": 40.1,
+  "e": 40.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "lands,",
+  "s": 40.5,
+  "e": 40.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "which",
+  "s": 41.16,
+  "e": 41.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "is",
+  "s": 41.3,
+  "e": 41.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "what",
+  "s": 41.44,
+  "e": 41.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "most",
+  "s": 41.6,
+  "e": 41.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 41.8,
+  "e": 41.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 41.98,
+  "e": 42.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land",
+  "s": 42.1,
+  "e": 42.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 42.3,
+  "e": 42.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "at",
+  "s": 42.62,
+  "e": 42.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 42.8,
+  "e": 42.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "time.",
+  "s": 42.92,
+  "e": 43.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Congress",
+  "s": 44.18,
+  "e": 44.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "also",
+  "s": 44.48,
+  "e": 44.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "gave",
+  "s": 44.9,
+  "e": 45.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 45.14,
+  "e": 45.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "railroads",
+  "s": 45.34,
+  "e": 45.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "an",
+  "s": 45.72,
+  "e": 45.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "enormous",
+  "s": 45.9,
+  "e": 46.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "amount",
+  "s": 46.38,
+  "e": 46.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 46.76,
+  "e": 47.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "public",
+  "s": 47.02,
+  "e": 47.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land",
+  "s": 47.32,
+  "e": 47.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "outright,",
+  "s": 47.66,
+  "e": 48.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "which",
+  "s": 48.34,
+  "e": 48.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "they",
+  "s": 48.94,
+  "e": 49.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "could",
+  "s": 49.12,
+  "e": 49.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "sell",
+  "s": 49.28,
+  "e": 49.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 49.58,
+  "e": 49.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "help",
+  "s": 49.82,
+  "e": 50.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "finance",
+  "s": 50.0,
+  "e": 50.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 50.46,
+  "e": 50.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "construction.",
+  "s": 50.7,
+  "e": 51.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "The",
+  "s": 52.86,
+  "e": 53.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "lands",
+  "s": 53.36,
+  "e": 53.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "over",
+  "s": 53.66,
+  "e": 53.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "which",
+  "s": 53.9,
+  "e": 54.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 54.08,
+  "e": 54.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "railroad",
+  "s": 54.32,
+  "e": 54.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "tracks",
+  "s": 54.66,
+  "e": 54.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "were",
+  "s": 54.98,
+  "e": 55.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "laid",
+  "s": 55.2,
+  "e": 55.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "were",
+  "s": 55.6,
+  "e": 55.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "eventually",
+  "s": 55.86,
+  "e": 56.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "granted",
+  "s": 56.26,
+  "e": 56.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 56.72,
+  "e": 56.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "homesteaders",
+  "s": 56.98,
+  "e": 57.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "or",
+  "s": 57.64,
+  "e": 57.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "sold",
+  "s": 57.78,
+  "e": 58.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 58.06,
+  "e": 58.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "others,",
+  "s": 58.24,
+  "e": 58.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "but",
+  "s": 59.12,
+  "e": 59.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "with",
+  "s": 59.58,
+  "e": 59.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 59.72,
+  "e": 59.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "railroads,",
+  "s": 59.9,
+  "e": 60.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 60.36,
+  "e": 60.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "course,",
+  "s": 60.56,
+  "e": 60.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "retaining",
+  "s": 60.86,
+  "e": 61.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "their",
+  "s": 61.22,
+  "e": 61.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "rights",
+  "s": 61.5,
+  "e": 61.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 61.7,
+  "e": 61.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way",
+  "s": 61.9,
+  "e": 62.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "over",
+  "s": 62.12,
+  "e": 62.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 62.44,
+  "e": 62.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land.",
+  "s": 62.68,
+  "e": 63.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Now,",
+  "s": 63.7,
+  "e": 64.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "this",
+  "s": 64.26,
+  "e": 64.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 64.42,
+  "e": 64.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "how",
+  "s": 64.6,
+  "e": 64.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "things",
+  "s": 64.78,
+  "e": 65.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "worked",
+  "s": 65.08,
+  "e": 65.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "not",
+  "s": 65.44,
+  "e": 66.04,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "only",
+  "s": 66.04,
+  "e": 66.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 66.4,
+  "e": 66.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 66.64,
+  "e": 66.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "big",
+  "s": 66.78,
+  "e": 66.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "lines,",
+  "s": 66.94,
+  "e": 67.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "such",
+  "s": 67.36,
+  "e": 67.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "as",
+  "s": 67.54,
+  "e": 67.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 67.68,
+  "e": 67.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Union",
+  "s": 67.84,
+  "e": 68.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Pacific,",
+  "s": 68.06,
+  "e": 68.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "but",
+  "s": 69.04,
+  "e": 69.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 69.28,
+  "e": 69.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 69.44,
+  "e": 69.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "bit",
+  "s": 69.6,
+  "e": 69.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "players",
+  "s": 69.76,
+  "e": 70.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "as",
+  "s": 70.08,
+  "e": 70.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "well.",
+  "s": 70.52,
+  "e": 70.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "One",
+  "s": 71.72,
+  "e": 71.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 71.9,
+  "e": 72.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 72.0,
+  "e": 72.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "latter",
+  "s": 72.16,
+  "e": 72.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 72.44,
+  "e": 73.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 73.18,
+  "e": 73.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Laramie",
+  "s": 73.42,
+  "e": 73.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "-Hans",
+  "s": 73.82,
+  "e": 74.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Peak",
+  "s": 74.24,
+  "e": 74.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 74.58,
+  "e": 74.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Pacific",
+  "s": 74.9,
+  "e": 75.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Railroad,",
+  "s": 75.38,
+  "e": 75.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "or",
+  "s": 76.3,
+  "e": 76.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 76.56,
+  "e": 76.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "LHP",
+  "s": 76.74,
+  "e": 77.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "&P.",
+  "s": 77.42,
+  "e": 78.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "It",
+  "s": 78.82,
+  "e": 79.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "acquired",
+  "s": 79.34,
+  "e": 79.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 79.84,
+  "e": 80.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 80.08,
+  "e": 80.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 80.2,
+  "e": 80.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way",
+  "s": 80.38,
+  "e": 80.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 80.64,
+  "e": 80.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "built",
+  "s": 80.88,
+  "e": 81.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "its",
+  "s": 81.14,
+  "e": 81.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "line",
+  "s": 81.34,
+  "e": 81.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "from",
+  "s": 81.66,
+  "e": 81.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Laramie,",
+  "s": 81.94,
+  "e": 82.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Wyoming",
+  "s": 82.54,
+  "e": 82.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 82.82,
+  "e": 83.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Colmont,",
+  "s": 83.1,
+  "e": 83.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Colorado.",
+  "s": 83.82,
+  "e": 84.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Its",
+  "s": 85.38,
+  "e": 85.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "proprietors",
+  "s": 85.98,
+  "e": 86.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "predicted",
+  "s": 86.58,
+  "e": 87.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 87.14,
+  "e": 87.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 87.38,
+  "e": 87.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "would",
+  "s": 87.5,
+  "e": 87.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "become,",
+  "s": 87.72,
+  "e": 88.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "quote,",
+  "s": 88.26,
+  "e": 88.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "''one",
+  "s": 89.02,
+  "e": 89.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 89.22,
+  "e": 89.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 89.34,
+  "e": 89.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "most",
+  "s": 89.48,
+  "e": 89.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "important",
+  "s": 89.76,
+  "e": 90.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "railroad",
+  "s": 90.32,
+  "e": 90.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "systems",
+  "s": 90.76,
+  "e": 91.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 91.26,
+  "e": 91.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 91.6,
+  "e": 91.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "country",
+  "s": 91.76,
+  "e": 92.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": ",''",
+  "s": 92.14,
+  "e": 92.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "end",
+  "s": 92.2,
+  "e": 92.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "quote.",
+  "s": 92.48,
+  "e": 92.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "It",
+  "s": 93.16,
+  "e": 93.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "did",
+  "s": 93.62,
+  "e": 93.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "not.",
+  "s": 93.78,
+  "e": 94.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "In",
+  "s": 94.64,
+  "e": 94.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "fact,",
+  "s": 94.92,
+  "e": 95.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "local",
+  "s": 95.42,
+  "e": 95.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "said",
+  "s": 95.64,
+  "e": 96.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "LHP",
+  "s": 96.0,
+  "e": 96.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "&P",
+  "s": 96.64,
+  "e": 97.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "stood",
+  "s": 97.12,
+  "e": 97.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 97.44,
+  "e": 97.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "late,",
+  "s": 97.82,
+  "e": 98.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "hard",
+  "s": 98.56,
+  "e": 98.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "-pressed",
+  "s": 98.86,
+  "e": 99.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 99.12,
+  "e": 99.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "panicky.",
+  "s": 99.48,
+  "e": 99.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Anyway,",
+  "s": 101.62,
+  "e": 102.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 102.38,
+  "e": 102.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "railroad",
+  "s": 102.54,
+  "e": 102.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "went",
+  "s": 102.88,
+  "e": 103.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "through",
+  "s": 103.18,
+  "e": 103.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "several",
+  "s": 103.38,
+  "e": 103.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "owners",
+  "s": 103.78,
+  "e": 104.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "until,",
+  "s": 104.14,
+  "e": 104.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "beginning",
+  "s": 104.82,
+  "e": 105.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 105.2,
+  "e": 105.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "1996,",
+  "s": 105.44,
+  "e": 106.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 107.06,
+  "e": 107.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "then",
+  "s": 107.22,
+  "e": 107.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "owner,",
+  "s": 107.44,
+  "e": 107.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 108.02,
+  "e": 108.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Wyoming",
+  "s": 108.12,
+  "e": 108.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 108.52,
+  "e": 108.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Colorado",
+  "s": 108.74,
+  "e": 109.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Railroad,",
+  "s": 109.28,
+  "e": 109.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "closed",
+  "s": 110.36,
+  "e": 110.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 110.76,
+  "e": 110.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "line,",
+  "s": 110.98,
+  "e": 111.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "tore",
+  "s": 111.42,
+  "e": 111.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "up",
+  "s": 111.6,
+  "e": 111.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 111.76,
+  "e": 111.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "tracks",
+  "s": 111.92,
+  "e": 112.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 112.22,
+  "e": 112.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "abandoned",
+  "s": 112.46,
+  "e": 112.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "its",
+  "s": 112.98,
+  "e": 113.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 113.4,
+  "e": 113.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 113.6,
+  "e": 113.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way.",
+  "s": 113.76,
+  "e": 114.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "The",
+  "s": 115.4,
+  "e": 115.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land",
+  "s": 115.92,
+  "e": 116.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "over",
+  "s": 116.3,
+  "e": 117.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "which",
+  "s": 117.02,
+  "e": 117.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 117.26,
+  "e": 117.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 117.52,
+  "e": 117.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 117.64,
+  "e": 117.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way",
+  "s": 117.78,
+  "e": 117.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "ran",
+  "s": 117.96,
+  "e": 118.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 118.42,
+  "e": 119.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "then",
+  "s": 119.08,
+  "e": 119.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "owned",
+  "s": 119.32,
+  "e": 119.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "by",
+  "s": 119.6,
+  "e": 119.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 119.78,
+  "e": 119.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Brant",
+  "s": 119.98,
+  "e": 120.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "family,",
+  "s": 120.2,
+  "e": 120.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "which",
+  "s": 120.66,
+  "e": 121.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "had",
+  "s": 121.3,
+  "e": 121.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "purchased",
+  "s": 121.52,
+  "e": 121.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 121.84,
+  "e": 122.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "from",
+  "s": 122.06,
+  "e": 122.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 122.28,
+  "e": 122.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Federal",
+  "s": 122.5,
+  "e": 122.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government",
+  "s": 122.7,
+  "e": 123.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 123.06,
+  "e": 123.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "1976.",
+  "s": 123.34,
+  "e": 124.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "That",
+  "s": 125.22,
+  "e": 125.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "purchase,",
+  "s": 125.42,
+  "e": 125.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 125.9,
+  "e": 126.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "course,",
+  "s": 126.08,
+  "e": 126.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 126.72,
+  "e": 127.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "subject",
+  "s": 127.0,
+  "e": 127.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 127.36,
+  "e": 127.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 127.66,
+  "e": 127.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 127.8,
+  "e": 127.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 127.92,
+  "e": 128.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way.",
+  "s": 128.06,
+  "e": 128.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "When",
+  "s": 129.62,
+  "e": 130.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 130.14,
+  "e": 130.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Wyoming",
+  "s": 130.3,
+  "e": 130.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 130.7,
+  "e": 130.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Colorado",
+  "s": 130.96,
+  "e": 131.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "abandoned",
+  "s": 131.42,
+  "e": 131.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 131.92,
+  "e": 132.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 132.22,
+  "e": 132.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 132.32,
+  "e": 132.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way,",
+  "s": 132.46,
+  "e": 132.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 133.34,
+  "e": 133.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "dispute",
+  "s": 133.46,
+  "e": 133.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "arose",
+  "s": 133.78,
+  "e": 134.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "over",
+  "s": 134.12,
+  "e": 134.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "who",
+  "s": 134.5,
+  "e": 134.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 134.66,
+  "e": 134.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "went",
+  "s": 134.8,
+  "e": 134.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to.",
+  "s": 134.94,
+  "e": 135.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "The",
+  "s": 135.7,
+  "e": 135.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Brant",
+  "s": 135.84,
+  "e": 136.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "family",
+  "s": 136.12,
+  "e": 136.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "said",
+  "s": 136.46,
+  "e": 136.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 136.68,
+  "e": 136.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "should",
+  "s": 136.82,
+  "e": 137.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "get",
+  "s": 137.0,
+  "e": 137.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 137.18,
+  "e": 137.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 137.38,
+  "e": 137.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 137.5,
+  "e": 137.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way",
+  "s": 137.66,
+  "e": 137.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "because",
+  "s": 137.92,
+  "e": 138.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 138.56,
+  "e": 138.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 138.78,
+  "e": 138.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 138.94,
+  "e": 139.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way",
+  "s": 139.06,
+  "e": 139.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was,",
+  "s": 139.26,
+  "e": 139.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "under",
+  "s": 139.78,
+  "e": 139.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 139.96,
+  "e": 140.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "law,",
+  "s": 140.16,
+  "e": 140.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "something",
+  "s": 140.94,
+  "e": 141.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "called",
+  "s": 141.24,
+  "e": 141.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "an",
+  "s": 141.66,
+  "e": 141.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "easement.",
+  "s": 141.92,
+  "e": 142.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "An",
+  "s": 142.28,
+  "e": 143.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "easement",
+  "s": 143.12,
+  "e": 143.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "is",
+  "s": 143.62,
+  "e": 143.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 143.92,
+  "e": 144.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 144.1,
+  "e": 144.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 144.24,
+  "e": 144.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "do",
+  "s": 144.44,
+  "e": 144.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "something",
+  "s": 144.66,
+  "e": 145.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "over",
+  "s": 145.1,
+  "e": 145.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "someone",
+  "s": 145.44,
+  "e": 145.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "else's",
+  "s": 145.82,
+  "e": 146.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land,",
+  "s": 146.2,
+  "e": 146.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "nothing",
+  "s": 146.86,
+  "e": 147.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "more.",
+  "s": 147.16,
+  "e": 147.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Now,",
+  "s": 148.48,
+  "e": 148.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "when",
+  "s": 148.62,
+  "e": 148.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 148.74,
+  "e": 148.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Wyoming",
+  "s": 148.88,
+  "e": 149.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 149.28,
+  "e": 149.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Colorado",
+  "s": 149.54,
+  "e": 149.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "stopped",
+  "s": 149.98,
+  "e": 150.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "using",
+  "s": 150.4,
+  "e": 150.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "its",
+  "s": 150.74,
+  "e": 150.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "easement",
+  "s": 150.96,
+  "e": 151.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 151.28,
+  "e": 151.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "railroad",
+  "s": 151.54,
+  "e": 151.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "purposes,",
+  "s": 151.88,
+  "e": 152.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 152.64,
+  "e": 152.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Brants",
+  "s": 152.76,
+  "e": 153.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "argued,",
+  "s": 153.0,
+  "e": 153.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "full",
+  "s": 154.12,
+  "e": 154.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 154.36,
+  "e": 154.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 154.6,
+  "e": 154.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "use",
+  "s": 154.82,
+  "e": 155.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 155.0,
+  "e": 155.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land",
+  "s": 155.2,
+  "e": 155.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "went",
+  "s": 155.38,
+  "e": 155.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 155.6,
+  "e": 155.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "them",
+  "s": 155.84,
+  "e": 156.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "because",
+  "s": 156.14,
+  "e": 156.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "they",
+  "s": 156.78,
+  "e": 157.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "owned",
+  "s": 157.1,
+  "e": 157.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 157.34,
+  "e": 157.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "underlying",
+  "s": 157.56,
+  "e": 157.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "parcel.",
+  "s": 157.94,
+  "e": 158.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "The",
+  "s": 159.48,
+  "e": 160.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government",
+  "s": 160.08,
+  "e": 160.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "saw",
+  "s": 160.38,
+  "e": 160.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "things",
+  "s": 160.72,
+  "e": 161.04,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "differently.",
+  "s": 161.04,
+  "e": 161.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "According",
+  "s": 161.96,
+  "e": 162.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 162.24,
+  "e": 162.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it,",
+  "s": 162.52,
+  "e": 162.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "when",
+  "s": 163.26,
+  "e": 163.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 163.42,
+  "e": 163.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "sold",
+  "s": 163.56,
+  "e": 163.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 163.82,
+  "e": 164.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land",
+  "s": 164.0,
+  "e": 164.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 164.22,
+  "e": 164.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "LHP",
+  "s": 164.5,
+  "e": 165.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "&P,",
+  "s": 165.12,
+  "e": 165.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 166.18,
+  "e": 166.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "predecessor",
+  "s": 166.32,
+  "e": 166.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 166.68,
+  "e": 167.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 167.1,
+  "e": 167.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Wyoming",
+  "s": 167.26,
+  "e": 167.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 167.6,
+  "e": 167.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Colorado,",
+  "s": 167.84,
+  "e": 168.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 168.96,
+  "e": 169.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government",
+  "s": 169.28,
+  "e": 169.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "granted",
+  "s": 169.56,
+  "e": 169.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "more",
+  "s": 169.96,
+  "e": 170.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "than",
+  "s": 170.34,
+  "e": 170.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 170.54,
+  "e": 170.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "mere",
+  "s": 170.72,
+  "e": 170.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "easement.",
+  "s": 170.88,
+  "e": 171.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "It",
+  "s": 171.32,
+  "e": 171.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "granted",
+  "s": 171.62,
+  "e": 171.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "substantial",
+  "s": 171.96,
+  "e": 172.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "property",
+  "s": 172.66,
+  "e": 173.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "rights",
+  "s": 173.08,
+  "e": 173.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 173.42,
+  "e": 173.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 173.62,
+  "e": 173.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land",
+  "s": 173.76,
+  "e": 173.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "itself,",
+  "s": 173.94,
+  "e": 174.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "not",
+  "s": 174.58,
+  "e": 175.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "just",
+  "s": 175.12,
+  "e": 175.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 175.36,
+  "e": 175.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 175.54,
+  "e": 175.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 175.66,
+  "e": 175.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "use",
+  "s": 175.86,
+  "e": 176.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "over",
+  "s": 176.14,
+  "e": 176.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 176.52,
+  "e": 176.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land.",
+  "s": 176.7,
+  "e": 176.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "That",
+  "s": 177.8,
+  "e": 178.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "meant",
+  "s": 178.26,
+  "e": 178.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 178.6,
+  "e": 178.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "when",
+  "s": 178.84,
+  "e": 178.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 178.98,
+  "e": 179.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "railroad",
+  "s": 179.18,
+  "e": 179.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "left",
+  "s": 179.48,
+  "e": 179.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 179.78,
+  "e": 180.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "scene,",
+  "s": 180.02,
+  "e": 180.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "those",
+  "s": 180.78,
+  "e": 181.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "rights",
+  "s": 181.12,
+  "e": 181.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 181.42,
+  "e": 181.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 181.62,
+  "e": 181.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land",
+  "s": 181.76,
+  "e": 181.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "went",
+  "s": 181.92,
+  "e": 182.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "back",
+  "s": 182.14,
+  "e": 182.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 182.48,
+  "e": 182.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 182.92,
+  "e": 183.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government.",
+  "s": 183.08,
+  "e": 183.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Now,",
+  "s": 184.24,
+  "e": 184.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 184.36,
+  "e": 184.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "is",
+  "s": 184.56,
+  "e": 184.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 184.68,
+  "e": 184.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "dispute",
+  "s": 184.82,
+  "e": 185.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 185.24,
+  "e": 185.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "we",
+  "s": 185.44,
+  "e": 185.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "decide",
+  "s": 185.58,
+  "e": 185.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "today.",
+  "s": 185.94,
+  "e": 186.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Turns",
+  "s": 187.4,
+  "e": 187.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "out,",
+  "s": 187.68,
+  "e": 187.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "however,",
+  "s": 188.02,
+  "e": 188.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 188.34,
+  "e": 188.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "we",
+  "s": 188.54,
+  "e": 188.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "think",
+  "s": 188.7,
+  "e": 189.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 189.0,
+  "e": 189.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Supreme",
+  "s": 189.24,
+  "e": 189.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Court",
+  "s": 189.6,
+  "e": 189.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "pretty",
+  "s": 189.84,
+  "e": 190.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "much",
+  "s": 190.14,
+  "e": 190.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "decided",
+  "s": 190.34,
+  "e": 190.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 190.8,
+  "e": 191.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "legal",
+  "s": 191.02,
+  "e": 191.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "issue",
+  "s": 191.26,
+  "e": 191.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "70",
+  "s": 191.56,
+  "e": 192.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "years",
+  "s": 192.0,
+  "e": 192.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "ago.",
+  "s": 192.3,
+  "e": 192.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "At",
+  "s": 193.48,
+  "e": 193.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 193.96,
+  "e": 194.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "time,",
+  "s": 194.18,
+  "e": 194.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 194.5,
+  "e": 194.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Court",
+  "s": 194.64,
+  "e": 194.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "had",
+  "s": 194.78,
+  "e": 195.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "before",
+  "s": 195.02,
+  "e": 195.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 195.28,
+  "e": 195.44,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 195.44,
+  "e": 195.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "case",
+  "s": 195.62,
+  "e": 195.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "like",
+  "s": 195.8,
+  "e": 196.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "this",
+  "s": 196.06,
+  "e": 196.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "one,",
+  "s": 196.28,
+  "e": 196.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "but",
+  "s": 196.64,
+  "e": 197.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 197.18,
+  "e": 197.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government",
+  "s": 197.34,
+  "e": 197.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 197.64,
+  "e": 197.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "on",
+  "s": 197.88,
+  "e": 198.04,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 198.04,
+  "e": 198.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "other",
+  "s": 198.16,
+  "e": 198.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "side.",
+  "s": 198.34,
+  "e": 198.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "In",
+  "s": 198.66,
+  "e": 199.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 199.5,
+  "e": 199.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "case,",
+  "s": 199.76,
+  "e": 200.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 200.7,
+  "e": 200.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Great",
+  "s": 200.8,
+  "e": 201.04,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Northern",
+  "s": 201.04,
+  "e": 201.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Railroad",
+  "s": 201.38,
+  "e": 201.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "had",
+  "s": 201.78,
+  "e": 202.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "one",
+  "s": 202.16,
+  "e": 202.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 202.34,
+  "e": 202.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "these",
+  "s": 202.46,
+  "e": 202.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "rights",
+  "s": 202.62,
+  "e": 202.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 202.86,
+  "e": 203.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way,",
+  "s": 203.12,
+  "e": 203.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 203.84,
+  "e": 204.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 204.02,
+  "e": 204.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "discovered",
+  "s": 204.14,
+  "e": 204.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "oil",
+  "s": 204.62,
+  "e": 204.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "deposits",
+  "s": 204.98,
+  "e": 205.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "under",
+  "s": 205.56,
+  "e": 206.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "its",
+  "s": 206.26,
+  "e": 206.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 206.48,
+  "e": 206.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 206.62,
+  "e": 206.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way.",
+  "s": 206.76,
+  "e": 206.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "It",
+  "s": 207.72,
+  "e": 208.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "wanted",
+  "s": 208.02,
+  "e": 208.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 208.3,
+  "e": 208.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "drill",
+  "s": 208.46,
+  "e": 208.72,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 208.72,
+  "e": 208.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 208.96,
+  "e": 209.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "oil,",
+  "s": 209.08,
+  "e": 209.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "but",
+  "s": 209.38,
+  "e": 210.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 210.0,
+  "e": 210.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government",
+  "s": 210.18,
+  "e": 210.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "said",
+  "s": 210.42,
+  "e": 210.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "no.",
+  "s": 210.76,
+  "e": 211.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "The",
+  "s": 211.76,
+  "e": 212.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government",
+  "s": 212.08,
+  "e": 212.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "said",
+  "s": 212.38,
+  "e": 212.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "an",
+  "s": 212.78,
+  "e": 213.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "owner",
+  "s": 213.06,
+  "e": 213.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 213.32,
+  "e": 213.5,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 213.5,
+  "e": 213.62,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 213.62,
+  "e": 213.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 213.76,
+  "e": 213.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way",
+  "s": 213.92,
+  "e": 214.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "such",
+  "s": 214.22,
+  "e": 214.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "as",
+  "s": 214.68,
+  "e": 214.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Great",
+  "s": 214.9,
+  "e": 215.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Northern",
+  "s": 215.14,
+  "e": 215.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "had",
+  "s": 215.52,
+  "e": 216.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "only",
+  "s": 216.26,
+  "e": 216.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "an",
+  "s": 216.6,
+  "e": 216.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "easement,",
+  "s": 216.88,
+  "e": 217.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 217.76,
+  "e": 217.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 217.9,
+  "e": 218.04,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 218.04,
+  "e": 218.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "run",
+  "s": 218.22,
+  "e": 218.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "tracks,",
+  "s": 218.42,
+  "e": 218.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "trains",
+  "s": 219.04,
+  "e": 219.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "over",
+  "s": 219.26,
+  "e": 219.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 219.6,
+  "e": 219.78,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land,",
+  "s": 219.78,
+  "e": 220.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 220.14,
+  "e": 220.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "nothing",
+  "s": 220.64,
+  "e": 220.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "else,",
+  "s": 220.9,
+  "e": 221.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 221.8,
+  "e": 222.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "particular,",
+  "s": 222.1,
+  "e": 222.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "no",
+  "s": 223.04,
+  "e": 223.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "rights",
+  "s": 223.36,
+  "e": 223.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "in",
+  "s": 223.68,
+  "e": 224.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 224.1,
+  "e": 224.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "underlying",
+  "s": 224.24,
+  "e": 224.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land.",
+  "s": 224.58,
+  "e": 225.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "We",
+  "s": 226.54,
+  "e": 227.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "agreed",
+  "s": 227.06,
+  "e": 227.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "with",
+  "s": 227.42,
+  "e": 227.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 227.6,
+  "e": 227.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government",
+  "s": 227.76,
+  "e": 228.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 228.02,
+  "e": 228.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "told",
+  "s": 228.58,
+  "e": 228.8,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Great",
+  "s": 228.8,
+  "e": 229.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Northern",
+  "s": 229.16,
+  "e": 229.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 229.42,
+  "e": 229.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 229.64,
+  "e": 229.76,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "could",
+  "s": 229.76,
+  "e": 229.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "not",
+  "s": 229.94,
+  "e": 230.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "drill.",
+  "s": 230.2,
+  "e": 230.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "That",
+  "s": 231.5,
+  "e": 232.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "was",
+  "s": 232.02,
+  "e": 232.2,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "good",
+  "s": 232.2,
+  "e": 232.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "news",
+  "s": 232.4,
+  "e": 232.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 232.64,
+  "e": 232.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 232.86,
+  "e": 233.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "government",
+  "s": 233.0,
+  "e": 233.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "then,",
+  "s": 233.22,
+  "e": 233.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "but",
+  "s": 233.56,
+  "e": 234.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 234.18,
+  "e": 234.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "is",
+  "s": 234.3,
+  "e": 234.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "bad",
+  "s": 234.46,
+  "e": 234.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "news",
+  "s": 234.74,
+  "e": 234.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 234.98,
+  "e": 235.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "it",
+  "s": 235.24,
+  "e": 235.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "today.",
+  "s": 235.38,
+  "e": 235.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "The",
+  "s": 236.46,
+  "e": 236.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Court",
+  "s": 236.7,
+  "e": 236.88,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "said",
+  "s": 236.88,
+  "e": 237.16,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "these",
+  "s": 237.16,
+  "e": 237.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "rights",
+  "s": 237.4,
+  "e": 237.66,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 237.66,
+  "e": 237.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way",
+  "s": 237.9,
+  "e": 238.06,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "were",
+  "s": 238.06,
+  "e": 238.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "mere",
+  "s": 238.32,
+  "e": 238.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "easements",
+  "s": 238.6,
+  "e": 239.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "70",
+  "s": 239.1,
+  "e": 240.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "years",
+  "s": 240.0,
+  "e": 240.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "ago,",
+  "s": 240.32,
+  "e": 240.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 240.74,
+  "e": 241.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "we're",
+  "s": 241.02,
+  "e": 241.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "going",
+  "s": 241.14,
+  "e": 241.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 241.24,
+  "e": 241.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "stick",
+  "s": 241.36,
+  "e": 241.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "with",
+  "s": 241.52,
+  "e": 241.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 241.68,
+  "e": 241.9,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "today.",
+  "s": 241.9,
+  "e": 242.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "That",
+  "s": 242.9,
+  "e": 243.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "means",
+  "s": 243.42,
+  "e": 243.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "that",
+  "s": 243.74,
+  "e": 243.98,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "when",
+  "s": 243.98,
+  "e": 244.12,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 244.12,
+  "e": 244.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Wyoming",
+  "s": 244.26,
+  "e": 244.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 244.58,
+  "e": 244.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Colorado",
+  "s": 244.84,
+  "e": 245.28,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "abandoned",
+  "s": 245.28,
+  "e": 245.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "its",
+  "s": 245.74,
+  "e": 246.02,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 246.02,
+  "e": 246.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 246.18,
+  "e": 246.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way,",
+  "s": 246.34,
+  "e": 246.58,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 247.1,
+  "e": 247.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Brant",
+  "s": 247.24,
+  "e": 247.42,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "property",
+  "s": 247.42,
+  "e": 247.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "became",
+  "s": 247.86,
+  "e": 248.22,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "unencumbered",
+  "s": 248.22,
+  "e": 248.84,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "by",
+  "s": 248.84,
+  "e": 249.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 249.14,
+  "e": 249.32,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "easement,",
+  "s": 249.32,
+  "e": 249.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "and",
+  "s": 250.2,
+  "e": 250.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 250.4,
+  "e": 250.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Brants",
+  "s": 250.56,
+  "e": 250.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "were",
+  "s": 250.82,
+  "e": 251.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "entitled",
+  "s": 251.0,
+  "e": 251.34,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "to",
+  "s": 251.34,
+  "e": 251.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "full",
+  "s": 251.68,
+  "e": 251.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "enjoyment",
+  "s": 251.68,
+  "e": 252.1,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 252.1,
+  "e": 252.36,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "their",
+  "s": 252.36,
+  "e": 252.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "land,",
+  "s": 252.52,
+  "e": 252.92,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "including",
+  "s": 253.28,
+  "e": 253.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 253.74,
+  "e": 254.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "former",
+  "s": 254.0,
+  "e": 254.3,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "right",
+  "s": 254.3,
+  "e": 254.6,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 254.6,
+  "e": 254.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "way.",
+  "s": 254.74,
+  "e": 255.04,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "The",
+  "s": 256.64,
+  "e": 256.86,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "United",
+  "s": 256.86,
+  "e": 257.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "States",
+  "s": 257.08,
+  "e": 257.48,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Court",
+  "s": 257.48,
+  "e": 257.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "of",
+  "s": 257.7,
+  "e": 257.82,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Appeals",
+  "s": 257.82,
+  "e": 258.18,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "for",
+  "s": 258.18,
+  "e": 258.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 258.38,
+  "e": 258.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Tenth",
+  "s": 258.54,
+  "e": 258.7,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Circuit",
+  "s": 258.7,
+  "e": 259.08,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "reached",
+  "s": 259.08,
+  "e": 259.38,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "the",
+  "s": 259.38,
+  "e": 259.64,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "opposite",
+  "s": 259.64,
+  "e": 260.0,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "conclusion,",
+  "s": 260.0,
+  "e": 260.68,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "so",
+  "s": 261.06,
+  "e": 261.4,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "its",
+  "s": 261.4,
+  "e": 261.56,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "judgment",
+  "s": 261.56,
+  "e": 261.96,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "is",
+  "s": 261.96,
+  "e": 262.24,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "reversed.",
+  "s": 262.24,
+  "e": 262.74,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Justice",
+  "s": 263.24,
+  "e": 263.54,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "Sotomayor",
+  "s": 263.54,
+  "e": 264.26,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "has",
+  "s": 264.26,
+  "e": 264.52,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "filed",
+  "s": 264.52,
+  "e": 264.94,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "a",
+  "s": 264.94,
+  "e": 265.14,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "dissenting",
+  "s": 265.14,
+  "e": 265.46,
+  "speaker": "UNKNOWN"
+ },
+ {
+  "w": "opinion.",
+  "s": 265.46,
+  "e": 265.84,
+  "speaker": "UNKNOWN"
+ }
+]

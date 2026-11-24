@@ -1,0 +1,445 @@
+{
+ "pdf_url_arg": null,
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -46.0,
+ "opening_start": null,
+ "opening": [],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2013/12-1173",
+  "page_url": "https://www.oyez.org/cases/2013/12-1173",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - March 10, 2014",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/23210",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2013/12-1173/20140310o_12-1173.delivery.mp3",
+  "duration": 266.475,
+  "mp3_bytes": 1172396,
+  "asr_elapsed_s": 123.4,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 1,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   685,
+   726,
+   723
+  ],
+  "diffs": [
+   [
+    5.28,
+    "Brant",
+    "Brandt"
+   ],
+   [
+    11.4,
+    "westward",
+    "west road"
+   ],
+   [
+    16.54,
+    "",
+    "that the --"
+   ],
+   [
+    35.58,
+    "",
+    "to"
+   ],
+   [
+    56.72,
+    "to",
+    "the"
+   ],
+   [
+    65.08,
+    "worked",
+    "work"
+   ],
+   [
+    73.82,
+    "-Hans",
+    "Hahn's"
+   ],
+   [
+    83.1,
+    "Colmont, Colorado. Its",
+    "Coalmont, Colorado.Its"
+   ],
+   [
+    90.32,
+    "railroad",
+    "railroads"
+   ],
+   [
+    92.14,
+    ",'' end quote.",
+    ""
+   ],
+   [
+    96.0,
+    "LHP &P",
+    "LHP&Ps"
+   ],
+   [
+    99.48,
+    "panicky.",
+    "panicking."
+   ],
+   [
+    119.98,
+    "Brant",
+    "Brandt"
+   ],
+   [
+    121.52,
+    "purchased it",
+    "purchase that"
+   ],
+   [
+    130.7,
+    "and",
+    "in"
+   ],
+   [
+    135.84,
+    "Brant",
+    "Brandt"
+   ],
+   [
+    152.76,
+    "Brants",
+    "Brandt's"
+   ],
+   [
+    157.1,
+    "owned",
+    "own"
+   ],
+   [
+    167.6,
+    "and",
+    "in"
+   ],
+   [
+    173.42,
+    "in",
+    "and"
+   ],
+   [
+    175.36,
+    "a",
+    "the"
+   ],
+   [
+    181.92,
+    "went",
+    "when"
+   ],
+   [
+    187.4,
+    "",
+    "It"
+   ],
+   [
+    191.26,
+    "issue",
+    "issues"
+   ],
+   [
+    193.96,
+    "that",
+    "the"
+   ],
+   [
+    195.28,
+    "it",
+    ""
+   ],
+   [
+    247.24,
+    "Brant",
+    "Brandt"
+   ],
+   [
+    248.22,
+    "unencumbered",
+    "an encumbered"
+   ],
+   [
+    250.56,
+    "Brants",
+    "Brandt's"
+   ],
+   [
+    251.34,
+    "to",
+    "the"
+   ]
+  ],
+  "dropped": [],
+  "redone": [],
+  "words": 726,
+  "opening": [
+   [
+    0.0,
+    "UNKNOWN",
+    "I have the opinion of the Court this morning in Case 12-1173, Marvin M. Brant Revocable Trust v. The United States. This case has its roots in America's westward expansion in the early and mid-19th century. It was during that period that the lands from the Mississippi River to the Pacific Ocean were acquired, filling out what is now the contiguous United States. Now, once that was done, the challenge for the young country was how to develop and settle that vast expanse. Railroads were a key part of the answer. To encourage their construction, Congress granted railroad companies a right of way over public lands, which is what most of the land was at the time. Congress also gave the railroads an enormous amount of public land outright, which they could sell to help finance the construction. The lands over which the railroad tracks were laid were eventually granted to homesteaders or sold to others, but with the railroads, of course, retaining their rights of way over that land. Now, this was how things worked not only for the big lines, such as the Union Pacific, but for the bit players as well. One of the latter was the Laramie-Hans Peak and Pacific Railroad, or the LHP &P. It acquired a right of way and built its line from Laramie, Wyoming to Colmont, Colorado. Its proprietors predicted that it would become, quote, ''one of the most important railroad systems in the country ,'' end quote. It did not. In fact, local said LHP &P stood for late, hard-pressed and panicky. Anyway, the railroad went through several owners until, beginning in 1996, the then owner, the Wyoming and Colorado Railroad, closed the line, tore up the tracks and abandoned its right of way. The land over which the right of way ran was then owned by the Brant family, which had purchased it from the Federal government in 1976. That purchase, of course, was subject to the right of way. When the Wyoming and Colorado abandoned the right of way, a dispute arose over who it went to. The Brant family said it should get the right of way because the right of way was, under the law, something called an easement. An easement is a right to do something over someone else's land, nothing more. Now, when the Wyoming and Colorado stopped using its easement for railroad purposes, the Brants argued, full right to use the land went to them because they owned the underlying parcel. The government saw things differently. According to it, when it sold the land to LHP &P, the predecessor to the Wyoming and Colorado, the government granted more than a mere easement. It granted substantial property rights in the land itself, not just a right of use over the land. That meant that when the railroad left the"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "UNKNOWN",
+    "I have the opinion of the Court this morning in Case 12-1173, Marvin M. Brant Revocable Trust v. The United States. This case has its roots in America's westward expansion in the early and mid-19th century. It was during that period that the lands from the Mississippi River to the Pacific Ocean were acquired, filling out what is now the contiguous United States. Now, once that was done, the challenge for the young country was how to develop and settle that vast expanse. Railroads were a key part of the answer. To encourage their construction, Congress granted railroad companies a right of way over public lands, which is what most of the land was at the time. Congress also gave the railroads an enormous amount of public land outright, which they could sell to help finance the construction. The lands over which the railroad tracks were laid were eventually granted to homesteaders or sold to others, but with the railroads, of course, retaining their rights of way over that land. Now, this was how things worked not only for the big lines, such as the Union Pacific, but for the bit players as well. One of the latter was the Laramie-Hans Peak and Pacific Railroad, or the LHP &P. It acquired a right of way and built its line from Laramie, Wyoming to Colmont, Colorado. Its proprietors predicted that it would become, quote, ''one of the most important railroad systems in the country ,'' end quote. It did not. In fact, local said LHP &P stood for late, hard-pressed and panicky. Anyway, the railroad went through several owners until, beginning in 1996, the then owner, the Wyoming and Colorado Railroad, closed the line, tore up the tracks and abandoned its right of way. The land over which the right of way ran was then owned by the Brant family, which had purchased it from the Federal government in 1976. That purchase, of course, was subject to the right of way. When the Wyoming and Colorado abandoned the right of way, a dispute arose over who it went to. The Brant family said it should get the right of way because the right of way was, under the law, something called an easement. An easement is a right to do something over someone else's land, nothing more. Now, when the Wyoming and Colorado stopped using its easement for railroad purposes, the Brants argued, full right to use the land went to them because they owned the underlying parcel. The government saw things differently. According to it, when it sold the land to LHP &P, the predecessor to the Wyoming and Colorado, the government granted more than a mere easement. It granted substantial property rights in the land itself, not just a right of use over the land. That meant that when the railroad left the scene, those rights in the land went back to the government. Now, that is the dispute that we decide today. Turns out, however, that we think the Supreme Court pretty much decided the legal issue 70 years ago. At that time, the Court had before it a case like this one, but the government was on the other side. In that case, the Great Northern Railroad had one of these rights of way, and it discovered oil deposits under its right of way. It wanted to drill for the oil, but the government said no. The government said an owner of a right of way such as Great Northern had only an easement, the right to run tracks, trains over the land, and nothing else, in particular, no rights in the underlying land. We agreed with the government and told Great Northern that it could not drill. That was good news for the government then, but it is bad news for it today. The Court said these rights of way were mere easements 70 years ago, and we're going to stick with that today. That means that when the Wyoming and Colorado abandoned its right of way, the Brant property became unencumbered by the easement, and the Brants were entitled to full enjoyment of their land, including the former right of way. The United States Court of Appeals for the Tenth Circuit reached the opposite conclusion, so its judgment is reversed. Justice Sotomayor has filed a dissenting opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "UNKNOWN",
+    "I have the opinion of the Court this morning in Case 12-1173, Marvin M."
+   ],
+   [
+    5.28,
+    "UNKNOWN",
+    "Brant Revocable Trust v. The United States."
+   ],
+   [
+    9.04,
+    "UNKNOWN",
+    "This case has its roots in America's westward expansion in the early and mid-19th century."
+   ],
+   [
+    15.12,
+    "UNKNOWN",
+    "It was during that period that the lands from the Mississippi River to the Pacific Ocean were acquired, filling out what is now the contiguous United States."
+   ],
+   [
+    25.54,
+    "UNKNOWN",
+    "Now, once that was done, the challenge for the young country was how to develop and settle that vast expanse."
+   ],
+   [
+    32.66,
+    "UNKNOWN",
+    "Railroads were a key part of the answer."
+   ],
+   [
+    35.0,
+    "UNKNOWN",
+    "To encourage their construction, Congress granted railroad companies a right of way over public lands, which is what most of the land was at the time."
+   ],
+   [
+    44.18,
+    "UNKNOWN",
+    "Congress also gave the railroads an enormous amount of public land outright, which they could sell to help finance the construction."
+   ],
+   [
+    52.86,
+    "UNKNOWN",
+    "The lands over which the railroad tracks were laid were eventually granted to homesteaders or sold to others, but with the railroads, of course, retaining their rights of way over that land."
+   ],
+   [
+    63.7,
+    "UNKNOWN",
+    "Now, this was how things worked not only for the big lines, such as the Union Pacific, but for the bit players as well."
+   ],
+   [
+    71.72,
+    "UNKNOWN",
+    "One of the latter was the Laramie-Hans Peak and Pacific Railroad, or the LHP &P."
+   ],
+   [
+    78.82,
+    "UNKNOWN",
+    "It acquired a right of way and built its line from Laramie, Wyoming to Colmont, Colorado."
+   ],
+   [
+    85.38,
+    "UNKNOWN",
+    "Its proprietors predicted that it would become, quote, ''one of the most important railroad systems in the country ,'' end quote."
+   ],
+   [
+    93.16,
+    "UNKNOWN",
+    "It did not."
+   ],
+   [
+    94.64,
+    "UNKNOWN",
+    "In fact, local said LHP &P stood for late, hard-pressed and panicky."
+   ],
+   [
+    101.62,
+    "UNKNOWN",
+    "Anyway, the railroad went through several owners until, beginning in 1996, the then owner, the Wyoming and Colorado Railroad, closed the line, tore up the tracks and abandoned its right of way."
+   ],
+   [
+    115.4,
+    "UNKNOWN",
+    "The land over which the right of way ran was then owned by the Brant family, which had purchased it from the Federal government in 1976."
+   ],
+   [
+    125.22,
+    "UNKNOWN",
+    "That purchase, of course, was subject to the right of way."
+   ],
+   [
+    129.62,
+    "UNKNOWN",
+    "When the Wyoming and Colorado abandoned the right of way, a dispute arose over who it went to."
+   ],
+   [
+    135.7,
+    "UNKNOWN",
+    "The Brant family said it should get the right of way because the right of way was, under the law, something called an easement."
+   ],
+   [
+    142.28,
+    "UNKNOWN",
+    "An easement is a right to do something over someone else's land, nothing more."
+   ],
+   [
+    148.48,
+    "UNKNOWN",
+    "Now, when the Wyoming and Colorado stopped using its easement for railroad purposes, the Brants argued, full right to use the land went to them because they owned the underlying parcel."
+   ],
+   [
+    159.48,
+    "UNKNOWN",
+    "The government saw things differently."
+   ],
+   [
+    161.96,
+    "UNKNOWN",
+    "According to it, when it sold the land to LHP &P, the predecessor to the Wyoming and Colorado, the government granted more than a mere easement."
+   ],
+   [
+    171.32,
+    "UNKNOWN",
+    "It granted substantial property rights in the land itself, not just a right of use over the land."
+   ],
+   [
+    177.8,
+    "UNKNOWN",
+    "That meant that when the railroad left the scene, those rights in the land went back to the government."
+   ],
+   [
+    184.24,
+    "UNKNOWN",
+    "Now, that is the dispute that we decide today."
+   ],
+   [
+    187.4,
+    "UNKNOWN",
+    "Turns out, however, that we think the Supreme Court pretty much decided the legal issue 70 years ago."
+   ],
+   [
+    193.48,
+    "UNKNOWN",
+    "At that time, the Court had before it a case like this one, but the government was on the other side."
+   ],
+   [
+    198.66,
+    "UNKNOWN",
+    "In that case, the Great Northern Railroad had one of these rights of way, and it discovered oil deposits under its right of way."
+   ],
+   [
+    207.72,
+    "UNKNOWN",
+    "It wanted to drill for the oil, but the government said no. The government said an owner of a right of way such as Great Northern had only an easement, the right to run tracks, trains over the land, and nothing else, in particular, no rights in the underlying land."
+   ],
+   [
+    226.54,
+    "UNKNOWN",
+    "We agreed with the government and told Great Northern that it could not drill."
+   ],
+   [
+    231.5,
+    "UNKNOWN",
+    "That was good news for the government then, but it is bad news for it today."
+   ],
+   [
+    236.46,
+    "UNKNOWN",
+    "The Court said these rights of way were mere easements 70 years ago, and we're going to stick with that today."
+   ],
+   [
+    242.9,
+    "UNKNOWN",
+    "That means that when the Wyoming and Colorado abandoned its right of way, the Brant property became unencumbered by the easement, and the Brants were entitled to full enjoyment of their land, including the former right of way."
+   ],
+   [
+    256.64,
+    "UNKNOWN",
+    "The United States Court of Appeals for the Tenth Circuit reached the opposite conclusion, so its judgment is reversed."
+   ],
+   [
+    263.24,
+    "UNKNOWN",
+    "Justice Sotomayor has filed a dissenting opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "UNKNOWN",
+    0.0,
+    265.84,
+    722
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "12-1173",
+ "year": "2013",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2013/12-1173",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/12-1173.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2013/12-1173_25f3.pdf",
+ "model": "medium.en",
+ "duration": 3694.315102,
+ "asr_elapsed_s": 889.2,
+ "asr_words": 4466,
+ "official_words": 4420,
+ "matched": 4139,
+ "shared": 1,
+ "clamped": 0,
+ "trimmed": 7,
+ "rewindowed": 0,
+ "match_rate": 93.64253393665159,
+ "turns": 101,
+ "laugh_markers": 0,
+ "mp3_bytes": 29554773,
+ "pauses": 162,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": true,
+   "detail": "0 words longer than 3 s outside laugh positions",
+   "examples": [],
+   "numbers": []
+  },
+  "short_words": 119,
+  "match_rate": {
+   "ok": true,
+   "detail": "93.64% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-24"
+}
