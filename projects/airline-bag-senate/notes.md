@@ -16,3 +16,6 @@ Labelled by hand from the words (who is addressed, who answers). Witnesses heard
 Not sure, check by ear before use: the crosstalk at 588 to 600 ("not always, sometimes", "you'll never know ... Russian roulette", "I would agree, no idea in the world, I would disagree"); "it's never women more ... miners more" at 495 to 500 is Hawley asking "is it women more? minors more?" heard badly.
 Machine transcript, no official wording: "your kid last year" at 478 is probably "you can, last year"; "Hasen" is "Hassan"; "Mr. shorter" at 708 is "Mr. Schroeder"; "fair" at 660 is "fare".
 No room laughs found (a hearing room).
+
+## Hand fixes to words.json (25 Nov, PR pick)
+Speakers labelled by hand (see above). Sentence punctuation added at natural sentence ends the machine ran on through (e.g. "you." before "do you charge a bounty?", "bag." after "ten dollars per bag"), "can't" corrected to "can." in "the most revenue we can. We can be profitable", "and..." marks the 2.3 s trailing pause after "$79". No word was added or removed. audio/argument.mp3 is a copy of source.mp3 so pipeline/story/cut.py can render.

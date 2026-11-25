@@ -5094,7 +5094,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "you",
+  "w": "you.",
   "s": 263.62,
   "e": 263.86,
   "speaker": "SEN. HAWLEY"
@@ -5124,7 +5124,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "bounty",
+  "w": "bounty?",
   "s": 265.02,
   "e": 265.56,
   "speaker": "SEN. HAWLEY"
@@ -5598,7 +5598,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "yes",
+  "w": "yes.",
   "s": 290.74,
   "e": 290.96,
   "speaker": "SEN. HAWLEY"
@@ -5796,7 +5796,7 @@
   "speaker": "SPIRIT (KLEIN)"
  },
  {
-  "w": "year",
+  "w": "year.",
   "s": 302.22,
   "e": 302.5,
   "speaker": "SPIRIT (KLEIN)"
@@ -7674,13 +7674,13 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "it",
+  "w": "it.",
   "s": 391.52,
   "e": 391.8,
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "so",
+  "w": "So",
   "s": 391.8,
   "e": 392.28,
   "speaker": "SEN. HAWLEY"
@@ -7812,7 +7812,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "big",
+  "w": "big?",
   "s": 398.8,
   "e": 399.06,
   "speaker": "SEN. HAWLEY"
@@ -7926,7 +7926,7 @@
   "speaker": "FRONTIER (SCHROEDER)"
  },
  {
-  "w": "that",
+  "w": "that.",
   "s": 405.32,
   "e": 405.56,
   "speaker": "FRONTIER (SCHROEDER)"
@@ -7956,7 +7956,7 @@
   "speaker": "FRONTIER (SCHROEDER)"
  },
  {
-  "w": "bag",
+  "w": "bag.",
   "s": 407.22,
   "e": 407.52,
   "speaker": "FRONTIER (SCHROEDER)"
@@ -7986,7 +7986,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "bag",
+  "w": "bag.",
   "s": 409.2,
   "e": 409.48,
   "speaker": "SEN. HAWLEY"
@@ -8232,7 +8232,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "dollars",
+  "w": "dollars.",
   "s": 424.64,
   "e": 425.06,
   "speaker": "SEN. HAWLEY"
@@ -8604,7 +8604,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "here",
+  "w": "here.",
   "s": 441.54,
   "e": 441.8,
   "speaker": "SEN. HAWLEY"
@@ -8688,7 +8688,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "bags",
+  "w": "bags?",
   "s": 445.88,
   "e": 446.24,
   "speaker": "SEN. HAWLEY"
@@ -8994,7 +8994,7 @@
   "speaker": "SPIRIT (KLEIN)"
  },
  {
-  "w": "can't",
+  "w": "can.",
   "s": 462.56,
   "e": 462.88,
   "speaker": "SPIRIT (KLEIN)"
@@ -9294,7 +9294,7 @@
   "speaker": "SPIRIT (KLEIN)"
  },
  {
-  "w": "entity",
+  "w": "entity.",
   "s": 474.2,
   "e": 474.66,
   "speaker": "SPIRIT (KLEIN)"
@@ -9312,7 +9312,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "it",
+  "w": "it.",
   "s": 475.26,
   "e": 475.42,
   "speaker": "SEN. HAWLEY"
@@ -9330,7 +9330,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "it",
+  "w": "it.",
   "s": 475.82,
   "e": 476.0,
   "speaker": "SEN. HAWLEY"
@@ -9354,7 +9354,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "it",
+  "w": "it.",
   "s": 476.52,
   "e": 476.72,
   "speaker": "SEN. HAWLEY"
@@ -9372,7 +9372,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "answer",
+  "w": "answer.",
   "s": 477.42,
   "e": 477.74,
   "speaker": "SEN. HAWLEY"
@@ -10614,13 +10614,13 @@
   "speaker": "SPIRIT (KLEIN)"
  },
  {
-  "w": "$79",
+  "w": "$79,",
   "s": 538.18,
   "e": 538.72,
   "speaker": "SPIRIT (KLEIN)"
  },
  {
-  "w": "and",
+  "w": "and...",
   "s": 538.72,
   "e": 540.12,
   "speaker": "SPIRIT (KLEIN)"
@@ -10776,7 +10776,7 @@
   "speaker": "SPIRIT (KLEIN)"
  },
  {
-  "w": "time",
+  "w": "time.",
   "s": 546.64,
   "e": 546.94,
   "speaker": "SPIRIT (KLEIN)"
@@ -10818,7 +10818,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "be",
+  "w": "be?",
   "s": 548.58,
   "e": 549.02,
   "speaker": "SEN. HAWLEY"
@@ -10848,7 +10848,7 @@
   "speaker": "SPIRIT (KLEIN)"
  },
  {
-  "w": "rephrase",
+  "w": "rephrase.",
   "s": 550.14,
   "e": 550.6,
   "speaker": "SPIRIT (KLEIN)"
@@ -10908,7 +10908,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "no",
+  "w": "no.",
   "s": 552.94,
   "e": 553.24,
   "speaker": "SEN. HAWLEY"
@@ -10944,7 +10944,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "interested",
+  "w": "interested.",
   "s": 554.12,
   "e": 554.42,
   "speaker": "SEN. HAWLEY"
@@ -10974,7 +10974,7 @@
   "speaker": "SEN. HAWLEY"
  },
  {
-  "w": "people",
+  "w": "people?",
   "s": 555.64,
   "e": 555.94,
   "speaker": "SEN. HAWLEY"
@@ -11010,7 +11010,7 @@
   "speaker": "SPIRIT (KLEIN)"
  },
  {
-  "w": "sir",
+  "w": "sir.",
   "s": 557.58,
   "e": 558.0,
   "speaker": "SPIRIT (KLEIN)"
