@@ -1,0 +1,206 @@
+[
+ {
+  "speaker": "MS. KARLAN",
+  "s": 1424.899,
+  "e": 1432.079,
+  "text": "to have probable cause for the -- for the offense of arrest in order to defeat a Fourth Amendment claim. Any probable --"
+ },
+ {
+  "speaker": "JUSTICE GORSUCH",
+  "s": 1432.119,
+  "e": 1438.399,
+  "text": "That's true in the Fourth Amendment context, but would it necessarily hold in the First Amendment context, I believe is the Chief Justice's question?"
+ },
+ {
+  "speaker": "MS. KARLAN",
+  "s": 1438.679,
+  "e": 1449.079,
+  "text": "Sure. And you could reverse in this case on the grounds that you're going to apply Hartman as written and not add a kind of Devenpeck chaser to it, if you will. And that would be a --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1449.079,
+  "e": 1450.099,
+  "text": "Do you recommend that?"
+ },
+ {
+  "speaker": "MS. KARLAN",
+  "s": 1450.779,
+  "e": 1452.239,
+  "text": "I would -- I would love that."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1452.459,
+  "e": 1453.499,
+  "text": "In your case."
+ },
+ {
+  "speaker": "MS. KARLAN",
+  "s": 1453.599,
+  "e": 1454.839,
+  "text": "In our case, we would love that."
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1454.839,
+  "e": 1456.059,
+  "text": "But is it a good rule? Meaning --"
+ },
+ {
+  "speaker": "MS. KARLAN",
+  "s": 1456.279,
+  "e": 1476.179,
+  "text": "We think the best rule is the rule we advocated for, which is that probable cause is relevant evidence but not always dispositive. But, certainly, in our case, if you applied Hartman as written, you would say, well, in Hartman, it was the offenses of prosecution; if you show no probable cause on those, they can't come back and say: Oh, well, there was mail fraud as well. I mean, it's starting to sound --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1476.179,
+  "e": 1523.319,
+  "text": "If we do away with Devenpeck, though, as -- if I remember here, the -- the sergeant, I think, or whomever initially looked at the case said there is grounds for probable cause, but we're not going to get a conviction, so that's why we're not going to proceed. Now the judge said there's no probable cause on the facts as they existed, but you can well imagine that officers filled with animus could scour the books at the booking station and they could look for something that might fit the day as well but still not have been something they would have otherwise arrested for."
+ },
+ {
+  "speaker": "MS. KARLAN",
+  "s": 1523.859,
+  "e": 1531.479,
+  "text": "Sure, which is why we think the best rule is that probable cause is relevant but not dispositive. If I may reserve the remainder of my time."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1531.899,
+  "e": 1541.659,
+  "text": "Thank you, counsel. Mr. Dvoretzky."
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1542.799,
+  "e": 1653.159,
+  "text": "Mr. Chief Justice, and -- and may it please the Court: During Ms. Karlan's argument, I wrote -- wrote down four potential backstops to address the hypothetical -- the hypothetical that Justice Kennedy raised and that Justice Breyer echoed about a police officer dealing with a riot in a bar. I'd like to explain why none of the four that I wrote down are sufficient and why the long-standing common law rule and the rule in Hartman ought to be the one that applies here. The four that I wrote down were pleading standards, qualified immunity, Mt. Healthy, and a distinction between felonies or major crimes and other crimes. First, with respect to the pleading standards, it's critical to understand that police officers must concededly take account of speech when deciding whether to arrest in many situations. The bar example is one of those. And police officers need to have an objective -- an objective basis on which their conduct will be judged. It -- it is virtually impossible for police officers themselves in the bar kind of situation to disaggregate their own thought processes and understand whether -- and re-create after the fact, certainly, whether they carried out an arrest because of the -- the content of somebody's speech and their dislike for it, or because the content of somebody's speech suggested belligerence and suggested a likelihood to -- to continue to incite violence and there was a need to arrest in order to contain the situation. The problem with a pleading standard rule, as the Ninth Circuit demonstrates, is that there are many cases in which police officers and arrestees simply have a different view of what happened. And the Ninth Circuit sends those cases to juries, and, regularly, the juries ultimately find for the police officers but only after they've been forced to endure all of the burdens of litigation."
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1653.339,
+  "e": 1670.879,
+  "text": "Mr. Dvoretzky, I want to give you an opportunity to address each of your four if you want, but -- but if I may say, I mean, Ms. Karlan was having some difficulty with hypotheticals. But you might have some difficulty with the facts of your case. So if I could -- (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1670.879,
+  "e": 1707.039,
+  "text": "-- move you to the facts of your case and suggest the kind of dangers that it poses, which is that in a local government, there are people who become real sort of pains to local officials, and -- and local officials want to retaliate against them, for all the various things they say, charging corruption, doing whatever Mr. Lozman did. I'm sure that there's one in every town. And just the nature of our lives and the nature of our criminal statute books, there's a lot to be arrested for. (Laughter.)"
+ },
+ {
+  "speaker": "JUSTICE KAGAN",
+  "s": 1707.779,
+  "e": 1728.079,
+  "text": "So you follow somebody around and they commit a traffic violation of a pretty minor kind, and all of a sudden you're sitting in jail for 48 hours before they decide to release you. So that's a pretty big problem, it seems to me, and it's right here in kind of the facts of this case. So I guess I'd like you to respond to that."
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1729.099,
+  "e": 1750.299,
+  "text": "Justice Kagan, let me respond to that, first, in terms of the facts of this case and then more generally about the legal rule that ought to be -- that ought to be drawn here. A couple of critical things about the facts of this case. One, Officer Aguirre testified that he made the independent decision to arrest Mr. Lozman and that he had never heard of Mr. Lozman before the incident in which this arrest took place. Second --"
+ },
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 1750.299,
+  "e": 1753.35,
+  "text": "Wasn't he told to arrest? Didn't Wade say call -- call the officer?"
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1754.55,
+  "e": 1773.939,
+  "text": "Councilperson Wade said call the officer, but Officer Aguirre made the decision to arrest. Just because somebody calls the police doesn't mean that the police will actually act on that, especially where here the testimony was that Officer Aguirre made the independent decision and had to make the independent decision. He could not --"
+ },
+ {
+  "speaker": "JUSTICE KENNEDY",
+  "s": 1773.939,
+  "e": 1783.319,
+  "text": "Let's -- let's assume that this officer has qualified immunity and that perhaps he didn't even violate the law anyway. What about the city council?"
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1785.019,
+  "e": 1814.479,
+  "text": "So the city council -- first, we could discuss the transcript. I -- the transcript that Ms. Karlan relies on does not support the notion of a -- a scheme to get at Mr. Lozman. There -- there was one comment by one city councilperson expressing frustration, followed by five or six pages of transcript testimony in which the city councilmembers agreed to put all of the resources they needed into the litigation and to defeat the litigation. That is what they agreed to do."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1814.479,
+  "e": 1815.279,
+  "text": "You're talking about the closed -- the closed meeting?"
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1815.419,
+  "e": 1815.779,
+  "text": "Correct."
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1815.779,
+  "e": 1816.999,
+  "text": "Okay."
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1816.999,
+  "e": 1851.819,
+  "text": "And if, in fact, there were some sort of a plan to get at Mr. Lozman, why would the city council have let him speak uninterrupted many times, both before and after the particular incident that was at issue here? And why would the jury have found in the city's favor not only on this claim but also on the other forms of Mr. -- of retaliation that Mr. Lozman alleged? So, on the facts of this case, first of all, I dispute Ms. Karlan's characterization of them. Second, and more importantly, the Court, as in Hartman, should not make a general rule for the facts of this case. As the court --"
+ },
+ {
+  "speaker": "CHIEF JUSTICE ROBERTS",
+  "s": 1851.819,
+  "e": 1873.359,
+  "text": "Well, regardless of what happened before or after, I found the video pretty chilling. I mean, the fellow is up there for about 15 seconds, and the next thing he knows, he's being led off in -- in -- in handcuffs, speaking in a very calm voice the whole time. Now the council may not have liked what he was talking about, but that doesn't mean they get to cuff him and -- and lead him out."
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1874.119,
+  "e": 1888.439,
+  "text": "Well, the -- there was probable cause in that situation to arrest him for unlawful disturbance. He repeatedly failed to heed Ms. Wade's and Officer Aguirre's directions to stay on topic. There -- there was a finding by the district court here that comments --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1888.439,
+  "e": 1904.459,
+  "text": "He was on topic. Assume that fact. He started by saying: There's been arrest -- an arrest for corruption, which was true. And then he tried to say: And I've been telling you that other people are corrupt. Why is that off topic?"
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1905.259,
+  "e": 1916.899,
+  "text": "Because the corruption that he alleged related to Palm Beach County corruption. And as the district court found, the -- the topics to be addressed at these meetings had to relate to topics related to the city, not related to the county."
+ },
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 1916.979,
+  "e": 1918.419,
+  "text": "The city is within the county?"
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 1919.419,
+  "e": 1944.619,
+  "text": "The city is within the county, but that -- that is the line that the policy drew. It's a city council meeting to talk about city business and city officials, not county officials. The -- the more fundamental point here, though, is that, as in Hartman, the Court in -- in Footnote 10 in Hartman put it rather colorfully. You don't design a retirement system because you might win the lottery, which is to say you don't design the general rule for the extremely rare one-off case, particularly when --"
+ },
+ {
+  "speaker": "JUSTICE SOTOMAYOR",
+  "s": 1944.619,
+  "e": 1944.619,
+  "text": "I'm sorry, though, that --"
+ },
+ {
+  "speaker": "JUSTICE GINSBURG",
+  "s": 1944.619,
+  "e": 1998.519,
+  "text": "But Hartman -- Hartman turned very much on the -- the prosecutor and the assurance that the prosecutor is going to be a check against -- you know, you had the postal inspectors and -- but it was the prosecutor who made the decision to prosecute. And here there's no one like the prosecutor who has absolute immunity and is a -- is a person that we generally think of as upright. And here there's nothing like that. The -- the arrest, at least it looked like from the tape, was motivated by Wade, who was just very annoyed at Mr. Lozman."
+ },
+ {
+  "speaker": "MR. DVORETZKY",
+  "s": 2000.339,
+  "e": 2042.339,
+  "text": "Justice Ginsburg, I respectfully disagree with that characterization of Hartman. In Hartman, the Court said that the prosecutorial immunity was an added reason for the rule that the Court adopted, but the heart of the Court's analysis in Hartman was about causation. It was about the complex causation problems that arose in that case because you had multiple actors. You had the police officer who allegedly induced the prosecutor to act. Here, you have at least as significant a causation problem because of the ways in which police officers concededly must account for speech in an arrest. And police officers should not be deterred from making legitimate arrests, whether for major crimes or for minor crimes,"
+ }
+]

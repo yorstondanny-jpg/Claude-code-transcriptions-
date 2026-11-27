@@ -1,0 +1,10244 @@
+[
+ {
+  "w": "to",
+  "s": 1424.899,
+  "e": 1425.179,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "have",
+  "s": 1425.179,
+  "e": 1425.499,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "probable",
+  "s": 1425.499,
+  "e": 1425.959,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "cause",
+  "s": 1425.959,
+  "e": 1426.399,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "for",
+  "s": 1426.399,
+  "e": 1426.659,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "the --",
+  "s": 1426.659,
+  "e": 1427.119,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "for",
+  "s": 1427.979,
+  "e": 1428.099,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "the",
+  "s": 1428.099,
+  "e": 1428.219,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "offense",
+  "s": 1428.219,
+  "e": 1428.519,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "of",
+  "s": 1428.519,
+  "e": 1428.699,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "arrest",
+  "s": 1428.699,
+  "e": 1429.219,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "in",
+  "s": 1429.219,
+  "e": 1429.859,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "order",
+  "s": 1429.859,
+  "e": 1430.099,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "to",
+  "s": 1430.099,
+  "e": 1430.299,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "defeat",
+  "s": 1430.299,
+  "e": 1430.579,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "a",
+  "s": 1430.579,
+  "e": 1430.719,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Fourth",
+  "s": 1430.719,
+  "e": 1430.899,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Amendment",
+  "s": 1430.899,
+  "e": 1431.159,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "claim.",
+  "s": 1431.159,
+  "e": 1431.419,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Any",
+  "s": 1431.539,
+  "e": 1431.839,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "probable --",
+  "s": 1431.839,
+  "e": 1432.079,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "That's",
+  "s": 1432.119,
+  "e": 1432.119,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "true",
+  "s": 1432.119,
+  "e": 1432.219,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "in",
+  "s": 1432.219,
+  "e": 1432.319,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "the",
+  "s": 1432.319,
+  "e": 1432.439,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "Fourth",
+  "s": 1432.439,
+  "e": 1432.639,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "Amendment",
+  "s": 1432.639,
+  "e": 1432.919,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "context,",
+  "s": 1432.919,
+  "e": 1433.459,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "but",
+  "s": 1433.459,
+  "e": 1433.819,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "would",
+  "s": 1433.819,
+  "e": 1434.199,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "it",
+  "s": 1434.199,
+  "e": 1434.339,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "necessarily",
+  "s": 1434.339,
+  "e": 1434.779,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "hold",
+  "s": 1434.779,
+  "e": 1435.159,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "in",
+  "s": 1435.159,
+  "e": 1435.319,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "the",
+  "s": 1435.319,
+  "e": 1435.479,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "First",
+  "s": 1435.479,
+  "e": 1435.659,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "Amendment",
+  "s": 1435.659,
+  "e": 1435.939,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "context,",
+  "s": 1435.939,
+  "e": 1436.439,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "I",
+  "s": 1436.519,
+  "e": 1436.639,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "believe",
+  "s": 1436.639,
+  "e": 1436.779,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "is",
+  "s": 1436.779,
+  "e": 1436.959,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "the",
+  "s": 1436.959,
+  "e": 1437.279,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "Chief",
+  "s": 1437.279,
+  "e": 1437.479,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "Justice's",
+  "s": 1437.479,
+  "e": 1438.119,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "question?",
+  "s": 1438.119,
+  "e": 1438.399,
+  "speaker": "JUSTICE GORSUCH"
+ },
+ {
+  "w": "Sure.",
+  "s": 1438.679,
+  "e": 1438.939,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "And",
+  "s": 1438.979,
+  "e": 1439.099,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "you",
+  "s": 1439.099,
+  "e": 1439.219,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "could",
+  "s": 1439.219,
+  "e": 1439.379,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "reverse",
+  "s": 1439.379,
+  "e": 1439.719,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "in",
+  "s": 1439.719,
+  "e": 1439.959,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "this",
+  "s": 1439.959,
+  "e": 1440.159,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "case",
+  "s": 1440.159,
+  "e": 1440.359,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "on",
+  "s": 1440.359,
+  "e": 1440.579,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "the",
+  "s": 1440.579,
+  "e": 1440.739,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "grounds",
+  "s": 1440.739,
+  "e": 1441.099,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "that",
+  "s": 1441.099,
+  "e": 1441.479,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "you're",
+  "s": 1441.479,
+  "e": 1441.739,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "going",
+  "s": 1441.739,
+  "e": 1441.859,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "to",
+  "s": 1441.859,
+  "e": 1441.959,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "apply",
+  "s": 1441.959,
+  "e": 1442.239,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Hartman",
+  "s": 1442.239,
+  "e": 1442.639,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "as",
+  "s": 1442.639,
+  "e": 1443.039,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "written",
+  "s": 1443.039,
+  "e": 1443.419,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "and",
+  "s": 1443.419,
+  "e": 1443.939,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "not",
+  "s": 1443.939,
+  "e": 1444.279,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "add",
+  "s": 1444.279,
+  "e": 1444.619,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "a",
+  "s": 1444.619,
+  "e": 1444.739,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "kind",
+  "s": 1444.739,
+  "e": 1444.879,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "of",
+  "s": 1444.879,
+  "e": 1445.059,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Devenpeck",
+  "s": 1445.059,
+  "e": 1445.519,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "chaser",
+  "s": 1445.519,
+  "e": 1446.019,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "to",
+  "s": 1446.019,
+  "e": 1446.339,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "it,",
+  "s": 1446.339,
+  "e": 1446.479,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "if",
+  "s": 1446.499,
+  "e": 1446.619,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "you",
+  "s": 1446.619,
+  "e": 1446.759,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "will.",
+  "s": 1446.759,
+  "e": 1447.019,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "And",
+  "s": 1447.699,
+  "e": 1448.139,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "that",
+  "s": 1448.139,
+  "e": 1448.419,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "would",
+  "s": 1448.419,
+  "e": 1448.679,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "be",
+  "s": 1448.679,
+  "e": 1448.939,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "a --",
+  "s": 1448.939,
+  "e": 1449.079,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Do",
+  "s": 1449.079,
+  "e": 1449.199,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "you",
+  "s": 1449.199,
+  "e": 1449.359,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "recommend",
+  "s": 1449.359,
+  "e": 1449.719,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that?",
+  "s": 1449.719,
+  "e": 1450.099,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "I",
+  "s": 1450.779,
+  "e": 1451.219,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "would --",
+  "s": 1451.219,
+  "e": 1451.399,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "I",
+  "s": 1451.399,
+  "e": 1451.599,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "would",
+  "s": 1451.599,
+  "e": 1451.719,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "love",
+  "s": 1451.719,
+  "e": 1451.879,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "that.",
+  "s": 1451.879,
+  "e": 1452.239,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "In",
+  "s": 1452.459,
+  "e": 1452.879,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "your",
+  "s": 1452.879,
+  "e": 1453.099,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "case.",
+  "s": 1453.099,
+  "e": 1453.499,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "In",
+  "s": 1453.599,
+  "e": 1453.739,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "our",
+  "s": 1453.739,
+  "e": 1453.899,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "case,",
+  "s": 1453.899,
+  "e": 1454.119,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "we",
+  "s": 1454.239,
+  "e": 1454.339,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "would",
+  "s": 1454.339,
+  "e": 1454.479,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "love",
+  "s": 1454.479,
+  "e": 1454.639,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "that.",
+  "s": 1454.639,
+  "e": 1454.839,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "But",
+  "s": 1454.839,
+  "e": 1454.976,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "is",
+  "s": 1454.976,
+  "e": 1455.112,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "it",
+  "s": 1455.112,
+  "e": 1455.249,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 1455.249,
+  "e": 1455.386,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "good",
+  "s": 1455.386,
+  "e": 1455.522,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "rule?",
+  "s": 1455.522,
+  "e": 1455.659,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Meaning --",
+  "s": 1455.659,
+  "e": 1456.059,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "We",
+  "s": 1456.279,
+  "e": 1456.279,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "think",
+  "s": 1456.279,
+  "e": 1456.639,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "the",
+  "s": 1456.639,
+  "e": 1456.839,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "best",
+  "s": 1456.839,
+  "e": 1457.059,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "rule",
+  "s": 1457.059,
+  "e": 1457.319,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "is",
+  "s": 1457.319,
+  "e": 1457.499,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "the",
+  "s": 1457.499,
+  "e": 1457.679,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "rule",
+  "s": 1457.679,
+  "e": 1457.819,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "we",
+  "s": 1457.819,
+  "e": 1458.039,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "advocated",
+  "s": 1458.039,
+  "e": 1458.499,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "for,",
+  "s": 1458.499,
+  "e": 1458.879,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "which",
+  "s": 1458.979,
+  "e": 1459.099,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "is",
+  "s": 1459.099,
+  "e": 1459.399,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "that",
+  "s": 1459.399,
+  "e": 1459.679,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "probable",
+  "s": 1459.679,
+  "e": 1460.059,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "cause",
+  "s": 1460.059,
+  "e": 1460.399,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "is",
+  "s": 1460.399,
+  "e": 1460.659,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "relevant",
+  "s": 1460.659,
+  "e": 1461.159,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "evidence",
+  "s": 1461.159,
+  "e": 1461.719,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "but",
+  "s": 1461.719,
+  "e": 1461.979,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "not",
+  "s": 1461.979,
+  "e": 1462.319,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "always",
+  "s": 1462.319,
+  "e": 1462.939,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "dispositive.",
+  "s": 1462.939,
+  "e": 1463.679,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "But,",
+  "s": 1464.039,
+  "e": 1464.399,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "certainly,",
+  "s": 1464.399,
+  "e": 1464.699,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "in",
+  "s": 1464.699,
+  "e": 1464.859,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "our",
+  "s": 1464.859,
+  "e": 1465.019,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "case,",
+  "s": 1465.019,
+  "e": 1465.379,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "if",
+  "s": 1465.659,
+  "e": 1465.879,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "you",
+  "s": 1465.879,
+  "e": 1466.019,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "applied",
+  "s": 1466.019,
+  "e": 1466.479,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Hartman",
+  "s": 1466.479,
+  "e": 1466.899,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "as",
+  "s": 1466.899,
+  "e": 1467.159,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "written,",
+  "s": 1467.159,
+  "e": 1467.459,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "you",
+  "s": 1467.839,
+  "e": 1468.019,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "would",
+  "s": 1468.019,
+  "e": 1468.159,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "say,",
+  "s": 1468.159,
+  "e": 1468.399,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "well,",
+  "s": 1468.539,
+  "e": 1468.579,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "in",
+  "s": 1468.599,
+  "e": 1468.759,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Hartman,",
+  "s": 1468.759,
+  "e": 1469.099,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "it",
+  "s": 1469.099,
+  "e": 1469.279,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "was",
+  "s": 1469.279,
+  "e": 1469.479,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "the",
+  "s": 1469.479,
+  "e": 1469.679,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "offenses",
+  "s": 1469.679,
+  "e": 1469.999,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "of",
+  "s": 1469.999,
+  "e": 1470.219,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "prosecution;",
+  "s": 1470.219,
+  "e": 1470.879,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "if",
+  "s": 1471.079,
+  "e": 1471.479,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "you",
+  "s": 1471.479,
+  "e": 1471.619,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "show",
+  "s": 1471.619,
+  "e": 1471.779,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "no",
+  "s": 1471.779,
+  "e": 1471.939,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "probable",
+  "s": 1471.939,
+  "e": 1472.259,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "cause",
+  "s": 1472.259,
+  "e": 1472.539,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "on",
+  "s": 1472.539,
+  "e": 1472.699,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "those,",
+  "s": 1472.699,
+  "e": 1472.859,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "they",
+  "s": 1472.919,
+  "e": 1473.019,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "can't",
+  "s": 1473.019,
+  "e": 1473.199,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "come",
+  "s": 1473.199,
+  "e": 1473.339,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "back",
+  "s": 1473.339,
+  "e": 1473.459,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "and",
+  "s": 1473.459,
+  "e": 1473.579,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "say:",
+  "s": 1473.579,
+  "e": 1473.679,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Oh,",
+  "s": 1473.759,
+  "e": 1473.879,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "well,",
+  "s": 1473.879,
+  "e": 1474.059,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "there",
+  "s": 1474.059,
+  "e": 1474.159,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "was",
+  "s": 1474.159,
+  "e": 1474.299,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "mail",
+  "s": 1474.299,
+  "e": 1474.519,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "fraud",
+  "s": 1474.519,
+  "e": 1474.759,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "as",
+  "s": 1474.759,
+  "e": 1474.939,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "well.",
+  "s": 1474.939,
+  "e": 1475.119,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "I",
+  "s": 1475.299,
+  "e": 1475.359,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "mean,",
+  "s": 1475.359,
+  "e": 1475.419,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "it's",
+  "s": 1475.439,
+  "e": 1475.619,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "starting",
+  "s": 1475.619,
+  "e": 1475.859,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "to",
+  "s": 1475.859,
+  "e": 1476.159,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "sound --",
+  "s": 1476.159,
+  "e": 1476.179,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "If",
+  "s": 1476.179,
+  "e": 1476.199,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "we",
+  "s": 1476.199,
+  "e": 1476.219,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "do",
+  "s": 1476.219,
+  "e": 1476.559,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "away",
+  "s": 1476.559,
+  "e": 1477.139,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "with",
+  "s": 1477.139,
+  "e": 1477.419,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Devenpeck,",
+  "s": 1477.419,
+  "e": 1477.959,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "though,",
+  "s": 1478.559,
+  "e": 1478.759,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "as --",
+  "s": 1479.319,
+  "e": 1479.559,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "if",
+  "s": 1479.759,
+  "e": 1479.799,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "I",
+  "s": 1479.799,
+  "e": 1479.959,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "remember",
+  "s": 1479.959,
+  "e": 1480.399,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "here,",
+  "s": 1480.399,
+  "e": 1481.199,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the --",
+  "s": 1482.979,
+  "e": 1483.519,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 1483.759,
+  "e": 1485.339,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sergeant,",
+  "s": 1485.339,
+  "e": 1485.639,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "I",
+  "s": 1485.899,
+  "e": 1485.939,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "think,",
+  "s": 1485.939,
+  "e": 1486.239,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "or",
+  "s": 1486.719,
+  "e": 1486.859,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "whomever",
+  "s": 1486.859,
+  "e": 1487.399,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "initially",
+  "s": 1487.399,
+  "e": 1488.079,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "looked",
+  "s": 1488.079,
+  "e": 1488.399,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "at",
+  "s": 1488.399,
+  "e": 1488.599,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 1488.599,
+  "e": 1488.759,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "case",
+  "s": 1488.759,
+  "e": 1489.119,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "said",
+  "s": 1489.839,
+  "e": 1490.279,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "there",
+  "s": 1490.279,
+  "e": 1491.099,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "is",
+  "s": 1491.099,
+  "e": 1491.479,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "grounds",
+  "s": 1491.479,
+  "e": 1492.039,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for",
+  "s": 1492.039,
+  "e": 1492.299,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "probable",
+  "s": 1492.299,
+  "e": 1492.679,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "cause,",
+  "s": 1492.679,
+  "e": 1493.279,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "but",
+  "s": 1493.439,
+  "e": 1493.999,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "we're",
+  "s": 1493.999,
+  "e": 1494.259,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 1494.259,
+  "e": 1494.419,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "going",
+  "s": 1494.419,
+  "e": 1494.559,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 1494.559,
+  "e": 1494.639,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "get",
+  "s": 1494.639,
+  "e": 1494.759,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "a",
+  "s": 1494.759,
+  "e": 1494.939,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "conviction,",
+  "s": 1494.939,
+  "e": 1495.319,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "so",
+  "s": 1495.459,
+  "e": 1495.659,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that's",
+  "s": 1495.659,
+  "e": 1495.979,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "why",
+  "s": 1495.979,
+  "e": 1496.119,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "we're",
+  "s": 1496.119,
+  "e": 1496.319,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 1496.319,
+  "e": 1496.459,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "going",
+  "s": 1496.459,
+  "e": 1496.639,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 1496.639,
+  "e": 1496.799,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "proceed.",
+  "s": 1496.799,
+  "e": 1497.239,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Now",
+  "s": 1498.239,
+  "e": 1498.299,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 1498.299,
+  "e": 1498.499,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "judge",
+  "s": 1498.499,
+  "e": 1498.699,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "said",
+  "s": 1498.699,
+  "e": 1498.979,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "there's",
+  "s": 1498.979,
+  "e": 1499.359,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "no",
+  "s": 1499.359,
+  "e": 1499.619,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "probable",
+  "s": 1499.619,
+  "e": 1500.099,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "cause",
+  "s": 1500.099,
+  "e": 1500.599,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 1500.599,
+  "e": 1500.939,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 1500.939,
+  "e": 1501.179,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "facts",
+  "s": 1501.179,
+  "e": 1501.499,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "as",
+  "s": 1501.499,
+  "e": 1501.879,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "they",
+  "s": 1501.879,
+  "e": 1502.099,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "existed,",
+  "s": 1502.099,
+  "e": 1502.619,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "but",
+  "s": 1503.999,
+  "e": 1504.759,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "you",
+  "s": 1504.759,
+  "e": 1505.739,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "can",
+  "s": 1505.739,
+  "e": 1505.999,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "well",
+  "s": 1505.999,
+  "e": 1506.319,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "imagine",
+  "s": 1506.319,
+  "e": 1506.839,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 1506.839,
+  "e": 1507.499,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "officers",
+  "s": 1507.499,
+  "e": 1508.699,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "filled",
+  "s": 1508.699,
+  "e": 1509.699,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "with",
+  "s": 1509.699,
+  "e": 1510.039,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "animus",
+  "s": 1510.039,
+  "e": 1510.599,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "could",
+  "s": 1510.599,
+  "e": 1511.139,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "scour",
+  "s": 1511.139,
+  "e": 1511.699,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 1511.699,
+  "e": 1511.959,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "books",
+  "s": 1511.959,
+  "e": 1512.219,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "at",
+  "s": 1512.219,
+  "e": 1512.699,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 1512.699,
+  "e": 1513.039,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "booking",
+  "s": 1513.039,
+  "e": 1513.279,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "station",
+  "s": 1513.279,
+  "e": 1513.739,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "and",
+  "s": 1513.839,
+  "e": 1514.919,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "they",
+  "s": 1514.919,
+  "e": 1515.099,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "could",
+  "s": 1515.099,
+  "e": 1515.339,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "look",
+  "s": 1515.339,
+  "e": 1516.019,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for",
+  "s": 1516.019,
+  "e": 1516.359,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "something",
+  "s": 1516.359,
+  "e": 1516.779,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 1516.779,
+  "e": 1517.039,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "might",
+  "s": 1517.039,
+  "e": 1517.339,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "fit",
+  "s": 1517.339,
+  "e": 1517.899,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "the",
+  "s": 1517.899,
+  "e": 1518.179,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "day",
+  "s": 1518.179,
+  "e": 1518.419,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "as",
+  "s": 1518.419,
+  "e": 1519.039,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "well",
+  "s": 1519.039,
+  "e": 1519.399,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "but",
+  "s": 1519.399,
+  "e": 1520.019,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "still",
+  "s": 1520.019,
+  "e": 1520.339,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "not",
+  "s": 1520.339,
+  "e": 1520.579,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 1520.579,
+  "e": 1520.799,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "been",
+  "s": 1520.799,
+  "e": 1521.019,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "something",
+  "s": 1521.019,
+  "e": 1521.319,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "they",
+  "s": 1521.319,
+  "e": 1521.579,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "would",
+  "s": 1521.579,
+  "e": 1521.719,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "have",
+  "s": 1521.719,
+  "e": 1521.899,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "otherwise",
+  "s": 1521.899,
+  "e": 1522.359,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "arrested",
+  "s": 1522.359,
+  "e": 1522.879,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for.",
+  "s": 1522.879,
+  "e": 1523.319,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Sure,",
+  "s": 1523.859,
+  "e": 1523.879,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "which",
+  "s": 1523.899,
+  "e": 1524.099,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "is",
+  "s": 1524.099,
+  "e": 1524.219,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "why",
+  "s": 1524.219,
+  "e": 1524.379,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "we",
+  "s": 1524.379,
+  "e": 1524.519,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "think",
+  "s": 1524.519,
+  "e": 1524.679,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "the",
+  "s": 1524.679,
+  "e": 1524.859,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "best",
+  "s": 1524.859,
+  "e": 1525.079,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "rule",
+  "s": 1525.079,
+  "e": 1525.419,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "is",
+  "s": 1525.419,
+  "e": 1525.939,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "that",
+  "s": 1525.939,
+  "e": 1526.159,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "probable",
+  "s": 1526.159,
+  "e": 1526.619,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "cause",
+  "s": 1526.619,
+  "e": 1527.179,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "is",
+  "s": 1527.179,
+  "e": 1527.519,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "relevant",
+  "s": 1527.519,
+  "e": 1528.119,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "but",
+  "s": 1528.119,
+  "e": 1528.399,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "not",
+  "s": 1528.399,
+  "e": 1528.659,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "dispositive.",
+  "s": 1528.659,
+  "e": 1529.419,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "If",
+  "s": 1529.819,
+  "e": 1530.059,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "I",
+  "s": 1530.059,
+  "e": 1530.199,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "may",
+  "s": 1530.199,
+  "e": 1530.319,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "reserve",
+  "s": 1530.319,
+  "e": 1530.619,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "the",
+  "s": 1530.619,
+  "e": 1530.839,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "remainder",
+  "s": 1530.839,
+  "e": 1531.059,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "of",
+  "s": 1531.059,
+  "e": 1531.239,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "my",
+  "s": 1531.239,
+  "e": 1531.379,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "time.",
+  "s": 1531.379,
+  "e": 1531.479,
+  "speaker": "MS. KARLAN"
+ },
+ {
+  "w": "Thank",
+  "s": 1531.899,
+  "e": 1532.079,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "you,",
+  "s": 1532.079,
+  "e": 1532.279,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "counsel.",
+  "s": 1532.279,
+  "e": 1532.559,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Mr.",
+  "s": 1540.679,
+  "e": 1541.199,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Dvoretzky.",
+  "s": 1541.299,
+  "e": 1541.659,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Mr.",
+  "s": 1542.799,
+  "e": 1543.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Chief",
+  "s": 1543.399,
+  "e": 1543.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Justice,",
+  "s": 1543.559,
+  "e": 1543.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and --",
+  "s": 1543.959,
+  "e": 1544.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1544.059,
+  "e": 1544.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "may",
+  "s": 1544.199,
+  "e": 1544.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "it",
+  "s": 1544.559,
+  "e": 1544.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "please",
+  "s": 1544.719,
+  "e": 1544.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1544.859,
+  "e": 1545.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Court:",
+  "s": 1545.099,
+  "e": 1545.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "During",
+  "s": 1546.379,
+  "e": 1546.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Ms.",
+  "s": 1546.639,
+  "e": 1546.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Karlan's",
+  "s": 1546.999,
+  "e": 1547.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "argument,",
+  "s": 1547.379,
+  "e": 1547.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "I",
+  "s": 1548.059,
+  "e": 1548.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "wrote --",
+  "s": 1548.119,
+  "e": 1548.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "wrote",
+  "s": 1548.119,
+  "e": 1548.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "down",
+  "s": 1548.579,
+  "e": 1548.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "four",
+  "s": 1548.939,
+  "e": 1549.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "potential",
+  "s": 1549.439,
+  "e": 1550.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "backstops",
+  "s": 1550.239,
+  "e": 1551.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1551.059,
+  "e": 1551.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "address",
+  "s": 1551.519,
+  "e": 1551.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1551.959,
+  "e": 1552.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "hypothetical --",
+  "s": 1552.339,
+  "e": 1552.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1552.999,
+  "e": 1553.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "hypothetical",
+  "s": 1553.339,
+  "e": 1553.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1553.699,
+  "e": 1553.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Justice",
+  "s": 1553.879,
+  "e": 1554.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Kennedy",
+  "s": 1554.039,
+  "e": 1554.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "raised",
+  "s": 1554.299,
+  "e": 1554.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1554.739,
+  "e": 1554.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1554.919,
+  "e": 1555.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Justice",
+  "s": 1555.119,
+  "e": 1555.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Breyer",
+  "s": 1555.319,
+  "e": 1555.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "echoed",
+  "s": 1555.659,
+  "e": 1556.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "about",
+  "s": 1556.039,
+  "e": 1556.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1556.659,
+  "e": 1556.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 1556.819,
+  "e": 1557.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officer",
+  "s": 1557.019,
+  "e": 1557.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "dealing",
+  "s": 1557.379,
+  "e": 1557.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "with",
+  "s": 1557.619,
+  "e": 1557.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1557.779,
+  "e": 1557.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "riot",
+  "s": 1557.939,
+  "e": 1558.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1558.079,
+  "e": 1558.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1558.219,
+  "e": 1558.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "bar.",
+  "s": 1558.399,
+  "e": 1558.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "I'd",
+  "s": 1558.859,
+  "e": 1559.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "like",
+  "s": 1559.099,
+  "e": 1559.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1559.219,
+  "e": 1559.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "explain",
+  "s": 1559.339,
+  "e": 1559.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "why",
+  "s": 1559.659,
+  "e": 1560.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "none",
+  "s": 1560.039,
+  "e": 1560.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1560.439,
+  "e": 1560.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1560.579,
+  "e": 1560.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "four",
+  "s": 1560.719,
+  "e": 1560.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1560.899,
+  "e": 1561.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "I",
+  "s": 1561.079,
+  "e": 1561.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "wrote",
+  "s": 1561.219,
+  "e": 1561.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "down",
+  "s": 1561.459,
+  "e": 1561.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "are",
+  "s": 1561.859,
+  "e": 1562.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "sufficient",
+  "s": 1562.239,
+  "e": 1562.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1562.739,
+  "e": 1563.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "why",
+  "s": 1563.299,
+  "e": 1563.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1563.699,
+  "e": 1564.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "long-standing",
+  "s": 1564.059,
+  "e": 1564.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "common",
+  "s": 1564.459,
+  "e": 1564.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "law",
+  "s": 1564.879,
+  "e": 1565.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rule",
+  "s": 1565.079,
+  "e": 1565.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1565.439,
+  "e": 1565.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1565.879,
+  "e": 1565.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rule",
+  "s": 1565.979,
+  "e": 1566.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1566.159,
+  "e": 1566.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Hartman",
+  "s": 1566.399,
+  "e": 1566.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "ought",
+  "s": 1566.759,
+  "e": 1566.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1566.999,
+  "e": 1567.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "be",
+  "s": 1567.119,
+  "e": 1567.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1567.219,
+  "e": 1567.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "one",
+  "s": 1567.359,
+  "e": 1567.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1567.479,
+  "e": 1567.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "applies",
+  "s": 1567.599,
+  "e": 1567.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "here.",
+  "s": 1567.979,
+  "e": 1568.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "The",
+  "s": 1568.459,
+  "e": 1568.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "four",
+  "s": 1568.699,
+  "e": 1568.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1568.859,
+  "e": 1568.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "I",
+  "s": 1568.999,
+  "e": 1569.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "wrote",
+  "s": 1569.119,
+  "e": 1569.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "down",
+  "s": 1569.299,
+  "e": 1569.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "were",
+  "s": 1569.639,
+  "e": 1569.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "pleading",
+  "s": 1569.819,
+  "e": 1570.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "standards,",
+  "s": 1570.139,
+  "e": 1570.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "qualified",
+  "s": 1571.259,
+  "e": 1571.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "immunity,",
+  "s": 1571.619,
+  "e": 1572.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Mt.",
+  "s": 1572.839,
+  "e": 1572.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Healthy,",
+  "s": 1572.999,
+  "e": 1573.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1574.079,
+  "e": 1574.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1574.199,
+  "e": 1574.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "distinction",
+  "s": 1574.359,
+  "e": 1574.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "between",
+  "s": 1574.799,
+  "e": 1575.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "felonies",
+  "s": 1575.399,
+  "e": 1576.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "or",
+  "s": 1576.039,
+  "e": 1576.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "major",
+  "s": 1576.199,
+  "e": 1576.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "crimes",
+  "s": 1576.639,
+  "e": 1576.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1576.999,
+  "e": 1577.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "other",
+  "s": 1577.179,
+  "e": 1577.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "crimes.",
+  "s": 1577.339,
+  "e": 1577.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "First,",
+  "s": 1578.519,
+  "e": 1578.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "with",
+  "s": 1578.939,
+  "e": 1579.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "respect",
+  "s": 1579.039,
+  "e": 1579.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1579.379,
+  "e": 1579.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1579.619,
+  "e": 1579.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "pleading",
+  "s": 1579.759,
+  "e": 1580.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "standards,",
+  "s": 1580.139,
+  "e": 1580.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "it's",
+  "s": 1581.299,
+  "e": 1581.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "critical",
+  "s": 1581.519,
+  "e": 1581.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1581.839,
+  "e": 1582.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "understand",
+  "s": 1582.039,
+  "e": 1582.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1582.459,
+  "e": 1582.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 1582.679,
+  "e": 1583.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officers",
+  "s": 1583.019,
+  "e": 1583.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "must",
+  "s": 1583.599,
+  "e": 1584.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "concededly",
+  "s": 1584.859,
+  "e": 1585.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "take",
+  "s": 1585.879,
+  "e": 1586.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "account",
+  "s": 1586.259,
+  "e": 1586.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1586.639,
+  "e": 1586.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "speech",
+  "s": 1586.879,
+  "e": 1587.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "when",
+  "s": 1587.179,
+  "e": 1587.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "deciding",
+  "s": 1587.479,
+  "e": 1587.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "whether",
+  "s": 1587.879,
+  "e": 1588.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1588.139,
+  "e": 1588.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrest",
+  "s": 1588.359,
+  "e": 1588.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1588.759,
+  "e": 1589.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "many",
+  "s": 1589.139,
+  "e": 1589.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "situations.",
+  "s": 1589.399,
+  "e": 1589.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "The",
+  "s": 1590.119,
+  "e": 1590.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "bar",
+  "s": 1590.319,
+  "e": 1590.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "example",
+  "s": 1590.459,
+  "e": 1590.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "is",
+  "s": 1590.939,
+  "e": 1591.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "one",
+  "s": 1591.259,
+  "e": 1591.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1591.499,
+  "e": 1591.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "those.",
+  "s": 1591.659,
+  "e": 1592.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "And",
+  "s": 1592.219,
+  "e": 1592.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 1592.859,
+  "e": 1593.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officers",
+  "s": 1593.259,
+  "e": 1593.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "need",
+  "s": 1593.699,
+  "e": 1594.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1594.039,
+  "e": 1594.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "have",
+  "s": 1594.199,
+  "e": 1594.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "an",
+  "s": 1594.519,
+  "e": 1594.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "objective --",
+  "s": 1594.739,
+  "e": 1595.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "an",
+  "s": 1595.699,
+  "e": 1596.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "objective",
+  "s": 1596.079,
+  "e": 1596.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "basis",
+  "s": 1596.539,
+  "e": 1597.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "on",
+  "s": 1597.119,
+  "e": 1597.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "which",
+  "s": 1597.579,
+  "e": 1597.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "their",
+  "s": 1597.919,
+  "e": 1598.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "conduct",
+  "s": 1598.379,
+  "e": 1598.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "will",
+  "s": 1598.919,
+  "e": 1599.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "be",
+  "s": 1599.159,
+  "e": 1599.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "judged.",
+  "s": 1599.319,
+  "e": 1599.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "It --",
+  "s": 1599.719,
+  "e": 1601.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "it",
+  "s": 1601.079,
+  "e": 1601.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "is",
+  "s": 1601.759,
+  "e": 1602.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "virtually",
+  "s": 1602.319,
+  "e": 1603.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "impossible",
+  "s": 1603.259,
+  "e": 1603.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 1603.739,
+  "e": 1604.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 1604.039,
+  "e": 1604.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officers",
+  "s": 1604.379,
+  "e": 1604.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "themselves",
+  "s": 1604.799,
+  "e": 1605.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1605.539,
+  "e": 1606.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1606.299,
+  "e": 1606.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "bar",
+  "s": 1606.499,
+  "e": 1606.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "kind",
+  "s": 1606.639,
+  "e": 1606.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1606.939,
+  "e": 1607.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "situation",
+  "s": 1607.079,
+  "e": 1607.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1607.599,
+  "e": 1607.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "disaggregate",
+  "s": 1607.979,
+  "e": 1608.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "their",
+  "s": 1608.679,
+  "e": 1608.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "own",
+  "s": 1608.959,
+  "e": 1609.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "thought",
+  "s": 1609.259,
+  "e": 1609.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "processes",
+  "s": 1609.559,
+  "e": 1610.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1610.099,
+  "e": 1610.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "understand",
+  "s": 1610.779,
+  "e": 1611.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "whether --",
+  "s": 1611.379,
+  "e": 1612.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1612.359,
+  "e": 1612.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "re-create",
+  "s": 1612.459,
+  "e": 1612.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "after",
+  "s": 1612.779,
+  "e": 1613.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1613.079,
+  "e": 1613.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "fact,",
+  "s": 1613.259,
+  "e": 1613.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "certainly,",
+  "s": 1613.619,
+  "e": 1613.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "whether",
+  "s": 1614.259,
+  "e": 1614.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "they",
+  "s": 1614.459,
+  "e": 1614.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "carried",
+  "s": 1614.639,
+  "e": 1615.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "out",
+  "s": 1615.039,
+  "e": 1615.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "an",
+  "s": 1615.259,
+  "e": 1615.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrest",
+  "s": 1615.419,
+  "e": 1615.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "because",
+  "s": 1615.839,
+  "e": 1616.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1616.839,
+  "e": 1617.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the --",
+  "s": 1617.119,
+  "e": 1617.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1617.119,
+  "e": 1617.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "content",
+  "s": 1617.819,
+  "e": 1618.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1618.319,
+  "e": 1618.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "somebody's",
+  "s": 1618.519,
+  "e": 1619.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "speech",
+  "s": 1619.019,
+  "e": 1619.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1619.199,
+  "e": 1619.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "their",
+  "s": 1619.379,
+  "e": 1619.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "dislike",
+  "s": 1619.519,
+  "e": 1619.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 1619.899,
+  "e": 1620.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "it,",
+  "s": 1620.199,
+  "e": 1620.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "or",
+  "s": 1620.439,
+  "e": 1620.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "because",
+  "s": 1620.639,
+  "e": 1620.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1620.899,
+  "e": 1621.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "content",
+  "s": 1621.099,
+  "e": 1621.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1621.499,
+  "e": 1621.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "somebody's",
+  "s": 1621.699,
+  "e": 1622.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "speech",
+  "s": 1622.279,
+  "e": 1622.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "suggested",
+  "s": 1622.439,
+  "e": 1623.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "belligerence",
+  "s": 1623.399,
+  "e": 1624.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1624.259,
+  "e": 1624.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "suggested",
+  "s": 1624.799,
+  "e": 1625.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1625.479,
+  "e": 1625.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "likelihood",
+  "s": 1625.879,
+  "e": 1626.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to --",
+  "s": 1626.199,
+  "e": 1626.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1626.199,
+  "e": 1626.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "continue",
+  "s": 1626.659,
+  "e": 1627.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1627.059,
+  "e": 1627.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "incite",
+  "s": 1627.359,
+  "e": 1627.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "violence",
+  "s": 1627.719,
+  "e": 1628.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1628.339,
+  "e": 1628.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "there",
+  "s": 1628.679,
+  "e": 1628.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 1628.839,
+  "e": 1628.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1628.919,
+  "e": 1629.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "need",
+  "s": 1629.059,
+  "e": 1629.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1629.159,
+  "e": 1629.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrest",
+  "s": 1629.339,
+  "e": 1629.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1629.619,
+  "e": 1629.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "order",
+  "s": 1629.839,
+  "e": 1629.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1629.939,
+  "e": 1630.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "contain",
+  "s": 1630.099,
+  "e": 1630.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1630.399,
+  "e": 1630.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "situation.",
+  "s": 1630.579,
+  "e": 1631.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "The",
+  "s": 1631.939,
+  "e": 1632.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "problem",
+  "s": 1632.079,
+  "e": 1632.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "with",
+  "s": 1632.399,
+  "e": 1632.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1632.559,
+  "e": 1632.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "pleading",
+  "s": 1632.799,
+  "e": 1633.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "standard",
+  "s": 1633.019,
+  "e": 1633.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rule,",
+  "s": 1633.419,
+  "e": 1633.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "as",
+  "s": 1633.719,
+  "e": 1633.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1633.919,
+  "e": 1634.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Ninth",
+  "s": 1634.099,
+  "e": 1634.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Circuit",
+  "s": 1634.279,
+  "e": 1634.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "demonstrates,",
+  "s": 1634.559,
+  "e": 1635.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "is",
+  "s": 1635.459,
+  "e": 1635.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1635.859,
+  "e": 1636.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "there",
+  "s": 1636.079,
+  "e": 1636.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "are",
+  "s": 1636.239,
+  "e": 1636.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "many",
+  "s": 1636.459,
+  "e": 1636.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "cases",
+  "s": 1636.739,
+  "e": 1637.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1637.239,
+  "e": 1637.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "which",
+  "s": 1637.639,
+  "e": 1637.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 1637.899,
+  "e": 1638.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officers",
+  "s": 1638.479,
+  "e": 1638.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1638.959,
+  "e": 1639.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrestees",
+  "s": 1639.739,
+  "e": 1640.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "simply",
+  "s": 1640.399,
+  "e": 1640.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "have",
+  "s": 1640.939,
+  "e": 1641.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1641.259,
+  "e": 1641.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "different",
+  "s": 1641.539,
+  "e": 1641.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "view",
+  "s": 1641.819,
+  "e": 1642.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1642.099,
+  "e": 1642.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "what",
+  "s": 1642.259,
+  "e": 1642.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "happened.",
+  "s": 1642.439,
+  "e": 1642.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "And",
+  "s": 1642.779,
+  "e": 1643.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1643.659,
+  "e": 1644.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Ninth",
+  "s": 1644.119,
+  "e": 1644.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Circuit",
+  "s": 1644.319,
+  "e": 1644.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "sends",
+  "s": 1644.699,
+  "e": 1645.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "those",
+  "s": 1645.259,
+  "e": 1645.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "cases",
+  "s": 1645.479,
+  "e": 1645.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1645.799,
+  "e": 1646.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "juries,",
+  "s": 1646.099,
+  "e": 1646.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and,",
+  "s": 1646.379,
+  "e": 1646.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "regularly,",
+  "s": 1646.799,
+  "e": 1647.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1647.299,
+  "e": 1647.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "juries",
+  "s": 1647.559,
+  "e": 1647.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "ultimately",
+  "s": 1647.779,
+  "e": 1648.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "find",
+  "s": 1648.299,
+  "e": 1648.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 1648.599,
+  "e": 1648.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1648.779,
+  "e": 1648.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 1648.919,
+  "e": 1649.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officers",
+  "s": 1649.159,
+  "e": 1649.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "but",
+  "s": 1649.539,
+  "e": 1649.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "only",
+  "s": 1649.759,
+  "e": 1650.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "after",
+  "s": 1650.019,
+  "e": 1650.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "they've",
+  "s": 1650.299,
+  "e": 1650.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "been",
+  "s": 1650.539,
+  "e": 1650.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "forced",
+  "s": 1650.659,
+  "e": 1650.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1650.899,
+  "e": 1651.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "endure",
+  "s": 1651.119,
+  "e": 1651.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "all",
+  "s": 1651.459,
+  "e": 1651.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1651.919,
+  "e": 1652.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1652.039,
+  "e": 1652.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "burdens",
+  "s": 1652.179,
+  "e": 1652.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1652.439,
+  "e": 1652.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "litigation.",
+  "s": 1652.659,
+  "e": 1653.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Mr.",
+  "s": 1653.339,
+  "e": 1653.699,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Dvoretzky,",
+  "s": 1653.759,
+  "e": 1653.979,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "I",
+  "s": 1654.419,
+  "e": 1655.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "want",
+  "s": 1655.139,
+  "e": 1655.339,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1655.339,
+  "e": 1655.519,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "give",
+  "s": 1655.519,
+  "e": 1655.799,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you",
+  "s": 1655.799,
+  "e": 1656.039,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "an",
+  "s": 1656.039,
+  "e": 1656.219,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "opportunity",
+  "s": 1656.219,
+  "e": 1656.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1656.639,
+  "e": 1656.939,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "address",
+  "s": 1656.939,
+  "e": 1657.219,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "each",
+  "s": 1657.219,
+  "e": 1657.479,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1657.479,
+  "e": 1657.679,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "your",
+  "s": 1657.679,
+  "e": 1657.819,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "four",
+  "s": 1657.819,
+  "e": 1658.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "if",
+  "s": 1658.079,
+  "e": 1658.259,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you",
+  "s": 1658.259,
+  "e": 1658.419,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "want,",
+  "s": 1658.419,
+  "e": 1658.659,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "but --",
+  "s": 1658.919,
+  "e": 1658.979,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "but",
+  "s": 1658.979,
+  "e": 1658.979,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "if",
+  "s": 1658.979,
+  "e": 1659.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "I",
+  "s": 1659.639,
+  "e": 1659.819,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "may",
+  "s": 1659.819,
+  "e": 1659.999,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "say,",
+  "s": 1659.999,
+  "e": 1660.239,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "I",
+  "s": 1660.439,
+  "e": 1660.439,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "mean,",
+  "s": 1660.439,
+  "e": 1660.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Ms.",
+  "s": 1660.799,
+  "e": 1660.939,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Karlan",
+  "s": 1661.159,
+  "e": 1661.399,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "was",
+  "s": 1661.399,
+  "e": 1662.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "having",
+  "s": 1662.079,
+  "e": 1662.339,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "some",
+  "s": 1662.339,
+  "e": 1662.619,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "difficulty",
+  "s": 1662.619,
+  "e": 1663.039,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "with",
+  "s": 1663.039,
+  "e": 1663.319,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "hypotheticals.",
+  "s": 1663.319,
+  "e": 1664.019,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "But",
+  "s": 1664.539,
+  "e": 1665.059,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you",
+  "s": 1665.059,
+  "e": 1666.099,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "might",
+  "s": 1666.099,
+  "e": 1666.379,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "have",
+  "s": 1666.379,
+  "e": 1666.859,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "some",
+  "s": 1666.859,
+  "e": 1667.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "difficulty",
+  "s": 1667.079,
+  "e": 1667.499,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "with",
+  "s": 1667.499,
+  "e": 1667.719,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 1667.719,
+  "e": 1667.859,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "facts",
+  "s": 1667.859,
+  "e": 1668.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1668.139,
+  "e": 1668.359,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "your",
+  "s": 1668.359,
+  "e": 1668.519,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "case.",
+  "s": 1668.519,
+  "e": 1669.039,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "So",
+  "s": 1669.639,
+  "e": 1669.999,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "if",
+  "s": 1669.999,
+  "e": 1670.179,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "I",
+  "s": 1670.179,
+  "e": 1670.399,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "could --",
+  "s": 1670.399,
+  "e": 1670.879,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "(Laughter.)",
+  "s": 1670.879,
+  "e": 1670.879,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "-- move",
+  "s": 1670.879,
+  "e": 1672.019,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you",
+  "s": 1672.019,
+  "e": 1672.299,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1672.299,
+  "e": 1672.619,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 1672.619,
+  "e": 1672.859,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "facts",
+  "s": 1672.859,
+  "e": 1673.119,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1673.119,
+  "e": 1673.319,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "your",
+  "s": 1673.319,
+  "e": 1673.499,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "case",
+  "s": 1673.499,
+  "e": 1673.879,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 1673.879,
+  "e": 1674.299,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "suggest",
+  "s": 1674.299,
+  "e": 1674.719,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 1674.719,
+  "e": 1674.979,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "kind",
+  "s": 1674.979,
+  "e": 1675.299,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1675.299,
+  "e": 1675.539,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "dangers",
+  "s": 1675.539,
+  "e": 1676.019,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 1676.019,
+  "e": 1676.979,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 1676.979,
+  "e": 1677.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "poses,",
+  "s": 1677.139,
+  "e": 1677.539,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "which",
+  "s": 1677.819,
+  "e": 1678.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "is",
+  "s": 1678.639,
+  "e": 1678.959,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 1678.959,
+  "e": 1679.439,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 1679.439,
+  "e": 1680.239,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 1680.239,
+  "e": 1680.399,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "local",
+  "s": 1680.399,
+  "e": 1680.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "government,",
+  "s": 1680.639,
+  "e": 1681.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "there",
+  "s": 1681.079,
+  "e": 1681.759,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "are",
+  "s": 1681.759,
+  "e": 1681.899,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "people",
+  "s": 1681.899,
+  "e": 1682.179,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "who",
+  "s": 1682.179,
+  "e": 1682.459,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "become",
+  "s": 1682.459,
+  "e": 1682.899,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "real",
+  "s": 1682.899,
+  "e": 1683.279,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sort",
+  "s": 1683.279,
+  "e": 1683.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1683.639,
+  "e": 1683.859,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "pains",
+  "s": 1683.859,
+  "e": 1684.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1684.139,
+  "e": 1685.279,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "local",
+  "s": 1685.279,
+  "e": 1685.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "officials,",
+  "s": 1685.639,
+  "e": 1686.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and --",
+  "s": 1686.139,
+  "e": 1686.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 1686.139,
+  "e": 1687.059,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "local",
+  "s": 1687.059,
+  "e": 1687.979,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "officials",
+  "s": 1687.979,
+  "e": 1688.459,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "want",
+  "s": 1688.459,
+  "e": 1688.819,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1688.819,
+  "e": 1689.059,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "retaliate",
+  "s": 1689.059,
+  "e": 1689.519,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "against",
+  "s": 1689.519,
+  "e": 1689.919,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "them,",
+  "s": 1689.919,
+  "e": 1690.259,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "for",
+  "s": 1690.399,
+  "e": 1691.119,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "all",
+  "s": 1691.119,
+  "e": 1691.319,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 1691.319,
+  "e": 1691.519,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "various",
+  "s": 1691.519,
+  "e": 1691.879,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "things",
+  "s": 1691.879,
+  "e": 1692.259,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "they",
+  "s": 1692.259,
+  "e": 1692.539,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "say,",
+  "s": 1692.539,
+  "e": 1692.999,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "charging",
+  "s": 1693.499,
+  "e": 1693.779,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "corruption,",
+  "s": 1693.779,
+  "e": 1694.479,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "doing",
+  "s": 1694.999,
+  "e": 1695.179,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "whatever",
+  "s": 1695.179,
+  "e": 1695.719,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Mr.",
+  "s": 1695.719,
+  "e": 1696.099,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Lozman",
+  "s": 1696.099,
+  "e": 1696.459,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "did.",
+  "s": 1696.459,
+  "e": 1696.819,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "I'm",
+  "s": 1697.099,
+  "e": 1697.379,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sure",
+  "s": 1697.379,
+  "e": 1697.559,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that",
+  "s": 1697.559,
+  "e": 1697.759,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "there's",
+  "s": 1697.759,
+  "e": 1697.999,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "one",
+  "s": 1697.999,
+  "e": 1698.159,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 1698.159,
+  "e": 1698.299,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "every",
+  "s": 1698.299,
+  "e": 1698.539,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "town.",
+  "s": 1698.539,
+  "e": 1698.919,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "And",
+  "s": 1699.899,
+  "e": 1700.419,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "just",
+  "s": 1700.419,
+  "e": 1700.939,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 1700.939,
+  "e": 1701.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "nature",
+  "s": 1701.139,
+  "e": 1701.419,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1701.419,
+  "e": 1701.679,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "our",
+  "s": 1701.679,
+  "e": 1701.859,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "lives",
+  "s": 1701.859,
+  "e": 1702.259,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 1702.259,
+  "e": 1702.499,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 1702.499,
+  "e": 1702.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "nature",
+  "s": 1702.639,
+  "e": 1702.899,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1702.899,
+  "e": 1703.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "our",
+  "s": 1703.079,
+  "e": 1703.279,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "criminal",
+  "s": 1703.279,
+  "e": 1703.599,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "statute",
+  "s": 1703.599,
+  "e": 1704.099,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "books,",
+  "s": 1704.099,
+  "e": 1704.519,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "there's",
+  "s": 1705.159,
+  "e": 1705.439,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 1705.439,
+  "e": 1705.599,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "lot",
+  "s": 1705.599,
+  "e": 1705.799,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1705.799,
+  "e": 1706.019,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "be",
+  "s": 1706.019,
+  "e": 1706.179,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "arrested",
+  "s": 1706.179,
+  "e": 1706.559,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "for.",
+  "s": 1706.559,
+  "e": 1707.039,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "(Laughter.)",
+  "s": 1707.039,
+  "e": 1707.779,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "So",
+  "s": 1707.779,
+  "e": 1708.299,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you",
+  "s": 1708.299,
+  "e": 1708.419,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "follow",
+  "s": 1708.419,
+  "e": 1708.719,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "somebody",
+  "s": 1708.719,
+  "e": 1709.199,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "around",
+  "s": 1709.199,
+  "e": 1709.599,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 1709.599,
+  "e": 1709.779,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "they",
+  "s": 1709.779,
+  "e": 1709.919,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "commit",
+  "s": 1709.919,
+  "e": 1710.199,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 1710.199,
+  "e": 1710.439,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "traffic",
+  "s": 1710.439,
+  "e": 1710.779,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "violation",
+  "s": 1710.779,
+  "e": 1711.419,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1711.419,
+  "e": 1711.659,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 1711.659,
+  "e": 1711.819,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "pretty",
+  "s": 1711.819,
+  "e": 1711.999,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "minor",
+  "s": 1711.999,
+  "e": 1712.419,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "kind,",
+  "s": 1712.419,
+  "e": 1712.919,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 1712.919,
+  "e": 1713.119,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "all",
+  "s": 1713.119,
+  "e": 1713.339,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1713.339,
+  "e": 1713.459,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 1713.459,
+  "e": 1713.599,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sudden",
+  "s": 1713.599,
+  "e": 1713.779,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you're",
+  "s": 1713.779,
+  "e": 1714.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "sitting",
+  "s": 1714.079,
+  "e": 1714.239,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 1714.239,
+  "e": 1714.479,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "jail",
+  "s": 1714.479,
+  "e": 1714.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "for",
+  "s": 1714.639,
+  "e": 1714.899,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "48",
+  "s": 1714.899,
+  "e": 1715.299,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "hours",
+  "s": 1715.299,
+  "e": 1715.739,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "before",
+  "s": 1715.739,
+  "e": 1716.459,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "they",
+  "s": 1716.459,
+  "e": 1716.719,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "decide",
+  "s": 1716.719,
+  "e": 1717.019,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1717.019,
+  "e": 1717.299,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "release",
+  "s": 1717.299,
+  "e": 1717.579,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you.",
+  "s": 1717.579,
+  "e": 1717.859,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "So",
+  "s": 1718.419,
+  "e": 1718.879,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that's",
+  "s": 1718.879,
+  "e": 1720.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "a",
+  "s": 1720.139,
+  "e": 1720.259,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "pretty",
+  "s": 1720.259,
+  "e": 1720.439,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "big",
+  "s": 1720.439,
+  "e": 1720.699,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "problem,",
+  "s": 1720.699,
+  "e": 1721.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it",
+  "s": 1721.219,
+  "e": 1721.359,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "seems",
+  "s": 1721.359,
+  "e": 1721.599,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1721.599,
+  "e": 1721.859,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "me,",
+  "s": 1721.859,
+  "e": 1722.139,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "and",
+  "s": 1722.139,
+  "e": 1722.459,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "it's",
+  "s": 1722.459,
+  "e": 1722.879,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "right",
+  "s": 1722.879,
+  "e": 1723.179,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "here",
+  "s": 1723.179,
+  "e": 1723.519,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "in",
+  "s": 1723.519,
+  "e": 1723.839,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "kind",
+  "s": 1723.839,
+  "e": 1724.179,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1724.179,
+  "e": 1724.319,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "the",
+  "s": 1724.319,
+  "e": 1724.439,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "facts",
+  "s": 1724.439,
+  "e": 1724.719,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "of",
+  "s": 1724.719,
+  "e": 1724.899,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "this",
+  "s": 1724.899,
+  "e": 1725.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "case.",
+  "s": 1725.079,
+  "e": 1725.459,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "So",
+  "s": 1725.459,
+  "e": 1726.099,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "I",
+  "s": 1726.099,
+  "e": 1726.299,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "guess",
+  "s": 1726.299,
+  "e": 1726.419,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "I'd",
+  "s": 1726.419,
+  "e": 1726.639,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "like",
+  "s": 1726.639,
+  "e": 1726.759,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "you",
+  "s": 1726.759,
+  "e": 1726.919,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1726.919,
+  "e": 1727.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "respond",
+  "s": 1727.079,
+  "e": 1727.459,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "to",
+  "s": 1727.459,
+  "e": 1727.739,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "that.",
+  "s": 1727.739,
+  "e": 1728.079,
+  "speaker": "JUSTICE KAGAN"
+ },
+ {
+  "w": "Justice",
+  "s": 1729.099,
+  "e": 1729.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Kagan,",
+  "s": 1729.119,
+  "e": 1729.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "let",
+  "s": 1729.419,
+  "e": 1729.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "me",
+  "s": 1729.619,
+  "e": 1729.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "respond",
+  "s": 1729.759,
+  "e": 1730.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1730.159,
+  "e": 1730.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that,",
+  "s": 1730.319,
+  "e": 1730.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "first,",
+  "s": 1730.579,
+  "e": 1731.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1731.059,
+  "e": 1731.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "terms",
+  "s": 1731.259,
+  "e": 1731.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1731.439,
+  "e": 1731.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1731.579,
+  "e": 1731.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "facts",
+  "s": 1731.779,
+  "e": 1732.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1732.039,
+  "e": 1732.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "this",
+  "s": 1732.199,
+  "e": 1732.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "case",
+  "s": 1732.359,
+  "e": 1732.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1732.719,
+  "e": 1733.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "then",
+  "s": 1733.279,
+  "e": 1733.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "more",
+  "s": 1733.479,
+  "e": 1733.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "generally",
+  "s": 1733.679,
+  "e": 1734.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "about",
+  "s": 1734.159,
+  "e": 1734.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1734.379,
+  "e": 1734.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "legal",
+  "s": 1734.599,
+  "e": 1734.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rule",
+  "s": 1734.819,
+  "e": 1735.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1735.099,
+  "e": 1735.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "ought",
+  "s": 1735.279,
+  "e": 1735.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1735.419,
+  "e": 1735.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "be --",
+  "s": 1735.559,
+  "e": 1735.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1735.739,
+  "e": 1735.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "ought",
+  "s": 1735.739,
+  "e": 1735.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1735.739,
+  "e": 1735.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "be",
+  "s": 1735.739,
+  "e": 1735.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "drawn",
+  "s": 1735.739,
+  "e": 1736.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "here.",
+  "s": 1736.479,
+  "e": 1736.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "A",
+  "s": 1737.179,
+  "e": 1737.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "couple",
+  "s": 1737.419,
+  "e": 1737.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1737.639,
+  "e": 1737.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "critical",
+  "s": 1737.819,
+  "e": 1738.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "things",
+  "s": 1738.059,
+  "e": 1738.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "about",
+  "s": 1738.299,
+  "e": 1738.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1738.459,
+  "e": 1738.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "facts",
+  "s": 1738.619,
+  "e": 1738.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1738.879,
+  "e": 1739.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "this",
+  "s": 1739.019,
+  "e": 1739.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "case.",
+  "s": 1739.179,
+  "e": 1739.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "One,",
+  "s": 1739.719,
+  "e": 1739.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Officer",
+  "s": 1740.439,
+  "e": 1740.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Aguirre",
+  "s": 1740.759,
+  "e": 1741.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "testified",
+  "s": 1741.159,
+  "e": 1741.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1741.759,
+  "e": 1741.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "he",
+  "s": 1741.999,
+  "e": 1742.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "made",
+  "s": 1742.199,
+  "e": 1742.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1742.399,
+  "e": 1742.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "independent",
+  "s": 1742.579,
+  "e": 1743.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "decision",
+  "s": 1743.099,
+  "e": 1743.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1743.579,
+  "e": 1743.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrest",
+  "s": 1743.879,
+  "e": 1744.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Mr.",
+  "s": 1744.139,
+  "e": 1744.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Lozman",
+  "s": 1744.539,
+  "e": 1744.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1744.759,
+  "e": 1744.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1744.959,
+  "e": 1745.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "he",
+  "s": 1745.079,
+  "e": 1745.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "had",
+  "s": 1745.199,
+  "e": 1745.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "never",
+  "s": 1745.299,
+  "e": 1745.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "heard",
+  "s": 1745.499,
+  "e": 1745.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1745.819,
+  "e": 1745.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Mr.",
+  "s": 1745.999,
+  "e": 1746.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Lozman",
+  "s": 1746.339,
+  "e": 1746.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "before",
+  "s": 1746.679,
+  "e": 1747.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1747.499,
+  "e": 1747.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "incident",
+  "s": 1747.799,
+  "e": 1748.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1748.079,
+  "e": 1748.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "which",
+  "s": 1748.299,
+  "e": 1748.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "this",
+  "s": 1748.379,
+  "e": 1748.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrest",
+  "s": 1748.619,
+  "e": 1748.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "took",
+  "s": 1748.839,
+  "e": 1749.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "place.",
+  "s": 1749.039,
+  "e": 1749.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Second --",
+  "s": 1749.959,
+  "e": 1750.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Wasn't",
+  "s": 1750.299,
+  "e": 1750.331,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "he",
+  "s": 1750.331,
+  "e": 1750.363,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "told",
+  "s": 1750.363,
+  "e": 1750.395,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 1750.395,
+  "e": 1750.427,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "arrest?",
+  "s": 1750.427,
+  "e": 1750.459,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Didn't",
+  "s": 1750.459,
+  "e": 1750.491,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Wade",
+  "s": 1750.491,
+  "e": 1750.523,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "say",
+  "s": 1750.523,
+  "e": 1750.555,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "call --",
+  "s": 1750.555,
+  "e": 1750.587,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "call",
+  "s": 1750.587,
+  "e": 1750.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1750.619,
+  "e": 1750.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "officer?",
+  "s": 1750.619,
+  "e": 1753.35,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Councilperson",
+  "s": 1754.55,
+  "e": 1758.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Wade",
+  "s": 1758.039,
+  "e": 1758.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "said",
+  "s": 1758.239,
+  "e": 1758.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "call",
+  "s": 1758.539,
+  "e": 1758.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1758.879,
+  "e": 1759.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officer,",
+  "s": 1759.099,
+  "e": 1759.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "but",
+  "s": 1759.479,
+  "e": 1759.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Officer",
+  "s": 1759.819,
+  "e": 1760.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Aguirre",
+  "s": 1760.259,
+  "e": 1760.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "made",
+  "s": 1760.579,
+  "e": 1760.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1760.839,
+  "e": 1761.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "decision",
+  "s": 1761.039,
+  "e": 1761.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1761.339,
+  "e": 1761.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrest.",
+  "s": 1761.619,
+  "e": 1761.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Just",
+  "s": 1762.079,
+  "e": 1762.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "because",
+  "s": 1762.259,
+  "e": 1762.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "somebody",
+  "s": 1762.499,
+  "e": 1762.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "calls",
+  "s": 1762.879,
+  "e": 1763.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1763.319,
+  "e": 1763.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 1763.559,
+  "e": 1763.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "doesn't",
+  "s": 1763.919,
+  "e": 1764.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "mean",
+  "s": 1764.439,
+  "e": 1764.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1764.619,
+  "e": 1764.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1764.779,
+  "e": 1764.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 1764.919,
+  "e": 1765.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "will",
+  "s": 1765.239,
+  "e": 1765.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "actually",
+  "s": 1765.459,
+  "e": 1765.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "act",
+  "s": 1765.739,
+  "e": 1766.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "on",
+  "s": 1766.059,
+  "e": 1766.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that,",
+  "s": 1766.319,
+  "e": 1766.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "especially",
+  "s": 1766.739,
+  "e": 1767.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "where",
+  "s": 1767.199,
+  "e": 1767.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "here",
+  "s": 1767.459,
+  "e": 1767.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1767.759,
+  "e": 1767.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "testimony",
+  "s": 1767.959,
+  "e": 1768.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 1768.399,
+  "e": 1768.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1768.759,
+  "e": 1769.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Officer",
+  "s": 1769.139,
+  "e": 1769.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Aguirre",
+  "s": 1769.499,
+  "e": 1769.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "made",
+  "s": 1769.879,
+  "e": 1770.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1770.459,
+  "e": 1770.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "independent",
+  "s": 1770.679,
+  "e": 1771.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "decision",
+  "s": 1771.019,
+  "e": 1771.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1771.399,
+  "e": 1771.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "had",
+  "s": 1771.799,
+  "e": 1772.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1772.139,
+  "e": 1772.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "make",
+  "s": 1772.339,
+  "e": 1772.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1772.479,
+  "e": 1772.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "independent",
+  "s": 1772.679,
+  "e": 1773.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "decision.",
+  "s": 1773.059,
+  "e": 1773.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "He",
+  "s": 1773.539,
+  "e": 1773.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "could",
+  "s": 1773.639,
+  "e": 1773.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "not --",
+  "s": 1773.819,
+  "e": 1773.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Let's --",
+  "s": 1773.939,
+  "e": 1773.939,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "let's",
+  "s": 1773.939,
+  "e": 1773.939,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "assume",
+  "s": 1773.939,
+  "e": 1774.759,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 1774.759,
+  "e": 1774.759,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "this",
+  "s": 1774.759,
+  "e": 1775.179,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "officer",
+  "s": 1775.179,
+  "e": 1775.559,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "has",
+  "s": 1775.559,
+  "e": 1775.959,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "qualified",
+  "s": 1775.959,
+  "e": 1776.499,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "immunity",
+  "s": 1776.499,
+  "e": 1777.019,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "and",
+  "s": 1777.019,
+  "e": 1778.139,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "that",
+  "s": 1778.139,
+  "e": 1778.339,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "perhaps",
+  "s": 1778.339,
+  "e": 1778.959,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "he",
+  "s": 1778.959,
+  "e": 1779.119,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "didn't",
+  "s": 1779.119,
+  "e": 1779.319,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "even",
+  "s": 1779.319,
+  "e": 1779.539,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "violate",
+  "s": 1779.539,
+  "e": 1779.959,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 1779.959,
+  "e": 1781.039,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "law",
+  "s": 1781.039,
+  "e": 1781.239,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "anyway.",
+  "s": 1781.239,
+  "e": 1781.699,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "What",
+  "s": 1781.719,
+  "e": 1782.279,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "about",
+  "s": 1782.279,
+  "e": 1782.559,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "the",
+  "s": 1782.559,
+  "e": 1782.799,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "city",
+  "s": 1782.799,
+  "e": 1782.959,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "council?",
+  "s": 1782.959,
+  "e": 1783.319,
+  "speaker": "JUSTICE KENNEDY"
+ },
+ {
+  "w": "So",
+  "s": 1785.019,
+  "e": 1785.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1785.779,
+  "e": 1786.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city",
+  "s": 1786.419,
+  "e": 1786.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "council --",
+  "s": 1786.739,
+  "e": 1787.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "first,",
+  "s": 1787.859,
+  "e": 1788.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "we",
+  "s": 1788.699,
+  "e": 1789.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "could",
+  "s": 1789.119,
+  "e": 1789.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "discuss",
+  "s": 1789.259,
+  "e": 1789.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1789.699,
+  "e": 1790.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "transcript.",
+  "s": 1790.139,
+  "e": 1790.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "I --",
+  "s": 1790.699,
+  "e": 1791.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1791.099,
+  "e": 1791.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "transcript",
+  "s": 1791.499,
+  "e": 1792.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1792.199,
+  "e": 1792.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Ms.",
+  "s": 1792.679,
+  "e": 1793.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Karlan",
+  "s": 1793.079,
+  "e": 1793.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "relies",
+  "s": 1793.259,
+  "e": 1793.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "on",
+  "s": 1793.679,
+  "e": 1794.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "does",
+  "s": 1794.059,
+  "e": 1794.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "not",
+  "s": 1794.459,
+  "e": 1794.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "support",
+  "s": 1794.779,
+  "e": 1795.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1795.319,
+  "e": 1795.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "notion",
+  "s": 1795.959,
+  "e": 1796.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1796.359,
+  "e": 1796.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a --",
+  "s": 1796.839,
+  "e": 1797.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1797.399,
+  "e": 1797.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "scheme",
+  "s": 1797.399,
+  "e": 1797.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1797.899,
+  "e": 1798.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "get",
+  "s": 1798.159,
+  "e": 1798.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "at",
+  "s": 1798.319,
+  "e": 1798.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Mr.",
+  "s": 1798.479,
+  "e": 1798.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Lozman.",
+  "s": 1798.819,
+  "e": 1799.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "There --",
+  "s": 1799.019,
+  "e": 1799.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "there",
+  "s": 1799.159,
+  "e": 1799.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 1799.399,
+  "e": 1799.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "one",
+  "s": 1799.559,
+  "e": 1799.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "comment",
+  "s": 1799.899,
+  "e": 1800.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "by",
+  "s": 1800.319,
+  "e": 1800.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "one",
+  "s": 1800.539,
+  "e": 1800.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city",
+  "s": 1800.819,
+  "e": 1801.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "councilperson",
+  "s": 1801.119,
+  "e": 1801.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "expressing",
+  "s": 1801.819,
+  "e": 1802.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "frustration,",
+  "s": 1802.519,
+  "e": 1803.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "followed",
+  "s": 1803.219,
+  "e": 1803.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "by",
+  "s": 1803.739,
+  "e": 1803.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "five",
+  "s": 1803.979,
+  "e": 1804.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "or",
+  "s": 1804.239,
+  "e": 1804.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "six",
+  "s": 1804.439,
+  "e": 1804.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "pages",
+  "s": 1804.679,
+  "e": 1805.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1805.139,
+  "e": 1805.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "transcript",
+  "s": 1805.699,
+  "e": 1806.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "testimony",
+  "s": 1806.219,
+  "e": 1806.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1806.839,
+  "e": 1807.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "which",
+  "s": 1807.379,
+  "e": 1807.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1807.539,
+  "e": 1807.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city",
+  "s": 1807.739,
+  "e": 1807.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "councilmembers",
+  "s": 1807.939,
+  "e": 1808.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "agreed",
+  "s": 1808.719,
+  "e": 1809.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1809.459,
+  "e": 1809.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "put",
+  "s": 1809.799,
+  "e": 1809.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "all",
+  "s": 1809.979,
+  "e": 1810.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1810.179,
+  "e": 1810.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1810.299,
+  "e": 1810.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "resources",
+  "s": 1810.399,
+  "e": 1810.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "they",
+  "s": 1810.799,
+  "e": 1811.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "needed",
+  "s": 1811.039,
+  "e": 1811.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "into",
+  "s": 1811.239,
+  "e": 1811.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1811.499,
+  "e": 1811.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "litigation",
+  "s": 1811.659,
+  "e": 1812.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1812.039,
+  "e": 1812.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1812.259,
+  "e": 1812.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "defeat",
+  "s": 1812.379,
+  "e": 1812.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1812.659,
+  "e": 1812.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "litigation.",
+  "s": 1812.799,
+  "e": 1813.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "That",
+  "s": 1813.279,
+  "e": 1813.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "is",
+  "s": 1813.459,
+  "e": 1813.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "what",
+  "s": 1813.579,
+  "e": 1813.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "they",
+  "s": 1813.739,
+  "e": 1813.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "agreed",
+  "s": 1813.879,
+  "e": 1814.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1814.139,
+  "e": 1814.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "do.",
+  "s": 1814.299,
+  "e": 1814.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "You're",
+  "s": 1814.479,
+  "e": 1814.507,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "talking",
+  "s": 1814.507,
+  "e": 1814.535,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "about",
+  "s": 1814.535,
+  "e": 1814.563,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1814.563,
+  "e": 1814.591,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "closed --",
+  "s": 1814.591,
+  "e": 1814.619,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1814.619,
+  "e": 1814.619,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "closed",
+  "s": 1814.619,
+  "e": 1814.899,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "meeting?",
+  "s": 1814.899,
+  "e": 1815.279,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Correct.",
+  "s": 1815.419,
+  "e": 1815.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Okay.",
+  "s": 1815.779,
+  "e": 1816.999,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "And",
+  "s": 1816.999,
+  "e": 1817.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "if,",
+  "s": 1817.519,
+  "e": 1817.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1817.859,
+  "e": 1817.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "fact,",
+  "s": 1817.979,
+  "e": 1818.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "there",
+  "s": 1818.379,
+  "e": 1818.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "were",
+  "s": 1818.539,
+  "e": 1818.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "some",
+  "s": 1818.699,
+  "e": 1818.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "sort",
+  "s": 1818.919,
+  "e": 1819.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1819.159,
+  "e": 1819.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1819.299,
+  "e": 1819.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "plan",
+  "s": 1819.539,
+  "e": 1819.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1819.859,
+  "e": 1820.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "get",
+  "s": 1820.319,
+  "e": 1820.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "at",
+  "s": 1820.539,
+  "e": 1820.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Mr.",
+  "s": 1820.719,
+  "e": 1820.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Lozman,",
+  "s": 1821.079,
+  "e": 1821.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "why",
+  "s": 1821.779,
+  "e": 1822.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "would",
+  "s": 1822.079,
+  "e": 1822.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1822.259,
+  "e": 1822.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city",
+  "s": 1822.419,
+  "e": 1822.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "council",
+  "s": 1822.559,
+  "e": 1822.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "have",
+  "s": 1822.959,
+  "e": 1823.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "let",
+  "s": 1823.319,
+  "e": 1823.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "him",
+  "s": 1823.519,
+  "e": 1823.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "speak",
+  "s": 1823.739,
+  "e": 1824.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "uninterrupted",
+  "s": 1824.099,
+  "e": 1824.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "many",
+  "s": 1824.839,
+  "e": 1825.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "times,",
+  "s": 1825.459,
+  "e": 1825.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "both",
+  "s": 1826.099,
+  "e": 1826.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "before",
+  "s": 1826.239,
+  "e": 1826.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1826.699,
+  "e": 1827.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "after",
+  "s": 1827.059,
+  "e": 1827.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1827.399,
+  "e": 1827.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "particular",
+  "s": 1827.779,
+  "e": 1828.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "incident",
+  "s": 1828.139,
+  "e": 1828.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1828.519,
+  "e": 1828.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 1828.699,
+  "e": 1828.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "at",
+  "s": 1828.859,
+  "e": 1828.989,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "issue",
+  "s": 1828.989,
+  "e": 1829.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "here?",
+  "s": 1829.119,
+  "e": 1829.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "And",
+  "s": 1829.439,
+  "e": 1829.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "why",
+  "s": 1829.879,
+  "e": 1830.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "would",
+  "s": 1830.179,
+  "e": 1830.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1830.359,
+  "e": 1830.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "jury",
+  "s": 1830.599,
+  "e": 1830.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "have",
+  "s": 1830.879,
+  "e": 1831.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "found",
+  "s": 1831.159,
+  "e": 1831.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1831.519,
+  "e": 1831.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1831.759,
+  "e": 1831.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city's",
+  "s": 1831.979,
+  "e": 1832.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "favor",
+  "s": 1832.359,
+  "e": 1832.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "not",
+  "s": 1832.679,
+  "e": 1833.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "only",
+  "s": 1833.219,
+  "e": 1833.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "on",
+  "s": 1833.479,
+  "e": 1833.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "this",
+  "s": 1833.699,
+  "e": 1833.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "claim",
+  "s": 1833.899,
+  "e": 1834.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "but",
+  "s": 1834.259,
+  "e": 1834.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "also",
+  "s": 1834.659,
+  "e": 1834.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "on",
+  "s": 1834.919,
+  "e": 1835.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1835.079,
+  "e": 1835.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "other",
+  "s": 1835.239,
+  "e": 1835.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "forms",
+  "s": 1835.459,
+  "e": 1835.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1835.819,
+  "e": 1835.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Mr. --",
+  "s": 1835.979,
+  "e": 1835.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1835.979,
+  "e": 1835.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "retaliation",
+  "s": 1835.979,
+  "e": 1836.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1836.959,
+  "e": 1837.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Mr.",
+  "s": 1837.399,
+  "e": 1837.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Lozman",
+  "s": 1837.699,
+  "e": 1837.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "alleged?",
+  "s": 1837.959,
+  "e": 1838.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "So,",
+  "s": 1838.439,
+  "e": 1838.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "on",
+  "s": 1838.779,
+  "e": 1838.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1838.979,
+  "e": 1839.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "facts",
+  "s": 1839.139,
+  "e": 1839.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1839.479,
+  "e": 1839.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "this",
+  "s": 1839.639,
+  "e": 1839.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "case,",
+  "s": 1839.839,
+  "e": 1840.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "first",
+  "s": 1840.959,
+  "e": 1841.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1841.359,
+  "e": 1841.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "all,",
+  "s": 1841.539,
+  "e": 1841.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "I",
+  "s": 1841.739,
+  "e": 1841.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "dispute",
+  "s": 1841.859,
+  "e": 1842.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Ms.",
+  "s": 1842.359,
+  "e": 1842.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Karlan's",
+  "s": 1842.599,
+  "e": 1842.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "characterization",
+  "s": 1842.899,
+  "e": 1843.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1843.279,
+  "e": 1843.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "them.",
+  "s": 1843.699,
+  "e": 1843.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Second,",
+  "s": 1844.239,
+  "e": 1844.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1844.799,
+  "e": 1844.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "more",
+  "s": 1844.899,
+  "e": 1845.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "importantly,",
+  "s": 1845.059,
+  "e": 1845.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1845.959,
+  "e": 1846.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Court,",
+  "s": 1846.299,
+  "e": 1846.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "as",
+  "s": 1846.759,
+  "e": 1846.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1846.939,
+  "e": 1847.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Hartman,",
+  "s": 1847.219,
+  "e": 1847.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "should",
+  "s": 1847.979,
+  "e": 1848.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "not",
+  "s": 1848.219,
+  "e": 1848.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "make",
+  "s": 1848.499,
+  "e": 1848.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1848.739,
+  "e": 1849.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "general",
+  "s": 1849.019,
+  "e": 1849.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rule",
+  "s": 1849.379,
+  "e": 1849.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 1849.779,
+  "e": 1850.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1850.079,
+  "e": 1850.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "facts",
+  "s": 1850.239,
+  "e": 1850.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 1850.559,
+  "e": 1850.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "this",
+  "s": 1850.759,
+  "e": 1850.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "case.",
+  "s": 1850.919,
+  "e": 1851.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "As",
+  "s": 1851.519,
+  "e": 1851.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1851.519,
+  "e": 1851.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "court --",
+  "s": 1851.699,
+  "e": 1851.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Well,",
+  "s": 1851.819,
+  "e": 1851.819,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "regardless",
+  "s": 1851.819,
+  "e": 1852.239,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "of",
+  "s": 1852.239,
+  "e": 1852.459,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "what",
+  "s": 1852.459,
+  "e": 1852.759,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "happened",
+  "s": 1852.759,
+  "e": 1853.579,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "before",
+  "s": 1853.579,
+  "e": 1854.119,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "or",
+  "s": 1854.119,
+  "e": 1854.399,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "after,",
+  "s": 1854.399,
+  "e": 1854.759,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "I",
+  "s": 1855.339,
+  "e": 1855.739,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "found",
+  "s": 1855.739,
+  "e": 1855.999,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1855.999,
+  "e": 1856.179,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "video",
+  "s": 1856.179,
+  "e": 1856.499,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "pretty",
+  "s": 1856.499,
+  "e": 1856.819,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "chilling.",
+  "s": 1856.819,
+  "e": 1857.219,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "I",
+  "s": 1857.499,
+  "e": 1857.539,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "mean,",
+  "s": 1857.539,
+  "e": 1857.759,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1858.519,
+  "e": 1858.839,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "fellow",
+  "s": 1858.839,
+  "e": 1859.039,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "is",
+  "s": 1859.039,
+  "e": 1859.239,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "up",
+  "s": 1859.239,
+  "e": 1859.399,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "there",
+  "s": 1859.399,
+  "e": 1859.579,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "for",
+  "s": 1859.579,
+  "e": 1859.899,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "about",
+  "s": 1859.899,
+  "e": 1860.239,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "15",
+  "s": 1860.239,
+  "e": 1860.779,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "seconds,",
+  "s": 1860.779,
+  "e": 1861.219,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 1861.219,
+  "e": 1861.459,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1861.459,
+  "e": 1861.579,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "next",
+  "s": 1861.579,
+  "e": 1861.719,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "thing",
+  "s": 1861.719,
+  "e": 1861.879,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "he",
+  "s": 1861.879,
+  "e": 1861.979,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "knows,",
+  "s": 1861.979,
+  "e": 1862.219,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "he's",
+  "s": 1862.299,
+  "e": 1862.479,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "being",
+  "s": 1862.479,
+  "e": 1862.619,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "led",
+  "s": 1862.619,
+  "e": 1862.819,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "off",
+  "s": 1862.819,
+  "e": 1863.079,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in --",
+  "s": 1863.079,
+  "e": 1863.079,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in --",
+  "s": 1863.079,
+  "e": 1863.079,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 1863.079,
+  "e": 1863.539,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "handcuffs,",
+  "s": 1863.539,
+  "e": 1864.339,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "speaking",
+  "s": 1865.379,
+  "e": 1865.899,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "in",
+  "s": 1865.899,
+  "e": 1866.059,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "a",
+  "s": 1866.059,
+  "e": 1866.179,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "very",
+  "s": 1866.179,
+  "e": 1866.379,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "calm",
+  "s": 1866.379,
+  "e": 1866.679,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "voice",
+  "s": 1866.679,
+  "e": 1866.979,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1866.979,
+  "e": 1867.199,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "whole",
+  "s": 1867.199,
+  "e": 1867.339,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "time.",
+  "s": 1867.339,
+  "e": 1867.619,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Now",
+  "s": 1867.619,
+  "e": 1867.819,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "the",
+  "s": 1867.819,
+  "e": 1868.059,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "council",
+  "s": 1868.059,
+  "e": 1868.319,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "may",
+  "s": 1868.319,
+  "e": 1868.559,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "not",
+  "s": 1868.559,
+  "e": 1868.719,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "have",
+  "s": 1868.719,
+  "e": 1868.859,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "liked",
+  "s": 1868.859,
+  "e": 1869.079,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "what",
+  "s": 1869.079,
+  "e": 1869.219,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "he",
+  "s": 1869.219,
+  "e": 1869.319,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "was",
+  "s": 1869.319,
+  "e": 1869.479,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "talking",
+  "s": 1869.479,
+  "e": 1869.759,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "about,",
+  "s": 1869.759,
+  "e": 1870.199,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "but",
+  "s": 1870.439,
+  "e": 1870.739,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "that",
+  "s": 1870.739,
+  "e": 1870.879,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "doesn't",
+  "s": 1870.879,
+  "e": 1871.079,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "mean",
+  "s": 1871.079,
+  "e": 1871.239,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "they",
+  "s": 1871.239,
+  "e": 1871.399,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "get",
+  "s": 1871.399,
+  "e": 1871.559,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "to",
+  "s": 1871.559,
+  "e": 1871.759,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "cuff",
+  "s": 1871.759,
+  "e": 1871.899,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "him",
+  "s": 1871.899,
+  "e": 1872.079,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and --",
+  "s": 1872.079,
+  "e": 1872.599,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "and",
+  "s": 1872.599,
+  "e": 1872.599,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "lead",
+  "s": 1872.599,
+  "e": 1872.979,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "him",
+  "s": 1872.979,
+  "e": 1873.099,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "out.",
+  "s": 1873.099,
+  "e": 1873.359,
+  "speaker": "CHIEF JUSTICE ROBERTS"
+ },
+ {
+  "w": "Well,",
+  "s": 1874.119,
+  "e": 1874.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the --",
+  "s": 1874.119,
+  "e": 1874.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "there",
+  "s": 1874.299,
+  "e": 1874.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 1874.939,
+  "e": 1875.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "probable",
+  "s": 1875.219,
+  "e": 1875.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "cause",
+  "s": 1875.679,
+  "e": 1876.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1876.139,
+  "e": 1876.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1876.319,
+  "e": 1876.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "situation",
+  "s": 1876.519,
+  "e": 1877.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1877.019,
+  "e": 1877.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrest",
+  "s": 1877.279,
+  "e": 1877.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "him",
+  "s": 1877.619,
+  "e": 1877.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 1877.819,
+  "e": 1878.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "unlawful",
+  "s": 1878.099,
+  "e": 1878.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "disturbance.",
+  "s": 1878.559,
+  "e": 1879.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "He",
+  "s": 1879.239,
+  "e": 1879.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "repeatedly",
+  "s": 1879.359,
+  "e": 1879.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "failed",
+  "s": 1879.879,
+  "e": 1880.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1880.439,
+  "e": 1880.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "heed",
+  "s": 1880.719,
+  "e": 1881.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Ms.",
+  "s": 1881.019,
+  "e": 1881.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Wade's",
+  "s": 1881.799,
+  "e": 1882.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1882.239,
+  "e": 1882.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Officer",
+  "s": 1882.299,
+  "e": 1882.699,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Aguirre's",
+  "s": 1882.699,
+  "e": 1883.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "directions",
+  "s": 1883.319,
+  "e": 1883.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1883.759,
+  "e": 1884.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "stay",
+  "s": 1884.919,
+  "e": 1885.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "on",
+  "s": 1885.319,
+  "e": 1885.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "topic.",
+  "s": 1885.539,
+  "e": 1885.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "There --",
+  "s": 1886.059,
+  "e": 1886.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "there",
+  "s": 1886.219,
+  "e": 1886.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 1886.219,
+  "e": 1886.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1886.539,
+  "e": 1886.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "finding",
+  "s": 1886.959,
+  "e": 1887.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "by",
+  "s": 1887.239,
+  "e": 1887.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1887.439,
+  "e": 1887.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "district",
+  "s": 1887.599,
+  "e": 1887.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "court",
+  "s": 1887.779,
+  "e": 1888.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "here",
+  "s": 1888.019,
+  "e": 1888.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1888.239,
+  "e": 1888.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "comments --",
+  "s": 1888.419,
+  "e": 1888.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "He",
+  "s": 1888.439,
+  "e": 1888.519,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 1888.519,
+  "e": 1888.739,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "on",
+  "s": 1888.739,
+  "e": 1889.039,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "topic.",
+  "s": 1889.039,
+  "e": 1889.379,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Assume",
+  "s": 1890.219,
+  "e": 1890.719,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 1890.719,
+  "e": 1890.959,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "fact.",
+  "s": 1890.959,
+  "e": 1891.359,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "He",
+  "s": 1891.959,
+  "e": 1892.099,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "started",
+  "s": 1892.099,
+  "e": 1892.539,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "by",
+  "s": 1892.539,
+  "e": 1892.839,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "saying:",
+  "s": 1892.839,
+  "e": 1893.239,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "There's",
+  "s": 1893.239,
+  "e": 1893.599,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "been",
+  "s": 1893.599,
+  "e": 1893.719,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "arrest --",
+  "s": 1893.719,
+  "e": 1893.719,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "an",
+  "s": 1893.719,
+  "e": 1894.319,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "arrest",
+  "s": 1894.319,
+  "e": 1894.679,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "for",
+  "s": 1894.679,
+  "e": 1894.959,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "corruption,",
+  "s": 1894.959,
+  "e": 1895.539,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "which",
+  "s": 1896.099,
+  "e": 1896.259,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "was",
+  "s": 1896.259,
+  "e": 1896.479,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "true.",
+  "s": 1896.479,
+  "e": 1896.919,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "And",
+  "s": 1897.479,
+  "e": 1897.999,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "then",
+  "s": 1897.999,
+  "e": 1898.259,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "he",
+  "s": 1898.259,
+  "e": 1898.579,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "tried",
+  "s": 1898.579,
+  "e": 1898.939,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "to",
+  "s": 1898.939,
+  "e": 1899.239,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "say:",
+  "s": 1899.239,
+  "e": 1899.539,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "And",
+  "s": 1899.759,
+  "e": 1899.899,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "I've",
+  "s": 1899.899,
+  "e": 1900.379,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "been",
+  "s": 1900.379,
+  "e": 1900.579,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "telling",
+  "s": 1900.579,
+  "e": 1900.819,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "you",
+  "s": 1900.819,
+  "e": 1901.059,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 1901.059,
+  "e": 1901.259,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "other",
+  "s": 1901.259,
+  "e": 1901.479,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "people",
+  "s": 1901.479,
+  "e": 1901.859,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "are",
+  "s": 1901.859,
+  "e": 1902.139,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "corrupt.",
+  "s": 1902.139,
+  "e": 1902.479,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Why",
+  "s": 1903.139,
+  "e": 1903.479,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "is",
+  "s": 1903.479,
+  "e": 1903.679,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that",
+  "s": 1903.679,
+  "e": 1903.799,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "off",
+  "s": 1903.799,
+  "e": 1904.059,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "topic?",
+  "s": 1904.059,
+  "e": 1904.459,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "Because",
+  "s": 1905.259,
+  "e": 1905.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1905.259,
+  "e": 1905.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "corruption",
+  "s": 1905.759,
+  "e": 1906.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1906.219,
+  "e": 1906.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "he",
+  "s": 1906.439,
+  "e": 1906.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "alleged",
+  "s": 1906.579,
+  "e": 1906.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "related",
+  "s": 1906.959,
+  "e": 1907.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1907.459,
+  "e": 1907.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Palm",
+  "s": 1907.799,
+  "e": 1907.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Beach",
+  "s": 1907.999,
+  "e": 1908.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "County",
+  "s": 1908.199,
+  "e": 1908.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "corruption.",
+  "s": 1908.659,
+  "e": 1909.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "And",
+  "s": 1909.179,
+  "e": 1909.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "as",
+  "s": 1909.359,
+  "e": 1909.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1909.479,
+  "e": 1909.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "district",
+  "s": 1909.679,
+  "e": 1909.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "court",
+  "s": 1909.939,
+  "e": 1910.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "found,",
+  "s": 1910.219,
+  "e": 1910.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the --",
+  "s": 1911.339,
+  "e": 1911.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1911.819,
+  "e": 1911.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "topics",
+  "s": 1911.819,
+  "e": 1912.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1912.299,
+  "e": 1912.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "be",
+  "s": 1912.459,
+  "e": 1912.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "addressed",
+  "s": 1912.559,
+  "e": 1912.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "at",
+  "s": 1912.859,
+  "e": 1913.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "these",
+  "s": 1913.039,
+  "e": 1913.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "meetings",
+  "s": 1913.219,
+  "e": 1913.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "had",
+  "s": 1913.559,
+  "e": 1913.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1913.819,
+  "e": 1913.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "relate",
+  "s": 1913.979,
+  "e": 1914.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1914.259,
+  "e": 1914.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "topics",
+  "s": 1914.559,
+  "e": 1914.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "related",
+  "s": 1914.939,
+  "e": 1915.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1915.219,
+  "e": 1915.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1915.379,
+  "e": 1915.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city,",
+  "s": 1915.599,
+  "e": 1915.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "not",
+  "s": 1915.879,
+  "e": 1915.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "related",
+  "s": 1915.979,
+  "e": 1916.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1916.299,
+  "e": 1916.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1916.439,
+  "e": 1916.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "county.",
+  "s": 1916.639,
+  "e": 1916.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "The",
+  "s": 1916.979,
+  "e": 1917.119,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "city",
+  "s": 1917.119,
+  "e": 1917.399,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 1917.399,
+  "e": 1917.599,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "within",
+  "s": 1917.599,
+  "e": 1917.899,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1917.899,
+  "e": 1918.119,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "county?",
+  "s": 1918.119,
+  "e": 1918.419,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "The",
+  "s": 1919.419,
+  "e": 1919.939,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city",
+  "s": 1919.939,
+  "e": 1920.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "is",
+  "s": 1920.279,
+  "e": 1920.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "within",
+  "s": 1920.439,
+  "e": 1920.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1920.639,
+  "e": 1920.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "county,",
+  "s": 1920.819,
+  "e": 1920.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "but",
+  "s": 1920.999,
+  "e": 1921.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that --",
+  "s": 1921.179,
+  "e": 1921.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1921.399,
+  "e": 1921.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "is",
+  "s": 1921.399,
+  "e": 1921.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1921.759,
+  "e": 1921.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "line",
+  "s": 1921.979,
+  "e": 1922.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 1922.279,
+  "e": 1922.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1922.459,
+  "e": 1922.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "policy",
+  "s": 1922.639,
+  "e": 1923.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "drew.",
+  "s": 1923.039,
+  "e": 1923.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "It's",
+  "s": 1923.479,
+  "e": 1924.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1924.219,
+  "e": 1924.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city",
+  "s": 1924.399,
+  "e": 1924.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "council",
+  "s": 1924.559,
+  "e": 1924.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "meeting",
+  "s": 1924.899,
+  "e": 1925.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1925.159,
+  "e": 1925.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "talk",
+  "s": 1925.359,
+  "e": 1925.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "about",
+  "s": 1925.579,
+  "e": 1925.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city",
+  "s": 1925.799,
+  "e": 1926.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "business",
+  "s": 1926.099,
+  "e": 1926.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "and",
+  "s": 1926.419,
+  "e": 1926.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "city",
+  "s": 1926.639,
+  "e": 1926.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officials,",
+  "s": 1926.879,
+  "e": 1927.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "not",
+  "s": 1927.319,
+  "e": 1927.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "county",
+  "s": 1927.459,
+  "e": 1927.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officials.",
+  "s": 1927.779,
+  "e": 1928.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "The --",
+  "s": 1928.639,
+  "e": 1929.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1929.019,
+  "e": 1929.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "more",
+  "s": 1929.019,
+  "e": 1929.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "fundamental",
+  "s": 1929.239,
+  "e": 1929.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "point",
+  "s": 1929.779,
+  "e": 1930.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "here,",
+  "s": 1930.139,
+  "e": 1930.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "though,",
+  "s": 1930.579,
+  "e": 1930.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "is",
+  "s": 1930.859,
+  "e": 1931.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that,",
+  "s": 1931.059,
+  "e": 1931.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "as",
+  "s": 1931.239,
+  "e": 1931.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1931.539,
+  "e": 1931.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Hartman,",
+  "s": 1931.799,
+  "e": 1932.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1932.179,
+  "e": 1932.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Court",
+  "s": 1932.299,
+  "e": 1932.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in --",
+  "s": 1932.419,
+  "e": 1932.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1932.839,
+  "e": 1932.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Footnote",
+  "s": 1932.839,
+  "e": 1933.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "10",
+  "s": 1933.139,
+  "e": 1933.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 1933.439,
+  "e": 1933.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Hartman",
+  "s": 1933.619,
+  "e": 1933.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "put",
+  "s": 1933.899,
+  "e": 1934.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "it",
+  "s": 1934.099,
+  "e": 1934.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rather",
+  "s": 1934.259,
+  "e": 1934.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "colorfully.",
+  "s": 1934.439,
+  "e": 1934.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "You",
+  "s": 1935.339,
+  "e": 1935.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "don't",
+  "s": 1935.519,
+  "e": 1935.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "design",
+  "s": 1935.719,
+  "e": 1936.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 1936.059,
+  "e": 1936.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "retirement",
+  "s": 1936.239,
+  "e": 1936.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "system",
+  "s": 1936.739,
+  "e": 1937.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "because",
+  "s": 1937.259,
+  "e": 1937.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "you",
+  "s": 1937.899,
+  "e": 1938.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "might",
+  "s": 1938.039,
+  "e": 1938.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "win",
+  "s": 1938.199,
+  "e": 1938.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1938.319,
+  "e": 1938.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "lottery,",
+  "s": 1938.539,
+  "e": 1938.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "which",
+  "s": 1939.119,
+  "e": 1939.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "is",
+  "s": 1939.319,
+  "e": 1939.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 1939.459,
+  "e": 1939.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "say",
+  "s": 1939.619,
+  "e": 1939.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "you",
+  "s": 1939.759,
+  "e": 1939.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "don't",
+  "s": 1939.919,
+  "e": 1940.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "design",
+  "s": 1940.099,
+  "e": 1940.439,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1940.439,
+  "e": 1940.679,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "general",
+  "s": 1940.679,
+  "e": 1941.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rule",
+  "s": 1941.059,
+  "e": 1941.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 1941.539,
+  "e": 1942.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 1942.239,
+  "e": 1942.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "extremely",
+  "s": 1942.539,
+  "e": 1942.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rare",
+  "s": 1942.979,
+  "e": 1943.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "one-off",
+  "s": 1943.319,
+  "e": 1943.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "case,",
+  "s": 1943.759,
+  "e": 1944.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "particularly",
+  "s": 1944.399,
+  "e": 1944.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "when --",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "I'm",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "sorry,",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "though,",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "that --",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE SOTOMAYOR"
+ },
+ {
+  "w": "But",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Hartman --",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Hartman",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "turned",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "very",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "much",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "on",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the --",
+  "s": 1944.619,
+  "e": 1944.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1944.619,
+  "e": 1945.419,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prosecutor",
+  "s": 1945.419,
+  "e": 1946.319,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 1950.619,
+  "e": 1950.879,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1950.879,
+  "e": 1951.199,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "assurance",
+  "s": 1951.199,
+  "e": 1952.079,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that",
+  "s": 1952.079,
+  "e": 1953.379,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1953.459,
+  "e": 1953.459,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prosecutor",
+  "s": 1953.459,
+  "e": 1954.199,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 1954.199,
+  "e": 1955.539,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "going",
+  "s": 1955.539,
+  "e": 1955.819,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 1955.819,
+  "e": 1956.159,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "be",
+  "s": 1956.159,
+  "e": 1956.519,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 1956.519,
+  "e": 1957.159,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "check",
+  "s": 1957.159,
+  "e": 1957.339,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "against --",
+  "s": 1957.339,
+  "e": 1958.279,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "you",
+  "s": 1958.639,
+  "e": 1958.759,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "know,",
+  "s": 1958.759,
+  "e": 1958.899,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "you",
+  "s": 1958.899,
+  "e": 1959.019,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "had",
+  "s": 1959.019,
+  "e": 1959.279,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1959.279,
+  "e": 1959.899,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "postal",
+  "s": 1959.899,
+  "e": 1960.379,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "inspectors",
+  "s": 1960.379,
+  "e": 1960.829,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and --",
+  "s": 1961.619,
+  "e": 1962.519,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "but",
+  "s": 1963.459,
+  "e": 1963.639,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "it",
+  "s": 1963.639,
+  "e": 1963.719,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "was",
+  "s": 1963.719,
+  "e": 1963.839,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1963.839,
+  "e": 1963.999,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prosecutor",
+  "s": 1963.999,
+  "e": 1964.439,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "who",
+  "s": 1964.439,
+  "e": 1964.659,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "made",
+  "s": 1964.659,
+  "e": 1964.799,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1964.799,
+  "e": 1964.999,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "decision",
+  "s": 1964.999,
+  "e": 1965.459,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "to",
+  "s": 1965.459,
+  "e": 1966.119,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prosecute.",
+  "s": 1966.119,
+  "e": 1966.599,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "And",
+  "s": 1967.779,
+  "e": 1968.539,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "here",
+  "s": 1968.539,
+  "e": 1969.039,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "there's",
+  "s": 1969.039,
+  "e": 1969.419,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "no",
+  "s": 1969.419,
+  "e": 1969.719,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "one",
+  "s": 1969.719,
+  "e": 1969.979,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "like",
+  "s": 1969.979,
+  "e": 1970.319,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1970.319,
+  "e": 1970.759,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "prosecutor",
+  "s": 1970.759,
+  "e": 1971.419,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "who",
+  "s": 1971.419,
+  "e": 1972.359,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "has",
+  "s": 1972.359,
+  "e": 1972.719,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "absolute",
+  "s": 1972.719,
+  "e": 1973.559,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "immunity",
+  "s": 1973.559,
+  "e": 1974.139,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "and",
+  "s": 1974.139,
+  "e": 1975.139,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 1975.139,
+  "e": 1975.579,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a --",
+  "s": 1975.579,
+  "e": 1976.359,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "is",
+  "s": 1976.359,
+  "e": 1976.359,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "a",
+  "s": 1976.359,
+  "e": 1976.359,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "person",
+  "s": 1976.359,
+  "e": 1977.699,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that",
+  "s": 1977.699,
+  "e": 1978.159,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "we",
+  "s": 1978.159,
+  "e": 1978.839,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "generally",
+  "s": 1979.4,
+  "e": 1980.379,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "think",
+  "s": 1980.379,
+  "e": 1980.799,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "of",
+  "s": 1980.799,
+  "e": 1981.119,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "as",
+  "s": 1981.119,
+  "e": 1981.399,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "upright.",
+  "s": 1981.399,
+  "e": 1982.019,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "And",
+  "s": 1984.199,
+  "e": 1984.799,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "here",
+  "s": 1984.799,
+  "e": 1985.219,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "there's",
+  "s": 1985.219,
+  "e": 1985.919,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "nothing",
+  "s": 1985.919,
+  "e": 1986.559,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "like",
+  "s": 1986.559,
+  "e": 1986.879,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "that.",
+  "s": 1986.879,
+  "e": 1987.239,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "The --",
+  "s": 1987.239,
+  "e": 1987.679,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1987.679,
+  "e": 1988.239,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "arrest,",
+  "s": 1988.6,
+  "e": 1990.199,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "at",
+  "s": 1990.519,
+  "e": 1990.639,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "least",
+  "s": 1990.639,
+  "e": 1990.759,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "it",
+  "s": 1990.759,
+  "e": 1990.959,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "looked",
+  "s": 1990.959,
+  "e": 1991.139,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "like",
+  "s": 1991.139,
+  "e": 1991.379,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "from",
+  "s": 1991.379,
+  "e": 1991.579,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "the",
+  "s": 1991.579,
+  "e": 1991.819,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "tape,",
+  "s": 1991.819,
+  "e": 1992.019,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "was",
+  "s": 1992.119,
+  "e": 1992.339,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "motivated",
+  "s": 1992.339,
+  "e": 1993.039,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "by",
+  "s": 1993.039,
+  "e": 1993.719,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Wade,",
+  "s": 1993.719,
+  "e": 1994.299,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "who",
+  "s": 1994.559,
+  "e": 1994.619,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "was",
+  "s": 1994.619,
+  "e": 1995.019,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "just",
+  "s": 1995.019,
+  "e": 1995.679,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "very",
+  "s": 1995.879,
+  "e": 1996.219,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "annoyed",
+  "s": 1996.219,
+  "e": 1997.259,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "at",
+  "s": 1997.259,
+  "e": 1997.659,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Mr.",
+  "s": 1997.659,
+  "e": 1998.099,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Lozman.",
+  "s": 1998.259,
+  "e": 1998.519,
+  "speaker": "JUSTICE GINSBURG"
+ },
+ {
+  "w": "Justice",
+  "s": 2000.339,
+  "e": 2000.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Ginsburg,",
+  "s": 2000.339,
+  "e": 2000.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "I",
+  "s": 2000.899,
+  "e": 2001.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "respectfully",
+  "s": 2001.079,
+  "e": 2001.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "disagree",
+  "s": 2001.539,
+  "e": 2002.059,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "with",
+  "s": 2002.059,
+  "e": 2002.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 2002.299,
+  "e": 2002.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "characterization",
+  "s": 2002.499,
+  "e": 2003.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 2003.099,
+  "e": 2003.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Hartman.",
+  "s": 2003.819,
+  "e": 2004.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "In",
+  "s": 2004.379,
+  "e": 2004.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Hartman,",
+  "s": 2004.639,
+  "e": 2005.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2005.199,
+  "e": 2005.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Court",
+  "s": 2005.339,
+  "e": 2005.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "said",
+  "s": 2005.519,
+  "e": 2005.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 2005.859,
+  "e": 2006.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2006.159,
+  "e": 2006.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "prosecutorial",
+  "s": 2006.599,
+  "e": 2007.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "immunity",
+  "s": 2007.219,
+  "e": 2007.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 2007.639,
+  "e": 2007.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "an",
+  "s": 2007.899,
+  "e": 2008.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "added",
+  "s": 2008.119,
+  "e": 2008.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "reason",
+  "s": 2008.599,
+  "e": 2008.999,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 2008.999,
+  "e": 2009.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2009.259,
+  "e": 2009.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "rule",
+  "s": 2009.419,
+  "e": 2009.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 2009.559,
+  "e": 2009.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2009.719,
+  "e": 2009.899,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Court",
+  "s": 2009.899,
+  "e": 2010.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "adopted,",
+  "s": 2010.019,
+  "e": 2010.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "but",
+  "s": 2010.499,
+  "e": 2010.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2010.839,
+  "e": 2011.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "heart",
+  "s": 2011.079,
+  "e": 2011.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 2011.239,
+  "e": 2011.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2011.379,
+  "e": 2011.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Court's",
+  "s": 2011.559,
+  "e": 2011.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "analysis",
+  "s": 2011.799,
+  "e": 2012.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 2012.319,
+  "e": 2013.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Hartman",
+  "s": 2013.039,
+  "e": 2013.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 2013.359,
+  "e": 2013.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "about",
+  "s": 2013.759,
+  "e": 2014.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "causation.",
+  "s": 2014.039,
+  "e": 2014.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "It",
+  "s": 2014.819,
+  "e": 2014.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "was",
+  "s": 2014.819,
+  "e": 2014.959,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "about",
+  "s": 2014.959,
+  "e": 2015.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2015.159,
+  "e": 2015.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "complex",
+  "s": 2015.379,
+  "e": 2015.859,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "causation",
+  "s": 2015.859,
+  "e": 2016.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "problems",
+  "s": 2016.459,
+  "e": 2017.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 2017.099,
+  "e": 2017.519,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arose",
+  "s": 2017.519,
+  "e": 2017.839,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 2017.839,
+  "e": 2018.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "that",
+  "s": 2018.159,
+  "e": 2018.399,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "case",
+  "s": 2018.399,
+  "e": 2018.779,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "because",
+  "s": 2018.779,
+  "e": 2019.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "you",
+  "s": 2019.339,
+  "e": 2019.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "had",
+  "s": 2019.539,
+  "e": 2019.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "multiple",
+  "s": 2019.759,
+  "e": 2020.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "actors.",
+  "s": 2020.219,
+  "e": 2020.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "You",
+  "s": 2020.759,
+  "e": 2020.819,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "had",
+  "s": 2020.819,
+  "e": 2020.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2020.979,
+  "e": 2021.139,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 2021.139,
+  "e": 2021.479,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officer",
+  "s": 2021.479,
+  "e": 2021.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "who",
+  "s": 2021.919,
+  "e": 2022.359,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "allegedly",
+  "s": 2022.359,
+  "e": 2022.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "induced",
+  "s": 2022.739,
+  "e": 2023.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2023.279,
+  "e": 2023.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "prosecutor",
+  "s": 2023.539,
+  "e": 2023.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "to",
+  "s": 2023.979,
+  "e": 2024.279,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "act.",
+  "s": 2024.279,
+  "e": 2024.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "Here,",
+  "s": 2025.039,
+  "e": 2025.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "you",
+  "s": 2025.579,
+  "e": 2025.979,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "have",
+  "s": 2025.979,
+  "e": 2026.319,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "at",
+  "s": 2026.319,
+  "e": 2026.739,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "least",
+  "s": 2026.739,
+  "e": 2027.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "as",
+  "s": 2027.119,
+  "e": 2027.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "significant",
+  "s": 2027.619,
+  "e": 2028.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "a",
+  "s": 2028.259,
+  "e": 2028.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "causation",
+  "s": 2028.599,
+  "e": 2029.019,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "problem",
+  "s": 2029.019,
+  "e": 2029.539,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "because",
+  "s": 2029.539,
+  "e": 2030.159,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "of",
+  "s": 2030.159,
+  "e": 2030.379,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "the",
+  "s": 2030.379,
+  "e": 2030.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "ways",
+  "s": 2030.559,
+  "e": 2030.799,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 2030.799,
+  "e": 2031.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "which",
+  "s": 2031.039,
+  "e": 2031.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 2031.219,
+  "e": 2031.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officers",
+  "s": 2031.619,
+  "e": 2032.119,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "concededly",
+  "s": 2032.119,
+  "e": 2033.239,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "must",
+  "s": 2033.239,
+  "e": 2033.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "account",
+  "s": 2033.499,
+  "e": 2033.879,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 2033.879,
+  "e": 2034.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "speech",
+  "s": 2034.199,
+  "e": 2034.559,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "in",
+  "s": 2034.559,
+  "e": 2035.079,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "an",
+  "s": 2035.079,
+  "e": 2035.259,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrest.",
+  "s": 2035.259,
+  "e": 2035.639,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "And",
+  "s": 2035.839,
+  "e": 2036.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "police",
+  "s": 2036.219,
+  "e": 2036.579,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "officers",
+  "s": 2036.579,
+  "e": 2037.039,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "should",
+  "s": 2037.039,
+  "e": 2037.339,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "not",
+  "s": 2037.339,
+  "e": 2037.499,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "be",
+  "s": 2037.499,
+  "e": 2037.659,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "deterred",
+  "s": 2037.659,
+  "e": 2038.099,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "from",
+  "s": 2038.099,
+  "e": 2038.299,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "making",
+  "s": 2038.299,
+  "e": 2038.599,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "legitimate",
+  "s": 2038.599,
+  "e": 2039.219,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "arrests,",
+  "s": 2039.219,
+  "e": 2039.759,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "whether",
+  "s": 2039.759,
+  "e": 2040.199,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 2040.199,
+  "e": 2040.459,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "major",
+  "s": 2040.459,
+  "e": 2040.719,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "crimes",
+  "s": 2040.719,
+  "e": 2041.179,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "or",
+  "s": 2041.179,
+  "e": 2041.419,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "for",
+  "s": 2041.419,
+  "e": 2041.619,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "minor",
+  "s": 2041.619,
+  "e": 2041.919,
+  "speaker": "MR. DVORETZKY"
+ },
+ {
+  "w": "crimes,",
+  "s": 2041.919,
+  "e": 2042.339,
+  "speaker": "MR. DVORETZKY"
+ }
+]

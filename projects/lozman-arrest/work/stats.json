@@ -1,0 +1,573 @@
+{
+ "pdf_url_arg": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/17-21_ljgm.pdf",
+ "mp3_url_arg": null,
+ "terms": [],
+ "mentions": null,
+ "laugh_rows": [
+  {
+   "t": 1670.879,
+   "next": 1670.879,
+   "speaker": "JUSTICE KAGAN",
+   "before": "if I may say, I mean, Ms. Karlan was having some difficulty with hypotheticals. But you might have some difficulty with the facts of your case. So if I could --",
+   "pause": 0.0,
+   "loud_s": 0.0,
+   "mean_over": null,
+   "peak_over": null,
+   "size": "under speech"
+  },
+  {
+   "t": 1707.039,
+   "next": 1707.779,
+   "speaker": "JUSTICE KAGAN",
+   "before": "I'm sure that there's one in every town. And just the nature of our lives and the nature of our criminal statute books, there's a lot to be arrested for.",
+   "pause": 0.74,
+   "loud_s": 0.0,
+   "mean_over": 6.6,
+   "peak_over": 10.2,
+   "size": "small"
+  }
+ ],
+ "long_qs": null,
+ "long_n": 0,
+ "quote_rows": null,
+ "quotes": [],
+ "silence_db": -50.4,
+ "opening_start": 1424.899,
+ "opening": [
+  [
+   1424.899,
+   "MS. KARLAN",
+   "to have probable cause for the -- for the offense of arrest in order to defeat a Fourth Amendment claim. Any probable --"
+  ],
+  [
+   1432.119,
+   "JUSTICE GORSUCH",
+   "That's true in the Fourth Amendment context, but would it necessarily hold in the First Amendment context, I believe is the Chief Justice's question?"
+  ],
+  [
+   1438.679,
+   "MS. KARLAN",
+   "Sure. And you could reverse in this case on the grounds that you're going to apply Hartman as written and not add a kind of Devenpeck chaser to it, if you will. And that would be a --"
+  ],
+  [
+   1449.079,
+   "JUSTICE SOTOMAYOR",
+   "Do you recommend that?"
+  ],
+  [
+   1450.779,
+   "MS. KARLAN",
+   "I would -- I would love that."
+  ],
+  [
+   1452.459,
+   "JUSTICE SOTOMAYOR",
+   "In your case."
+  ],
+  [
+   1453.599,
+   "MS. KARLAN",
+   "In our case, we would love that."
+  ],
+  [
+   1454.839,
+   "JUSTICE SOTOMAYOR",
+   "But is it a good rule? Meaning --"
+  ],
+  [
+   1456.279,
+   "MS. KARLAN",
+   "We think the best rule is the rule we advocated for, which is that probable cause is relevant evidence but not always dispositive. But, certainly, in our case, if you applied Hartman as written, you would say, well, in Hartman, it was the offenses of prosecution; if you show no probable cause on those, they can't come back and say: Oh, well, there was mail fraud as well. I mean, it's starting to sound --"
+  ],
+  [
+   1476.179,
+   "JUSTICE SOTOMAYOR",
+   "If we do away with Devenpeck, though, as -- if I remember here, the -- the sergeant, I think, or whomever initially looked at the case said there is grounds for probable cause, but we're not going to get a conviction, so that's why we're not going to proceed. Now the judge said there's no probable cause on the facts as they existed, but you can well imagine that officers filled with animus could scour the books at the booking station and they could look for something that might fit the day as well but still not have been something they would have otherwise arrested for."
+  ],
+  [
+   1523.859,
+   "MS. KARLAN",
+   "Sure, which is why we think the best rule is that probable cause is relevant but not dispositive. If I may reserve the remainder of my time."
+  ],
+  [
+   1531.899,
+   "CHIEF JUSTICE ROBERTS",
+   "Thank you, counsel. Mr. Dvoretzky."
+  ],
+  [
+   1542.799,
+   "MR. DVORETZKY",
+   "Mr. Chief Justice, and -- and may it please the Court: During Ms. Karlan's argument, I wrote -- wrote down four potential backstops to address the hypothetical -- the hypothetical that Justice Kennedy raised and that Justice Breyer echoed about a police officer dealing with a riot in a bar. I'd like to explain why none of the four that I wrote down are sufficient and why the long-standing common law rule and the rule in Hartman ought to be the one that applies here. The four that I wrote down were pleading standards, qualified immunity, Mt. Healthy, and a distinction between felonies or major crimes and other crimes. First, with respect to the pleading standards, it's critical to understand that police officers must concededly take account of speech when deciding whether to arrest in many situations. The bar example is one of those. And police officers need to have an objective -- an objective basis on which their conduct will be judged. It -- it is virtually impossible for police officers themselves"
+  ]
+ ],
+ "opinion": {
+  "case_url": "https://api.oyez.org/cases/2017/17-21",
+  "page_url": "https://www.oyez.org/cases/2017/17-21",
+  "found": true,
+  "count": 1,
+  "title": "Opinion Announcement - June 18, 2018",
+  "media_url": "https://api.oyez.org/case_media/opinion_announcement_audio/24749",
+  "mp3_url": "https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2017/17-21/17-21_20180618-opinion.delivery.mp3",
+  "duration": 302.759184,
+  "mp3_bytes": 1240915,
+  "asr_elapsed_s": 150.4,
+  "trimmed": 0,
+  "rewindowed": 0,
+  "gaps_filled": [],
+  "speaker_turns": 2,
+  "speakers_inferred": 0,
+  "oyez_agree": [
+   721,
+   760,
+   755
+  ],
+  "diffs": [
+   [
+    3.14,
+    "17 -21, Lowesman",
+    "17-21, Lozman"
+   ],
+   [
+    23.8,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    30.92,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    38.34,
+    "He then,",
+    ""
+   ],
+   [
+    55.46,
+    "Lowesman's",
+    "Lozman's"
+   ],
+   [
+    58.68,
+    "Lowesman,",
+    "Lozman,"
+   ],
+   [
+    73.12,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    79.42,
+    "arrests",
+    "arrest"
+   ],
+   [
+    84.52,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    85.2,
+    "directed",
+    "direct"
+   ],
+   [
+    88.04,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    96.12,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    99.02,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    112.3,
+    "at",
+    "of"
+   ],
+   [
+    114.6,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    126.12,
+    "Lowesman's",
+    "Lozman's"
+   ],
+   [
+    141.22,
+    "Lowesman's",
+    "Lozman's"
+   ],
+   [
+    149.34,
+    "",
+    "arrest and"
+   ],
+   [
+    152.78,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    176.22,
+    "Lowesman's",
+    "Lozman's"
+   ],
+   [
+    182.76,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    186.72,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    196.06,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    213.6,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    219.92,
+    "Lowesman's",
+    "Lozman's"
+   ],
+   [
+    237.72,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    242.46,
+    "of",
+    ""
+   ],
+   [
+    261.52,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    269.36,
+    "Lowesman's",
+    "Lozman's"
+   ],
+   [
+    276.34,
+    "Lowesman",
+    "Lozman"
+   ],
+   [
+    280.7,
+    "Lowesman's",
+    "Lozman's"
+   ]
+  ],
+  "dropped": [
+   [
+    7.82,
+    7.96,
+    "Kennedy,"
+   ],
+   [
+    301.66,
+    302.06,
+    "Thank you."
+   ]
+  ],
+  "redone": [
+   [
+    101.98,
+    "U .S .C. Section",
+    "USC"
+   ]
+  ],
+  "words": 760,
+  "opening": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy, has the opinion of the Court in Case 17-21, Lowesman v. City of Riviera Beach?"
+   ],
+   [
+    7.82,
+    "JUSTICE KENNEDY",
+    "this case involves the intersection of two sets of general principles, principles that define when arrests are lawful and principles that prohibit the government from retaliating against a person for having exercised the right to free speech. Petitioner Fane Lowesman became a resident of the City of Riviera Beach, Florida, in 2006. And from the start, Lowesman was an outspoken critic of city officials and policies. He often expressed these views during City Council meetings. He then, he often expressed those views during City Council meetings, and he also filed a lawsuit alleging that the City Council had violated State open meeting laws. In June of 2006, the City Council held a closed-door session in part to discuss Lowesman's open-meeting lawsuit. According to Lowesman, the transcript of that meeting shows the City Council members devised a plan to intimidate him based on his prior speech and for the lawsuit that he filed. Five months later, the City Council held a public meeting. Lowesman stepped up to the podium during the public comment portion of the meeting. He began to discuss the recent arrests of an official from another jurisdiction. A Council member interrupted Lowesman and directed him to stop making those remarks. When Lowesman refused, the Council member told the police officer in attendance to carry him out of the room. The officer handcuffed Lowesman and escorted him from the meeting. Lowesman later filed this lawsuit against the City under 42 USC 1983. He alleged a number of incidents that, under his theory, showed the City's purpose to harass him in different ways, including the arrest at the City Council meeting. Lowesman claimed that the arrest was to retaliate against him for his protected speech. The jury returned a verdict for the City on all of the claims. Now, this case involves only Lowesman's retaliatory arrest claim. On appeal, the Court of Appeals for the Eleventh Circuit determined that the jury necessarily found that the arrest was supported by probable cause, and it held that the presence of probable cause defeated Lowesman's First Amendment retaliatory arrest claim. The existence of probable cause to arrest on the part of the arresting officer has been conceded by Lowesman in this case. And so the issue the parties deemed central to the case is whether the probable cause for an arrest bars a suit alleging that the arrest was to retaliate for speech protected by the First Amendment. That issue has divided the courts of appeals. But its resolution must await a different case. That is because Lowesman's claim is far afield from the typical retaliatory"
+   ]
+  ],
+  "full_text": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy, has the opinion of the Court in Case 17-21, Lowesman v. City of Riviera Beach?"
+   ],
+   [
+    7.82,
+    "JUSTICE KENNEDY",
+    "this case involves the intersection of two sets of general principles, principles that define when arrests are lawful and principles that prohibit the government from retaliating against a person for having exercised the right to free speech. Petitioner Fane Lowesman became a resident of the City of Riviera Beach, Florida, in 2006. And from the start, Lowesman was an outspoken critic of city officials and policies. He often expressed these views during City Council meetings. He then, he often expressed those views during City Council meetings, and he also filed a lawsuit alleging that the City Council had violated State open meeting laws. In June of 2006, the City Council held a closed-door session in part to discuss Lowesman's open-meeting lawsuit. According to Lowesman, the transcript of that meeting shows the City Council members devised a plan to intimidate him based on his prior speech and for the lawsuit that he filed. Five months later, the City Council held a public meeting. Lowesman stepped up to the podium during the public comment portion of the meeting. He began to discuss the recent arrests of an official from another jurisdiction. A Council member interrupted Lowesman and directed him to stop making those remarks. When Lowesman refused, the Council member told the police officer in attendance to carry him out of the room. The officer handcuffed Lowesman and escorted him from the meeting. Lowesman later filed this lawsuit against the City under 42 USC 1983. He alleged a number of incidents that, under his theory, showed the City's purpose to harass him in different ways, including the arrest at the City Council meeting. Lowesman claimed that the arrest was to retaliate against him for his protected speech. The jury returned a verdict for the City on all of the claims. Now, this case involves only Lowesman's retaliatory arrest claim. On appeal, the Court of Appeals for the Eleventh Circuit determined that the jury necessarily found that the arrest was supported by probable cause, and it held that the presence of probable cause defeated Lowesman's First Amendment retaliatory arrest claim. The existence of probable cause to arrest on the part of the arresting officer has been conceded by Lowesman in this case. And so the issue the parties deemed central to the case is whether the probable cause for an arrest bars a suit alleging that the arrest was to retaliate for speech protected by the First Amendment. That issue has divided the courts of appeals. But its resolution must await a different case. That is because Lowesman's claim is far afield from the typical retaliatory arrest claim. Here, Lowesman does not sue the officer who made the arrest. Instead, Lowesman alleges that the City itself retaliated against him pursuant to an official municipal policy. In particular, Lowesman alleges that the City, through the Council members, the legislators, formed a premeditated plan to intimidate him based on his protected speech, and then executed that plan through the same high officers by ordering his arrest at the City Council meeting. The fact that Lowesman must prove the existence and enforcement of an official municipal policy motivated by retaliation separates Lowesman's claim from the typical retaliatory arrest claim. An official retaliatory policy is a particularly troubling and potent form of retaliation, for a policy can be long-term, pervasive, and difficult to dislodge. This is not to say that Lowesman is ultimately entitled to relief or even a new trial. On remand of the court of appeals, applying the relevant precedents, may wish to consider any arguments in support of the district court judgment that have been preserved by the City. Among other matters, the court of appeals may wish to consider, one, whether a reasonable juror could find that the City actually formed a retaliatory policy to intimidate Lowesman during the June 2006 closed-door session. Two, whether any reasonable juror could find that Lowesman's arrest constituted an official act by the City. Three, whether the City has proved that it would have arrested Lowesman regardless of any retaliatory animus, for instance, if Lowesman's conduct during prior City Council meetings had also violated valid rules as to proper subject of discussion, thus explaining his arrest here. For these and other reasons set out in the opinion, the judgment of the court of appeals is vacated, and the case is remanded for further proceedings consistent with this opinion, Justice Thomas has filed a dissenting opinion."
+   ]
+  ],
+  "sentences": [
+   [
+    0.0,
+    "CHIEF JUSTICE ROBERTS",
+    "Justice Kennedy, has the opinion of the Court in Case 17-21, Lowesman v. City of Riviera Beach?"
+   ],
+   [
+    7.82,
+    "JUSTICE KENNEDY",
+    "this case involves the intersection of two sets of general principles, principles that define when arrests are lawful and principles that prohibit the government from retaliating against a person for having exercised the right to free speech."
+   ],
+   [
+    23.04,
+    "JUSTICE KENNEDY",
+    "Petitioner Fane Lowesman became a resident of the City of Riviera Beach, Florida, in 2006."
+   ],
+   [
+    29.22,
+    "JUSTICE KENNEDY",
+    "And from the start, Lowesman was an outspoken critic of city officials and policies."
+   ],
+   [
+    34.96,
+    "JUSTICE KENNEDY",
+    "He often expressed these views during City Council meetings."
+   ],
+   [
+    38.34,
+    "JUSTICE KENNEDY",
+    "He then, he often expressed those views during City Council meetings, and he also filed a lawsuit alleging that the City Council had violated State open meeting laws."
+   ],
+   [
+    49.12,
+    "JUSTICE KENNEDY",
+    "In June of 2006, the City Council held a closed-door session in part to discuss Lowesman's open-meeting lawsuit."
+   ],
+   [
+    58.1,
+    "JUSTICE KENNEDY",
+    "According to Lowesman, the transcript of that meeting shows the City Council members devised a plan to intimidate him based on his prior speech and for the lawsuit that he filed."
+   ],
+   [
+    69.56,
+    "JUSTICE KENNEDY",
+    "Five months later, the City Council held a public meeting."
+   ],
+   [
+    73.12,
+    "JUSTICE KENNEDY",
+    "Lowesman stepped up to the podium during the public comment portion of the meeting."
+   ],
+   [
+    77.1,
+    "JUSTICE KENNEDY",
+    "He began to discuss the recent arrests of an official from another jurisdiction."
+   ],
+   [
+    82.78,
+    "JUSTICE KENNEDY",
+    "A Council member interrupted Lowesman and directed him to stop making those remarks."
+   ],
+   [
+    87.9,
+    "JUSTICE KENNEDY",
+    "When Lowesman refused, the Council member told the police officer in attendance to carry him out of the room."
+   ],
+   [
+    95.14,
+    "JUSTICE KENNEDY",
+    "The officer handcuffed Lowesman and escorted him from the meeting."
+   ],
+   [
+    99.02,
+    "JUSTICE KENNEDY",
+    "Lowesman later filed this lawsuit against the City under 42 USC 1983."
+   ],
+   [
+    104.2,
+    "JUSTICE KENNEDY",
+    "He alleged a number of incidents that, under his theory, showed the City's purpose to harass him in different ways, including the arrest at the City Council meeting."
+   ],
+   [
+    114.6,
+    "JUSTICE KENNEDY",
+    "Lowesman claimed that the arrest was to retaliate against him for his protected speech."
+   ],
+   [
+    119.96,
+    "JUSTICE KENNEDY",
+    "The jury returned a verdict for the City on all of the claims."
+   ],
+   [
+    124.74,
+    "JUSTICE KENNEDY",
+    "Now, this case involves only Lowesman's retaliatory arrest claim."
+   ],
+   [
+    129.08,
+    "JUSTICE KENNEDY",
+    "On appeal, the Court of Appeals for the Eleventh Circuit determined that the jury necessarily found that the arrest was supported by probable cause, and it held that the presence of probable cause defeated Lowesman's First Amendment retaliatory arrest claim."
+   ],
+   [
+    145.62,
+    "JUSTICE KENNEDY",
+    "The existence of probable cause to arrest on the part of the arresting officer has been conceded by Lowesman in this case."
+   ],
+   [
+    154.38,
+    "JUSTICE KENNEDY",
+    "And so the issue the parties deemed central to the case is whether the probable cause for an arrest bars a suit alleging that the arrest was to retaliate for speech protected by the First Amendment."
+   ],
+   [
+    168.36,
+    "JUSTICE KENNEDY",
+    "That issue has divided the courts of appeals."
+   ],
+   [
+    171.44,
+    "JUSTICE KENNEDY",
+    "But its resolution must await a different case."
+   ],
+   [
+    175.16,
+    "JUSTICE KENNEDY",
+    "That is because Lowesman's claim is far afield from the typical retaliatory arrest claim."
+   ],
+   [
+    182.3,
+    "JUSTICE KENNEDY",
+    "Here, Lowesman does not sue the officer who made the arrest."
+   ],
+   [
+    186.14,
+    "JUSTICE KENNEDY",
+    "Instead, Lowesman alleges that the City itself retaliated against him pursuant to an official municipal policy."
+   ],
+   [
+    193.56,
+    "JUSTICE KENNEDY",
+    "In particular, Lowesman alleges that the City, through the Council members, the legislators, formed a premeditated plan to intimidate him based on his protected speech, and then executed that plan through the same high officers by ordering his arrest at the City Council meeting."
+   ],
+   [
+    212.56,
+    "JUSTICE KENNEDY",
+    "The fact that Lowesman must prove the existence and enforcement of an official municipal policy motivated by retaliation separates Lowesman's claim from the typical retaliatory arrest claim."
+   ],
+   [
+    224.54,
+    "JUSTICE KENNEDY",
+    "An official retaliatory policy is a particularly troubling and potent form of retaliation, for a policy can be long-term, pervasive, and difficult to dislodge."
+   ],
+   [
+    236.36,
+    "JUSTICE KENNEDY",
+    "This is not to say that Lowesman is ultimately entitled to relief or even a new trial."
+   ],
+   [
+    241.76,
+    "JUSTICE KENNEDY",
+    "On remand of the court of appeals, applying the relevant precedents, may wish to consider any arguments in support of the district court judgment that have been preserved by the City."
+   ],
+   [
+    250.84,
+    "JUSTICE KENNEDY",
+    "Among other matters, the court of appeals may wish to consider, one, whether a reasonable juror could find that the City actually formed a retaliatory policy to intimidate Lowesman during the June 2006 closed-door session."
+   ],
+   [
+    267.16,
+    "JUSTICE KENNEDY",
+    "Two, whether any reasonable juror could find that Lowesman's arrest constituted an official act by the City."
+   ],
+   [
+    273.4,
+    "JUSTICE KENNEDY",
+    "Three, whether the City has proved that it would have arrested Lowesman regardless of any retaliatory animus, for instance, if Lowesman's conduct during prior City Council meetings had also violated valid rules as to proper subject of discussion, thus explaining his arrest here."
+   ],
+   [
+    290.88,
+    "JUSTICE KENNEDY",
+    "For these and other reasons set out in the opinion, the judgment of the court of appeals is vacated, and the case is remanded for further proceedings consistent with this opinion, Justice Thomas has filed a dissenting opinion."
+   ]
+  ],
+  "lines": [
+   [
+    "CHIEF JUSTICE ROBERTS",
+    0.0,
+    6.68,
+    17
+   ],
+   [
+    "JUSTICE KENNEDY",
+    7.82,
+    301.66,
+    738
+   ]
+  ],
+  "checks": {
+   "order_bad": 0,
+   "long_bad": []
+  },
+  "show_full": false,
+  "mention_terms": [],
+  "mentions": null
+ },
+ "case": "17-21",
+ "year": "2017",
+ "page_url": "https://www.supremecourt.gov/oral_arguments/audio/2017/17-21",
+ "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/17-21.mp3",
+ "pdf_url": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2017/17-21_ljgm.pdf",
+ "model": "medium.en",
+ "duration": 3584.088,
+ "asr_elapsed_s": 290.5,
+ "asr_words": 1667,
+ "official_words": 1705,
+ "matched": 1609,
+ "shared": 0,
+ "clamped": 0,
+ "trimmed": 5,
+ "rewindowed": 1,
+ "match_rate": 94.36950146627566,
+ "turns": 34,
+ "laugh_markers": 2,
+ "mp3_bytes": 28672941,
+ "pauses": 61,
+ "checks": {
+  "time_order": {
+   "ok": true,
+   "detail": "0 words start before the previous word; 0 words end before they start"
+  },
+  "max_duration": {
+   "ok": false,
+   "detail": "1 words longer than 3 s outside laugh positions",
+   "examples": [
+    [
+     "Councilperson",
+     1754.55,
+     1758.039
+    ]
+   ],
+   "numbers": []
+  },
+  "short_words": 57,
+  "match_rate": {
+   "ok": true,
+   "detail": "94.37% (threshold 85%)"
+  }
+ },
+ "generated": "2026-11-27"
+}
